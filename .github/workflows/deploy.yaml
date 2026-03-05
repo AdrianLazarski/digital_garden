@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Engine
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Clear and Create Content Folder
         run: |
@@ -19,14 +19,14 @@ jobs:
           mkdir -p content
 
       - name: Fetch Notes
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: AdrianLazarski/quartz
           path: content
           token: ${{ secrets.GH_TOKEN }}
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 20
 
@@ -36,7 +36,7 @@ jobs:
           npx quartz build
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: public
