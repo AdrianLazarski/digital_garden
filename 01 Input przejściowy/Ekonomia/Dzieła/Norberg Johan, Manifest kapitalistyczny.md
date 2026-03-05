@@ -1,0 +1,140 @@
+##### Wstęp
+- Na 11 stronie przytacza głośne przykłady ludzi i organizacji, którzy zmienili swoje nastawienie do kapitalizmu i handlu.
+- Margaret Thatcher znienawidzono za zamknięcie 115 deficytowych, niszczących środowisko kopalni węgla. Tymczasem jej dwaj poprzednicy na stanowisku premiera James Callaghan i Harold Wilson z Partii Pracy zamknęli łącznie aż 257 kopalni. s.17
+- "To partie socjalistyczne rozpoczęły procesy "odsocjalistyczniania" gospodarek Indii, Australii i Nowej Zelandii. To partie protekcjonistyczne otwierały gospodarki Brazylii i Meksyku. W Chinach, Wietnamie i Chile natomiast wolności gospodarcze wprowadzali dyktatorzy". Oni wiedzieli, że socjalizm jest po prostu niewykonalny. s. 17
+- W ciągu ostatnich 20 lat 138 tysięcy osób dziennie wydobywało się ze skrajnej biedy.
+
+##### Rozdział 1
+- W 1999 roku Bank Światowy stwierdził, że "globalny poziom ubóstwa wzrósł, a perspektywy na wzrost gospodarczy dla krajów rozwijających się zanikły". Jednocześnie ten sam bank zebrał dane z lat 90., w których skrajne ubóstwo w skali globalnej spadło z 38 do 29%. Do 2015 roku spadło do 10%, a do 2022 roku do 8,4%. s. 23-24
+	- I nie był to wzrost tylko Chin. Jeśli usuniemy dane dotyczące Chin, to do 2019 roku globalne ubóstwo spadło do 10%.
+- Poziom skrajnego ubóstwa w Azji Wschodniej, Południowej, Ameryce Łacińskiej i na Bliskim Wschodzie jest obecnie realnie niższy niż w Europie Zachodniej w 1960 roku, czyli w okresie, który wspominany jest jak czas powojennego boomu. Nie poprawiło się jedynie w Afryce Subsaharyjskiej. s. 25
+- "W latach 1990-2020 odsetek dzieci umierających przed osiągnięciem wieku pięciu lat spadł z 9,3 procent do 3,7 procent, choć populacja jest znacząco większa. A to z kolei oznacza, że w porównaniu z początkiem lat 90. XX wieku każdego roku umiera o niemal 7,5 miliona dzieci mniej. W tym samym okresie śmiertelność okołoporodowa matek spadła o ponad 55 procent". To między innymi skutek tanienia technologii i wzrostu siły nabywczej. s. 25
+- W latach 1990-2019 średnia oczekiwana długość życia na świecie wzrosła z 64 lat do niemal 73 lat. Odsetek światowej populacji osiągającej wykształcenie podstawowe gwałtownie wzrósł, a odsetek analfabetów spadł prawie o połowę: z 25,7 procent do 13,5 procent, przy czym w grupie wiekowej 15-24 lat analfabetyzm wynosi obecnie tylko nieco powyżej 8 procent. W latach 2000-2020 odsetek pracujących dzieci w grupie wiekowej 5-17 lat spadł w skali globalnej z 16 procent do nieco poniżej 10 procent. Trzy dekady po 1990 roku przyniosły większą poprawę warunków życia ludzi niż trzy wcześniejsze tysiąclecia łącznie". s. 25
+- "[...] liczba osób egzystujących w skrajnym ubóstwie wzrosła w pierwszym roku pandemii o niemal 70 milionów. Według różnych szacunków w obszarach dochodów, skrajnego ubóstwa i zdrowia w wyniku pandemii świat cofnął się o 2-3 lata. Trudno wyobrazić sobie wyraźniejszy i bardziej tragiczny dowód na to, że postęp jest pochodną otwartości społeczeństw i gospodarek niż katastrofa związana z globalnym lockdownem". s. 26
+- Współczynnik skrajnego ubóstwa w Wielkiej Brytanii między 1820 a 1850 rokiem spadł o połowę. s. 27
+- Japonia po rewolucji Meiji z 1868 roku otworzyła swoją gospodarkę, po czym w ciągu pół wieku poziom ubóstwa spadł z 80 do 20%. s. 27
+- "W połowie lat 50. XX wieku Tajwan był tylko nieznacznie zamożniejszy od Chin. W 1980 roku był od nich czterokrotnie bogatszy." s. 28
+- "W 1955 roku Korea Północna była bogatsza niż Korea Południowa – po podziale kraju to na północy znalazły się zasoby mineralne oraz elektrownie. Obecnie Korea Południowa jest dwudziestokrotnie zamożniejsza od Północnej". s. 28
+- Gdy finansowany z kredytów boom w Indiach załamał się w 1991 roku, kraj dzieliły trzy tygodnie od bankructwa, a połowa populacji tkwiła w skrajnym ubóstwie. Przeprowadzono wolnorynkowe reformy, dzięki czemu dochód jest tam obecnie trzykrotnie wyższy, a skrajne ubóstwo dotyka już tylko 1/5 wcześniejszych ubogich!. s. 30
+- W 1950 r. PKB w ZSRR, Polsce, Czechosłowacji, czy na Węgrzech był o mniej więcej 1/4 wyższy, niż w biednych krajach Zachodnich, takich jak Hiszpania, Portugalia i Grecja. W 1989 to już Blok Wschodni był zacofany względem nich. s. 30
+- Przed II wojną światową Wschodnie Niemcy były bogatsze od Zachodnich. Gdy upadł mur berliński, PKB NRD nie sięgał nawet połowy PKB RFN. s. 31
+- "Analiza 26 krajów postkomunistycznych pokazała, że wzrost wolności gospodarczej o 10 procent korelował przeciętnie o 2,7 procent większym tempem wzrostu gospodarczego liczonego rok do roku". s. 31
+- Estonia, Łotwa i Litwa, które najbardziej poprawiły swoje instytucje polityczne i gospodarcze, od odzyskania niepodległości zwiększyły swój średni dochód ponad trzykrotnie.
+- Gruzja od rewolucji róż z 2003 roku zwiększyła dochód na mieszkańca prawie trzykrotnie. Wskaźnik ubóstwa spadł o prawie 2/3. s. 31
+- Ameryka Południowa jest biedna przez brak reformy rolnej. Właściciele ziemscy zwiększali produkcję, odbierając ziemie rdzennej ludności i wykorzystując dostępność taniej siły roboczej, więc nie było bodźców w zwiększanie produktywności. Jednocześnie dyskryminacja, odgórne regulacje działalności i brak edukacji powstrzymały rozwój przedsiębiorczości w innych sektorach. Lewicowi "intelektualiści" w latach 50. i 60. wymyślili więc teorię zależności, zgodnie z którą jedynym lekarstwem byłaby "substytucja importu", czyli jego ograniczenie za pomocą wysokich ceł oraz wspieranie krajowej industrializacji dotacjami i regulacjami. Oczywiście to nasiliło problemy, bo chronione przedsiębiorstwa mogły się teraz bogacić kosztem konsumentów i drobnych przedsiębiorców. Nierówności rosły co raz bardziej. s. 32-34
+	- "Argentyńska ciężarówka, która w większości składała się z elementów rozmontowywanych na granicy, a następnie montowanych w kraju, kosztowała niemal półtora razy drożej niż jej odpowiednik na światowym rynku. Chilijski samochód kosztował trzykrotnie więcej. Zamiast się specjalizować i stosować ekonomię skali, przedsiębiorstwa niemal wszystkie produkty wytwarzały w małych seriach, przy bardzo wysokim koszcie jednostkowym." s. 32-33
+	- Kto chciał prosperować, musiał angażować się w politykę, więc szerzyła się korupcja.
+	- W 1982 r. Meksyk ogłosił bankructwo i cały region wpadł w kryzys gospodarczy.
+	- Prezydent Brazylii Fernando Henrique Cardoso, socjolog i jeden z pionierów teorii zależności musiał w latach 1995-2002 przeprowadzić liberalizację. Dawny protekcjonista przyznał, że nie da się walczyć z głodem bez międzynarodowego handlu. s. 33-34
+	- Po liberalizacji w krajach takich jak Brazylia, Chile i Peru różnice w dochodach zmniejszyły się o 10%, a skrajne ubóstwo spadło o 3/4. s. 34
+- W połowie lat 70. Chile było uboższe, niż przeciętny kraj Ameryki Łacińskiej. Dzięki reformom obecne PKB per capita jest dwukrotnie wyższe, niż wynosi średnia regionu.
+- Liberalizacja Peru sprawiła, że nawet brak stabilizacji politycznej i dziesięciokrotne zmienianie prezydenta w latach 90 nie przeszkodziło wzrostowi PKB o 150% i spadkowi ubóstwa o 85%.
+	- Znamienne jest hasło lewicowego populisty Pedra Castilla, który zwyciężył w wyborach w 2021 roku: "Nigdy więcej biednych ludzi w bogatym kraju". Trzy dekady wcześniej nikomu by nie przyszło do głowy nazywać Peru bogatym krajem, bo było na poziomie Kongo. s. 34
+- W latach 60. XX wieku większość krajów afrykańskich była bogatsza i wykazywała się szybszym rozwojem, niż kraje azjatyckie, przy czym cieszyła się błogosławieństwem bogactw naturalnych. W 1967 r. główny ekonomista Banku Światowego wymienił siedem gospodarek afrykańskich, które jego zdaniem powinny notować wzrost rok do roku w wysokości 7 procent. Trzydzieści lat później zauważono, że cała siódemka odnotowała ujemny wzrost. 
+	- Afryka cierpiała z powodu konfliktów, despotyzmu i niewolnictwa jeszcze przed wywozem czarnoskórych do Ameryki. "Jednak jak wykazał ekonomista z Ghany George Ayittey, w Afryce istnieje również silna tradycja prywatnej własności i uwolnionych cen. Większość kontynentu oplatała rozległa sieć handlowa, w ramach której kupcy, dobra i waluty przemieszczały się bez ograniczeń. 
+	  Europejscy kolonizatorzy osłabili te rynki na dwa sposoby: dzieląc kontynent, sztucznie odseparowali do siebie populacje oraz stworzyli w każdej kolonii scentralizowane struktury, w ramach których grabiono rolników i pracowników [...] Gdy po II wojnie światowej kraje afrykańskie odzyskiwały niezależność, doszło do kolejnej tragedii. Miejscowe elity przejęły struktury kolonialne, zamiast je rozmontować. I niezależnie od tego, czy nowi przywódcy nazywali siebie bohaterskimi wyzwolicielami, marksistami, nacjonalistami czy antykomunistami, wszyscy oni byli okupantami, którzy dalej plądrowali społeczności. Aby się wzbogacić, zagarnęli surowce naturalne i zmuszali wiejską ludność do produkowania żywności po cenach znacznie niższych od rynkowych. " s. 35-36
+	- Kraje Zachodnie wszystko pogorszyły, wysyłając pomoc finansową, co tylko bogaciło despotów i przedłużało ich ucisk. Jedyna droga do bogactwa jak została to z bronią w ręku.
+	- W latach 80 wiele krajów afrykańskich było biedniejszych, niż w momencie uzyskania niepodległości.
+- Średnia wzrostu gospodarczego na mieszkańca w Afryce, wynosząca w latach 1980-1999 0,2 procenta, podniosła się w latach 2000-2019 do 1,6 procenta. Te państwa, które otworzyły gospodarki na zewnętrzny świat, rozwijały się trzykrotnie szybciej od tych zamkniętych. 
+- W sumie PKB na mieszkańca w Afryce wzrósł o 35%. Wskaźnik skrajnego ubóstwa spadł z 60% do około 40%. Produkcja przemysłowa się podwoiła i zwiększył się udział ludności pracującej w przemyśle.
+- W latach 1960-2000 azjatyckie tygrysy i Chiny rozwijały się w tempie 6,4% rocznie. Od 1985 roku poziom skrajnego ubóstwa spadł tam z 42 do 15%. s. 38
+- Botswana jest wyjątkowa nie dlatego, że ma złoża diamentów, bo inne afrykańskie kraje też mają surowce. Jej przewaga polega na tym, że swoje złoża sprywatyzowała i po uniezależnieniu się od UK, stworzyła stabilne prawa, które przyciągnęły inwestorów. s. 38
+- Mauritus w latach 70 zaprzestał substytucji importu i stworzył strefy przetwórstwa eksportowego, w których przemysł tekstylny mógł się rozwijać bez ograniczeń plus gospodarka się dywersyfikowała, poszerzając sektor usług. W 2019 r. Bank Światowy zakwalifikował Mauritius jako kraj o wysokich dochodach.
+- Obecnie Mauritius i Botswana mają PKB zbliżone do bułgarskiego.
+- "Na przykład średnia oczekiwana długość życia w większości krajów wolnorynkowych jest dłuższa o niemal 15 lat. Jak zauważył Robert Lawson, jeden z naukowców, którzy stworzyli ów indeks [Economic Freedom of the World], to duża różnica. Jeśli żyjesz 80 lat, a nie 65, to masz szansę zobaczyć jak dorastają wnuki. Charakteryzując kapitalizm, zwykle myślimy o drogich zegarkach i szybkich samochodach, lecz pomijamy fakt, że umożliwia on nam poznanie własnych wnuków". s. 39
+- "Jeśli prywatyzuje się przedsiębiorstwa, nie stworzywszy uprzednio konkurencyjnych rynków, to właściwie w efekcie powstają nowe monopole prywatne. Rynki zaś, na których nie rządzi prawo, które nie chronią prywatnej własności, często z powrotem przekazują kontrolę państwo, oligarchom i kryminalistom." s. 41
+- W pewnym badaniu ze 141 krajów oddzielono 49, które w latach 1970-2015 zliberalizowały gospodarkę. W ciągu pierwszych pięciu lat wzrost liczony rdr. był w nich przeciętnie o 2,5% wyższy. Oznacza to, +
+	- Inne badanie z trochę węższą definicją "kraju reformowanego" pokazało że w pierwszych 2 latach nastąpiło spowolnienie gospodarki - co jest częstym efektem zmiany polityki podczas kryzysu - by po dekadzie być bogatszym o 6% od krajów niewolnorynkowych. 
+- Bogate kraje nie często nie miały interesu w tworzeniu narzędzi, które usprawniłyby np. ręczne wytwarzanie towarów, bo same już inwestowały w robotykę. Więc ubogie kraje, stawiające pierwsze kroki ku uprzemysłowieniu musiały sięgać po dużo starsze rozwiązania technologiczne. Gdyby miały dostęp do adekwatnej technologii, rozwijałyby się jeszcze szybciej.
+- W końcu "Zagraniczni inwestorzy i światowe firmy uznały dostawców z ubogich krajów za integralną część własnego biznesu, więc inwestowanie w ich produktywność zaczęło leżeć w ich interesie. To właśnie dlatego wiele krajów włączonych w globalne łańcuchy dostaw - w znacznym stopniu dzięki tak oczernianym fabrykom o niskich płacach i innym zakładam, wyzyskującym tanią silę roboczą - zdołało przeskoczyć kilka etapów rozwoju i rozwinąć się w rekordowym tempie. A gdy już zbudujesz fabryki, drogi i porty, aby wytarzać ubrania i zabawki, to możesz je również wykorzystać do produkcji oraz eksportu komponentów zaawansowanych technologicznie." s43
+- "Niespodziewanie upowszechnieniu się technologii towarzyszył rozwój ochrony własności intelektualnej. W wielu miejscach był to warunek wstępny: firmy nie byłyby zainteresowane tak szerokim udostępnianiem swoich rozwiązań w innych częściach świata, gdyby wszystkie one były natychmiast kopiowane przez fabryki leżące po drugiej stronie drogi". s.43
+- "Pomiędzy 2010 a 2020 rokiem średnic dochód Wenezueli spadł drastycznie, bo aż o 75 procent. Nagle najbogatszy kraj Ameryki Południowej stał się jej najbiedniejszym krajem". s. 45
+	- Za granicę zbiegło 7 milionów ludzi, czyli 25% populacji kraju! s. 46
+- Mandela demokratyzował i liberalizował. Za jego rządów i jego następcy Thabo Mbeki stłumiono inflację, zmniejszono dług zagraniczny o połowę, poziom skrajnego ubóstwa też o połowę, a stopa wzrosła osiągnęła 5%. s. 47
+	- Niestety w 2009 roku władzę zdobył Jacob Zuma, przywódca lewicowego skrzydła ANC, któremu się nie podobał "neoliberalizm". Rządził do 2018 roku, zwiększając kontrolę państwa nad gospodarką. Wzrost zaczął być ujemny, infrastruktura się rozpada, są ciągłe problemy z dostawami prądu, dług publiczny wzrósł dwukrotnie, zaczęło rosnąć skrajne ubóstwo.
+	- Oprócz tego wyssał ze swoją kliką do własnych kieszeni równowartość 20% PKB. s. 47
+- "Dyktatury często ukrywają kryzysy przez dłuższy czas, kłamiąc w temacie swoich ekonomicznych dokonań. Porównując deklarowany wzrost PKB z wielkością emisji światła nocą - silnie skorelowaną z tym wzrostem, lecz odporną na manipulację danymi - amerykański ekonomista Luid Martinez pokazał, że autokracje wyolbrzymiają poziom wzrostu rok do roku, podając liczby o około 35 procent wyższe od rzeczywistych wyników. " s. 48"
+- Populiści z Wenezueli, Nikaragui i Boliwii sprawili, że ich państwa stały się przeciętnie o 20% biedniejsze, niż porównywalne państwa. 
+- Z badania populistycznych rządów z 50 państw w latach 1900-2018 wynika, że 15 lat po przejęciu kontroli zarządzane przez nich rynki są średnio o ponad jedną dziesiątą mniejsze, niż inne, pierwotnie do nich porównywalne. s. 49
+
+##### Rozdział 2
+- Powiększenie sektora publicznego o 10 pp. powoduje obniżenie rocznej stopy wzrostu o 0,5-1 procent.
+- Wśród 25% krajów o najmniejszych swobodach najbiedniejsi otrzymują do podziału 2,7% dochodów, a w gronie 25% państw o największych swobodach średnio 2,9%. Przy czym ci drudzy dzielą większy tort. W efekcie mają dochody ponad osiem razy większe. 
+- Prywatne przedsiębiorstwa nie prowadziły dyskryminacji rasowej do końca XIX wieku.. Prawa Jima Crowa to odpowiedź stanów. Przedsiębiorstwa lobbowały przeciwko takim prawom, podważały je w sądach, opóźniały ich wprowadzanie lub go zupełnie odmawiały, na co stany odpowiadały aresztowaniami i grzywnami. s. 62
+- Od 1993 r. w ciągu dwóch dekad poziom ubóstwa dalitów spadał o 25% szybciej, niż w innych grupach. Równocześnie malała dyskryminacja. Zwyczaj oddzielania krzeseł dla różnych kast na weselach występował rzadziej o 80%. Odsestek niedalitów, którzy przyjęliby jedzenie i wodę w dalickim gospodarstwie domowym wzrósł z 3 do 60 procent. s. 63
+- Nawet Keynes przyznał, że inflacja to jedno z największych zagrożeń dla gospodarki. Przez nią więzi gospodarcze stają się "tak skrajnie chaotyczne, że prawie całkiem tracą znaczenie; proces zdobywania bogactwa zaś degeneruje się i zaczyna przypominać hazard lub loterię". s. 67
+- Marks nie potrafił sobie wyobrazić kapitalizmu, w którym kapitaliści też otrzymują pensje, a pracownicy dzięki funduszom emerytalnym inwestującymi w akcje albo po otrzymaniu pakietu udziałów stają się współwłaścicielami firm.
+- Reformy rolne, kruszące struktury feudalne, były ważnymi etapami wychodzenia z biedy. Masy często sprawowały faktyczną kontrolę nad swoimi skrawkami ziemi, ale nie miały do nich tytułów własności, które mogłyby przekazywać, przez co m.in.. nie mogły zaciągać kredytów, używając tej ziemi jako zabezpieczenia czy opłacało im się też na nich inwestować. 
+	- Na przełomie tysiącleci mieszkańcy krajów osiągających teraz niskie i średnie dochody nieformalnie posiadali grunty o wartości około 10 bilionów dolarów. 
+- Przeanalizowano 389 kryzysów ekonomicznych, które wystąpiły od 1993 r. W państwach o niskim poziomie wolności gospodarczej przeciętny spadek PKB w czasie kryzysu wynosi 12%, a w tych o wysokim poziomie 8%.
+- Nie minęły dwa miesiące od wybuchu covida, a liczba europejskich firm produkujących maseczki wzrosła z 12 do 500. W USA 95% przedsiębiorstw z branży tekstylnej po raz pierwszy w swej historii zajęło się produkcją odzieży ochronnej.
+
+##### Rozdział 3
+- Wszystkie uprzemysłowione kraje od pewnego poziomu się deindustrializują. Japonia i Niemcy zaczęły w latach 70. XX wieku, Singapur w 80., Korea Południowa w 90. Aktualnie robią to Chiny.
+- Odsetek chińczyków zatrudnionych w fabrykach był najwyższy w 2013 roku. Od tego czasu liczba miejsc w przemyśle wytwórczym spada o 5 milionów rocznie. 
+- Udział miejsc pracy w segmencie produkcyjnym wzrasta aktualnie tylko w Afryce Subsaharyjskiej.
+- Od 1980 r. produkcja przemysłowa wzrosła w USA dwukrotnie. Po prostu nie trzeba tylu pracowników, by ją podtrzymywać.
+- Między 2000, a 2010 rokiem ubyło 5,6 miliona amerykańskich miejsc w przemyśle. Jednocześnie produkcja wzrosła tak, że przy produktywności z 2000 roku potrzeba by było 3 miliony dodatkowych pracowników. s.80
+- Od 2010 r. liczba robotów przemysłowych w Chinach wzrosła z 50 tysięcy do 800 tys.
+- Wzrost zautomatyzowania fabryki o 1% zwiększa zatrudnienie w niej o 0,25% w ciągu dwóch lat i o 0,4% w ciągu dekady. Tyle, że nie jest to ta sama praca.
+- Co raz mniejsza część naszej konsumpcji jest związana z dobrami materialnymi, a coraz większa z usługami, takimi jak opieka, pielęgniarstwo, rozrywka, projektowanie, badania, rozwój i edukacja. 
+- Mit wysokich płac w fabrykach Detroit jest obciążony wieloma faktami współtowarzyszącymi. Ludzie byli wzywani do pracy tylko od czasu do czasu, więc ich dochód roczny wcale nie był jakiś imponujący. 10% wszystkich bezrobotnych w stanach mieszkała w Detroit. Na stałe zatrudnienie mogła liczyć tylko grupa osób przyjętych w 1953 roku i mit ich wysokich zarobków to pokłosie zrujnowania europejskiego przemysłu przez II wojną światową. Te wysokie zarobki to było 1,3 dolara - ekwiwalent dzisiejszych 14,5 dolara, czyli mniej niż na entry level job w Amazonie. str. 83
+- Odsetek Amerykanów żyjących na poziomie stawki minimalnej lub niższym spadł z 15% w 1980 do 1,5% w 2020 r.
+- 1/10 wszystkich amerykańskich dzieci z najbiedniejszego kwintylu, urodzonych w 1986 roku, osiągnęła przed ukończeniem 26. roku życia płacę, dzięki której zalicza się do najbogatszego kwintylu. Ta miara mobilności społecznej jest stała od 1971 r.
+- Od połowy lat 70. płace  Amerykanów rosną wolniej niż wcześniej, ale wcześniej rosły szybciej, niż produktywność - korzystani ze zniszczenia Europy.
+- W pasie rdzy (północno-wschodnie stany) zlikwidowano w latach 1950-1980 więcej stanowisk pracy, niż w ciągu kolejnych dekad, a więc jeszcze zanim USA odczuło skutki globalizacji.
+- Od 1990 r. przeciętne wynagrodzenie w USA wzrosło 34% po uwzględnieniu inflacji.
+	- Wynagrodzenia w 10% najgorzej płatnych zawodów wzrosły o 36%.
+	- Jeśli się weźmie pod uwagę opodatkowanie i odliczenie innych obciążeń, to 20% najuboższych gospodarstw domowych wzrosły w latach 1990-2016 o 66%, podczas gdy mediana dla wszystkich gospodarstw to 44%.
+- Te dane nawet nie uwzględniają pozapłacowych benefitów. Po ich uwzględnieniu, średnia stawka godzinowa wzrosła od 1980 r. o około 60%.
+- 72% mężczyzn wychowanych w domach klasy robotniczej cieszy się aktualnie wyższymi zarobkami, niż ich ojcowie w ich wieku.
+- W latach 1967-2018 w USA odsetek osób otrzymujących średnią pensję (35-100 tys. dolarów, skorygowane o inflację) spadł z 54 do 42%. Odsetek osób zarabiających poniżej 35 tys. spadł z 36 do 28%. Kogo przybyło? Osób zarabiających powyżej 100 rocznie z 10% do 30%. s. 88
+- 
+
+##### Rozdział 9
+- To, że w biednych krajach są wspólnoty o głębszych relacjach, niż w państwach zurbanizowanych, to gadają głównie ludzie w bogatych regionach, nigdy w biednych. 
+- W sondażu Gallup World Poll spytano ludzi z całego świata: "Czy masz krewnych lub przyjaciół, na których pomoc możesz liczyć zawsze, gdy jesteś w kłopotach?" W krajach afrykańskich 25% odpowiadało, że nie. W Ameryce Południowej i Azji 20%, w Japonii i na Tajwanie 10%, zaś w Europie, USA, Kanadzie, Australii i Nowej Zelandii poniżej 10%. 
+- Prowadzone od 1977 roku badania pokazują, że odsetek studentów twierdzących, że nie mają przyjaciół i czują się wykluczeni spadł. s. 232
+- Porównanie osób będących teraz w średnim i starszym wieku z poprzednimi pokoleniami na tym samym etapie życia w USA, Anglii, Szwecji, Finlandii i Niemczech pokazuje brak dowodów na wzrost poczucia samotności. s. 233
+- Nie pokazują tego też badania nad alienacją w UK, prowadzone od 75 lat. s. 233
+- Po prostu mówienie o poczuciu osamotnienia jest teraz mniej stygmatyzowane. s. 233
+- Na początku lat 80. co czwarty Szwed mówił, że brakuje mu bliskiego przyjaciela. Obecnie twierdzi tak 1/10.  s. 234
+- Z każdym punktem na dziesięciopunktowej skali wolności osobistej i gospodarczej, poczucie samotności spada średnio o 6%. Jednocześnie brak korelacji z równą dystrybucją dóbr i religijnością, które się uważa za "lek na pustkę liberalizmu". s. 234
+- Według Our World in Data odsetek populacji z zaburzeniami psychicznymi od 1990 roku pozostaje na praktycznie stałym poziomie. Zarejestrowano minimalny wzrost związany ze starzeniem się społeczeństwa. 
+- W skali globalnej wskaźnik samobójstw spadł w ciągu ostatnich 30 lat o 1/3. W Szwecji o połowę. 
+- Skąd to przekonanie o pogarszaniu kondycji psychicznej społeczeństw? Znów: mniejsza stygmatyzacja chorób psychicznych plus zapożyczanie terminologii, stworzonej na użytek opisu klinicznych problemów zdrowotnych do rozmów o powszechnie występujących formach żalu i zmartwień. Wraz z zanikiem wielu tradycyjnych źródeł cierpienia rośnie oczekiwanie, byśmy przez cały czas czuli się dobrze - a gdy czujemy się gorzej, nagle zaczynamy się posługiwać terminologią rodem z psychiatrii, mimo że stres i smutek stanowią też część dobrego życia.
+- W 152 krajach zmierzono, jak często występują następujące formy hojności: oddawanie krwi, organów, szpiku kostnego, datki na cele charytatywne, wolontariat, spontaniczna pomoc obcym i dobre traktowanie zwierząt. Są one najpowszechniejsze w krajach indywidualistycznych. Co ciekawe, po wprowadzeniu możliwości płatnego oddawania osocza w Kanadzie i USA, liczba osób oddających krew za darmo nie tylko nie zmalała, ale wzrosła.
+- Skłonność do indywidualizmu podważa kulturę plemienną, dzięki czemu stajemy się bardziej skorzy do pomagania również obcym.
+- Badanie: gracz otrzymuje hajs i musi przekazać jakąś część innemu, anonimowemu graczowi. Ten drugi przyjmuje ofertę albo odrzuca. W drugim przypadku nikt nie zgarnia nagrody. W bogatych krajach najczęściej proponowano równy podział, a jeśli ktoś zaproponował mniej niż 30%, to drugi gracz odmawiał przyjęcia pieniędzy. 
+	- Sposób postępowania nie ma nic wspólnego z płcią, wiekiem, edukacją i pochodzeniem etnicznym, natomiast największe znaczenie miało to, czy ludzie działają na rynkach. Im bardziej ludzie angażują się na co dzień w handel, tym są hojniejsi i częściej karzą skąpców. 
+	- Gracze z urynkowionych społeczeństw oferowali średnio dwa razy więcej, niż z nieurynkowionych. 
+- Powtórzono eksperyment i dodali jeszcze kilka gier ekonomicznych. Ciekawy jest wynik badań przeprowadzonych w 53 grupach Oromów w Etiopii. Okazało się, że nawet odległość targowiska ma znaczenie. Jak ktoś mieszkał mniej niż 30 minut drogi, to niemal zawsze współpracował. Jak ktoś mieszkał dalej, niż 5 godzin, nie współpracował niemal nigdy.
+- "Uczeni zebrali 511 opracowań wyników badań na temat współpracy pomiędzy obcymi ludźmi, przeprowadzonych w Stanach Zjednoczonych w latach 1956-2017. Co pokrzepiające, nie potwierdziły one tezy, że społeczna skłonność do współpracy się zmniejsza – stwierdzono nawet, że w ciągu 61 lat wzrosła o niemal 20 procent. Co ciekawe, z nastawieniem na współpracę pozytywnie skorelowane są nie tylko zamożność, lecz również urbanizacja oraz procent osób mieszkających w pojedynkę." s.241
+- Na próbie 130 tys. osób z 126 krajów odnotowano korelację 0,4 między satysfakcją z życia jednostek, a PKB kraju.
+- Na poziomie jednostkowym pieniądze nie są aż tak wiele warte - jeśli jakiegoś powodu twój poziom zmartwienia/niepokoju wzrośnie o 10%, musiałbyś zwiększyć zarobki o 20 tys. dolarów miesięcznie, by osiągnąć dawny poziom zadowolenia. Ma to jednak znaczenie w skali społeczeństwa.
+- Brytyjczycy uważają, że tylko 47% ich rodaków uważa się za szczęśliwym lub bardzo szczęśliwych, podczas gdy za szczęśliwych uważa się 92% społeczeństwa. Podobne wyniki w 32 krajach. Spekulowanie o dobrostanie innych ludzi w oderwaniu od danych to domena (pseudo)intelektualistów, którzy sami częściej niż inni cierpią na stany lękowe i neurotyzm.
+- Uwaga do różnych rankingów szczęścia, w których dominują Skandynawowie i twierdzi się, że to zasługa socjalu: Irlandia, Holandia i Australia ma o połowę niższe wydatki socjalne w stosunku do swojego PKB, niż Belgia, Włochy i Francja, lecz są zdecydowanie szczęśliwsze. 
+- Najsilniejsza korelacja pomiędzy wolnością gospodarczą, a subiektywnym poczuciem szczęścia występuje u osób o niskich dochodach. 
+- - Kraje z dużymi nierównościami majątkowymi niekoniecznie są mniej szczęśliwe. 
+	- Status społeczny dawniej był ściśle powiązany z hierarchią i zabieganie o niego było gra o sumie zerowej. Dziś stał się czymś bardziej wielowymiarowym, pluralistycznym i subiektywnym.
+- Paradoksalnie biednie społeczeństwa mają duży udział w konsumpcji produktów luksusowych. W bogatszych krajach konsumpcja częściej jest środkiem do wyrażania osobowości, więc ludzie nie pożądają najdroższych rzeczy, a tych, które trafią w ich gusta i budują ich tożsamość. 
+- W świecie zachodnim 20 do 50% pracowników wybierało mniej wymagające zajęcia z niższym wynagrodzeniem, zmniejszając wymiar pracy, odmawiając awansu, czy przeprowadzając się w spokojniejszą okolicę. 
+- "Jeśli nie odpowiada ci wyścig szczurów, możesz nie brać w nim udziału - pod warunkiem, że żyjesz w rozwijającej się gospodarce o wysokiej produktywności, bo wówczas konsekwencje dla twojego budżetu nie będą katastrofalne."
+- W ciągu ostatnich 150 lat średni czas pracy przeciętnego pracownika zmniejszył się o połowę. 
+
+
+
+
+
+
+
+
+
+odsetek amerykańskich pracowników zarabiających płacę minimalną lub mniej spadł z 15% w 1980 roku do 1,5% w 2020 roku. Od 1990 roku wynagrodzenia w 10% najgorzej płatnych zawodów wzrosły o 36%, zaś dochody 20% najbiedniejszych gospodarstw domowych o 66%, podczas gdy mediana wzrosła o 44% – oznacza to, że sytuacja najuboższych bardziej ulegała poprawie, niż zamożniejszych rodzin. Należy też wspomnieć, że rzadko w dyskusjach o rzekomej stagnacji podnoszenia wynagrodzeń uwzględnia się benefity pozapłacowe w postaci ubezpieczeń zdrowotnych, czy funduszy emerytalnych. Z nimi średnia stawka za godzinę pracy wzrosła w Stanach Zjednoczonych od 1980 roku o 60%.
+
+wzrost zautomatyzowania danej fabryki o 1% zwiększa zatrudnienie w niej o 0,25% w ciągu dwóch lat i o 0,4% w ciągu dziesięciu, przy czym nie jest to oczywiście ta sama praca.
+
+
+
+
+#ekonomia #liberalizm #ase 

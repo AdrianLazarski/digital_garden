@@ -1,0 +1,3 @@
+Zob. [[Kurtoza]]
+
+#matematyka #statystyka 

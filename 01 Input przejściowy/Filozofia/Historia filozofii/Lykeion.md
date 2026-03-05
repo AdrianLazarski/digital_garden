@@ -1,0 +1,23 @@
+
+- Założony przez [[Arystoteles|Arystotelesa]].
+- Na następcę wyznaczył Teofrasta z Eresos, który zarządzał szkołą przez 35 lat.
+	- *Badania nad roślinami*
+	- *O pochodzeniu roślin*
+	- *Charaktery* (przedstawia 35 typów ujemnych psychologicznie).
+	- *Poglądy filozofów przyrody*
+	- Świat jest odwieczny, rozum jest boski i nie należy do istoty człowieczeństwa, szczytem i pełnią życia bios theoretikos.
+- Eudemos z Rodos rozpoczął orientację spirytualistyczną w arystotelizmie. 
+	- Wydał etykę eudemejską.
+	- Był historykiem matematyki.
+- Arystoksenos z Tarentu, historyk i teoretyk muzyki
+- Dikajarchos z Messyny, podkreślał wyższość życia praktycznego nad teoretycznym.
+	- Ciało ludzkie to zespół czterech elementów, a dusza to harmonia ciała, której nie przysługuje samodzielne istnienie, ani nieśmiertelność.
+- Demetrios z Faleronu dał początek życiu umysłowemu w Aleksandrii
+- W III w. przed Chr. materialistyczny arystotelizm Teofrasta uległ wzmocnieniu, bo Straton z Lampsakos 18 lat rządził Likejonem.
+- Straton uzyskał przydomek "fizyk", bo interesowała go głównie przyroda i dążył do syntezy Arystotelesa z Demokrytem.
+	- Przyjmował istnienie próżni.
+	- Świat to nie dzieło Boże, ale twór natury działającej z konieczności.
+	- Sensualista. Nie wyróżniał działania intelektu i zmysłów. Odbieranie wrażeń i myślenie to pewnego rodzaju ruchy.
+	- Wywarł wpływ na rozwój medycyny, mechaniki i astronomii.
+- Arystarch z Samos, uczeń Stratona, twórca teorii heliocentrycznej, oskarżony o bezbożność. 
+- Pod 40 lat scholarchatu Lykona z Troady poziom podupadł i wzrósł dopiero w I w. przed Chr. za Andronikosa z Rodos.

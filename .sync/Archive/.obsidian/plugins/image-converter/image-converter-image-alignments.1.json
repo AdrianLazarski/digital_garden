@@ -1,0 +1,1582 @@
+{
+  "03 Atomy/Funkcja rosnąca.md": {
+    "aed639e220a1508446d32cd1d9fa4547": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Funkcja malejąca.md": {
+    "0b011cd635b5c8ed2c288204073d6b0a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Funkcja niemalejąca.md": {
+    "06e3d76a2ef9d2c959d8f2d28ccb3226": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Funkcja nierosnąca.md": {
+    "4dab4a5caec5eaded387ff903429a083": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Funkcja różnowartościowa.md": {
+    "f0ea55be824fc4befc05f37f87cadc6e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Złożenie funkcji.md": {
+    "6f025efd68b9a895ebec0a54b75baa4d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Funkcja odwrotna.md": {
+    "606578a9d9ab591421e9a42fd77059e8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "robocza.md": {
+    "cba906c90c510509b15fe7c0054a7fd3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Szereg liczbowy.md": {
+    "e745b1dc472b43b3adb9d98de54b7244": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "aaff8fda9eb77ea389f19cefd18306b8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a9de6520710a6958a2c6e9d3c35ef25f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fea861dee625287b1f86bba894386fb7": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "27f987e1d7c7e236b5b126bfe47f9734": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "43a37bf4d9c4d8a26845c62c11ea2b9c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1f7d32e8f4da13b165e99bbf876aebfc": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "82fbe89fc295a22a8b19a10dd19eaf54": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Pochodna funkcji.md": {
+    "221dca8bc33311067e4564845342542f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "66325aa1dd6447b5ffbc3b5389b77427": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "29faaf9efda50acc290490356889b1d5": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e38fbed22f7a757de3f5a4bdab538fba": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7d352733a64d67f53f9bcd637fe61773": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d2793984a532be33ef14373abfa4326d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ccfb4218f9b0024876dbea3e76044af0": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6582a9bcd067823b530c2324e58e0c20": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b0b7055a9f32ecd1f5bdbe319a9f8a20": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "3c07ce633add6d20c5801e42b6495411": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "03dba8f524f7be9b41a913ce41f66654": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "41e4a1e7b69ca6f91cccf1a15a5cd6da": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8ba40c517e72f038d37b8dae8e2bbb61": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d5c95e000d6a1dab34544b471929e764": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5983c22b6122d445dc006d0048683c1f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2afaf6ef71ca01920e4f90047ab441bb": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "becbe4dc3c73c53abe7085bfd2f94160": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "33e1d52adfdc3fd284ef917af2eac15b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "bac4e4aa2a6e10031475502cf4a31958": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c44022430c09afcce642127ad7d31c08": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b5e18404faec2bfd76ea2eb953daf2c8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "69f434b4e97aee34d2270828700e9dbf": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "35fe12db3bb03700e6d313e9c448046a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "762d31222554fbd1e61eed8dfe737047": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1de5a47ceaa5292282ed1d4ef20910a4": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d4936f9b99ed64df0d801764ce0a06b5": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ad103367f57f5615da87477c2891ec29": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f01b1f6e932112735aea6faaab8a8f7e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "575e2caac02c47b1dfaff0f039c028d1": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b81c8314ce3fc4314177321c9b9088e2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "257728582571ae6f51f6b12588fce703": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "95da80dcf8d14ccb1fa70eedfee0d6b3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a86c80989e8b25d11254c8218f10764a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5595cb04480f06e8c3426bd0a5191d1d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9d38ff417823220e54f6faf4800e91a1": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "decccb75f8e16f35b16be172f8012ddb": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fc730d004b6947b0ca965936f7061099": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "43140313c1284599b589f970f305591f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5fab94148a7fdceaeb70e08c45042d56": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e835443fd759a7cb8bfc8662a2af4c54": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7498d0a6d6d53ca8168f626f5babbc58": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "61a3c0b856d43ead087b37b4d90dca77": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "354cfd9d2b49b708cc686380f64edb1a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "43192a06bcb55d9946108ce371d3ea6e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "edb914963f4ef9c4e476f5a22c5b9d60": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2406fa25ad14d263974417939d0cd19a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d1a8926bd51436be0b8190fe80b759ea": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "200a77e5fe729116d2a230b86f686329": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "4a88e5f8b51dd97be2c08f3acd6a4e00": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a5ed4a8f8831d502c206bb21647ae1c5": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "781df6e55a6e699bd15ad551af151e2c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e9f8d1cbc5f07248fbcde0dcef9d7d05": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ff55b04802ec44488b8617af91c1f59b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "22a6d4eb67c82cb9d1d5602b955a67be": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "4e7b7455a1280cfbed08c7f062581532": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8137a28ac28080ee28e52b9606ce7608": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "092fd15af7c31e14566df5d5a4e9943c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9e9e12dc9cdeb0b5a4ca0ff705a2b323": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d1d434c2ec2db5678077934dadfc628e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7e15a2e7e7cd7f8beb0145de3b482cd8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Szereg funkcyjny.md": {
+    "180d1ab0eab5cb3d466502657e4d6a67": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "239af1fdb92be25e56e8637235e9f1c3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "33b43de9da6670d827eec50729128293": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "25a29ec576e7f699a322d295906ede72": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1ec37efa0f38c543ef411f60e3bc6e82": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fa3bd4569de1833e0bc81035a41601ba": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fd73c20f94b76f07da8a476b557f826c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2d4b61d0e90b56175d6b7af59dc0d74a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "25f30fce41512fe775cb0017d807957b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ca01fe7b9bc5c3af393cecefe9a8db09": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b2671d4ae412f31b5111a0317f96857f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9cffbf21a753c04620e476842cc90ca1": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f689ba873bd5b66f6a8327b92710f154": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "54ff18d33d9cf2fb06193e997ef4ff77": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2fe67e44f2b2ad01d0a8bb004eb49cf7": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "dd1a89afd4fe806f1c246a66184e57b2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ada62960845bd2dca81de32c2df55610": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ab51b5cc16c7a0dff7513b0bd19f31a9": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "cac87d98f84c93df0187466f8670aa6f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0d3e9ffdde755daabf4dec351f958d60": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "111112b7d706375d0ec6bd4ded50ab49": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6bc7bd87c81c4179810343bed739f426": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ab96a59bb3f194f13c40757d21097abd": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c985b150139fc7f06953ad79a7bae67e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "98e229add36c846ee4b518552631c63a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6a91fcd71973936895f169aec773be36": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7fa8194328601d0389d1b51f67c0064d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "11ad6beeb032f66c2681ed4b8ec97102": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8156bfbd492062397687b0a642864eb6": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0c437c434cdf634c668d024a8c9df094": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "de6293548bc1ece5f3330656da7176b6": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8792fabcd81f3f31d5e28dd2b687c173": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1b0c2d21f9a6d824d9898947ce56d3f8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5ba4065dee7e9fd01e027c57d1fb6436": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7fd51cbad0ed94d8096712a2b555f8fe": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "87aa3ea9605c36f70f2a9b881dae56da": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2cebfbd4e902aec0adb58183263a0dd2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "563d37269d30f7fe023acd5981764d44": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a1d84ac56bd989ef67da385e05dbe124": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d1d600ba87e9b6e6a49ca2523c1cbd21": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1c57025cd40d072741e6f38abb4b6b9e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1c33fa35a26b15f54d5a3ec64be69a42": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "38c737710c0f0c2b8143ab51aa524dc6": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1f9c1330afc57ff3c4a10725b03b150e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "cc2093663dc5cff120698676bb260a3e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c3954f156df6292fea72231b81e068d8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1de72248548c6bfe93d341dad37ff787": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c03428d01c06a739e42e7152f79d3b52": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1824214f45cd579f5fbd15183f9ba4eb": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "85595bbea803a1d324e522d02e3c4581": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "cbb104e7f69176bd4aa5da25bef9a586": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "762bd68fd069409349a717c044f3d296": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8a0d371c392ca053709be53ba8a36f3a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b1e89c4ace3c0e5036936c89b922c099": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8df2560a603fe3f75f20cd5cb62197c9": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5ec181400e557c2e96c8c02523e43427": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "286b4cdc3ef290d8a003d1fa683484fc": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "918e56c24ba41476dd586ef82bb4898d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "96d797102a4072f74c3a26e691e3cd57": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d92d85b2a36321df6f9e2c587f8925b8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "abe5863ee7c0d05b66721c32970f5a47": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ecf74d8ffdf9808e1ffe4adfe627d22d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5897845499241c0a0b7f74bb8626063d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "3be1f6519cc32f05f6f002790e1cc1ba": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b8ee300314d0f61226710fe63fb3689f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "544d38415d9ed064b35561e51c4b4d86": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6a4ff8d0623f7e161f78dde05bad3338": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "3a8978265da04593833e85594d75643a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8c35f43a57c2a6807174bc4992de89f1": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "4481ce3bcddb10f8f3998943082e55cf": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c45e94980cb5e58249e776a82adec4c3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e6e57402e5dd9468e8913482413789b6": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c3dbf3e7d1e8d8709728298a1e52007f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b851453297f80089f72bd85b50089e2b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8eda52ebdb80776840fe3479ab69d3c7": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "26dc018072273733c27d4c45feb2ad95": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8b83fd587f050f22ca6b4361f4e2cc25": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "3886d3630fe7148739367541f7cd4295": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "228ac51d31f6b68b2dd70fb9e376e54c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "820a1048d7c3f8e08ce9c191216bc130": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "96844b3977bbd6a8a59a53531089a442": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "3ac199fe8f9b9736fac24864908942ff": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "df35763594a0254a3f997287656fbc2d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ac2e8597fd6ef9afdf61270d4eba2c01": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1a59b5b0711b1d279c08325c00a37417": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7d9c0cca7db05942c147c0f8102f5f1a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "37891296f43b51befce2413f7a7d09ee": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d6e5197356e18928d5e6c9e8767c7595": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Elektronikawykład.md": {
+    "ffc6f0199e57ea7d03b324c40c588ead": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "dc6204a1e1c59539a13fbe7088960810": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ca5a5ca6111c917904ce9a0d714a6d6f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "682f0e988a7da336867941f905993f7b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "dd597b7edca60de386d634f2ab09f104": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "68dd3bf34cb1fade02f02298e43a0d05": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "3a0340b99cd2b523f779ec361cb80cd1": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e6acf86b2a6e8668cfae16c5353b7d92": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a3408b52696993da58a3ae01d3226461": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1b58e34b4cdb0a52adffbc80fcdb5aad": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "3ffc35a1e507bbf15ca3926b311eb604": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d066ca5f64adf9906ac5f5bab19a1255": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b96d1a410b7b832e954a615a7ebf192e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f77bc2a6d05880c2ffa552a5a0b11742": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7b9af4becc33783f407612b80cde81f0": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fb680735dad5e967f73afbc28d380695": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "4bbe8898887a8f92cb39d55eb0dc9cd3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f1414efb6d42418c514415c876d64b67": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ce3f50d0f5e9f44d56339e4ee7a5ce7d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "bd2ce5ab6e92e377a1863c096bcbe7d7": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1cc0ff2d41428d8c7ef97885187a6439": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "157738d85476244d2d9c79d8c362a715": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "3148fc876a59974e11f5cf60de7d96b8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "72e41957376e1c4341735702b45e1228": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e7c38b6e6cd1bad67e1fa15ddbd655e0": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "592915732c4f061af20a48724a28014c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fe1615d0c3d519d054c103f164e7da64": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fca8dec87d4e1d9fc6ce5ea61913990d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "cf0410af0536f88f3a5c2e1d9677297a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5c06bfd89d16f540238c9a203a636823": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ed3045a54f935c9896a46f3505774d22": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f70d8fb61dd0f31886d81d8826b04f8f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "35c444f1dcca04fd703c93796633190f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e280a3b0d29bd4fdb9897e1282ff3dca": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "21a661a9803f201301c0d15ae2a7f099": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5a0efb6cc0f472ec3924501b747f6de3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "07acca2ce932af0822b20537c27cfb99": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ccc3090e522e1445470cfe5fbaf4e5e9": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Granica niewłaściwa -nieskończonego ciągu.md": {
+    "b82f584ff4b9ba0972567c8896153222": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Granica niewłaściwa +nieskończonego ciągu.md": {
+    "ca624371fbc3a89e5a6b26e29a950886": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "02 MOC/MOC SQL składnia.md": {
+    "a5d430c309780fe9abaa1189d4ffda4d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "55382bee96d8a4cdf1813f7812971fc1": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "06 Language lab/Atomy angielski/Present Continious vs Present Perfect Continios.md": {
+    "8ad5691e50e3f4f4ce40c464acc91ac9": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "06 Language lab/Atomy angielski/Present Perfect vs Past Simple.md": {
+    "15823bbbce96959a8b0de96323fe546b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0421df74e6960dbe4b59108772df0f5b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "06 Language lab/Atomy angielski/Present Perfect vs Past Perfect.md": {
+    "eb3e737c0ab6d145746e4b3e7ae13887": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "06 Language lab/Atomy angielski/Past Simple vs Past Perfect.md": {
+    "93539d4fc26345872a4d9c93fe190e3a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Macierz.md": {
+    "88355207d572948d1c80d9981f842977": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Macierz zerowa.md": {
+    "295ef5eff968f55d932829258b62fc76": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Macierz kwadratowa.md": {
+    "f5fa2055aeb579030dd5859cbb42db36": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Macierz trójkątna.md": {
+    "ae213ae27384af45881fe60a3d723c44": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d0bdb96393154c5c9da1d404ffbdef33": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Macierz diagonalna.md": {
+    "d1f3ee47c99c586a43aa37db2311b2d5": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Macierz jednostkowa.md": {
+    "b57a6e6434035eb063ccfb93441b37e3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Dodawanie macierzy.md": {
+    "745bd634ff8cb2d060c279d837976ac8": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Mnożenie macierzy przez skalar.md": {
+    "590a1e73b948833506c1f2b2ae2faa2c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Iloczyn macierzy.md": {
+    "171077557860cfcd3455748c2f4c548e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Transpozycja macierzy.md": {
+    "c93469c9863e160a2f3ddd1a18f63eea": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Reguły obliczania wyznaczników macierzy.md": {
+    "5eee272dd372fc2c4fac3c372ea184e5": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "3d77f517328a17bd6840cc66795cc60c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1adbd3aacd941d23af3b5318d4441924": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c5e98629d7b55a2cd0c0a8fdc306df62": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b7382f13b26ff1ec2ada5f5c0946c9a4": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "caf55b5eb0fc9ea8ab42af9f80fe37b3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "acd5378b2e76d7a92eedd210d623c420": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md": {
+    "91f9f84d32af8473e216c2178cafbb61": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Algorytm Gaussa do obliczania wyznaczników macierzy.md": {
+    "1ec56119589d2765e1e283c01af74188": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Interpretacja macierzy jako operatorów liniowych.md": {
+    "f4ded0f28e4368e7f9b6c1d9ede7aea1": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f8f7513a9d53a640594d7312ad0a4ede": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "dc53abd18bbe7d0e5d25a6f6d8ea6592": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6b67be1681fbb85ff778d1707e8928c3": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/System binarny.md": {
+    "916807c36d6fe0850842c759c816479b": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e4a957cc9e1c2a4bf63ef1f02128bc55": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e789bc5c39084eae6641ec647a38ce06": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "657908499ffe4aaeea9dcdfb25ffa394": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "29f5a068e4e9fa4168d8b25de6659618": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a8d698e82ee3d7903d8768ad57600f10": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "4da5d601653102d1c5aad70bbf346edb": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1b838feba45e5e2d9454e1d3fed86e8e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8ee106980b27bd0bd36a411fe8df4af6": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "4ab46e8cab2790a93c4aa57f0c009e21": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "70e1512f48111c38e31efc5ff860c14a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6cdbcc86297d41e025171ace34d289aa": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b6d208e1b0f3949f0059cc4e7d9eac8e": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "55b83b17af63c912eea4fc048808d0ff": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f2488075233f0365a53c1354c8e93dae": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8319222c7bde6172a7ee2cae5c05e028": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b1b20e82a9fec1e2fc11688e17ff2a18": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  }
+}

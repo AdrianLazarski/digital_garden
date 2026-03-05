@@ -1,0 +1,7 @@
+Słaby początek, potem dobry kryminał, a potem słaby kryminał z pozbawionymi znaczenia wątkami (np. Horne ojcem Donny, romans Audrey). Zakończenie beznadziejne, stąd zrozumiała próba rehabilitacji, zarówno ze względu na główny wątek i p????? (porażkę?) głównego bohatera, jak i np. wątek Eda i Nadii. 
+
+Przez chwilę nawet byłem skłonny myśleć, że Bob nie istnieje i że mamy do czynienia z lekko zmitologizowaną opowieścią o złu, które mogło nawiedzić nawet Lelanda Palmera, kochającego ojca, ale potem okazało się, że wątki fantastyczne zostały tam wepchnięte na poważnie. 
+
+"Hehe wyśmiewa telenowele". No niezły chłopiec do bicia: może wyśmiej też przedszkolaka, że ogląda bajki?
+
+I tajemniczość jako wartość sama w sobie – typowe dla ludzi rezygnujących z intelektualnego wyjaśniania otaczającego ich świata i do przebywania w chaosie. Upiększ chaos dobrą muzyką i charyzmatycznymi postaciami, a mentalny niewolnik będzie zachwycony. Będzie mógł się uciec do swojej, stosowanej zamiast intelektu, intuicji emocjonalnej i "pozgadywać" znaczenie scen, nie werbalizując żadnego konkretnego wyjaśnienia. Przecież ten poziom operacji wskazuje na niebywałą głębie i refleksyjność widza! Ten styl jest skierowany do przygłupawego narcyza.

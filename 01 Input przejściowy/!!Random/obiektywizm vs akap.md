@@ -1,0 +1,6 @@
+1. Przecież agresja w rothbardiańskim libertarianizmie nie wymaga intencji. 2. Samoposiadanie nie zakłada, że podmiot posiadający i posiadane ciało, czy umysł są rozdzielne. To jest po prostu relacja zwrotna. Jeśli mogę snuć rozważania o swoim umyśle albo o swoim ciele, to znaczy, że podmiot myślący jest odrębny? Nie. Czy zwrotność relacji myślenia o sobie uniemożliwia mi myślenie o czymś zewnętrznym np. o napotkanej kaczce? Nie. Zatem nie ma problemu z tym, że własnością raz jest coś zewnętrznego, a raz moje ciało, czy mój umysł. 3. "Znaj swoje miejsce w szeregu" Konfucjanizmu nie oznacza, że to nie jest etyka. To oznacza, że nie jest to etyka, mogąca rościć sobie bycie uniwersalistyczną. 
+   
+   Ale zarzut racjonalizmu myślę, że adekwatny. Ten z braku stabilności prawnej też. Nawet zakładając, że bodźce rynkowe będą motywować PAO do pokojowego dogadywania się i współpracy, to jednak nadal poruszają się w pewnej sferze dowolności i arbitralności.
+
+https://www.youtube.com/watch?v=_xSKJoNnKcY
+49 minuta

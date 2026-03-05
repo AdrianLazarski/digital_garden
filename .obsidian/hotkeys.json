@@ -1,0 +1,170 @@
+{
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "obsidian-kanban:open-board-settings": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ],
+  "smart-connections:sc-find-notes": [],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "obsidian-mind-map:app:markmap-preview": [
+    {
+      "modifiers": [],
+      "key": "F8"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
+  ],
+  "obsidian-plugin-toc:create-toc": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "app:open-help": [],
+  "obsidian-mkdocs-publisher:publisher-upload-new": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F12"
+    }
+  ],
+  "templater-obsidian:ZZZ template/rightarrow.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "templater-obsidian:ZZZ template/Definicja - szablon.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "templater-obsidian:ZZZ template/Cytat - szablon.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "templater-obsidian:ZZZ template/leftarrow.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "templater-obsidian:ZZZ template/Wzór - szablon.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "templater-obsidian:ZZZ template/leftarrow - szablon.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "templater-obsidian:ZZZ template/rightarrow - szablon.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:save-file": [],
+  "obsidian-linter:lint-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:ZZZ template/uwaga - szablon.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "U"
+    }
+  ]
+}

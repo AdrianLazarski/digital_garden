@@ -1,0 +1,4 @@
+
+Ruch cząstek.
+
+#fizyka 

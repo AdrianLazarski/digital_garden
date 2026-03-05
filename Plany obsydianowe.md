@@ -1,0 +1,54 @@
+- [ ] Figurki!
+- [ ] Religia
+	- [ ] Księgi biblijne
+	- [ ] Postacie biblijne
+	- [ ] Historia chrześcijaństwa
+	- [ ] Historia teologii
+- [ ] Ekonomia
+	- [ ] Moje notatki
+	- [ ] ASE
+	- [ ] Mikro
+	- [ ] Makro
+- [ ] Filozofia
+	- [ ] Filozofowie
+	- [ ] Działy
+	- [ ] Zagadnienia
+	- [ ] Dzieła
+		- [ ] Recenzje
+		- [ ] Reszta książek i tekstów
+	- [ ] Historia filozofii
+- [ ] Nauki formalne
+	- [ ] Logika
+		- [ ] Podstawy (KRZ-KRP)
+		- [ ] Metalogika
+		- [ ] Logiki nieklasyczne
+			- [ ] Logiki modalne
+			- [ ] Logiki 
+	- [ ] Matematyka
+		- [ ] Analiza matematyczna
+		- [ ] Statystyka
+		- [ ] Prawdopodobieństwo
+		- [ ] Algebra liniowa
+		- [ ] Trygonometria
+		- [ ] Geometria
+- [ ] Historia
+	- [ ] Historia nauki
+		- [ ] Historia przyrodoznawstwa
+		- [ ] Historia humanistyki
+		- [ ] Historia matematyki
+		- [ ] Historia logiki
+	- [ ] Historia Polski
+		- [ ] Najnowsza
+	- [ ] Historia Izraela
+	- [ ] Historia Niemiec
+	- [ ] Historia Francji
+	- [ ] Historia Anglii
+	- [ ] Historia USA
+- [ ] Myśl wschodu
+	- [ ] Indie
+	- [ ] Chiny
+	- [ ] Japonia
+- [ ] Nauki społeczne
+	- [ ] Socjologia
+	- [ ] Psychologia
+	- [ ] Politologia

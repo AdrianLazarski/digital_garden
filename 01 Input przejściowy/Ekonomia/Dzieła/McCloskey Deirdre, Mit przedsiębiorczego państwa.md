@@ -1,0 +1,33 @@
+
+
+- W przedmowie do polskiego wydania Przedsiębiorczego państwa zachwyty nad etatyzmem formułuje Morawiecki.
+- To, że państwo z racji samej swojej wielkości znalazło się na którymś etapie łańcucha dostaw przy powstawaniu jakiejś innowacji, nie oznacza, że jego obecność była tam konieczna.
+- Książka jest rozprawą z etatystycznym myśleniem, ale również z cynicznym zjawiskiem podawania się za "intelektualnych buntowników" ekonomistów, głoszących de facto najpopularniejsze, głównonurtowe poglądy. Dziwnym trafem większość profesorów ekonomii jest zwolennikami keynesizmu (w 2007 r. tylko 2,7% amerykańskich ekonomistów było wolnorynkowych), ten zaś cieszy się dużą popularnością wśród polityków, bo uzasadnia daleko posunięte interwencje państwa w gospodarkę i uwalnia od ciężaru odpowiedzialnego podejścia do finansów publicznych. Nie dziwi więc jak często dochodzi do symbiozy środowisk ekonomicznych z politycznymi i produkcji na zamówienie propagandy, przybierającej szaty naukowości i odwzajemniania się za tę propagandę stanowiskami w różnych instytucjach kontrolowanych przez rząd (Mazzucato została w 2020 r. doradcą premiera; była również członkiem rady Enelu, przedsiębiorstwa energetycznego w rękach włoskiego rządu). Autorzy zauważają, że jeśli chodzi o kupczenie ideami, Mazzacuto zachowuje się jak najprawdziwszy przedsiębiorca i reaguje na popyt.
+- Przed Keynesem wydatki publiczne wynosiły 10% PKB. W XX wieku po Keynesie, odsetek ten urósł do 50%.
+- Leki w Kanadzie się nawet do 90% tańsze, niż w USA.
+- Etatyści zakładają bardzo czarną wizję ludzkiej natury, zdolności poznawczych i samodzielności. Autorzy wskazują, że Wielkie Wzbogacanie od XIX wieku nastąpiło oddolnie i realne dochody wielu państw wzrosły od 10 do nawet 100 razy. Odróżniają Wielkie Wzbogacenie od rewolucji przemysłowej.
+- 2% wzrostu rocznie to może niedużo, ale w ciągu wieku to sześciokrotne powiększenie gospodarki.
+- Wojny rabunkowe i akumulacja kapitału istniały zawsze i nie doprowadziły do takiego bogactwa. To innowacje i zmiana systemu wartości Europy, doceniająca przedsiębiorców, spowodowały Wielkie Wzbogacenie.
+- Każdego roku w USA znika około 1/7 miejsc pracy. Każdego roku powstaje 400 tys. firm i pięciu lat dożywa tylko połowa z nich.
+- Historyk sztuki John Ruskin: renesansowa architektura była ponuro jednolita i mało pomysłowa, podczas gdy wcześniejszy gotyk był bardzo oryginalny, bo poszczególne budynki budowali ludzie na przestrzeni 100, czy nawet 300 lat, rozwiązując w innowacyjny sposób poszczególne problemy.
+- To nie technologia, a środowisko społeczne przesądza to tym, czy technologia zostanie zaakceptowana.
+- W USA pojawia się rocznie około 20 tys. nowych produktów spożywczych. Większość z nich znika z rynku, co pokazuje jak olbrzymi wpływ mają konsumenci na rynek.
+- Strata operacyjna Amtraku (kolej amerykańska) na pasażeromilę, jest wyższa, niż całkowity koszt linii lotniczych w przeliczeniu na pasażera.
+- Krytykują "model liniowy": rządowe pieniądze -> nauka -> technologia -> bogactwo, jako myślenie magiczne.
+- W pomocy zagranicznej przez dziesięciolecia funkcjonował "fundamentalizm kapitałowy". Przekazanie pieniędzy biednym rządom nie oznacza, że przekażą je ludziom, którzy będą potrafili zrobić z nim coś pożytecznego. Na rynku  kapitał jest alokowany przez banki, szukające zysku, więc ostrożnie oceniają, czy osoby zgłaszające się po pieniądze produktywnie je wykorzystają. Z kolei same banki też są oceniane przez rynek i nieostrożne banki bankrutują.
+- Autorzy twierdzą, że państwo nie stworzyło internetu i że nie miało nawet takiego zamiaru. Realne osiągnięcie DARPA w postaci komutacji pakietów i prekursorów współczesnych e-maili są tylko częścią całego ekosystemu, składającego się na internet. Przekonanie, że były one najważniejszymi elementami, jest bezzasadne. Tymczasem w latach 60 Departament Obrony USA wprost dał do zrozumienia, że nie jest zainteresowany zdecentralizowaną siecią komunikacją, różniącą się od tradycyjnego telefonu, bo zaprzestał prowadzenia badań w tym kierunku.
+	- Nawet jeden z czołowych "współtwórców Internetu" Bob Kahn, stwierdził, że DARPA nie sfinansowałaby sieci komputerowej w celu powstania sieci elektronicznej, ponieważ już telefon umożliwiał doskonałą komunikację między ludźmi.
+- Historia internetu sięga radia i telewizji i prywatnych osiągnięć technologii bezprzewodowej, które w swoim czasie nawet były przez państwo tłumione, jak np. radio FM przez Federal Communications Commission.
+- Gdyby dalekowzroczność funkcjonariuszy państwowych była tak prosta i oczywista, to wzbogaciliby się prywatnie, a nie siedzieli na etacie w budżetówce.
+- Przedsiębiorców kara za błędną alokację kapitału spotyka prawie od razu. Polityków prawie nigdy i jeśli już, to po czasochłonnych zebraniach, głosowaniach, radach etc.
+- Tzw. interesariusze (np. sąsiad krzyczący "nie w mojej okolicy") wcale nie uwzględniają lepiej perspektywy długoterminowej od menedżerów odpowiadających przed rynkiem akcji. Ta perspektywa jest odzwierciedlona w wartości firmy.
+- "Etatystyczna wiara jest jak myślenie, że twój laptop z 2021 roku został zaprojektowany w 1981 roku przez techników IBM tworzących pierwszy komputer stacjonarny. Wnioskuje ona o kierunku i racjonalności, a zatem też o skuteczności centralnego planowania ex ante ze złożonego wyniku ewolucyjnego ocenianego ex post. Jest to podobne do wnioskowania o istnieniu Stwórcy na podstawie złożoności oka".
+- Steve Wozniak, jeden z najważniejszych wynalazców naszych czasów, przyznał, że nawet najlepsi innowatorzy nie potrafią spojrzeć dalej, niż dwa lata w przyszłość.
+- Krytykują podejście Mazzucato, że jeśli ktoś przekuje swój doktorat, podczas którego pobierał stypendium przyznawane dwóm tysiącom osób rocznie, w sukces komercyjny, to znaczy, że za tym sukcesem stało państwo i go ukierunkowało.
+- Etatyści mylą warunki wystarczające z koniecznymi. Stąd traktowanie wszelkiej działalności ekonomicznej, jako prostej funkcji produkcji i przekonanie, że jeśli coś powstało w jeden sposób, to nie mogło powstać w żaden inny. W etatystycznej ekonomii nie ma działającego człowieka.
+- Również JEŚLI państwo było warunkiem koniecznym powstania czegoś, to nie było warunkiem wystarczającym.
+- Mazzucato podważa główne odkrycie współczesnej ekonomii, jakim jest subiektywistyczna teoria wartości. To tak jakby fizyk wrócił do teorii eteru, a chemik do teorii flogistonu.
+
+
+
+#ekonomia #liberalizm #ase 

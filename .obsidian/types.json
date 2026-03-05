@@ -1,0 +1,17 @@
+{
+  "types": {
+    "tags": "tags",
+    "creation date": "datetime",
+    "Reżyser": "text",
+    "updated": "datetime",
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "created": "date",
+    "modified date": "datetime",
+    "stat": "multitext",
+    "status": "number",
+    "status epistemiczny": "number",
+    "dojrzalosc": "text",
+    "status_epistemiczny": "text"
+  }
+}

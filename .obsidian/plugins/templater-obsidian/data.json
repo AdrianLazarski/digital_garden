@@ -1,0 +1,43 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "ZZZ template",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": false,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "ZZZ template/leftarrow - szablon.md",
+    "ZZZ template/rightarrow - szablon.md",
+    "ZZZ template/Cytat - szablon.md",
+    "ZZZ template/Definicja - szablon.md",
+    "ZZZ template/Wzór - szablon.md",
+    "ZZZ template/uwaga - szablon.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

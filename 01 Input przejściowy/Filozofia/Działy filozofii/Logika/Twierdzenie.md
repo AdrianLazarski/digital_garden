@@ -1,0 +1,4 @@
+
+Inaczej [[Teza]].
+
+#logika #filozofia 

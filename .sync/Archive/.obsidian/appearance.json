@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "image-grid",
+    "white-bulletspoints",
+    "white-numbers-bullets",
+    "big-math",
+    "image-align"
+  ],
+  "baseFontSize": 16
+}

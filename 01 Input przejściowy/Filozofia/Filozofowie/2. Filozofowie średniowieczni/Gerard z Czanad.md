@@ -1,0 +1,36 @@
+
+**Spis treści**
+
+1. [Biografia 📁](#Biografia%20%F0%9F%93%81)
+2. [Dzieła 📖](#Dzie%C5%82a%20%F0%9F%93%96)
+3. [Poglądy 🔍](#Pogl%C4%85dy%20%F0%9F%94%8D)
+4. [Wpływy ⛓️](#Wp%C5%82ywy%20%E2%9B%93%EF%B8%8F)
+5. [Bibliografia 🔗](#Bibliografia%20%F0%9F%94%97)
+6. [Polecane 👇](#Polecane%20%F0%9F%91%87)
+
+# Biografia 📁
+
+- Ur. w 1046 r.
+- Wenecjanin. Został biskupem Czanad.
+
+# Dzieła 📖
+
+- *Deliberatio supra hymnum trium puerorum* (dyskusja z dialektyką)
+- *Philosophia ancilla theologiae est* (filozofia jest służebnicą teologii)
+
+# Poglądy 🔍
+
+[[Spór pomiędzy dialektykami i antydialektykami|Antydialektyk]]
+
+# Wpływy ⛓️
+
+
+# Bibliografia 🔗
+
+
+# Polecane 👇
+
+
+
+
+###### Tagi: #filozofia #filozof #filozofia/średniowieczna

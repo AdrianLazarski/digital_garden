@@ -1,0 +1,6 @@
+
+Skoro prezydent wyznacza szefa, senat wybiera board, a wszelki zysk jest wpłacany do US Treasury, to znaczy, że jest państwowy.
+
+Szef NBP też nie musi pobudzać wzrostu PKB - I NIE MOŻE - a nikt nie twierdzi, że NBP jest prywatny. Otóż BP był przed wojną prywatny i nikogo to nie dziwiło. To, że go komuchy znacjonalizowały, zmieniło tę formę prawną, ale co z tego? Bank Anglii też został znacjonalizowany po II WŚ. FED tego losu uniknął, ale jest to tylko pozór dotyczący formy prawnej, bez żadnego znaczenia dla funkcjonowania. Banki centralne mają swój statut, swój mandat, i się go trzymają. FED ma zdecydowanie zły mandat, czyli dual mandate - musi zajmować się dwiema rzeczami na raz: starać się o stabilność cen i jednocześnie o wzrost gospodarczy przy "pełnym zatrudnieniu", co oczywiście jest ze sobą sprzeczne. W Polsce NBP na przykład nie ma wyznaczonych w ten sposób funkcji, więc może pilnować niskiej inflacji, i żadne leppery nie zmuszą NBP do pobudzania wzrostu tanim pieniądzem.
+
+#ekonomia 

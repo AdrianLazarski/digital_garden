@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.tags.contains("it/elektronika")
+    sort: []
+  - type: list
+    name: Pokaż
+    filters:
+      and:
+        - file.tags.contains("it/elektronika")
+    order:
+      - file.name
+    sort:
+      - property: file.tags
+        direction: ASC

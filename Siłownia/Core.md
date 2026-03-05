@@ -1,0 +1,5 @@
+
+
+## Ćwiczenia:
+[[Body saw]]
+[[Plank]]
