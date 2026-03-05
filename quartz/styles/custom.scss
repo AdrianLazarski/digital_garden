@@ -1,3 +1,31 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+:root {
+  // Paleta "Scholar" - stonowane błękity i czysta biel/czerń
+  --light: #ffffff;
+  --dark: #161617;
+  --secondary: #24539a; // Kolor linków i akcentów
+  --tertiary: #4d7cbf;
+  --highlight: rgba(143, 159, 169, 0.15);
+  
+  // Fonty - Szeryfowy dla treści (czytelność), Bezszeryfowy dla UI
+  --bodyFont: "Charter", "Source Serif 4", Georgia, serif;
+  --headerFont: "Inter", "Helvetica Neue", Arial, sans-serif;
+  --codeFont: "JetBrains Mono", "Fira Code", monospace;
+}
+
+[dots-theme="dark"] {
+  --light: #161617;
+  --dark: #f2f2f2;
+  --secondary: #7fb4ca;
+  --tertiary: #56949f;
+}
+
+// Poprawka dla grafu - niech zajmuje więcej miejsca
+.graph-side {
+  height: 350px;
+  border: 1px solid var(--highlight);
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}

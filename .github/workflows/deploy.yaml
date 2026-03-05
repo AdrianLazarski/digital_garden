@@ -1,0 +1,28 @@
+name: Deploy Quartz
+on:
+  push:
+    branches:
+      - v4
+  repository_dispatch:
+    types: [notes_updated] # To pozwoli automatycznie odświeżyć stronę, gdy dodasz notatkę
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch Notes
+        uses: actions/checkout@v4
+        with:
+          repository: AdrianLazarski/quartz
+          path: content
+          token: ${{ secrets.GH_TOKEN }} # Twój Token (PAT) dodany w ustawieniach repo na WWW
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - run: npx quartz build
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: public
