@@ -248,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -394,13 +394,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Programowanie stanowe.md",
+                "file": "03 Atomy/Programowanie typu funkcyjnego.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Programowanie stanowe"
+              "title": "Konspekt Programowanie typu funkcyjnego"
             }
           },
           {
@@ -468,11 +468,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a22d8c2e0c2c63e",
+  "active": "f9f1d292b977bdcb",
   "lastOpenFiles": [
-    "Programowanie typu opisowego.md",
-    "03 Atomy/Programowanie stanowe.md",
     "03 Atomy/Programowanie typu imperatywnego.md",
+    "03 Atomy/Programowanie stanowe.md",
+    "Diagram drabinkowy (LD).webp",
+    "Diagram sekwencyjny SFC - Tranzycje.webp",
+    "Programowanie stanowe.webp",
+    "Programowanie typu opisowego.md",
     "Programowanie typu logicznego.md",
     "03 Atomy/Programowanie typu funkcyjnego.md",
     "03 Atomy/Typy metodyk programowania.md",
@@ -511,9 +514,6 @@
     "03 Atomy/załączniki/System binarny-15.webp",
     "03 Atomy/załączniki/System binarny-14.webp",
     "03 Atomy/załączniki/System binarny-13.webp",
-    "03 Atomy/załączniki/System binarny-12.webp",
-    "03 Atomy/załączniki/System binarny-11.webp",
-    "03 Atomy/załączniki/System binarny-10.webp",
-    "03 Atomy/załączniki/System binarny-9.webp"
+    "03 Atomy/załączniki/System binarny-12.webp"
   ]
 }
