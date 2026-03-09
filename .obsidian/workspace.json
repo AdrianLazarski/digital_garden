@@ -174,9 +174,57 @@
               "icon": "lucide-file",
               "title": "Typy metodyk programowania"
             }
+          },
+          {
+            "id": "f9f1d292b977bdcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programowanie typu funkcyjnego.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Programowanie typu funkcyjnego"
+            }
+          },
+          {
+            "id": "2b53d548d6d4d315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programowanie typu imperatywnego.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Programowanie typu imperatywnego"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -322,13 +370,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC IT/MOC Metodyka programowania.md",
+                "file": "Programowanie typu imperatywnego.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Metodyka programowania"
+              "title": "Konspekt Programowanie typu imperatywnego"
             }
           },
           {
@@ -396,13 +444,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32c8b3228d53dabf",
+  "active": "2b53d548d6d4d315",
   "lastOpenFiles": [
-    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
-    "02 MOC/MOC IT/MOC Metodyka programowania.md",
-    "Nadtypy paradygmatów.md",
-    "03 Atomy/Metodyka programowania.md",
     "03 Atomy/Typy metodyk programowania.md",
+    "Programowanie typu funkcyjnego.md",
+    "Programowanie typu imperatywnego.md",
+    "Programowanie typu funkcyjnego.md.edtz",
+    "Programowanie typu imperatywnego.md.edtz",
+    "Nadtypy paradygmatów.md",
+    "02 MOC/MOC IT/MOC Metodyka programowania.md",
+    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
+    "03 Atomy/Metodyka programowania.md",
     "03 Atomy/Typy metodyk programowania.md.edtz",
     "Nadtypy paradygmatów.md.edtz",
     "03 Atomy/Historia programowania obiektowego.md",
@@ -427,12 +479,8 @@
     "06 Language lab/English grammar.md",
     "index.md",
     "O stronie.md",
-    "O stronie.md.edtz",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Arystoteles.md",
-    "index.md.edtz",
     "06 Language lab/Atomy angielski/Past Simple.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Singer Peter, Hegel.md",
-    "06 Language lab/Atomy angielski/Strona bierna.md",
     "03 Atomy/załączniki/System binarny-18.webp",
     "03 Atomy/załączniki/System binarny-17.webp",
     "03 Atomy/załączniki/System binarny-16.webp",
