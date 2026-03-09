@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Metodyka programowania"
             }
+          },
+          {
+            "id": "ad1b5d1309f3c72b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nadtypy paradygmatów.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nadtypy paradygmatów"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -274,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Metodyka programowania.md",
+                "file": "Nadtypy paradygmatów.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Metodyka programowania"
+              "title": "Konspekt Nadtypy paradygmatów"
             }
           },
           {
@@ -348,10 +372,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b304027bada2e3a",
+  "active": "ad1b5d1309f3c72b",
   "lastOpenFiles": [
-    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
+    "Nadtypy paradygmatów.md.edtz",
+    "Nadtypy paradygmatów.md",
     "03 Atomy/Metodyka programowania.md",
+    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
     "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "03 Atomy/Historia programowania obiektowego.md",
     "03 Atomy/Programowanie obiektowe.md",
@@ -383,7 +409,6 @@
     "06 Language lab/Atomy angielski/Strona bierna.md",
     "06 Language lab/Atomy angielski/Modals.md",
     "06 Language lab/Atomy angielski/Modals.md.edtz",
-    "00 Daily log/27-02-2026.md",
     "03 Atomy/załączniki/System binarny-18.webp",
     "03 Atomy/załączniki/System binarny-17.webp",
     "03 Atomy/załączniki/System binarny-16.webp",

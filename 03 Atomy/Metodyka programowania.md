@@ -20,7 +20,7 @@ Potocznie określana jako [[paradygmat programowania]].
 
 
 Najczęściej metodyki dzieli się na:
-- Nadtyp paradygmatu
+- [[Nadtypy paradygmatów]]
 - Typ paradygmatu
 - Rodzaj paradygmatu
 
