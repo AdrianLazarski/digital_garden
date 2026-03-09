@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "2b304027bada2e3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Metodyka programowania.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Metodyka programowania"
-            }
-          },
-          {
             "id": "32c8b3228d53dabf",
             "type": "leaf",
             "state": {
@@ -128,12 +104,12 @@
             }
           },
           {
-            "id": "d2da9e3722734d48",
+            "id": "2b304027bada2e3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Historia programowania obiektowego.md",
+                "file": "03 Atomy/Metodyka programowania.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Historia programowania obiektowego"
+              "title": "Metodyka programowania"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -298,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Historia programowania obiektowego.md",
+                "file": "03 Atomy/Metodyka programowania.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Historia programowania obiektowego"
+              "title": "Konspekt Metodyka programowania"
             }
           },
           {
@@ -372,13 +348,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2da9e3722734d48",
+  "active": "2b304027bada2e3a",
   "lastOpenFiles": [
-    "03 Atomy/Historia programowania obiektowego.md.edtz",
     "03 Atomy/Historia programowania obiektowego.md",
-    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
-    "03 Atomy/Programowanie obiektowe.md",
     "03 Atomy/Metodyka programowania.md",
+    "03 Atomy/Programowanie obiektowe.md",
+    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
+    "03 Atomy/Historia programowania obiektowego.md.edtz",
     "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "03 Atomy/Kompilator.md",
     "Skróty klawiszowe.md",
@@ -418,7 +394,6 @@
     "03 Atomy/załączniki/System binarny-11.webp",
     "03 Atomy/załączniki/System binarny-10.webp",
     "03 Atomy/załączniki/System binarny-9.webp",
-    "00 Daily log/27-02-2026.md.edtz",
-    "03 Atomy/System binarny.md.edtz"
+    "00 Daily log/27-02-2026.md.edtz"
   ]
 }
