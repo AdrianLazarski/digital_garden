@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "d1c52c897074942d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Programowanie obiektowe.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Programowanie obiektowe"
-            }
-          },
-          {
             "id": "32c8b3228d53dabf",
             "type": "leaf",
             "state": {
@@ -229,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Programowanie strukturalne.md",
+                "file": "03 Atomy/Bez nazwy 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,11 +220,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programowanie strukturalne"
+              "title": "Bez nazwy 1"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -394,13 +370,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Programowanie strukturalne.md",
+                "file": "03 Atomy/Bez nazwy 1.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Programowanie strukturalne"
+              "title": "Konspekt Bez nazwy 1"
             }
           },
           {
@@ -470,8 +446,11 @@
   },
   "active": "3a22d8c2e0c2c63e",
   "lastOpenFiles": [
-    "03 Atomy/Programowanie funkcyjne.md",
     "03 Atomy/Programowanie strukturalne.md",
+    "03 Atomy/Bez nazwy 1.md",
+    "02 MOC/MOC IT/MOC Metodyka programowania.md",
+    "03 Atomy/Programowanie obiektowe.md",
+    "03 Atomy/Programowanie funkcyjne.md",
     "03 Atomy/Programowanie typu imperatywnego.md",
     "03 Atomy/Programowanie proceduralne.md",
     "03 Atomy/Programowanie typu opisowego.md",
@@ -485,7 +464,6 @@
     "03 Atomy/załączniki/Programowanie stanowe.webp",
     "03 Atomy/Typy metodyk programowania.md",
     "03 Atomy/Programowanie typu logicznego.md.edtz",
-    "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "03 Atomy/Metodyka programowania.md",
     "03 Atomy/Programowanie typu opisowego.md.edtz",
     "03 Atomy/Programowanie stanowe.md.edtz",
@@ -498,7 +476,6 @@
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
     "03 Atomy/Typy metodyk programowania.md.edtz",
     "03 Atomy/Historia programowania obiektowego.md",
-    "03 Atomy/Programowanie obiektowe.md",
     "03 Atomy/Kompilator.md",
     "Skróty klawiszowe.md",
     "03 Atomy/Język programowania.md",
