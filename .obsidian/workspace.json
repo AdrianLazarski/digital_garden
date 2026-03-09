@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O stronie.md",
+                "file": "03 Atomy/Programowanie generyczne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "O stronie"
+              "title": "Programowanie generyczne"
             }
           }
         ],
@@ -370,13 +370,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O stronie.md",
+                "file": "03 Atomy/Programowanie generyczne.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt O stronie"
+              "title": "Konspekt Programowanie generyczne"
             }
           },
           {
@@ -446,6 +446,7 @@
   },
   "active": "3a22d8c2e0c2c63e",
   "lastOpenFiles": [
+    "O stronie.md",
     "03 Atomy/Programowanie generyczne.md",
     "03 Atomy/Programowanie typu imperatywnego.md",
     "03 Atomy/Programowanie liniowe.md",

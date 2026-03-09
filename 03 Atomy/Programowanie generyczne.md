@@ -24,9 +24,14 @@ Znane także jako programowanie uogólnione.
 
 ## Wady i zalety
 
+### Zalety
 
+- Skrócenie kodu dzięki możliwości definiowania konstrukcji programistycznych niezależnych od typów zmiennych.
+- Tworzony kod jest w wysokim stopniu uniwersalny i pozwala na wielokrotnie wykorzystywanie jego fragmentów.
 
+### Wady
 
+- 
 
 
 $\leftarrow$ [[MOC Metodyka programowania]]
