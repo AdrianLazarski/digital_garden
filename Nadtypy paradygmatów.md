@@ -4,6 +4,7 @@ tags:
   - atom
   - definicja
   - it/programowanie
+  - it/architektura
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-03-09 14:33

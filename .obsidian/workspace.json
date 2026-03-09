@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -322,13 +322,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Typy metodyk programowania.md",
+                "file": "02 MOC/MOC IT/MOC Metodyka programowania.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Typy metodyk programowania"
+              "title": "Konspekt MOC Metodyka programowania"
             }
           },
           {
@@ -396,15 +396,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53116b2433cf6dbc",
+  "active": "32c8b3228d53dabf",
   "lastOpenFiles": [
+    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
+    "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "Nadtypy paradygmatów.md",
+    "03 Atomy/Metodyka programowania.md",
     "03 Atomy/Typy metodyk programowania.md",
     "03 Atomy/Typy metodyk programowania.md.edtz",
-    "02 MOC/MOC IT/MOC Metodyka programowania.md",
-    "03 Atomy/Metodyka programowania.md",
     "Nadtypy paradygmatów.md.edtz",
-    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
     "03 Atomy/Historia programowania obiektowego.md",
     "03 Atomy/Programowanie obiektowe.md",
     "03 Atomy/Historia programowania obiektowego.md.edtz",

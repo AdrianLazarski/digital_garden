@@ -11,10 +11,16 @@ $\leftarrow$ [[Metodyka programowania]]
 
 
 ###### Nadtypy
-
+Programowanie stacjonarne
+Programowanie rozproszone
+Programowanie równoległe
+	Programowanie współbieżne
 
 ###### Typy
-
+Programowanie typu logicznego
+Programowanie typu funkcyjnego
+Programowanie typu imperatywnego
+Programowanie typu opisowego.
 
 ###### Rodzaje
 $\rightarrow$ [[Programowanie obiektowe]]

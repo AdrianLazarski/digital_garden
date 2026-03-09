@@ -115691,8 +115691,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1773063231528,
-      "modifiedDate": 1773064016327,
-      "sizeInBytes": 994,
+      "modifiedDate": 1773064204595,
+      "sizeInBytes": 1242,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -115706,20 +115706,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 131,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 999,
+      "nonWhitespaceCharacterCount": 853,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 0.49433962264150944,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773064120197,
-      "modifiedDate": 1773064126701,
-      "sizeInBytes": 0,
+      "modifiedDate": 1773064482133,
+      "sizeInBytes": 1230,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -115727,6 +115727,17 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-03-09 14:48",
+        "tags": [
+          "atom",
+          "definicja",
+          "it/programowanie"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Prawdopodobny 🧪",
+        "modified date": "2026-03-09 14:48"
       }
     },
     "03 Atomy/Typy metodyk programowania.md.edtz": {
@@ -115745,8 +115756,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1773064126850,
-      "modifiedDate": 1773064126876,
-      "sizeInBytes": 112,
+      "modifiedDate": 1773064458863,
+      "sizeInBytes": 1133,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
