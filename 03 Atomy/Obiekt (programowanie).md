@@ -1,11 +1,12 @@
 ---
 created: 2025-12-10 13:34
 tags:
-  - it/podstawy
   - atom
   - definicja
-  - język_programowania/oop
-modified date: 2025-12-10 13:35
+  - it/programowanie/obiektowe
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-03-09 13:11
 ---
 > [!note] Definicja
 > Byt, który ma własności, zachowanie i tożsamość, nadane mu przez klasę, której jest instancją.
@@ -18,4 +19,4 @@ modified date: 2025-12-10 13:35
 
 
 
-$\leftarrow$ [[Klasa (programowanie obiektowe)]]
+$\leftarrow$ [[Klasa (programowanie)]]

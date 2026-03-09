@@ -9,7 +9,7 @@ modified date: 2025-11-23 14:29
 > C# należy do rodziny [[MOC Języki programowania|języków programowania]] opartych na C.
 
 - Obiektowy język programowania.
-- Słowa funkcja i [[Metoda (programowanie)|metoda]] są tu używane wymiennie. Metody są raczej w [[Klasa (programowanie obiektowe)|klasach]], ale tu wszystko jest w klasach.
+- Słowa funkcja i [[Metoda (programowanie)|metoda]] są tu używane wymiennie. Metody są raczej w [[Klasa (programowanie)|klasach]], ale tu wszystko jest w klasach.
 
 
 $\rightarrow$ [[Typy danych w C Sharp]]

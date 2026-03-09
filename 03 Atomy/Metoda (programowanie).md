@@ -26,7 +26,7 @@ modified date: 2025-12-10 13:43
 4. **Abstrakcja** – umożliwiają ukrycie szczegółów implementacyjnych, prezentując tylko interfejs (nazwę metody i jej argumenty).
 
 
-$\leftarrow$ [[Klasa (programowanie obiektowe)]]
+$\leftarrow$ [[Klasa (programowanie)]]
 
 $\rightarrow$ [[Instrukcja (programowanie)]]
 $\rightarrow$ [[Metoda statyczna]]

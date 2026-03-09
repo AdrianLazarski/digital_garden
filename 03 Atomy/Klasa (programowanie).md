@@ -3,8 +3,7 @@ created: 2025-12-10 13:28
 tags:
   - atom
   - definicja
-  - język_programowania/oop
-  - it
+  - it/programowanie/obiektowe
 modified date: 2025-12-10 13:29
 ---
 > [!note] Definicja
@@ -13,3 +12,4 @@ modified date: 2025-12-10 13:29
 [[Obiekt (programowanie)]] stworzony na podstawie danej klasy jej jej instancją.
 
 
+$\leftarrow$ [[MOC Programowanie obiektowe]]
