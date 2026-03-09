@@ -25,5 +25,8 @@ Główne cechy programowania funkcyjnego:
 > [!warning] Uwaga!
 > Programowanie typu funkcyjnego jest często mylone z metodyką programowania funkcyjnego. 
 
+
+
+###### Linki
 $\leftarrow$ [[Typy metodyk programowania]]
 

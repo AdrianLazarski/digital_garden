@@ -32,7 +32,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "created:\ntags: [atom, definicja]\ndojrzalosc:\nstatus_epistemiczny:"
+      "text-to-insert": "created:\ntags: [atom, definicja]\ndojrzalosc: Sadzonka 🌱\nstatus_epistemiczny: Spekulatywny ❓"
     },
     "move-tags-to-yaml": {
       "enabled": false,

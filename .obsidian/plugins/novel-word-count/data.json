@@ -115209,60 +115209,6 @@
         "newlineCount": 0
       }
     },
-    "Komputer.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773057090790,
-      "modifiedDate": 1773057099108,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Komputer.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1773057099330,
-      "modifiedDate": 1773057099331,
-      "sizeInBytes": 112,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "03 Atomy/Klasa (programowanie).md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -115637,71 +115583,6 @@
         "newlineCount": 0
       }
     },
-    "Nadtypy paradygmatów.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 177,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.59,
-      "characterCount": 1561,
-      "nonWhitespaceCharacterCount": 1369,
-      "newlineCount": 15,
-      "readingTimeInMinutes": 0.6679245283018868,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773063223744,
-      "modifiedDate": 1773064039651,
-      "sizeInBytes": 1847,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "created": "2026-03-09 14:33",
-        "tags": [
-          "atom",
-          "definicja",
-          "it/programowanie"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
-        "modified date": "2026-03-09 14:33"
-      }
-    },
-    "Nadtypy paradygmatów.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1773063231528,
-      "modifiedDate": 1773064204595,
-      "sizeInBytes": 1242,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "03 Atomy/Typy metodyk programowania.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -115767,19 +115648,19 @@
         "newlineCount": 0
       }
     },
-    "Programowanie typu imperatywnego.md": {
+    "03 Atomy/Programowanie typu imperatywnego.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 97,
+      "wordCount": 112,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 792,
-      "nonWhitespaceCharacterCount": 677,
-      "newlineCount": 23,
-      "readingTimeInMinutes": 0.3660377358490566,
-      "linkCount": 2,
+      "pageCount": 0.37333333333333335,
+      "characterCount": 967,
+      "nonWhitespaceCharacterCount": 825,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 0.4226415094339623,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773064822091,
@@ -115792,20 +115673,9 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      },
-      "frontmatter": {
-        "created": "2026-03-09 15:00",
-        "tags": [
-          "atom",
-          "definicja",
-          "it/programowanie"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
-        "modified date": "2026-03-09 15:00"
       }
     },
-    "Programowanie typu imperatywnego.md.edtz": {
+    "03 Atomy/Programowanie typu imperatywnego.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -115832,24 +115702,24 @@
         "newlineCount": 0
       }
     },
-    "Programowanie typu funkcyjnego.md": {
+    "03 Atomy/Programowanie typu funkcyjnego.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 98,
+      "wordCount": 117,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.32666666666666666,
-      "characterCount": 852,
-      "nonWhitespaceCharacterCount": 731,
-      "newlineCount": 19,
-      "readingTimeInMinutes": 0.36981132075471695,
+      "pageCount": 0.39,
+      "characterCount": 1070,
+      "nonWhitespaceCharacterCount": 914,
+      "newlineCount": 33,
+      "readingTimeInMinutes": 0.44150943396226416,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773064936878,
-      "modifiedDate": 1773065070962,
-      "sizeInBytes": 1074,
+      "modifiedDate": 1773065564374,
+      "sizeInBytes": 1117,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -115857,20 +115727,9 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      },
-      "frontmatter": {
-        "created": "2026-03-09 15:02",
-        "tags": [
-          "atom",
-          "definicja",
-          "it/programowanie"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
-        "modified date": "2026-03-09 15:02"
       }
     },
-    "Programowanie typu funkcyjnego.md.edtz": {
+    "03 Atomy/Programowanie typu funkcyjnego.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -115886,8 +115745,191 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1773064944622,
-      "modifiedDate": 1773065074169,
-      "sizeInBytes": 1088,
+      "modifiedDate": 1773065555155,
+      "sizeInBytes": 778,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Nadtypy paradygmatów.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 193,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6433333333333333,
+      "characterCount": 1756,
+      "nonWhitespaceCharacterCount": 1533,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 0.7283018867924528,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773063223744,
+      "modifiedDate": 1773064204326,
+      "sizeInBytes": 1867,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Nadtypy paradygmatów.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773063231528,
+      "modifiedDate": 1773064204595,
+      "sizeInBytes": 1242,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Programowanie liniowe.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 78,
+      "nonWhitespaceCharacterCount": 71,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773065609536,
+      "modifiedDate": 1773065840199,
+      "sizeInBytes": 257,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-03-09 15:13",
+        "tags": [
+          "atom",
+          "definicja",
+          "it/programowanie"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-03-09 15:13"
+      }
+    },
+    "03 Atomy/Programowanie liniowe.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773065616230,
+      "modifiedDate": 1773065823210,
+      "sizeInBytes": 503,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Programowanie proceduralne.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773065792377,
+      "modifiedDate": 1773065805088,
+      "sizeInBytes": 155,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-03-09 15:16",
+        "tags": [
+          "atom",
+          "definicja"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-03-09 15:16"
+      }
+    },
+    "03 Atomy/Programowanie proceduralne.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773065799171,
+      "modifiedDate": 1773065799172,
+      "sizeInBytes": 112,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
