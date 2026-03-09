@@ -23,10 +23,8 @@ Główne cechy programowania funkcyjnego:
 
 
 > [!warning] Uwaga!
-> Programowanie typu funkcyjnego jest często mylone z metodyką programowania funkcyjnego. 
+> Programowanie typu funkcyjnego jest często mylone z [[Programowanie funkcyjne|metodyką programowania funkcyjnego]]. Ta ostatnia jest za razem jedynym przedstawicielem tego typu.
 
-
-Jedynym przedstawicielem programowania typu funkcyjnego jest rodzaj programowan[[Programowanie funkcyjne|]]
 
 
 ###### Linki

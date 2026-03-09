@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programowanie typu logicznego.md",
+                "file": "03 Atomy/Programowanie typu logicznego.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programowanie typu opisowego.md",
+                "file": "03 Atomy/Programowanie typu opisowego.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Programowanie typu funkcyjnego.md",
+                "file": "03 Atomy/Programowanie funkcyjne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programowanie typu funkcyjnego"
+              "title": "Programowanie funkcyjne"
             }
           },
           {
@@ -394,13 +394,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Programowanie typu funkcyjnego.md",
+                "file": "03 Atomy/Programowanie funkcyjne.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Programowanie typu funkcyjnego"
+              "title": "Konspekt Programowanie funkcyjne"
             }
           },
           {
@@ -468,21 +468,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9f1d292b977bdcb",
+  "active": "180c24419c3d71cd",
   "lastOpenFiles": [
-    "03 Atomy/Programowanie typu imperatywnego.md",
     "03 Atomy/Programowanie stanowe.md",
-    "Diagram drabinkowy (LD).webp",
-    "Diagram sekwencyjny SFC - Tranzycje.webp",
-    "Programowanie stanowe.webp",
-    "Programowanie typu opisowego.md",
-    "Programowanie typu logicznego.md",
+    "03 Atomy/Programowanie typu imperatywnego.md",
+    "03 Atomy/Programowanie funkcyjne.md",
+    "03 Atomy/Programowanie funkcyjne.md.edtz",
     "03 Atomy/Programowanie typu funkcyjnego.md",
+    "03 Atomy/załączniki/Diagram drabinkowy (LD).webp",
+    "03 Atomy/załączniki/Diagram sekwencyjny SFC - Tranzycje.webp",
+    "03 Atomy/załączniki/Programowanie stanowe.webp",
+    "03 Atomy/Programowanie typu opisowego.md",
+    "03 Atomy/Programowanie typu logicznego.md",
     "03 Atomy/Typy metodyk programowania.md",
-    "Programowanie typu logicznego.md.edtz",
+    "03 Atomy/Programowanie typu logicznego.md.edtz",
     "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "03 Atomy/Metodyka programowania.md",
-    "Programowanie typu opisowego.md.edtz",
+    "03 Atomy/Programowanie typu opisowego.md.edtz",
     "03 Atomy/Programowanie stanowe.md.edtz",
     "03 Atomy/Programowanie proceduralne.md",
     "03 Atomy/Programowanie liniowe.md",
@@ -496,7 +498,6 @@
     "03 Atomy/Nadtypy paradygmatów.md.edtz",
     "03 Atomy/Historia programowania obiektowego.md",
     "03 Atomy/Programowanie obiektowe.md",
-    "03 Atomy/Historia programowania obiektowego.md.edtz",
     "03 Atomy/Kompilator.md",
     "Skróty klawiszowe.md",
     "03 Atomy/Język programowania.md",
@@ -507,7 +508,6 @@
     "03 Atomy/Obiekt (programowanie).md",
     "Statusy notatek.md",
     "Komputer.md",
-    "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
     "03 Atomy/załączniki/System binarny-18.webp",
     "03 Atomy/załączniki/System binarny-17.webp",
     "03 Atomy/załączniki/System binarny-16.webp",

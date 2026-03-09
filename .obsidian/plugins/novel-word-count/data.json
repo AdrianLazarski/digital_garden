@@ -115717,20 +115717,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 106,
+      "wordCount": 116,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.35333333333333333,
-      "characterCount": 938,
-      "nonWhitespaceCharacterCount": 806,
+      "pageCount": 0.38666666666666666,
+      "characterCount": 1027,
+      "nonWhitespaceCharacterCount": 886,
       "newlineCount": 24,
-      "readingTimeInMinutes": 0.4,
-      "linkCount": 2,
+      "readingTimeInMinutes": 0.4377358490566038,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773064936878,
-      "modifiedDate": 1773071193875,
-      "sizeInBytes": 1160,
+      "modifiedDate": 1773072472929,
+      "sizeInBytes": 1249,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -115767,8 +115767,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1773064944622,
-      "modifiedDate": 1773071181860,
-      "sizeInBytes": 790,
+      "modifiedDate": 1773072448433,
+      "sizeInBytes": 1328,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -115966,20 +115966,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 139,
+      "wordCount": 171,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.4633333333333333,
-      "characterCount": 1263,
-      "nonWhitespaceCharacterCount": 1092,
-      "newlineCount": 35,
-      "readingTimeInMinutes": 0.5245283018867924,
+      "pageCount": 0.57,
+      "characterCount": 1535,
+      "nonWhitespaceCharacterCount": 1330,
+      "newlineCount": 37,
+      "readingTimeInMinutes": 0.6452830188679245,
       "linkCount": 2,
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1773069962496,
-      "modifiedDate": 1773072178739,
-      "sizeInBytes": 1476,
+      "modifiedDate": 1773072302882,
+      "sizeInBytes": 1762,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -116016,8 +116016,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1773069968975,
-      "modifiedDate": 1773072192048,
-      "sizeInBytes": 1403,
+      "modifiedDate": 1773072260866,
+      "sizeInBytes": 1387,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -116027,89 +116027,24 @@
         "newlineCount": 0
       }
     },
-    "Programowanie typu opisowego.md": {
+    "03 Atomy/Programowanie typu logicznego.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 35,
+      "wordCount": 43,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.11666666666666667,
-      "characterCount": 335,
-      "nonWhitespaceCharacterCount": 292,
-      "newlineCount": 13,
-      "readingTimeInMinutes": 0.1320754716981132,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773071040038,
-      "modifiedDate": 1773071402586,
-      "sizeInBytes": 524,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "created": "2026-03-09 16:44",
-        "tags": [
-          "atom",
-          "definicja",
-          "it/programowanie"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
-        "modified date": "2026-03-09 16:44"
-      }
-    },
-    "Programowanie typu opisowego.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 447,
+      "nonWhitespaceCharacterCount": 385,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.16226415094339622,
       "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1773071047206,
-      "modifiedDate": 1773071355768,
-      "sizeInBytes": 854,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Programowanie typu logicznego.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 22,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 227,
-      "nonWhitespaceCharacterCount": 197,
-      "newlineCount": 11,
-      "readingTimeInMinutes": 0.0830188679245283,
-      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773071263074,
-      "modifiedDate": 1773071328964,
-      "sizeInBytes": 415,
+      "modifiedDate": 1773071382609,
+      "sizeInBytes": 463,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -116117,20 +116052,9 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      },
-      "frontmatter": {
-        "created": "2026-03-09 16:47",
-        "tags": [
-          "atom",
-          "definicja",
-          "it/programowanie"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
-        "modified date": "2026-03-09 16:47"
       }
     },
-    "Programowanie typu logicznego.md.edtz": {
+    "03 Atomy/Programowanie typu logicznego.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -116157,7 +116081,34 @@
         "newlineCount": 0
       }
     },
-    "Programowanie stanowe.webp": {
+    "03 Atomy/Programowanie typu opisowego.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 50,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 510,
+      "nonWhitespaceCharacterCount": 440,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 0.18867924528301888,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773071040038,
+      "modifiedDate": 1773071402586,
+      "sizeInBytes": 524,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Programowanie typu opisowego.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -116172,9 +116123,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1773072102403,
-      "modifiedDate": 1773072102405,
-      "sizeInBytes": 23396,
+      "createdDate": 1773071047206,
+      "modifiedDate": 1773071355768,
+      "sizeInBytes": 854,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -116184,7 +116135,99 @@
         "newlineCount": 0
       }
     },
-    "Diagram sekwencyjny SFC - Tranzycje.webp": {
+    "03 Atomy/Programowanie funkcyjne.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 204,
+      "nonWhitespaceCharacterCount": 177,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773072477652,
+      "modifiedDate": 1773072689090,
+      "sizeInBytes": 385,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-03-09 17:07",
+        "tags": [
+          "atom",
+          "definicja",
+          "it/programowanie"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-03-09 17:09"
+      }
+    },
+    "03 Atomy/Programowanie funkcyjne.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773072515042,
+      "modifiedDate": 1773072651464,
+      "sizeInBytes": 405,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/załączniki/Diagram drabinkowy (LD).webp": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773072121936,
+      "modifiedDate": 1773072121938,
+      "sizeInBytes": 25496,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/załączniki/Diagram sekwencyjny SFC - Tranzycje.webp": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -116211,7 +116254,7 @@
         "newlineCount": 0
       }
     },
-    "Diagram drabinkowy (LD).webp": {
+    "03 Atomy/załączniki/Programowanie stanowe.webp": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -116226,9 +116269,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1773072121936,
-      "modifiedDate": 1773072121938,
-      "sizeInBytes": 25496,
+      "createdDate": 1773072102403,
+      "modifiedDate": 1773072102405,
+      "sizeInBytes": 23396,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
