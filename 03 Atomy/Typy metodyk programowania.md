@@ -19,6 +19,3 @@ Podział [[Metodyka programowania|metodyk programowania]] według podejścia do 
 
 
 
-
-**Programowanie logiczne** – skupia się na zastosowaniu odpowiednich twierdzeń w celu osiągnięcia pożądanego rezultatu.
-

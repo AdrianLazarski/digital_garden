@@ -17,12 +17,12 @@ Programowanie równoległe
 	Programowanie współbieżne
 
 ###### Typy
-[[Programowanie typu imperatywnego]]
-[[Programowanie typu funkcyjnego]]
-Programowanie typu logicznego
-Programowanie typu opisowego.
+$\rightarrow$ [[Programowanie typu imperatywnego]]
+$\rightarrow$ [[Programowanie typu funkcyjnego]]
+$\rightarrow$ [[Programowanie typu logicznego]]
+$\rightarrow$ [[Programowanie typu opisowego]]
 
-###### Rodzaje
+###### Rodzaje$\rightarrow$ 
 $\rightarrow$ [[Programowanie obiektowe]]
 $\rightarrow$ [[Programowanie proceduralne]]
 $\rightarrow$ [[Programowanie liniowe]]

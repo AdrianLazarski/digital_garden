@@ -30,3 +30,4 @@ $\rightarrow$ [[Programowanie proceduralne]]
 
 ###### Linki
 $\leftarrow$ [[Typy metodyk programowania]]
+$\leftarrow$ [[MOC Metodyka programowania]]]]
