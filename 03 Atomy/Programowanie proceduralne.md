@@ -11,6 +11,7 @@ modified date: 2026-03-09 15:16
 > [!note] Definicja
 > Metodyka programowania oparta na założeniu, że istnieje potrzeba dekompozycji problemów i tworzenia programów w taki sposób, że blok główny programu stanowi jedynie szkielet.
 
+Zaliczane do metodyk [[Programowanie typu imperatywnego|typu imperatywnego]].
 ## Struktura programu
 
 - Konstrukcja programu określa kolejność wykonywanych operacji, ale za wykonywanie poszczególnych operacji odpowiadają już wyszczególnione bloki podprogramów w postaci procedur oraz funkcji.
@@ -26,7 +27,23 @@ modified date: 2026-03-09 15:16
 
 Przy pisaniu programów wykorzystujących języki z rodziny assembler, mikrokomputery oraz przy tworzeniu programów analityczno-obliczeniowych w językach ogólnego przeznaczenia, takich jak Pascal lub C.
 
-Stosowane jest też w językach skryptowych, bo niektóre z nich nie mają możliwości tworzenia encji
-	np. JavaScript w przypadku kodu po stronie klienta
-	PHP w przypadku programowania po stronie serwera
-Nie oznacza to, że języki wspierające programowanie proce
+- Stosowane jest też w językach skryptowych, bo niektóre z nich nie mają możliwości tworzenia encji
+	- np. JavaScript w przypadku kodu po stronie klienta
+	- PHP w przypadku programowania po stronie serwera
+- Nie oznacza to, że języki wspierające programowanie proceduralne nie mają możliwości tworzenia encji. Zwykle fakt ich użycia oznacza zmianę podejścia do rozwiązywanego problemu.
+
+## Wady i zalety
+
+### Zalety
+
+- Możliwość dekompozycji kodu.
+- Podobieństwo formy kodu źródłowego i maszynowego.
+
+### Wady
+
+- Duża liczba zmiennych
+- Rozdzielenie danych od operacji na nich wykonywanych.
+- Brak metodyki grupowania danych w logiczny sposób.
+
+
+$\leftarrow$ [[MOC Metodyka programowania]]

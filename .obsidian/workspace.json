@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Programowanie proceduralne.md",
+                "file": "03 Atomy/Programowanie stanowe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programowanie proceduralne"
+              "title": "Programowanie stanowe"
             }
           }
         ],
@@ -394,13 +394,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Programowanie proceduralne.md",
+                "file": "03 Atomy/Programowanie stanowe.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Programowanie proceduralne"
+              "title": "Konspekt Programowanie stanowe"
             }
           },
           {
@@ -470,12 +470,14 @@
   },
   "active": "3a22d8c2e0c2c63e",
   "lastOpenFiles": [
+    "03 Atomy/Programowanie stanowe.md.edtz",
+    "03 Atomy/Programowanie proceduralne.md",
+    "03 Atomy/Programowanie stanowe.md",
+    "03 Atomy/Programowanie typu imperatywnego.md",
     "03 Atomy/Programowanie liniowe.md",
     "02 MOC/MOC IT/MOC Metodyka programowania.md",
-    "03 Atomy/Programowanie proceduralne.md",
     "03 Atomy/Programowanie proceduralne.md.edtz",
     "03 Atomy/Programowanie liniowe.md.edtz",
-    "03 Atomy/Programowanie typu imperatywnego.md",
     "03 Atomy/Programowanie typu funkcyjnego.md",
     "03 Atomy/Typy metodyk programowania.md",
     "03 Atomy/Programowanie typu funkcyjnego.md.edtz",
@@ -504,7 +506,6 @@
     "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
     "06 Language lab/English grammar.md",
     "index.md",
-    "O stronie.md",
     "03 Atomy/załączniki/System binarny-18.webp",
     "03 Atomy/załączniki/System binarny-17.webp",
     "03 Atomy/załączniki/System binarny-16.webp",
