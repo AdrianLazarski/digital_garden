@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Programowanie generyczne.md",
+                "file": "O stronie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programowanie generyczne"
+              "title": "O stronie"
             }
           }
         ],
@@ -370,13 +370,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Programowanie generyczne.md",
+                "file": "O stronie.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Programowanie generyczne"
+              "title": "Konspekt O stronie"
             }
           },
           {
@@ -446,11 +446,11 @@
   },
   "active": "3a22d8c2e0c2c63e",
   "lastOpenFiles": [
+    "03 Atomy/Programowanie generyczne.md",
     "03 Atomy/Programowanie typu imperatywnego.md",
     "03 Atomy/Programowanie liniowe.md",
     "03 Atomy/Programowanie funkcyjne.md",
     "03 Atomy/Programowanie typu opisowego.md",
-    "03 Atomy/Programowanie generyczne.md",
     "03 Atomy/Programowanie generyczne.md.edtz",
     "03 Atomy/Programowanie strukturalne.md",
     "02 MOC/MOC IT/MOC Metodyka programowania.md",
