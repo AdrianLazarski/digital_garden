@@ -36643,8 +36643,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1772304405964,
-      "modifiedDate": 1767195664260,
-      "sizeInBytes": 831,
+      "modifiedDate": 1773059378042,
+      "sizeInBytes": 834,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -36670,8 +36670,8 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1772304405958,
-      "modifiedDate": 1767195664041,
-      "sizeInBytes": 1098,
+      "modifiedDate": 1773059376896,
+      "sizeInBytes": 1102,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.39,
@@ -36685,7 +36685,7 @@
         "tags": [
           "ai-generated",
           "atom",
-          "it/pamięć"
+          "it/architektura"
         ],
         "modified date": "2025-12-10 12:53"
       }
@@ -36733,8 +36733,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304405945,
-      "modifiedDate": 1765368469817,
-      "sizeInBytes": 510,
+      "modifiedDate": 1773059376200,
+      "sizeInBytes": 514,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.17333333333333334,
@@ -36746,7 +36746,7 @@
       "frontmatter": {
         "created": "2025-12-10 13:04",
         "tags": [
-          "it/pamięć",
+          "it/architektura",
           "atom",
           "definicja"
         ],
@@ -38311,8 +38311,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1772304405628,
-      "modifiedDate": 1773057167262,
-      "sizeInBytes": 635,
+      "modifiedDate": 1773059065592,
+      "sizeInBytes": 390,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -38338,8 +38338,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304405622,
-      "modifiedDate": 1773057292224,
-      "sizeInBytes": 426,
+      "modifiedDate": 1773059086215,
+      "sizeInBytes": 433,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.04666666666666667,
@@ -38351,12 +38351,12 @@
       "frontmatter": {
         "created": "2025-11-23 12:44",
         "tags": [
-          "it/podstawy",
           "atom",
-          "definicja"
+          "definicja",
+          "it/programowanie"
         ],
         "modified date": "2026-03-09 12:51",
-        "status_epistemiczny": "Spekulatywny ❓",
+        "status_epistemiczny": "Prawdopodobny 🧪",
         "dojrzalosc": "Sadzonka 🌱"
       }
     },
@@ -41942,8 +41942,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1772304404870,
-      "modifiedDate": 1763905529663,
-      "sizeInBytes": 804,
+      "modifiedDate": 1773059235762,
+      "sizeInBytes": 375,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -41969,8 +41969,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304404864,
-      "modifiedDate": 1763905535689,
-      "sizeInBytes": 435,
+      "modifiedDate": 1773059286702,
+      "sizeInBytes": 519,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.14,
@@ -41982,10 +41982,13 @@
       "frontmatter": {
         "created": "2025-11-23 14:38",
         "tags": [
-          "it/podstawy",
-          "atom"
+          "atom",
+          "it/architektura",
+          "definicja"
         ],
-        "modified date": "2025-11-23 14:45"
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Prawdopodobny 🧪",
+        "modified date": "2026-03-09 13:27"
       }
     },
     "03 Atomy/Język programowania.md.edtz": {
@@ -42004,8 +42007,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1772304404847,
-      "modifiedDate": 1763905639904,
-      "sizeInBytes": 601,
+      "modifiedDate": 1773059103830,
+      "sizeInBytes": 423,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -42031,8 +42034,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304404841,
-      "modifiedDate": 1763905680175,
-      "sizeInBytes": 496,
+      "modifiedDate": 1773059163536,
+      "sizeInBytes": 592,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.13,
@@ -42044,10 +42047,13 @@
       "frontmatter": {
         "created": "2025-11-23 14:14",
         "tags": [
-          "it/podstawy",
-          "atom"
+          "atom",
+          "it/programowanie",
+          "język_programowania"
         ],
-        "modified date": "2025-11-23 14:19"
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Prawdopodobny 🧪",
+        "modified date": "2026-03-09 13:25"
       }
     },
     "03 Atomy/Interpretacja macierzy jako operatorów liniowych.md.edtz": {
@@ -115324,20 +115330,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 13,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 124,
-      "nonWhitespaceCharacterCount": 113,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.033962264150943396,
-      "linkCount": 3,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 177,
+      "nonWhitespaceCharacterCount": 162,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773058401682,
-      "modifiedDate": 1773058493641,
-      "sizeInBytes": 267,
+      "modifiedDate": 1773059858412,
+      "sizeInBytes": 320,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -115373,8 +115379,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1773058408336,
-      "modifiedDate": 1773058471050,
-      "sizeInBytes": 336,
+      "modifiedDate": 1773059842798,
+      "sizeInBytes": 276,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -115547,6 +115553,60 @@
       "createdDate": 1773058733928,
       "modifiedDate": 1773058996285,
       "sizeInBytes": 821,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Historia programowania obiektowego.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773059867454,
+      "modifiedDate": 1773059873846,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Historia programowania obiektowego.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773059874071,
+      "modifiedDate": 1773059874073,
+      "sizeInBytes": 112,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

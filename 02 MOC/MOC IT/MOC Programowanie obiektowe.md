@@ -11,3 +11,4 @@ $\leftarrow$ [[Programowanie obiektowe]]
 
 $\rightarrow$ [[Klasa (programowanie)]]
 $\rightarrow$ [[Obiekt (programowanie)]]
+$\rightarrow$ [[Historia programowania obiektowego]]

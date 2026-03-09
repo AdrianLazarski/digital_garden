@@ -1,7 +1,7 @@
 ---
 created: 2025-12-10 13:04
 tags:
-  - it/pamięć
+  - it/architektura
   - atom
   - definicja
 modified date: 2025-12-10 13:07

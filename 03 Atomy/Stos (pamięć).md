@@ -3,7 +3,7 @@ created: 2025-12-09 17:06
 tags:
   - ai-generated
   - atom
-  - it/pamięć
+  - it/architektura
 modified date: 2025-12-10 12:53
 ---
 ang. *stack*
