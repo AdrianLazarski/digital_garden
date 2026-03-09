@@ -49,8 +49,7 @@ Monady w programowaniu funkcyjnym to rodzaj konstruktorów abstrakcyjnych typów
 
 - Klasyczne języki wspierające programowanie funkcyjne: Haskell, Lisp.
 - Stosowane też przez Python, F#, Nemerle, Ruby.
-- Większość języków stosujących metodykę strukturalną lub obiektową pozwala na stosowanie metodyki funkcyjnej, ale rzadko się spotyka.
-- Za to popularne sąkody
+- Większość języków stosujących metodykę strukturalną lub obiektową pozwala na stosowanie metodyki funkcyjnej, ale rzadko się spotyka ograniczenie do niej samej. Za to popularne są kody obiektowo-funkcyjne i strukturalno-funkcyjne.
 
 
 
