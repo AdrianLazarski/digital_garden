@@ -35,14 +35,124 @@
             "id": "d1c52c897074942d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Programowanie obiektowe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "Programowanie obiektowe"
+            }
+          },
+          {
+            "id": "2b304027bada2e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Programowanie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Programowanie"
+            }
+          },
+          {
+            "id": "6284735a7da8abc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Język programowania.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Język programowania"
+            }
+          },
+          {
+            "id": "32c8b3228d53dabf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC IT/Klasyfikacje języków programowania.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Klasyfikacje języków programowania"
+            }
+          },
+          {
+            "id": "c7f6882152f8fc92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC IT/MOC Języki programowania.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Języki programowania"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -74,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arystoteles",
+                "query": "programowanie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +205,8 @@
               "title": "Zakładki"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -262,8 +373,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1c52c897074942d",
+  "active": "32c8b3228d53dabf",
   "lastOpenFiles": [
+    "03 Atomy/Programowanie.md",
+    "02 MOC/MOC IT/Klasyfikacje języków programowania.md",
+    "03 Atomy/Język programowania.md",
+    "02 MOC/MOC IT/MOC Języki programowania.md",
+    "03 Atomy/Programowanie obiektowe.md",
+    "03 Atomy/Programowanie obiektowe.md.edtz",
     "Statusy notatek.md",
     "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
     "06 Language lab/English grammar.md",
@@ -303,12 +420,6 @@
     "03 Atomy/Bezwyznacznikowy algorytm znajdowania macierzy odwrotnej.md",
     "03 Atomy/Bezwyznacznikowy algorytm znajdowania macierzy odwrotnej.md.edtz",
     "03 Atomy/Macierz odwrotna.md",
-    "02 MOC/MOC Matematyka/MOC Rodzaje macierzy.md",
-    "02 MOC/MOC Działania na macierzach.md",
-    "03 Atomy/Delta Kroneckera.md",
-    "03 Atomy/Delta Kroneckera.md.edtz",
-    "03 Atomy/Twierdzenie o macierzy odwrotnej.md",
-    "03 Atomy/Macierz osobliwa.md",
-    "03 Atomy/Macierz.md"
+    "02 MOC/MOC Matematyka/MOC Rodzaje macierzy.md"
   ]
 }
