@@ -224,30 +224,6 @@
             }
           },
           {
-            "id": "d8e81b2e32ebe27b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Programowanie liniowe.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Programowanie liniowe"
-            }
-          },
-          {
             "id": "3a22d8c2e0c2c63e",
             "type": "leaf",
             "state": {
@@ -418,13 +394,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Programowanie liniowe.md",
+                "file": "03 Atomy/Programowanie proceduralne.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Programowanie liniowe"
+              "title": "Konspekt Programowanie proceduralne"
             }
           },
           {
@@ -492,11 +468,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d8e81b2e32ebe27b",
+  "active": "3a22d8c2e0c2c63e",
   "lastOpenFiles": [
+    "03 Atomy/Programowanie liniowe.md",
+    "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "03 Atomy/Programowanie proceduralne.md",
     "03 Atomy/Programowanie proceduralne.md.edtz",
-    "03 Atomy/Programowanie liniowe.md",
     "03 Atomy/Programowanie liniowe.md.edtz",
     "03 Atomy/Programowanie typu imperatywnego.md",
     "03 Atomy/Programowanie typu funkcyjnego.md",
@@ -504,7 +481,6 @@
     "03 Atomy/Programowanie typu funkcyjnego.md.edtz",
     "03 Atomy/Programowanie typu imperatywnego.md.edtz",
     "03 Atomy/Nadtypy paradygmatów.md",
-    "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
     "03 Atomy/Metodyka programowania.md",
     "03 Atomy/Typy metodyk programowania.md.edtz",

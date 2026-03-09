@@ -17,9 +17,9 @@ Programowanie równoległe
 	Programowanie współbieżne
 
 ###### Typy
+[[Programowanie typu imperatywnego]]
+[[Programowanie typu funkcyjnego]]
 Programowanie typu logicznego
-Programowanie typu funkcyjnego
-Programowanie typu imperatywnego
 Programowanie typu opisowego.
 
 ###### Rodzaje
