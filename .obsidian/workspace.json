@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Programowanie.md",
+                "file": "Metodyka programowania.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programowanie"
+              "title": "Metodyka programowania"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -373,15 +373,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32c8b3228d53dabf",
+  "active": "c7f6882152f8fc92",
   "lastOpenFiles": [
-    "03 Atomy/Programowanie.md",
     "02 MOC/MOC IT/Klasyfikacje języków programowania.md",
-    "03 Atomy/Język programowania.md",
     "02 MOC/MOC IT/MOC Języki programowania.md",
     "03 Atomy/Programowanie obiektowe.md",
-    "03 Atomy/Programowanie obiektowe.md.edtz",
+    "Metodyka programowania.md",
+    "Metodyka programowania.md.edtz",
+    "03 Atomy/Programowanie.md",
+    "03 Atomy/Język programowania.md",
     "Statusy notatek.md",
+    "Komputer.md.edtz",
+    "Komputer.md",
+    "03 Atomy/Obiekt (programowanie).md",
+    "03 Atomy/Programowanie obiektowe.md.edtz",
     "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
     "06 Language lab/English grammar.md",
     "index.md",
@@ -414,12 +419,6 @@
     "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md",
     "03 Atomy/Twierdzenie Cauchy'ego o wyznaczniku iloczynu macierzy.md",
     "03 Atomy/Interpretacja macierzy jako operatorów liniowych.md",
-    "03 Atomy/Bez nazwy.md.edtz",
-    "03 Atomy/Interpretacja macierzy jako operatorów liniowych.md.edtz",
-    "03 Atomy/Bez nazwy.md",
-    "03 Atomy/Bezwyznacznikowy algorytm znajdowania macierzy odwrotnej.md",
-    "03 Atomy/Bezwyznacznikowy algorytm znajdowania macierzy odwrotnej.md.edtz",
-    "03 Atomy/Macierz odwrotna.md",
-    "02 MOC/MOC Matematyka/MOC Rodzaje macierzy.md"
+    "03 Atomy/Bez nazwy.md.edtz"
   ]
 }
