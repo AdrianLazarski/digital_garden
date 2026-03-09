@@ -8,7 +8,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-03-09 14:33
 ---
-Jeden z podziałów [[Metodyka programowania|metodyk programowania]].
+Podział [[Metodyka programowania|metodyk programowania]] według przetwarzania danych.
 
 
 1. **Programowanie stacjonarne** – tworzenie programu, uwzględniającego obliczenia wykonywane przez jeden procesor, włókno, wątek lub proces na jednym lub więcej zbiorze danych.

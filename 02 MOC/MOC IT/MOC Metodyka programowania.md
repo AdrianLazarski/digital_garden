@@ -9,6 +9,14 @@ modified date: 2026-03-09 13:18
 ---
 $\leftarrow$ [[Metodyka programowania]]
 
+
+###### Nadtypy
+
+
+###### Typy
+
+
+###### Rodzaje
 $\rightarrow$ [[Programowanie obiektowe]]
 $\rightarrow$ [[Programowanie proceduralne]]
 $\rightarrow$ [[Programowanie liniowe]]
