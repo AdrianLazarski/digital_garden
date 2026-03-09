@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Typy metodyk programowania.md",
+                "file": "Programowanie typu opisowego.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Typy metodyk programowania"
+              "title": "Programowanie typu opisowego"
             }
           },
           {
@@ -248,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -394,13 +394,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Programowanie stanowe.md",
+                "file": "03 Atomy/Programowanie typu funkcyjnego.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Programowanie stanowe"
+              "title": "Konspekt Programowanie typu funkcyjnego"
             }
           },
           {
@@ -468,18 +468,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a22d8c2e0c2c63e",
+  "active": "f9f1d292b977bdcb",
   "lastOpenFiles": [
+    "Programowanie typu opisowego.md",
+    "03 Atomy/Programowanie typu funkcyjnego.md",
+    "03 Atomy/Programowanie typu imperatywnego.md",
+    "Programowanie typu opisowego.md.edtz",
+    "03 Atomy/Typy metodyk programowania.md",
+    "03 Atomy/Programowanie stanowe.md",
     "03 Atomy/Programowanie stanowe.md.edtz",
     "03 Atomy/Programowanie proceduralne.md",
-    "03 Atomy/Programowanie stanowe.md",
-    "03 Atomy/Programowanie typu imperatywnego.md",
     "03 Atomy/Programowanie liniowe.md",
     "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "03 Atomy/Programowanie proceduralne.md.edtz",
     "03 Atomy/Programowanie liniowe.md.edtz",
-    "03 Atomy/Programowanie typu funkcyjnego.md",
-    "03 Atomy/Typy metodyk programowania.md",
     "03 Atomy/Programowanie typu funkcyjnego.md.edtz",
     "03 Atomy/Programowanie typu imperatywnego.md.edtz",
     "03 Atomy/Nadtypy paradygmatów.md",
@@ -498,14 +500,11 @@
     "02 MOC/MOC IT/Klasyfikacje języków programowania.md",
     "02 MOC/MOC IT/MOC Języki programowania.md",
     "03 Atomy/Klasa (programowanie).md",
-    "02 MOC/MOC IT/MOC Programowanie obiektowe.md.edtz",
     "03 Atomy/Obiekt (programowanie).md",
     "Statusy notatek.md",
-    "03 Atomy/Metodyka programowania.md.edtz",
     "Komputer.md",
     "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
     "06 Language lab/English grammar.md",
-    "index.md",
     "03 Atomy/załączniki/System binarny-18.webp",
     "03 Atomy/załączniki/System binarny-17.webp",
     "03 Atomy/załączniki/System binarny-16.webp",

@@ -26,7 +26,7 @@ modified date: 2026-03-09 15:00
 #### Rodzaje metodyk typu imperatywnego:
 
 $\rightarrow$ [[Programowanie liniowe]]
-
+$\rightarrow$ [[Programowanie proceduralne]]
 
 ###### Linki
 $\leftarrow$ [[Typy metodyk programowania]]

@@ -13,10 +13,11 @@ Podział [[Metodyka programowania|metodyk programowania]] według podejścia do 
 
 [[Programowanie typu imperatywnego]]
 [[Programowanie typu funkcyjnego]]
+[[Programowanie typu opisowego]]
+[[Programowanie typu logicznego]]
 
 
 
-**Programowanie opisowe** – wskazuje, dla jakiego stanu wejść oraz postaci systemu otrzymany zostanie pożądany rezultat.
 
 
 **Programowanie logiczne** – skupia się na zastosowaniu odpowiednich twierdzeń w celu osiągnięcia pożądanego rezultatu.

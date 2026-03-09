@@ -29,4 +29,4 @@ Główne cechy programowania funkcyjnego:
 
 ###### Linki
 $\leftarrow$ [[Typy metodyk programowania]]
-
+$\leftarrow$ [[M]]
