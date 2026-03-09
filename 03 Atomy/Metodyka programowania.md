@@ -15,6 +15,14 @@ Potocznie określana jako [[paradygmat programowania]].
 > 
 > Jest to więc określenie sposobu wykorzystania mechanizmów udostępnionych przez język programowania oraz jego konkretną implementację.
 
+- Dobór odpowiedniej metodyki zależy od rozwiązywanego problemu, sposobu jego realizacji oraz indywidualnych preferencji programisty. 
+- Ma to duży wpływ na złożoność powstałego kodu, proces tworzenia aplikacji i, czasem, szybkość działania programu wynikowego.
+
+
+Najczęściej metodyki dzieli się na:
+- Nadtyp paradygmatu
+- Typ paradygmatu
+- Rodzaj paradygmatu
 
 
 $\rightarrow$ [[MOC Metodyka programowania]]
