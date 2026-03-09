@@ -28,6 +28,7 @@ modified date: 2026-03-09 15:00
 $\rightarrow$ [[Programowanie liniowe]]
 $\rightarrow$ [[Programowanie proceduralne]]
 $\rightarrow$ [[Programowanie strukturalne]]
+$\rightarrow$ [[Programowanie generyczne]]
 
 ###### Linki
 $\leftarrow$ [[Typy metodyk programowania]]
