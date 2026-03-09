@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "719b5fbe10f66c93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statusy notatek.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Statusy notatek"
-            }
-          },
-          {
             "id": "d1c52c897074942d",
             "type": "leaf",
             "state": {
@@ -151,8 +127,7 @@
               "title": "MOC Języki programowania"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -373,16 +348,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7f6882152f8fc92",
+  "active": "d1c52c897074942d",
   "lastOpenFiles": [
-    "02 MOC/MOC IT/Klasyfikacje języków programowania.md",
     "02 MOC/MOC IT/MOC Języki programowania.md",
     "03 Atomy/Programowanie obiektowe.md",
+    "Statusy notatek.md",
     "Metodyka programowania.md",
+    "03 Atomy/Język programowania.md",
+    "02 MOC/MOC IT/Klasyfikacje języków programowania.md",
     "Metodyka programowania.md.edtz",
     "03 Atomy/Programowanie.md",
-    "03 Atomy/Język programowania.md",
-    "Statusy notatek.md",
     "Komputer.md.edtz",
     "Komputer.md",
     "03 Atomy/Obiekt (programowanie).md",
