@@ -1,9 +1,12 @@
 ---
 created: 2025-11-23 14:14
 tags:
-  - it/podstawy
   - atom
-modified date: 2025-11-23 14:19
+  - it/programowanie
+  - język_programowania
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-03-09 13:25
 ---
 ang. *programming language*
 

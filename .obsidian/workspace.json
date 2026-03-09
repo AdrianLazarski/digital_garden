@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodyka programowania.md",
+                "file": "03 Atomy/Metodyka programowania.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Język programowania.md",
+                "file": "03 Atomy/Kompilator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Język programowania"
+              "title": "Kompilator"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodyka programowania.md",
+                "file": "02 MOC/MOC IT/MOC Metodyka programowania.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Metodyka programowania"
+              "title": "MOC Metodyka programowania"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -372,20 +372,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32c8b3228d53dabf",
+  "active": "6284735a7da8abc2",
   "lastOpenFiles": [
-    "02 MOC/MOC IT/Klasyfikacje języków programowania.md",
+    "03 Atomy/Język programowania.md",
+    "03 Atomy/Programowanie.md",
+    "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
+    "02 MOC/MOC IT/MOC Metodyka programowania.md.edtz",
+    "03 Atomy/Metodyka programowania.md",
+    "02 MOC/MOC IT/Klasyfikacje języków programowania.md",
     "02 MOC/MOC IT/MOC Języki programowania.md",
     "03 Atomy/Programowanie obiektowe.md",
     "03 Atomy/Klasa (programowanie).md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md.edtz",
     "03 Atomy/Obiekt (programowanie).md",
     "Statusy notatek.md",
-    "Metodyka programowania.md",
-    "03 Atomy/Język programowania.md",
-    "Metodyka programowania.md.edtz",
-    "03 Atomy/Programowanie.md",
+    "03 Atomy/Metodyka programowania.md.edtz",
     "Komputer.md.edtz",
     "Komputer.md",
     "03 Atomy/Programowanie obiektowe.md.edtz",
@@ -416,8 +418,6 @@
     "Skróty klawiszowe.md",
     "00 Daily log/27-02-2026.md.edtz",
     "03 Atomy/System binarny.md.edtz",
-    "00 Daily log/26-02-2026.md",
-    "00 Daily log/26-02-2026.md.edtz",
-    "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md"
+    "00 Daily log/26-02-2026.md"
   ]
 }

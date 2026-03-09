@@ -1,11 +1,11 @@
 ---
 created: 2025-11-23 12:44
 tags:
-  - it/podstawy
   - atom
   - definicja
+  - it/programowanie
 modified date: 2026-03-09 12:51
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Prawdopodobny 🧪
 dojrzalosc: Sadzonka 🌱
 ---
 ang. *Computer programming*, *coding*

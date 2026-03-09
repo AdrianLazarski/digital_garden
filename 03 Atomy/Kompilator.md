@@ -1,9 +1,12 @@
 ---
 created: 2025-11-23 14:38
 tags:
-  - it/podstawy
   - atom
-modified date: 2025-11-23 14:45
+  - it/architektura
+  - definicja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-03-09 13:27
 ---
 > [!note] Definicja
 > Program tłumaczący program napisany w jednym języku programowania (źródłowym) na równoważny kod w innym języku (wynikowym).
