@@ -38,5 +38,20 @@ modified date: 2026-03-09 17:09
 - Duża zajętość [[Stos (pamięć)|stosu]] spowodowana kolejnymi wywołaniami, zarówno funkcji niezależnych, jak i rekurencji. 
 
 
+## Kluczowe pojęcia:
+[[Efekt uboczny]]
+Wartościowanie zachłanne
+Wartościowanie leniwe
+Mechanizm wejścia-wyjścia oparty na monadach
+Monady w programowaniu funkcyjnym to rodzaj konstruktorów abstrakcyjnych typów danych, które implementują funkcje wiążące (ang. *bind*) oraz jednostki (ang. *unit*).
+
+## Języki z programowaniem funkcyjnym
+
+- Klasyczne języki wspierające programowanie funkcyjne: Haskell, Lisp.
+- Stosowane też przez Python, F#, Nemerle, Ruby.
+- Większość języków stosujących metodykę strukturalną lub obiektową pozwala na stosowanie metodyki funkcyjnej, ale rzadko się spotyka.
+- Za to popularne sąkody
+
+
 
 $\leftarrow$ [[MOC Metodyka programowania]]
