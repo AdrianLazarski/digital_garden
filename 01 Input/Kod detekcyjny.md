@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-03-10 20:21
+publish: false
 ---
 Kody wykrywające błędy zawierają informację dodatkową. Ogólnie kody te nazywają się kody detekcyjne lub kody z zabezpieczeniem i zawierają bity redundacyjne (kod redundacyjny albo słowa redundacyjne – nadmiarowe).
 

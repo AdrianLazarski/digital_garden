@@ -117537,8 +117537,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773170499130,
-      "modifiedDate": 1773170642396,
-      "sizeInBytes": 2259,
+      "modifiedDate": 1773173299544,
+      "sizeInBytes": 2274,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -117556,7 +117556,8 @@
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
-        "modified date": "2026-03-10 20:21"
+        "modified date": "2026-03-10 20:21",
+        "publish": false
       }
     },
     "01 Input/Kod detekcyjny.md.edtz": {
@@ -117575,8 +117576,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1773170500877,
-      "modifiedDate": 1773170591470,
-      "sizeInBytes": 778,
+      "modifiedDate": 1773173294935,
+      "sizeInBytes": 1245,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
