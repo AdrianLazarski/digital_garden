@@ -11,7 +11,7 @@ modified date: 2026-03-10 13:19
 > [!note] Definicja
 > Metoda zapisywania liczb w taki sposób, że w zależności od pozycji danej cyfry w ciągu, oznacza ona wielokrotność potęgi pewnej liczby uznawanej za bazę danego systemu.
 
-![[System pozycyjny.webp]]
+![[System pozycyjny.webp|System pozycyjny]]
 
 ## System dziesiętny
 
@@ -23,4 +23,18 @@ $$10^2, 10^1, 10^0, 10^{-1}, 10^{-2}, 10^{-3} \dots$$
 Liczby dziesiętne mogą być wyrażone jako suma iloczynów każdej dekady i wartości w kolumnie odnoszącej się do tej dekady.
 
 np. liczba 9240 to:
-$$
+$$(9*10^3)+(2*10^2)+(4*10^1)+(0*10^0)$$
+czyli
+$$9*1000+2*100+4*10+0*1$$
+
+## System binarny
+
+Wagi są potęgami liczby dwa, które rosną od prawej do lewej z $2^0 =1$:
+$$\dots 2^5, 2^4,2^3,2^2,2^1,2^0.$$
+Dla liczb ułamkowych wagi są ujemnymi potęgami podstawy, które maleją od lewej do prawej:
+$$2^2, 2^1, 2^0, 2^{-1}, 2^{-2}, 2^{-3} \dots$$
+![[Zamiana  liczby binarnej na dziesiętną.webp|Zamiana liczby binarnej na dziesiętną]]
+
+![[Zamiana liczby dziesiętnej na binarną.webp|Zamiana liczby dziesiętnej na binarną]]
+
+![[Zamiana ułamka na liczbę binarną.webp|Zamiana ułamka na liczbę binarną]]
