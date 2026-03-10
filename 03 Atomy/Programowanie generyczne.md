@@ -31,7 +31,10 @@ Znane także jako programowanie uogólnione.
 
 ### Wady
 
-- 
+- Trudności w poszukiwaniu błędów, związane ze zbyt ogólnymi podpowiedziami kompilatorów dla uogólnionych konstrukcji kodu.
+- Problemy z błędami występującymi tylko przy określonych typach danych, a nieobecnymi przy innych typach.
+- Brak odzwierciedlenia bezpośrednich definicji klas w typach tworzonych obiektów.
+- Nadużywanie przez programistów konstrukcji generycznych, traktowanych jako zamienniki makr prekompilatora.
 
 
 $\leftarrow$ [[MOC Metodyka programowania]]
