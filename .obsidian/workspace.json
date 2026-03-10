@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Kod Graya.md",
+                "file": "03 Atomy/ASCII.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kod Graya"
+              "title": "ASCII"
             }
           },
           {
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "asc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,8 @@
               "title": "Zakładki"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -302,10 +303,10 @@
   },
   "active": "1314229c7b201838",
   "lastOpenFiles": [
+    "03 Atomy/Kod Graya.md",
     "03 Atomy/załączniki/Kod Graya.webp",
     "03 Atomy/Kod Graya.md.edtz",
     "03 Atomy/Kod BCD.md",
-    "03 Atomy/Kod Graya.md",
     "03 Atomy/załączniki/Zegar z BCD z bitami.webp",
     "03 Atomy/załączniki/Kod BCD.webp",
     "03 Atomy/Kod BCD.md.edtz",
@@ -332,7 +333,6 @@
     "Plany obsydianowe.md",
     "robocza2.md",
     "Dobre prompty do fiszek.md",
-    "Przykład Programowanie generyczne.webp",
     "03 Atomy/Nadtypy paradygmatów.md",
     "03 Atomy/Metodyka programowania.md",
     "03 Atomy/Programowanie typu logicznego.md",
