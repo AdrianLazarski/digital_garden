@@ -30,4 +30,5 @@ $$9*1000+2*100+4*10+0*1$$
 ## [[System binarny]]
 
 
-## [System hexadecy]
+## [[System hexadecymalny]]
+
