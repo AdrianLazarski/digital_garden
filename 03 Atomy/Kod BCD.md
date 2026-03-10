@@ -22,3 +22,4 @@ Używany powszechnie w systemach cyfrowych, szczególnie do wyświetlania cyfr d
 Słowa od 1010 do 1111 w BCD są nieużywane.
 
 ![[Zegar z BCD z bitami.webp|Zegar z BCD z bitami]]
+Oba zegary pokazują ten sam czas. Po prawej BCD8421. Czyta się od lewej do prawej i od dołu do góry.

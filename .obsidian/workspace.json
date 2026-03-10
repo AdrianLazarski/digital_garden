@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Kod BCD.md",
+                "file": "03 Atomy/Kod Graya.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kod BCD"
+              "title": "Kod Graya"
             }
           },
           {
@@ -302,11 +302,14 @@
   },
   "active": "1314229c7b201838",
   "lastOpenFiles": [
+    "03 Atomy/załączniki/Kod Graya.webp",
+    "03 Atomy/Kod Graya.md.edtz",
+    "03 Atomy/Kod BCD.md",
+    "03 Atomy/Kod Graya.md",
     "03 Atomy/załączniki/Zegar z BCD z bitami.webp",
     "03 Atomy/załączniki/Kod BCD.webp",
     "03 Atomy/Kod BCD.md.edtz",
     "03 Atomy/System hexadecymalny.md",
-    "03 Atomy/Kod BCD.md",
     "03 Atomy/System pozycyjny.md",
     "załączniki/Konwersja liczby hexadecymalnej na dziesiętną.webp",
     "załączniki/Wagi kolumn hexadecymalnych.webp",
@@ -331,7 +334,6 @@
     "Dobre prompty do fiszek.md",
     "Przykład Programowanie generyczne.webp",
     "03 Atomy/Nadtypy paradygmatów.md",
-    "01 Input przejściowy/!!Random/załączniki/Przykład programowanie funkcyjne.webp",
     "03 Atomy/Metodyka programowania.md",
     "03 Atomy/Programowanie typu logicznego.md",
     "03 Atomy/Typy metodyk programowania.md",
@@ -343,10 +345,8 @@
     "03 Atomy/Programowanie liniowe.md",
     "03 Atomy/Programowanie generyczne.md.edtz",
     "03 Atomy/Programowanie strukturalne.md",
-    "03 Atomy/Programowanie obiektowe.md",
     "03 Atomy/Programowanie strukturalne.md.edtz",
     "03 Atomy/Programowanie funkcyjne.md.edtz",
-    "03 Atomy/Programowanie typu logicznego.md.edtz",
-    "03 Atomy/Programowanie typu opisowego.md.edtz"
+    "03 Atomy/Programowanie typu logicznego.md.edtz"
   ]
 }
