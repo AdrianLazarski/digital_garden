@@ -3,8 +3,9 @@ created: 2026-02-26 11:16
 tags:
   - atom
   - matematyka/arytmetyka
-dojrzalosc:
-status_epistemiczny:
+  - it/technika_cyfrowa
+dojrzalosc: Krzak 🌿
+status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-02-27 14:25
 ---
 > [!note] Definicja
@@ -56,7 +57,7 @@ Przykład: zamiana liczby dziesiętnej 49 na binarną:
 | 1 + 1 + 0 = 10 | suma = 0, przeniesienie = 1 |
 | 1 + 1 + 1 = 11 | suma = 1, przeniesienie = 1 |
 
-![[System binarny-3.webp]]
+![[Dodawanie w systemie binarnym.webp|Dodawanie w systemie binarnym]]
 
 
 ### Odejmowanie w systemie binarnym
@@ -81,11 +82,13 @@ Tu już jest nietypowo. Odejjmujesz zgodnie z zasadami odejmowania w systemie bi
 
 ## Uzupełnienia systemu binarnego
 
-Uzupełnienie do 1 (U1) liczby binarnej, to po prostu negacja jej bitów. Wszystkie 0 zmieniasz na 1 i odwrotnie.
+> [!note] Definicja
+> Uzupełnienie do 1 (U1) liczby binarnej, to negacja jej bitów. Wszystkie 0 zmieniasz na 1 i odwrotnie.
 
-Uzupełnienie do 2 (U2) liczby binarnej polega na uzupełnieniu jej do 1, a następnie na dodaniu 1 (jednej jedynki) do wyniku
+> [!note] Definicja
+> Uzupełnienie do 2 (U2) liczby binarnej polega na uzupełnieniu jej do U1, a następnie na dodaniu 1 (jednej jedynki) do LSB.
 
-![[System binarny-7.webp]]
+![[Uzupełnienie do 2 kodu binarnego.webp|Uzupełnienie do 2 kodu binarnego]]
 
 
 ## Arytmetyka zmiennopozycyjna
