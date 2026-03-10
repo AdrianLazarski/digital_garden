@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Metodyka programowania.md",
+                "file": "O stronie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Metodyka programowania"
+              "title": "O stronie"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Programowanie typu logicznego.md",
+                "file": "02 MOC/MOC IT/MOC Metodyka programowania.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programowanie typu logicznego"
+              "title": "MOC Metodyka programowania"
             }
           },
           {
@@ -198,33 +198,9 @@
               "icon": "lucide-file",
               "title": "Programowanie typu imperatywnego"
             }
-          },
-          {
-            "id": "3a22d8c2e0c2c63e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/!!Random/Przykład programowanie funkcyjne.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Przykład programowanie funkcyjne"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -444,53 +420,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a22d8c2e0c2c63e",
+  "active": "2b304027bada2e3a",
   "lastOpenFiles": [
+    "index.md",
+    "robocza2.md",
+    "Dobre prompty do fiszek.md",
+    "Przykład Programowanie generyczne.webp",
+    "03 Atomy/Nadtypy paradygmatów.md",
+    "01 Input przejściowy/!!Random/załączniki/Przykład programowanie funkcyjne.webp",
+    "03 Atomy/Metodyka programowania.md",
+    "02 MOC/MOC IT/MOC Metodyka programowania.md",
+    "03 Atomy/Programowanie typu logicznego.md",
+    "03 Atomy/Typy metodyk programowania.md",
+    "03 Atomy/Programowanie typu opisowego.md",
+    "03 Atomy/Programowanie funkcyjne.md",
+    "01 Input przejściowy/!!Random/Przykład programowanie funkcyjne.md",
+    "Przykład programowanie funkcyjne-8.webp",
+    "Przykład programowanie funkcyjne-7.webp",
+    "Przykład programowanie funkcyjne-6.webp",
+    "Przykład programowanie funkcyjne-5.webp",
     "Przykład programowanie funkcyjne-3.webp",
+    "Przykład programowanie funkcyjne-4.webp",
     "Przykład programowanie funkcyjne-2.webp",
     "Przykład programowanie funkcyjne-1.webp",
-    "Przykład programowanie funkcyjne.webp",
     "01 Input przejściowy/!!Random/Przykład programowanie funkcyjne.md.edtz",
     "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md",
-    "01 Input przejściowy/!!Random/Przykład programowanie funkcyjne.md",
-    "Przykład Programowanie generyczne-8.webp",
-    "Przykład Programowanie generyczne-7.webp",
-    "Przykład Programowanie generyczne-6.webp",
-    "Przykład Programowanie generyczne-5.webp",
-    "Przykład Programowanie generyczne-4.webp",
-    "Przykład Programowanie generyczne-3.webp",
-    "Przykład Programowanie generyczne-2.webp",
     "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md.edtz",
     "03 Atomy/Programowanie generyczne.md",
     "O stronie.md",
     "03 Atomy/Programowanie typu imperatywnego.md",
     "03 Atomy/Programowanie liniowe.md",
-    "03 Atomy/Programowanie funkcyjne.md",
-    "03 Atomy/Programowanie typu opisowego.md",
     "03 Atomy/Programowanie generyczne.md.edtz",
     "03 Atomy/Programowanie strukturalne.md",
-    "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "03 Atomy/Programowanie obiektowe.md",
     "03 Atomy/Programowanie proceduralne.md",
-    "03 Atomy/Programowanie typu logicznego.md",
     "03 Atomy/Programowanie strukturalne.md.edtz",
     "03 Atomy/Programowanie stanowe.md",
     "03 Atomy/Programowanie funkcyjne.md.edtz",
     "03 Atomy/Programowanie typu funkcyjnego.md",
-    "03 Atomy/Typy metodyk programowania.md",
     "03 Atomy/Programowanie typu logicznego.md.edtz",
-    "03 Atomy/Metodyka programowania.md",
     "03 Atomy/Programowanie typu opisowego.md.edtz",
     "03 Atomy/Programowanie stanowe.md.edtz",
     "03 Atomy/Programowanie proceduralne.md.edtz",
     "03 Atomy/Programowanie liniowe.md.edtz",
-    "03 Atomy/Nadtypy paradygmatów.md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
     "03 Atomy/Historia programowania obiektowego.md",
     "03 Atomy/Kompilator.md",
     "Skróty klawiszowe.md",
-    "03 Atomy/Język programowania.md",
-    "03 Atomy/Programowanie.md",
-    "02 MOC/MOC IT/Klasyfikacje języków programowania.md"
+    "03 Atomy/Język programowania.md"
   ]
 }
