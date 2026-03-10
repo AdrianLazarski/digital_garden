@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC IT/MOC Języki programowania.md",
+                "file": "03 Atomy/System pozycyjny.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,179 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Języki programowania"
-            }
-          },
-          {
-            "id": "32c8b3228d53dabf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC IT/MOC Metodyka programowania.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Metodyka programowania"
-            }
-          },
-          {
-            "id": "0ff88366d0c85ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Programowanie obiektowe"
-            }
-          },
-          {
-            "id": "2b304027bada2e3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O stronie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "O stronie"
-            }
-          },
-          {
-            "id": "6d50eac539e549d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC IT/MOC Metodyka programowania.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Metodyka programowania"
-            }
-          },
-          {
-            "id": "2303ece45bad0fe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Programowanie typu opisowego.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Programowanie typu opisowego"
-            }
-          },
-          {
-            "id": "f9f1d292b977bdcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Programowanie funkcyjne.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Programowanie funkcyjne"
-            }
-          },
-          {
-            "id": "2b53d548d6d4d315",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Programowanie typu imperatywnego.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Programowanie typu imperatywnego"
+              "title": "System pozycyjny"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -420,22 +251,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b304027bada2e3a",
+  "active": "c7f6882152f8fc92",
   "lastOpenFiles": [
+    "System pozycyjny.webp",
+    "03 Atomy/System pozycyjny.md.edtz",
+    "02 MOC/MOC IT/MOC Języki programowania.md",
+    "03 Atomy/System pozycyjny.md",
+    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
+    "02 MOC/MOC IT/MOC Metodyka programowania.md",
+    "03 Atomy/Programowanie typu imperatywnego.md",
+    "03 Atomy/Programowanie funkcyjne.md",
+    "03 Atomy/Programowanie typu opisowego.md",
+    "O stronie.md",
     "index.md",
     "Plany obsydianowe.md",
-    "O stronie.md",
     "robocza2.md",
     "Dobre prompty do fiszek.md",
     "Przykład Programowanie generyczne.webp",
     "03 Atomy/Nadtypy paradygmatów.md",
     "01 Input przejściowy/!!Random/załączniki/Przykład programowanie funkcyjne.webp",
     "03 Atomy/Metodyka programowania.md",
-    "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "03 Atomy/Programowanie typu logicznego.md",
     "03 Atomy/Typy metodyk programowania.md",
-    "03 Atomy/Programowanie typu opisowego.md",
-    "03 Atomy/Programowanie funkcyjne.md",
     "01 Input przejściowy/!!Random/Przykład programowanie funkcyjne.md",
     "Przykład programowanie funkcyjne-8.webp",
     "Przykład programowanie funkcyjne-7.webp",
@@ -449,7 +286,6 @@
     "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md",
     "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md.edtz",
     "03 Atomy/Programowanie generyczne.md",
-    "03 Atomy/Programowanie typu imperatywnego.md",
     "03 Atomy/Programowanie liniowe.md",
     "03 Atomy/Programowanie generyczne.md.edtz",
     "03 Atomy/Programowanie strukturalne.md",
@@ -462,11 +298,6 @@
     "03 Atomy/Programowanie typu logicznego.md.edtz",
     "03 Atomy/Programowanie typu opisowego.md.edtz",
     "03 Atomy/Programowanie stanowe.md.edtz",
-    "03 Atomy/Programowanie proceduralne.md.edtz",
-    "03 Atomy/Programowanie liniowe.md.edtz",
-    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
-    "03 Atomy/Historia programowania obiektowego.md",
-    "03 Atomy/Kompilator.md",
-    "Skróty klawiszowe.md"
+    "03 Atomy/Programowanie proceduralne.md.edtz"
   ]
 }
