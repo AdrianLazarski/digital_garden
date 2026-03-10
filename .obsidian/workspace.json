@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "System pozycyjny"
             }
+          },
+          {
+            "id": "db2c8f44ea514bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/System binarny.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "System binarny"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "system binarny",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +109,8 @@
               "title": "Zakładki"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,15 +277,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7f6882152f8fc92",
+  "active": "db2c8f44ea514bee",
   "lastOpenFiles": [
+    "03 Atomy/System pozycyjny.md",
+    "03 Atomy/System binarny.md",
     "03 Atomy/załączniki/Zamiana ułamka na liczbę binarną.webp",
     "03 Atomy/załączniki/Zamiana liczby dziesiętnej na binarną.webp",
     "03 Atomy/załączniki/Zamiana  liczby binarnej na dziesiętną.webp",
     "03 Atomy/załączniki/System pozycyjny.webp",
     "03 Atomy/System pozycyjny.md.edtz",
     "02 MOC/MOC IT/MOC Języki programowania.md",
-    "03 Atomy/System pozycyjny.md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
     "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "03 Atomy/Programowanie typu imperatywnego.md",
@@ -281,7 +308,6 @@
     "Przykład programowanie funkcyjne-7.webp",
     "Przykład programowanie funkcyjne-6.webp",
     "Przykład programowanie funkcyjne-5.webp",
-    "Przykład programowanie funkcyjne-3.webp",
     "01 Input przejściowy/!!Random/Przykład programowanie funkcyjne.md.edtz",
     "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md",
     "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md.edtz",

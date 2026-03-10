@@ -2,28 +2,32 @@
 created: 2026-02-26 11:16
 tags:
   - atom
+  - matematyka/arytmetyka
 dojrzalosc:
 status_epistemiczny:
 modified date: 2026-02-27 14:25
 ---
+> [!note] Definicja
+>[[System pozycyjny]] o podstawie 2.
 
-- Wagi w systemie binarnym są potęgami liczby dwa które rosną od prawej do lewej z $2^0 =1$:
-  …$2^5, 2^4, 2^3, 2^2, 2^1, 2^0$
-- Dla liczb ułamkowych, wagi kolumn są ujemnymi potęgami dwójki które maleją od lewej do prawej:
-  $2^2, 2^1, 2^0, 2^{-1}, 2^{-2}, 2^{-3}, 2^{-4}$ …
+Wagi są potęgami liczby dwa, które rosną od prawej do lewej z $2^0 =1$:
+$$\dots 2^5, 2^4,2^3,2^2,2^1,2^0.$$
+Dla liczb ułamkowych wagi są ujemnymi potęgami podstawy, które maleją od lewej do prawej:
+$$2^2, 2^1, 2^0, 2^{-1}, 2^{-2}, 2^{-3} \dots$$
+## Konwersja z/na system dziesiętny
 
 - Odpowiednik dziesiętny liczby binarnej wyznacza się poprzez sumowanie wartości w kolumnach zawierających 1 opuszczając kolumny zawierające 0
 	Przykład: zamiana liczby binarnej 100101.01 na dziesiętną:
 		Zaczynamy od zapisania wag poszczególnych kolumn, następnie sumujemy wagi przy których stoją 1
-		![[System binarny.webp]]
+		![[Zamiana liczby binarnej na dziesiętną.webp|Zamiana liczby binarnej na dziesiętną]]
 
 Przykład: zamiana liczby dziesiętnej 49 na binarną:
 	Dzielimy zamienianą liczbę przez 2 i zapisujemy reszty z dzielenia:
-	![[System binarny-1.webp]]
+	![[Zamiana liczby dziesiętnej na binarną.webp|Zamiana liczby dziesiętnej na binarną]]
 
 - Zamiana ułamka dziesiętnego na binarny polega na mnożeniu przez 2. W kolejnych działaniach zapisujemy część całkowitą wyniku mnożenia.
 	Przykład: zamiana liczby dziesiętnej 0.188 na binarną:
-	![[System binarny-2.webp]]
+	![[Zamiana ułamka na liczbę binarną.webp|Zamiana ułamka na liczbę binarną]]
 - $(0.188)_{10} \not = (0.00110000001)_2$
 - Otrzymany ciąg zerojedynkowy jest nieskończony
 - Wynika to z wartości przyjętego ułamka dziesiętnego, który w systemie binarnym jest liczbą niewymierną
@@ -31,7 +35,9 @@ Przykład: zamiana liczby dziesiętnej 49 na binarną:
 - Im więcej cyfr zastosujemy tym dokładniejsze przybliżenieotrzymamy
 
 
-## Zasady dodawania w systemie binarnym:
+## Arytmetyka w systemi binarnym:
+
+### Dodawanie w systemie binarnym
 
 | Cyfry      | Wynik                       |
 | ---------- | --------------------------- |
@@ -53,25 +59,25 @@ Przykład: zamiana liczby dziesiętnej 49 na binarną:
 ![[System binarny-3.webp]]
 
 
-### Zasady odejmowania w systemie binarnym:
+### Odejmowanie w systemie binarnym
 
 0 - 0 = 0
 1 - 1 = 0
 1 - 0 = 1
 10 - 1 = 1 z pożyczką 1
 
-![[System binarny-4.webp]]
+![[Odejmowanie w systemie binarnym.webp|Odejmowanie w systemie binarnym]]
 
 ### Mnożenie w systemie binarnym
 
 Mnożysz jak w systemie dziesiętnym, tyle że wynik jest dwójkowy.
-![[System binarny-5.webp]]
+![[Mnożenie w systemie binarnym.webp|Mnożenie w systemie binarnym]]
  
 
 ### Dzielenie w systemie binarnym
 
 Tu już jest nietypowo. Odejjmujesz zgodnie z zasadami odejmowania w systemie binarnym.
-![[System binarny-6.webp]]
+![[Dzielenie w systemie binarnym.webp|Dzielenie w systemie binarnym]]
 
 ## Uzupełnienia systemu binarnego
 

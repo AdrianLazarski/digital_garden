@@ -27,14 +27,29 @@ $$(9*10^3)+(2*10^2)+(4*10^1)+(0*10^0)$$
 czyli
 $$9*1000+2*100+4*10+0*1$$
 
-## System binarny
+## [[System binarny]]
 
-Wagi są potęgami liczby dwa, które rosną od prawej do lewej z $2^0 =1$:
-$$\dots 2^5, 2^4,2^3,2^2,2^1,2^0.$$
-Dla liczb ułamkowych wagi są ujemnymi potęgami podstawy, które maleją od lewej do prawej:
-$$2^2, 2^1, 2^0, 2^{-1}, 2^{-2}, 2^{-3} \dots$$
-![[Zamiana  liczby binarnej na dziesiętną.webp|Zamiana liczby binarnej na dziesiętną]]
 
-![[Zamiana liczby dziesiętnej na binarną.webp|Zamiana liczby dziesiętnej na binarną]]
 
-![[Zamiana ułamka na liczbę binarną.webp|Zamiana ułamka na liczbę binarną]]
+
+
+
+### Działania w systemie binarnym
+
+**Zasady dodawania w systemie binarnym** wyglądają następująco:
+
+0 + 0 = 00
+
+0 + 1 = 01
+
+1 + 0 = 01
+
+1 + 1 = 10
+
+suma = 0, przeniesienie = 0
+
+suma = 1, przeniesienie = 0
+
+suma = 1, przeniesienie = 0
+
+suma = 0, przeniesienie = 1
