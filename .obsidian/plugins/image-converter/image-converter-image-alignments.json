@@ -1521,30 +1521,6 @@
       "width": "",
       "height": "",
       "wrap": false
-    },
-    "a163ae7fab94641e74d2a4c585a18fc5": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "0b122d02435ce42f291e6da86b11ba1b": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "67b652e96741a80139f2e464f6bb8c2b": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "d41ba361d7c0bdb49bf8c12cb3a8c830": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
     }
   },
   "03 Atomy/Programowanie stanowe.md": {
@@ -1591,10 +1567,28 @@
       "width": "",
       "height": "",
       "wrap": false
+    },
+    "bcd9f5f028ca88b618e1696ae02345d9": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6987590ff30b6bf9faf8adbc0f334ed1": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d87d842d67f162db0f47120acb13c2c0": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
     }
   },
-  "System hexadecymalny.md": {
-    "ed435bcf607d784b086c59f3b8efba24": {
+  "03 Atomy/Kod BCD.md": {
+    "7e10be5dabbf58e1471e9905515681da": {
       "position": "center",
       "width": "",
       "height": "",
