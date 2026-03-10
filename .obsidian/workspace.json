@@ -55,8 +55,7 @@
               "title": "System binarny"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,10 +276,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db2c8f44ea514bee",
+  "active": "c7f6882152f8fc92",
   "lastOpenFiles": [
-    "03 Atomy/System pozycyjny.md",
     "03 Atomy/System binarny.md",
+    "03 Atomy/System pozycyjny.md",
     "03 Atomy/załączniki/Zamiana ułamka na liczbę binarną.webp",
     "03 Atomy/załączniki/Zamiana liczby dziesiętnej na binarną.webp",
     "03 Atomy/załączniki/Zamiana  liczby binarnej na dziesiętną.webp",

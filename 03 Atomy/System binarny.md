@@ -93,7 +93,7 @@ Tu już jest nietypowo. Odejjmujesz zgodnie z zasadami odejmowania w systemie bi
 
 ## Arytmetyka zmiennopozycyjna
 
-W komputerach liczby dodatnie są zapisywane w formie NKB - naturalnego kodu binarnego (0 w bicie znaku), liczby ujemne natomiast są zapisywane w formie uzupełnienia do 2 (1 w bicie znaku).
+W komputerach liczby dodatnie są zapisywane w formie NKB – naturalnego kodu binarnego (0 w bicie znaku), liczby ujemne natomiast są zapisywane w formie uzupełnienia do 2 (1 w bicie znaku).
 
 ![[System binarny-8.webp]]
 
@@ -109,10 +109,17 @@ $(11000110)_{U2} = (-58)_{10}$
 - Zasady dodawania: dodajemy dwie liczby binarne ze znakiem. Pomijamy przeniesienia (nadmiary). Otrzymujemy wynik w formie liczby ze znakiem
 ![[System binarny-11.webp]]
 
+- Jeśli liczba bitów potrzebna do reprezentacji odpowiedzi zostaje przekroczona, występuje nadmiar.
+- Nadmiar może wystąpić tylko wtedy, gdy obydwie liczby mają ten sam znak.
+- Nadmiar jest sygnalizowany bitem przepełnienia.
 ![[System binarny-12.webp]]
 
+Zasady odejmowania: liczbę odjemnik uzupełniamy do 2, a następnie dodajemy do odjemnej. Pomijamy przeniesienia. Wynik jest w formie liczby ze znakiem.
 ![[System binarny-13.webp]]
 
+## Arytmetyka zmiennopozycjna
+
+Zapis zmiennopozycyjny umożliwia reprezentację bardzo dużych lub małych liczb.
 ![[System binarny-14.webp]]
 
 ![[System binarny-15.webp]]

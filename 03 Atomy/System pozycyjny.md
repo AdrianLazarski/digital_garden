@@ -30,26 +30,4 @@ $$9*1000+2*100+4*10+0*1$$
 ## [[System binarny]]
 
 
-
-
-
-
-### Działania w systemie binarnym
-
-**Zasady dodawania w systemie binarnym** wyglądają następująco:
-
-0 + 0 = 00
-
-0 + 1 = 01
-
-1 + 0 = 01
-
-1 + 1 = 10
-
-suma = 0, przeniesienie = 0
-
-suma = 1, przeniesienie = 0
-
-suma = 1, przeniesienie = 0
-
-suma = 0, przeniesienie = 1
+## [System hexadecy]
