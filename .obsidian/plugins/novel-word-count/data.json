@@ -33880,8 +33880,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1772304406108,
-      "modifiedDate": 1773146980862,
-      "sizeInBytes": 2251,
+      "modifiedDate": 1773147128167,
+      "sizeInBytes": 2245,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -33907,8 +33907,8 @@
       "embedCount": 17,
       "aliases": null,
       "createdDate": 1772304406102,
-      "modifiedDate": 1773146984450,
-      "sizeInBytes": 4540,
+      "modifiedDate": 1773147156520,
+      "sizeInBytes": 4594,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.5633333333333332,
@@ -33921,10 +33921,11 @@
         "created": "2026-02-26 11:16",
         "tags": [
           "atom",
-          "matematyka/arytmetyka"
+          "matematyka/arytmetyka",
+          "it/technika_cyfrowa"
         ],
-        "dojrzalosc": null,
-        "status_epistemiczny": null,
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Prawdopodobny 🧪",
         "modified date": "2026-02-27 14:25"
       }
     },
