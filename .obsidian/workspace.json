@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/ASCII.md",
+                "file": "01 Input/Kod detekcyjny.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ASCII"
+              "title": "Kod detekcyjny"
             }
           },
           {
@@ -77,6 +77,30 @@
               },
               "icon": "lucide-file",
               "title": "System binarny"
+            }
+          },
+          {
+            "id": "ef5063c58e907037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Szum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Szum"
             }
           }
         ],
@@ -112,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asc",
+                "query": "szum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -303,6 +327,10 @@
   },
   "active": "1314229c7b201838",
   "lastOpenFiles": [
+    "03 Atomy/Szum.md",
+    "01 Input/Kod detekcyjny.md",
+    "01 Input/Kod detekcyjny.md.edtz",
+    "03 Atomy/ASCII.md",
     "03 Atomy/załączniki/ASCII.webp",
     "03 Atomy/Kod Graya.md",
     "03 Atomy/załączniki/Kod Graya.webp",
@@ -321,7 +349,6 @@
     "03 Atomy/załączniki/Zamiana ułamka na liczbę binarną.webp",
     "03 Atomy/załączniki/Zamiana liczby dziesiętnej na binarną.webp",
     "03 Atomy/załączniki/Zamiana  liczby binarnej na dziesiętną.webp",
-    "03 Atomy/załączniki/System pozycyjny.webp",
     "03 Atomy/System pozycyjny.md.edtz",
     "02 MOC/MOC IT/MOC Języki programowania.md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
@@ -343,11 +370,8 @@
     "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md",
     "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md.edtz",
     "03 Atomy/Programowanie generyczne.md",
-    "03 Atomy/Programowanie liniowe.md",
     "03 Atomy/Programowanie generyczne.md.edtz",
-    "03 Atomy/Programowanie strukturalne.md",
     "03 Atomy/Programowanie strukturalne.md.edtz",
-    "03 Atomy/Programowanie funkcyjne.md.edtz",
-    "03 Atomy/Programowanie typu logicznego.md.edtz"
+    "03 Atomy/Programowanie funkcyjne.md.edtz"
   ]
 }
