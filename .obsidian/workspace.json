@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Węzeł sieci komputerowej.md",
+                "file": "03 Atomy/Bit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Węzeł sieci komputerowej"
+              "title": "Bit"
             }
           }
         ]
@@ -251,11 +251,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "180c24419c3d71cd",
+  "active": "c7f6882152f8fc92",
   "lastOpenFiles": [
+    "03 Atomy/załączniki/Wielokrotności bitów.webp",
+    "03 Atomy/Bit.md.edtz",
+    "03 Atomy/Węzeł sieci komputerowej.md",
+    "03 Atomy/Bit.md",
     "03 Atomy/Węzeł sieci komputerowej.md.edtz",
     "03 Atomy/Sieć komputerowa.md",
-    "03 Atomy/Węzeł sieci komputerowej.md",
     "03 Atomy/Sieć komputerowa.md.edtz",
     "01 Input/Kod detekcyjny.md",
     "03 Atomy/Szum.md",
@@ -294,10 +297,7 @@
     "03 Atomy/Nadtypy paradygmatów.md",
     "03 Atomy/Metodyka programowania.md",
     "03 Atomy/Programowanie typu logicznego.md",
-    "03 Atomy/Typy metodyk programowania.md",
     "01 Input przejściowy/!!Random/Przykład programowanie funkcyjne.md.edtz",
-    "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md.edtz",
-    "03 Atomy/Programowanie generyczne.md.edtz",
-    "03 Atomy/Programowanie strukturalne.md.edtz"
+    "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md.edtz"
   ]
 }
