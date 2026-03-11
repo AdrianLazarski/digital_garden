@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Bit.md",
+                "file": "03 Atomy/Adres IP v4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bit"
+              "title": "Adres IP v4"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:it/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -251,12 +251,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7f6882152f8fc92",
+  "active": "180c24419c3d71cd",
   "lastOpenFiles": [
+    "03 Atomy/Adres IP v4.md.edtz",
+    "03 Atomy/Oktet (informatyka).md",
+    "03 Atomy/Adres IP v4.md",
+    "03 Atomy/Oktet (informatyka).md.edtz",
+    "03 Atomy/Bit.md",
     "03 Atomy/załączniki/Wielokrotności bitów.webp",
     "03 Atomy/Bit.md.edtz",
     "03 Atomy/Węzeł sieci komputerowej.md",
-    "03 Atomy/Bit.md",
     "03 Atomy/Węzeł sieci komputerowej.md.edtz",
     "03 Atomy/Sieć komputerowa.md",
     "03 Atomy/Sieć komputerowa.md.edtz",
@@ -281,7 +285,6 @@
     "03 Atomy/System hexadecymalny.md.edtz",
     "03 Atomy/załączniki/Zamiana ułamka na liczbę binarną.webp",
     "03 Atomy/załączniki/Zamiana liczby dziesiętnej na binarną.webp",
-    "03 Atomy/załączniki/Zamiana  liczby binarnej na dziesiętną.webp",
     "03 Atomy/System pozycyjny.md.edtz",
     "02 MOC/MOC IT/MOC Języki programowania.md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
@@ -295,9 +298,6 @@
     "robocza2.md",
     "Dobre prompty do fiszek.md",
     "03 Atomy/Nadtypy paradygmatów.md",
-    "03 Atomy/Metodyka programowania.md",
-    "03 Atomy/Programowanie typu logicznego.md",
-    "01 Input przejściowy/!!Random/Przykład programowanie funkcyjne.md.edtz",
-    "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md.edtz"
+    "01 Input przejściowy/!!Random/Przykład programowanie funkcyjne.md.edtz"
   ]
 }
