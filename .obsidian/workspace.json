@@ -54,54 +54,6 @@
               "icon": "lucide-file",
               "title": "Kod detekcyjny"
             }
-          },
-          {
-            "id": "db2c8f44ea514bee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/System binarny.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "System binarny"
-            }
-          },
-          {
-            "id": "ef5063c58e907037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Szum.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Szum"
-            }
           }
         ],
         "currentTab": 1
@@ -328,6 +280,7 @@
   "active": "1314229c7b201838",
   "lastOpenFiles": [
     "03 Atomy/Szum.md",
+    "03 Atomy/System binarny.md",
     "01 Input/Kod detekcyjny.md",
     "01 Input/Kod detekcyjny.md.edtz",
     "03 Atomy/ASCII.md",
@@ -343,7 +296,6 @@
     "03 Atomy/System pozycyjny.md",
     "załączniki/Konwersja liczby hexadecymalnej na dziesiętną.webp",
     "załączniki/Wagi kolumn hexadecymalnych.webp",
-    "03 Atomy/System binarny.md",
     "załączniki/System hexadecymalny.webp",
     "03 Atomy/System hexadecymalny.md.edtz",
     "03 Atomy/załączniki/Zamiana ułamka na liczbę binarną.webp",
