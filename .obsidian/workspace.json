@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Kabel typu skrętka"
             }
+          },
+          {
+            "id": "c161ec9e7dfe4b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gotowanie/Pieczony kalafior Orzo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pieczony kalafior Orzo"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -276,8 +300,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f345f2db3cd24e5c",
+  "active": "c161ec9e7dfe4b0c",
   "lastOpenFiles": [
+    "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
+    "Gotowanie/Pieczony kalafior Orzo.md",
+    "Gotowanie/Pieczony kalafior Orzo.md.edtz",
     "03 Atomy/Kabel typu skrętka.md",
     "03 Atomy/załączniki/Kategorie_kabla_typu_skretka.webp",
     "03 Atomy/załączniki/S-FTP.webp",
@@ -311,7 +338,6 @@
     "03 Atomy/Internet.md",
     "03 Atomy/Internet.md.edtz",
     "03 Atomy/Protokół komunikacyjny.md",
-    "03 Atomy/Protokół komunikacyjny.md.edtz",
     "03 Atomy/Serwer.md",
     "03 Atomy/Klient.md",
     "03 Atomy/Bit.md",
@@ -320,8 +346,6 @@
     "01 Input/Kod detekcyjny.md",
     "03 Atomy/Szum.md",
     "03 Atomy/System binarny.md",
-    "03 Atomy/ASCII.md",
-    "03 Atomy/Kod Graya.md",
-    "03 Atomy/Kod BCD.md"
+    "03 Atomy/ASCII.md"
   ]
 }

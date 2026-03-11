@@ -119129,6 +119129,67 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "Gotowanie/Pieczony kalafior Orzo.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 105,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.35,
+      "characterCount": 728,
+      "nonWhitespaceCharacterCount": 597,
+      "newlineCount": 29,
+      "readingTimeInMinutes": 0.39622641509433965,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773252815480,
+      "modifiedDate": 1773253115801,
+      "sizeInBytes": 846,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-03-11 19:13",
+        "tags": [
+          "danie"
+        ],
+        "modified date": "2026-03-11 19:13"
+      }
+    },
+    "Gotowanie/Pieczony kalafior Orzo.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773252820337,
+      "modifiedDate": 1773253105518,
+      "sizeInBytes": 1094,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
