@@ -1,15 +1,18 @@
 ---
-created: 2026-03-11 14:03
+created: 2026-03-11 14:07
 tags:
   - atom
   - definicja
   - it/sieci
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date: 2026-03-11 14:06
+modified date: 2026-03-11 14:07
 ---
+
 > [!note] Definicja
-> Sposób lub też język komunikacji i wymiany danych między urządzeniami, określający reguły i zasady tej komunikacji.
+> Zbiór połączonych ze sobą [[Sieć komputerowa|sieci]] rozległych, stanowiących globalną sieć komputerową.
+
+
 
 
 ## Źródła:
