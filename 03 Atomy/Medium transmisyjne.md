@@ -15,7 +15,7 @@ modified date: 2026-03-11 14:02
 Medium takim może być kabel miedziany, światłowodowy, jak również fale radiowe (WiFi).
 
 
-
+[[MOC Media przewodowe]]
 
 
 
