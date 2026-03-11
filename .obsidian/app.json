@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "./załączniki"
+  "attachmentFolderPath": "./załączniki",
+  "newFileLocation": "current"
 }

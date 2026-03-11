@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/System pozycyjny.md",
+                "file": "03 Atomy/Węzeł sieci komputerowej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "System pozycyjny"
-            }
-          },
-          {
-            "id": "1314229c7b201838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input/Kod detekcyjny.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kod detekcyjny"
+              "title": "Węzeł sieci komputerowej"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "szum",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,8 +84,7 @@
               "title": "Zakładki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,11 +251,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1314229c7b201838",
+  "active": "180c24419c3d71cd",
   "lastOpenFiles": [
+    "03 Atomy/Węzeł sieci komputerowej.md.edtz",
+    "03 Atomy/Sieć komputerowa.md",
+    "03 Atomy/Węzeł sieci komputerowej.md",
+    "03 Atomy/Sieć komputerowa.md.edtz",
+    "01 Input/Kod detekcyjny.md",
     "03 Atomy/Szum.md",
     "03 Atomy/System binarny.md",
-    "01 Input/Kod detekcyjny.md",
     "01 Input/Kod detekcyjny.md.edtz",
     "03 Atomy/ASCII.md",
     "03 Atomy/załączniki/ASCII.webp",
@@ -317,13 +295,9 @@
     "03 Atomy/Metodyka programowania.md",
     "03 Atomy/Programowanie typu logicznego.md",
     "03 Atomy/Typy metodyk programowania.md",
-    "01 Input przejściowy/!!Random/Przykład programowanie funkcyjne.md",
     "01 Input przejściowy/!!Random/Przykład programowanie funkcyjne.md.edtz",
-    "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md",
     "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md.edtz",
-    "03 Atomy/Programowanie generyczne.md",
     "03 Atomy/Programowanie generyczne.md.edtz",
-    "03 Atomy/Programowanie strukturalne.md.edtz",
-    "03 Atomy/Programowanie funkcyjne.md.edtz"
+    "03 Atomy/Programowanie strukturalne.md.edtz"
   ]
 }
