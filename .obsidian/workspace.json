@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "MOC Media przewodowe"
             }
+          },
+          {
+            "id": "eb8ff86321589374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Kabel typu skrętka.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kabel typu skrętka"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "medium",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -251,11 +276,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7f6882152f8fc92",
+  "active": "eb8ff86321589374",
   "lastOpenFiles": [
+    "03 Atomy/załączniki/Kabel typu skrętka.webp",
+    "03 Atomy/Kabel koncentryczny.md",
+    "03 Atomy/Kabel typu skrętka.md",
+    "02 MOC/MOC IT/MOC Media przewodowe.md",
+    "03 Atomy/Kabel typu skrętka.md.edtz",
+    "03 Atomy/załączniki/Kabel koncentryczny-1.webp",
+    "03 Atomy/załączniki/Kabel koncentryczny.webp",
+    "03 Atomy/Kabel koncentryczny.md.edtz",
     "02 MOC/MOC IT/MOC Media przewodowe.md.edtz",
     "03 Atomy/Medium transmisyjne.md",
-    "02 MOC/MOC IT/MOC Media przewodowe.md",
     "03 Atomy/DHCP.md",
     "03 Atomy/DHCP.md.edtz",
     "03 Atomy/DND.md",
@@ -273,12 +305,9 @@
     "03 Atomy/Internet.md.edtz",
     "03 Atomy/Protokół komunikacyjny.md",
     "03 Atomy/Protokół komunikacyjny.md.edtz",
-    "03 Atomy/Medium transmisyjne.md.edtz",
     "03 Atomy/Serwer.md",
-    "03 Atomy/Serwer.md.edtz",
     "03 Atomy/Klient.md",
     "03 Atomy/Bit.md",
-    "03 Atomy/Klient.md.edtz",
     "03 Atomy/załączniki/Wielokrotności bitów.webp",
     "03 Atomy/Węzeł sieci komputerowej.md",
     "03 Atomy/Sieć komputerowa.md",
@@ -292,12 +321,8 @@
     "03 Atomy/Kod BCD.md",
     "03 Atomy/załączniki/Zegar z BCD z bitami.webp",
     "03 Atomy/załączniki/Kod BCD.webp",
-    "03 Atomy/System hexadecymalny.md",
-    "03 Atomy/System pozycyjny.md",
     "załączniki/Konwersja liczby hexadecymalnej na dziesiętną.webp",
     "załączniki/Wagi kolumn hexadecymalnych.webp",
-    "załączniki/System hexadecymalny.webp",
-    "03 Atomy/załączniki/Zamiana ułamka na liczbę binarną.webp",
-    "03 Atomy/załączniki/Zamiana liczby dziesiętnej na binarną.webp"
+    "załączniki/System hexadecymalny.webp"
   ]
 }
