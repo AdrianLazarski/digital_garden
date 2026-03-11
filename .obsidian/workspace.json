@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Klient.md",
+                "file": "03 Atomy/Protokół komunikacyjny.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Klient"
+              "title": "Protokół komunikacyjny"
             }
           }
         ]
@@ -253,15 +253,21 @@
   },
   "active": "c7f6882152f8fc92",
   "lastOpenFiles": [
-    "03 Atomy/Klient.md.edtz",
-    "03 Atomy/Host.md",
+    "03 Atomy/Protokół komunikacyjny.md.edtz",
+    "03 Atomy/Medium transmisyjne.md",
+    "03 Atomy/Protokół komunikacyjny.md",
+    "03 Atomy/Medium transmisyjne.md.edtz",
+    "03 Atomy/Serwer.md",
+    "03 Atomy/Serwer.md.edtz",
     "03 Atomy/Klient.md",
-    "03 Atomy/Host.md.edtz",
+    "03 Atomy/Host.md",
     "03 Atomy/Adres IP v4.md",
-    "03 Atomy/Adres IP v4.md.edtz",
     "03 Atomy/Oktet (informatyka).md",
-    "03 Atomy/Oktet (informatyka).md.edtz",
     "03 Atomy/Bit.md",
+    "03 Atomy/Klient.md.edtz",
+    "03 Atomy/Host.md.edtz",
+    "03 Atomy/Adres IP v4.md.edtz",
+    "03 Atomy/Oktet (informatyka).md.edtz",
     "03 Atomy/załączniki/Wielokrotności bitów.webp",
     "03 Atomy/Bit.md.edtz",
     "03 Atomy/Węzeł sieci komputerowej.md",
@@ -276,17 +282,14 @@
     "03 Atomy/załączniki/ASCII.webp",
     "03 Atomy/Kod Graya.md",
     "03 Atomy/załączniki/Kod Graya.webp",
-    "03 Atomy/Kod Graya.md.edtz",
     "03 Atomy/Kod BCD.md",
     "03 Atomy/załączniki/Zegar z BCD z bitami.webp",
     "03 Atomy/załączniki/Kod BCD.webp",
-    "03 Atomy/Kod BCD.md.edtz",
     "03 Atomy/System hexadecymalny.md",
     "03 Atomy/System pozycyjny.md",
     "załączniki/Konwersja liczby hexadecymalnej na dziesiętną.webp",
     "załączniki/Wagi kolumn hexadecymalnych.webp",
     "załączniki/System hexadecymalny.webp",
-    "03 Atomy/System hexadecymalny.md.edtz",
     "03 Atomy/załączniki/Zamiana ułamka na liczbę binarną.webp",
     "03 Atomy/załączniki/Zamiana liczby dziesiętnej na binarną.webp",
     "02 MOC/MOC IT/MOC Języki programowania.md",
@@ -295,9 +298,6 @@
     "03 Atomy/Programowanie typu imperatywnego.md",
     "03 Atomy/Programowanie funkcyjne.md",
     "03 Atomy/Programowanie typu opisowego.md",
-    "O stronie.md",
-    "index.md",
-    "Plany obsydianowe.md",
-    "robocza2.md"
+    "O stronie.md"
   ]
 }
