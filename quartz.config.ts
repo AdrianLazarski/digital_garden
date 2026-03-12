@@ -51,6 +51,7 @@ const config: QuartzConfig = {
           highlight: "rgba(137, 180, 250, 0.15)",
           textHighlight: "#f9e2af88",
          },
+       },
     },
   },
   plugins: {
