@@ -6,6 +6,9 @@ on:
   repository_dispatch:
     types: [notes_updated]
 
+env:
+  THEME_NAME: fastpuccin
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -28,11 +31,13 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 24
 
       - name: Install & Build
         run: |
-          npm install --force
+          node -v
+          npm -v
+          npm install --force --legacy-peer-deps
           npx quartz build
 
       - name: Deploy
