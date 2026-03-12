@@ -32,7 +32,7 @@ jobs:
 
       - name: Install & Build
         run: |
-          npm install
+          npm install --force
           npx quartz build
 
       - name: Deploy
