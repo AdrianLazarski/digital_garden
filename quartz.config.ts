@@ -9,7 +9,6 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Sofiofilia",
-    theme: "fastpuccin",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
