@@ -30,23 +30,24 @@
   margin-bottom: 2rem;
 }
 
-// LOGO
+// LOGO I TYTUŁ - KOREKTA WYSOKOŚCI
 .page-title {
-  margin-top: 2.5rem !important;
-  display: block !important; // Rozbija domyślny układ Quartza
+  margin-top: 1rem !important; // Zmniejszone, by logo było wyżej
+  margin-bottom: 0.5rem !important; 
+  display: block !important;
 
   & a {
     display: flex !important;
-    flex-direction: column !important; // Logo nad tekstem
+    flex-direction: column !important; 
     align-items: flex-start !important;
-    gap: 15px !important;
+    gap: 10px !important; // Nieco mniejszy odstęp między sercem a tekstem
     text-decoration: none !important;
 
     &::before {
       content: "" !important;
       display: block !important;
-      width: 150px !important; // Wielkość z dema
-      height: 150px !important;
+      width: 130px !important; // Minimalnie zmniejszyłem, żeby nie dominowało za bardzo
+      height: 130px !important;
       background-image: url("https://adrianlazarski.github.io/digital_garden/static/logo.png") !important;
       background-size: contain !important;
       background-repeat: no-repeat !important;
