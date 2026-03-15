@@ -35,9 +35,9 @@
   margin-top: 2rem;
   margin-bottom: 1rem;
 
-  a {
+  a.m-title {
     display: flex !important;
-    flex-direction: column !important; // Układa logo nad napisem
+    flex-direction: column !important; 
     align-items: flex-start !important;
     gap: 15px;
     text-decoration: none;
@@ -45,14 +45,13 @@
     &::before {
       content: "";
       display: block !important;
-      width: 120px !important;  // Solidny rozmiar z demo
+      width: 120px !important;  
       height: 120px !important;
-      // Używamy adresu, o którym wiemy, że działa:
-      background-image: url("https://adrianlazarski.github.io/digital_garden/quartz/static/logo.png");
+      // USUNIĘTO /quartz/ Z ADRESU:
+      background-image: url("/digital_garden/static/logo.png");
       background-size: contain;
       background-repeat: no-repeat;
       background-position: left center;
-      border-radius: 8px;
     }
   }
 }
