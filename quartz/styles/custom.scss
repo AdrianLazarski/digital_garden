@@ -33,20 +33,24 @@
 // Mapowanie kolorów Fastpuccin dla nagłówków
 // Tryb Ciemny (Mocha)
 body[aria-label="dark"] {
-  h1 { color: #cba6f7 !important; } // Mauve
-  h2 { color: #89b4fa !important; } // Blue
-  h3 { color: #a6e3a1 !important; } // Green
-  h4 { color: #f9e2af !important; } // Yellow
-  h5 { color: #fab387 !important; } // Peach
-  h6 { color: #eba0ac !important; } // Maroon
+  .content {
+    h1, h1 > a { color: #cba6f7 !important; } // Mauve
+    h2, h2 > a { color: #89b4fa !important; } // Blue
+    h3, h3 > a { color: #a6e3a1 !important; } // Green
+    h4, h4 > a { color: #f9e2af !important; } // Yellow
+    h5, h5 > a { color: #fab387 !important; } // Peach
+    h6, h6 > a { color: #eba0ac !important; } // Maroon
+  }
 }
 
 // Tryb Jasny (Latte)
 body[aria-label="light"] {
-  h1 { color: #8839ef !important; } // Mauve
-  h2 { color: #1e66f5 !important; } // Blue
-  h3 { color: #40a02b !important; } // Green
-  h4 { color: #df8e1e !important; } // Yellow
-  h5 { color: #fe640b !important; } // Peach
-  h6 { color: #e64553 !important; } // Maroon
+  .content {
+    h1, h1 > a { color: #8839ef !important; } // Mauve
+    h2, h2 > a { color: #1e66f5 !important; } // Blue
+    h3, h3 > a { color: #40a02b !important; } // Green
+    h4, h4 > a { color: #df8e1e !important; } // Yellow
+    h5, h5 > a { color: #fe640b !important; } // Peach
+    h6, h6 > a { color: #e64553 !important; } // Maroon
+  }
 }
