@@ -30,22 +30,28 @@
   margin-bottom: 2rem;
 }
 
-// 1. LOGO - celujemy w każdy link w tytule strony
-.page-title a, .page-title a.m-title {
-  display: flex !important;
-  align-items: center !important;
-  gap: 10px;
+// LOGO
+.page-title {
+  margin-top: 2rem;
+  
+  a.m-title {
+    display: flex !important;
+    flex-direction: column !important; // Układa logo nad tekstem
+    align-items: flex-start !important;
+    gap: 15px;
+    text-decoration: none;
 
-  &::before {
-    content: "";
-    display: inline-block;
-    width: 40px;
-    height: 40px;
-    // Używamy ścieżki relatywnej do domeny
-    background-image: url("/digital_garden/static/logo.png");
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
+    &::before {
+      content: "";
+      display: block;
+      width: 150px !important;  // Zwiększone z 40px
+      height: 150px !important; // Zwiększone z 40px
+      background-image: url("/digital_garden/static/logo.png");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: left center;
+      border-radius: 10px;      // Opcjonalne: lekko zaokrąglone rogi jak w demo
+    }
   }
 }
 
