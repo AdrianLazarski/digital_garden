@@ -30,19 +30,23 @@
   margin-bottom: 2rem;
 }
 
-// Kolory dla trybu ciemnego (Mocha)
+// Mapowanie kolorów Fastpuccin dla nagłówków
+// Tryb Ciemny (Mocha)
 body[aria-label="dark"] {
-  h1 { color: #cba6f7; } // Mauve
-  h2 { color: #89b4fa; } // Blue
-  h3 { color: #94e2d5; } // Teal
-  h4 { color: #f9e2af; } // Yellow
+  h1 { color: #cba6f7 !important; } // Mauve
+  h2 { color: #89b4fa !important; } // Blue
+  h3 { color: #a6e3a1 !important; } // Green
+  h4 { color: #f9e2af !important; } // Yellow
+  h5 { color: #fab387 !important; } // Peach
+  h6 { color: #eba0ac !important; } // Maroon
 }
 
-// Kolory dla trybu jasnego (Latte)
+// Tryb Jasny (Latte)
 body[aria-label="light"] {
-  h1 { color: #8839ef; } // Mauve
-  h2 { color: #1e66f5; } // Blue
-  h3 { color: #179287; } // Teal
-  h4 { color: #df8e1e; } // Yellow
+  h1 { color: #8839ef !important; } // Mauve
+  h2 { color: #1e66f5 !important; } // Blue
+  h3 { color: #40a02b !important; } // Green
+  h4 { color: #df8e1e !important; } // Yellow
+  h5 { color: #fe640b !important; } // Peach
+  h6 { color: #e64553 !important; } // Maroon
 }
-
