@@ -29,3 +29,20 @@
   border-radius: 8px;
   margin-bottom: 2rem;
 }
+
+// Kolory dla trybu ciemnego (Mocha)
+body[aria-label="dark"] {
+  h1 { color: #cba6f7; } // Mauve
+  h2 { color: #89b4fa; } // Blue
+  h3 { color: #94e2d5; } // Teal
+  h4 { color: #f9e2af; } // Yellow
+}
+
+// Kolory dla trybu jasnego (Latte)
+body[aria-label="light"] {
+  h1 { color: #8839ef; } // Mauve
+  h2 { color: #1e66f5; } // Blue
+  h3 { color: #179287; } // Teal
+  h4 { color: #df8e1e; } // Yellow
+}
+
