@@ -32,26 +32,25 @@
 
 // LOGO
 .page-title {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin-top: 2.5rem !important;
+  display: block !important; // Rozbija domyślny układ Quartza
 
-  a.m-title {
+  & a {
     display: flex !important;
-    flex-direction: column !important; 
+    flex-direction: column !important; // Logo nad tekstem
     align-items: flex-start !important;
-    gap: 15px;
-    text-decoration: none;
+    gap: 15px !important;
+    text-decoration: none !important;
 
     &::before {
-      content: "";
+      content: "" !important;
       display: block !important;
-      width: 120px !important;  
-      height: 120px !important;
-      // USUNIĘTO /quartz/ Z ADRESU:
-      background-image: url("/digital_garden/static/logo.png");
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-position: left center;
+      width: 150px !important; // Wielkość z dema
+      height: 150px !important;
+      background-image: url("https://adrianlazarski.github.io/digital_garden/static/logo.png") !important;
+      background-size: contain !important;
+      background-repeat: no-repeat !important;
+      background-position: left !important;
     }
   }
 }
