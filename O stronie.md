@@ -8,6 +8,27 @@ publish: true
 ---
 aaaa
 
+**boldy**
+
+*italici*
+
+> [!note] Definicja
+> definicja
+
+> [!quote] Cytat
+> cytat
+> 
+
+
+> [!tldr] Wzór
+> wzór
+
+
+> [!warning] Uwaga!
+> oszczyżenię
+> 
+
+<mark style="background:#ff4d4f">zakreślenie</mark>
 # test
 aaa
 ## test
