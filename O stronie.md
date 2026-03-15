@@ -58,12 +58,28 @@ The world seems intelligently designed. [God]: God exists. <Teleological proof>
 ```
 
 ```argdown
-(1) s1 
-(2) s2 
----- 
-(3) s3
+	(1) s1 
+	(2) s2 
+	---- 
+	(3) s3
 ```
 
 
-```ar
+```argdown
+[God]: There is a god. 
+	+ <Teleological Proof>: Since the world is intelligently designed, there has to be an intelligent creator. 
+	+  <Ontological Proof>: Whatever is contained in a clear and distinct idea of a thing must be predicated of that thing; but a clear and distinct idea of an absolutely perfect Being contains the idea of actual existence; therefore, since we have the idea of an absolutely perfect Being, such a Being must really exist.
 ```
+
+
+```argdown 
+[Statement]: this is a statement
+    + pro one
+	    - con 01
+	    + dupa
+    + pro 2
+    - con 1
+	    - con21
+	    + pro 21
+```
+
