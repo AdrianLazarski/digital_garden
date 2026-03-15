@@ -30,41 +30,38 @@
   margin-bottom: 2rem;
 }
 
-// LOGO
-.page-title {
-  display: flex;
-  align-items: center;
-  gap: 12px;
+// 1. LOGO - celujemy w każdy link w tytule strony
+.page-title a, .page-title a.m-title {
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px;
 
-  a.m-title::before {
+  &::before {
     content: "";
     display: inline-block;
     width: 40px;
     height: 40px;
-    background-image: url("/static/logo.png"); // Quartz sam obsłuży baseUrl
+    // Używamy ścieżki relatywnej do domeny
+    background-image: url("/digital_garden/static/logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    margin-right: 10px;
   }
 }
 
-// NAGŁÓWKI - TRYB CIEMNY (Mocha)
-html[saved-theme="dark"] {
-  .content {
-    h1, h1 * { color: #cba6f7 !important; }
-    h2, h2 * { color: #89b4fa !important; }
-    h3, h3 * { color: #a6e3a1 !important; }
-    h4, h4 * { color: #f9e2af !important; }
-  }
+// 2. NAGŁÓWKI - tryb ciemny (Mocha)
+// Quartz v4 używa selektora [saved-theme="dark"] na elemencie HTML
+:root[saved-theme="dark"] {
+  h1, h1 *, h1 a { color: #cba6f7 !important; } 
+  h2, h2 *, h2 a { color: #89b4fa !important; }
+  h3, h3 *, h3 a { color: #a6e3a1 !important; }
+  h4, h4 *, h4 a { color: #f9e2af !important; }
 }
 
-// NAGŁÓWKI - TRYB JASNY (Latte)
-html[saved-theme="light"] {
-  .content {
-    h1, h1 * { color: #8839ef !important; }
-    h2, h2 * { color: #1e66f5 !important; }
-    h3, h3 * { color: #40a02b !important; }
-    h4, h4 * { color: #df8e1e !important; }
-  }
+// 3. NAGŁÓWKI - tryb jasny (Latte)
+:root[saved-theme="light"] {
+  h1, h1 *, h1 a { color: #8839ef !important; }
+  h2, h2 *, h2 a { color: #1e66f5 !important; }
+  h3, h3 *, h3 a { color: #40a02b !important; }
+  h4, h4 *, h4 a { color: #df8e1e !important; }
 }
