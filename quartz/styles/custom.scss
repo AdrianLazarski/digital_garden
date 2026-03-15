@@ -54,3 +54,26 @@ body[aria-label="light"] {
     h6, h6 * { color: #e64553 !important; fill: #e64553 !important; } 
   }
 }
+
+.page-title {
+  display: flex;
+  align-items: center;
+  gap: 12px; // Odstęp między logo a napisem
+
+  a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+
+    &::before {
+      content: "";
+      display: inline-block;
+      width: 40px;  // Szerokość logo
+      height: 40px; // Wysokość logo
+      background-image: url("/static/logo.png");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+  }
+}
