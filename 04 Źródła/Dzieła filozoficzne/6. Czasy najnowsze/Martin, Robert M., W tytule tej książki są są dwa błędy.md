@@ -100,3 +100,8 @@ Jesteśmy w stanie pomyśleć jakieś zdarzenie, bez myślenia jednocześnie o j
 s. 253
 Dopóki prawa matematyki odnoszą się do rzeczywistości, nie są one pewne, a dopóki są pewne, nie odnoszą się one do rzeczywistości.
 	Albert Einstein
+
+- Jeśli wydaje ci się, że doświadczenie pokazuje, że 5+7=12, to rozważ następujący scenariusz.
+	- Do dużego pojemnika wrzucamy zawartość siedmiu jednakowych skrzyń pomarańczy i pięciu takich samych skrzyń rodzynek i mieszamy owoce. Ile skrzyń owoców otrzymujemy w wyniku tego? Nie 12, bo rodzynki wypełniają przestrzenie między pomarańczami. 
+- To jest po prostu źle sformułowane zadanie. Są inne metody precyzyjnego pomiaru np. 7kg pomarańczy i 5kg rodzynek da 12kg mieszanki.
+	- Też niekoniecznie, bo w ściśniętych ciała energia kinetyczna przekształca się w masę, gdy przestają się poruszać względem siebie. Konsekwencja słynnego e=mc^2. Oczywiście w życiu codziennym jest to niezauważalne.
