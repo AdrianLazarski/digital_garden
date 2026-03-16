@@ -105,3 +105,11 @@ Dopóki prawa matematyki odnoszą się do rzeczywistości, nie są one pewne, a 
 	- Do dużego pojemnika wrzucamy zawartość siedmiu jednakowych skrzyń pomarańczy i pięciu takich samych skrzyń rodzynek i mieszamy owoce. Ile skrzyń owoców otrzymujemy w wyniku tego? Nie 12, bo rodzynki wypełniają przestrzenie między pomarańczami. 
 - To jest po prostu źle sformułowane zadanie. Są inne metody precyzyjnego pomiaru np. 7kg pomarańczy i 5kg rodzynek da 12kg mieszanki.
 	- Też niekoniecznie, bo w ściśniętych ciała energia kinetyczna przekształca się w masę, gdy przestają się poruszać względem siebie. Konsekwencja słynnego e=mc^2. Oczywiście w życiu codziennym jest to niezauważalne.
+
+
+s. 344
+- Grupa osób A, B, C, D jest studentami danego uniwersytetu X. Razem tworzą grupę X.
+- Uniwersytet X zostaje zlikwidowane i A, B, C oraz D przenoszą się na inne uczelnie. Grupa X przestaje istnieć, mimo że jej elementy dalej istnieją. 
+
+s. 420
+- Chcecie z kolegą zabić X. Wsypujesz X truciznę do bigosu. Sprzedawca trucizny donosi na ciebie na policję, więc zostajesz aresztowany i oskarżony o morderstwo, a X robią płukanie żołądka, ale jest za późno i umiera. Twój kolega wchodzi do szpitala i strzela do X
