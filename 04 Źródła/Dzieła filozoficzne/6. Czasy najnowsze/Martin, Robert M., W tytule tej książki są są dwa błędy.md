@@ -61,3 +61,10 @@ Dowód na istnienie Boga
 1. Bóg istnieje
 2. Obydwa te zdania są fałszywe.
 
+Są dwie reguły osiągania sukcesu. 1. Nigdy nie mów wszystkiego, co wiesz.
+
+- Jeśli Bóg istnieje, to zadanie niepotrzebny ból i cierpienie. $B \to N$
+- Zarówno wierzący, jak i ateiści uznają to zdanie za fałszywe, bo jeśli Bóg by istniał, to cierpienie byłoby częścią jego planu. Zatem $\neg (B \to N)$
+- Z $\neg (P \to Q) \iff P \land \neg Q$:
+- $B \land \neg N$, czyli Bóg istnieje.
+
