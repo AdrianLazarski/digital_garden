@@ -119263,20 +119263,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 37,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 225,
+      "nonWhitespaceCharacterCount": 185,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.13962264150943396,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773670276830,
-      "modifiedDate": 1773670283092,
-      "sizeInBytes": 0,
+      "modifiedDate": 1773670573363,
+      "sizeInBytes": 570,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -119284,6 +119284,21 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-03-16 15:11",
+        "tags": [
+          "ref",
+          "filozofia/współczesna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-03-16 15:11",
+        "oryginalny-tytul": "There are two errors in the the title of this book",
+        "Rok oryginału": "2002",
+        "Rok wydania": "2011",
+        "Miejsce wydania": "Warszawa",
+        "tłumaczenie": "Barbara Stanosz"
       }
     },
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md.edtz": {
@@ -119302,8 +119317,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1773670283315,
-      "modifiedDate": 1773670283316,
-      "sizeInBytes": 112,
+      "modifiedDate": 1773670518160,
+      "sizeInBytes": 951,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

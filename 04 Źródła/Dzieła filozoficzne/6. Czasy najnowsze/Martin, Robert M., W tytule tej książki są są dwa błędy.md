@@ -12,3 +12,7 @@ Rok wydania: "2011"
 Miejsce wydania: Warszawa
 tłumaczenie: Barbara Stanosz
 ---
+Zadanie filozofii polega na zaczynaniu od rzeczy tak prostych, że z pozoru nie warto o nich mówić, a kończeniu na czymś tak paradoksalnym, że nikt w to nie wierzy.
+	Bertrand Russell, The Philosophy of Logical Atomism, 1956
+
+- Odwrócone spektrum kolorów – osoba X patrząc na czerwony widzi fiolet, patrząc na niebieski widzi pomarańczowy itd. Spytana jaki kolor mają liście bez trudu powie, że zielony, nawet jak "naprawdę" widzi żółty. 
