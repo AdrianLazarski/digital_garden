@@ -66,5 +66,16 @@ Są dwie reguły osiągania sukcesu. 1. Nigdy nie mów wszystkiego, co wiesz.
 - Jeśli Bóg istnieje, to zadanie niepotrzebny ból i cierpienie. $B \to N$
 - Zarówno wierzący, jak i ateiści uznają to zdanie za fałszywe, bo jeśli Bóg by istniał, to cierpienie byłoby częścią jego planu. Zatem $\neg (B \to N)$
 - Z $\neg (P \to Q) \iff P \land \neg Q$:
-- $B \land \neg N$, czyli Bóg istnieje.
+- $B \land \neg N$, czyli Bóg istnieje i nie ma niepotrzebnego bólu i cierpienia.
+
+Każda kolejna wersja tego zdania jest bardziej prawdopodobna, bo zmniejsza szansę na pomyłkę, ale niesie też co raz mniejszą wartość obserwacyjną.
+1. Przed domem jest wróbel angielski.
+2. Przed domem jest wróbel.
+3. Przed domem jest ptak.
+4. Przed domem jest jakaś żywa istota.
+5. Przed domem jest jakiś obiekt.
+6. Wydaje mi się, że widzę coś przed domem.
+
+Sporządźmy hipotetyczną 
+
 
