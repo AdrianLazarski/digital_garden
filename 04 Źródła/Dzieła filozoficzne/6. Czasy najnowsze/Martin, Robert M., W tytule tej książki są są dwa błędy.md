@@ -46,3 +46,18 @@ Liczenie użyteczności często zakłada, że 3000 mają dla jednostki taką sam
 	- A i B głosują na 2.
 	- C głosuje na 3.
 - Jest to przykład nieudanej próby użycia indywidualnych preferencji do ustalenia jakiejś woli zbiorowej.
+
+- Problem oceny zdań kontrfaktycznych
+- Przykład Kriepkiego:
+	- Gdyby Verdi i Bizet byli rodakami, to Bizet byłby Włochem.
+	- Gdyby Verdi i Bizet byli rodakami, to Verdi byłby Francuzem.
+- Obydwa te zdania nie mogą być jednocześnie prawdziwe.
+- Przykład Quine'a:
+	- Gdyby Juliusz Cezar był dowódcą w Korei, użyłby bomby atomowej.
+	- Gdyby Juliusz Cezar był dowódcą w Korei, użyłby katapult.
+- Polecane: David Lewis, Counterfactuals, 1973
+
+Dowód na istnienie Boga
+1. Bóg istnieje
+2. Obydwa te zdania są fałszywe.
+
