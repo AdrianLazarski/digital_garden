@@ -68,6 +68,7 @@ Są dwie reguły osiągania sukcesu. 1. Nigdy nie mów wszystkiego, co wiesz.
 - Z $\neg (P \to Q) \iff P \land \neg Q$:
 - $B \land \neg N$, czyli Bóg istnieje i nie ma niepotrzebnego bólu i cierpienia.
 
+s.159
 Każda kolejna wersja tego zdania jest bardziej prawdopodobna, bo zmniejsza szansę na pomyłkę, ale niesie też co raz mniejszą wartość obserwacyjną.
 1. Przed domem jest wróbel angielski.
 2. Przed domem jest wróbel.
@@ -76,6 +77,7 @@ Każda kolejna wersja tego zdania jest bardziej prawdopodobna, bo zmniejsza szan
 5. Przed domem jest jakiś obiekt.
 6. Wydaje mi się, że widzę coś przed domem.
 
+s. 161
 Sporządźmy hipotetyczną listę zdań o prawdziwości której jesteśmy przekonani i dodajmy na końcu pewną klauzulę:
 - Ryby żyją pod wodą
 - USA ma większą populację, niż Kanada
@@ -84,5 +86,10 @@ Sporządźmy hipotetyczną listę zdań o prawdziwości której jesteśmy przeko
 - Co najmniej jedno z pozostałych zdań na tej liście jest fałszywe. 
 Jeśli wszystkie zdania, które uważasz za prawdziwe faktycznie są prawdziwe, to wpadasz w sprzeczność. Konieczna jest fałszywość co najmniej jednego zdania, choćby to było to ostatnie zdanie.
 
+Można o psach powiedzieć, że mają pojęcie jadalności, bo odróżniają jako tako to, co mogą zjeść, od tego, czego nie mogą. Nie posiadają natomiast słów dla tych pojęć.
 
+Nie powinno się utożsamiać pojęć z naszymi stanami psychicznymi, bo wtedy prawdziwość zdań analitycznych zależałaby od stanów psychicznych. A zdania raczej pozostają prawdziwe niezależnie od tego, co ktokolwiek pomyśli.
+
+s. 246
+Wyobraź sobie, że zostawiasz popsuty samochód o mechanika. Po jakimś umówionym czasie przychodzisz go odebrać, a mechanik mówi, że go nie naprawił, bo nie ma żadnego powodu, żeby gasł. Rozkręcił na części, wszystko sprawdził i wszystko było sprawne. Po prostu gaśmn
 
