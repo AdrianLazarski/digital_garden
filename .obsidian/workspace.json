@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Stefanowicz Bogdan, Informacja"
             }
+          },
+          {
+            "id": "842945388dc6ce89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Martin, Robert M., W tytule tej książki są są dwa błędy"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -276,11 +300,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb8ff86321589374",
+  "active": "842945388dc6ce89",
   "lastOpenFiles": [
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md.edtz",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md",
+    "Książki/Stefanowicz Bogdan, Informacja.md",
     "Książki/Stefanowicz Bogdan, Informacja.md.edtz",
     "03 Atomy/Kabel typu skrętka.md",
-    "Książki/Stefanowicz Bogdan, Informacja.md",
     "O stronie.md",
     "Bez nazwy.md",
     "Bez nazwy.md.edtz",
@@ -315,14 +341,12 @@
     "03 Atomy/Ekstranet.md",
     "03 Atomy/Intranet.md",
     "03 Atomy/Ekstranet.md.edtz",
-    "03 Atomy/Intranet.md.edtz",
     "03 Atomy/Internet.md",
     "03 Atomy/Protokół komunikacyjny.md",
     "03 Atomy/Serwer.md",
     "03 Atomy/Klient.md",
     "03 Atomy/Bit.md",
     "03 Atomy/Węzeł sieci komputerowej.md",
-    "03 Atomy/Sieć komputerowa.md",
-    "01 Input/Kod detekcyjny.md"
+    "03 Atomy/Sieć komputerowa.md"
   ]
 }
