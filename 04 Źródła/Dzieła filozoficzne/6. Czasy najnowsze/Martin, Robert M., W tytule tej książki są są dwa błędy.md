@@ -115,3 +115,4 @@ s. 420
 - Chcesz zabić X. Wsypujesz X truciznę do bigosu. Sprzedawca trucizny donosi na ciebie na policję, więc zostajesz aresztowany i oskarżony o morderstwo, a X robią płukanie żołądka, ale jest za późno i umiera. Y wchodzi do szpitala i strzela do X, zabijając go. Tobie policja zmienia zarzut na usiłowanie zabójstwa. Wydaje się, że przestępstwo, które popełniasz i kara jaka powinna cię czekać, powinny zależeć tylko od twojego czynu, a nie od tego, co wydarza się potem.
 
 
+Dość oryginalna książka z zakresu propedeutyki filozofii, przy czym ciężko mi zdecydować, czy ta jej oryginalność to wada czy zaleta. Z jednej strony 
