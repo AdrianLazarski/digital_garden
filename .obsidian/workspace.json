@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "Kabel typu skrętka"
             }
-          },
-          {
-            "id": "d64c5b209fa2cbaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O stronie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "O stronie"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -300,11 +276,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d64c5b209fa2cbaf",
+  "active": "eb8ff86321589374",
   "lastOpenFiles": [
+    "O stronie.md",
     "Bez nazwy.md",
     "Bez nazwy.md.edtz",
-    "O stronie.md",
     "03 Atomy/Kabel typu skrętka.md",
     "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
     "Gotowanie/Pieczony kalafior Orzo.md",
