@@ -21,3 +21,11 @@ s. 29
 
 Przeciętny człowiek nie czerpie przyjemności z jakiejś idei dlatego, że uważa ją za prawdziwą; uważa on ideę za prawdziwą dlatego, że sprawia mu ona przyjemność. 
 	Henry L. Mencken
+
+<mark style="background:#ff4d4f">Referuje błędnie zakład Pascala</mark>. s. 65
+
+Dużo zagadek matematycznych.
+
+Typowy sposób wyjaśnienia zdania głoszącego, że prawdopodobieństwo jakieś zdarzenia jest równe 50%, polega na stwierdzeniu, że w długiej serii zdarzeń tego typu mniej więcej połowa będzie miała dany wynik. Czy jest więc sens mówić o prawdopodobieństwie pojedynczego wydarzenia? s. 85
+
+Załóżmy że istnieje szansa 1/1000, że wygrasz na loterii 3000 dolarów. Użyteczność oczekiwana wynosi więc 1/1000 * 3000 = 3 dolary. Prawdopodobieństwo, że nic nie dostaniesz wynosi 999/1000 * 0, więc oczekiwana użyteczność przegranej to 0 dolarów. Całkowita oczekiwana użyteczność gry wynosi więc 3 + 0 dolarów. Los kosztuje 1 dolar, więc całkowita oczekiwana użyteczność wynosi 3-1=2 dolary. Kupując jeden los przegrasz, ale biorąc udział w długim ciągu gier możesz liczyć na zysk w wysokości 2 dolary na grę. 
