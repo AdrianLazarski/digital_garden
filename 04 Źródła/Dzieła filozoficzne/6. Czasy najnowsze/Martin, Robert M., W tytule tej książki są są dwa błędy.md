@@ -91,5 +91,12 @@ Można o psach powiedzieć, że mają pojęcie jadalności, bo odróżniają jak
 Nie powinno się utożsamiać pojęć z naszymi stanami psychicznymi, bo wtedy prawdziwość zdań analitycznych zależałaby od stanów psychicznych. A zdania raczej pozostają prawdziwe niezależnie od tego, co ktokolwiek pomyśli.
 
 s. 246
-Wyobraź sobie, że zostawiasz popsuty samochód o mechanika. Po jakimś umówionym czasie przychodzisz go odebrać, a mechanik mówi, że go nie naprawił, bo nie ma żadnego powodu, żeby gasł. Rozkręcił na części, wszystko sprawdził i wszystko było sprawne. Po prostu gaśmn
+Wyobraź sobie, że zostawiasz popsuty samochód o mechanika. Po jakimś umówionym czasie przychodzisz go odebrać, a mechanik mówi, że go nie naprawił, bo nie ma żadnego powodu, żeby gasł. Rozkręcił na części, wszystko sprawdził i wszystko było sprawne. Po prostu gaśnie. 
 
+Prawdopodobnie nie przyjmujesz takiego wyjaśnienia i postanawiasz iść do innego mechanika. Dlaczego? Bo zakładasz, że wszystko ma swoją przyczynę. 
+
+Jesteśmy w stanie pomyśleć jakieś zdarzenie, bez myślenia jednocześnie o jego przyczynie, której możemy w ogóle nie znać. Oznacza to, że sąd "wszystkie zdarzenia mają swoje przyczyny" jest zdaniem syntetycznym.
+
+s. 253
+Dopóki prawa matematyki odnoszą się do rzeczywistości, nie są one pewne, a dopóki są pewne, nie odnoszą się one do rzeczywistości.
+	Albert Einstein
