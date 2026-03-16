@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Kabel typu skrętka.md",
+                "file": "Książki/Stefanowicz Bogdan, Informacja.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kabel typu skrętka"
+              "title": "Stefanowicz Bogdan, Informacja"
             }
           }
         ],
@@ -278,10 +278,12 @@
   },
   "active": "eb8ff86321589374",
   "lastOpenFiles": [
+    "Książki/Stefanowicz Bogdan, Informacja.md.edtz",
+    "03 Atomy/Kabel typu skrętka.md",
+    "Książki/Stefanowicz Bogdan, Informacja.md",
     "O stronie.md",
     "Bez nazwy.md",
     "Bez nazwy.md.edtz",
-    "03 Atomy/Kabel typu skrętka.md",
     "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
     "Gotowanie/Pieczony kalafior Orzo.md",
     "Gotowanie/Pieczony kalafior Orzo.md.edtz",
@@ -321,7 +323,6 @@
     "03 Atomy/Bit.md",
     "03 Atomy/Węzeł sieci komputerowej.md",
     "03 Atomy/Sieć komputerowa.md",
-    "01 Input/Kod detekcyjny.md",
-    "03 Atomy/Szum.md"
+    "01 Input/Kod detekcyjny.md"
   ]
 }
