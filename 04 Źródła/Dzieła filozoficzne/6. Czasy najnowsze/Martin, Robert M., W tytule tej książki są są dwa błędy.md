@@ -36,4 +36,13 @@ Liczenie użyteczności często zakłada, że 3000 mają dla jednostki taką sam
 - Preferencja A to kolejno: 1, 2, 3
 	- Preferencja B to: 2, 3, 1
 	- Preferencja C to 3, 1, 2
-- Najpierw głosują czy iść na 1 czy 2
+- Najpierw głosują czy iść na 1 czy 2.
+	- A i C głosują na 1.
+	- B głosuje na 2.
+- Następnie głosują na 1 lub 3, a 2 traktują jako wyeliminowane.
+	- A głosuje na 1.
+	- B i C głosują na 3.
+- A niezadowolony z takiego obrotu sprawy proponuje by porównać 2 z 3.
+	- A i B głosują na 2.
+	- C głosuje na 3.
+- Jest to przykład nieudanej próby użycia indywidualnych preferencji do ustalenia jakiejś woli zbiorowej.
