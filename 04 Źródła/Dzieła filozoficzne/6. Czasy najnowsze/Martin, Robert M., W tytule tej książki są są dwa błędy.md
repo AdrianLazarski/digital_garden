@@ -76,6 +76,13 @@ Każda kolejna wersja tego zdania jest bardziej prawdopodobna, bo zmniejsza szan
 5. Przed domem jest jakiś obiekt.
 6. Wydaje mi się, że widzę coś przed domem.
 
-Sporządźmy hipotetyczną 
+Sporządźmy hipotetyczną listę zdań o prawdziwości której jesteśmy przekonani i dodajmy na końcu pewną klauzulę:
+- Ryby żyją pod wodą
+- USA ma większą populację, niż Kanada
+- Dziś rano napiłeś się wody
+- ...
+- Co najmniej jedno z pozostałych zdań na tej liście jest fałszywe. 
+Jeśli wszystkie zdania, które uważasz za prawdziwe faktycznie są prawdziwe, to wpadasz w sprzeczność. Konieczna jest fałszywość co najmniej jednego zdania, choćby to było to ostatnie zdanie.
+
 
 
