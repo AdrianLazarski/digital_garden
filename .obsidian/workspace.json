@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "842945388dc6ce89",
+            "id": "f971798e9ded3567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md",
+                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Martin, Robert M., W tytule tej książki są są dwa błędy"
+              "title": "Szachaj Andrzej, Zniewalająca moc kultury"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:definicja",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 310.5
   },
   "right": {
     "id": "a85f4e0e20d537cf",
@@ -300,17 +300,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "842945388dc6ce89",
+  "active": "180c24419c3d71cd",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md.edtz",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md.edtz",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md",
+    "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
     "Książki/Stefanowicz Bogdan, Informacja.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md.edtz",
     "Książki/Stefanowicz Bogdan, Informacja.md.edtz",
     "03 Atomy/Kabel typu skrętka.md",
     "O stronie.md",
     "Bez nazwy.md",
     "Bez nazwy.md.edtz",
-    "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
     "Gotowanie/Pieczony kalafior Orzo.md",
     "Gotowanie/Pieczony kalafior Orzo.md.edtz",
     "03 Atomy/załączniki/Kategorie_kabla_typu_skretka.webp",
@@ -340,13 +342,11 @@
     "03 Atomy/DND.md.edtz",
     "03 Atomy/Ekstranet.md",
     "03 Atomy/Intranet.md",
-    "03 Atomy/Ekstranet.md.edtz",
     "03 Atomy/Internet.md",
     "03 Atomy/Protokół komunikacyjny.md",
     "03 Atomy/Serwer.md",
     "03 Atomy/Klient.md",
     "03 Atomy/Bit.md",
-    "03 Atomy/Węzeł sieci komputerowej.md",
-    "03 Atomy/Sieć komputerowa.md"
+    "03 Atomy/Węzeł sieci komputerowej.md"
   ]
 }
