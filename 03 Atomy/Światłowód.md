@@ -45,3 +45,7 @@ Także mozna spotkać:
 
 $\leftarrow$ [[MOC Media przewodowe]]
 
+
+## Źródła
+
+https://pasja-informatyki.pl/sieci-komputerowe/media-transmisyjne/
