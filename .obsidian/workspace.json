@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC IT/MOC Media przewodowe.md",
+                "file": "03 Atomy/Kabel typu skrętka.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Media przewodowe"
-            }
-          },
-          {
-            "id": "eb8ff86321589374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Książki/Stefanowicz Bogdan, Informacja.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stefanowicz Bogdan, Informacja"
-            }
-          },
-          {
-            "id": "f971798e9ded3567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Szachaj Andrzej, Zniewalająca moc kultury"
+              "title": "Kabel typu skrętka"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -300,10 +251,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "180c24419c3d71cd",
+  "active": "c7f6882152f8fc92",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md.edtz",
+    "02 MOC/MOC IT/MOC Media przewodowe.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md.edtz",
     "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
     "Książki/Stefanowicz Bogdan, Informacja.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md",
@@ -324,7 +276,6 @@
     "03 Atomy/załączniki/Typy skrętki.webp",
     "03 Atomy/załączniki/Kabel typu skrętka.webp",
     "03 Atomy/Kabel koncentryczny.md",
-    "02 MOC/MOC IT/MOC Media przewodowe.md",
     "03 Atomy/Kabel typu skrętka.md.edtz",
     "03 Atomy/załączniki/Kabel koncentryczny-1.webp",
     "03 Atomy/załączniki/Kabel koncentryczny.webp",
@@ -339,7 +290,6 @@
     "03 Atomy/IPv4.md",
     "03 Atomy/Oktet (informatyka).md",
     "03 Atomy/Adres IP.md.edtz",
-    "03 Atomy/DND.md.edtz",
     "03 Atomy/Ekstranet.md",
     "03 Atomy/Intranet.md",
     "03 Atomy/Internet.md",
