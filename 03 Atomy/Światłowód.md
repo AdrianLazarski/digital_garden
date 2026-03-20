@@ -36,5 +36,8 @@ Najpopularniejsze
 
 
 
+![[Światłowód-1.webp|abc]]
 
 $\leftarrow$ [[MOC Media przewodowe]]
+
+![[Światłowód-22.webp|dfc]]
