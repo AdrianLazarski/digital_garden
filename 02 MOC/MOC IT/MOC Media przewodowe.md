@@ -12,6 +12,7 @@ Przewodowe [[Medium transmisyjne|media transmisyjne]] dzielą się na:
 [[Kabel koncentryczny]]
 [[Kabel typu skrętka]]
 #### Kable światłowodowe
-[[Światłowód jednomodowy]]
-[[Światłowód wielomodowy]]
+[[Światłowód]]
+	[[Światłowód jednomodowy]]
+	[[Światłowód wielomodowy]]
 

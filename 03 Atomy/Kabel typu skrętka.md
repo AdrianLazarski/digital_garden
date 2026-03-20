@@ -57,10 +57,12 @@ Poza typami kabla typu skrętka wyróżniamy jeszcze ich kategorie określające
 ## Parametry techniczne kabla typu skrętka
 
 
-- **Tłumienie sygnału** – to stosunek napięcia wyjściowego do napięcia wejściowego wyrażony w decybelach **[dB]**
-- **Propagacja sygnału** – to prędkość impulsu elektrycznego w stosunku do prędkości światła wyrażona w procentach **[%]**
-- **Rezystancja** – to opór jaki kabel stawia prądowi elektrycznemu wyrażony w omach **[Ω]**
-- **Przesłuch zbliżny** (NEXT) – to zakłócenie generowane w danej parze na skutek transmisji danych w sąsiedniej parze żył
+1. **Tłumienie sygnału** – to stosunek napięcia wyjściowego do napięcia wejściowego wyrażony w decybelach **[dB]**
+2. **Propagacja sygnału** – to prędkość impulsu elektrycznego w stosunku do prędkości światła wyrażona w procentach **[%]**
+3. **Rezystancja** – to opór jaki kabel stawia prądowi elektrycznemu wyrażony w omach **[Ω]**
+4. **Przesłuch zbliżny** (NEXT) – to zakłócenie generowane w danej parze na skutek transmisji danych w sąsiedniej parze żył
+5. **Promień zgięcia kabla**, który dla większości rozwiązań wynosi 4-krotność jego zewnętrznej średnicy.
+![[Promień zgięcia kabla.webp|Promień zgięcia kabla]]
 
 
 ## Zobacz

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Kabel typu skrętka.md",
+                "file": "02 MOC/MOC IT/MOC Media przewodowe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kabel typu skrętka"
+              "title": "MOC Media przewodowe"
+            }
+          },
+          {
+            "id": "7a9cbb02ba4172f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Światłowód.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Światłowód"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,9 +276,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7f6882152f8fc92",
+  "active": "7a9cbb02ba4172f7",
   "lastOpenFiles": [
+    "03 Atomy/Światłowód.md",
     "02 MOC/MOC IT/MOC Media przewodowe.md",
+    "03 Atomy/Kabel typu skrętka.md",
+    "03 Atomy/załączniki/Promień zgięcia kabla.webp",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md.edtz",
     "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
@@ -261,7 +289,6 @@
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md.edtz",
     "Książki/Stefanowicz Bogdan, Informacja.md.edtz",
-    "03 Atomy/Kabel typu skrętka.md",
     "O stronie.md",
     "Bez nazwy.md",
     "Bez nazwy.md.edtz",
@@ -278,7 +305,6 @@
     "03 Atomy/Kabel koncentryczny.md",
     "03 Atomy/Kabel typu skrętka.md.edtz",
     "03 Atomy/załączniki/Kabel koncentryczny-1.webp",
-    "03 Atomy/załączniki/Kabel koncentryczny.webp",
     "03 Atomy/Kabel koncentryczny.md.edtz",
     "02 MOC/MOC IT/MOC Media przewodowe.md.edtz",
     "03 Atomy/Medium transmisyjne.md",
