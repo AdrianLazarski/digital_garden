@@ -54,9 +54,57 @@
               "icon": "lucide-file",
               "title": "Światłowód"
             }
+          },
+          {
+            "id": "8f516b986a1cb302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Światłowód wielomodowy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Światłowód wielomodowy"
+            }
+          },
+          {
+            "id": "50ccc8197c2b5007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Światłowód jednomodowy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Światłowód jednomodowy"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -276,8 +324,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a9cbb02ba4172f7",
+  "active": "50ccc8197c2b5007",
   "lastOpenFiles": [
+    "03 Atomy/załączniki/Światłowód jednomodowy.webp",
+    "03 Atomy/Światłowód wielomodowy.md",
+    "03 Atomy/załączniki/Światłowód wielomodowy.webp",
+    "03 Atomy/Światłowód jednomodowy.md",
+    "03 Atomy/Światłowód wielomodowy.md.edtz",
+    "03 Atomy/Światłowód.md",
+    "03 Atomy/Światłowód jednomodowy.md.edtz",
     "03 Atomy/załączniki/Światłowód-22.webp",
     "03 Atomy/załączniki/Światłowód-1.webp",
     "03 Atomy/załączniki/Światłowód.webp",
@@ -286,7 +341,6 @@
     "03 Atomy/załączniki/Złącza kabla światłowodowego.webp",
     "03 Atomy/załączniki/Budowa kabla światłowodowego.webp",
     "03 Atomy/Medium transmisyjne.md",
-    "03 Atomy/Światłowód.md",
     "02 MOC/MOC IT/MOC Media przewodowe.md",
     "03 Atomy/Światłowód.md.edtz",
     "03 Atomy/Kabel typu skrętka.md",
@@ -304,14 +358,10 @@
     "Gotowanie/Pieczony kalafior Orzo.md",
     "Gotowanie/Pieczony kalafior Orzo.md.edtz",
     "03 Atomy/załączniki/Kategorie_kabla_typu_skretka.webp",
-    "03 Atomy/załączniki/S-FTP.webp",
-    "03 Atomy/załączniki/F_FTP.webp",
     "03 Atomy/Kabel koncentryczny.md",
     "03 Atomy/Kabel typu skrętka.md.edtz",
     "03 Atomy/Kabel koncentryczny.md.edtz",
-    "02 MOC/MOC IT/MOC Media przewodowe.md.edtz",
     "03 Atomy/DHCP.md",
-    "03 Atomy/DHCP.md.edtz",
     "03 Atomy/DND.md",
     "03 Atomy/Adres IP.md",
     "03 Atomy/Host.md",
@@ -321,8 +371,6 @@
     "03 Atomy/Intranet.md",
     "03 Atomy/Internet.md",
     "03 Atomy/Protokół komunikacyjny.md",
-    "03 Atomy/Serwer.md",
-    "03 Atomy/Klient.md",
-    "03 Atomy/Bit.md"
+    "03 Atomy/Serwer.md"
   ]
 }

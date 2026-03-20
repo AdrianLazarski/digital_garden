@@ -1,9 +1,12 @@
 ---
 created: 2026-03-20 11:12
-tags: [atom, definicja]
+tags:
+  - atom
+  - definicja
+  - it/sieci
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date : 2026-03-20 11:12
+modified date: 2026-03-20 11:12
 ---
 > [!note] Definicja
 > Przewodowe [[medium transmisyjne]] z włókna szklanego, przewodzące światło.
@@ -26,18 +29,19 @@ Najpopularniejsze
 ![[Złącza kabla światłowodowego.webp|Złącza kabla światłowodowego]]
 
 
+Także mozna spotkać:
+- LC
+- MT – RJ
+- MU
+- DIN
+
+## Rodzaje kabli światłowodowych
+
+[[Światłowód jednomodowy]]
+[[Światłowód wielomodowy]]
 
 
 
-![[Test.webp]]
-
-![[Światłowód.webp]]
-
-
-
-
-![[Światłowód-1.webp|abc]]
 
 $\leftarrow$ [[MOC Media przewodowe]]
 
-![[Światłowód-22.webp|dfc]]

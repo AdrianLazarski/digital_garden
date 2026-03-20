@@ -119425,20 +119425,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 66,
+      "wordCount": 77,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.22,
-      "characterCount": 765,
-      "nonWhitespaceCharacterCount": 670,
-      "newlineCount": 37,
-      "readingTimeInMinutes": 0.2490566037735849,
-      "linkCount": 2,
-      "embedCount": 6,
+      "pageCount": 0.25666666666666665,
+      "characterCount": 806,
+      "nonWhitespaceCharacterCount": 696,
+      "newlineCount": 39,
+      "readingTimeInMinutes": 0.29056603773584905,
+      "linkCount": 4,
+      "embedCount": 2,
       "aliases": null,
       "createdDate": 1774001523518,
-      "modifiedDate": 1774003406893,
-      "sizeInBytes": 982,
+      "modifiedDate": 1774004058482,
+      "sizeInBytes": 1026,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -119474,8 +119474,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1774001540782,
-      "modifiedDate": 1774003365925,
-      "sizeInBytes": 946,
+      "modifiedDate": 1774004076146,
+      "sizeInBytes": 1232,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -119539,7 +119539,45 @@
         "newlineCount": 0
       }
     },
-    "03 Atomy/załączniki/Test.webp": {
+    "03 Atomy/Światłowód jednomodowy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1774004065722,
+      "modifiedDate": 1774004242575,
+      "sizeInBytes": 172,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-03-20 11:54",
+        "tags": [
+          "atom",
+          "definicja",
+          "it/sieci"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-03-20 11:57"
+      }
+    },
+    "03 Atomy/Światłowód jednomodowy.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -119554,9 +119592,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1774003068807,
-      "modifiedDate": 1774003068864,
-      "sizeInBytes": 2694,
+      "createdDate": 1774004076571,
+      "modifiedDate": 1774004241540,
+      "sizeInBytes": 340,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -119566,7 +119604,45 @@
         "newlineCount": 0
       }
     },
-    "03 Atomy/załączniki/Światłowód.webp": {
+    "03 Atomy/Światłowód wielomodowy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 190,
+      "nonWhitespaceCharacterCount": 164,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1774004217423,
+      "modifiedDate": 1774004305700,
+      "sizeInBytes": 372,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-03-20 11:56",
+        "tags": [
+          "atom",
+          "definicja",
+          "it/sieci"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-03-20 11:57"
+      }
+    },
+    "03 Atomy/Światłowód wielomodowy.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -119581,9 +119657,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1774003068807,
-      "modifiedDate": 1774003093686,
-      "sizeInBytes": 5380,
+      "createdDate": 1774004227536,
+      "modifiedDate": 1774004308230,
+      "sizeInBytes": 615,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -119593,7 +119669,7 @@
         "newlineCount": 0
       }
     },
-    "03 Atomy/załączniki/Światłowód-1.webp": {
+    "03 Atomy/załączniki/Światłowód jednomodowy.webp": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -119608,36 +119684,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1774003363950,
-      "modifiedDate": 1774003363958,
-      "sizeInBytes": 5380,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "03 Atomy/załączniki/Światłowód-22.webp": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1774003386514,
-      "modifiedDate": 1774003386516,
-      "sizeInBytes": 5380,
+      "createdDate": 1774004312593,
+      "modifiedDate": 1774004312647,
+      "sizeInBytes": 2960,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
