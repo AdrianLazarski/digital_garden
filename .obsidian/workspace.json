@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC IT/MOC Media przewodowe.md",
+                "file": "03 Atomy/Medium transmisyjne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Media przewodowe"
+              "title": "Medium transmisyjne"
             }
           },
           {
@@ -54,57 +54,9 @@
               "icon": "lucide-file",
               "title": "Światłowód"
             }
-          },
-          {
-            "id": "8f516b986a1cb302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Światłowód wielomodowy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Światłowód wielomodowy"
-            }
-          },
-          {
-            "id": "50ccc8197c2b5007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Światłowód jednomodowy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Światłowód jednomodowy"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -324,13 +276,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50ccc8197c2b5007",
+  "active": "7a9cbb02ba4172f7",
   "lastOpenFiles": [
-    "03 Atomy/Światłowód wielomodowy.md",
     "03 Atomy/Światłowód jednomodowy.md",
-    "03 Atomy/załączniki/Światłowód wielomodowy.webp",
-    "03 Atomy/Światłowód.md",
+    "03 Atomy/Światłowód wielomodowy.md",
+    "03 Atomy/Medium transmisyjne.md",
+    "03 Atomy/załączniki/Medium transmisyjne.webp",
     "02 MOC/MOC IT/MOC Media przewodowe.md",
+    "03 Atomy/Kabel koncentryczny.md",
+    "03 Atomy/Światłowód.md",
+    "03 Atomy/załączniki/Światłowód wielomodowy.webp",
     "03 Atomy/załączniki/Światłowód jednomodowy.webp",
     "03 Atomy/Światłowód wielomodowy.md.edtz",
     "03 Atomy/Światłowód jednomodowy.md.edtz",
@@ -341,10 +296,8 @@
     "03 Atomy/załączniki/Test.webp",
     "03 Atomy/załączniki/Złącza kabla światłowodowego.webp",
     "03 Atomy/załączniki/Budowa kabla światłowodowego.webp",
-    "03 Atomy/Medium transmisyjne.md",
     "03 Atomy/Światłowód.md.edtz",
     "03 Atomy/Kabel typu skrętka.md",
-    "03 Atomy/załączniki/Promień zgięcia kabla.webp",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md.edtz",
     "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
@@ -357,7 +310,6 @@
     "Bez nazwy.md.edtz",
     "Gotowanie/Pieczony kalafior Orzo.md",
     "Gotowanie/Pieczony kalafior Orzo.md.edtz",
-    "03 Atomy/Kabel koncentryczny.md",
     "03 Atomy/Kabel typu skrętka.md.edtz",
     "03 Atomy/Kabel koncentryczny.md.edtz",
     "03 Atomy/DHCP.md",

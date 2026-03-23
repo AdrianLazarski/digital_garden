@@ -14,11 +14,14 @@ modified date: 2026-03-11 14:02
 
 Medium takim może być kabel miedziany, światłowodowy, jak również fale radiowe (WiFi).
 
+![[Medium transmisyjne.webp]]
 
-[[MOC Media przewodowe]]
 
+
+$\rightarrow$ [[MOC Media przewodowe]]
 
 
 ## Źródła:
 
 https://pasja-informatyki.pl/sieci-komputerowe/podstawowe-pojecia/
+https://pasja-informatyki.pl/sieci-komputerowe/media-transmisyjne/

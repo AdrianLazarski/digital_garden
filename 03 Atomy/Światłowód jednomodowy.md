@@ -18,7 +18,7 @@ W przypadku [[Światłowód|światłowodu]] jednomodowego przez szklany rdzeń p
 $\leftarrow$ [[Światłowód]]
 $\leftarrow$ [[MOC Media przewodowe]]
 
-$\rightarrow$ [[Światłowód wielomodowy]]
+
 
 
 ## Źródła
