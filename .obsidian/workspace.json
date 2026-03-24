@@ -54,9 +54,19 @@
               "icon": "lucide-file",
               "title": "Światłowód"
             }
+          },
+          {
+            "id": "c7ef7b37fdf46ebe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:definicja",
+                "query": "macierz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +119,8 @@
               "title": "Zakładki"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -276,15 +287,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a9cbb02ba4172f7",
+  "active": "5f3082bf1e46927d",
   "lastOpenFiles": [
+    "03 Atomy/Światłowód.md",
     "03 Atomy/Światłowód jednomodowy.md",
     "03 Atomy/Światłowód wielomodowy.md",
     "03 Atomy/Medium transmisyjne.md",
     "03 Atomy/załączniki/Medium transmisyjne.webp",
     "02 MOC/MOC IT/MOC Media przewodowe.md",
     "03 Atomy/Kabel koncentryczny.md",
-    "03 Atomy/Światłowód.md",
     "03 Atomy/załączniki/Światłowód wielomodowy.webp",
     "03 Atomy/załączniki/Światłowód jednomodowy.webp",
     "03 Atomy/Światłowód wielomodowy.md.edtz",
