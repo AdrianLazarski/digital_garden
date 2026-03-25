@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "7a9cbb02ba4172f7",
+            "id": "5874bfbade8d1955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Światłowód.md",
+                "file": "03 Atomy/Sygnał analogowy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Światłowód"
-            }
-          },
-          {
-            "id": "c23d4fb0251df438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Macierz kwadratowa.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Macierz kwadratowa"
+              "title": "Sygnał analogowy"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,8 +109,7 @@
               "title": "Zakładki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -301,19 +276,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c23d4fb0251df438",
+  "active": "5874bfbade8d1955",
   "lastOpenFiles": [
+    "03 Atomy/Sygnał analogowy.md.edtz",
+    "03 Atomy/Sygnał analogowy.md",
+    "03 Atomy/Medium transmisyjne.md",
+    "03 Atomy/Światłowód.md",
+    "03 Atomy/Macierz kwadratowa.md",
     "03 Atomy/Macierz diagonalna.md",
     "03 Atomy/Macierz jednostkowa.md",
     "02 MOC/MOC Matematyka/MOC Rodzaje macierzy.md",
-    "03 Atomy/Macierz kwadratowa.md",
     "03 Atomy/Macierz.md",
     "03 Atomy/Wyznacznik macierzy.md",
     "02 MOC/MOC Działania na macierzach.md",
-    "03 Atomy/Światłowód.md",
     "03 Atomy/Światłowód jednomodowy.md",
     "03 Atomy/Światłowód wielomodowy.md",
-    "03 Atomy/Medium transmisyjne.md",
     "03 Atomy/załączniki/Medium transmisyjne.webp",
     "02 MOC/MOC IT/MOC Media przewodowe.md",
     "03 Atomy/Kabel koncentryczny.md",
@@ -346,8 +323,6 @@
     "03 Atomy/Kabel koncentryczny.md.edtz",
     "03 Atomy/DHCP.md",
     "03 Atomy/DND.md",
-    "03 Atomy/Adres IP.md",
-    "03 Atomy/Host.md",
-    "03 Atomy/IPv4.md"
+    "03 Atomy/Adres IP.md"
   ]
 }
