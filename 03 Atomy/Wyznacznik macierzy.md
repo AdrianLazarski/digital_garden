@@ -27,3 +27,4 @@ $det \begin{bmatrix} 1 & 4 \\ 0 & -5 \end{bmatrix}= \begin{vmatrix} 1 & 4 \\ 0 &
 $\leftarrow$ [[Funkcja]]
 $\leftarrow$ [[Macierz]]
 $\leftarrow$ [[Macierz kwadratowa]]
+

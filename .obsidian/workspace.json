@@ -56,13 +56,27 @@
             }
           },
           {
-            "id": "c7ef7b37fdf46ebe",
+            "id": "c23d4fb0251df438",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Macierz kwadratowa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "Macierz kwadratowa"
             }
           }
         ],
@@ -98,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "macierz",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -287,8 +301,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f3082bf1e46927d",
+  "active": "c23d4fb0251df438",
   "lastOpenFiles": [
+    "03 Atomy/Macierz diagonalna.md",
+    "03 Atomy/Macierz jednostkowa.md",
+    "02 MOC/MOC Matematyka/MOC Rodzaje macierzy.md",
+    "03 Atomy/Macierz kwadratowa.md",
+    "03 Atomy/Macierz.md",
+    "03 Atomy/Wyznacznik macierzy.md",
+    "02 MOC/MOC Działania na macierzach.md",
     "03 Atomy/Światłowód.md",
     "03 Atomy/Światłowód jednomodowy.md",
     "03 Atomy/Światłowód wielomodowy.md",
@@ -327,12 +348,6 @@
     "03 Atomy/DND.md",
     "03 Atomy/Adres IP.md",
     "03 Atomy/Host.md",
-    "03 Atomy/IPv4.md",
-    "03 Atomy/Oktet (informatyka).md",
-    "03 Atomy/Ekstranet.md",
-    "03 Atomy/Intranet.md",
-    "03 Atomy/Internet.md",
-    "03 Atomy/Protokół komunikacyjny.md",
-    "03 Atomy/Serwer.md"
+    "03 Atomy/IPv4.md"
   ]
 }
