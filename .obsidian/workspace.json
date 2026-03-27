@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Przetwornik anologowo-cyfrowy AD.md",
+                "file": "03 Atomy/Przetwornik cyfrowo-analogowy DA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Przetwornik anologowo-cyfrowy AD"
+              "title": "Przetwornik cyfrowo-analogowy DA"
+            }
+          },
+          {
+            "id": "1905be83196d6e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Impuls.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Impuls"
+            }
+          },
+          {
+            "id": "61ba20a28688dbd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Okres.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Okres"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -348,18 +396,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aae25c04cb712ce6",
+  "active": "1905be83196d6e04",
   "lastOpenFiles": [
-    "03 Atomy/Sygnał analogowy.md",
-    "03 Atomy/Przetwornik anologowo-cyfrowy AD.md",
-    "03 Atomy/załączniki/Konwersja sygnału AD i DA.webp",
+    "03 Atomy/Okres.md",
+    "03 Atomy/Impuls.md",
+    "03 Atomy/Impuls.md.edtz",
     "03 Atomy/Przetwornik cyfrowo-analogowy DA.md",
+    "03 Atomy/załączniki/Syntetyzowanie sygnału analogowego na podstawie cyfrowego.webp",
+    "03 Atomy/Przetwornik anologowo-cyfrowy AD.md",
+    "03 Atomy/załączniki/Próbkowanie.webp",
+    "03 Atomy/Sygnał dyskretny.md",
+    "03 Atomy/Sygnał analogowy.md",
+    "03 Atomy/załączniki/Konwersja sygnału AD i DA.webp",
     "03 Atomy/Przetwornik cyfrowo-analogowy DA.md.edtz",
     "03 Atomy/Przetwornik anologowo-cyfrowy AD.md.edtz",
     "03 Atomy/Sygnał cyfrowy.md",
     "03 Atomy/Transistor-Transistor Logic TTL.md",
     "03 Atomy/Szum.md",
-    "03 Atomy/Sygnał dyskretny.md",
     "03 Atomy/Transistor-Transistor Logic TTL.md.edtz",
     "03 Atomy/załączniki/Sygnał cyfrowy.webp",
     "03 Atomy/Sygnał.md",
@@ -387,13 +440,9 @@
     "03 Atomy/Światłowód wielomodowy.md.edtz",
     "03 Atomy/Światłowód jednomodowy.md.edtz",
     "03 Atomy/załączniki/Światłowód-22.webp",
-    "03 Atomy/załączniki/Światłowód-1.webp",
-    "03 Atomy/załączniki/Światłowód.webp",
     "03 Atomy/Światłowód.md.edtz",
     "03 Atomy/Kabel typu skrętka.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md.edtz",
-    "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
-    "Książki/Stefanowicz Bogdan, Informacja.md"
+    "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md"
   ]
 }

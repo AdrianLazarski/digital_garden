@@ -19,3 +19,10 @@ Jeśli się chce odsłuchać zapisany tak cyfrowo sygnał audio, trzeba dokonać
 
 
 ![[Konwersja sygnału AD i DA.webp|Konwersja sygnału AD i DA]]
+
+
+- Wartość sygnału (napięcia) jest próbkowana (mierzona) w n chwilach czasowych z częstotliwością co najmniej dwa razy większą niż częstotliwość sygnału. Spróbkowane wartości są poddawane kwantyzacji, to znaczy, że ich wartość jest zamieniana na najbliższą wartość, którą można zapisać w postaci m-bitowej liczby binarnej.
+- Częstotliwość próbkowania i liczba bitów zależą od jakości zastosowanego przetwornika A/D.
+
+![[Próbkowanie.webp|Próbkowanie]]
+

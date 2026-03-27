@@ -1601,24 +1601,6 @@
       "width": "",
       "height": "",
       "wrap": false
-    },
-    "292aef03c32a5607acf114f16cef5f3b": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "98f00e1d8afa866cabcd41d6241c8b86": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "e7b970787c3b3d17cc17dabcd1f110a3": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
     }
   },
   "03 Atomy/Kabel koncentryczny.md": {
@@ -1673,52 +1655,10 @@
       "width": "",
       "height": "",
       "wrap": false
-    },
-    "1c4427a598f444768886dc048cf9f529": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "d83172e6bfd153170d83e4861344af17": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "ebe26f51e8e1576cc002e1a964f692d1": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "52eb80043b3215909e992cef02bfa4c1": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
     }
   },
   "03 Atomy/Sygnał cyfrowy.md": {
     "f0ea3deb074c0900c1853b560721b043": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "afabd45dc1270eeba68b471f20152aa5": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "c2d141f05a82a05b7f30cdee7728d17a": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "6b4864e64d84241cb953a2bd261c1c8a": {
       "position": "center",
       "width": "",
       "height": "",
@@ -1731,72 +1671,54 @@
       "width": "",
       "height": "",
       "wrap": false
-    },
-    "cfda7354f112644646b1bc6a460dbac0": {
+    }
+  },
+  "03 Atomy/Okres.md": {
+    "6dd989c175eb8248916074924d2c825c": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "bde515a9db73d015d5bf831ea17a895e": {
+    "4bb92613b5cf1992757ae28ee327a167": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "0cac2b2d104a4ea58a97726b0b384535": {
+    "96b3ad58749977de270506b2b6ec68cb": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "20e62290ab78859e0dd89e2b1f1bddea": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "91c68f030c7bcd711cb50948c54b81fc": {
+    "f8430c5804cf614ad53755f279a567f0": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     }
   },
-  "03 Atomy/Transistor-Transistor Logic TTL.md": {
-    "49fc802397cb7d69f261c6c05e6fb6a1": {
+  "03 Atomy/Impuls.md": {
+    "c738d0e86b023b5c319e8c24e05f6dcb": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "5a9b3c4c89056ca052685bc6aebca14c": {
+    "4eb1646957919ffff987762068ac2db2": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "af16c57ef7c7f009ae5de6a904e770e2": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
-  "03 Atomy/Przetwornik cyfrowo-analogowy DA.md": {
-    "ac63030ccf884e3faa2cdf366d61fcd8": {
+    "0bf8a1bd1af76f5ce3be504e74e713ff": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "52013705a57b883b6f01d7f2caddd875": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "039d9d0eb729df7e59e146ebb5869d4a": {
+    "808455aefd1795949910b0b6480bf152": {
       "position": "center",
       "width": "",
       "height": "",
