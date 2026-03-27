@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Transistor-Transistor Logic TTL.md",
+                "file": "03 Atomy/Sygnał cyfrowy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,35 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Transistor-Transistor Logic TTL"
-            }
-          },
-          {
-            "id": "3ee2d85394cdbd44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Szum.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Szum"
+              "title": "Sygnał cyfrowy"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -349,14 +325,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6715cf99684bedcb",
+  "active": "5874bfbade8d1955",
   "lastOpenFiles": [
-    "03 Atomy/Szum.md",
-    "03 Atomy/Transistor-Transistor Logic TTL.md",
-    "03 Atomy/Transistor-Transistor Logic TTL.md.edtz",
     "03 Atomy/Sygnał cyfrowy.md",
-    "03 Atomy/załączniki/Sygnał cyfrowy.webp",
+    "03 Atomy/Transistor-Transistor Logic TTL.md",
+    "03 Atomy/Szum.md",
     "03 Atomy/Sygnał dyskretny.md",
+    "03 Atomy/Transistor-Transistor Logic TTL.md.edtz",
+    "03 Atomy/załączniki/Sygnał cyfrowy.webp",
     "03 Atomy/Sygnał analogowy.md",
     "03 Atomy/Sygnał.md",
     "03 Atomy/załączniki/Sygnał dyskretny.webp",

@@ -19,5 +19,7 @@ W przeciwieństwie do sygnału cyfrowego, [[sygnał dyskretny]] został poddany 
 
 - Technika cyfrowa jest oparta o dwa rozróżnialne napięcia (lub stany): on/off, prawda/fałsz, wysoki/niski, high/low, 1/0.
 - Te dwa stany są definiowane napięciem w obwodzie, które może być większe lub mniejsze od pewnej ustalonej wartości.
+- Jest relatywnie odporny na [[szum]].
+
 
 Jego odpowiednikiem o ciągłej dziedzinie i ciągłym zbiorze wartości jest [[Sygnał analogowy]].
