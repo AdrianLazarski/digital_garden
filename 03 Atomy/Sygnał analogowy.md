@@ -17,6 +17,7 @@ modified date: 2026-03-25 17:56
 
 ![[Sygnał analogowy.webp|Sygnał analogowy]]
 
+- [[Przetwornik anologowo-cyfrowy AC]] może go zmienić w [[sygnał cyfrowy]].
 
 
 
