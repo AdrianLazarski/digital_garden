@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Przetwornik anologowo-cyfrowy AC.md",
+                "file": "03 Atomy/Przetwornik anologowo-cyfrowy AD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Przetwornik anologowo-cyfrowy AC"
+              "title": "Przetwornik anologowo-cyfrowy AD"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -348,11 +348,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e482b6dd28f0438",
+  "active": "aae25c04cb712ce6",
   "lastOpenFiles": [
-    "03 Atomy/Przetwornik anologowo-cyfrowy AC.md.edtz",
-    "03 Atomy/Przetwornik anologowo-cyfrowy AC.md",
     "03 Atomy/Sygnał analogowy.md",
+    "03 Atomy/Przetwornik anologowo-cyfrowy AD.md",
+    "03 Atomy/załączniki/Konwersja sygnału AD i DA.webp",
+    "03 Atomy/Przetwornik cyfrowo-analogowy DA.md",
+    "03 Atomy/Przetwornik cyfrowo-analogowy DA.md.edtz",
+    "03 Atomy/Przetwornik anologowo-cyfrowy AD.md.edtz",
     "03 Atomy/Sygnał cyfrowy.md",
     "03 Atomy/Transistor-Transistor Logic TTL.md",
     "03 Atomy/Szum.md",
@@ -386,15 +389,11 @@
     "03 Atomy/załączniki/Światłowód-22.webp",
     "03 Atomy/załączniki/Światłowód-1.webp",
     "03 Atomy/załączniki/Światłowód.webp",
-    "03 Atomy/załączniki/Test.webp",
     "03 Atomy/Światłowód.md.edtz",
     "03 Atomy/Kabel typu skrętka.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md.edtz",
     "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
-    "Książki/Stefanowicz Bogdan, Informacja.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md.edtz",
-    "Książki/Stefanowicz Bogdan, Informacja.md.edtz"
+    "Książki/Stefanowicz Bogdan, Informacja.md"
   ]
 }

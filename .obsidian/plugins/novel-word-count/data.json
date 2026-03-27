@@ -36156,8 +36156,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1774453815786,
-      "modifiedDate": 1774623829125,
-      "sizeInBytes": 758,
+      "modifiedDate": 1774624032641,
+      "sizeInBytes": 898,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -36183,7 +36183,7 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1774453809125,
-      "modifiedDate": 1774623815644,
+      "modifiedDate": 1774624025876,
       "sizeInBytes": 655,
       "sessionStart": {
         "noteCount": 1,
@@ -120095,24 +120095,24 @@
         "newlineCount": 0
       }
     },
-    "03 Atomy/Przetwornik anologowo-cyfrowy AC.md": {
+    "03 Atomy/Przetwornik anologowo-cyfrowy AD.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 53,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 492,
+      "nonWhitespaceCharacterCount": 431,
+      "newlineCount": 12,
+      "readingTimeInMinutes": 0.2,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1774623815003,
-      "modifiedDate": 1774623830591,
-      "sizeInBytes": 183,
+      "modifiedDate": 1774624395354,
+      "sizeInBytes": 695,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -120133,7 +120133,7 @@
         "modified date": "2026-03-27 16:03"
       }
     },
-    "03 Atomy/Przetwornik anologowo-cyfrowy AC.md.edtz": {
+    "03 Atomy/Przetwornik anologowo-cyfrowy AD.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -120149,8 +120149,100 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1774623831875,
-      "modifiedDate": 1774623831901,
-      "sizeInBytes": 248,
+      "modifiedDate": 1774624528340,
+      "sizeInBytes": 1041,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Przetwornik cyfrowo-analogowy DA.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 148,
+      "nonWhitespaceCharacterCount": 125,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1774624398756,
+      "modifiedDate": 1774624475657,
+      "sizeInBytes": 337,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-03-27 16:13",
+        "tags": [
+          "atom",
+          "definicja",
+          "it/technika_cyfrowa"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-03-27 16:13"
+      }
+    },
+    "03 Atomy/Przetwornik cyfrowo-analogowy DA.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1774624406003,
+      "modifiedDate": 1774624469113,
+      "sizeInBytes": 593,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/załączniki/Konwersja sygnału AD i DA.webp": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1774624526794,
+      "modifiedDate": 1774624526796,
+      "sizeInBytes": 10638,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

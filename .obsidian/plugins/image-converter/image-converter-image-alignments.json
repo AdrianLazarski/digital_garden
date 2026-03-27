@@ -1691,6 +1691,12 @@
       "width": "",
       "height": "",
       "wrap": false
+    },
+    "52eb80043b3215909e992cef02bfa4c1": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
     }
   },
   "03 Atomy/Sygnał cyfrowy.md": {
@@ -1743,6 +1749,18 @@
       "width": "",
       "height": "",
       "wrap": false
+    },
+    "20e62290ab78859e0dd89e2b1f1bddea": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "91c68f030c7bcd711cb50948c54b81fc": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
     }
   },
   "03 Atomy/Transistor-Transistor Logic TTL.md": {
@@ -1765,20 +1783,20 @@
       "wrap": false
     }
   },
-  "03 Atomy/Przetwornik anologowo-cyfrowy AC.md": {
-    "04c81d39b2bd53796cf79cc69ef82c8b": {
+  "03 Atomy/Przetwornik cyfrowo-analogowy DA.md": {
+    "ac63030ccf884e3faa2cdf366d61fcd8": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "a478b121a3eddda45f2a2cfa549007b5": {
+    "52013705a57b883b6f01d7f2caddd875": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "15d32105f91feb59a86ca996e3b2d771": {
+    "039d9d0eb729df7e59e146ebb5869d4a": {
       "position": "center",
       "width": "",
       "height": "",
