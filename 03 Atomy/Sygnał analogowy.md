@@ -11,5 +11,7 @@ modified date: 2026-03-25 17:56
 > [!note] Definicja
 >[[Sygnał]], który może przyjmować dowolną wartość z ciągłego przedziału.
 
-Jego wartości mogą zostać określone w każdej chwili, dzięki opisującej go funkcji matematycznej. 
-Jego przeciwieństwem jest sygnał 
+- Jego wartości mogą zostać określone w każdej chwili, dzięki opisującej go funkcji matematycznej. 
+- Jego przeciwieństwem jest [[sygnał dyskretny.]]
+
+![[Sygnał analogowy.webp|Sygnał analogowy]]
