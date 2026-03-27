@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Okres.md",
+                "file": "03 Atomy/Transmisja równoległa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,11 +172,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Okres"
+              "title": "Transmisja równoległa"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -396,11 +396,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1905be83196d6e04",
+  "active": "61ba20a28688dbd7",
   "lastOpenFiles": [
-    "03 Atomy/załączniki/Impuls.webp",
+    "03 Atomy/załączniki/Transmisja równoległa.webp",
+    "03 Atomy/Transmisja szeregowa.md",
+    "03 Atomy/Transmisja równoległa.md",
+    "03 Atomy/Transmisja równoległa.md.edtz",
+    "03 Atomy/załączniki/Transmisja szeregowa.webp",
+    "03 Atomy/Transmisja szeregowa.md.edtz",
     "03 Atomy/Okres.md",
     "03 Atomy/Impuls.md",
+    "03 Atomy/załączniki/Impuls.webp",
     "03 Atomy/Impuls.md.edtz",
     "03 Atomy/Przetwornik cyfrowo-analogowy DA.md",
     "03 Atomy/załączniki/Syntetyzowanie sygnału analogowego na podstawie cyfrowego.webp",
@@ -437,12 +443,6 @@
     "02 MOC/MOC IT/MOC Media przewodowe.md",
     "03 Atomy/Kabel koncentryczny.md",
     "03 Atomy/załączniki/Światłowód wielomodowy.webp",
-    "03 Atomy/załączniki/Światłowód jednomodowy.webp",
-    "03 Atomy/Światłowód wielomodowy.md.edtz",
-    "03 Atomy/Światłowód jednomodowy.md.edtz",
-    "03 Atomy/załączniki/Światłowód-22.webp",
-    "03 Atomy/Światłowód.md.edtz",
-    "03 Atomy/Kabel typu skrętka.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md"
+    "03 Atomy/Światłowód wielomodowy.md.edtz"
   ]
 }
