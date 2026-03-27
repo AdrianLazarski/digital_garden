@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "6715cf99684bedcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Sygnał cyfrowy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sygnał cyfrowy"
-            }
-          },
-          {
             "id": "aae25c04cb712ce6",
             "type": "leaf",
             "state": {
@@ -101,6 +77,30 @@
               },
               "icon": "lucide-file",
               "title": "Sygnał dyskretny"
+            }
+          },
+          {
+            "id": "6715cf99684bedcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Sygnał cyfrowy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sygnał cyfrowy"
             }
           }
         ],
@@ -324,12 +324,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aae25c04cb712ce6",
+  "active": "6715cf99684bedcb",
   "lastOpenFiles": [
     "03 Atomy/Sygnał analogowy.md",
     "03 Atomy/Sygnał dyskretny.md",
-    "03 Atomy/Sygnał dyskretny.md.edtz",
     "03 Atomy/Sygnał cyfrowy.md",
+    "03 Atomy/Sygnał.md",
+    "03 Atomy/załączniki/Sygnał dyskretny.webp",
+    "03 Atomy/Sygnał dyskretny.md.edtz",
     "03 Atomy/Sygnał cyfrowy.md.edtz",
     "03 Atomy/załączniki/Sygnał analogowy.webp",
     "03 Atomy/Sygnał analogowy.md.edtz",
@@ -356,7 +358,6 @@
     "03 Atomy/załączniki/Światłowód.webp",
     "03 Atomy/załączniki/Test.webp",
     "03 Atomy/załączniki/Test.webp",
-    "03 Atomy/załączniki/Złącza kabla światłowodowego.webp",
     "03 Atomy/Światłowód.md.edtz",
     "03 Atomy/Kabel typu skrętka.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szachaj Andrzej, Zniewalająca moc kultury.md",
