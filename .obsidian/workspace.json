@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Bramka logiczna.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Algebra Boole'a.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bramka logiczna"
+              "title": "Algebra Boole'a"
             }
           }
         ],
@@ -398,6 +398,7 @@
   },
   "active": "61ba20a28688dbd7",
   "lastOpenFiles": [
+    "03 Atomy/Bramka logiczna.md",
     "03 Atomy/załączniki/Bramka XNOR.webp",
     "03 Atomy/załączniki/Bramka XOR.webp",
     "03 Atomy/załączniki/Bramka NOR2.webp",
@@ -408,13 +409,11 @@
     "03 Atomy/załączniki/Bramka OR.webp",
     "03 Atomy/załączniki/Bramka AND.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Algebra Boole'a.md",
-    "03 Atomy/Bramka logiczna.md",
     "03 Atomy/Bramka logiczna.md.edtz",
     "03 Atomy/Transmisja równoległa.md",
     "03 Atomy/załączniki/Transmisja równoległa.webp",
     "03 Atomy/Transmisja szeregowa.md",
     "03 Atomy/Transmisja równoległa.md.edtz",
-    "03 Atomy/załączniki/Transmisja szeregowa.webp",
     "03 Atomy/Transmisja szeregowa.md.edtz",
     "03 Atomy/Okres.md",
     "03 Atomy/Impuls.md",

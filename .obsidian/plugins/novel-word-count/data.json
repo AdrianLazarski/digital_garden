@@ -100119,8 +100119,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1772304387209,
-      "modifiedDate": 1718539344064,
-      "sizeInBytes": 116,
+      "modifiedDate": 1774631766349,
+      "sizeInBytes": 2400,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -100134,20 +100134,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 6,
+      "wordCount": 228,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 77,
-      "nonWhitespaceCharacterCount": 67,
-      "newlineCount": 7,
-      "readingTimeInMinutes": 0.022641509433962263,
+      "pageCount": 0.76,
+      "characterCount": 1963,
+      "nonWhitespaceCharacterCount": 1372,
+      "newlineCount": 72,
+      "readingTimeInMinutes": 0.8603773584905661,
       "linkCount": 0,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1772304387201,
-      "modifiedDate": 1718539374566,
-      "sizeInBytes": 78,
+      "modifiedDate": 1774631805083,
+      "sizeInBytes": 2554,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.02,
@@ -100155,6 +100155,17 @@
         "characterCount": 77,
         "nonWhitespaceCharacterCount": 67,
         "newlineCount": 7
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "logika/matematyczna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-03-27 18:11"
       }
     },
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Aksjomat.md.edtz": {
