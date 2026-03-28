@@ -746,6 +746,18 @@ Najpopularniejsze są dostępne w System.Collection.Generic:
 using System.Collections.Generic;
 ```
 
+### Lista
+
+```csharp
+//Deklaracja listy
+List<typ> listName = new List<typ>();
+
+//Dodanie elementu do listy
+listName.Add(10);
+
+
+```
+
 ### Słownik
 ```csharp
 Dictionary<int, string> studentDictionary = new //Deklaracja

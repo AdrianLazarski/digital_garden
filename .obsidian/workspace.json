@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "5874bfbade8d1955",
+            "id": "a48536c4658b0a36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Sygnał analogowy.md",
+                "file": "03 Atomy/Programowanie funkcyjne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sygnał analogowy"
+              "title": "Programowanie funkcyjne"
             }
           },
           {
-            "id": "aae25c04cb712ce6",
+            "id": "a8f3b92d1a542603",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Sygnał dyskretny.md",
+                "file": "03 Atomy/C Sharp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,107 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sygnał dyskretny"
-            }
-          },
-          {
-            "id": "6715cf99684bedcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Sygnał cyfrowy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sygnał cyfrowy"
-            }
-          },
-          {
-            "id": "8e482b6dd28f0438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Przetwornik cyfrowo-analogowy DA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Przetwornik cyfrowo-analogowy DA"
-            }
-          },
-          {
-            "id": "1905be83196d6e04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Impuls.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Impuls"
-            }
-          },
-          {
-            "id": "61ba20a28688dbd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Algebra Boole'a.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Algebra Boole'a"
+              "title": "C Sharp"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "c shar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,7 +133,8 @@
               "title": "Zakładki"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -396,8 +301,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61ba20a28688dbd7",
+  "active": "a8f3b92d1a542603",
   "lastOpenFiles": [
+    "03 Atomy/Programowanie funkcyjne.md",
+    "03 Atomy/Medium transmisyjne.md",
+    "03 Atomy/Sygnał analogowy.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Algebra Boole'a.md",
+    "03 Atomy/Impuls.md",
+    "03 Atomy/Przetwornik cyfrowo-analogowy DA.md",
+    "03 Atomy/Sygnał cyfrowy.md",
     "03 Atomy/Bramka logiczna.md",
     "03 Atomy/załączniki/Bramka XNOR.webp",
     "03 Atomy/załączniki/Bramka XOR.webp",
@@ -408,7 +320,6 @@
     "03 Atomy/załączniki/Bramka NOT.webp",
     "03 Atomy/załączniki/Bramka OR.webp",
     "03 Atomy/załączniki/Bramka AND.webp",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Algebra Boole'a.md",
     "03 Atomy/Bramka logiczna.md.edtz",
     "03 Atomy/Transmisja równoległa.md",
     "03 Atomy/załączniki/Transmisja równoległa.webp",
@@ -416,15 +327,11 @@
     "03 Atomy/Transmisja równoległa.md.edtz",
     "03 Atomy/Transmisja szeregowa.md.edtz",
     "03 Atomy/Okres.md",
-    "03 Atomy/Impuls.md",
     "03 Atomy/Impuls.md.edtz",
-    "03 Atomy/Przetwornik cyfrowo-analogowy DA.md",
     "03 Atomy/Przetwornik anologowo-cyfrowy AD.md",
     "03 Atomy/Sygnał dyskretny.md",
-    "03 Atomy/Sygnał analogowy.md",
     "03 Atomy/Przetwornik cyfrowo-analogowy DA.md.edtz",
     "03 Atomy/Przetwornik anologowo-cyfrowy AD.md.edtz",
-    "03 Atomy/Sygnał cyfrowy.md",
     "03 Atomy/Transistor-Transistor Logic TTL.md",
     "03 Atomy/Szum.md",
     "03 Atomy/Transistor-Transistor Logic TTL.md.edtz",
@@ -432,7 +339,6 @@
     "03 Atomy/Sygnał dyskretny.md.edtz",
     "03 Atomy/Sygnał cyfrowy.md.edtz",
     "03 Atomy/Sygnał analogowy.md.edtz",
-    "03 Atomy/Medium transmisyjne.md",
     "03 Atomy/Światłowód.md",
     "03 Atomy/Macierz kwadratowa.md",
     "03 Atomy/Macierz diagonalna.md",

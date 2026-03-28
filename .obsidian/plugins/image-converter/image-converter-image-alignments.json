@@ -1655,6 +1655,12 @@
       "width": "",
       "height": "",
       "wrap": false
+    },
+    "1c4427a598f444768886dc048cf9f529": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
     }
   },
   "03 Atomy/Sygnał cyfrowy.md": {
@@ -1691,6 +1697,22 @@
   },
   "03 Atomy/Transmisja równoległa.md": {
     "1fcd3bd4fca91e528fff430f039bd043": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/Programowanie funkcyjne.md": {
+    "346d567088400b380c3f839f897b2678": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "03 Atomy/C Sharp.md": {
+    "5b782fda80ff9dd8837ae18923e6ad47": {
       "position": "center",
       "width": "",
       "height": "",
