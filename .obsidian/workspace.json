@@ -78,6 +78,30 @@
               "icon": "lucide-file",
               "title": "C Sharp"
             }
+          },
+          {
+            "id": "84bccabc17b8030f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC IT/MOC Typy danych.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Typy danych"
+            }
           }
         ],
         "currentTab": 2
@@ -112,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "c shar",
+                "query": "typ danych",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -303,6 +327,9 @@
   },
   "active": "a8f3b92d1a542603",
   "lastOpenFiles": [
+    "02 MOC/MOC IT/MOC Typy danych.md",
+    "03 Atomy/Koncepcja – Typ danych.md",
+    "03 Atomy/C Sharp.md",
     "03 Atomy/Programowanie funkcyjne.md",
     "03 Atomy/Medium transmisyjne.md",
     "03 Atomy/Sygnał analogowy.md",
@@ -345,9 +372,6 @@
     "03 Atomy/Macierz jednostkowa.md",
     "02 MOC/MOC Matematyka/MOC Rodzaje macierzy.md",
     "03 Atomy/Macierz.md",
-    "03 Atomy/Wyznacznik macierzy.md",
-    "02 MOC/MOC Działania na macierzach.md",
-    "03 Atomy/Światłowód jednomodowy.md",
-    "03 Atomy/Światłowód wielomodowy.md"
+    "03 Atomy/Wyznacznik macierzy.md"
   ]
 }

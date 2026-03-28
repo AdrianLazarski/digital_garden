@@ -761,7 +761,14 @@ listName.Clear();
 //Zwraca ostatni index
 listName.LastIndexOf();
 
-//Sprawdzanie czy lista zawiera taki znak, jak zmienna stringZeZnakami
+//Sprawdzanie czy lista instacji klasy zawiera taki znak, jak zmienna stringZeZnakami
+public class WykrytyZnak
+{
+	public int Liczebnosc { get; set; }
+    public string Znak { get; set; }
+}
+List<WykrytyZnak> listaZnakow = new List<WykrytyZnak>();
+//f.Znak odnosi się do cechy obiektów klasy WykrytyZnak
 listaZnakow.FindIndex(f => f.Znak == stringZeZnakami)
 ```
 
