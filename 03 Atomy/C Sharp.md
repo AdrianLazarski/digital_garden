@@ -755,7 +755,14 @@ List<typ> listName = new List<typ>();
 //Dodanie elementu do listy
 listName.Add(10);
 
+//Czyszczenie listy
+listName.Clear();
 
+//Zwraca ostatni index
+listName.LastIndexOf();
+
+//Sprawdzanie czy lista zawiera taki znak, jak zmienna stringZeZnakami
+listaZnakow.FindIndex(f => f.Znak == stringZeZnakami)
 ```
 
 ### Słownik
