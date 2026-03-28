@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -325,11 +325,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8f3b92d1a542603",
+  "active": "84bccabc17b8030f",
   "lastOpenFiles": [
+    "03 Atomy/C Sharp.md",
     "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Koncepcja – Typ danych.md",
-    "03 Atomy/C Sharp.md",
     "03 Atomy/Programowanie funkcyjne.md",
     "03 Atomy/Medium transmisyjne.md",
     "03 Atomy/Sygnał analogowy.md",
