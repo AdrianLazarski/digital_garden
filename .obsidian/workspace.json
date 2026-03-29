@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC IT/MOC Typy danych.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Norberg Johan, Manifest kapitalistyczny.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Typy danych"
+              "title": "Norberg Johan, Manifest kapitalistyczny"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "typ danych",
+                "query": "kierownicz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -325,10 +325,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84bccabc17b8030f",
+  "active": "5f3082bf1e46927d",
   "lastOpenFiles": [
-    "03 Atomy/C Sharp.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
     "02 MOC/MOC IT/MOC Typy danych.md",
+    "03 Atomy/C Sharp.md",
     "03 Atomy/Koncepcja – Typ danych.md",
     "03 Atomy/Programowanie funkcyjne.md",
     "03 Atomy/Medium transmisyjne.md",
@@ -370,8 +372,6 @@
     "03 Atomy/Macierz kwadratowa.md",
     "03 Atomy/Macierz diagonalna.md",
     "03 Atomy/Macierz jednostkowa.md",
-    "02 MOC/MOC Matematyka/MOC Rodzaje macierzy.md",
-    "03 Atomy/Macierz.md",
-    "03 Atomy/Wyznacznik macierzy.md"
+    "02 MOC/MOC Matematyka/MOC Rodzaje macierzy.md"
   ]
 }
