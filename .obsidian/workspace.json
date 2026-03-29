@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Norberg Johan, Manifest kapitalistyczny.md",
+                "file": "01 Input przejściowy/Filozofia/Wykłady/Debeta Wiśniewski-Woziński.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Norberg Johan, Manifest kapitalistyczny"
+              "title": "Debeta Wiśniewski-Woziński"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kierownicz",
+                "query": "migrac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -325,8 +325,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f3082bf1e46927d",
+  "active": "84bccabc17b8030f",
   "lastOpenFiles": [
+    "01 Input przejściowy/Ekonomia/Dzieła/Norberg Johan, Manifest kapitalistyczny.md",
     "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
     "02 MOC/MOC IT/MOC Typy danych.md",
@@ -371,7 +372,6 @@
     "03 Atomy/Światłowód.md",
     "03 Atomy/Macierz kwadratowa.md",
     "03 Atomy/Macierz diagonalna.md",
-    "03 Atomy/Macierz jednostkowa.md",
-    "02 MOC/MOC Matematyka/MOC Rodzaje macierzy.md"
+    "03 Atomy/Macierz jednostkowa.md"
   ]
 }
