@@ -78,33 +78,9 @@
               "icon": "lucide-file",
               "title": "C Sharp"
             }
-          },
-          {
-            "id": "84bccabc17b8030f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Filozofia/Wykłady/Debeta Wiśniewski-Woziński.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Debeta Wiśniewski-Woziński"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -325,8 +301,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84bccabc17b8030f",
+  "active": "a8f3b92d1a542603",
   "lastOpenFiles": [
+    "01 Input przejściowy/Filozofia/Wykłady/Debeta Wiśniewski-Woziński.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Norberg Johan, Manifest kapitalistyczny.md",
     "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
@@ -371,7 +348,6 @@
     "03 Atomy/Sygnał analogowy.md.edtz",
     "03 Atomy/Światłowód.md",
     "03 Atomy/Macierz kwadratowa.md",
-    "03 Atomy/Macierz diagonalna.md",
-    "03 Atomy/Macierz jednostkowa.md"
+    "03 Atomy/Macierz diagonalna.md"
   ]
 }
