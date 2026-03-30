@@ -20,20 +20,24 @@ ang. *agent-oriented programming*
 	- Systemy tak zorganizowane nazywane są wieloagentowymi.
 - W systemach wieloagentowych, często projektuje się specjalne kanały służące do komunikowania się pomiędzy poszczególnymi agentami.
 - Jeśli komunikacja nie zostaje zaimplementowana, to zadaniem agentów jest najczęściej utrzymanie pewnego stanu lub podtrzymanie działania w nierozwijanym przez agenty systemie.
+- Można realizować w większości języków programowania, ale ma swoje dedykowane środowiska, wykorzystujące metodyki imperatywne:
+	- NetLogo
+	- StarLogo
+	- Swarn
 
 ## Wady i zalety
 
 ### Zalety
 
-- Ograniczenie kodu do opisu tylko obsługiwanych zdarzeń,
-- Łatwość opisania interakcji z otoczeniem,
-- Możliwość zastosowania w trybie hybrydowym innych niezbędnych metodologii.
+- Możliwa dekompozycji kodu.
+- Łatwość wprowadzania poprawek do sposobu wykonywania poszczególnych zadań.
+- Możliwe wykorzystywanie dowolnej metodologii do tworzenia poszczególnych agentów.
 
 ### Wady
 
-- Programowanie zdarzeniowe opiera się na nieustannej pracy procesora w tle (tzw. pętla komunikatów), która nasłuchuje sygnałów z systemu. Zużywa to zasoby.
-- Konieczność przewidzenia wszystkich możliwych zdarzeń oraz sposobu dostarczenia ich parametrów,
-- Wysoki stopień skomplikowania kodu wynikowego związany z koniecznością wyszczególnienia, zdefiniowania i implementacji obsługi wszelkich możliwych nadchodzących zdarzeń, przerwań i komunikatów.
+- Wysoki stopień trudności w procesie szukania błędów, wynikających z współzależności lub interakcji agentów.
+- Trudność w dopasowaniu procesu interakcji zbioru agentów w konkretnych systemach.
+- Współdzielenie danych może wymagać dodatkowych zabiegów w formie synchronizacji wątków i agenta nadrzędnego.
 
 
 $\leftarrow$ [[MOC Metodyka programowania]]
