@@ -7,6 +7,9 @@ tags:
   - atom
 modified date: 2025-11-23 16:55
 ---
+## 1. Typy wartościowe
+
+### 1.1 Typy proste
 
 | **Nazwa typu (słowo kluczowe, alias klasy)** | **Liczba zajmowanych bitów**  | **Możliwe wartości (zakres)**                                     | **Domyślna wartość** |
 | -------------------------------------------- | ----------------------------- | ----------------------------------------------------------------- | -------------------- |
@@ -24,6 +27,23 @@ modified date: 2025-11-23 16:55
 | **double**                                   | 8 bajtów                      | Od ok. **$4,9 \cdot 10^{-324}$**, do ok. **$1,7 \cdot 10^{308}$** | 0.0D                 |
 | **decimal**                                  | 16 bajtów                     | Od **$10^{-28}$** do **$7,9 \cdot 10^{28}$**                      | 0.0M                 |
 
+
+### 1.2 Typy wyliczeniowe
+
+
+### 1.3 Typy strukturalne
+
+Klasowe
+Interfejsowe
+Delegacyjne
+Tablicowe
+
+
+## 2. Typy odnośnikowe
+
+
+
+## Zobacz też
 
 $\leftarrow$ [[MOC Typy danych]]
 $\leftarrow$ [[C Sharp]]

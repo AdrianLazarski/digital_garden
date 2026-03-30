@@ -39,8 +39,7 @@ $\rightarrow$ [[MOC Operator (Programowanie)]]
 	$\rightarrow$ [[Operator dekrementacji]]
 	$\rightarrow$ [[Operator zwiększenia w C Sharp]]
 	$\rightarrow$ [[Operator zmniejszenia w C Sharp]]
-
-Operatory logiczne
+	Operatory logiczne
 		$\rightarrow$ [[Operator AND]]
 		$\rightarrow$ [[Operator OR]]
 		$\rightarrow$ [[Operator przypisania]]
