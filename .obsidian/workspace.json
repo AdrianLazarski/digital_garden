@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -396,11 +396,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8f3b92d1a542603",
+  "active": "a234610be0e33e1a",
   "lastOpenFiles": [
+    "03 Atomy/C Sharp.md",
     "03 Atomy/Typy danych w C Sharp.md",
     "03 Atomy/Składnia języka C Sharp.md",
-    "03 Atomy/C Sharp.md",
     "03 Atomy/Typy zmiennoprzecinkowe w C Sharp.md",
     "02 MOC/MOC IT/MOC Typy danych.md",
     "Aktualnie opracowywane.md",

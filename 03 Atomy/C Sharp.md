@@ -963,4 +963,18 @@ public class GenericClass<T> where T : struct
 // . . .
 }
 
+//Można też zbudować klasę generyczną z więcej niż 1 parametrem
+public class GenericClass<T, T1> where T : struct
+{
+    public void AddNewElementToList(T parameter, T1 parameter1)
+    {
+        Console.WriteLine("New List element created.");
+        Console.WriteLine("parameter type " + parameter.GetType() +
+                " with value: " + parameter + " added.");
+        Console.WriteLine("parameter type " + parameter1.GetType() +
+                " with value: " + parameter1 + " added.");
+        Console.WriteLine();
+    }
+}
+
 ```
