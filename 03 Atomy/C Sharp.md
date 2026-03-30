@@ -947,8 +947,10 @@ public class GenericClass<T> where T : Enum
 {
 // . . .
 }
-// Działa to dla elementów pochodnych do klas Object, Array, ValueType, oraz dla klas Enum, Delegate, MulticastDelegate
-//Aby przekazać oganiczenie dla stringów, trzeba wpisać class, bo string to typ klasowy, a nie strukturalny.
+//C# dzieli typy na: 
+// Referencyjne (klasy, string, tablice/Array, delegaty) -> wymagają 'where T : class'
+//Wartościowe (int, float, bool, struct, enum) -> wymagają 'where T : struct' lub konkretnie 'Enum'
+//Aby ograniczyć klasę do obsługi stringów (i innych klas), używamy 'where T : class'. */
 public class GenericClass<T> where T : class
 {
 // . . .

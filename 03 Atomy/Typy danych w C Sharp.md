@@ -34,17 +34,16 @@ modified date: 2025-11-23 16:55
 ### 1.3 Typy strukturalne
 
 Struktury definiowane za pomocą słowa `struct`. Przypominają klasy, ale mają pewne ograniczenia. 
-### 1.4 Typy referencyjne
 
-Inaczej obiektowe lub klasowe.
+
+## 2. Typy referencyjne
+
+Inaczej odnośnikowe, obiektowe lub klasowe.
 
 Klasowe
 Interfejsowe
 Delegacyjne
 Tablicowe
-
-
-## 2. Typy odnośnikowe
 
 
 
