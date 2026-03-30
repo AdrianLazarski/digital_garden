@@ -956,4 +956,11 @@ public class GenericClass<T> where T : class
 // . . .
 }
 
+//// Obejmuje to typy proste (int, float, bool, char) oraz własne struktury. 
+// Wyklucza typy referencyjne (klasy, w tym stringi).
+public class GenericClass<T> where T : struct
+{
+// . . .
+}
+
 ```
