@@ -24,6 +24,7 @@ modified date: 2025-11-23 16:55
 | **double**                                   | 8 bajtów                      | Od ok. **$4,9 \cdot 10^{-324}$**, do ok. **$1,7 \cdot 10^{308}$** | 0.0D                 |
 | **decimal**                                  | 16 bajtów                     | Od **$10^{-28}$** do **$7,9 \cdot 10^{28}$**                      | 0.0M                 |
 
+
 $\leftarrow$ [[MOC Typy danych]]
 $\leftarrow$ [[C Sharp]]
 $\leftarrow$ [[Składnia języka C Sharp]]

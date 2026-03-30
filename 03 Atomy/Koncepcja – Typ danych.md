@@ -4,6 +4,7 @@ tags:
   - atom
   - it/typ_danych
   - definicja
+  - it/programowanie
 modified date: 2025-11-23 15:01
 ---
 > [!note] Definicja
