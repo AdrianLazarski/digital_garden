@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -348,11 +348,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9005ccb60fa7c197",
+  "active": "fabaccde71fe797f",
   "lastOpenFiles": [
-    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
-    "03 Atomy/Obiekt (programowanie).md",
     "03 Atomy/Klasa (programowanie).md",
+    "03 Atomy/Obiekt (programowanie).md",
+    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
+    "03 Atomy/Metoda (programowanie).md",
     "03 Atomy/Programowanie obiektowe.md",
     "03 Atomy/Programowanie proceduralne.md",
     "02 MOC/MOC IT/MOC Metodyka programowania.md",
@@ -377,7 +378,6 @@
     "01 Input przejściowy/Ekonomia/Dzieła/Norberg Johan, Manifest kapitalistyczny.md",
     "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
-    "03 Atomy/Sygnał analogowy.md",
     "03 Atomy/załączniki/Bramka XNOR.webp",
     "03 Atomy/załączniki/Bramka XOR.webp",
     "03 Atomy/załączniki/Bramka NOR2.webp",

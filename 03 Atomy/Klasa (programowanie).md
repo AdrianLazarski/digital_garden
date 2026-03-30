@@ -7,7 +7,7 @@ tags:
 modified date: 2025-12-10 13:29
 ---
 > [!note] Definicja
-> Definiuje dopuszczalny stan obiektów oraz ich zachowania.
+> Szablon, który definiuje dopuszczalny stan obiektów (poprzez [[Pole (programowanie)|pola]]) oraz ich możliwe zachowania (poprzez [[Metoda (programowanie)|metody]]).
 
 [[Obiekt (programowanie)]] stworzony na podstawie danej klasy jej jej instancją.
 

@@ -27,6 +27,7 @@ modified date: 2025-12-10 13:43
 
 
 $\leftarrow$ [[Klasa (programowanie)]]
+$\leftarrow$ [[MOC Programowanie obiektowe]]
 
 $\rightarrow$ [[Instrukcja (programowanie)]]
 $\rightarrow$ [[Metoda statyczna]]
