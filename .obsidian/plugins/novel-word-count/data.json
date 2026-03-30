@@ -42482,8 +42482,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1772304405108,
-      "modifiedDate": 1774883616604,
-      "sizeInBytes": 1095,
+      "modifiedDate": 1774884455034,
+      "sizeInBytes": 566,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -42509,8 +42509,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304405101,
-      "modifiedDate": 1774883634542,
-      "sizeInBytes": 720,
+      "modifiedDate": 1774884456165,
+      "sizeInBytes": 730,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.08666666666666667,
@@ -42523,7 +42523,7 @@
         "tags": [
           "atom",
           "definicja",
-          "it/programowanie"
+          "it/programowanie/obiektowe"
         ],
         "created": "2025-12-09 15:38",
         "dojrzalosc": "Sadzonka 🌱",
@@ -42547,8 +42547,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1772304405094,
-      "modifiedDate": 1774884217748,
-      "sizeInBytes": 928,
+      "modifiedDate": 1774884429404,
+      "sizeInBytes": 1182,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -42574,8 +42574,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304405087,
-      "modifiedDate": 1774884232513,
-      "sizeInBytes": 1430,
+      "modifiedDate": 1774884430263,
+      "sizeInBytes": 1440,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.39,
@@ -42588,7 +42588,7 @@
         "tags": [
           "definicja",
           "atom",
-          "it/programowanie"
+          "it/programowanie/obiektowe"
         ],
         "created": "2025-12-10 13:43",
         "dojrzalosc": "Krzak 🌿",
@@ -45082,8 +45082,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1773059874071,
-      "modifiedDate": 1773062051615,
-      "sizeInBytes": 1445,
+      "modifiedDate": 1774884500320,
+      "sizeInBytes": 956,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -45147,8 +45147,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1773059867454,
-      "modifiedDate": 1773062051479,
-      "sizeInBytes": 1335,
+      "modifiedDate": 1774884498372,
+      "sizeInBytes": 1366,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.47333333333333333,
@@ -45161,7 +45161,8 @@
         "created": "2026-03-09 13:37",
         "tags": [
           "atom",
-          "it/historia"
+          "it/historia",
+          "it/programowanie/obiektowe"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Prawdopodobny 🧪",
@@ -121054,8 +121055,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1774881534014,
-      "modifiedDate": 1774883789892,
-      "sizeInBytes": 545,
+      "modifiedDate": 1774884446207,
+      "sizeInBytes": 555,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -121069,7 +121070,7 @@
         "tags": [
           "atom",
           "definicja",
-          "it/programowanie"
+          "it/programowanie/obiektowe"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
@@ -121092,7 +121093,7 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1774881544538,
-      "modifiedDate": 1774883783029,
+      "modifiedDate": 1774884446687,
       "sizeInBytes": 454,
       "sessionStart": {
         "noteCount": 0,
@@ -121119,8 +121120,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1774883857380,
-      "modifiedDate": 1774884082019,
-      "sizeInBytes": 970,
+      "modifiedDate": 1774884469909,
+      "sizeInBytes": 980,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -121133,9 +121134,9 @@
         "created": "2026-03-30 17:17",
         "tags": [
           "atom",
-          "it/programowanie",
           "kod",
-          "język_programowania/csharp"
+          "język_programowania/csharp",
+          "it/programowanie/obiektowe"
         ],
         "dojrzalosc": "Krzak 🌿",
         "status_epistemiczny": "Prawdopodobny 🧪",
@@ -121158,8 +121159,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1774883863024,
-      "modifiedDate": 1774884071273,
-      "sizeInBytes": 1147,
+      "modifiedDate": 1774884466873,
+      "sizeInBytes": 674,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -121177,16 +121178,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1774884322752,
-      "modifiedDate": 1774884331907,
-      "sizeInBytes": 0,
+      "modifiedDate": 1774884389004,
+      "sizeInBytes": 190,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -121194,6 +121195,17 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-03-30 17:25",
+        "tags": [
+          "atom",
+          "definicja",
+          "it/programowanie/obiektowe"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-03-30 17:25"
       }
     },
     "03 Atomy/Pole (programowanie).md.edtz": {

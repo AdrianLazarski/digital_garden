@@ -3,7 +3,7 @@ created: 2026-03-30 16:38
 tags:
   - atom
   - definicja
-  - it/programowanie
+  - it/programowanie/obiektowe
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-03-30 16:38

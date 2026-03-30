@@ -2,7 +2,7 @@
 tags:
   - atom
   - definicja
-  - it/programowanie
+  - it/programowanie/obiektowe
 created: 2025-12-09 15:38
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓

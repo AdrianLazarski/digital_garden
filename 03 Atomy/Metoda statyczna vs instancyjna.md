@@ -2,9 +2,9 @@
 created: 2026-03-30 17:17
 tags:
   - atom
-  - it/programowanie
   - kod
   - język_programowania/csharp
+  - it/programowanie/obiektowe
 dojrzalosc: Krzak 🌿
 status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-03-30 17:17

@@ -2,7 +2,7 @@
 tags:
   - definicja
   - atom
-  - it/programowanie
+  - it/programowanie/obiektowe
 created: 2025-12-10 13:43
 dojrzalosc: Krzak 🌿
 status_epistemiczny: Prawdopodobny 🧪
