@@ -11,7 +11,12 @@ modified date: 2026-03-30 16:44
 ang. *Static method*
 
 > [!note] Definicja
-> [[Metoda (programowanie)|Metoda]] danej klasy wykonywana na samej [[Klasa (programowanie)|klasie]], a nie na powstałym na jej podstawie [[Obiekt (programowanie)|obiekcie]].
+> [[Metoda (programowanie)|Metoda]] danej [[Klasa (programowanie)|klasy]], która nie jest wykonywana na jej [[Obiekt (programowanie)|obiekcie]].
+
+Potocznie mówi się, że to metoda "wykonywana na klasie", ale nie chodzi o zmianę stanu lub zachowania klasy, a po prostu zapis w kodzie:
+```csharp
+klasa.metoda();
+```
 
 
 Pojęcie dla odróżnienia [[Metoda instancyjna|metody instancyjnej]].

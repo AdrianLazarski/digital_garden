@@ -1,11 +1,12 @@
 ---
-created: 2025-12-10 13:43
 tags:
-  - it
-  - język_programowania/oop
   - definicja
   - atom
-modified date: 2025-12-10 13:43
+  - it/programowanie
+created: 2025-12-10 13:43
+dojrzalosc: Krzak 🌿
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-03-30 17:16
 ---
 (ang. *Method*)
 
@@ -13,11 +14,10 @@ modified date: 2025-12-10 13:43
 > Metoda to blok kodu, który zawiera serię instrukcji i wykonuje określone zadanie. 
 
 > [!note] Definicja 2
-> Funkcja (zwraca wartość) lub procedura (wykonuje akcję), skojarzona z klasą, do której należy. Metoda określa zachowania, które mogą dotyczyć samej [[Klasa (programowanie)|klasy]] ([[Metoda statyczna|metody statyczne]]) lub konkretnych jej [[Obiekt (programowanie)|obiektów]] ([[Metoda instancyjna|metody instancyjne]]).
+> Funkcja (zwraca wartość) lub procedura (wykonuje akcję), skojarzona z [[Klasa (programowanie)|klasą]], do której należy. Metoda określa zachowania jej [[Obiekt (programowanie)|obiektów]] ([[Metoda instancyjna|metody instancyjne]]), ale nie musi ([[Metoda statyczna|metody statyczne]]).
 
-- W programowaniu obiektowym zawiera się w klasie. 
-	- W [[C Sharp]] można używać słów funkcja i metoda wymiennie, bo tam wszystko jest w klasach.
-- 
+
+- W [[C Sharp]] można używać słów funkcja i metoda wymiennie, bo tam wszystko jest w klasach.
 
 ## Rola metod w programowaniu
 
@@ -31,5 +31,5 @@ $\leftarrow$ [[Klasa (programowanie)]]
 $\leftarrow$ [[MOC Programowanie obiektowe]]
 
 $\rightarrow$ [[Instrukcja (programowanie)]]
-$\rightarrow$ [[Metoda statyczna]]
+$\rightarrow$ [[Metoda statyczna vs instancyjna]]
 

@@ -4,7 +4,7 @@ tags:
   - atom
   - definicja
   - it/programowanie/obiektowe
-dojrzalosc: Sadzonka 🌱
+dojrzalosc: Krzak 🌿
 status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-03-09 13:11
 ---

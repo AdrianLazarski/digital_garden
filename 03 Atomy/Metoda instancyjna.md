@@ -11,7 +11,7 @@ modified date: 2026-03-30 16:38
 ang. *Instance method*
 
 > [!note] Definicja
->Domyślny rodzaj [[Metoda (programowanie)|metody]] danej klasy, wykonywany na jej [[Obiekt (programowanie)|obiekcie]] 
+>Domyślny rodzaj [[Metoda (programowanie)|metody]] danej [[Klasa (programowanie)|klasy]], wykonywany na jej [[Obiekt (programowanie)|obiekcie]] 
 
 Pojęcie dla odróżnienia [[Metoda statyczna|metody statycznej]].
 
