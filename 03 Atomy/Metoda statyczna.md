@@ -1,12 +1,22 @@
 ---
-created: 2025-12-09 15:38
 tags:
-  - it
   - atom
   - definicja
-modified date: 2025-12-09 15:38
+  - it/programowanie
+created: 2025-12-09 15:38
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-03-30 16:44
 ---
-> [!note] Definicja
-> Metoda statyczna to taka, która należy do samej definicji typu (klasy), a nie do żadnego konkretnego obiektu utworzonego na jej podstawie.
+ang. *Static method*
 
-$\leftarrow$ [[Klasa (programowanie)]]
+> [!note] Definicja
+> [[Metoda (programowanie)|Metoda]] danej klasy wykonywana na samej [[Klasa (programowanie)|klasie]], a nie na powstałym na jej podstawie [[Obiekt (programowanie)|obiekcie]].
+
+
+Pojęcie dla odróżnienia [[Metoda instancyjna|metody instancyjnej]].
+
+## Zobacz
+
+$\leftarrow$ [[MOC Programowanie obiektowe]]
+$\rightarrow$ [[Metoda statyczna vs instancyjna]]
