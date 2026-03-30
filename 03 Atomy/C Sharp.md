@@ -948,5 +948,10 @@ public class GenericClass<T> where T : Enum
 // . . .
 }
 // Działa to dla elementów pochodnych do klas Object, Array, ValueType, oraz dla klas Enum, Delegate, MulticastDelegate
+//Aby przekazać oganiczenie dla stringów, trzeba wpisać class, bo string to typ klasowy, a nie strukturalny.
+public class GenericClass<T> where T : class
+{
+// . . .
+}
 
 ```

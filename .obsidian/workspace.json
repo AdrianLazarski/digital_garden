@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -396,15 +396,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8f3b92d1a542603",
+  "active": "d00646d3ac910507",
   "lastOpenFiles": [
-    "Aktualnie opracowywane.md",
-    "02 MOC/MOC IT/MOC Typy danych.md",
-    "03 Atomy/C Sharp.md",
     "03 Atomy/Składnia języka C Sharp.md",
-    "03 Atomy/Medium transmisyjne.md",
-    "03 Atomy/Typy danych w C Sharp.md",
+    "03 Atomy/C Sharp.md",
     "03 Atomy/Typy zmiennoprzecinkowe w C Sharp.md",
+    "03 Atomy/Typy danych w C Sharp.md",
+    "02 MOC/MOC IT/MOC Typy danych.md",
+    "Aktualnie opracowywane.md",
+    "03 Atomy/Medium transmisyjne.md",
     "03 Atomy/Typy całkowitoliczbowe w C Sharp.md",
     "02 MOC/MOC IT/MOC Operator (Programowanie).md",
     "03 Atomy/Operator AND.md",
