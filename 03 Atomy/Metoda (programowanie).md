@@ -13,10 +13,11 @@ modified date: 2025-12-10 13:43
 > Metoda to blok kodu, który zawiera serię instrukcji i wykonuje określone zadanie. 
 
 > [!note] Definicja 2
-> Metoda to funkcja skojarzona z klasą.
+> Funkcja (zwraca wartość) lub procedura (wykonuje akcję), skojarzona z klasą, do której należy. Metoda określa zachowania, które mogą dotyczyć samej [[Klasa (programowanie)|klasy]] (metody statyczne) lub konkretnych jej [[Obiekt (programowanie)|obiektów]] (metody instancyjne).
 
 - W programowaniu obiektowym zawiera się w klasie. 
 	- W [[C Sharp]] można używać słów funkcja i metoda wymiennie, bo tam wszystko jest w klasach.
+- 
 
 ## Rola metod w programowaniu
 
