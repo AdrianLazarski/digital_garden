@@ -19,20 +19,22 @@ ang. *event-driven programming*
 - Stanowi podstawę środowisk programistycznych klasy RAD (ang. Rapid Application Development)
 - Równie często metodyka ta jest wykorzystywana do programowania układów scalonych dysponujących systemem przerwań z możliwością wywołania podprogramu w odpowiedzi na wystąpienie określonego zdarzania.
 - W ostatnich latach zyskuje też popularność w programowaniu aplikacji webowych.
-- 
+- W systemach wykorzystujących programowanie zdarzeniowe może być dodatkowo zdefiniowany mechanizm ustalający priorytety kolejności obsługi. Może również występować mechanizm blokowania zdarzeń niepożądanych. 
+	- Przykładem może być ograniczenie możliwości wprowadzania danych do kontrolki typu `<input>` znaków innych niż cyfry.
 
 ## Wady i zalety
 
 ### Zalety
 
-- Możliwość dekompozycji kodu.
-- Podobieństwo formy kodu źródłowego i maszynowego.
+- Ograniczenie kodu do opisu tylko obsługiwanych zdarzeń,
+- Łatwość opisania interakcji z otoczeniem,
+- Możliwość zastosowania w trybie hybrydowym innych niezbędnych metodologii.
 
 ### Wady
 
-- Duża liczba zmiennych
-- Rozdzielenie danych od operacji na nich wykonywanych.
-- Brak metodyki grupowania danych w logiczny sposób.
+- Programowanie zdarzeniowe opiera się na nieustannej pracy procesora w tle (tzw. pętla komunikatów), która nasłuchuje sygnałów z systemu. Zużywa to zasoby.
+- Konieczność przewidzenia wszystkich możliwych zdarzeń oraz sposobu dostarczenia ich parametrów,
+- Wysoki stopień skomplikowania kodu wynikowego związany z koniecznością wyszczególnienia, zdefiniowania i implementacji obsługi wszelkich możliwych nadchodzących zdarzeń, przerwań i komunikatów.
 
 
 $\leftarrow$ [[MOC Metodyka programowania]]
