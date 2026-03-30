@@ -29,6 +29,9 @@ $\rightarrow$ [[Programowanie liniowe]]
 $\rightarrow$ [[Programowanie proceduralne]]
 $\rightarrow$ [[Programowanie strukturalne]]
 $\rightarrow$ [[Programowanie generyczne]]
+$\rightarrow$ [[Programowanie zdarzeniowe]]
+$\rightarrow$ [[Programowanie agentowe]]
+$\rightarrow$ [[Programowanie obiektowe]]
 
 ###### Linki
 $\leftarrow$ [[Typy metodyk programowania]]

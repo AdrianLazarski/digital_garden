@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Programowanie zdarzeniowe.md",
+                "file": "03 Atomy/Programowanie agentowe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programowanie zdarzeniowe"
+              "title": "Programowanie agentowe"
             }
           }
         ],
@@ -133,8 +133,7 @@
               "title": "Zakładki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -303,8 +302,11 @@
   },
   "active": "318ed9b0b9933ddd",
   "lastOpenFiles": [
-    "03 Atomy/Programowanie proceduralne.md",
+    "03 Atomy/Programowanie typu imperatywnego.md",
+    "03 Atomy/Programowanie agentowe.md",
+    "03 Atomy/Programowanie agentowe.md.edtz",
     "03 Atomy/Programowanie zdarzeniowe.md",
+    "03 Atomy/Programowanie proceduralne.md",
     "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "03 Atomy/Programowanie zdarzeniowe.md.edtz",
     "03 Atomy/C Sharp.md",
@@ -328,8 +330,6 @@
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Algebra Boole'a.md",
     "03 Atomy/Impuls.md",
     "03 Atomy/Przetwornik cyfrowo-analogowy DA.md",
-    "03 Atomy/Sygnał cyfrowy.md",
-    "03 Atomy/Bramka logiczna.md",
     "03 Atomy/załączniki/Bramka XNOR.webp",
     "03 Atomy/załączniki/Bramka XOR.webp",
     "03 Atomy/załączniki/Bramka NOR2.webp",
@@ -347,7 +347,6 @@
     "03 Atomy/Przetwornik cyfrowo-analogowy DA.md.edtz",
     "03 Atomy/Przetwornik anologowo-cyfrowy AD.md.edtz",
     "03 Atomy/Transistor-Transistor Logic TTL.md.edtz",
-    "03 Atomy/Sygnał dyskretny.md.edtz",
-    "03 Atomy/Sygnał cyfrowy.md.edtz"
+    "03 Atomy/Sygnał dyskretny.md.edtz"
   ]
 }
