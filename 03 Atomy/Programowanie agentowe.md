@@ -11,16 +11,15 @@ modified date: 2026-03-30 15:01
 ang. *agent-oriented programming*
 
 > [!note] Definicja
-> Metodyka programowania w której przepływ programu jest determinowany przez zdarzenia zewnętrzne lub wewnętrzne, takie jak kliknięcia myszą, naciśnięcia klawiszy, sygnały z czujników czy komunikaty z innych wątków.
+> Metodyka programowania zakładająca tworzenie programów w taki sposób, by wykonowanie różnych operacji powierzyć wyodrębnionym, automatycznym podprogram, wątkom lub osobnym procesom lub procedurom.
 
 - Zaliczane do metodyk [[Programowanie typu imperatywnego|typu imperatywnego]].
 
-- Jest to jedna z najczęściej wykorzystywanych współcześnie metodyk przy tworzeniu aplikacji z [[GUI]]. 
-- Stanowi podstawę środowisk programistycznych klasy RAD (ang. Rapid Application Development)
-- Równie często metodyka ta jest wykorzystywana do programowania układów scalonych dysponujących systemem przerwań z możliwością wywołania podprogramu w odpowiedzi na wystąpienie określonego zdarzania.
-- W ostatnich latach zyskuje też popularność w programowaniu aplikacji webowych.
-- W systemach wykorzystujących programowanie zdarzeniowe może być dodatkowo zdefiniowany mechanizm ustalający priorytety kolejności obsługi. Może również występować mechanizm blokowania zdarzeń niepożądanych. 
-	- Przykładem może być ograniczenie możliwości wprowadzania danych do kontrolki typu `<input>` znaków innych niż cyfry.
+- Żaden z agentów nie jest w stanie wykonywać czynności innych, niż zostały mu powierzone. Ale aby w pełni wykonać postawione zadanie może być konieczne zdefiniowanie wielu agentów z różnymi obszarami odpowiedzialności i zadaniami. 
+- Oznacza to, że do pełnego i poprawnego działania systemu konieczna jest współpraca wielu niezależnych agentów.
+	- Systemy tak zorganizowane nazywane są wieloagentowymi.
+- W systemach wieloagentowych, często projektuje się specjalne kanały służące do komunikowania się pomiędzy poszczególnymi agentami.
+- Jeśli komunikacja nie zostaje zaimplementowana, to zadaniem agentów jest najczęściej utrzymanie pewnego stanu lub podtrzymanie działania w nierozwijanym przez agenty systemie.
 
 ## Wady i zalety
 
