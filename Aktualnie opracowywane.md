@@ -4,6 +4,8 @@
 [[Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii]]
 recenzje wkleić
 
+[[Medium transmisyjne]]
+
 [[Ciąg]]
 [[Szereg liczbowy]]
 [[Pochodna funkcji]]
