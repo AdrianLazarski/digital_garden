@@ -4,8 +4,8 @@ tags:
   - atom
   - definicja
   - it/programowanie/obiektowe
-dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+dojrzalosc: Krzak 🌿
+status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-03-30 17:25
 ---
 > [!note] Definicja
@@ -14,3 +14,5 @@ modified date: 2026-03-30 17:25
 > [!note] Definicja 2
 > Pole to nazwane miejsce w strukturze klasy, przeznaczone do przechowywania zmiennej. Wartość tej zmiennej określa fragment aktualnego stanu konkretnego obiektu (instancji) lub całej klasy (jeśli pole jest statyczne).
 
+
+$\leftarrow$ [[MOC Programowanie obiektowe]]
