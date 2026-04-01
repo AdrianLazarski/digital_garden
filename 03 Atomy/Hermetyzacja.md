@@ -19,3 +19,6 @@ ang. *encapsulation*
 - **Zasada "Czarnej Skrzynki":** Inne części programu nie muszą wiedzieć, jak obiekt działa w środku; mają znać tylko jego "panel sterowania" (interfejs).
 - **Zaleta architektoniczna:** Pozwala zmienić wewnętrzny kod klasy (np. sposób obliczeń) bez konieczności poprawiania reszty programu, o ile nie zmienimy nazw metod publicznych.
 
+Czasem występuje jako kalka z angielskiego: [[Enkapsulacja]]
+
+$\leftarrow$ [[MOC Programowanie obiektowe]]
