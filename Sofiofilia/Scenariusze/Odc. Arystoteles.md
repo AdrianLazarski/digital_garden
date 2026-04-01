@@ -92,7 +92,7 @@ To dlaczego jego książka nazywa się Metafizyka? Nazwa ta pochodzi od Andronik
 
 Ale wróćmy do konkretnych tez Arystotelesa.
 
-Byt to jest po prostu coś, co istnieje. A istnieć można samodzielnie lub niesamodzielne. Samodzielnie istnieje substancja. Substancję, po grecku usija, rozumiano na cztery sposoby, zanim Arystoteles się wziął za ten temat:
+Byt to jest po prostu coś, co istnieje. A istnieć można samodzielnie lub niesamodzielne. Samodzielnie istnieje substancja. Substancję, po grecku ousija, rozumiano potocznie na cztery sposoby, zanim Arystoteles się wziął za ten temat:
 
 Substancja (*οὐσία*-usija):
 	1. Coś, co nie jest własnością niczego; co nie przypisuje się czemuś innemu.

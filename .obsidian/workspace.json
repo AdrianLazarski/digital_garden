@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Odc. Arystoteles"
             }
+          },
+          {
+            "id": "a51c8cebb84cf4fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -160,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "płace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -181,7 +205,8 @@
               "title": "Zakładki"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -348,8 +373,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ebf9909662b2bd9",
+  "active": "5f3082bf1e46927d",
   "lastOpenFiles": [
+    "01 Input przejściowy/Ekonomia/Dzieła/Majcherek Janusz, Źródła bogactwa i biedy ludzi oraz ich zbiorowości.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Norberg Johan, Manifest kapitalistyczny.md",
+    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "03 Atomy/Klasa (programowanie).md",
     "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
     "03 Atomy/Enkapsulacja.md",
@@ -381,9 +409,6 @@
     "03 Atomy/Typy danych w C Sharp.md",
     "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Programowanie funkcyjne.md",
-    "03 Atomy/Typy zmiennoprzecinkowe w C Sharp.md",
-    "Aktualnie opracowywane.md",
-    "03 Atomy/Medium transmisyjne.md",
     "03 Atomy/załączniki/Bramka XNOR.webp",
     "03 Atomy/załączniki/Bramka XOR.webp",
     "03 Atomy/załączniki/Bramka NOR2.webp",
