@@ -121683,20 +121683,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 109,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.36333333333333334,
+      "characterCount": 740,
+      "nonWhitespaceCharacterCount": 594,
+      "newlineCount": 18,
+      "readingTimeInMinutes": 0.41132075471698115,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1775147547487,
-      "modifiedDate": 1775147556128,
-      "sizeInBytes": 0,
+      "modifiedDate": 1775147570099,
+      "sizeInBytes": 872,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -121704,6 +121704,13 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-04-02 18:32",
+        "tags": [
+          "danie"
+        ],
+        "modified date": "2026-04-02 18:32"
       }
     },
     "Gotowanie/Gnocchi z cukinią i marchewką.md.edtz": {
