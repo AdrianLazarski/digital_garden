@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "Polimorfizm (programowanie)"
             }
+          },
+          {
+            "id": "2c42875cbf7311cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gotowanie/Gnocchi z cukinią i marchewką.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gnocchi z cukinią i marchewką"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -324,11 +348,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c982da20faac4186",
+  "active": "2c42875cbf7311cf",
   "lastOpenFiles": [
+    "Gotowanie/Gnocchi z cukinią i marchewką.md.edtz",
+    "Gotowanie/Pieczone gnocchi z warzywami, tofu i sosem musztardowo-jogurtowym.md",
+    "Gotowanie/Gnocchi z cukinią i marchewką.md",
+    "Gotowanie/Brokuł stir fry curry.md",
+    "Gotowanie/Brokuł stir fry curry.md.edtz",
+    "Gotowanie/Pieczone gnocchi z warzywami, tofu i sosem musztardowo-jogurtowym.md.edtz",
+    "03 Atomy/Polimorfizm (programowanie).md",
     "03 Atomy/Polimorfizm (programowanie).md.edtz",
     "03 Atomy/Dziedziczenie (programowanie).md",
-    "03 Atomy/Polimorfizm (programowanie).md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
     "03 Atomy/Metoda statyczna vs instancyjna.md",
     "03 Atomy/Hermetyzacja.md",
@@ -356,12 +386,6 @@
     "03 Atomy/Programowanie obiektowe.md",
     "03 Atomy/Pole (programowanie).md.edtz",
     "05 Bazy danych/elektronika baza.base",
-    "03 Atomy/Metoda statyczna vs instancyjna.md.edtz",
-    "03 Atomy/Metoda instancyjna.md.edtz",
-    "03 Atomy/Programowanie proceduralne.md",
-    "02 MOC/MOC IT/MOC Metodyka programowania.md",
-    "03 Atomy/Programowanie agentowe.md",
-    "03 Atomy/Programowanie agentowe.md.edtz",
     "03 Atomy/załączniki/Bramka XNOR.webp",
     "03 Atomy/załączniki/Bramka XOR.webp",
     "03 Atomy/załączniki/Bramka NOR2.webp",
