@@ -37315,8 +37315,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1772304405964,
-      "modifiedDate": 1775227467390,
-      "sizeInBytes": 1047,
+      "modifiedDate": 1775228144098,
+      "sizeInBytes": 1953,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -37330,20 +37330,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 153,
+      "wordCount": 155,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.51,
-      "characterCount": 1215,
-      "nonWhitespaceCharacterCount": 1039,
+      "pageCount": 0.5166666666666667,
+      "characterCount": 1320,
+      "nonWhitespaceCharacterCount": 1142,
       "newlineCount": 29,
-      "readingTimeInMinutes": 0.5773584905660377,
-      "linkCount": 2,
+      "readingTimeInMinutes": 0.5849056603773585,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304405958,
-      "modifiedDate": 1775227505649,
-      "sizeInBytes": 1376,
+      "modifiedDate": 1775228201696,
+      "sizeInBytes": 1542,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.39,
@@ -37353,13 +37353,15 @@
         "newlineCount": 27
       },
       "frontmatter": {
-        "created": "2025-12-09 17:06",
         "tags": [
           "ai-generated",
           "atom",
           "it/architektura"
         ],
-        "modified date": "2025-12-10 12:53"
+        "created": "2025-12-09 17:06",
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-04-03 16:51"
       }
     },
     "03 Atomy/Sterta (pamięć).md.edtz": {
@@ -62343,8 +62345,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1772304400131,
-      "modifiedDate": 1775227632325,
-      "sizeInBytes": 254,
+      "modifiedDate": 1775228015139,
+      "sizeInBytes": 1009,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -62358,20 +62360,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 34,
+      "wordCount": 72,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.11333333333333333,
-      "characterCount": 260,
-      "nonWhitespaceCharacterCount": 218,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.12830188679245283,
-      "linkCount": 1,
+      "pageCount": 0.24,
+      "characterCount": 582,
+      "nonWhitespaceCharacterCount": 499,
+      "newlineCount": 12,
+      "readingTimeInMinutes": 0.27169811320754716,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304400125,
-      "modifiedDate": 1775227646115,
-      "sizeInBytes": 379,
+      "modifiedDate": 1775228030929,
+      "sizeInBytes": 778,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.016666666666666666,
@@ -62381,12 +62383,14 @@
         "newlineCount": 4
       },
       "frontmatter": {
-        "created": "2025-12-10 13:01",
         "tags": [
           "atom",
           "it/struktura_danych"
         ],
-        "modified date": "2025-12-10 13:08"
+        "created": "2025-12-10 13:01",
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-04-03 16:53"
       }
     },
     "01 Input przejściowy/IT⌨️/Struktury danych/Lista.md.edtz": {

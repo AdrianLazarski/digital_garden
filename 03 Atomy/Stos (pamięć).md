@@ -1,15 +1,17 @@
 ---
-created: 2025-12-09 17:06
 tags:
   - ai-generated
   - atom
   - it/architektura
-modified date: 2025-12-10 12:53
+created: 2025-12-09 17:06
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-04-03 16:51
 ---
 ang. *stack*
 
 > [!note] Definicja
-> Uporządkowany, szybki rodzaj pamięci, w którym dane dokładane są na wierzch stosu i z wierzchołka stosu są usuwane (bufor typu LIFO, _Last In, First Out_; _ostatni na wejściu, pierwszy na wyjściu_).
+> Wydzielony, uporządkowany obszar w pamięci **RAM** przydzielony procesowi przez system operacyjny. Jest to fizyczna implementacja [[Stos (struktura danych)|struktury stosu]], służąca do automatycznego zarządzania czasem życia zmiennych lokalnych oraz przepływem sterowania programu (wywoływaniem metod).
 
 #### Co przechowuje?
 

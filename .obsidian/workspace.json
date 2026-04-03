@@ -126,30 +126,6 @@
               "icon": "lucide-file",
               "title": "Stos (pamięć)"
             }
-          },
-          {
-            "id": "ee07a6071ac32029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/IT⌨️/Struktury danych/Stos (struktura danych).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stos (struktura danych)"
-            }
           }
         ],
         "currentTab": 4
@@ -375,8 +351,8 @@
   "active": "18c91bdae9e7e292",
   "lastOpenFiles": [
     "01 Input przejściowy/IT⌨️/Struktury danych/Stos (struktura danych).md",
-    "03 Atomy/Sterta (pamięć).md",
     "03 Atomy/Stos (pamięć).md",
+    "03 Atomy/Sterta (pamięć).md",
     "03 Atomy/Alokacja obiektu na stosie i stercie.md",
     "03 Atomy/Konstruktor.md",
     "03 Atomy/Konstruktor.md.edtz",
