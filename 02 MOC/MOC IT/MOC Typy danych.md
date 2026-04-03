@@ -26,7 +26,7 @@ $\leftarrow$ [[Język programowania]]
 
 #### Złożony typ wartościowy
 
-Strukturowy typ danych (rekord) – agregat danych różnych typów, traktowany jako jedna wartość
+[[Struktura (programowanie)]]/rekord – agregat danych różnych typów, traktowany jako jedna wartość
 
 ### Typy referencyjne
 
