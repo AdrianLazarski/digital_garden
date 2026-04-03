@@ -21,7 +21,7 @@ Na **stosie** rezerwowana jest przestrzeń na zmienną `baba`. Ma stały rozmiar
 - Ten stały rozmiar to 4 bajty w systemach 32-bitowych i 8 bajtów w 64-bitowych.
 
 
-#### Jednoczesnej inicjalizacja i deklaracja zmiennej 
+#### Jednoczesna deklaracja i inicjalizacjazmiennej 
 `Ssak baba = new Ssak();` 
 
 
@@ -38,7 +38,7 @@ Na **stosie** rezerwowana jest przestrzeń na zmienną `baba`. Ma stały rozmiar
 
 ### Na przykładzie tablicy
 
-#### Sama deklaracja
+#### Sama deklaracja i rezerwacja miejsca
 `int[] liczby = new int[3];`
 1. Powstaje zmienna `liczby` i na a stosie rezerwowane jest 8 bajtów na adres, niezależnie od rozmiarów tablicy.
 2. Na stercie zarezerwowany jest blok pamięć na 3 liczby + nagłówki
@@ -46,11 +46,12 @@ Na **stosie** rezerwowana jest przestrzeń na zmienną `baba`. Ma stały rozmiar
 	- Gdyby to była tablica instancji jakiejś klasy, to komórki wypełniłoby `null`, bo to domyślna wartość dla adresów (takie potencjalne obiekty, do których byśmy się odnosili, już by gdzieś istniały w stercie, więc wystarczyłoby je adresować, zamiast wstawiać drugi raz).
 4. Adres początku bloku na stercie trafia do zmiennej `liczby` na stosie.
 
-#### Z inicjalizacją
+#### Deklaracja plus inicjalizacja
 `int[] liczby = new int[3] { 1, 2, 3 };`
 `int[] liczby = { 1, 2, 3 };` //to samo co wyżej
 
-Jak wyżej plus
+Proces wygląda jak przy samej deklaracji, przy czym przed wpisaniem adresu bloku pamięci **na stercie** do zmiennej `liczby` **na stosie** (punkt 4), zachodzi inicjalizacja tj. procesor wpisuje liczby w puste miejsca na **stercie**.
+
 ## Alokacja dla typów prostych
 
 1. Deklaracja `int nazwa;` zajmuje 4 bajty na **stosie** (dla innych typów danych inny rozmiar, ale też generalnie stały).
