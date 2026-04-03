@@ -12,7 +12,9 @@ $\leftarrow$ [[Elementy języka programowania]]
 $\leftarrow$ [[Język programowania]]
 
 
-#### Typy danych
+## Typy danych
+
+### Typy wartościowe
 
 [[Całkowitoliczbowy typ danych]]
 [[Zmiennoprzecinkowy typ danych]]
@@ -22,7 +24,7 @@ $\leftarrow$ [[Język programowania]]
 [[Wyliczeniowy typ danych]] – typ mogący przyjmować jedną z zadanych symbolicznych wartości, np. (czerwony, zielony, niebieski).
 [[Tablicowy typ danych]] – ciąg zmiennych zadanego typu indeksowanych liczbą naturalną z pewnego przedziału (w większości języków programowania) lub dowolnym unikalnym kluczem który może być zarówno liczbą jak i ciągiem znaków (w PHP).
 
-#### Implementacje
+## Implementacje
 
 $\rightarrow$ [[Typy danych w C Sharp]]
 $\rightarrow$ [[Typy danych w Python]]
