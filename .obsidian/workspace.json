@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "c sharp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -301,11 +301,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c982da20faac4186",
+  "active": "835f45659b596db9",
   "lastOpenFiles": [
-    "03 Atomy/Polimorfizm (programowanie).md",
-    "03 Atomy/Programowanie obiektowe.md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
+    "03 Atomy/Programowanie obiektowe.md",
+    "03 Atomy/C Sharp.md",
+    "03 Atomy/Polimorfizm (programowanie).md",
     "03 Atomy/Metoda statyczna vs instancyjna.md",
     "03 Atomy/Hermetyzacja.md",
     "03 Atomy/Typy danych w C Sharp.md",
@@ -337,7 +338,6 @@
     "03 Atomy/Enkapuslacja.md.edtz",
     "03 Atomy/Enkapsulacja.md.edtz",
     "03 Atomy/Pole (programowanie).md",
-    "03 Atomy/Historia programowania obiektowego.md",
     "03 Atomy/Pole (programowanie).md.edtz",
     "03 Atomy/załączniki/Bramka XNOR.webp",
     "03 Atomy/załączniki/Bramka XOR.webp",
