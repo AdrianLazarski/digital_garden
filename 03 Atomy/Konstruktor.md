@@ -32,3 +32,6 @@ Przykład konstruktora z trzema parametrami (kolejność jest ważna)
 public Ssak(string animalName, string rząd, Color umaszczenie)
 { }
 ```
+
+
+$\leftarrow$ [[MOC Programowanie obiektowe]]

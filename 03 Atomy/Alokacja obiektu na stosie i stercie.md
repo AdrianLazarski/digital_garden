@@ -56,3 +56,6 @@ Proces wygląda jak przy samej deklaracji, przy czym przed wpisaniem adresu blok
 
 1. Deklaracja `int nazwa;` zajmuje 4 bajty na **stosie** (dla innych typów danych inny rozmiar, ale też generalnie stały).
 2. Przypisanie `nazwa = 5;` wpisuje binarną reprezentację liczby 5 bezpośrednio do tego miejsca na **stosie**. 
+
+
+$\leftarrow$ [[MOC Programowanie obiektowe]]

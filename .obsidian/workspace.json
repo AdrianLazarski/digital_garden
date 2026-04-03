@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Alokacja obiektu na stosie i stercie.md",
+                "file": "03 Atomy/Sterta (pamięć).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Alokacja obiektu na stosie i stercie"
+              "title": "Sterta (pamięć)"
             }
           },
           {
-            "id": "2b8bfb9ca16b9d48",
+            "id": "18c91bdae9e7e292",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Konstruktor.md",
+                "file": "03 Atomy/Stos (pamięć).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -120,11 +120,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Konstruktor"
+              "title": "Stos (pamięć)"
             }
           }
         ],
@@ -348,11 +348,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b8bfb9ca16b9d48",
+  "active": "18c91bdae9e7e292",
   "lastOpenFiles": [
-    "03 Atomy/Konstruktor.md.edtz",
-    "03 Atomy/Konstruktor.md",
+    "03 Atomy/Sterta (pamięć).md",
     "03 Atomy/Alokacja obiektu na stosie i stercie.md",
+    "03 Atomy/Stos (pamięć).md",
+    "03 Atomy/Konstruktor.md",
+    "03 Atomy/Konstruktor.md.edtz",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
     "03 Atomy/Programowanie obiektowe.md",
     "03 Atomy/C Sharp.md",
@@ -383,9 +385,7 @@
     "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
     "Gotowanie/Surówka z buraka.md.edtz",
     "03 Atomy/Hermetyzacja.md.edtz",
-    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "03 Atomy/Enkapuslacja.md.edtz",
-    "03 Atomy/Enkapsulacja.md.edtz",
     "03 Atomy/załączniki/Bramka XNOR.webp",
     "03 Atomy/załączniki/Bramka XOR.webp",
     "03 Atomy/załączniki/Bramka NOR2.webp",
