@@ -25,7 +25,6 @@ Operacje na stosie są bardzo szybkie, ponieważ system operacyjny/CLR (środowi
 
 
 
-![[Rodzaje prądu.webp|300]]
 
 
 Nie mylić ze [[Stos (struktura danych)]]
