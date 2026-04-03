@@ -102,57 +102,9 @@
               "icon": "lucide-file",
               "title": "Polimorfizm (programowanie)"
             }
-          },
-          {
-            "id": "c131ffb3e340c884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Typy danych w C Sharp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Typy danych w C Sharp"
-            }
-          },
-          {
-            "id": "8badef87b95c7025",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC IT/MOC Typy danych.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Typy danych"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,8 +157,7 @@
               "title": "Zakładki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -373,11 +324,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8badef87b95c7025",
+  "active": "180c24419c3d71cd",
   "lastOpenFiles": [
+    "03 Atomy/Polimorfizm (programowanie).md",
     "03 Atomy/Typy danych w C Sharp.md",
     "02 MOC/MOC IT/MOC Typy danych.md",
-    "03 Atomy/Polimorfizm (programowanie).md",
+    "03 Atomy/Tekstowy typ danych.md",
     "03 Atomy/Całkowitoliczbowy typ danych.md",
     "03 Atomy/Koncepcja – Typ danych.md",
     "Gotowanie/Gnocchi z cukinią i marchewką.md",
@@ -409,7 +361,6 @@
     "03 Atomy/Pole (programowanie).md",
     "03 Atomy/Historia programowania obiektowego.md",
     "03 Atomy/Obiekt (programowanie).md",
-    "03 Atomy/Metoda statyczna.md",
     "03 Atomy/Pole (programowanie).md.edtz",
     "03 Atomy/załączniki/Bramka XNOR.webp",
     "03 Atomy/załączniki/Bramka XOR.webp",

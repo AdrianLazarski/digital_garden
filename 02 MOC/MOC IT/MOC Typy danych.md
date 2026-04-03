@@ -1,9 +1,11 @@
 ---
-created: 2025-11-23 17:55
 tags:
   - it/typ_danych
   - moc
-modified date: 2025-11-23 18:23
+created: 2025-11-23 17:55
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-04-03 12:35
 ---
 ang. *data type*
 
@@ -22,21 +24,26 @@ $\leftarrow$ [[Język programowania]]
 [[Logiczny typ danych]]
 [[Wyliczeniowy typ danych]] – typ mogący przyjmować jedną z zadanych symbolicznych wartości, np. (czerwony, zielony, niebieski).
 
-Złożony typ wartościowy
-Strukturowy typ danych (rekord)
+#### Złożony typ wartościowy
+
+Strukturowy typ danych (rekord) – agregat danych różnych typów, traktowany jako jedna wartość
 
 ### Typy referencyjne
 
+Funkcyjny typ danych (delegaty) – Pozwalają przechowywać referencje do metod (instrukcji), co umożliwia traktowanie zachowań jak danych.[^1]
+Interfejsowy typ danych – Definicje kontraktów (opisują, co typ potrafi zrobić, ale nie jak to robi).[^2]
+
+#### Złożony typ referencyjny
+
 [[Tekstowy typ danych]] 
 [[Klasa (programowanie)]]
-[[Tablicowy typ danych]] – ciąg zmiennych zadanego typu indeksowanych liczbą naturalną z pewnego przedziału (w większości języków programowania) lub dowolnym unikalnym kluczem który może być zarówno liczbą jak i ciągiem znaków (w PHP).
-Interfejsy
-Funkcyjny typ danych (delegaty)
+[[Tablicowy typ danych]] – ciąg zmiennych tego samego typu indeksowanych liczbą naturalną z pewnego przedziału (w większości języków programowania) lub dowolnym unikalnym kluczem który może być zarówno liczbą jak i ciągiem znaków (w PHP).
+
 
 ## Implementacje
 
 $\rightarrow$ [[Typy danych w C Sharp]]
 $\rightarrow$ [[Typy danych w Python]]
 
-
-
+[^1]: Gemini
+[^2]: Gemini
