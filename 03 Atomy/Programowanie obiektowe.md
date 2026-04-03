@@ -11,7 +11,7 @@ modified date: 2026-03-09 12:52
 ang. _Object-Oriented Programming_ – **OOP**
 
 > [!note] Definicja
-> MEtodyka programowania, w którym programy definiuje się za pomocą obiektów.
+> [[Metodyka programowania]], w którym programy definiuje się za pomocą [[Obiekt (programowanie)|obiektów]].
 
 - Zaliczane do metodyk [[Programowanie typu imperatywnego|typu imperatywnego]].
 
@@ -21,8 +21,6 @@ ang. _Object-Oriented Programming_ – **OOP**
 	- funkcyjnym w języku OCaml oraz niektórych dialektach Lisp
 	- sieciowym np. Java
 	- skryptowym np. Pearl, Python, Ruby
-
-
 
 ## Wady i zalety
 

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Metoda statyczna vs instancyjna.md",
+                "file": "03 Atomy/Programowanie obiektowe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Metoda statyczna vs instancyjna"
-            }
-          },
-          {
-            "id": "fabaccde71fe797f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Hermetyzacja.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hermetyzacja"
+              "title": "Programowanie obiektowe"
             }
           },
           {
@@ -104,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -324,8 +300,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "180c24419c3d71cd",
+  "active": "835f45659b596db9",
   "lastOpenFiles": [
+    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
+    "03 Atomy/Metoda statyczna vs instancyjna.md",
+    "03 Atomy/Hermetyzacja.md",
     "03 Atomy/Polimorfizm (programowanie).md",
     "03 Atomy/Typy danych w C Sharp.md",
     "02 MOC/MOC IT/MOC Typy danych.md",
@@ -340,9 +319,6 @@
     "Gotowanie/Pieczone gnocchi z warzywami, tofu i sosem musztardowo-jogurtowym.md.edtz",
     "03 Atomy/Polimorfizm (programowanie).md.edtz",
     "03 Atomy/Dziedziczenie (programowanie).md",
-    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
-    "03 Atomy/Metoda statyczna vs instancyjna.md",
-    "03 Atomy/Hermetyzacja.md",
     "03 Atomy/Enkapsulacja.md",
     "03 Atomy/Enkapuslacja.md",
     "03 Atomy/Dziedziczenie (programowanie).md.edtz",
