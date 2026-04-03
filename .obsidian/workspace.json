@@ -78,57 +78,9 @@
               "icon": "lucide-file",
               "title": "C Sharp"
             }
-          },
-          {
-            "id": "1a3b4761f78859cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Sterta (pamięć).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sterta (pamięć)"
-            }
-          },
-          {
-            "id": "18c91bdae9e7e292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Stos (pamięć).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stos (pamięć)"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -348,17 +300,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18c91bdae9e7e292",
+  "active": "835f45659b596db9",
   "lastOpenFiles": [
-    "01 Input przejściowy/IT⌨️/Struktury danych/Stos (struktura danych).md",
-    "03 Atomy/Stos (pamięć).md",
+    "03 Atomy/C Sharp.md",
     "03 Atomy/Sterta (pamięć).md",
+    "03 Atomy/Stos (pamięć).md",
+    "01 Input przejściowy/IT⌨️/Struktury danych/Stos (struktura danych).md",
     "03 Atomy/Alokacja obiektu na stosie i stercie.md",
     "03 Atomy/Konstruktor.md",
     "03 Atomy/Konstruktor.md.edtz",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
     "03 Atomy/Programowanie obiektowe.md",
-    "03 Atomy/C Sharp.md",
     "Skróty klawiszowe.md",
     "03 Atomy/Alokacja obiektu na stosie i stercie.md.edtz",
     "03 Atomy/Polimorfizm (programowanie).md",
