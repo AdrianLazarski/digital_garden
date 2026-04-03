@@ -9,12 +9,8 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-04-03 14:52
 ---
-### Alokacja dla typów prostych
-
-1. Deklaracja `int nazwa;` zajmuje 4 bajty na stosie (dla innych typów danych inny rozmiar, ale też generalnie stały).
-2. Przypisanie `nazwa = 5;` wpisuje binarną reprezentację liczby 5 bezpośrednio do tego miejsca na stosie. 
-
-### Alokacja dla klas
+## Alokacja dla typów referencyjnych
+### na przykładzie klasy
 
 #### Sama deklaracja zmiennej
 `Ssak baba``
@@ -39,3 +35,12 @@ Na **stosie** rezerwowana jest przestrzeń na zmienną `baba`. Ma stały rozmiar
 4. Następnie procesor przeskakuje do kodu [[Konstruktor|konstruktora]], który wykonuje instrukcje przypisania wartości do konkretnych [[Pole (programowanie)|pól]] na **stercie**. 
 5. Następnie adres początkowy bloku pamięci na **stercie** zostaje wpisany do zmiennej `baba` na **stosie**.
 	- Dopiero w tym momencie mamy działającą zmienną na stosie, która referuje do wypełnionego danymi obiektu na stercie.
+
+### Na przykładzie tablicy
+
+
+
+## Alokacja dla typów prostych
+
+1. Deklaracja `int nazwa;` zajmuje 4 bajty na **stosie** (dla innych typów danych inny rozmiar, ale też generalnie stały).
+2. Przypisanie `nazwa = 5;` wpisuje binarną reprezentację liczby 5 bezpośrednio do tego miejsca na **stosie**. 
