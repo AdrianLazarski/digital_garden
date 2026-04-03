@@ -38,8 +38,19 @@ Na **stosie** rezerwowana jest przestrzeń na zmienną `baba`. Ma stały rozmiar
 
 ### Na przykładzie tablicy
 
+#### Sama deklaracja
+`int[] liczby = new int[3];`
+1. Powstaje zmienna `liczby` i na a stosie rezerwowane jest 8 bajtów na adres, niezależnie od rozmiarów tablicy.
+2. Na stercie zarezerwowany jest blok pamięć na 3 liczby + nagłówki
+3. Cały blok na stercie wypełniony jest zerami.
+	- Gdyby to była tablica instancji jakiejś klasy, to komórki wypełniłoby `null`, bo to domyślna wartość dla adresów (takie potencjalne obiekty, do których byśmy się odnosili, już by gdzieś istniały w stercie, więc wystarczyłoby je adresować, zamiast wstawiać drugi raz).
+4. Adres początku bloku na stercie trafia do zmiennej `liczby` na stosie.
 
+#### Z inicjalizacją
+`int[] liczby = new int[3] { 1, 2, 3 };`
+`int[] liczby = { 1, 2, 3 };` //to samo co wyżej
 
+Jak wyżej plus
 ## Alokacja dla typów prostych
 
 1. Deklaracja `int nazwa;` zajmuje 4 bajty na **stosie** (dla innych typów danych inny rozmiar, ale też generalnie stały).
