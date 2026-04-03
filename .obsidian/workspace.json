@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Koncepcja – Typ danych.md",
+                "file": "03 Atomy/Typy danych w C Sharp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Koncepcja – Typ danych"
+              "title": "Typy danych w C Sharp"
+            }
+          },
+          {
+            "id": "8badef87b95c7025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC IT/MOC Typy danych.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Typy danych"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -349,10 +373,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c131ffb3e340c884",
+  "active": "8badef87b95c7025",
   "lastOpenFiles": [
-    "03 Atomy/Całkowitoliczbowy typ danych.md",
+    "03 Atomy/Typy danych w C Sharp.md",
+    "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Polimorfizm (programowanie).md",
+    "03 Atomy/Całkowitoliczbowy typ danych.md",
+    "03 Atomy/Koncepcja – Typ danych.md",
     "Gotowanie/Gnocchi z cukinią i marchewką.md",
     "Gotowanie/Gnocchi z cukinią i marchewką.md.edtz",
     "Gotowanie/Pieczone gnocchi z warzywami, tofu i sosem musztardowo-jogurtowym.md",
@@ -383,9 +410,6 @@
     "03 Atomy/Historia programowania obiektowego.md",
     "03 Atomy/Obiekt (programowanie).md",
     "03 Atomy/Metoda statyczna.md",
-    "03 Atomy/Metoda instancyjna.md",
-    "03 Atomy/Metoda (programowanie).md",
-    "03 Atomy/Programowanie obiektowe.md",
     "03 Atomy/Pole (programowanie).md.edtz",
     "03 Atomy/załączniki/Bramka XNOR.webp",
     "03 Atomy/załączniki/Bramka XOR.webp",
