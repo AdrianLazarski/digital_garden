@@ -23,7 +23,7 @@ $\leftarrow$ [[Język programowania]]
 [[Logiczny typ danych]]
 [[Wyliczeniowy typ danych]] – typ mogący przyjmować jedną z zadanych symbolicznych wartości, np. (czerwony, zielony, niebieski).
 [[Tablicowy typ danych]] – ciąg zmiennych zadanego typu indeksowanych liczbą naturalną z pewnego przedziału (w większości języków programowania) lub dowolnym unikalnym kluczem który może być zarówno liczbą jak i ciągiem znaków (w PHP).
-
+Strukturowy typ danych
 ## Implementacje
 
 $\rightarrow$ [[Typy danych w C Sharp]]
