@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "C Sharp"
             }
+          },
+          {
+            "id": "1a3b4761f78859cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Alokacja obiektu na stosie i stercie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Alokacja obiektu na stosie i stercie"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,8 +157,7 @@
               "title": "Zakładki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -301,11 +324,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "835f45659b596db9",
+  "active": "1a3b4761f78859cf",
   "lastOpenFiles": [
-    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
+    "Skróty klawiszowe.md",
+    "03 Atomy/Alokacja obiektu na stosie i stercie.md",
+    "03 Atomy/Alokacja obiektu na stosie i stercie.md.edtz",
     "03 Atomy/Programowanie obiektowe.md",
     "03 Atomy/C Sharp.md",
+    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
     "03 Atomy/Polimorfizm (programowanie).md",
     "03 Atomy/Metoda statyczna vs instancyjna.md",
     "03 Atomy/Hermetyzacja.md",
@@ -334,11 +360,8 @@
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Majcherek Janusz, Źródła bogactwa i biedy ludzi oraz ich zbiorowości.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Norberg Johan, Manifest kapitalistyczny.md",
     "03 Atomy/Enkapuslacja.md.edtz",
     "03 Atomy/Enkapsulacja.md.edtz",
-    "03 Atomy/Pole (programowanie).md",
-    "03 Atomy/Pole (programowanie).md.edtz",
     "03 Atomy/załączniki/Bramka XNOR.webp",
     "03 Atomy/załączniki/Bramka XOR.webp",
     "03 Atomy/załączniki/Bramka NOR2.webp",
