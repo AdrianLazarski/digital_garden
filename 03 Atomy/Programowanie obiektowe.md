@@ -22,6 +22,11 @@ ang. _Object-Oriented Programming_ – **OOP**
 	- sieciowym np. Java
 	- skryptowym np. Pearl, Python, Ruby
 
+## Typy programowania obiektowego
+
+1. Oparte na klasach, gdzie definiowane są klasy czyli typy zmiennych, a następnie tworzone są obiekty czyli w uproszczeniu zmienne tych typów.
+2. Oparte na prototypach, w którym nie istnieje pojęcie klasy. Nowe obiekty tworzy się w oparciu o istniejący już obiekt nazywany prototypem, po którym dziedziczone są pola i metody. Nowo powstałe obiekty mogą być rozszerzane o nowe pola i właściwości. Ten szczególny model programowania obiektowego spotykany jest raczej tylko w językach interpretowanych, takich jak JavaScript.
+
 ## Wady i zalety
 
 ### Zalety
