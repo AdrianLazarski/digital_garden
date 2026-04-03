@@ -19,11 +19,20 @@ $\leftarrow$ [[Język programowania]]
 [[Całkowitoliczbowy typ danych]]
 [[Zmiennoprzecinkowy typ danych]]
 [[Znakowy typ danych]]
-[[Tekstowy typ danych]] 
 [[Logiczny typ danych]]
 [[Wyliczeniowy typ danych]] – typ mogący przyjmować jedną z zadanych symbolicznych wartości, np. (czerwony, zielony, niebieski).
+
+Złożony typ wartościowy
+Strukturowy typ danych (rekord)
+
+### Typy referencyjne
+
+[[Tekstowy typ danych]] 
+[[Klasa (programowanie)]]
 [[Tablicowy typ danych]] – ciąg zmiennych zadanego typu indeksowanych liczbą naturalną z pewnego przedziału (w większości języków programowania) lub dowolnym unikalnym kluczem który może być zarówno liczbą jak i ciągiem znaków (w PHP).
-Strukturowy typ danych
+Interfejsy
+Funkcyjny typ danych (delegaty)
+
 ## Implementacje
 
 $\rightarrow$ [[Typy danych w C Sharp]]
