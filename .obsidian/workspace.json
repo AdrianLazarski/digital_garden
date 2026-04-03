@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "2c42875cbf7311cf",
+            "id": "c131ffb3e340c884",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gotowanie/Gnocchi z cukinią i marchewką.md",
+                "file": "03 Atomy/Koncepcja – Typ danych.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gnocchi z cukinią i marchewką"
+              "title": "Koncepcja – Typ danych"
             }
           }
         ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "typ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -181,7 +181,8 @@
               "title": "Zakładki"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -348,15 +349,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c42875cbf7311cf",
+  "active": "c131ffb3e340c884",
   "lastOpenFiles": [
+    "03 Atomy/Całkowitoliczbowy typ danych.md",
+    "03 Atomy/Polimorfizm (programowanie).md",
+    "Gotowanie/Gnocchi z cukinią i marchewką.md",
     "Gotowanie/Gnocchi z cukinią i marchewką.md.edtz",
     "Gotowanie/Pieczone gnocchi z warzywami, tofu i sosem musztardowo-jogurtowym.md",
-    "Gotowanie/Gnocchi z cukinią i marchewką.md",
     "Gotowanie/Brokuł stir fry curry.md",
     "Gotowanie/Brokuł stir fry curry.md.edtz",
     "Gotowanie/Pieczone gnocchi z warzywami, tofu i sosem musztardowo-jogurtowym.md.edtz",
-    "03 Atomy/Polimorfizm (programowanie).md",
     "03 Atomy/Polimorfizm (programowanie).md.edtz",
     "03 Atomy/Dziedziczenie (programowanie).md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
@@ -385,7 +387,6 @@
     "03 Atomy/Metoda (programowanie).md",
     "03 Atomy/Programowanie obiektowe.md",
     "03 Atomy/Pole (programowanie).md.edtz",
-    "05 Bazy danych/elektronika baza.base",
     "03 Atomy/załączniki/Bramka XNOR.webp",
     "03 Atomy/załączniki/Bramka XOR.webp",
     "03 Atomy/załączniki/Bramka NOR2.webp",
