@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Struktura (programowanie)"
             }
+          },
+          {
+            "id": "8366a5f4cc3617c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Algorytm kompresji bezstranej Huffmana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Algorytm kompresji bezstranej Huffmana"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -300,10 +324,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c982da20faac4186",
+  "active": "8366a5f4cc3617c1",
   "lastOpenFiles": [
-    "02 MOC/MOC IT/MOC Typy danych.md",
+    "03 Atomy/Algorytm kompresji bezstranej Huffmana.md.edtz",
+    "03 Atomy/Algorytm kompresji bezstranej Huffmana.md",
     "03 Atomy/Struktura (programowanie).md",
+    "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Struktura (programowanie).md.edtz",
     "03 Atomy/C Sharp.md",
     "03 Atomy/Programowanie obiektowe.md",
@@ -334,7 +360,6 @@
     "03 Atomy/Enkapsulacja.md",
     "03 Atomy/Enkapuslacja.md",
     "03 Atomy/Dziedziczenie (programowanie).md.edtz",
-    "03 Atomy/Klasa (programowanie).md",
     "Gotowanie/Surówka z buraka.md.edtz",
     "03 Atomy/Hermetyzacja.md.edtz",
     "03 Atomy/załączniki/Bramka XNOR.webp",
