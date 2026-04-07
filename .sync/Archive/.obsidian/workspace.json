@@ -284,12 +284,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
       "obisidian-note-linker:Note Linker": false,
       "edit-history:Open edit history": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
       "canvas:Stwórz nową tablicę": false,
       "templates:Wstaw szablon": false,
       "graph:Otwórz podgląd grafu": false,
