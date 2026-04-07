@@ -121922,20 +121922,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 97,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 776,
+      "nonWhitespaceCharacterCount": 667,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.3660377358490566,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1775556633329,
-      "modifiedDate": 1775556642922,
-      "sizeInBytes": 0,
+      "modifiedDate": 1775556947608,
+      "sizeInBytes": 1011,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -121943,6 +121943,17 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-04-07 12:10",
+        "tags": [
+          "atom",
+          "it/programowanie",
+          "it/algorytm"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-04-07 12:10"
       }
     },
     "03 Atomy/Algorytm kompresji bezstranej Huffmana.md.edtz": {
@@ -121961,8 +121972,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1775556643264,
-      "modifiedDate": 1775556643265,
-      "sizeInBytes": 112,
+      "modifiedDate": 1775556943859,
+      "sizeInBytes": 1258,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
