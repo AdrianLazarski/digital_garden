@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Algorytm kompresji bezstranej Huffmana.md",
+                "file": "03 Atomy/Kodowanie Huffmana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Algorytm kompresji bezstranej Huffmana"
+              "title": "Kodowanie Huffmana"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Bez nazwy.md",
+                "file": "03 Atomy/Kodowanie arytmetyczne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bez nazwy"
+              "title": "Kodowanie arytmetyczne"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -348,12 +348,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ab75e75e5f55e2c",
+  "active": "8366a5f4cc3617c1",
   "lastOpenFiles": [
-    "03 Atomy/Bez nazwy.md.edtz",
-    "03 Atomy/Bez nazwy.md",
-    "03 Atomy/Algorytm kompresji bezstranej Huffmana.md",
-    "03 Atomy/Algorytm kompresji bezstranej Huffmana.md.edtz",
+    "03 Atomy/Kodowanie arytmetyczne.md",
+    "03 Atomy/Kodowanie Huffmana.md",
+    "03 Atomy/załączniki/Kodowanie arytmetyczne.webp",
+    "03 Atomy/Kodowanie arytmetyczne.md.edtz",
+    "03 Atomy/Kodowanie Huffmana.md.edtz",
     "03 Atomy/Struktura (programowanie).md",
     "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Struktura (programowanie).md.edtz",
@@ -385,7 +386,6 @@
     "03 Atomy/Dziedziczenie (programowanie).md",
     "03 Atomy/Enkapsulacja.md",
     "03 Atomy/Dziedziczenie (programowanie).md.edtz",
-    "Gotowanie/Surówka z buraka.md.edtz",
     "03 Atomy/załączniki/Bramka XNOR.webp",
     "03 Atomy/załączniki/Bramka XOR.webp",
     "03 Atomy/załączniki/Bramka NOR2.webp",
@@ -394,7 +394,6 @@
     "03 Atomy/załączniki/Bramka NAND.webp",
     "03 Atomy/załączniki/Bramka NOT.webp",
     "03 Atomy/załączniki/Bramka OR.webp",
-    "03 Atomy/załączniki/Bramka AND.webp",
-    "03 Atomy/załączniki/Transmisja równoległa.webp"
+    "03 Atomy/załączniki/Bramka AND.webp"
   ]
 }
