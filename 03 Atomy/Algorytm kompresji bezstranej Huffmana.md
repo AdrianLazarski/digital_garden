@@ -19,3 +19,5 @@ modified date: 2026-04-07 12:10
 - nawet jeśli prawdopodobieństwa wystąpienia elementów A i B są różne, to długość kodu wynikowego dla tych znaków nie jest różna,
 - długość słowa kodowego dla dwóch elementów o najniższym prawdopodobieństwie wystąpienia jest równa.
 
+Biorąc to wszystko pod uwagę, można kodowanie Huffmana zaliczyć również do grupy algorytmów probabilistycznych.
+
