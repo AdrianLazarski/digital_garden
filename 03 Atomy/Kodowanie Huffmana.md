@@ -55,3 +55,30 @@ Nowo powstały węzeł ponownie dodajemy do listy w miejsce wskazane
 przez jego liczebność.
 
 ![[Kodowanie Huffmana-4.webp|Algorytm Huffmana dla zadanej sekwencji znaków KROK 4]]
+
+I ponownie do dwóch elementów o najmniejszych wartościach dodajemy korzeń, przypisujemy im wartości binarne pamiętając, że wartość binarna elementu po lewej ma to 0 a elementu po prawej to 1.
+
+![[Kodowanie Huffmana-5.webp|Algorytm Huffmana dla zadanej sekwencji znaków KROK 5]]
+
+Kolejne kroki wykonujemy dokładnie na tej samej zasadzie, aż do momentu uzyskania korzenia o wartości równej początkowej ilości znaków.
+
+![[Kodowanie Huffmana-6.webp|Algorytm Huffmana dla zadanej sekwencji znaków KROK n]]
+
+Normalnie zapis tych danych zajął by aż 45 bajtów, czyli 360 bitów. Skompresowanie wskazanego ciągu wejściowego za pomocą metody Huffmana pozwoliło na uzyskanie pliku wynikowego o wielkości zaledwie 30,55% oryginału.
+
+![[Kodowanie Huffmana-7.webp]]
+
+
+Na podobnej zasadzie jak metoda Huffmana działa algorytm Shanon-Fano. Różnica pomiędzy nimi polega na innym, mniej efektywnym sposobie budowania drzewa binarnego. A ponieważ uzyskiwane za jej pomocą drzewo jest dokładnie takie samo jak w metodzie Huffmana, to jest to metoda nieużywana.
+
+## Wady metody Hufmana
+
+- Odkodowanie wymaga obecności w treści pliku skompresowanego opisu wyglądu drzewa binarnego. Taka informacja, za każdym razem zajmuje minimum kilkaset bajtów, dlatego stosowanie jej do małych plików jest nieopłacalne, ponieważ pliki wynikowe przeważnie są większe niż źródłowe;
+- Każdorazowo proces kodowania musi rozpocząć się od odczytania zawartości całego pliku źródłowego i stworzenia tablicy statystycznej występowania znaków, co przy większych plikach może trwać naprawdę długo.
+
+
+Rozwiązaniem problemów statycznych metod kodowania, do których zaliczana jest metoda Huffmana jest kodowanie adaptacyjne. Polega ono na wykorzystaniu modelu statystycznego, w którym znane są tylko dwa symbole:
+- EOS 118 - znacznik końca strumienia bitowego
+- ESC 119 - znacznik wystąpienia nowego znaku.
+
+ESC przekazuje informację programowi dekompresującemu o tym, że następny znak nie będzie zakodowany według budowanego modelu, ale jako informacja o stałym rozmiarze. Model statystyczny wykorzystywany do kodowania jest modyfikowany po nadejściu każdego nowego symbolu. Dzięki temu można pełniej oddać charakterystykę źródła i dostosować się do jej lokalnych zmian.
