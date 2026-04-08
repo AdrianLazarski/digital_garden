@@ -306,8 +306,21 @@
               "icon": "lucide-archive",
               "title": "Wszystkie atrybuty"
             }
+          },
+          {
+            "id": "dadaba51584116ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "03 Atomy/Kodowanie Huffmana.md"
+              },
+              "icon": "lucide-info",
+              "title": "Atrybuty dla Kodowanie Huffmana"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "175e8c35941872f1",
@@ -348,7 +361,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8366a5f4cc3617c1",
+  "active": "dadaba51584116ab",
   "lastOpenFiles": [
     "03 Atomy/załączniki/Kodowanie Huffmana-7.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-6.webp",
