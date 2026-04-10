@@ -289,8 +289,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -319,8 +319,7 @@
               "title": "Atrybuty dla Kodowanie Huffmana"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "175e8c35941872f1",
@@ -341,7 +340,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -361,8 +360,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dadaba51584116ab",
+  "active": "8366a5f4cc3617c1",
   "lastOpenFiles": [
+    "Skróty klawiszowe.md",
+    "03 Atomy/Kodowanie Huffmana.md",
+    "03 Atomy/Kodowanie arytmetyczne.md",
     "03 Atomy/załączniki/Kodowanie Huffmana-7.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-6.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-5.webp",
@@ -370,9 +372,7 @@
     "03 Atomy/załączniki/Kodowanie Huffmana-3.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-2.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana.webp",
-    "03 Atomy/Kodowanie Huffmana.md",
     "03 Atomy/załączniki/Kodowanie Huffmana-1.webp",
-    "03 Atomy/Kodowanie arytmetyczne.md",
     "03 Atomy/załączniki/Kodowanie arytmetyczne.webp",
     "03 Atomy/Kodowanie arytmetyczne.md.edtz",
     "03 Atomy/Kodowanie Huffmana.md.edtz",
@@ -388,7 +388,6 @@
     "03 Atomy/Konstruktor.md",
     "03 Atomy/Konstruktor.md.edtz",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
-    "Skróty klawiszowe.md",
     "03 Atomy/Alokacja obiektu na stosie i stercie.md.edtz",
     "03 Atomy/Polimorfizm (programowanie).md",
     "03 Atomy/Metoda statyczna vs instancyjna.md",
@@ -407,7 +406,6 @@
     "03 Atomy/Dziedziczenie (programowanie).md",
     "03 Atomy/Enkapsulacja.md",
     "03 Atomy/Dziedziczenie (programowanie).md.edtz",
-    "03 Atomy/załączniki/Bramka XNOR.webp",
-    "03 Atomy/załączniki/Bramka XOR.webp"
+    "03 Atomy/załączniki/Bramka XNOR.webp"
   ]
 }
