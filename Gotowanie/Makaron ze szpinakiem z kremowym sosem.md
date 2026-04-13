@@ -30,6 +30,6 @@ modified date: 2026-02-23 15:00
 2. W międzyczasie zblenduj tofu, oliwę, czosnek.
 3. Nie odlewaj makaronu! Dodaj zblendowaną papkę, mleko, płatki drożdżowe, przyprawy liczone w łyżeczkach i szpinak. Mieszaj przez około 5 minut.
 4. Na koniec dodaj szczyptę soli i pieprzu.
-
+ 
 
 
