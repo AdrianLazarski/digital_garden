@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Kodowanie arytmetyczne"
             }
+          },
+          {
+            "id": "761fa581f92caee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Makaron ze szpinakiem z kremowym sosem"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -360,10 +384,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8366a5f4cc3617c1",
+  "active": "761fa581f92caee2",
   "lastOpenFiles": [
-    "Skróty klawiszowe.md",
     "03 Atomy/Kodowanie Huffmana.md",
+    "Skróty klawiszowe.md",
     "03 Atomy/Kodowanie arytmetyczne.md",
     "03 Atomy/załączniki/Kodowanie Huffmana-7.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-6.webp",
