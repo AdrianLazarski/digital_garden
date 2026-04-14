@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
+                "file": "03 Atomy/Bramka logiczna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,131 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Programowanie obiektowe"
-            }
-          },
-          {
-            "id": "835f45659b596db9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC IT/MOC Typy danych.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Typy danych"
-            }
-          },
-          {
-            "id": "c982da20faac4186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Struktura (programowanie).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Struktura (programowanie)"
-            }
-          },
-          {
-            "id": "8366a5f4cc3617c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Kodowanie Huffmana.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kodowanie Huffmana"
-            }
-          },
-          {
-            "id": "3ab75e75e5f55e2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Kodowanie arytmetyczne.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kodowanie arytmetyczne"
-            }
-          },
-          {
-            "id": "761fa581f92caee2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Makaron ze szpinakiem z kremowym sosem"
+              "title": "Bramka logiczna"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bramk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -205,7 +84,8 @@
               "title": "Zakładki"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -384,11 +264,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "761fa581f92caee2",
+  "active": "896a33399805f0ca",
   "lastOpenFiles": [
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Algebra Boole'a.md",
+    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
+    "02 MOC/MOC IT/MOC Typy danych.md",
+    "03 Atomy/Kodowanie arytmetyczne.md",
+    "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
     "03 Atomy/Kodowanie Huffmana.md",
     "Skróty klawiszowe.md",
-    "03 Atomy/Kodowanie arytmetyczne.md",
     "03 Atomy/załączniki/Kodowanie Huffmana-7.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-6.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-5.webp",
@@ -401,7 +285,6 @@
     "03 Atomy/Kodowanie arytmetyczne.md.edtz",
     "03 Atomy/Kodowanie Huffmana.md.edtz",
     "03 Atomy/Struktura (programowanie).md",
-    "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Struktura (programowanie).md.edtz",
     "03 Atomy/C Sharp.md",
     "03 Atomy/Programowanie obiektowe.md",
@@ -411,7 +294,6 @@
     "03 Atomy/Alokacja obiektu na stosie i stercie.md",
     "03 Atomy/Konstruktor.md",
     "03 Atomy/Konstruktor.md.edtz",
-    "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
     "03 Atomy/Alokacja obiektu na stosie i stercie.md.edtz",
     "03 Atomy/Polimorfizm (programowanie).md",
     "03 Atomy/Metoda statyczna vs instancyjna.md",
@@ -428,7 +310,6 @@
     "Gotowanie/Pieczone gnocchi z warzywami, tofu i sosem musztardowo-jogurtowym.md.edtz",
     "03 Atomy/Polimorfizm (programowanie).md.edtz",
     "03 Atomy/Dziedziczenie (programowanie).md",
-    "03 Atomy/Enkapsulacja.md",
     "03 Atomy/Dziedziczenie (programowanie).md.edtz",
     "03 Atomy/załączniki/Bramka XNOR.webp"
   ]
