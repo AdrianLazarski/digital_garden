@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Atomy/Typy Całkowitoliczbowe w C Sharp.md",
+                "file": "03 Atomy/Bramka logiczna.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do Typy Całkowitoliczbowe w C Sharp"
+              "title": "Linki zwrotne do Bramka logiczna"
             }
           },
           {
@@ -222,7 +222,8 @@
               "title": "Atrybuty dla Kodowanie Huffmana"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "175e8c35941872f1",
@@ -263,7 +264,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "180c24419c3d71cd",
+  "active": "920fedb2dc89a41b",
   "lastOpenFiles": [
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Algebra Boole'a.md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
