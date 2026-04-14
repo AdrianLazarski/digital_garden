@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bramk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Zakładki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,7 +263,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "896a33399805f0ca",
+  "active": "180c24419c3d71cd",
   "lastOpenFiles": [
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Algebra Boole'a.md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
