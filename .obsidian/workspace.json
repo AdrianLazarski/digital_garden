@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Bramka logiczna"
             }
+          },
+          {
+            "id": "b52de3ff8406229d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gotowanie/Bigos z cukinii.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bigos z cukinii"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Atomy/Bramka logiczna.md",
+                "file": "Gotowanie/Bigos z cukinii.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do Bramka logiczna"
+              "title": "Linki zwrotne do Bigos z cukinii"
             }
           },
           {
@@ -264,8 +289,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "920fedb2dc89a41b",
+  "active": "b52de3ff8406229d",
   "lastOpenFiles": [
+    "Gotowanie/Bigos z cukinii.md.edtz",
+    "Gotowanie/Bigos z cukinii.md",
+    "03 Atomy/Bramka logiczna.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Algebra Boole'a.md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
     "02 MOC/MOC IT/MOC Typy danych.md",
@@ -304,12 +332,9 @@
     "03 Atomy/Koncepcja – Typ danych.md",
     "Gotowanie/Gnocchi z cukinią i marchewką.md",
     "Gotowanie/Gnocchi z cukinią i marchewką.md.edtz",
-    "Gotowanie/Pieczone gnocchi z warzywami, tofu i sosem musztardowo-jogurtowym.md",
-    "Gotowanie/Brokuł stir fry curry.md",
     "Gotowanie/Brokuł stir fry curry.md.edtz",
     "Gotowanie/Pieczone gnocchi z warzywami, tofu i sosem musztardowo-jogurtowym.md.edtz",
     "03 Atomy/Polimorfizm (programowanie).md.edtz",
-    "03 Atomy/Dziedziczenie (programowanie).md",
     "03 Atomy/Dziedziczenie (programowanie).md.edtz",
     "03 Atomy/załączniki/Bramka XNOR.webp"
   ]
