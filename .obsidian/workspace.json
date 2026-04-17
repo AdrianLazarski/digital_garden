@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Atomy/Struktura w C Sharp.md",
+                "file": "03 Atomy/Struktura (programowanie).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do Struktura w C Sharp"
+              "title": "Linki zwrotne do Struktura (programowanie)"
             }
           },
           {
@@ -409,15 +409,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05d8c942af330e19",
+  "active": "816ff61a2234efa0",
   "lastOpenFiles": [
+    "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Typy danych w C Sharp.md",
+    "03 Atomy/Struktura (programowanie).md",
     "03 Atomy/Struktura w C Sharp.md",
     "03 Atomy/Klasa (programowanie).md",
-    "03 Atomy/Struktura (programowanie).md",
     "03 Atomy/Typ danych.md",
     "03 Atomy/Struktura w C Sharp.md.edtz",
-    "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Bramka logiczna.md",
     "Gotowanie/Bigos z cukinii.md",
     "Gotowanie/Bigos z cukinii.md.edtz",
