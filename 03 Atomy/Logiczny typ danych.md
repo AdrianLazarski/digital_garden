@@ -11,7 +11,7 @@ ang. *boolean*
 > Typ danych przyjmujący wartość 0/fałsz lub 1/prawda.
 
 
-$\leftarrow$ [[Koncepcja – Typ danych]]
+$\leftarrow$ [[Typ danych]]
 $\rightarrow$ [[Logiczny typ danych w C Sharp]]
 
 

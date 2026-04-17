@@ -9,7 +9,7 @@ modified date: 2026-04-03 12:35
 ---
 ang. *data type*
 
-$\leftarrow$ [[Koncepcja – Typ danych]]
+$\leftarrow$ [[Typ danych]]
 $\leftarrow$ [[Elementy języka programowania]]
 $\leftarrow$ [[Język programowania]]
 
@@ -30,7 +30,7 @@ $\leftarrow$ [[Język programowania]]
 
 ### Typy referencyjne
 
-Funkcyjny typ danych (delegaty) – Pozwalają przechowywać referencje do metod (instrukcji), co umożliwia traktowanie zachowań jak danych.[^1]
+Funkcyjny typ danych (delegaty w C Sharp) – Pozwalają przechowywać referencje do metod (instrukcji), co umożliwia traktowanie zachowań jak danych.[^1]
 Interfejsowy typ danych – Definicje kontraktów (opisują, co typ potrafi zrobić, ale nie jak to robi).[^2]
 
 #### Złożony typ referencyjny

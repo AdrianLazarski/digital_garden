@@ -11,6 +11,6 @@ ang. *string*
 > Typ danych służący do przechowywania ciągów znaków. Najczęściej zbudowany z sekwencji danych typu [[Znakowy typ danych|znakowego]].
 
 
-$\leftarrow$ [[Koncepcja – Typ danych]]
+$\leftarrow$ [[Typ danych]]
 $\rightarrow$ [[Typy tekstowe w C Sharp]]
 $\rightarrow$ [[Typ tekstowy w Python]]

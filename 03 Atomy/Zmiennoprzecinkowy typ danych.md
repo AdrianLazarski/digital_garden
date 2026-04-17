@@ -12,7 +12,7 @@ ang. *floating point*
 > Typ danych reprezentujący przybliżoną wartość liczby rzeczywistej.
 
 
-$\leftarrow$ [[Koncepcja – Typ danych]]
+$\leftarrow$ [[Typ danych]]
 $\leftarrow$ [[MOC Typy danych]]
 
 $\rightarrow$ [[Całkowitoliczbowy typ danych]]

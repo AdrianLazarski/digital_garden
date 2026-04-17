@@ -15,6 +15,6 @@ ang. *character data type*
 W zależności od [[Język programowania|języka programowania]] reprezentuje wartość przypisaną danemu znakowi przez [[ASCII]], [[Unicode]] (w nowszych implementacjach), czy [[EBCDIC]].
 
 
-$\leftarrow$ [[Koncepcja – Typ danych]]
+$\leftarrow$ [[Typ danych]]
 $\rightarrow$ [[Znakowy typ danych w C Sharp]]
 

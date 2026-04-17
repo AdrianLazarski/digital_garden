@@ -28,7 +28,7 @@ Zwykle operatory zwracają wynik tego samego typu co argumenty, jednak operator 
 
 
 $\leftarrow$ [[MOC Operator (Programowanie)]]
-$\leftarrow$ [[Koncepcja – Typ danych]]
+$\leftarrow$ [[Typ danych]]
 $\leftarrow$ [[C Sharp]]
 $\leftarrow$ [[Python]]
 

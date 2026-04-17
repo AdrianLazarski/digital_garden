@@ -11,7 +11,7 @@ ang. *integer*
 > [!note] Definicja
 > Typ danych reprezentujący liczbę całkowitą z jakiegoś zakresu zależnego od języka programowania a nawet konkretnej implementacji.
 
-$\leftarrow$ [[Koncepcja – Typ danych]]
+$\leftarrow$ [[Typ danych]]
 $\leftarrow$ [[Język programowania]]
 
 

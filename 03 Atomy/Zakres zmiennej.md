@@ -11,7 +11,7 @@ modified date: 2025-11-23 14:58
 Zbiór wartości, należących do pewnego zbioru, które zmienna może przyjmować.
 
 
-W programowaniu jest określany przez [[Koncepcja – Typ danych|typ danych]].
+W programowaniu jest określany przez [[Typ danych|typ danych]].
 
 
 $\leftarrow$ [[Zmienna (logika)]]
