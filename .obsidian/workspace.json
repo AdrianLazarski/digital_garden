@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "b52de3ff8406229d",
+            "id": "816ff61a2234efa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gotowanie/Bigos z cukinii.md",
+                "file": "03 Atomy/Struktura (programowanie).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bigos z cukinii"
+              "title": "Struktura (programowanie)"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "struktura (programowanie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gotowanie/Bigos z cukinii.md",
+                "file": "03 Atomy/Struktura (programowanie).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do Bigos z cukinii"
+              "title": "Linki zwrotne do Struktura (programowanie)"
             }
           },
           {
@@ -289,11 +289,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b52de3ff8406229d",
+  "active": "180c24419c3d71cd",
   "lastOpenFiles": [
-    "Gotowanie/Bigos z cukinii.md.edtz",
-    "Gotowanie/Bigos z cukinii.md",
     "03 Atomy/Bramka logiczna.md",
+    "Gotowanie/Bigos z cukinii.md",
+    "Gotowanie/Bigos z cukinii.md.edtz",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Algebra Boole'a.md",
     "02 MOC/MOC IT/MOC Programowanie obiektowe.md",
     "02 MOC/MOC IT/MOC Typy danych.md",
@@ -335,7 +335,6 @@
     "Gotowanie/Brokuł stir fry curry.md.edtz",
     "Gotowanie/Pieczone gnocchi z warzywami, tofu i sosem musztardowo-jogurtowym.md.edtz",
     "03 Atomy/Polimorfizm (programowanie).md.edtz",
-    "03 Atomy/Dziedziczenie (programowanie).md.edtz",
     "03 Atomy/załączniki/Bramka XNOR.webp"
   ]
 }
