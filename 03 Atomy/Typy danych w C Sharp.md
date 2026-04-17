@@ -36,7 +36,7 @@ modified date: 2026-04-17 16:09
 ### 1.3 Typy strukturalne
 
 Struktury definiowane za pomocą słowa `struct`. Przypominają klasy, ale mają pewne ograniczenia. 
-[[Struktura (programowanie)]]
+[[Struktura w C Sharp]]
 
 ## 2. Typy referencyjne
 
