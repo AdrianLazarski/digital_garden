@@ -40,6 +40,10 @@ Interfejsowy typ danych – Definicje kontraktów (opisują, co typ potrafi zrob
 [[Tablicowy typ danych]] – ciąg zmiennych tego samego typu indeksowanych liczbą naturalną z pewnego przedziału (w większości języków programowania) lub dowolnym unikalnym kluczem który może być zarówno liczbą jak i ciągiem znaków (w PHP).
 
 
+> [!warning] Uwaga!
+> Sztywny podział na typy wartościowe i referencyjne dotyczy głównie języków z zarządzaną pamięcią.
+
+
 ## Implementacje
 
 $\rightarrow$ [[Typy danych w C Sharp]]

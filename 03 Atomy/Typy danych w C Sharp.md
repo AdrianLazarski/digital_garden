@@ -1,11 +1,13 @@
 ---
-created: 2025-11-23 16:54
 tags:
   - it/typ_danych
   - język_programowania/csharp
   - implementacja
   - atom
-modified date: 2025-11-23 16:55
+created: 2025-11-23 16:54
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-04-17 16:09
 ---
 ## 1. Typy wartościowe
 
@@ -34,7 +36,7 @@ modified date: 2025-11-23 16:55
 ### 1.3 Typy strukturalne
 
 Struktury definiowane za pomocą słowa `struct`. Przypominają klasy, ale mają pewne ograniczenia. 
-
+[[Struktura (programowanie)]]
 
 ## 2. Typy referencyjne
 
