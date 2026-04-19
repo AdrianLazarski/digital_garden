@@ -174,33 +174,9 @@
               "icon": "lucide-file",
               "title": "Typy danych w C Sharp"
             }
-          },
-          {
-            "id": "10444470d3f90a90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "McCloskey Deirdre, Mit przedsiębiorczego państwa"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -232,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "przedsiębiorcze",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,8 +229,7 @@
               "title": "Zakładki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -299,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+                "file": "03 Atomy/Struktura w C Sharp.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -309,7 +284,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do McCloskey Deirdre, Mit przedsiębiorczego państwa"
+              "title": "Linki zwrotne do Struktura w C Sharp"
             }
           },
           {
@@ -434,11 +409,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10444470d3f90a90",
+  "active": "05d8c942af330e19",
   "lastOpenFiles": [
     "03 Atomy/Struktura (programowanie).md",
-    "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Typy danych w C Sharp.md",
+    "Elektronikawykład.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+    "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Struktura w C Sharp.md",
     "03 Atomy/Klasa (programowanie).md",
     "03 Atomy/Typ danych.md",
@@ -476,7 +453,6 @@
     "03 Atomy/Polimorfizm (programowanie).md",
     "03 Atomy/Metoda statyczna vs instancyjna.md",
     "03 Atomy/Hermetyzacja.md",
-    "03 Atomy/Tekstowy typ danych.md",
     "Gotowanie/Gnocchi z cukinią i marchewką.md.edtz",
     "Gotowanie/Brokuł stir fry curry.md.edtz",
     "Gotowanie/Pieczone gnocchi z warzywami, tofu i sosem musztardowo-jogurtowym.md.edtz",
