@@ -98,9 +98,54 @@
             "timeKey": "10:25",
             "w": 12,
             "c": 115
+          },
+          {
+            "timeKey": "10:30",
+            "w": 10,
+            "c": 88
+          },
+          {
+            "timeKey": "10:35",
+            "w": 2,
+            "c": 29
+          },
+          {
+            "timeKey": "10:40",
+            "w": 7,
+            "c": 53
           }
         ],
         "id": 141
+      },
+      {
+        "date": "2026-04-20",
+        "filePath": "03 Atomy/Właściwość w C Sharp.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": 25,
+            "c": 217
+          }
+        ],
+        "id": 142
+      },
+      {
+        "date": "2026-04-20",
+        "filePath": "03 Atomy/Typy danych w C Sharp.md",
+        "wordCountStart": 317,
+        "charCountStart": 3436,
+        "changes": [],
+        "id": 143
+      },
+      {
+        "date": "2026-04-20",
+        "filePath": "03 Atomy/Enkapsulacja.md",
+        "wordCountStart": 25,
+        "charCountStart": 207,
+        "changes": [],
+        "id": 144
       }
     ]
   }

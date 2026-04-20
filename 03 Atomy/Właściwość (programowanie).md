@@ -9,5 +9,13 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-04-20 10:24
 ---
 > [!note] Definicja
-> Składowa [[Klasa (programowanie)|klasy]], która stanowi 
+> Składowa [[Klasa (programowanie)|klasy]], która stanowi publiczny punkt dostępu do stanu [[Obiekt (programowanie)|obiektu]]. 
 
+Służy [[en]]
+
+
+$\rightarrow$ [[Właściwość w C Sharp]]
+
+
+
+$\leftarrow$ [[MOC Programowanie obiektowe]]
