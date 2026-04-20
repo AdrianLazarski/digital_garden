@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -252,7 +252,6 @@
       {
         "id": "3ceb2b4b38599e44",
         "type": "tabs",
-        "dimension": 64.48275862068965,
         "children": [
           {
             "id": "e1893cc11c72edd3",
@@ -372,29 +371,22 @@
               "icon": "lucide-info",
               "title": "Atrybuty"
             }
-          }
-        ]
-      },
-      {
-        "id": "175e8c35941872f1",
-        "type": "tabs",
-        "dimension": 35.51724137931034,
-        "children": [
+          },
           {
-            "id": "f345f2db3cd24e5c",
+            "id": "73e9eef5f98cb393",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "keep-the-rhythm",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Podgląd grafu"
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 530.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -411,10 +403,11 @@
       "switcher:Otwórz okno szybkiego wyboru": false,
       "command-palette:Otwórz listę poleceń": false,
       "bases:Stwórz nową bazę danych": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "6c9332d526bf8169",
+  "active": "e1893cc11c72edd3",
   "lastOpenFiles": [
     "Skróty klawiszowe.md",
     "03 Atomy/Typy danych w C Sharp.md",
