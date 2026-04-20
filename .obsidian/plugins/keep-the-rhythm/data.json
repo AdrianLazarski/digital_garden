@@ -111,8 +111,18 @@
           },
           {
             "timeKey": "10:40",
-            "w": 7,
-            "c": 53
+            "w": 8,
+            "c": 78
+          },
+          {
+            "timeKey": "10:45",
+            "w": 38,
+            "c": 284
+          },
+          {
+            "timeKey": "10:50",
+            "w": 1,
+            "c": 12
           }
         ],
         "id": 141
@@ -146,6 +156,28 @@
         "charCountStart": 207,
         "changes": [],
         "id": 144
+      },
+      {
+        "date": "2026-04-20",
+        "filePath": "03 Atomy/Hermetyzacja.md",
+        "wordCountStart": 143,
+        "charCountStart": 1183,
+        "changes": [],
+        "id": 145
+      },
+      {
+        "date": "2026-04-20",
+        "filePath": "03 Atomy/Akcesor.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": 53,
+            "c": 465
+          }
+        ],
+        "id": 146
       }
     ]
   }
