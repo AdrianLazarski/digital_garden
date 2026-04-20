@@ -29,3 +29,10 @@ class Woman
 }
 ```
 
+## Deklaracja zalecana
+
+```csharp
+public int Wzrost { get; set; }
+```
+
+Interpreter języka C# sam to rozwinie do normalnej postaci podczas kompilacji. 
