@@ -179,10 +179,24 @@
             "id": "13406ba01d1cc2ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Właściwość (programowanie).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "Właściwość (programowanie)"
             }
           }
         ],
@@ -367,11 +381,19 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "03 Atomy/Właściwość (programowanie).md"
+              },
               "icon": "lucide-info",
-              "title": "Atrybuty"
+              "title": "Atrybuty dla Właściwość (programowanie)"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8c1b3e4bb76e9e78",
+        "type": "tabs",
+        "children": [
           {
             "id": "73e9eef5f98cb393",
             "type": "leaf",
@@ -386,7 +408,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 530.5
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -407,9 +429,11 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "e1893cc11c72edd3",
+  "active": "13406ba01d1cc2ab",
   "lastOpenFiles": [
+    "03 Atomy/Właściwość (programowanie).md.edtz",
     "Skróty klawiszowe.md",
+    "03 Atomy/Właściwość (programowanie).md",
     "03 Atomy/Typy danych w C Sharp.md",
     "03 Atomy/Struktura w C Sharp.md",
     "03 Atomy/Struktura (programowanie).md",
@@ -449,8 +473,6 @@
     "03 Atomy/Konstruktor.md.edtz",
     "03 Atomy/Alokacja obiektu na stosie i stercie.md.edtz",
     "03 Atomy/Polimorfizm (programowanie).md",
-    "03 Atomy/Metoda statyczna vs instancyjna.md",
-    "03 Atomy/Hermetyzacja.md",
     "Gotowanie/Gnocchi z cukinią i marchewką.md.edtz",
     "Gotowanie/Brokuł stir fry curry.md.edtz",
     "Gotowanie/Pieczone gnocchi z warzywami, tofu i sosem musztardowo-jogurtowym.md.edtz",

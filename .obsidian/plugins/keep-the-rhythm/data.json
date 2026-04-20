@@ -82,6 +82,25 @@
           }
         ],
         "id": 140
+      },
+      {
+        "date": "2026-04-20",
+        "filePath": "03 Atomy/Właściwość (programowanie).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "10:25",
+            "w": 12,
+            "c": 115
+          }
+        ],
+        "id": 141
       }
     ]
   }
