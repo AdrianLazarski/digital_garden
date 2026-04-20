@@ -256,10 +256,21 @@
       },
       {
         "date": "2026-04-20",
-        "filePath": "03 Atomy/Pole statyczne.md",
+        "filePath": "03 Atomy/Pole statyczne (programowanie).md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": 60,
+            "c": 439
+          },
+          {
+            "timeKey": "13:00",
+            "w": 20,
+            "c": 171
+          }
+        ],
         "id": 149
       }
     ]

@@ -122748,24 +122748,24 @@
         "newlineCount": 0
       }
     },
-    "03 Atomy/Pole statyczne.md": {
+    "03 Atomy/Pole statyczne (programowanie).md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 38,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 296,
+      "nonWhitespaceCharacterCount": 250,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.14339622641509434,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1776682548235,
-      "modifiedDate": 1776682550633,
-      "sizeInBytes": 0,
+      "modifiedDate": 1776682833844,
+      "sizeInBytes": 493,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -122773,9 +122773,20 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-04-20 12:55",
+        "tags": [
+          "atom",
+          "definicja",
+          "it/programowanie/obiektowe"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-04-20 12:58"
       }
     },
-    "03 Atomy/Pole statyczne.md.edtz": {
+    "03 Atomy/Pole statyczne (programowanie).md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -122791,8 +122802,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1776682550871,
-      "modifiedDate": 1776682550872,
-      "sizeInBytes": 112,
+      "modifiedDate": 1776682836495,
+      "sizeInBytes": 991,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

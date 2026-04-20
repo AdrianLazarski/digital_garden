@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Pole statyczne.md",
+                "file": "03 Atomy/Pole statyczne (programowanie).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pole statyczne"
+              "title": "Pole statyczne (programowanie)"
             }
           }
         ],
@@ -406,10 +406,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 Atomy/Pole statyczne.md"
+                "file": "03 Atomy/Pole statyczne (programowanie).md"
               },
               "icon": "lucide-info",
-              "title": "Atrybuty dla Pole statyczne"
+              "title": "Atrybuty dla Pole statyczne (programowanie)"
             }
           }
         ]
@@ -455,9 +455,9 @@
   },
   "active": "14673147668f5ef7",
   "lastOpenFiles": [
-    "03 Atomy/Pole statyczne.md.edtz",
+    "03 Atomy/Pole statyczne (programowanie).md.edtz",
     "03 Atomy/Modyfikatory dostępu w C Sharp.md",
-    "03 Atomy/Pole statyczne.md",
+    "03 Atomy/Pole statyczne (programowanie).md",
     "03 Atomy/Modyfikator dostępu.md",
     "03 Atomy/Właściwość w C Sharp.md",
     "03 Atomy/Modyfikatory dostępu w C Sharp.md.edtz",
