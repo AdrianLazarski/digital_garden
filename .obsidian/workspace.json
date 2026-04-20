@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Modyfikatory dostępu w C Sharp.md",
+                "file": "03 Atomy/Pole statyczne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Modyfikatory dostępu w C Sharp"
+              "title": "Pole statyczne"
             }
           }
         ],
@@ -406,10 +406,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 Atomy/Modyfikatory dostępu w C Sharp.md"
+                "file": "03 Atomy/Pole statyczne.md"
               },
               "icon": "lucide-info",
-              "title": "Atrybuty dla Modyfikatory dostępu w C Sharp"
+              "title": "Atrybuty dla Pole statyczne"
             }
           }
         ]
@@ -455,8 +455,10 @@
   },
   "active": "14673147668f5ef7",
   "lastOpenFiles": [
-    "03 Atomy/Modyfikator dostępu.md",
+    "03 Atomy/Pole statyczne.md.edtz",
     "03 Atomy/Modyfikatory dostępu w C Sharp.md",
+    "03 Atomy/Pole statyczne.md",
+    "03 Atomy/Modyfikator dostępu.md",
     "03 Atomy/Właściwość w C Sharp.md",
     "03 Atomy/Modyfikatory dostępu w C Sharp.md.edtz",
     "03 Atomy/Modyfikator dostępu.md.edtz",
@@ -498,7 +500,6 @@
     "03 Atomy/Kodowanie Huffmana.md.edtz",
     "03 Atomy/Struktura (programowanie).md.edtz",
     "03 Atomy/C Sharp.md",
-    "03 Atomy/Programowanie obiektowe.md",
     "03 Atomy/załączniki/Bramka XNOR.webp"
   ]
 }
