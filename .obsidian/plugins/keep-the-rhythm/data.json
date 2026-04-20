@@ -67,7 +67,9 @@
     "highestStreak": 0,
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
-    "daysWithCompletedGoal": [],
+    "daysWithCompletedGoal": [
+      "2026-04-20"
+    ],
     "dailyActivity": [
       {
         "date": "2026-04-20",
@@ -213,6 +215,44 @@
           }
         ],
         "id": 146
+      },
+      {
+        "date": "2026-04-20",
+        "filePath": "03 Atomy/Modyfikator dostępu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 36,
+            "c": 284
+          },
+          {
+            "timeKey": "12:15",
+            "w": 17,
+            "c": 161
+          }
+        ],
+        "id": 147
+      },
+      {
+        "date": "2026-04-20",
+        "filePath": "03 Atomy/Modyfikatory dostępu w C Sharp.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 105,
+            "c": 793
+          },
+          {
+            "timeKey": "12:20",
+            "w": 15,
+            "c": 132
+          }
+        ],
+        "id": 148
       }
     ]
   }

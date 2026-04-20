@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Akcesor.md",
+                "file": "03 Atomy/Modyfikatory dostępu w C Sharp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,11 +220,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Akcesor"
+              "title": "Modyfikatory dostępu w C Sharp"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -256,7 +256,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enkap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -277,8 +277,7 @@
               "title": "Zakładki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -407,10 +406,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 Atomy/Właściwość w C Sharp.md"
+                "file": "03 Atomy/Modyfikatory dostępu w C Sharp.md"
               },
               "icon": "lucide-info",
-              "title": "Atrybuty dla Właściwość w C Sharp"
+              "title": "Atrybuty dla Modyfikatory dostępu w C Sharp"
             }
           }
         ]
@@ -454,12 +453,16 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "604e3bb06be964fe",
+  "active": "14673147668f5ef7",
   "lastOpenFiles": [
+    "03 Atomy/Modyfikator dostępu.md",
+    "03 Atomy/Modyfikatory dostępu w C Sharp.md",
+    "03 Atomy/Właściwość w C Sharp.md",
+    "03 Atomy/Modyfikatory dostępu w C Sharp.md.edtz",
+    "03 Atomy/Modyfikator dostępu.md.edtz",
     "03 Atomy/Akcesor.md",
     "03 Atomy/Właściwość (programowanie).md",
     "03 Atomy/Typy danych w C Sharp.md",
-    "03 Atomy/Właściwość w C Sharp.md",
     "03 Atomy/Akcesor.md.edtz",
     "03 Atomy/Hermetyzacja.md",
     "03 Atomy/Enkapsulacja.md",
@@ -496,10 +499,6 @@
     "03 Atomy/Struktura (programowanie).md.edtz",
     "03 Atomy/C Sharp.md",
     "03 Atomy/Programowanie obiektowe.md",
-    "03 Atomy/Sterta (pamięć).md",
-    "03 Atomy/Stos (pamięć).md",
-    "03 Atomy/Konstruktor.md.edtz",
-    "03 Atomy/Alokacja obiektu na stosie i stercie.md.edtz",
     "03 Atomy/załączniki/Bramka XNOR.webp"
   ]
 }
