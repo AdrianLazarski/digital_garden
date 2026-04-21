@@ -205,12 +205,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Klasa statyczna.md",
+                "file": "03 Atomy/Metoda statyczna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Klasa statyczna"
+              "title": "Metoda statyczna"
             }
           }
         ],
@@ -455,9 +455,9 @@
   },
   "active": "14673147668f5ef7",
   "lastOpenFiles": [
+    "03 Atomy/Klasa statyczna.md",
     "03 Atomy/Klasa (programowanie).md",
     "02 MOC/MOC IT/MOC Typy danych.md",
-    "03 Atomy/Klasa statyczna.md",
     "03 Atomy/Pole statyczne w C Sharp.md",
     "03 Atomy/Klasa statyczna.md.edtz",
     "03 Atomy/Pole statyczne (programowanie).md",

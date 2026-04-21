@@ -341,6 +341,16 @@
             "timeKey": "14:25",
             "w": 21,
             "c": 173
+          },
+          {
+            "timeKey": "15:10",
+            "w": 19,
+            "c": 132
+          },
+          {
+            "timeKey": "15:15",
+            "w": 9,
+            "c": 74
           }
         ],
         "id": 152
@@ -371,6 +381,20 @@
         "charCountStart": 1553,
         "changes": [],
         "id": 154
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "03 Atomy/Metoda statyczna.md",
+        "wordCountStart": 90,
+        "charCountStart": 718,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 33,
+            "c": 221
+          }
+        ],
+        "id": 155
       }
     ]
   }
