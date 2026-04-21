@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Klasa (programowanie).md",
+                "file": "03 Atomy/Klasa statyczna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Klasa (programowanie)"
+              "title": "Klasa statyczna"
             }
           }
         ],
@@ -455,8 +455,8 @@
   },
   "active": "14673147668f5ef7",
   "lastOpenFiles": [
-    "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Klasa (programowanie).md",
+    "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Klasa statyczna.md",
     "03 Atomy/Pole statyczne w C Sharp.md",
     "03 Atomy/Klasa statyczna.md.edtz",

@@ -331,6 +331,16 @@
             "timeKey": "14:10",
             "w": 37,
             "c": 301
+          },
+          {
+            "timeKey": "14:20",
+            "w": 11,
+            "c": 95
+          },
+          {
+            "timeKey": "14:25",
+            "w": 21,
+            "c": 173
           }
         ],
         "id": 152
@@ -340,7 +350,18 @@
         "filePath": "03 Atomy/Klasa (programowanie).md",
         "wordCountStart": 59,
         "charCountStart": 508,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 2,
+            "c": 23
+          },
+          {
+            "timeKey": "14:20",
+            "w": 1,
+            "c": 10
+          }
+        ],
         "id": 153
       },
       {

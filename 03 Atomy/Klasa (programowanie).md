@@ -13,5 +13,5 @@ modified date: 2026-03-30 17:21
 
 Obiekt stworzony na podstawie danej klasy jej jej instancją.
 
-
+$\rightarrow$ [[Klasa statyczna]]
 $\leftarrow$ [[MOC Programowanie obiektowe]]
