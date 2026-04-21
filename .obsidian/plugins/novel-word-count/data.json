@@ -122817,20 +122817,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 15,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.05,
+      "characterCount": 148,
+      "nonWhitespaceCharacterCount": 123,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1776773199368,
-      "modifiedDate": 1776773205108,
-      "sizeInBytes": 0,
+      "modifiedDate": 1776773410862,
+      "sizeInBytes": 379,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -122838,6 +122838,18 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-04-21 14:06",
+        "tags": [
+          "atom",
+          "implementacja",
+          "język_programowania/csharp",
+          "it/programowanie/obiektowe"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-04-21 14:06"
       }
     },
     "03 Atomy/Pole statyczne w C Sharp.md.edtz": {
@@ -122856,8 +122868,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1776773205131,
-      "modifiedDate": 1776773205133,
-      "sizeInBytes": 112,
+      "modifiedDate": 1776773367399,
+      "sizeInBytes": 751,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -122871,20 +122883,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 12,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.04,
+      "characterCount": 116,
+      "nonWhitespaceCharacterCount": 99,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1776773211110,
-      "modifiedDate": 1776773211110,
-      "sizeInBytes": 0,
+      "modifiedDate": 1776773490148,
+      "sizeInBytes": 311,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -122892,6 +122904,17 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-04-21 14:06",
+        "tags": [
+          "atom",
+          "definicja",
+          "it/programowanie/obiektowe"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-04-21 14:10"
       }
     },
     "03 Atomy/Klasa statyczna.md.edtz": {
@@ -122910,8 +122933,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1776773216163,
-      "modifiedDate": 1776773216164,
-      "sizeInBytes": 112,
+      "modifiedDate": 1776773431852,
+      "sizeInBytes": 340,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

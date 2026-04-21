@@ -310,11 +310,46 @@
         "changes": [
           {
             "timeKey": "14:05",
-            "w": 25,
-            "c": 221
+            "w": 41,
+            "c": 358
+          },
+          {
+            "timeKey": "14:10",
+            "w": 1,
+            "c": 12
           }
         ],
         "id": 151
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "03 Atomy/Klasa statyczna.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 37,
+            "c": 301
+          }
+        ],
+        "id": 152
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "03 Atomy/Klasa (programowanie).md",
+        "wordCountStart": 59,
+        "charCountStart": 508,
+        "changes": [],
+        "id": 153
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "02 MOC/MOC IT/MOC Typy danych.md",
+        "wordCountStart": 192,
+        "charCountStart": 1553,
+        "changes": [],
+        "id": 154
       }
     ]
   }
