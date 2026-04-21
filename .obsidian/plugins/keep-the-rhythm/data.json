@@ -278,7 +278,18 @@
         "filePath": "03 Atomy/Pole statyczne (programowanie).md",
         "wordCountStart": 80,
         "charCountStart": 610,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 3,
+            "c": 38
+          },
+          {
+            "timeKey": "10:30",
+            "w": 6,
+            "c": 53
+          }
+        ],
         "id": 150
       }
     ]

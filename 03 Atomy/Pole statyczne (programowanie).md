@@ -16,4 +16,7 @@ modified date: 2026-04-20 12:58
 - Zmiana wartości tego pola w jednym miejscu oznacza, że zmiana będzie widoczna we wszystkich innych instancjach.
 
 
+## Zastosowanie
 
+- Definiowanie stałych.
+- Wywoływanie bez tworzenia instancji danej klasy. 
