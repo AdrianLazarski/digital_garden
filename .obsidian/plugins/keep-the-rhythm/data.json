@@ -467,6 +467,36 @@
         "charCountStart": 447,
         "changes": [],
         "id": 164
+      },
+      {
+        "date": "2026-04-23",
+        "filePath": "03 Atomy/Typy danych w C Sharp.md",
+        "wordCountStart": 317,
+        "charCountStart": 3436,
+        "changes": [],
+        "id": 165
+      },
+      {
+        "date": "2026-04-23",
+        "filePath": "03 Atomy/Struktura (programowanie).md",
+        "wordCountStart": 106,
+        "charCountStart": 794,
+        "changes": [],
+        "id": 166
+      },
+      {
+        "date": "2026-04-23",
+        "filePath": "03 Atomy/Indekser.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": 40,
+            "c": 327
+          }
+        ],
+        "id": 167
       }
     ]
   }
