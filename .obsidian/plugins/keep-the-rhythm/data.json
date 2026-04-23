@@ -419,6 +419,54 @@
         "charCountStart": 939,
         "changes": [],
         "id": 158
+      },
+      {
+        "date": "2026-04-23",
+        "filePath": "03 Atomy/Właściwość w C Sharp.md",
+        "wordCountStart": 138,
+        "charCountStart": 1294,
+        "changes": [],
+        "id": 159
+      },
+      {
+        "date": "2026-04-23",
+        "filePath": "03 Atomy/Właściwość (programowanie).md",
+        "wordCountStart": 91,
+        "charCountStart": 757,
+        "changes": [],
+        "id": 160
+      },
+      {
+        "date": "2026-04-23",
+        "filePath": "03 Atomy/Struktura w C Sharp.md",
+        "wordCountStart": 183,
+        "charCountStart": 1458,
+        "changes": [],
+        "id": 161
+      },
+      {
+        "date": "2026-04-23",
+        "filePath": "03 Atomy/Klasa (programowanie).md",
+        "wordCountStart": 62,
+        "charCountStart": 541,
+        "changes": [],
+        "id": 162
+      },
+      {
+        "date": "2026-04-23",
+        "filePath": "03 Atomy/Typy danych w C Sharp.md",
+        "wordCountStart": 317,
+        "charCountStart": 3436,
+        "changes": [],
+        "id": 163
+      },
+      {
+        "date": "2026-04-23",
+        "filePath": "03 Atomy/Typ danych.md",
+        "wordCountStart": 56,
+        "charCountStart": 447,
+        "changes": [],
+        "id": 164
       }
     ]
   }
