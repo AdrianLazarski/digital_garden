@@ -37,7 +37,7 @@ Interfejsowy typ danych – Definicje kontraktów (opisują, co typ potrafi zrob
 
 [[Tekstowy typ danych]] 
 [[Klasa (programowanie)]]
-[[Tablicowy typ danych]] – ciąg zmiennych tego samego typu indeksowanych liczbą naturalną z pewnego przedziału (w większości języków programowania) lub dowolnym unikalnym kluczem który może być zarówno liczbą jak i ciągiem znaków (w PHP).
+[[Tablica]] – ciąg zmiennych tego samego typu indeksowanych liczbą naturalną z pewnego przedziału (w większości języków programowania) lub dowolnym unikalnym kluczem który może być zarówno liczbą jak i ciągiem znaków (w PHP).
 
 
 > [!warning] Uwaga!

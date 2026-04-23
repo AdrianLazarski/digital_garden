@@ -507,11 +507,33 @@
           },
           {
             "timeKey": "17:20",
-            "w": 8,
-            "c": 60
+            "w": 27,
+            "c": 266
           }
         ],
         "id": 167
+      },
+      {
+        "date": "2026-04-23",
+        "filePath": "03 Atomy/Tablica.md",
+        "wordCountStart": 114,
+        "charCountStart": 906,
+        "changes": [],
+        "id": 168
+      },
+      {
+        "date": "2026-04-23",
+        "filePath": "02 MOC/MOC IT/MOC Typy danych.md",
+        "wordCountStart": 192,
+        "charCountStart": 1553,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": -2,
+            "c": -13
+          }
+        ],
+        "id": 169
       }
     ]
   }
