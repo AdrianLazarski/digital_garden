@@ -16,3 +16,24 @@ Nawet gdy nie zawiera żadnej tablicy.
 
 - Musi zawierać przynajmniej jeden [[akcesor]] get lub set. 
 	- W akcesorze set występuje niejawnie zadeklarowana zmienna przechowująca wartość przypisywaną do indeksera. 
+
+Przykład
+```csharp
+// konstruktor klasy
+public LessionHours()
+{
+// zainicjalizowanie tablicy
+lessionHours = new string[10];
+lessionHours[0] = "08:00 - 08:45";
+lessionHours[1] = "08:50 - 09:35";
+lessionHours[2] = "09:40 - 10:25";
+lessionHours[3] = "10:40 - 11:25";
+lessionHours[4] = "11:30 - 12:15";
+lessionHours[5] = "12:20 - 13:05";
+lessionHours[6] = "13:35 - 14:20";
+lessionHours[7] = "14:25 - 15:10";
+lessionHours[8] = "15:15 - 16:00";
+lessionHours[9] = "16:05 - 16:50";
+}
+
+```

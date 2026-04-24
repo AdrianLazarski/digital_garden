@@ -540,7 +540,18 @@
         "filePath": "03 Atomy/Indekser.md",
         "wordCountStart": 73,
         "charCountStart": 633,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "18:05",
+            "w": 62,
+            "c": 479
+          }
+        ],
         "id": 170
       },
       {
@@ -550,6 +561,14 @@
         "charCountStart": 1601,
         "changes": [],
         "id": 171
+      },
+      {
+        "date": "2026-04-24",
+        "filePath": "02 MOC/MOC IT/MOC Typy danych.md",
+        "wordCountStart": 190,
+        "charCountStart": 1540,
+        "changes": [],
+        "id": 172
       }
     ]
   }
