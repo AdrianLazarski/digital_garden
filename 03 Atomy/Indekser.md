@@ -36,4 +36,11 @@ lessionHours[8] = "15:15 - 16:00";
 lessionHours[9] = "16:05 - 16:50";
 }
 
+// definicja indeksera
+public string this[int indeks]
+{
+get { return lessionHours[indeks - 1]; }
+set { lessionHours[indeks - 1] = value; }
+}
+
 ```
