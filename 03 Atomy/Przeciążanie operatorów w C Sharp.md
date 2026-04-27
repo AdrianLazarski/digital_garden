@@ -9,7 +9,7 @@ modified date : 2026-04-27 14:31
 
 TypZwr – typ zwracany przez operator
 TypArg – typy argumentu wejściowego
-TypWyj – typ wyjściowy operatora konwersji
+TypWyj – typ wyjściowy operatora konwersji 
 TypWej –typ wejściowy operatora konwersji,
 arg – nazwa argumentu wejściowego
 
@@ -24,7 +24,9 @@ TypArg2 arg2),
 
 
 `implicit` - to jest słowo kluczowe oznaczające, że będzie to typ domniemany
+	Dobre, gdy jakaś operacja jest bezpieczna dla kodu/danych i nie wymaga większego nadzoru
 `explicit` - oznacza czy będzie to typ sprecyzowany (wymagane).
+	każdorazowo trzeba będzie napisać coś w nawiasie, by zwrócić uwagę programisty
 
 ```csharp
 
