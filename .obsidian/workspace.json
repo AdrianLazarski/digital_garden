@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Składnia języka C Sharp.md",
+                "file": "03 Atomy/Przeciążanie operatorów w C Sharp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Składnia języka C Sharp"
+              "title": "Przeciążanie operatorów w C Sharp"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "przeciąża",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -311,12 +311,14 @@
   },
   "active": "a5689e6ccdcce885",
   "lastOpenFiles": [
+    "03 Atomy/Przeciążanie operatorów w C Sharp.md.edtz",
+    "03 Atomy/C Sharp.md",
+    "03 Atomy/Przeciążanie operatorów w C Sharp.md",
+    "03 Atomy/Składnia języka C Sharp.md",
     "O stronie.md",
     "Plany obsydianowe.md",
     "Zettelkasten.md",
     "02 MOC/MOC IT/MOC C Sharp.md",
-    "03 Atomy/Składnia języka C Sharp.md",
-    "03 Atomy/C Sharp.md",
     "03 Atomy/Typy danych w C Sharp.md",
     "[C Sharp baza.base",
     "05 Bazy danych/C Sharp baza.base",
@@ -345,8 +347,6 @@
     "03 Atomy/Modyfikator dostępu.md",
     "03 Atomy/Modyfikatory dostępu w C Sharp.md.edtz",
     "03 Atomy/Akcesor.md",
-    "03 Atomy/Hermetyzacja.md",
-    "03 Atomy/Enkapsulacja.md",
     "03 Atomy/załączniki/Kodowanie Huffmana-7.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-6.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-5.webp",

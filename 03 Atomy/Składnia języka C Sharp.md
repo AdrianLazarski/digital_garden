@@ -32,8 +32,7 @@ namespace MojaAplikacja // Przestrzeń nazwowa
 
 
 $\leftarrow$ [[C Sharp]]
-$\leftarrow$ [[Typy danych w C Sharp]]
-[[MOC C Sharp]]
+$\leftarrow$ [[MOC C Sharp]]
 
 
 

@@ -687,15 +687,15 @@ public static void Main()
 //Przeciążenie typem parametru
 public void Print(int number)
 {
-	Conole.WriteLine(number);
+	Console.WriteLine(number);
 }
 public void Print(double number)
 {
-	Conole.WriteLine(number);
+	Console.WriteLine(number);
 }
 public void Print(string text)
 {
-	Conole.WriteLine(text);
+	Console.WriteLine(text);
 }
 //Wywoływanie:
 Print(42);
