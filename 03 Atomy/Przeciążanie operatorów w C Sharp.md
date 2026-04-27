@@ -51,8 +51,8 @@ indeksacji: [ ] – zastosowanie mają jedynie indeksery;
 - Nie można nadpisać cech operatorów dla wbudowanych typów. Oznacza to, że dodawanie dla typu wbudowanego int będzie zawsze wykonywać dodawanie;
 - Operatory relacji muszą być przeciążanie w parach: == i !=,. < i > oraz <= i >=
 - W odniesieniu do operatorów (jest równe) i (jest różne) == i != należy pamiętać że wymagają one również nadpisania metod systemowych Equals() i GetHashCode().
-	- 
-	- 
+	- Jeśli Equals() przyłożona do pary obiektów zwróci wartość true, to GetHashCode() musi zwracać te same wartości dla obydwu obiektów. Odwrotnej zależności nie ma, bo liczba hashcode'ów jest skończona i służą tylko do szybkiej filtracji, a nie unikalnej identyfikacji obiektów.
+- Przeciążenie jawne i niejawne może dotyczyć dokładnie dowolnych typów, nawet tych definiowanych samodzielnie. Wyjątkiem od tej zasady jest sytuacja, gdy w składni języka istnieje na sztywno zdefiniowane przeciążenie jawne. Potocznie nazywa się ono rzutowaniem typów. Jeśli takie przeciążenie jest dostępne domyślnie, to samodzielne modelowanie tego działania nie ma po prostu sensu.
 
 
 ## Linki
