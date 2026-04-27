@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Przeciążanie operatorów w C Sharp"
             }
+          },
+          {
+            "id": "029b5c5303c75200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Implementacja liczb zespolonych w C Sharp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Implementacja liczb zespolonych w C Sharp"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -309,11 +333,13 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "a5689e6ccdcce885",
+  "active": "029b5c5303c75200",
   "lastOpenFiles": [
+    "03 Atomy/Implementacja liczb zespolonych w C Sharp.md.edtz",
+    "03 Atomy/Implementacja liczb zespolonych w C Sharp.md",
+    "03 Atomy/Przeciążanie operatorów w C Sharp.md",
     "03 Atomy/Przeciążanie operatorów w C Sharp.md.edtz",
     "03 Atomy/C Sharp.md",
-    "03 Atomy/Przeciążanie operatorów w C Sharp.md",
     "03 Atomy/Składnia języka C Sharp.md",
     "O stronie.md",
     "Plany obsydianowe.md",
@@ -345,8 +371,6 @@
     "03 Atomy/Pole statyczne (programowanie).md.edtz",
     "03 Atomy/Modyfikatory dostępu w C Sharp.md",
     "03 Atomy/Modyfikator dostępu.md",
-    "03 Atomy/Modyfikatory dostępu w C Sharp.md.edtz",
-    "03 Atomy/Akcesor.md",
     "03 Atomy/załączniki/Kodowanie Huffmana-7.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-6.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-5.webp",
