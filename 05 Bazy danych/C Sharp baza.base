@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.tags.contains("język_programowania/csharp")

@@ -594,7 +594,13 @@
         "filePath": "03 Atomy/Składnia języka C Sharp.md",
         "wordCountStart": 142,
         "charCountStart": 1286,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 5,
+            "c": 80
+          }
+        ],
         "id": 174
       },
       {
@@ -602,7 +608,13 @@
         "filePath": "03 Atomy/C Sharp.md",
         "wordCountStart": 3352,
         "charCountStart": 25815,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 6,
+            "c": 88
+          }
+        ],
         "id": 175
       },
       {
@@ -620,6 +632,20 @@
         "charCountStart": 3436,
         "changes": [],
         "id": 177
+      },
+      {
+        "date": "2026-04-27",
+        "filePath": "02 MOC/MOC IT/MOC C Sharp.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 27,
+            "c": 221
+          }
+        ],
+        "id": 178
       }
     ]
   }

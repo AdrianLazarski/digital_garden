@@ -102,9 +102,22 @@
               "icon": "lucide-file",
               "title": "Składnia języka C Sharp"
             }
+          },
+          {
+            "id": "ddcb130954b77ffe",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "[C Sharp baza.base",
+                "viewName": "Tabela"
+              },
+              "icon": "lucide-table",
+              "title": "[C Sharp baza"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -312,7 +325,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,11 +346,17 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "a5689e6ccdcce885",
+  "active": "ddcb130954b77ffe",
   "lastOpenFiles": [
-    "03 Atomy/Typy danych w C Sharp.md",
-    "03 Atomy/C Sharp.md",
+    "02 MOC/MOC IT/MOC C Sharp.md",
+    "[C Sharp baza.base",
+    "05 Bazy danych/C Sharp baza.base",
     "03 Atomy/Składnia języka C Sharp.md",
+    "02 MOC/MOC IT/Bez nazwy.base",
+    "03 Atomy/C Sharp.md",
+    "05 Bazy danych/elektronika baza.base",
+    "02 MOC/MOC IT/MOC C Sharp.md.edtz",
+    "03 Atomy/Typy danych w C Sharp.md",
     "03 Atomy/Indekser.md",
     "02 MOC/MOC IT/MOC Typy danych.md",
     "06 Language lab/02 Atomy angielski/Present Perfect Continious.md",
@@ -359,18 +378,11 @@
     "03 Atomy/Modyfikatory dostępu w C Sharp.md",
     "03 Atomy/Modyfikator dostępu.md",
     "03 Atomy/Modyfikatory dostępu w C Sharp.md.edtz",
-    "03 Atomy/Modyfikator dostępu.md.edtz",
     "03 Atomy/Akcesor.md",
-    "03 Atomy/Akcesor.md.edtz",
     "03 Atomy/Hermetyzacja.md",
     "03 Atomy/Enkapsulacja.md",
-    "03 Atomy/Właściwość w C Sharp.md.edtz",
-    "03 Atomy/Właściwość (programowanie).md.edtz",
     "Skróty klawiszowe.md",
     "Elektronikawykład.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
-    "03 Atomy/Struktura w C Sharp.md.edtz",
-    "03 Atomy/Bramka logiczna.md",
     "03 Atomy/załączniki/Kodowanie Huffmana-7.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-6.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-5.webp",

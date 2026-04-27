@@ -38078,8 +38078,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1772304405939,
-      "modifiedDate": 1774867290825,
-      "sizeInBytes": 747,
+      "modifiedDate": 1777289263041,
+      "sizeInBytes": 744,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -38105,8 +38105,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304405933,
-      "modifiedDate": 1774867294273,
-      "sizeInBytes": 1314,
+      "modifiedDate": 1777289288720,
+      "sizeInBytes": 1398,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.39666666666666667,
@@ -38118,11 +38118,13 @@
       "frontmatter": {
         "created": "2025-12-08 15:36",
         "tags": [
-          "it",
           "język_programowania/csharp",
-          "moc"
+          "definicja",
+          "it/programowanie"
         ],
-        "modified date": "2025-12-08 15:39"
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-04-27 13:27"
       }
     },
     "03 Atomy/Simens.md.edtz": {
@@ -50446,8 +50448,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1772304404115,
-      "modifiedDate": 1774871848390,
-      "sizeInBytes": 9688,
+      "modifiedDate": 1777289317042,
+      "sizeInBytes": 9859,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -50473,8 +50475,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304404109,
-      "modifiedDate": 1774871875379,
-      "sizeInBytes": 26493,
+      "modifiedDate": 1777289348691,
+      "sizeInBytes": 26585,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 9.71,
@@ -50486,10 +50488,13 @@
       "frontmatter": {
         "created": "2025-10-26 12:48",
         "tags": [
-          "it",
-          "język_programowania/csharp"
+          "język_programowania/csharp",
+          "it/programowanie",
+          "definicja"
         ],
-        "modified date": "2025-11-23 14:29"
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-04-27 13:28"
       }
     },
     "03 Atomy/Bramka logiczna.md.edtz": {
@@ -123008,6 +123013,152 @@
         "tags": [
           "dailynote"
         ]
+      }
+    },
+    "02 MOC/MOC IT/MOC C Sharp.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 28,
+      "nonWhitespaceCharacterCount": 21,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1777289410498,
+      "modifiedDate": 1777289680159,
+      "sizeInBytes": 226,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-04-27 13:30",
+        "tags": [
+          "moc",
+          "it/programowanie",
+          "język_programowania/csharp"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-04-27 13:30"
+      }
+    },
+    "02 MOC/MOC IT/MOC C Sharp.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1777289413779,
+      "modifiedDate": 1777289632031,
+      "sizeInBytes": 572,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 Bazy danych/C Sharp baza.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1777289475064,
+      "modifiedDate": 1777289520588,
+      "sizeInBytes": 124,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC IT/Bez nazwy.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1777289579828,
+      "modifiedDate": 1777289613084,
+      "sizeInBytes": 101,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "[C Sharp baza.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1777289688505,
+      "modifiedDate": 1777289688505,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

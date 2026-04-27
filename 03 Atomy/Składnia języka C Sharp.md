@@ -1,10 +1,12 @@
 ---
 created: 2025-12-08 15:36
 tags:
-  - it
   - język_programowania/csharp
-  - moc
-modified date: 2025-12-08 15:39
+  - definicja
+  - it/programowanie
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-04-27 13:27
 ---
 - Jego składnia jest znajoma dla użytkowników języków C, C++, JavaScript lub Java.
 - Język silnie typowany. Trzeba deklarować typ każdej zmiennej, zanim jej się użyje.

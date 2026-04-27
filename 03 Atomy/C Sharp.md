@@ -1,9 +1,12 @@
 ---
 created: 2025-10-26 12:48
 tags:
-  - it
   - język_programowania/csharp
-modified date: 2025-11-23 14:29
+  - it/programowanie
+  - definicja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-04-27 13:28
 ---
 > [!note] Definicja
 > C# należy do rodziny [[MOC Języki programowania|języków programowania]] opartych na C.
