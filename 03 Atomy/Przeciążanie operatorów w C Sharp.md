@@ -49,6 +49,10 @@ indeksacji: [ ] – zastosowanie mają jedynie indeksery;
 - Nie da się zmienić kolejności wykonywania operatorów. Wynika to z faktu, że kolejność działań bazuje na symbolu operatora a nie na zwracanym typie.
 - Nie ma możliwości wymyślania i definiowania nowych operatorów, ponieważ kod programu nie zostanie zrozumiany przez interpreter środowiska.
 - Nie można nadpisać cech operatorów dla wbudowanych typów. Oznacza to, że dodawanie dla typu wbudowanego int będzie zawsze wykonywać dodawanie;
+- Operatory relacji muszą być przeciążanie w parach: == i !=,. < i > oraz <= i >=
+- W odniesieniu do operatorów (jest równe) i (jest różne) == i != należy pamiętać że wymagają one również nadpisania metod systemowych Equals() i GetHashCode().
+	- 
+	- 
 
 
 ## Linki
