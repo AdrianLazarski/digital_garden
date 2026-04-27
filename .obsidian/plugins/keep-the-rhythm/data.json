@@ -578,11 +578,48 @@
         "changes": [
           {
             "timeKey": "13:05",
-            "w": 0,
-            "c": 3
+            "w": 89,
+            "c": 696
+          },
+          {
+            "timeKey": "13:10",
+            "w": -2,
+            "c": -16
           }
         ],
         "id": 173
+      },
+      {
+        "date": "2026-04-27",
+        "filePath": "03 Atomy/Składnia języka C Sharp.md",
+        "wordCountStart": 142,
+        "charCountStart": 1286,
+        "changes": [],
+        "id": 174
+      },
+      {
+        "date": "2026-04-27",
+        "filePath": "03 Atomy/C Sharp.md",
+        "wordCountStart": 3352,
+        "charCountStart": 25815,
+        "changes": [],
+        "id": 175
+      },
+      {
+        "date": "2026-04-27",
+        "filePath": "03 Atomy/Typy danych w C Sharp.md",
+        "wordCountStart": 317,
+        "charCountStart": 3436,
+        "changes": [],
+        "id": 176
+      },
+      {
+        "date": "2026-04-27",
+        "filePath": "03 Atomy/Typy danych w C Sharp.md",
+        "wordCountStart": 317,
+        "charCountStart": 3436,
+        "changes": [],
+        "id": 177
       }
     ]
   }

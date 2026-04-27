@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "Indekser"
             }
+          },
+          {
+            "id": "d10176621ac6ad1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/C Sharp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C Sharp"
+            }
+          },
+          {
+            "id": "4e2e2c87abfc7c6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Typy danych w C Sharp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Typy danych w C Sharp"
+            }
+          },
+          {
+            "id": "a5689e6ccdcce885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Składnia języka C Sharp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Składnia języka C Sharp"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -260,15 +333,17 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "816ff61a2234efa0",
+  "active": "a5689e6ccdcce885",
   "lastOpenFiles": [
+    "03 Atomy/Typy danych w C Sharp.md",
+    "03 Atomy/C Sharp.md",
+    "03 Atomy/Składnia języka C Sharp.md",
+    "03 Atomy/Indekser.md",
     "02 MOC/MOC IT/MOC Typy danych.md",
     "06 Language lab/02 Atomy angielski/Present Perfect Continious.md",
-    "03 Atomy/Indekser.md",
     "03 Atomy/Tablica.md",
     "03 Atomy/Indekser.md.edtz",
     "03 Atomy/Struktura (programowanie).md",
-    "03 Atomy/Typy danych w C Sharp.md",
     "03 Atomy/Typ danych.md",
     "03 Atomy/Klasa (programowanie).md",
     "03 Atomy/Struktura w C Sharp.md",
@@ -296,8 +371,6 @@
     "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "03 Atomy/Struktura w C Sharp.md.edtz",
     "03 Atomy/Bramka logiczna.md",
-    "Gotowanie/Bigos z cukinii.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Algebra Boole'a.md",
     "03 Atomy/załączniki/Kodowanie Huffmana-7.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-6.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-5.webp",

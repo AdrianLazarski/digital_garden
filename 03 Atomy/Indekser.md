@@ -18,6 +18,8 @@ Nawet gdy nie zawiera żadnej tablicy.
 	- W akcesorze set występuje niejawnie zadeklarowana zmienna przechowująca wartość przypisywaną do indeksera. 
 
 ## Przykład
+
+`this` – Słowo kluczowe wskazujące, że definiujemy dostęp do bieżącej instancji obiektu.
 ```csharp
 // konstruktor klasy
 public LessionHours()
@@ -44,3 +46,31 @@ set { lessionHours[indeks - 1] = value; }
 }
 
 ```
+
+### Wywołanie
+
+Nie muszę używać słów kluczowych get, lub set, bo robi to za mnie kompilator.
+
+```csharp
+class Program
+{
+	static void Main(string[] args)
+	{
+		LessionHours hours = new LessionHours();
+		Console.WriteLine(„\n Która lekcja Cię interesuje?\n ");
+		int lessionNb = 0;
+		Int32.TryParse(Console.ReadLine(), out lessionNb);
+		Console.WriteLine(„\n Lekcja " + lessionNb.ToString() + "
+		odbywa się w godzinach - " +
+		hours[lessionNb]);
+		Console.ReadKey();
+	}
+}
+```
+
+Jakbym chciał coś ustawić, a nie odczytać, to napisałbym po prostu
+```csharp
+hours[1] = "08:00 - 09:00"
+```
+
+
