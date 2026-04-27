@@ -599,6 +599,16 @@
             "timeKey": "13:25",
             "w": 5,
             "c": 80
+          },
+          {
+            "timeKey": "13:35",
+            "w": 3,
+            "c": 16
+          },
+          {
+            "timeKey": "13:40",
+            "w": -46,
+            "c": -515
           }
         ],
         "id": 174
@@ -613,6 +623,11 @@
             "timeKey": "13:25",
             "w": 6,
             "c": 88
+          },
+          {
+            "timeKey": "13:35",
+            "w": 4,
+            "c": 30
           }
         ],
         "id": 175
@@ -622,7 +637,13 @@
         "filePath": "03 Atomy/Typy danych w C Sharp.md",
         "wordCountStart": 317,
         "charCountStart": 3436,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": -1,
+            "c": -12
+          }
+        ],
         "id": 176
       },
       {
@@ -630,7 +651,13 @@
         "filePath": "03 Atomy/Typy danych w C Sharp.md",
         "wordCountStart": 317,
         "charCountStart": 3436,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": -1,
+            "c": -12
+          }
+        ],
         "id": 177
       },
       {
@@ -643,9 +670,49 @@
             "timeKey": "13:30",
             "w": 27,
             "c": 221
+          },
+          {
+            "timeKey": "13:35",
+            "w": 3,
+            "c": 31
+          },
+          {
+            "timeKey": "13:40",
+            "w": 60,
+            "c": 625
           }
         ],
         "id": 178
+      },
+      {
+        "date": "2026-04-27",
+        "filePath": "Zettelkasten.md",
+        "wordCountStart": 3620,
+        "charCountStart": 34582,
+        "changes": [],
+        "id": 179
+      },
+      {
+        "date": "2026-04-27",
+        "filePath": "Plany obsydianowe.md",
+        "wordCountStart": 190,
+        "charCountStart": 1116,
+        "changes": [],
+        "id": 180
+      },
+      {
+        "date": "2026-04-27",
+        "filePath": "O stronie.md",
+        "wordCountStart": 55,
+        "charCountStart": 407,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": 16,
+            "c": 107
+          }
+        ],
+        "id": 181
       }
     ]
   }

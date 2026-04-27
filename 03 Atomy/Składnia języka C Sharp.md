@@ -33,18 +33,7 @@ namespace MojaAplikacja // Przestrzeń nazwowa
 
 $\leftarrow$ [[C Sharp]]
 $\leftarrow$ [[Typy danych w C Sharp]]
+[[MOC C Sharp]]
 
 
-$\rightarrow$ [[MOC Operator (Programowanie)]]
-	$\rightarrow$ [[Operator dzielenia]]
-	$\rightarrow$ [[Operator inkrementacji]]
-	$\rightarrow$ [[Operator dekrementacji]]
-	$\rightarrow$ [[Operator zwiększenia w C Sharp]]
-	$\rightarrow$ [[Operator zmniejszenia w C Sharp]]
-	Operatory logiczne
-		$\rightarrow$ [[Operator AND]]
-		$\rightarrow$ [[Operator OR]]
-		$\rightarrow$ [[Operator przypisania]]
-		$\rightarrow$ [[Operator równości]]
-		$\rightarrow$ [[Operator nierówności]]
-		$\rightarrow$ [[Operatory porównania]]
+

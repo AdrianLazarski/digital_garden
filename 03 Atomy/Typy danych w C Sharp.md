@@ -53,7 +53,7 @@ Tablicowe
 
 $\leftarrow$ [[MOC Typy danych]]
 $\leftarrow$ [[C Sharp]]
-$\leftarrow$ [[Składnia języka C Sharp]]
+$\leftarrow$ [[MOC C Sharp]]
 
 $\rightarrow$ [[Typy całkowitoliczbowe w C Sharp]]
 $\rightarrow$ [[Typy zmiennoprzecinkowe w C Sharp]]

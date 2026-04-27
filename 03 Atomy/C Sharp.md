@@ -16,6 +16,7 @@ modified date: 2026-04-27 13:28
 
 
 $\rightarrow$ [[Typy danych w C Sharp]]
+$\rightarrow$ [[MOC C Sharp]]
 $\rightarrow$ [[Składnia języka C Sharp]]
 
 
