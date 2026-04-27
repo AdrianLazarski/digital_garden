@@ -575,7 +575,13 @@
         "filePath": "03 Atomy/Indekser.md",
         "wordCountStart": 151,
         "charCountStart": 1257,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": 0,
+            "c": 3
+          }
+        ],
         "id": 173
       }
     ]
