@@ -32,6 +32,8 @@ public static implicit operator TypWyj(TypWej arg),
 public static explicit operator TypWej(TypWyj arg)
 ```
 
+Zobacz przykład:
+$\rightarrow$ [[Implementacja liczb zespolonych w C Sharp]]
 ## Operatory, których nie wolno przeciążać
 
 indeksacji: [ ] – zastosowanie mają jedynie indeksery;
@@ -47,6 +49,7 @@ indeksacji: [ ] – zastosowanie mają jedynie indeksery;
 - Nie da się zmienić kolejności wykonywania operatorów. Wynika to z faktu, że kolejność działań bazuje na symbolu operatora a nie na zwracanym typie.
 - Nie ma możliwości wymyślania i definiowania nowych operatorów, ponieważ kod programu nie zostanie zrozumiany przez interpreter środowiska.
 - Nie można nadpisać cech operatorów dla wbudowanych typów. Oznacza to, że dodawanie dla typu wbudowanego int będzie zawsze wykonywać dodawanie;
+
 
 ## Linki
 
