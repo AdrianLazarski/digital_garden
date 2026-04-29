@@ -9,7 +9,7 @@ modified date : 2026-04-27 14:31
 
 TypZwr – typ zwracany przez operator
 TypArg – typy argumentu wejściowego
-TypWyj – typ wyjściowy operatora konwersji 
+TypWyj – typ wyjściowy operatora <u>konwersji (chodzi o np. doublowanie inta albo stringowanie floata)</u>
 TypWej –typ wejściowy operatora konwersji,
 arg – nazwa argumentu wejściowego
 
