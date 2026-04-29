@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Implementacja liczb zespolonych w C Sharp.md",
+                "file": "03 Atomy/Algorytm kompresji bezstratnej LZ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Implementacja liczb zespolonych w C Sharp"
+              "title": "Algorytm kompresji bezstratnej LZ"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "operator",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,8 +157,7 @@
               "title": "Zakładki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -336,9 +335,11 @@
   },
   "active": "029b5c5303c75200",
   "lastOpenFiles": [
+    "03 Atomy/Algorytm kompresji bezstratnej LZ.md.edtz",
+    "03 Atomy/Implementacja liczb zespolonych w C Sharp.md",
+    "03 Atomy/Algorytm kompresji bezstratnej LZ.md",
     "03 Atomy/Operator AND.md",
     "03 Atomy/Przeciążanie operatorów w C Sharp.md",
-    "03 Atomy/Implementacja liczb zespolonych w C Sharp.md",
     "03 Atomy/Implementacja liczb zespolonych w C Sharp.md.edtz",
     "03 Atomy/Przeciążanie operatorów w C Sharp.md.edtz",
     "03 Atomy/C Sharp.md",
@@ -370,8 +371,6 @@
     "03 Atomy/Klasa statyczna.md.edtz",
     "03 Atomy/Pole statyczne (programowanie).md",
     "03 Atomy/Pole statyczne w C Sharp.md.edtz",
-    "03 Atomy/Modyfikatory dostępu w C Sharp.md",
-    "03 Atomy/Modyfikator dostępu.md",
     "03 Atomy/załączniki/Kodowanie Huffmana-7.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-6.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-5.webp",

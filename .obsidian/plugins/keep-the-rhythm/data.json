@@ -876,6 +876,25 @@
         "charCountStart": 2160,
         "changes": [],
         "id": 188
+      },
+      {
+        "date": "2026-04-29",
+        "filePath": "03 Atomy/Algorytm kompresji bezstratnej LZ.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 39,
+            "c": 284
+          },
+          {
+            "timeKey": "16:35",
+            "w": 10,
+            "c": 81
+          }
+        ],
+        "id": 189
       }
     ]
   }
