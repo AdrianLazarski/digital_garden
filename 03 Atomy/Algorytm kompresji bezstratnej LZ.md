@@ -18,5 +18,8 @@ Algorytm LZ77 został stworzony przez Abrahama Lempela i Jackoba Ziva w 1977 rok
 Trzy formy słowników:
 1. Forma statyczna – wszystkie pozycje zdefiniowane są odgórnie np. słownik języka polskiego PWN.
 	- Nie ma potrzeby doklejenia jego zawartości do treści kompresowanego pliku. 
-2. Forma quasi statyczna
-3. Forma dynamiczna
+2. Forma quasi statyczna – zawiera definicje zbudowane na podstawie analizy danych z kompresowanego pakietu. 
+	- Zastosowanie takiego słownika wymusza konieczność przesyłania treści słownika jako część skompresowanego pakietu do dekodera.
+3. Forma dynamiczna – zawartość słownika tworzona jest na podstawie dekodowanych danych. Proces aktualizacji zawartości ma charakter adaptacyjny i jest wykonywany po każdym dekodowanym znaku.
+	- Zastosowanie tego typu słownika nie wymaga doklejania jego zawartości do skompresowanej treści. 
+	- Minusem jest konieczność poświęcenia dużych mocy obliczeniowych tak w procesie kompresji jak i dekompresji.
