@@ -854,6 +854,20 @@
           }
         ],
         "id": 186
+      },
+      {
+        "date": "2026-04-29",
+        "filePath": "03 Atomy/Operator AND.md",
+        "wordCountStart": 50,
+        "charCountStart": 406,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 40,
+            "c": 268
+          }
+        ],
+        "id": 187
       }
     ]
   }

@@ -13,7 +13,8 @@ modified date: 2025-11-25 21:09
 ### Implementacje
 
 ```csharp
-x && y
+x && y //Jeśli pierwszy warunek będzie fałszywy, program nie sprawdza już drugiego i idzie dalej.
+x & y //Jeśli pierwszy warunek jest fałszywy, program dalej sprawdza drugi warunek. Może to mieć znaczenie np. gdy drugi warunek w ogóle nie istnieje - program wywaliłby błąd. 
 ```
 
 
