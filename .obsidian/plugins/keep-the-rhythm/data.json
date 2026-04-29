@@ -832,7 +832,13 @@
         "filePath": "03 Atomy/Przeciążanie operatorów w C Sharp.md",
         "wordCountStart": 398,
         "charCountStart": 3194,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": 16,
+            "c": 96
+          }
+        ],
         "id": 185
       },
       {
@@ -840,7 +846,13 @@
         "filePath": "03 Atomy/Przeciążanie operatorów w C Sharp.md",
         "wordCountStart": 398,
         "charCountStart": 3194,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": 16,
+            "c": 96
+          }
+        ],
         "id": 186
       }
     ]
