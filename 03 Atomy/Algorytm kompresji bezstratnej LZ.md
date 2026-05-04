@@ -23,3 +23,12 @@ Trzy formy słowników:
 3. Forma dynamiczna – zawartość słownika tworzona jest na podstawie dekodowanych danych. Proces aktualizacji zawartości ma charakter adaptacyjny i jest wykonywany po każdym dekodowanym znaku.
 	- Zastosowanie tego typu słownika nie wymaga doklejania jego zawartości do skompresowanej treści. 
 	- Minusem jest konieczność poświęcenia dużych mocy obliczeniowych tak w procesie kompresji jak i dekompresji.
+
+
+Efektywność kompresowania metodą słownikową mierzy się jako stosunek bitowej długości frazy słowa kodowanego do bitowej długości indeksu słownika. Zależy więc ona wprost proporcjonalnie od odpowiedniego doboru słownika ponieważ:
+- krótkie indeksy oznaczają mały słownik,
+- długie frazy dają lepszą efektywność,
+- każda nowa fraza wymaga aktualizacji słownika.
+
+Na przestrzeni lat, metoda ta doczekała się wielu wersji rozwojowych. Różnice między kolejnymi odmianami polegają na zastosowaniu odmiennych struktur danych do konstruowania słownika, począwszy od liniowej tablicy, na rozbudowanych konstrukcjach drzewiastych skończywszy.
+

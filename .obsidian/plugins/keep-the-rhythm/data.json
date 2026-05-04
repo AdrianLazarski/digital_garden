@@ -911,7 +911,13 @@
         "filePath": "03 Atomy/Algorytm kompresji bezstratnej LZ.md",
         "wordCountStart": 172,
         "charCountStart": 1358,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 76,
+            "c": 636
+          }
+        ],
         "id": 190
       }
     ]
