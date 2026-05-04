@@ -51124,8 +51124,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1777473203015,
-      "modifiedDate": 1777890808262,
-      "sizeInBytes": 1617,
+      "modifiedDate": 1777892820910,
+      "sizeInBytes": 1596,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -51139,20 +51139,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 224,
+      "wordCount": 213,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7466666666666667,
-      "characterCount": 1813,
-      "nonWhitespaceCharacterCount": 1560,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 0.8452830188679246,
-      "linkCount": 0,
+      "pageCount": 0.71,
+      "characterCount": 1746,
+      "nonWhitespaceCharacterCount": 1502,
+      "newlineCount": 28,
+      "readingTimeInMinutes": 0.8037735849056604,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1777473200483,
-      "modifiedDate": 1777890807182,
-      "sizeInBytes": 2080,
+      "modifiedDate": 1777892825176,
+      "sizeInBytes": 2010,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.49333333333333335,
@@ -123327,6 +123327,70 @@
         "tags": [
           "dailynote"
         ]
+      }
+    },
+    "03 Atomy/Algorytm kompresji bezstratnej LZ77.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 130,
+      "nonWhitespaceCharacterCount": 111,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1777892827940,
+      "modifiedDate": 1777892880749,
+      "sizeInBytes": 302,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-05-04 13:07",
+        "tags": [
+          "atom",
+          "it/algorytmy/kompresja"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-05-04 13:07"
+      }
+    },
+    "03 Atomy/Algorytm kompresji bezstratnej LZ77.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1777892833469,
+      "modifiedDate": 1777892833506,
+      "sizeInBytes": 112,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

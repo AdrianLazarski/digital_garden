@@ -11,7 +11,6 @@ modified date: 2026-04-29 16:34
 > [!note] Definicja
 > Właściwie jest to cała rodzina algorytmów opartych na kodowaniu słownikowym.
 
-Algorytm LZ77 został stworzony przez Abrahama Lempela i Jackoba Ziva w 1977 roku.
 
 - Kompresowanie przy pomocy takiego słownika polega na umieszczaniu w pliku wynikowych wskaźników do indeksu utworzonego w czasie kompresji słownika. 
 
@@ -30,5 +29,8 @@ Efektywność kompresowania metodą słownikową mierzy się jako stosunek bitow
 - długie frazy dają lepszą efektywność,
 - każda nowa fraza wymaga aktualizacji słownika.
 
-Na przestrzeni lat, metoda ta doczekała się wielu wersji rozwojowych. Różnice między kolejnymi odmianami polegają na zastosowaniu odmiennych struktur danych do konstruowania słownika, począwszy od liniowej tablicy, na rozbudowanych konstrukcjach drzewiastych skończywszy.
+Na przestrzeni lat, metoda ta doczekała się wielu wersji rozwojowych. Różnice między kolejnymi odmianami polegają na zastosowaniu odmiennych struktur danych do konstruowania słownika, od liniowej tablicy po rozbudowanych konstrukcje drzewiaste.
+
+
+[[Algorytm kompresji bezstratnej LZ77]]
 

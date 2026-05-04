@@ -916,9 +916,38 @@
             "timeKey": "12:30",
             "w": 76,
             "c": 636
+          },
+          {
+            "timeKey": "12:55",
+            "w": -2,
+            "c": -27
+          },
+          {
+            "timeKey": "13:00",
+            "w": 4,
+            "c": 37
+          },
+          {
+            "timeKey": "13:05",
+            "w": -13,
+            "c": -77
           }
         ],
         "id": 190
+      },
+      {
+        "date": "2026-05-04",
+        "filePath": "03 Atomy/Algorytm kompresji bezstratnej LZ77.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": 40,
+            "c": 297
+          }
+        ],
+        "id": 191
       }
     ]
   }
