@@ -948,6 +948,14 @@
           }
         ],
         "id": 191
+      },
+      {
+        "date": "2026-05-05",
+        "filePath": "03 Atomy/Algorytm kompresji bezstratnej LZ77.md",
+        "wordCountStart": 35,
+        "charCountStart": 252,
+        "changes": [],
+        "id": 192
       }
     ]
   }
