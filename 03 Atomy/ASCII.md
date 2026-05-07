@@ -15,5 +15,5 @@ modified date: 2026-03-10 19:42
 - Pierwsze 32 znaki są oparte na przestarzałych standardach dalekopisowych, w nowoczesnych systemach znaki te generalnie są przypisane do innych funkcji. Aktualnie służą do sterowania.
 - W 1981 roku IBM wprowadził rozszerzony ASCII, który jest kodem 8-bitowym i zwiększył liczbę znaków do 256.
 
-![[ASCII.webp|Drukowalne znaki ASCII]]
 
+![[ASCII-1.webp|Drukowalne znaki ASCII]]

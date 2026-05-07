@@ -962,8 +962,33 @@
         "filePath": "03 Atomy/Algorytm kompresji bezstratnej LZ77.md",
         "wordCountStart": 35,
         "charCountStart": 252,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": 150,
+            "c": 1139
+          },
+          {
+            "timeKey": "13:40",
+            "w": 5,
+            "c": 52
+          }
+        ],
         "id": 193
+      },
+      {
+        "date": "2026-05-07",
+        "filePath": "03 Atomy/ASCII.md",
+        "wordCountStart": 100,
+        "charCountStart": 757,
+        "changes": [
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 194
       }
     ]
   }
