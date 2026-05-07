@@ -34,3 +34,8 @@ Algorytm LZ77 został stworzony przez Abrahama Lempela i Jackoba Ziva w 1977 rok
 ![[Algorytm kompresji bezstratnej LZ77-2.webp|Przykład działania algorytmu LZ77 od początku tj. z pustym słownikiem]]
 
 ![[Algorytm kompresji bezstratnej LZ77-3.webp|Dekompresja metodą LZ77]]
+
+
+Algorytm ten ma też dużą wadę – jest to czas pamiętania elementów wzorca słownikowego. Przesuwanie okna o stałym rozmiarze powoduje, że z pamiętanej listy podstawień znikają ciągi, które nie mają odwzorowania w aktualnym obszarze słownika. Oznacza to, że szybkość kompresowania jest stała i wolna. Problem można byłoby usunąć, gdyby wzorce raz użyte były pamiętane do końca kodowania. Wtedy czas kompresji rósł by wraz z długością kodowanego ciągu.
+
+Bezpośrednim rozwinięciem tego algorytmu była wersja LZSS. Algorytm LZSS wprowadzał formę drzewa binarnego, w którym na kolejnych węzłach umieszczano nowe, jeszcze nie zdefiniowane frazy. Do algorytmu w wersji LZSS dodano również rozróżnienie pomiędzy fazą krótką, zawierającą pojedyncze symbole i fazą długą, zawierającą więcej niż jeden symbol. Oznaczenie jakiej fazy dotyczy kolejne słowo kodowe uzyskano poprzez dodanie na początku każdego słowa dodatkowego bitu (0 lub 1).

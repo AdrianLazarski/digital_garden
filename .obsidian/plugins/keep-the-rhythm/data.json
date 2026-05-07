@@ -982,6 +982,11 @@
             "timeKey": "14:30",
             "w": 8,
             "c": 74
+          },
+          {
+            "timeKey": "14:35",
+            "w": 131,
+            "c": 929
           }
         ],
         "id": 193
@@ -1004,6 +1009,14 @@
           }
         ],
         "id": 194
+      },
+      {
+        "date": "2026-05-07",
+        "filePath": "03 Atomy/Algorytm kompresji bezstratnej LZ.md",
+        "wordCountStart": 237,
+        "charCountStart": 1927,
+        "changes": [],
+        "id": 195
       }
     ]
   }
