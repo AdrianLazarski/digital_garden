@@ -126,33 +126,9 @@
               "icon": "lucide-file",
               "title": "Algorytm kompresji bezstratnej LZ77"
             }
-          },
-          {
-            "id": "9974404428da70bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/ASCII.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ASCII"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -382,8 +358,12 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "9974404428da70bf",
+  "active": "bb756a0f67446914",
   "lastOpenFiles": [
+    "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-3.webp",
+    "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-2.webp",
+    "03 Atomy/ASCII.md",
+    "03 Atomy/załączniki/ASCII.webp",
     "03 Atomy/załączniki/ASCII-1.webp",
     "03 Atomy/Algorytm kompresji bezstratnej LZ77.md",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-1.webp",
@@ -421,14 +401,10 @@
     "03 Atomy/Właściwość w C Sharp.md",
     "03 Atomy/Metoda statyczna.md",
     "03 Atomy/Klasa statyczna.md",
-    "03 Atomy/Pole statyczne w C Sharp.md",
     "03 Atomy/załączniki/Kodowanie Huffmana-7.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-6.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-5.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-4.webp",
-    "03 Atomy/załączniki/Kodowanie Huffmana-3.webp",
-    "03 Atomy/załączniki/Kodowanie Huffmana-2.webp",
-    "03 Atomy/załączniki/Kodowanie Huffmana.webp",
-    "03 Atomy/załączniki/Kodowanie Huffmana-1.webp"
+    "03 Atomy/załączniki/Kodowanie Huffmana-3.webp"
   ]
 }

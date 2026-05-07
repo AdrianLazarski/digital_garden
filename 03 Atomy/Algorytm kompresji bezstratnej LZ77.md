@@ -28,5 +28,9 @@ Algorytm LZ77 został stworzony przez Abrahama Lempela i Jackoba Ziva w 1977 rok
 5. powtarzaj czynności od punktu 2, aż do zakodowania wszystkich symboli.
 
 
-![[Algorytm kompresji bezstratnej LZ77-1.webp]]
+![[Algorytm kompresji bezstratnej LZ77-1.webp|Przykład działania algorytmu LZ77]]
 
+
+![[Algorytm kompresji bezstratnej LZ77-2.webp|Przykład działania algorytmu LZ77 od początku tj. z pustym słownikiem]]
+
+![[Algorytm kompresji bezstratnej LZ77-3.webp|Dekompresja metodą LZ77]]

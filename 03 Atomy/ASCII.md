@@ -17,3 +17,5 @@ modified date: 2026-03-10 19:42
 
 
 ![[ASCII-1.webp|Drukowalne znaki ASCII]]
+
+
