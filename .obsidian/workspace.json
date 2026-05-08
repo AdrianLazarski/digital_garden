@@ -127,8 +127,7 @@
               "title": "Algorytm kompresji bezstratnej LZ77"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -358,8 +357,10 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "029b5c5303c75200",
+  "active": "816ff61a2234efa0",
   "lastOpenFiles": [
+    "03 Atomy/Przeciążanie operatorów w C Sharp.md",
+    "03 Atomy/Algorytm kompresji bezstratnej LZ.md",
     "03 Atomy/Algorytm kompresji bezstratnej LZ77.md",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-3.webp",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-2.webp",
@@ -368,12 +369,10 @@
     "03 Atomy/załączniki/ASCII-1.webp",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-1.webp",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77.webp",
-    "03 Atomy/Algorytm kompresji bezstratnej LZ.md",
     "03 Atomy/Algorytm kompresji bezstratnej LZ77.md.edtz",
     "03 Atomy/Algorytm kompresji bezstratnej LZ.md.edtz",
     "03 Atomy/Implementacja liczb zespolonych w C Sharp.md",
     "03 Atomy/Operator AND.md",
-    "03 Atomy/Przeciążanie operatorów w C Sharp.md",
     "03 Atomy/Implementacja liczb zespolonych w C Sharp.md.edtz",
     "03 Atomy/Przeciążanie operatorów w C Sharp.md.edtz",
     "03 Atomy/C Sharp.md",

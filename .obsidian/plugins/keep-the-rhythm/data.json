@@ -1017,6 +1017,30 @@
         "charCountStart": 1927,
         "changes": [],
         "id": 195
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "03 Atomy/Algorytm kompresji bezstratnej LZ.md",
+        "wordCountStart": 237,
+        "charCountStart": 1927,
+        "changes": [],
+        "id": 196
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "03 Atomy/Przeciążanie operatorów w C Sharp.md",
+        "wordCountStart": 414,
+        "charCountStart": 3290,
+        "changes": [],
+        "id": 197
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "03 Atomy/Indekser.md",
+        "wordCountStart": 238,
+        "charCountStart": 1937,
+        "changes": [],
+        "id": 198
       }
     ]
   }
