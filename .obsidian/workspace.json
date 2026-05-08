@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Metoda (programowanie).md",
+                "file": "03 Atomy/C Sharp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Metoda (programowanie)"
+              "title": "C Sharp"
             }
           },
           {
@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lista (programowanie)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -359,8 +359,8 @@
   },
   "active": "816ff61a2234efa0",
   "lastOpenFiles": [
-    "03 Atomy/Instrukcja (programowanie).md",
     "03 Atomy/Metoda (programowanie).md",
+    "03 Atomy/Instrukcja (programowanie).md",
     "03 Atomy/Akcesor.md",
     "03 Atomy/Indekser.md",
     "03 Atomy/Hermetyzacja.md",
