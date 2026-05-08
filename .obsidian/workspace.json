@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Indekser.md",
+                "file": "03 Atomy/Akcesor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Indekser"
+              "title": "Akcesor"
             }
           },
           {
@@ -359,6 +359,9 @@
   },
   "active": "816ff61a2234efa0",
   "lastOpenFiles": [
+    "03 Atomy/Właściwość (programowanie).md",
+    "03 Atomy/Akcesor.md",
+    "03 Atomy/Indekser.md",
     "03 Atomy/Przeciążanie operatorów w C Sharp.md",
     "03 Atomy/Algorytm kompresji bezstratnej LZ.md",
     "03 Atomy/Algorytm kompresji bezstratnej LZ77.md",
@@ -387,7 +390,6 @@
     "02 MOC/MOC IT/Bez nazwy.base",
     "05 Bazy danych/elektronika baza.base",
     "02 MOC/MOC IT/MOC C Sharp.md.edtz",
-    "03 Atomy/Indekser.md",
     "02 MOC/MOC IT/MOC Typy danych.md",
     "06 Language lab/02 Atomy angielski/Present Perfect Continious.md",
     "03 Atomy/Tablica.md",
@@ -396,7 +398,6 @@
     "03 Atomy/Typ danych.md",
     "03 Atomy/Klasa (programowanie).md",
     "03 Atomy/Struktura w C Sharp.md",
-    "03 Atomy/Właściwość (programowanie).md",
     "03 Atomy/Właściwość w C Sharp.md",
     "03 Atomy/Metoda statyczna.md",
     "03 Atomy/Klasa statyczna.md",
