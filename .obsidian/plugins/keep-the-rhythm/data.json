@@ -1057,6 +1057,30 @@
         "charCountStart": 757,
         "changes": [],
         "id": 200
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "03 Atomy/Metoda (programowanie).md",
+        "wordCountStart": 170,
+        "charCountStart": 1387,
+        "changes": [],
+        "id": 201
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "03 Atomy/Hermetyzacja.md",
+        "wordCountStart": 143,
+        "charCountStart": 1183,
+        "changes": [],
+        "id": 202
+      },
+      {
+        "date": "2026-05-08",
+        "filePath": "03 Atomy/Instrukcja (programowanie).md",
+        "wordCountStart": 37,
+        "charCountStart": 285,
+        "changes": [],
+        "id": 203
       }
     ]
   }
