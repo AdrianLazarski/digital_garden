@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Peterson Jordan, Mapy sensu.md",
+                "file": "03 Atomy/System binarny.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Peterson Jordan, Mapy sensu"
+              "title": "System binarny"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Peterson",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Peterson Jordan, Mapy sensu.md",
+            "file": "03 Atomy/System binarny.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,10 +167,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-bible-reference:Bible Verse Lookup": false,
-      "edit-history:Open edit history": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
       "switcher:Otwórz okno szybkiego wyboru": false,
       "graph:Otwórz podgląd grafu": false,
       "canvas:Stwórz nową tablicę": false,
@@ -181,12 +177,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0124ba45a3c14680",
+  "active": "eb7ef0302887ec55",
   "lastOpenFiles": [
-    "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Majcherek Janusz, Źródła bogactwa i biedy ludzi oraz ich zbiorowości.md",
-    "03 Atomy/System binarny.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Norberg Johan, Manifest kapitalistyczny.md",
     "03 Atomy/Funkcja.md"
   ]
 }
