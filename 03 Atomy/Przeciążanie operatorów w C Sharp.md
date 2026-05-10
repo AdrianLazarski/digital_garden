@@ -57,6 +57,33 @@ indeksacji: [ ] – zastosowanie mają jedynie indeksery;
 - Przeciążenie jawne i niejawne może dotyczyć dokładnie dowolnych typów, nawet tych definiowanych samodzielnie. Wyjątkiem od tej zasady jest sytuacja, gdy w składni języka istnieje na sztywno zdefiniowane przeciążenie jawne. Potocznie nazywa się ono rzutowaniem typów. Jeśli takie przeciążenie jest dostępne domyślnie, to samodzielne modelowanie tego działania nie ma po prostu sensu.
 - Przy przeciążaniu operatorów logicznych `&&` i `|` zwykle przeciąża się też `true` i `false`.
 
+Przeciążanie operatorów porównania i nierówności
+
+```csharp
+// nadpisanie operatora "jest równe"
+public static bool operator == (Team blueTeam, Team redTeam)
+{
+    return blueTeam.counter == redTeam.counter;
+}
+
+// nadpisanie operatora "jest różne"
+public static bool operator !=(Team blueTeam, Team redTeam)
+{
+    return blueTeam.counter != redTeam.counter;
+}
+```
+
+Przykład działania
+```csharp
+Team daneZPoniedzialku = new Team { counter = 15 };
+Team daneZWtorku = new Team { counter = 15 };
+
+// Bez przeciążania:
+if (daneZPoniedzialku == daneZWtorku) // WYNIK: FALSE (to inne obiekty o innej referencji)
+
+// Po przeciażeniu
+if (daneZPoniedzialku == daneZWtorku) // WYNIK: TRUE (liczba punktów się zgadza, porównuje inty zamiast referencji obiektów)
+```
 
 ## Linki
 
