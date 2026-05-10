@@ -56,6 +56,7 @@ indeksacji: [ ] – zastosowanie mają jedynie indeksery;
 	- Jeśli Equals() przyłożona do pary obiektów zwróci wartość true, to GetHashCode() musi zwracać te same wartości dla obydwu obiektów. Odwrotnej zależności nie ma, bo liczba hashcode'ów jest skończona i służą tylko do szybkiej filtracji, a nie unikalnej identyfikacji obiektów.
 - Przeciążenie jawne i niejawne może dotyczyć dokładnie dowolnych typów, nawet tych definiowanych samodzielnie. Wyjątkiem od tej zasady jest sytuacja, gdy w składni języka istnieje na sztywno zdefiniowane przeciążenie jawne. Potocznie nazywa się ono rzutowaniem typów. Jeśli takie przeciążenie jest dostępne domyślnie, to samodzielne modelowanie tego działania nie ma po prostu sensu.
 - Przy przeciążaniu operatorów logicznych `&&` i `|` zwykle przeciąża się też `true` i `false`.
+- Przy przeciążaniu `==` przeciąża się też  `!=` oraz `obiekt.Equals`.
 
 Przeciążanie operatorów porównania i nierówności
 
