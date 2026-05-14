@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Przeciążanie operatorów w C Sharp.md",
+                "file": "Gotowanie/Brokuł stir fry curry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Przeciążanie operatorów w C Sharp"
+              "title": "Brokuł stir fry curry"
             }
           },
           {
@@ -357,8 +357,13 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "180c24419c3d71cd",
+  "active": "a5689e6ccdcce885",
   "lastOpenFiles": [
+    "Gotowanie/Bez nazwy.md",
+    "Gotowanie/Bez nazwy.md.edtz",
+    "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
+    "Gotowanie/Bigos z cukinii.md",
+    "03 Atomy/Przeciążanie operatorów w C Sharp.md",
     "03 Atomy/Algorytm kompresji bezstratnej LZ77.md",
     "03 Atomy/C Sharp.md",
     "03 Atomy/Metoda (programowanie).md",
@@ -367,7 +372,6 @@
     "03 Atomy/Indekser.md",
     "03 Atomy/Hermetyzacja.md",
     "03 Atomy/Właściwość (programowanie).md",
-    "03 Atomy/Przeciążanie operatorów w C Sharp.md",
     "03 Atomy/Algorytm kompresji bezstratnej LZ.md",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-3.webp",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-2.webp",
@@ -396,11 +400,6 @@
     "02 MOC/MOC IT/MOC Typy danych.md",
     "06 Language lab/02 Atomy angielski/Present Perfect Continious.md",
     "03 Atomy/Tablica.md",
-    "03 Atomy/Indekser.md.edtz",
-    "03 Atomy/Struktura (programowanie).md",
-    "03 Atomy/Typ danych.md",
-    "03 Atomy/Klasa (programowanie).md",
-    "03 Atomy/Struktura w C Sharp.md",
     "03 Atomy/załączniki/Kodowanie Huffmana-7.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-6.webp",
     "03 Atomy/załączniki/Kodowanie Huffmana-5.webp",
