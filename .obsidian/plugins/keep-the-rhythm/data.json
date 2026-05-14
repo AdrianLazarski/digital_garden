@@ -1129,6 +1129,14 @@
           }
         ],
         "id": 207
+      },
+      {
+        "date": "2026-05-14",
+        "filePath": "03 Atomy/Przeciążanie operatorów w C Sharp.md",
+        "wordCountStart": 512,
+        "charCountStart": 4115,
+        "changes": [],
+        "id": 208
       }
     ]
   }
