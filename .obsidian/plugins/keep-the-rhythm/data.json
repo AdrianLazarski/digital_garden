@@ -1210,8 +1210,28 @@
         "filePath": "03 Atomy/Algorytm kompresji bezstratnej LZ77.md",
         "wordCountStart": 348,
         "charCountStart": 2598,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "16:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 216
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "Skróty klawiszowe.md",
+        "wordCountStart": 204,
+        "charCountStart": 1888,
+        "changes": [
+          {
+            "timeKey": "16:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 217
       }
     ]
   }
