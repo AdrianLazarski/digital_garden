@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
+                "file": "Gotowanie/Brokuł stir fry curry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Makaron ze szpinakiem z kremowym sosem"
+              "title": "Brokuł stir fry curry"
             }
           }
         ],
@@ -311,8 +311,8 @@
   },
   "active": "029b5c5303c75200",
   "lastOpenFiles": [
-    "03 Atomy/Algorytm kompresji bezstratnej LZ77.md",
     "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
+    "03 Atomy/Algorytm kompresji bezstratnej LZ77.md",
     "03 Atomy/Algorytm kompresji bezstratnej LZ.md",
     "Gotowanie/Brokuł stir fry curry.md",
     "Gotowanie/Bez nazwy.md",
