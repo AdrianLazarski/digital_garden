@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Nadtypy paradygmatów.md",
+                "file": "03 Atomy/Metodyka programowania.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nadtypy paradygmatów"
+              "title": "Metodyka programowania"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC IT/MOC Metodyka programowania.md",
+                "file": "03 Atomy/Typy metodyk programowania.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Metodyka programowania"
+              "title": "Typy metodyk programowania"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -285,13 +286,13 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "00a9896c100fec19",
+  "active": "6dc4c6c1491afb09",
   "lastOpenFiles": [
-    "03 Atomy/Metodyka programowania.md",
-    "02 MOC/MOC IT/MOC Metodyka programowania.md",
-    "03 Atomy/Programowanie obiektowe.md",
-    "03 Atomy/Nadtypy paradygmatów.md",
     "03 Atomy/Programowanie typu imperatywnego.md",
+    "02 MOC/MOC IT/MOC Metodyka programowania.md",
+    "03 Atomy/Metodyka programowania.md",
+    "03 Atomy/Nadtypy paradygmatów.md",
+    "03 Atomy/Programowanie obiektowe.md",
     "02 MOC/MOC IT/Klasyfikacje języków programowania.md",
     "Skróty klawiszowe.md",
     "Gotowanie/Brokuł stir fry curry.md",
