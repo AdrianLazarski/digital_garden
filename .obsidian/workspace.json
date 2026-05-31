@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Typy metodyk programowania.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Kartezjusz.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Typy metodyk programowania"
+              "title": "Kartezjusz"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "programow",
+                "query": "kartezjusz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -288,6 +288,8 @@
   },
   "active": "6dc4c6c1491afb09",
   "lastOpenFiles": [
+    "01 Input przejściowy/Filozofia/Historia filozofii/Scholastyka.md",
+    "03 Atomy/Typy metodyk programowania.md",
     "03 Atomy/Programowanie typu imperatywnego.md",
     "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "03 Atomy/Metodyka programowania.md",
@@ -323,8 +325,6 @@
     "03 Atomy/Operator AND.md",
     "03 Atomy/Implementacja liczb zespolonych w C Sharp.md.edtz",
     "03 Atomy/Przeciążanie operatorów w C Sharp.md.edtz",
-    "03 Atomy/Składnia języka C Sharp.md",
-    "O stronie.md",
     "[C Sharp baza.base",
     "05 Bazy danych/C Sharp baza.base",
     "02 MOC/MOC IT/Bez nazwy.base",
