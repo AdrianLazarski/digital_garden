@@ -1392,9 +1392,28 @@
             "timeKey": "16:30",
             "w": 99,
             "c": 833
+          },
+          {
+            "timeKey": "17:10",
+            "w": 135,
+            "c": 1024
           }
         ],
         "id": 237
+      },
+      {
+        "date": "2026-06-01",
+        "filePath": "03 Atomy/Wzór Cramera.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 95,
+            "c": 715
+          }
+        ],
+        "id": 238
       }
     ]
   }
