@@ -54,9 +54,19 @@
               "icon": "lucide-file",
               "title": "Wzór Cramera"
             }
+          },
+          {
+            "id": "bc104a10c6916d30",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mapa karn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +119,8 @@
               "title": "Zakładki"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -285,13 +296,13 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "483ddb7ac9e5faf5",
+  "active": "5f3082bf1e46927d",
   "lastOpenFiles": [
+    "03 Atomy/Wzór Cramera.md",
     "03 Atomy/załączniki/Wzór Cramera-2.webp",
     "03 Atomy/załączniki/Wzór Cramera-1.webp",
     "03 Atomy/załączniki/Wzór Cramera.webp",
     "03 Atomy/Wzór Cramera.md.edtz",
-    "03 Atomy/Wzór Cramera.md",
     "03 Atomy/Układ równań liniowych.md",
     "03 Atomy/załączniki/Układ równań liniowych-1.webp",
     "03 Atomy/załączniki/Układ równań liniowych.webp",
@@ -325,7 +336,6 @@
     "03 Atomy/załączniki/ASCII.webp",
     "03 Atomy/załączniki/ASCII-1.webp",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-1.webp",
-    "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77.webp",
     "03 Atomy/Algorytm kompresji bezstratnej LZ77.md.edtz",
     "03 Atomy/Algorytm kompresji bezstratnej LZ.md.edtz",
     "03 Atomy/Implementacja liczb zespolonych w C Sharp.md.edtz",

@@ -18,3 +18,4 @@ Równość ta po rozpisaniu przyjmuje postać:
 Macierz _A_j​, w której _j_-tą kolumnę macierzy _A_ zastąpiono kolumną wyrazów wolnych _B_:
 
 ![[Wzór Cramera.webp]]
+
