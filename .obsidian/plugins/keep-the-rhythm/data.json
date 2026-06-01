@@ -1376,6 +1376,25 @@
         "charCountStart": 907,
         "changes": [],
         "id": 236
+      },
+      {
+        "date": "2026-06-01",
+        "filePath": "03 Atomy/Układ równań liniowych.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:25",
+            "w": 58,
+            "c": 405
+          },
+          {
+            "timeKey": "16:30",
+            "w": 99,
+            "c": 833
+          }
+        ],
+        "id": 237
       }
     ]
   }
