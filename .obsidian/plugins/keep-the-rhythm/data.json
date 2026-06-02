@@ -1419,6 +1419,60 @@
           }
         ],
         "id": 238
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "Skróty klawiszowe.md",
+        "wordCountStart": 204,
+        "charCountStart": 1888,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 239
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "00 Daily log/27-04-2026.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 240
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "00 Daily log/20-04-2026.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 241
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "03 Atomy/Wzór Cramera.md",
+        "wordCountStart": 95,
+        "charCountStart": 717,
+        "changes": [],
+        "id": 242
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "03 Atomy/Układ równań liniowych.md",
+        "wordCountStart": 292,
+        "charCountStart": 2262,
+        "changes": [],
+        "id": 243
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "03 Atomy/Bramka logiczna.md",
+        "wordCountStart": 224,
+        "charCountStart": 1654,
+        "changes": [],
+        "id": 244
       }
     ]
   }

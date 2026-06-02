@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Układ równań liniowych.md",
+                "file": "03 Atomy/Bramka logiczna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,45 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Układ równań liniowych"
-            }
-          },
-          {
-            "id": "483ddb7ac9e5faf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Wzór Cramera.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Wzór Cramera"
-            }
-          },
-          {
-            "id": "bc104a10c6916d30",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "Bramka logiczna"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mapa karn",
+                "query": "bramk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -296,14 +261,18 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "5f3082bf1e46927d",
+  "active": "a30712f0e280c28e",
   "lastOpenFiles": [
+    "03 Atomy/Układ równań liniowych.md",
     "03 Atomy/Wzór Cramera.md",
+    "00 Daily log/20-04-2026.md",
+    "00 Daily log/27-04-2026.md",
+    "00 Daily log/20-04-2026.md.edtz",
+    "00 Daily log/27-04-2026.md.edtz",
     "03 Atomy/załączniki/Wzór Cramera-2.webp",
     "03 Atomy/załączniki/Wzór Cramera-1.webp",
     "03 Atomy/załączniki/Wzór Cramera.webp",
     "03 Atomy/Wzór Cramera.md.edtz",
-    "03 Atomy/Układ równań liniowych.md",
     "03 Atomy/załączniki/Układ równań liniowych-1.webp",
     "03 Atomy/załączniki/Układ równań liniowych.webp",
     "03 Atomy/Układ równań liniowych.md.edtz",
@@ -329,8 +298,6 @@
     "03 Atomy/Metoda (programowanie).md",
     "03 Atomy/Instrukcja (programowanie).md",
     "03 Atomy/Akcesor.md",
-    "03 Atomy/Indekser.md",
-    "03 Atomy/Hermetyzacja.md",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-3.webp",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-2.webp",
     "03 Atomy/załączniki/ASCII.webp",
@@ -340,8 +307,6 @@
     "03 Atomy/Algorytm kompresji bezstratnej LZ.md.edtz",
     "03 Atomy/Implementacja liczb zespolonych w C Sharp.md.edtz",
     "03 Atomy/Przeciążanie operatorów w C Sharp.md.edtz",
-    "[C Sharp baza.base",
-    "05 Bazy danych/C Sharp baza.base",
-    "02 MOC/MOC IT/Bez nazwy.base"
+    "[C Sharp baza.base"
   ]
 }
