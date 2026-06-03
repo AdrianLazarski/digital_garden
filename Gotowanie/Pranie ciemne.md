@@ -1,0 +1,1 @@
+Program nr 4, szklanka octu, fioletowy plyn pol nakrętki

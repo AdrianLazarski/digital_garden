@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gotowanie/Pieczony kalafior Orzo.md",
+                "file": "Gotowanie/Pranie ciemne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pieczony kalafior Orzo"
+              "title": "Pranie ciemne"
             }
           }
         ]
@@ -262,6 +262,10 @@
   },
   "active": "a30712f0e280c28e",
   "lastOpenFiles": [
+    "Gotowanie/Pranie ciemne.md.edtz",
+    "Gotowanie/Bez nazwy.md",
+    "Gotowanie/Pranie ciemne.md",
+    "Gotowanie/Pieczony kalafior Orzo.md",
     "03 Atomy/Bramka logiczna.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Ludzkie działanie.md",
     "03 Atomy/Układ równań liniowych.md",
@@ -292,12 +296,8 @@
     "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
     "03 Atomy/Algorytm kompresji bezstratnej LZ77.md",
     "03 Atomy/Algorytm kompresji bezstratnej LZ.md",
-    "Gotowanie/Bez nazwy.md",
     "Gotowanie/Bez nazwy.md.edtz",
     "Gotowanie/Bigos z cukinii.md",
-    "03 Atomy/Przeciążanie operatorów w C Sharp.md",
-    "03 Atomy/Metoda (programowanie).md",
-    "03 Atomy/Instrukcja (programowanie).md",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-3.webp",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-2.webp",
     "03 Atomy/załączniki/ASCII.webp",
