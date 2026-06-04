@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Algorytm Gaussa do obliczania wyznaczników macierzy.md",
+                "file": "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Algorytm Gaussa do obliczania wyznaczników macierzy"
+              "title": "Rozwinięcie Laplace'a wyznacznika"
             }
           }
         ]
@@ -260,8 +260,11 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "180c24419c3d71cd",
+  "active": "9aa06a0f65480338",
   "lastOpenFiles": [
+    "03 Atomy/Dopełnienie algebraiczne.md",
+    "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md",
+    "03 Atomy/Algorytm Gaussa do obliczania wyznaczników macierzy.md",
     "Gotowanie/Pranie ciemne.md",
     "Gotowanie/Pranie ciemne.md.edtz",
     "Gotowanie/Bez nazwy.md",
@@ -295,9 +298,7 @@
     "03 Atomy/C Sharp.md",
     "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
     "03 Atomy/Algorytm kompresji bezstratnej LZ77.md",
-    "03 Atomy/Algorytm kompresji bezstratnej LZ.md",
     "Gotowanie/Bez nazwy.md.edtz",
-    "Gotowanie/Bigos z cukinii.md",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-3.webp",
     "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-2.webp",
     "03 Atomy/załączniki/ASCII.webp",

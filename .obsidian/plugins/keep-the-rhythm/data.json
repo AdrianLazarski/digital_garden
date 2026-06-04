@@ -1555,6 +1555,22 @@
           }
         ],
         "id": 252
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md",
+        "wordCountStart": 124,
+        "charCountStart": 861,
+        "changes": [],
+        "id": 253
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "03 Atomy/Dopełnienie algebraiczne.md",
+        "wordCountStart": 70,
+        "charCountStart": 517,
+        "changes": [],
+        "id": 254
       }
     ]
   }
