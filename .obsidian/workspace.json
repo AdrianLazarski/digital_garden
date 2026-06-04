@@ -84,8 +84,7 @@
               "title": "Zakładki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -261,7 +260,7 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "9aa06a0f65480338",
+  "active": "180c24419c3d71cd",
   "lastOpenFiles": [
     "Gotowanie/Pranie ciemne.md",
     "Gotowanie/Pranie ciemne.md.edtz",
