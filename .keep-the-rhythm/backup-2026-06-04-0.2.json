@@ -1527,34 +1527,6 @@
         "charCountStart": 787,
         "changes": [],
         "id": 250
-      },
-      {
-        "date": "2026-06-04",
-        "filePath": "03 Atomy/Algorytm Gaussa do obliczania wyznaczników macierzy.md",
-        "wordCountStart": 115,
-        "charCountStart": 787,
-        "changes": [
-          {
-            "timeKey": "16:35",
-            "w": 0,
-            "c": 0
-          }
-        ],
-        "id": 251
-      },
-      {
-        "date": "2026-06-04",
-        "filePath": "03 Atomy/Algorytm Gaussa do obliczania wyznaczników macierzy.md",
-        "wordCountStart": 115,
-        "charCountStart": 787,
-        "changes": [
-          {
-            "timeKey": "16:35",
-            "w": 0,
-            "c": 0
-          }
-        ],
-        "id": 252
       }
     ]
   }
