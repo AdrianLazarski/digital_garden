@@ -164,3 +164,22 @@ W **przestrzeni liniowej** można wyróżnić **szczególne podzbiory**, któ
 
 ![[robocza 3-51.webp]]
 
+![[robocza 3-52.webp]]
+
+![[robocza 3-53.webp]]
+![[robocza 3-54.webp]]
+
+![[robocza 3-55.webp]]
+![[robocza 3-56.webp]]
+![[robocza 3-57.webp]]
+![[robocza 3-58.webp]]
+![[robocza 3-59.webp]]
+![[robocza 3-60.webp]]
+![[robocza 3-61.webp]]
+![[robocza 3-62.webp]]
+
+![[robocza 3-63.webp]]
+
+![[robocza 3-64.webp]]
+![[robocza 3-65.webp]]
+![[robocza 3-66.webp]]
