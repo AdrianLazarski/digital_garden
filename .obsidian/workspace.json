@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md",
+                "file": "robocza 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rozwinięcie Laplace'a wyznacznika"
+              "title": "robocza 3"
             }
           }
         ]
@@ -262,8 +262,21 @@
   },
   "active": "9aa06a0f65480338",
   "lastOpenFiles": [
-    "03 Atomy/Dopełnienie algebraiczne.md",
+    "załączniki/robocza 3-10.webp",
+    "załączniki/robocza 3-9.webp",
+    "załączniki/robocza 3-8.webp",
+    "załączniki/robocza 3-7.webp",
+    "załączniki/robocza 3-6.webp",
+    "załączniki/robocza 3-5.webp",
+    "załączniki/robocza 3-4.webp",
+    "załączniki/robocza 3-3.webp",
+    "załączniki/robocza 3-2.webp",
+    "załączniki/robocza 3-1.webp",
+    "załączniki/robocza 3.webp",
+    "robocza 3.md.edtz",
     "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md",
+    "robocza 3.md",
+    "03 Atomy/Dopełnienie algebraiczne.md",
     "03 Atomy/Algorytm Gaussa do obliczania wyznaczników macierzy.md",
     "Gotowanie/Pranie ciemne.md",
     "Gotowanie/Pranie ciemne.md.edtz",
@@ -277,12 +290,7 @@
     "00 Daily log/27-04-2026.md",
     "00 Daily log/20-04-2026.md.edtz",
     "00 Daily log/27-04-2026.md.edtz",
-    "03 Atomy/załączniki/Wzór Cramera-2.webp",
-    "03 Atomy/załączniki/Wzór Cramera-1.webp",
-    "03 Atomy/załączniki/Wzór Cramera.webp",
     "03 Atomy/Wzór Cramera.md.edtz",
-    "03 Atomy/załączniki/Układ równań liniowych-1.webp",
-    "03 Atomy/załączniki/Układ równań liniowych.webp",
     "03 Atomy/Układ równań liniowych.md.edtz",
     "03 Atomy/Metodyka programowania.md",
     "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Kartezjusz.md",
@@ -296,17 +304,9 @@
     "Skróty klawiszowe.md",
     "Gotowanie/Brokuł stir fry curry.md",
     "03 Atomy/C Sharp.md",
-    "Gotowanie/Makaron ze szpinakiem z kremowym sosem.md",
-    "03 Atomy/Algorytm kompresji bezstratnej LZ77.md",
     "Gotowanie/Bez nazwy.md.edtz",
-    "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-3.webp",
-    "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-2.webp",
-    "03 Atomy/załączniki/ASCII.webp",
-    "03 Atomy/załączniki/ASCII-1.webp",
-    "03 Atomy/załączniki/Algorytm kompresji bezstratnej LZ77-1.webp",
     "03 Atomy/Algorytm kompresji bezstratnej LZ77.md.edtz",
     "03 Atomy/Algorytm kompresji bezstratnej LZ.md.edtz",
-    "03 Atomy/Implementacja liczb zespolonych w C Sharp.md.edtz",
-    "03 Atomy/Przeciążanie operatorów w C Sharp.md.edtz"
+    "03 Atomy/Implementacja liczb zespolonych w C Sharp.md.edtz"
   ]
 }
