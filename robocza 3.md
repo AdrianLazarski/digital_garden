@@ -73,3 +73,17 @@ Zatem działanie ⊕ jest **wewnętrzne**.
 ![[robocza 3-26.webp]]
 ![[robocza 3-27.webp]]
 ![[robocza 3-28.webp]]
+![[robocza 3-29.webp]]
+![[robocza 3-30.webp]]
+![[robocza 3-31.webp]]
+![[robocza 3-32.webp]]
+![[robocza 3-33.webp]]
+![[robocza 3-34.webp]]
+![[robocza 3-35.webp]]
+![[robocza 3-36.webp]]
+![[robocza 3-37.webp]]
+![[robocza 3-38.webp]]
+![[robocza 3-39.webp]]
+![[robocza 3-40.webp]]![[robocza 3-41.webp]]
+## materiał 4
+
