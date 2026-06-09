@@ -48,4 +48,12 @@ Zatem działanie ⊕ jest **wewnętrzne**.
 
 ![[robocza 3-10.webp]]
 
+![[robocza 3-11.webp]]
+![[robocza 3-12.webp]]
+
+![[robocza 3-13.webp]]
+![[robocza 3-14.webp]]
+![[robocza 3-15.webp]]
+![[robocza 3-16.webp]]
+![[robocza 3-17.webp]]
 
