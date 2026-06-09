@@ -150,3 +150,17 @@ _v_ = _u_
 ![[robocza 3-44.webp]]
 
 ![[robocza 3-45.webp]]
+
+W **przestrzeni liniowej** można wyróżnić **szczególne podzbiory**, które same również posiadają **strukturę przestrzeni liniowej**. Takie zbiory nazywamy **podprzestrzeniami**. Ich znaczenie w analizie algebraicznej jest fundamentalne, ponieważ pozwalają badać właściwości przestrzeni przez analizę jej części.
+
+![[robocza 3-46.webp]]
+
+![[robocza 3-47.webp]]
+
+![[robocza 3-48.webp]]
+
+![[robocza 3-49.webp]]
+![[robocza 3-50.webp]]
+
+![[robocza 3-51.webp]]
+
