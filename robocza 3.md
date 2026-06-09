@@ -183,3 +183,36 @@ W **przestrzeni liniowej** można wyróżnić **szczególne podzbiory**, któ
 ![[robocza 3-64.webp]]
 ![[robocza 3-65.webp]]
 ![[robocza 3-66.webp]]
+![[robocza 3-67.webp]]
+![[robocza 3-68.webp]]
+![[robocza 3-69.webp]]
+![[robocza 3-70.webp]]
+![[robocza 3-71.webp]]
+![[robocza 3-72.webp]]
+![[robocza 3-73.webp]]
+![[robocza 3-74.webp]]
+![[robocza 3-75.webp]]
+![[robocza 3-76.webp]]
+
+![[robocza 3-77.webp]]
+
+![[robocza 3-78.webp]]
+
+![[robocza 3-79.webp]]
+
+![[robocza 3-80.webp]]
+
+![[robocza 3-81.webp]]
+
+![[robocza 3-82.webp]]
+
+![[robocza 3-83.webp]]
+
+![[robocza 3-84.webp]]
+
+![[robocza 3-85.webp]]
+
+![[robocza 3-86.webp]]
+![[robocza 3-87.webp]]
+![[robocza 3-88.webp]]
+
