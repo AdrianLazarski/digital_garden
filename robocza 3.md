@@ -87,3 +87,66 @@ Zatem działanie ⊕ jest **wewnętrzne**.
 ![[robocza 3-40.webp]]![[robocza 3-41.webp]]
 ## materiał 4
 
+
+W ramach algebry liniowej jednym z podstawowych pojęć jest **przestrzeń liniowa**, która stanowi strukturę algebraiczną umożliwiającą operacje dodawania wektorów i mnożenia ich przez skalary.
+
+**Definicja przestrzeni liniowej** opiera się na własnościach algebraicznych oraz zgodności tych operacji z działaniami w ciele.
+
+Niech 𝕂 będzie dowolnym **ciałem**.
+
+**Przestrzenią liniową** (lub **przestrzenią wektorową**) nad ciałem 𝕂 nazywamy każdy zbiór _V_, którego elementy nazywamy **wektorami**, spełniający dwa podstawowe warunki:
+
+1. **Struktura grupy abelowej  
+    **W zbiorze _V_ określone jest działanie dwuargumentowe (**x**, **y**)→**x** + **y**, takie, że (_V_,+) jest **grupą abelową** (czyli dodawanie wektorów jest przemienne, łączne, istnieje element neutralny oraz element odwrotny względem dodawania).
+2. **Mnożenie wektorów przez skalary  
+    **Określona jest operacja: 𝕂 × **V** → **V,** zwana mnożeniem wektorów przez skalary, która spełnia następujące własności:
+
+- **unitarność**: 1 ⋅ _x_ = _x_
+- **łączność**: (αβ)_x_ = α(β_x_)
+- **prawa rozdzielności**:
+
+(α + β)x = αx + βx
+
+α(x + y) = αx + αy
+
+**Uwagi terminologiczne:**
+
+- Elementy przestrzeni _V_ nazywamy **wektorami**.
+- Element neutralny względem dodawania nazywamy **wektorem zerowym**, czyli _v_ + 0 = _v_
+- Ciałem skalarów mogą być zarówno liczby **rzeczywiste** jak i **zespolone**;
+
+#### **Własności przestrzeni liniowej**
+
+Niech **V** będzie dowolną przestrzenią liniową, wtedy zachodzą poniższe własności:
+
+
+**Mnożenie wektora przez zero**  
+Dla każdego v∈ _V_ mamy:
+
+0_v_ = 0
+
+
+**Mnożenie zera przez skalar**  
+Dla każdego α ∈ 𝕂 zachodzi:
+
+α0 = 0
+
+
+**Jednoznaczność skalara dla wektora niezerowego**  
+Jeśli _av_ = _bv_ oraz _v_ ≠ 0, to:  
+
+_a_ = _b_
+
+
+**Jednoznaczność wektora przy skalarnym mnożeniu**  
+Jeśli _av_ = _au_ oraz _a_ ≠ 0, to:  
+
+_v_ = _u_
+
+![[robocza 3-42.webp]]
+
+![[robocza 3-43.webp]]
+
+![[robocza 3-44.webp]]
+
+![[robocza 3-45.webp]]
