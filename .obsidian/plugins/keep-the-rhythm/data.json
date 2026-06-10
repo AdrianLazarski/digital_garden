@@ -1764,6 +1764,38 @@
           }
         ],
         "id": 267
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "Skróty klawiszowe.md",
+        "wordCountStart": 204,
+        "charCountStart": 1888,
+        "changes": [],
+        "id": 268
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Akcesor.md",
+        "wordCountStart": 99,
+        "charCountStart": 832,
+        "changes": [],
+        "id": 269
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Właściwość (programowanie).md",
+        "wordCountStart": 91,
+        "charCountStart": 757,
+        "changes": [],
+        "id": 270
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Dziedziczenie (programowanie).md",
+        "wordCountStart": 89,
+        "charCountStart": 730,
+        "changes": [],
+        "id": 271
       }
     ]
   }
