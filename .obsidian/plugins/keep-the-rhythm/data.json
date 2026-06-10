@@ -1751,7 +1751,18 @@
         "filePath": "02 MOC/MOC IT/MOC Typy danych.md",
         "wordCountStart": 190,
         "charCountStart": 1540,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 267
       }
     ]

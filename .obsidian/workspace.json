@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,6 +130,27 @@
     "type": "split",
     "children": [
       {
+        "id": "fa64bb85678b0d93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d17179836c30f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
+            }
+          }
+        ]
+      },
+      {
         "id": "3ceb2b4b38599e44",
         "type": "tabs",
         "children": [
@@ -190,32 +211,18 @@
             }
           },
           {
-            "id": "35d17179836c30f8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tagi"
-            }
-          },
-          {
             "id": "07133ca3d150880e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 MOC/MOC IT/MOC Typy danych.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt"
+              "title": "Konspekt MOC Typy danych"
             }
           },
           {
@@ -265,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       },
       {
         "id": "8c1b3e4bb76e9e78",
@@ -306,7 +313,7 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "180c24419c3d71cd",
+  "active": "35d17179836c30f8",
   "lastOpenFiles": [
     "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Klasa (programowanie).md",
