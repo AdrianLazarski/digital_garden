@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "inekser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -331,7 +331,7 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "60ad33380da8ca53",
+  "active": "5f3082bf1e46927d",
   "lastOpenFiles": [
     "03 Atomy/Struktura w C Sharp.md",
     "03 Atomy/Typy danych w C Sharp.md",
