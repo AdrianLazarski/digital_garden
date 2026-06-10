@@ -1731,6 +1731,28 @@
         "charCountStart": 510,
         "changes": [],
         "id": 265
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Klasa (programowanie).md",
+        "wordCountStart": 62,
+        "charCountStart": 541,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 8,
+            "c": 65
+          }
+        ],
+        "id": 266
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "02 MOC/MOC IT/MOC Typy danych.md",
+        "wordCountStart": 190,
+        "charCountStart": 1540,
+        "changes": [],
+        "id": 267
       }
     ]
   }
