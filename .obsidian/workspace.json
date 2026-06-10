@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Polimorfizm (programowanie)"
             }
+          },
+          {
+            "id": "60ad33380da8ca53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Struktura w C Sharp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Struktura w C Sharp"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polimorfizm",
+                "query": "struct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Polimorfizm (programowanie).md",
+                "file": "03 Atomy/Struktura w C Sharp.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Polimorfizm (programowanie)"
+              "title": "Konspekt Struktura w C Sharp"
             }
           },
           {
@@ -306,8 +331,10 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "a4cf7f4d992a4f52",
+  "active": "60ad33380da8ca53",
   "lastOpenFiles": [
+    "03 Atomy/Typy danych w C Sharp.md",
+    "03 Atomy/Polimorfizm (programowanie).md",
     "03 Atomy/Dziedziczenie (programowanie).md",
     "03 Atomy/Właściwość (programowanie).md",
     "03 Atomy/Akcesor.md",
@@ -344,8 +371,6 @@
     "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Ludzkie działanie.md",
     "03 Atomy/Układ równań liniowych.md",
     "03 Atomy/Wzór Cramera.md",
-    "00 Daily log/20-04-2026.md",
-    "00 Daily log/27-04-2026.md",
     "00 Daily log/20-04-2026.md.edtz",
     "00 Daily log/27-04-2026.md.edtz",
     "03 Atomy/Wzór Cramera.md.edtz",
