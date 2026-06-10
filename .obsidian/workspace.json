@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9aa06a0f65480338",
+            "id": "a4cf7f4d992a4f52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robocza 3.md",
+                "file": "03 Atomy/Metodyka programowania.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "robocza 3"
+              "title": "Metodyka programowania"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "macierz",
+                "query": "metodyka",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Zakładki"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -260,8 +261,9 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "9aa06a0f65480338",
+  "active": "a4cf7f4d992a4f52",
   "lastOpenFiles": [
+    "robocza 3.md",
     "załączniki/robocza 3-88.webp",
     "załączniki/robocza 3-87.webp",
     "załączniki/robocza 3-86.webp",
@@ -272,10 +274,8 @@
     "załączniki/robocza 3-81.webp",
     "załączniki/robocza 3-80.webp",
     "załączniki/robocza 3-79.webp",
-    "załączniki/robocza 3-78.webp",
     "robocza 3.md.edtz",
     "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md",
-    "robocza 3.md",
     "03 Atomy/Dopełnienie algebraiczne.md",
     "03 Atomy/Algorytm Gaussa do obliczania wyznaczników macierzy.md",
     "Gotowanie/Pranie ciemne.md",
