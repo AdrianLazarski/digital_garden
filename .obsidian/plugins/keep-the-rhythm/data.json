@@ -1683,6 +1683,54 @@
         "charCountStart": 907,
         "changes": [],
         "id": 259
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "02 MOC/MOC IT/MOC Metodyka programowania.md",
+        "wordCountStart": 100,
+        "charCountStart": 1255,
+        "changes": [],
+        "id": 260
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Nadtypy paradygmatów.md",
+        "wordCountStart": 202,
+        "charCountStart": 1756,
+        "changes": [],
+        "id": 261
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Programowanie typu imperatywnego.md",
+        "wordCountStart": 143,
+        "charCountStart": 1272,
+        "changes": [],
+        "id": 262
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Programowanie typu funkcyjnego.md",
+        "wordCountStart": 141,
+        "charCountStart": 1202,
+        "changes": [],
+        "id": 263
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Programowanie typu logicznego.md",
+        "wordCountStart": 50,
+        "charCountStart": 447,
+        "changes": [],
+        "id": 264
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Programowanie typu opisowego.md",
+        "wordCountStart": 57,
+        "charCountStart": 510,
+        "changes": [],
+        "id": 265
       }
     ]
   }
