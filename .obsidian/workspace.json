@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -310,10 +310,10 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "251265f970743ac0",
+  "active": "429622746b07de3a",
   "lastOpenFiles": [
-    "03 Atomy/Programowanie typu opisowego.md",
     "02 MOC/MOC IT/MOC Metodyka programowania.md",
+    "03 Atomy/Programowanie typu opisowego.md",
     "03 Atomy/Programowanie typu imperatywnego.md",
     "03 Atomy/Programowanie typu logicznego.md",
     "03 Atomy/Programowanie typu funkcyjnego.md",
