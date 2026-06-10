@@ -30,8 +30,43 @@
               "icon": "lucide-file",
               "title": "Klasa (programowanie)"
             }
+          },
+          {
+            "id": "45f6e0e9946f1968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC IT/MOC Typy danych.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Typy danych"
+            }
+          },
+          {
+            "id": "c7ca9e6b88c01372",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "klasa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +119,7 @@
               "title": "Zakładki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,8 +253,19 @@
               "icon": "lucide-info",
               "title": "Atrybuty dla Pole statyczne (programowanie)"
             }
+          },
+          {
+            "id": "9b7738f6b12f4336",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       },
       {
         "id": "8c1b3e4bb76e9e78",
@@ -261,7 +306,7 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "a4cf7f4d992a4f52",
+  "active": "180c24419c3d71cd",
   "lastOpenFiles": [
     "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Klasa (programowanie).md",
