@@ -69,7 +69,8 @@
     "highestStreakEndDate": "",
     "daysWithCompletedGoal": [
       "2026-04-20",
-      "2026-04-27"
+      "2026-04-27",
+      "2026-06-09"
     ],
     "dailyActivity": [
       {
@@ -1264,6 +1265,577 @@
         "charCountStart": 25936,
         "changes": [],
         "id": 221
+      },
+      {
+        "date": "2026-05-28",
+        "filePath": "03 Atomy/C Sharp.md",
+        "wordCountStart": 3362,
+        "charCountStart": 25936,
+        "changes": [],
+        "id": 222
+      },
+      {
+        "date": "2026-05-28",
+        "filePath": "Gotowanie/Brokuł stir fry curry.md",
+        "wordCountStart": 282,
+        "charCountStart": 1780,
+        "changes": [],
+        "id": 223
+      },
+      {
+        "date": "2026-05-31",
+        "filePath": "Skróty klawiszowe.md",
+        "wordCountStart": 204,
+        "charCountStart": 1888,
+        "changes": [],
+        "id": 225
+      },
+      {
+        "date": "2026-05-31",
+        "filePath": "02 MOC/MOC IT/Klasyfikacje języków programowania.md",
+        "wordCountStart": 45,
+        "charCountStart": 420,
+        "changes": [],
+        "id": 226
+      },
+      {
+        "date": "2026-05-31",
+        "filePath": "03 Atomy/Metodyka programowania.md",
+        "wordCountStart": 101,
+        "charCountStart": 907,
+        "changes": [],
+        "id": 227
+      },
+      {
+        "date": "2026-05-31",
+        "filePath": "02 MOC/MOC IT/MOC Metodyka programowania.md",
+        "wordCountStart": 100,
+        "charCountStart": 1255,
+        "changes": [],
+        "id": 228
+      },
+      {
+        "date": "2026-05-31",
+        "filePath": "03 Atomy/Programowanie obiektowe.md",
+        "wordCountStart": 248,
+        "charCountStart": 2052,
+        "changes": [],
+        "id": 229
+      },
+      {
+        "date": "2026-05-31",
+        "filePath": "03 Atomy/Programowanie typu imperatywnego.md",
+        "wordCountStart": 143,
+        "charCountStart": 1272,
+        "changes": [],
+        "id": 230
+      },
+      {
+        "date": "2026-05-31",
+        "filePath": "03 Atomy/Nadtypy paradygmatów.md",
+        "wordCountStart": 202,
+        "charCountStart": 1756,
+        "changes": [],
+        "id": 231
+      },
+      {
+        "date": "2026-05-31",
+        "filePath": "03 Atomy/Typy metodyk programowania.md",
+        "wordCountStart": 52,
+        "charCountStart": 470,
+        "changes": [],
+        "id": 232
+      },
+      {
+        "date": "2026-05-31",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/Scholastyka.md",
+        "wordCountStart": 25,
+        "charCountStart": 209,
+        "changes": [],
+        "id": 233
+      },
+      {
+        "date": "2026-05-31",
+        "filePath": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Kartezjusz.md",
+        "wordCountStart": 797,
+        "charCountStart": 5695,
+        "changes": [],
+        "id": 234
+      },
+      {
+        "date": "2026-06-01",
+        "filePath": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Kartezjusz.md",
+        "wordCountStart": 797,
+        "charCountStart": 5695,
+        "changes": [],
+        "id": 235
+      },
+      {
+        "date": "2026-06-01",
+        "filePath": "03 Atomy/Metodyka programowania.md",
+        "wordCountStart": 101,
+        "charCountStart": 907,
+        "changes": [],
+        "id": 236
+      },
+      {
+        "date": "2026-06-01",
+        "filePath": "03 Atomy/Układ równań liniowych.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:25",
+            "w": 58,
+            "c": 405
+          },
+          {
+            "timeKey": "16:30",
+            "w": 99,
+            "c": 833
+          },
+          {
+            "timeKey": "17:10",
+            "w": 135,
+            "c": 1024
+          }
+        ],
+        "id": 237
+      },
+      {
+        "date": "2026-06-01",
+        "filePath": "03 Atomy/Wzór Cramera.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 95,
+            "c": 715
+          },
+          {
+            "timeKey": "17:50",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 238
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "Skróty klawiszowe.md",
+        "wordCountStart": 204,
+        "charCountStart": 1888,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 239
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "00 Daily log/27-04-2026.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 240
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "00 Daily log/20-04-2026.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 241
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "03 Atomy/Wzór Cramera.md",
+        "wordCountStart": 95,
+        "charCountStart": 717,
+        "changes": [],
+        "id": 242
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "03 Atomy/Układ równań liniowych.md",
+        "wordCountStart": 292,
+        "charCountStart": 2262,
+        "changes": [],
+        "id": 243
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "03 Atomy/Bramka logiczna.md",
+        "wordCountStart": 224,
+        "charCountStart": 1654,
+        "changes": [],
+        "id": 244
+      },
+      {
+        "date": "2026-06-02",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Ludzkie działanie.md",
+        "wordCountStart": 8457,
+        "charCountStart": 63840,
+        "changes": [],
+        "id": 245
+      },
+      {
+        "date": "2026-06-03",
+        "filePath": "03 Atomy/Bramka logiczna.md",
+        "wordCountStart": 224,
+        "charCountStart": 1654,
+        "changes": [],
+        "id": 246
+      },
+      {
+        "date": "2026-06-03",
+        "filePath": "Gotowanie/Pieczony kalafior Orzo.md",
+        "wordCountStart": 200,
+        "charCountStart": 1234,
+        "changes": [],
+        "id": 247
+      },
+      {
+        "date": "2026-06-03",
+        "filePath": "Gotowanie/Bez nazwy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 248
+      },
+      {
+        "date": "2026-06-03",
+        "filePath": "Gotowanie/Pranie ciemne.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": 9,
+            "c": 56
+          }
+        ],
+        "id": 249
+      },
+      {
+        "date": "2026-06-03",
+        "filePath": "03 Atomy/Algorytm Gaussa do obliczania wyznaczników macierzy.md",
+        "wordCountStart": 115,
+        "charCountStart": 787,
+        "changes": [],
+        "id": 250
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "03 Atomy/Algorytm Gaussa do obliczania wyznaczników macierzy.md",
+        "wordCountStart": 115,
+        "charCountStart": 787,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 251
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "03 Atomy/Algorytm Gaussa do obliczania wyznaczników macierzy.md",
+        "wordCountStart": 115,
+        "charCountStart": 787,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 252
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md",
+        "wordCountStart": 124,
+        "charCountStart": 861,
+        "changes": [],
+        "id": 253
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "03 Atomy/Dopełnienie algebraiczne.md",
+        "wordCountStart": 70,
+        "charCountStart": 517,
+        "changes": [],
+        "id": 254
+      },
+      {
+        "date": "2026-06-05",
+        "filePath": "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md",
+        "wordCountStart": 124,
+        "charCountStart": 861,
+        "changes": [],
+        "id": 255
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md",
+        "wordCountStart": 124,
+        "charCountStart": 861,
+        "changes": [],
+        "id": 256
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "robocza 3.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": 243,
+            "c": 1806
+          },
+          {
+            "timeKey": "16:10",
+            "w": 16,
+            "c": 93
+          },
+          {
+            "timeKey": "16:25",
+            "w": 28,
+            "c": 162
+          },
+          {
+            "timeKey": "16:35",
+            "w": 20,
+            "c": 119
+          },
+          {
+            "timeKey": "16:40",
+            "w": 24,
+            "c": 139
+          },
+          {
+            "timeKey": "16:45",
+            "w": 36,
+            "c": 207
+          },
+          {
+            "timeKey": "16:50",
+            "w": 18,
+            "c": 106
+          },
+          {
+            "timeKey": "17:00",
+            "w": 240,
+            "c": 1944
+          },
+          {
+            "timeKey": "17:05",
+            "w": 46,
+            "c": 387
+          },
+          {
+            "timeKey": "17:10",
+            "w": 12,
+            "c": 71
+          },
+          {
+            "timeKey": "17:15",
+            "w": 28,
+            "c": 163
+          },
+          {
+            "timeKey": "17:20",
+            "w": 32,
+            "c": 186
+          },
+          {
+            "timeKey": "18:10",
+            "w": 80,
+            "c": 471
+          },
+          {
+            "timeKey": "18:15",
+            "w": 8,
+            "c": 46
+          }
+        ],
+        "id": 257
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "robocza 3.md",
+        "wordCountStart": 831,
+        "charCountStart": 5900,
+        "changes": [],
+        "id": 258
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Metodyka programowania.md",
+        "wordCountStart": 101,
+        "charCountStart": 907,
+        "changes": [],
+        "id": 259
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "02 MOC/MOC IT/MOC Metodyka programowania.md",
+        "wordCountStart": 100,
+        "charCountStart": 1255,
+        "changes": [],
+        "id": 260
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Nadtypy paradygmatów.md",
+        "wordCountStart": 202,
+        "charCountStart": 1756,
+        "changes": [],
+        "id": 261
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Programowanie typu imperatywnego.md",
+        "wordCountStart": 143,
+        "charCountStart": 1272,
+        "changes": [],
+        "id": 262
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Programowanie typu funkcyjnego.md",
+        "wordCountStart": 141,
+        "charCountStart": 1202,
+        "changes": [],
+        "id": 263
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Programowanie typu logicznego.md",
+        "wordCountStart": 50,
+        "charCountStart": 447,
+        "changes": [],
+        "id": 264
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Programowanie typu opisowego.md",
+        "wordCountStart": 57,
+        "charCountStart": 510,
+        "changes": [],
+        "id": 265
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Klasa (programowanie).md",
+        "wordCountStart": 62,
+        "charCountStart": 541,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 8,
+            "c": 65
+          }
+        ],
+        "id": 266
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "02 MOC/MOC IT/MOC Typy danych.md",
+        "wordCountStart": 190,
+        "charCountStart": 1540,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 267
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "Skróty klawiszowe.md",
+        "wordCountStart": 204,
+        "charCountStart": 1888,
+        "changes": [],
+        "id": 268
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Akcesor.md",
+        "wordCountStart": 99,
+        "charCountStart": 832,
+        "changes": [],
+        "id": 269
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Właściwość (programowanie).md",
+        "wordCountStart": 91,
+        "charCountStart": 757,
+        "changes": [],
+        "id": 270
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Dziedziczenie (programowanie).md",
+        "wordCountStart": 89,
+        "charCountStart": 730,
+        "changes": [],
+        "id": 271
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Polimorfizm (programowanie).md",
+        "wordCountStart": 45,
+        "charCountStart": 396,
+        "changes": [],
+        "id": 272
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Typy danych w C Sharp.md",
+        "wordCountStart": 316,
+        "charCountStart": 3424,
+        "changes": [],
+        "id": 273
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Struktura w C Sharp.md",
+        "wordCountStart": 183,
+        "charCountStart": 1458,
+        "changes": [],
+        "id": 274
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Indekser.md",
+        "wordCountStart": 238,
+        "charCountStart": 1937,
+        "changes": [],
+        "id": 275
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "03 Atomy/Konstruktor.md",
+        "wordCountStart": 118,
+        "charCountStart": 995,
+        "changes": [],
+        "id": 276
       }
     ]
   }

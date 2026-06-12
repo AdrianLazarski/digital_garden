@@ -1836,6 +1836,28 @@
         "charCountStart": 995,
         "changes": [],
         "id": 276
+      },
+      {
+        "date": "2026-06-12",
+        "filePath": "03 Atomy/Konstruktor.md",
+        "wordCountStart": 118,
+        "charCountStart": 995,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 277
+      },
+      {
+        "date": "2026-06-12",
+        "filePath": "03 Atomy/Konstruktor.md",
+        "wordCountStart": 118,
+        "charCountStart": 995,
+        "changes": [],
+        "id": 278
       }
     ]
   }
