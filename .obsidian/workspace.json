@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Konstruktor.md",
+                "file": "Gotowanie/Bez nazwy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Konstruktor"
+              "title": "Bez nazwy"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "konstruktor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,8 +109,7 @@
               "title": "Zakładki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Konstruktor.md",
+                "file": "Gotowanie/Bez nazwy.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Konstruktor"
+              "title": "Konspekt Bez nazwy"
             }
           },
           {
@@ -333,8 +332,8 @@
   },
   "active": "60ad33380da8ca53",
   "lastOpenFiles": [
-    "03 Atomy/Polimorfizm (programowanie).md",
     "03 Atomy/Konstruktor.md",
+    "03 Atomy/Polimorfizm (programowanie).md",
     "03 Atomy/Indekser.md",
     "03 Atomy/Typy danych w C Sharp.md",
     "03 Atomy/Struktura w C Sharp.md",

@@ -1882,6 +1882,33 @@
         "charCountStart": 396,
         "changes": [],
         "id": 281
+      },
+      {
+        "date": "2026-06-16",
+        "filePath": "03 Atomy/Konstruktor.md",
+        "wordCountStart": 118,
+        "charCountStart": 995,
+        "changes": [],
+        "id": 282
+      },
+      {
+        "date": "2026-06-16",
+        "filePath": "Gotowanie/Bez nazwy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 445,
+            "c": 2588
+          },
+          {
+            "timeKey": "17:10",
+            "w": -88,
+            "c": -438
+          }
+        ],
+        "id": 283
       }
     ]
   }
