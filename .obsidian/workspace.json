@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gotowanie/Bez nazwy.md",
+                "file": "Gotowanie/Gnocchi z sosem pieczarkowym.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bez nazwy"
+              "title": "Gnocchi z sosem pieczarkowym"
             }
           }
         ],
@@ -232,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gotowanie/Bez nazwy.md",
+                "file": "Gotowanie/Gnocchi z sosem pieczarkowym.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Bez nazwy"
+              "title": "Konspekt Gnocchi z sosem pieczarkowym"
             }
           },
           {
@@ -330,7 +330,7 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "60ad33380da8ca53",
+  "active": "180c24419c3d71cd",
   "lastOpenFiles": [
     "03 Atomy/Konstruktor.md",
     "03 Atomy/Polimorfizm (programowanie).md",
@@ -367,14 +367,14 @@
     "03 Atomy/Algorytm Gaussa do obliczania wyznaczników macierzy.md",
     "Gotowanie/Pranie ciemne.md",
     "Gotowanie/Pranie ciemne.md.edtz",
-    "Gotowanie/Bez nazwy.md",
+    "Gotowanie/Gnocchi z sosem pieczarkowym.md",
     "Gotowanie/Pieczony kalafior Orzo.md",
     "03 Atomy/Bramka logiczna.md",
     "00 Daily log/20-04-2026.md.edtz",
     "00 Daily log/27-04-2026.md.edtz",
     "03 Atomy/Wzór Cramera.md.edtz",
     "03 Atomy/Układ równań liniowych.md.edtz",
-    "Gotowanie/Bez nazwy.md.edtz",
+    "Gotowanie/Gnocchi z sosem pieczarkowym.md.edtz",
     "03 Atomy/Algorytm kompresji bezstratnej LZ77.md.edtz",
     "03 Atomy/Algorytm kompresji bezstratnej LZ.md.edtz",
     "03 Atomy/Implementacja liczb zespolonych w C Sharp.md.edtz"
