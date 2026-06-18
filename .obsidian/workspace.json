@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plany obsydianowe.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plany obsydianowe"
+              "title": "Tupy, Pooley, Superobfitość"
             }
           }
         ],
@@ -232,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plany obsydianowe.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Plany obsydianowe"
+              "title": "Konspekt Tupy, Pooley, Superobfitość"
             }
           },
           {
@@ -332,6 +332,7 @@
   },
   "active": "60ad33380da8ca53",
   "lastOpenFiles": [
+    "Plany obsydianowe.md",
     "Gotowanie/Gnocchi z sosem pieczarkowym.md",
     "03 Atomy/Konstruktor.md",
     "03 Atomy/Polimorfizm (programowanie).md",
@@ -369,7 +370,6 @@
     "Gotowanie/Pranie ciemne.md",
     "Gotowanie/Pranie ciemne.md.edtz",
     "Gotowanie/Pieczony kalafior Orzo.md",
-    "03 Atomy/Bramka logiczna.md",
     "00 Daily log/20-04-2026.md.edtz",
     "00 Daily log/27-04-2026.md.edtz",
     "03 Atomy/Wzór Cramera.md.edtz",
