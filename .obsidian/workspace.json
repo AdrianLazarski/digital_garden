@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gotowanie/Gnocchi z sosem pieczarkowym.md",
+                "file": "Plany obsydianowe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gnocchi z sosem pieczarkowym"
+              "title": "Plany obsydianowe"
             }
           }
         ],
@@ -232,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gotowanie/Gnocchi z sosem pieczarkowym.md",
+                "file": "Plany obsydianowe.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Gnocchi z sosem pieczarkowym"
+              "title": "Konspekt Plany obsydianowe"
             }
           },
           {
@@ -330,8 +330,9 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "180c24419c3d71cd",
+  "active": "60ad33380da8ca53",
   "lastOpenFiles": [
+    "Gotowanie/Gnocchi z sosem pieczarkowym.md",
     "03 Atomy/Konstruktor.md",
     "03 Atomy/Polimorfizm (programowanie).md",
     "03 Atomy/Indekser.md",
@@ -367,7 +368,6 @@
     "03 Atomy/Algorytm Gaussa do obliczania wyznaczników macierzy.md",
     "Gotowanie/Pranie ciemne.md",
     "Gotowanie/Pranie ciemne.md.edtz",
-    "Gotowanie/Gnocchi z sosem pieczarkowym.md",
     "Gotowanie/Pieczony kalafior Orzo.md",
     "03 Atomy/Bramka logiczna.md",
     "00 Daily log/20-04-2026.md.edtz",
