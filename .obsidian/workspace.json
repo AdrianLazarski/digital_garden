@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Semantyka światów możliwych.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tupy, Pooley, Superobfitość"
+              "title": "Semantyka światów możliwych"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "możliwych",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +109,8 @@
               "title": "Zakładki"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Semantyka światów możliwych.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Tupy, Pooley, Superobfitość"
+              "title": "Konspekt Semantyka światów możliwych"
             }
           },
           {
@@ -332,6 +333,8 @@
   },
   "active": "60ad33380da8ca53",
   "lastOpenFiles": [
+    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Moritz Schlik.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
     "Plany obsydianowe.md",
     "Gotowanie/Gnocchi z sosem pieczarkowym.md",
     "03 Atomy/Konstruktor.md",
@@ -367,9 +370,7 @@
     "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md",
     "03 Atomy/Dopełnienie algebraiczne.md",
     "03 Atomy/Algorytm Gaussa do obliczania wyznaczników macierzy.md",
-    "Gotowanie/Pranie ciemne.md",
     "Gotowanie/Pranie ciemne.md.edtz",
-    "Gotowanie/Pieczony kalafior Orzo.md",
     "00 Daily log/20-04-2026.md.edtz",
     "00 Daily log/27-04-2026.md.edtz",
     "03 Atomy/Wzór Cramera.md.edtz",
