@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4cf7f4d992a4f52",
+            "id": "f1686573b8d84bfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gotowanie/Pranie ciemne.md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pranie ciemne"
+              "title": "Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii"
+            }
+          },
+          {
+            "id": "3de69c74f0e1a1cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aktualnie opracowywane.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Aktualnie opracowywane"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "możliwych",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gotowanie/Pranie ciemne.md",
+                "file": "Aktualnie opracowywane.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Pranie ciemne"
+              "title": "Konspekt Aktualnie opracowywane"
             }
           },
           {
@@ -305,8 +330,11 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "a4cf7f4d992a4f52",
+  "active": "3de69c74f0e1a1cc",
   "lastOpenFiles": [
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
+    "Statusy notatek.md",
+    "Gotowanie/Pranie ciemne.md",
     "03 Atomy/Polimorfizm (programowanie).md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Semantyka światów możliwych.md",
     "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Moritz Schlik.md",
@@ -330,7 +358,6 @@
     "03 Atomy/Programowanie typu imperatywnego.md",
     "03 Atomy/Programowanie typu logicznego.md",
     "03 Atomy/Programowanie typu funkcyjnego.md",
-    "robocza 3.md",
     "załączniki/robocza 3-88.webp",
     "załączniki/robocza 3-87.webp",
     "załączniki/robocza 3-86.webp",
@@ -342,8 +369,6 @@
     "załączniki/robocza 3-80.webp",
     "załączniki/robocza 3-79.webp",
     "robocza 3.md.edtz",
-    "03 Atomy/Rozwinięcie Laplace'a wyznacznika.md",
-    "03 Atomy/Dopełnienie algebraiczne.md",
     "Gotowanie/Pranie ciemne.md.edtz",
     "00 Daily log/20-04-2026.md.edtz",
     "00 Daily log/27-04-2026.md.edtz",
