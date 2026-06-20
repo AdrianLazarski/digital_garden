@@ -2024,6 +2024,62 @@
           }
         ],
         "id": 296
+      },
+      {
+        "date": "2026-06-20",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/1. Ewangelia św. Mateusza.md",
+        "wordCountStart": 126,
+        "charCountStart": 796,
+        "changes": [],
+        "id": 297
+      },
+      {
+        "date": "2026-06-20",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/2. Ewangelia św. Marka.md",
+        "wordCountStart": 70,
+        "charCountStart": 537,
+        "changes": [],
+        "id": 298
+      },
+      {
+        "date": "2026-06-20",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/4. Ewangelia św. Jana.md",
+        "wordCountStart": 53,
+        "charCountStart": 443,
+        "changes": [],
+        "id": 299
+      },
+      {
+        "date": "2026-06-20",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Apokatastaza.md",
+        "wordCountStart": 251,
+        "charCountStart": 1699,
+        "changes": [],
+        "id": 300
+      },
+      {
+        "date": "2026-06-20",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Ewangelie synoptyczne.md",
+        "wordCountStart": 1,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 301
+      },
+      {
+        "date": "2026-06-20",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Historyczność Jezusa.md",
+        "wordCountStart": 437,
+        "charCountStart": 3095,
+        "changes": [],
+        "id": 302
+      },
+      {
+        "date": "2026-06-20",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Państwo w Biblii.md",
+        "wordCountStart": 836,
+        "charCountStart": 5128,
+        "changes": [],
+        "id": 303
       }
     ]
   }

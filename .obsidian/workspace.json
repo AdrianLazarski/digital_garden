@@ -83,10 +83,24 @@
             "id": "c5e6b2d41f6ec86c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Państwo w Biblii.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "Państwo w Biblii"
             }
           }
         ],
@@ -143,8 +157,7 @@
               "title": "Zakładki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,12 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Państwo w Biblii.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt"
+              "title": "Konspekt Państwo w Biblii"
             }
           },
           {
@@ -366,6 +380,12 @@
   },
   "active": "c5e6b2d41f6ec86c",
   "lastOpenFiles": [
+    "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Ewangelie synoptyczne.md",
+    "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Historyczność Jezusa.md",
+    "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Apokatastaza.md",
+    "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/4. Ewangelia św. Jana.md",
+    "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/2. Ewangelia św. Marka.md",
+    "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/1. Ewangelia św. Mateusza.md",
     "Książki/Stefanowicz Bogdan, Informacja.md",
     "Aktualnie opracowywane.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
@@ -386,12 +406,6 @@
     "03 Atomy/Akcesor.md",
     "03 Atomy/Klasa (programowanie).md",
     "02 MOC/MOC IT/MOC Typy danych.md",
-    "Skróty klawiszowe.md",
-    "03 Atomy/Metodyka programowania.md",
-    "02 MOC/MOC IT/MOC Metodyka programowania.md",
-    "03 Atomy/Nadtypy paradygmatów.md",
-    "03 Atomy/Programowanie typu opisowego.md",
-    "03 Atomy/Programowanie typu imperatywnego.md",
     "załączniki/robocza 3-88.webp",
     "załączniki/robocza 3-87.webp",
     "załączniki/robocza 3-86.webp",
