@@ -22,4 +22,11 @@ rok: "2004"
 	- semantyczna wykładnia informacji, Józef Oleński, 2011
 - Wszystkie te teorie zwracały uwagę tylko na wybrany aspekt informacji i unikały wyjaśnienia jej istoty.
 - Często traktuje się informację jako pojęcie pierwotne.
+
+## 1. Informacja. Komunikat. Dana
+
+- Trzy różne podejścia do pojęcia informacji:
+	1. Informacja jako pojęcie pierwotne
+	2. Termin definiowany na podstawie pewnych zasad dostosowanych do potrzeb danej dziedziny badawczej, na ogół z odwołaniem się do innych znanych pojęć, jak np. prawdopodobieństwo.
+	3. Termin opisywany/interpretowany przez jego cechy, własności funkcje.
 - 

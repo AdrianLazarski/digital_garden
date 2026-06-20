@@ -2005,6 +2005,25 @@
         "charCountStart": 874,
         "changes": [],
         "id": 295
+      },
+      {
+        "date": "2026-06-20",
+        "filePath": "Książki/Stefanowicz Bogdan, Informacja.md",
+        "wordCountStart": 97,
+        "charCountStart": 822,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 7,
+            "c": 57
+          },
+          {
+            "timeKey": "18:20",
+            "w": 42,
+            "c": 316
+          }
+        ],
+        "id": 296
       }
     ]
   }

@@ -54,9 +54,43 @@
               "icon": "lucide-file",
               "title": "Aktualnie opracowywane"
             }
+          },
+          {
+            "id": "2919b44c2217466f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Książki/Stefanowicz Bogdan, Informacja.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stefanowicz Bogdan, Informacja"
+            }
+          },
+          {
+            "id": "c5e6b2d41f6ec86c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +143,8 @@
               "title": "Zakładki"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,13 +267,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aktualnie opracowywane.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Aktualnie opracowywane"
+              "title": "Konspekt"
             }
           },
           {
@@ -330,8 +364,10 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "3de69c74f0e1a1cc",
+  "active": "c5e6b2d41f6ec86c",
   "lastOpenFiles": [
+    "Książki/Stefanowicz Bogdan, Informacja.md",
+    "Aktualnie opracowywane.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
     "Statusy notatek.md",
     "Gotowanie/Pranie ciemne.md",
@@ -356,8 +392,6 @@
     "03 Atomy/Nadtypy paradygmatów.md",
     "03 Atomy/Programowanie typu opisowego.md",
     "03 Atomy/Programowanie typu imperatywnego.md",
-    "03 Atomy/Programowanie typu logicznego.md",
-    "03 Atomy/Programowanie typu funkcyjnego.md",
     "załączniki/robocza 3-88.webp",
     "załączniki/robocza 3-87.webp",
     "załączniki/robocza 3-86.webp",
