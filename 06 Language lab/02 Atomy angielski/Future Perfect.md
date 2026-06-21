@@ -16,4 +16,4 @@ Do określania czynności, która skończy się zanim zacznie się następna czy
 	I will have finished the book before he comes back.
 
 Do określania czynności, która zakończy się przed pewnym określonym czasem (punktem) w przyszłości.
-	Three hours from now, the cinma wile be empty. The film will have finished.
+	Three hours from now, the cinema will be empty. The film will have finished.
