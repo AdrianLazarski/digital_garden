@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Language lab/02 Atomy angielski/Past Simple vs Past Perfect.md",
+                "file": "06 Language lab/02 Atomy angielski/Present Perfect Continious.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Past Simple vs Past Perfect"
+              "title": "Present Perfect Continious"
             }
           }
         ],
@@ -304,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Language lab/02 Atomy angielski/Past Simple vs Past Perfect.md",
+                "file": "06 Language lab/02 Atomy angielski/Present Perfect Continious.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Past Simple vs Past Perfect"
+              "title": "Konspekt Present Perfect Continious"
             }
           },
           {
@@ -404,8 +404,9 @@
   },
   "active": "a201620e504650c9",
   "lastOpenFiles": [
-    "06 Language lab/02 Atomy angielski/Past Perfect.md",
     "06 Language lab/01 MOC Angielski/MOC Czasy angielskie.md",
+    "06 Language lab/02 Atomy angielski/Past Perfect.md",
+    "06 Language lab/02 Atomy angielski/Past Simple vs Past Perfect.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
     "02 MOC/MOC Matematyka/MOC Rodzaje zbiorów.md",
     "03 Atomy/Struktura danych.md",
@@ -429,7 +430,6 @@
     "Plany obsydianowe.md",
     "Gotowanie/Gnocchi z sosem pieczarkowym.md",
     "03 Atomy/Konstruktor.md",
-    "03 Atomy/Indekser.md",
     "załączniki/robocza 3-88.webp",
     "załączniki/robocza 3-87.webp",
     "załączniki/robocza 3-86.webp",
