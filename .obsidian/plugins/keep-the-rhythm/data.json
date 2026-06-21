@@ -70,7 +70,8 @@
     "daysWithCompletedGoal": [
       "2026-04-20",
       "2026-04-27",
-      "2026-06-09"
+      "2026-06-09",
+      "2026-06-21"
     ],
     "dailyActivity": [
       {
@@ -2128,6 +2129,20 @@
         "charCountStart": 411,
         "changes": [],
         "id": 309
+      },
+      {
+        "date": "2026-06-21",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
+        "wordCountStart": 2837,
+        "charCountStart": 20020,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 810,
+            "c": 5826
+          }
+        ],
+        "id": 310
       }
     ]
   }
