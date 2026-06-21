@@ -38,7 +38,6 @@ Opisuje się tak krótkie czynności, które miały miejsce jedna po drugie.
 
 ### 3 Opis czynności, która zaczęła się, trochę trwała  i skończyła w przeszłości
 
-- He woke up, brushed his teeth, put on his clothes and ran out of the house.
 - I watched TV all weekend.
 - We sat on the beach all day.
 

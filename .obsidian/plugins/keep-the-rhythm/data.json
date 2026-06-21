@@ -2175,6 +2175,44 @@
         "charCountStart": 1601,
         "changes": [],
         "id": 314
+      },
+      {
+        "date": "2026-06-21",
+        "filePath": "06 Language lab/02 Atomy angielski/Present Continious vs Present Perfect Continios.md",
+        "wordCountStart": 48,
+        "charCountStart": 358,
+        "changes": [],
+        "id": 315
+      },
+      {
+        "date": "2026-06-21",
+        "filePath": "06 Language lab/02 Atomy angielski/Past Perfect Continious.md",
+        "wordCountStart": 89,
+        "charCountStart": 587,
+        "changes": [],
+        "id": 316
+      },
+      {
+        "date": "2026-06-21",
+        "filePath": "06 Language lab/02 Atomy angielski/Past Simple.md",
+        "wordCountStart": 298,
+        "charCountStart": 1821,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": -16,
+            "c": -78
+          }
+        ],
+        "id": 317
+      },
+      {
+        "date": "2026-06-21",
+        "filePath": "06 Language lab/02 Atomy angielski/Past Continious.md",
+        "wordCountStart": 238,
+        "charCountStart": 1453,
+        "changes": [],
+        "id": 318
       }
     ]
   }
