@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Skousen Mark, Narodziny współczesnej ekonomii"
+              "title": "Konspekt Tupy, Pooley, Superobfitość"
             }
           },
           {
@@ -379,8 +379,9 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "7f09980386056819",
+  "active": "5d4372c48138f5f0",
   "lastOpenFiles": [
+    "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
     "06 Language lab/02 Atomy angielski/Future Simple.md",
     "06 Language lab/02 Atomy angielski/Future Continious.md",
@@ -406,7 +407,6 @@
     "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/1. Ewangelia św. Mateusza.md",
     "Książki/Stefanowicz Bogdan, Informacja.md",
     "Aktualnie opracowywane.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
     "załączniki/robocza 3-88.webp",
     "załączniki/robocza 3-87.webp",
     "załączniki/robocza 3-86.webp",
