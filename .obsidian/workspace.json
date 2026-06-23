@@ -104,27 +104,13 @@
             }
           },
           {
-            "id": "2f090114fe0293ef",
+            "id": "d31df16aa05e37e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Caplan Bryan, Mit racjonalnego wyborcy"
+              "title": "Nowa karta"
             }
           }
         ],
@@ -160,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "caplan",
+                "query": "malth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -305,13 +291,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Caplan Bryan, Mit racjonalnego wyborcy"
+              "title": "Konspekt"
             }
           },
           {
@@ -403,10 +388,11 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "2f090114fe0293ef",
+  "active": "5f3082bf1e46927d",
   "lastOpenFiles": [
-    "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
     "06 Language lab/02 Atomy angielski/Future Simple.md",
     "06 Language lab/02 Atomy angielski/Future Continious.md",
     "06 Language lab/02 Atomy angielski/Future Perfect.md",
@@ -430,7 +416,6 @@
     "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/2. Ewangelia św. Marka.md",
     "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/1. Ewangelia św. Mateusza.md",
     "Książki/Stefanowicz Bogdan, Informacja.md",
-    "Aktualnie opracowywane.md",
     "załączniki/robocza 3-88.webp",
     "załączniki/robocza 3-87.webp",
     "załączniki/robocza 3-86.webp",
