@@ -102,9 +102,19 @@
               "icon": "lucide-file",
               "title": "Skousen Mark, Narodziny współczesnej ekonomii"
             }
+          },
+          {
+            "id": "2f090114fe0293ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "malt",
+                "query": "caplan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -281,13 +291,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Tupy, Pooley, Superobfitość"
+              "title": "Konspekt"
             }
           },
           {
@@ -379,10 +388,10 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "5d4372c48138f5f0",
+  "active": "5f3082bf1e46927d",
   "lastOpenFiles": [
-    "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
     "06 Language lab/02 Atomy angielski/Future Simple.md",
     "06 Language lab/02 Atomy angielski/Future Continious.md",
     "06 Language lab/02 Atomy angielski/Future Perfect.md",
