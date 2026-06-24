@@ -79,8 +79,7 @@
               "title": "Tupy, Pooley, Superobfitość"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skróty klawiszowe.md",
+                "file": "Gotowanie/Gnocchi z cukinią i marchewką.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Skróty klawiszowe"
+              "title": "Konspekt Gnocchi z cukinią i marchewką"
             }
           },
           {
@@ -354,8 +353,9 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "51f5c7af4dadd5ef",
+  "active": "d31df16aa05e37e8",
   "lastOpenFiles": [
+    "Skróty klawiszowe.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
     "Gotowanie/Gnocchi z cukinią i marchewką.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
@@ -381,7 +381,6 @@
     "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Apokatastaza.md",
     "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/4. Ewangelia św. Jana.md",
     "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/2. Ewangelia św. Marka.md",
-    "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/1. Ewangelia św. Mateusza.md",
     "załączniki/robocza 3-88.webp",
     "załączniki/robocza 3-87.webp",
     "załączniki/robocza 3-86.webp",
