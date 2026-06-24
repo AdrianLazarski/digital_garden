@@ -2321,6 +2321,25 @@
           }
         ],
         "id": 330
+      },
+      {
+        "date": "2026-06-24",
+        "filePath": "Gotowanie/Gnocchi z cukinią i marchewką.md",
+        "wordCountStart": 124,
+        "charCountStart": 821,
+        "changes": [
+          {
+            "timeKey": "09:25",
+            "w": 5,
+            "c": 38
+          },
+          {
+            "timeKey": "09:30",
+            "w": -2,
+            "c": -29
+          }
+        ],
+        "id": 331
       }
     ]
   }

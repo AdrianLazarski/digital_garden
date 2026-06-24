@@ -8,13 +8,15 @@ Składniki:
 Cukinia 1 mini lub 1 duża  
 Marchewka 2 średnie  
 Por 1 sztuka  
-Śmietanka 400 ml  
+Śmietanka 400 ml + Skyr sojowy 2 czubate łyżki /Puszka mleka kokosowego
 Woda 280 ml  
-Czosnek granulowany 3 łyżeczki Skyr sojowy 2 czubate łyżki  
+Czosnek granulowany 3 łyżeczki 
+
 Sól  
 Gnocchi 200 g.  
 Płatki drożdżowe 2 łyżki  
-Aromatyczne mielone ( wcześniejszy przepis )  
+Trochę cytryny
+Pokruszone tofu
   
 Sposób przygotowania:  
 1. Cukinie pokrój w plasterki i podsmaż na patelni z łyżeczką oliwy. Smaż do czasu aż mocno się zarumieni.  
