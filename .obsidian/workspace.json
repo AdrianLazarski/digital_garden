@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1686573b8d84bfe",
+            "id": "d31df16aa05e37e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
+                "file": "Gotowanie/Gnocchi z cukinią i marchewką.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii"
+              "title": "Gnocchi z cukinią i marchewką"
             }
           },
           {
@@ -78,57 +78,9 @@
               "icon": "lucide-file",
               "title": "Tupy, Pooley, Superobfitość"
             }
-          },
-          {
-            "id": "7f09980386056819",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Skousen Mark, Narodziny współczesnej ekonomii"
-            }
-          },
-          {
-            "id": "d31df16aa05e37e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gotowanie/Gnocchi z cukinią i marchewką.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gnocchi z cukinią i marchewką"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -304,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gotowanie/Gnocchi z cukinią i marchewką.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Gnocchi z cukinią i marchewką"
+              "title": "Konspekt Tupy, Pooley, Superobfitość"
             }
           },
           {
@@ -402,8 +354,9 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "d31df16aa05e37e8",
+  "active": "5d4372c48138f5f0",
   "lastOpenFiles": [
+    "Gotowanie/Gnocchi z cukinią i marchewką.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
@@ -429,7 +382,6 @@
     "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/4. Ewangelia św. Jana.md",
     "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/2. Ewangelia św. Marka.md",
     "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/1. Ewangelia św. Mateusza.md",
-    "Książki/Stefanowicz Bogdan, Informacja.md",
     "załączniki/robocza 3-88.webp",
     "załączniki/robocza 3-87.webp",
     "załączniki/robocza 3-86.webp",
