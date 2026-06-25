@@ -2362,7 +2362,13 @@
         "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
         "wordCountStart": 3647,
         "charCountStart": 25846,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 0,
+            "c": 2
+          }
+        ],
         "id": 334
       }
     ]
