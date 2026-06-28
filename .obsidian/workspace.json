@@ -257,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Pasted image 20250226215225.png",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Skousen Mark, Narodziny współczesnej ekonomii"
+              "title": "Konspekt Pasted image 20250226215225"
             }
           },
           {
@@ -355,13 +355,50 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "9c7ea2ea357e1243",
+  "floating": {
+    "id": "791d3240c1ee3348",
+    "type": "floating",
+    "children": [
+      {
+        "id": "09720b6d696ac742",
+        "type": "window",
+        "children": [
+          {
+            "id": "e9d07cd8c12710e9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "af92d3575297a041",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Pasted image 20250226215225.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20250226215225"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 300,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "af92d3575297a041",
   "lastOpenFiles": [
+    "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
     "Książki/Stefanowicz Bogdan, Informacja.md",
     "Gotowanie/Gnocchi z cukinią i marchewką.md",
     "Skróty klawiszowe.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
     "06 Language lab/02 Atomy angielski/Future Simple.md",
     "06 Language lab/02 Atomy angielski/Future Continious.md",
