@@ -355,43 +355,6 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "floating": {
-    "id": "791d3240c1ee3348",
-    "type": "floating",
-    "children": [
-      {
-        "id": "09720b6d696ac742",
-        "type": "window",
-        "children": [
-          {
-            "id": "e9d07cd8c12710e9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "af92d3575297a041",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Pasted image 20250226215225.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20250226215225"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 300,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "9c7ea2ea357e1243",
   "lastOpenFiles": [
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Pasted image 20250226215225.png",
