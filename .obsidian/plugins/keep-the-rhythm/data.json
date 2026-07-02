@@ -2970,7 +2970,7 @@
       },
       {
         "date": "2026-07-02",
-        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/01 Filozofia starożytna.md",
+        "filePath": "03 Atomy/Filozofia starożytna.md",
         "wordCountStart": 785,
         "charCountStart": 5917,
         "changes": [
@@ -2983,6 +2983,16 @@
             "timeKey": "22:20",
             "w": 1,
             "c": 29
+          },
+          {
+            "timeKey": "22:25",
+            "w": -2,
+            "c": -33
+          },
+          {
+            "timeKey": "22:30",
+            "w": -327,
+            "c": -2229
           }
         ],
         "id": 375
@@ -3010,6 +3020,11 @@
             "timeKey": "22:20",
             "w": 5,
             "c": 52
+          },
+          {
+            "timeKey": "22:25",
+            "w": -1,
+            "c": -3
           }
         ],
         "id": 377
@@ -3027,11 +3042,30 @@
           },
           {
             "timeKey": "22:25",
-            "w": 1,
-            "c": 14
+            "w": 6,
+            "c": 67
+          },
+          {
+            "timeKey": "22:30",
+            "w": 2,
+            "c": 24
           }
         ],
         "id": 378
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:25",
+            "w": 333,
+            "c": 2191
+          }
+        ],
+        "id": 379
       }
     ]
   }

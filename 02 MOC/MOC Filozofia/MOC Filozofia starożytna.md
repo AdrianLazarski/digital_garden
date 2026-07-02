@@ -10,7 +10,7 @@ modified date: 2026-07-02 22:15
 
 $\leftarrow$ [[Filozofia]]
 
-$\rightarrow$ [[01 Filozofia starożytna]]
+$\rightarrow$ [[Filozofia starożytna]]
 $\rightarrow$ [[MOC Filozofowie starożytni]]
 $\rightarrow$ [[MOC Starożytne szkoły filozoficzne]]
 

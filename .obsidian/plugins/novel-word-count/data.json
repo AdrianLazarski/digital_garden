@@ -78187,46 +78187,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Historia filozofii/01 Filozofia starożytna.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 736,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.453333333333333,
-      "characterCount": 5853,
-      "nonWhitespaceCharacterCount": 5103,
-      "newlineCount": 178,
-      "readingTimeInMinutes": 2.7773584905660376,
-      "linkCount": 102,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304396840,
-      "modifiedDate": 1783023865767,
-      "sizeInBytes": 6258,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.4633333333333334,
-        "wordCount": 739,
-        "characterCount": 5917,
-        "nonWhitespaceCharacterCount": 5166,
-        "newlineCount": 176
-      },
-      "frontmatter": {
-        "created": "2026-02-28 19:46",
-        "tags": [
-          "atom",
-          "filozofia/starożytna",
-          "filozofia/grecka",
-          "filozofia/rzymska",
-          "filozofia/historia_filozofii"
-        ],
-        "dojrzalosc": "Krzak 🌿",
-        "status_epistemiczny": "Uzasadniony ✅",
-        "modified date": "2026-07-02 22:16"
-      }
-    },
     "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Étienne Gilson.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -126825,20 +126785,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 19,
+      "wordCount": 18,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 213,
-      "nonWhitespaceCharacterCount": 189,
+      "pageCount": 0.06,
+      "characterCount": 210,
+      "nonWhitespaceCharacterCount": 187,
       "newlineCount": 11,
-      "readingTimeInMinutes": 0.07169811320754717,
+      "readingTimeInMinutes": 0.06792452830188679,
       "linkCount": 4,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1783023317144,
-      "modifiedDate": 1783023853187,
-      "sizeInBytes": 386,
+      "modifiedDate": 1783024198100,
+      "sizeInBytes": 383,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -126889,20 +126849,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 34,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 402,
+      "nonWhitespaceCharacterCount": 360,
+      "newlineCount": 24,
+      "readingTimeInMinutes": 0.12830188679245283,
+      "linkCount": 20,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783023871268,
-      "modifiedDate": 1783023871268,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783024411622,
+      "sizeInBytes": 619,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -126910,6 +126870,97 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-02 22:24",
+        "tags": [
+          "moc",
+          "filozofia/starożytna",
+          "filozofia/grecka",
+          "filozofia/rzymska"
+        ],
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-02 22:24"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 296,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9866666666666667,
+      "characterCount": 1988,
+      "nonWhitespaceCharacterCount": 1717,
+      "newlineCount": 110,
+      "readingTimeInMinutes": 1.1169811320754717,
+      "linkCount": 66,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783024079156,
+      "modifiedDate": 1783024174492,
+      "sizeInBytes": 2197,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-02 22:27",
+        "tags": [
+          "moc",
+          "filozofia/starożytna",
+          "filozofia/grecka",
+          "filozofia/rzymska"
+        ],
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-02 22:28"
+      }
+    },
+    "03 Atomy/Filozofia starożytna.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 423,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.41,
+      "characterCount": 3591,
+      "nonWhitespaceCharacterCount": 3136,
+      "newlineCount": 53,
+      "readingTimeInMinutes": 1.5962264150943397,
+      "linkCount": 21,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304396840,
+      "modifiedDate": 1783024379834,
+      "sizeInBytes": 3984,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "filozofia/starożytna",
+          "filozofia/grecka",
+          "filozofia/rzymska",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-02 22:16"
       }
     }
   }

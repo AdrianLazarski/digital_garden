@@ -3,17 +3,21 @@ created: 2026-07-02 22:24
 tags:
   - moc
   - filozofia/starożytna
-dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+  - filozofia/grecka
+  - filozofia/rzymska
+dojrzalosc: Krzak 🌿
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-02 22:24
 ---
+$\leftarrow$ [[Filozofia starożytna]]
+$\leftarrow$ [[MOC Filozofia starożytna]]
 
 [[Szkoła jońska]]
 	[[Szkoła mileacka]]
 [[Orfizm]]
 [[Pitagoreizm]]
 [[Szkoła eleacka]]
-[[Filozofia💭/Historia filozofii 🏛️/Atomizm|Atomizm]]
+[[Atomizm]]
 [[Eklektycy (Jonia i Elea)]]
 [[Sofiści]]
 [[Szkoły hellenistyczne]]
@@ -26,3 +30,4 @@ modified date: 2026-07-02 22:24
 [[Akademia Platońska]]
 [[Filozofia bizantyjska]]
 [[Stoicyzm]]
+
