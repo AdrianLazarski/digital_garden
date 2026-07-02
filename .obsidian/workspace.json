@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Działania na zbiorach.md",
+                "file": "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Działania na zbiorach"
+              "title": "MOC Własności funkcji"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -304,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC.md",
+                "file": "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC"
+              "title": "Konspekt MOC Własności funkcji"
             }
           },
           {
@@ -403,11 +403,14 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "370984ecf5520752",
+  "active": "777d8fce94750a25",
   "lastOpenFiles": [
-    "02 MOC/MOC Matematyka/MOC Działania na zbiorach.md",
-    "01 Input/Algebra zbiorów.md",
+    "02 MOC/MOC Matematyka/MOC Matematyka stosowana.md",
     "02 MOC/MOC.md",
+    "01 Input/Algebra zbiorów.md",
+    "02 MOC/MOC Matematyka/MOC Teoria informacji.md",
+    "02 MOC/MOC Matematyka/MOC Rodzaje sygnałów okresowych.md",
+    "02 MOC/MOC Matematyka/MOC Działania na zbiorach.md",
     "02 MOC/MOC Matematyka/MOC Algebra liniowa.md",
     "02 MOC/MOC Matematyka/MOC Algebra.md",
     "05 Bazy danych/Algebra baza.base",
@@ -432,11 +435,8 @@
     "02 MOC/MOC Matematyka/Struktura algebraiczna.md",
     "02 MOC/MOC Matematyka/MOC Kombinatoryka.md",
     "02 MOC/MOC Matematyka/MOC Matematyka dyskretna.md",
-    "02 MOC/MOC Matematyka/MOC Matematyka.md",
     "02 MOC/MOC.md.edtz",
-    "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Pasted image 20250226215225.png",
-    "Książki/Stefanowicz Bogdan, Informacja.md",
     "załączniki/robocza 3-88.webp",
     "załączniki/robocza 3-87.webp",
     "załączniki/robocza 3-86.webp",

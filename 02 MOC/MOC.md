@@ -12,9 +12,13 @@
 		[[MOC Analiza matematyczna]]
 		[[MOC Matematyka dyskretna]]
 			[[MOC Kombinatoryka]]
+		[[MOC Matematyka stosowana]]
+			[[MOC Teoria informacji]]
+			[[MOC Teoria gier]]
 		[[MOC Podstawy matematyki]]
 			$\rightarrow$ [[MOC Logika matematyczna]]
 			$\rightarrow$ [[MOC Teoria mnogości]] (czasem zaliczana do powyższej, ale traktowana też osobno)
+				$\rightarrow$ [[MOC Działania na zbiorach]]
 			$\rightarrow$ [[MOC Metamatematyka]] (leżącą na pograniczu tej pierwszej)
 			$\rightarrow$ [[MOC Teoria typów]]
 		[[MOC Statystyka]]

@@ -2470,8 +2470,13 @@
           },
           {
             "timeKey": "16:10",
-            "w": 5,
-            "c": 44
+            "w": 10,
+            "c": 92
+          },
+          {
+            "timeKey": "16:20",
+            "w": 9,
+            "c": 83
           }
         ],
         "id": 340
@@ -2734,6 +2739,62 @@
         "charCountStart": 1095,
         "changes": [],
         "id": 362
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Rodzaje sygnałów okresowych.md",
+        "wordCountStart": 47,
+        "charCountStart": 462,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 4,
+            "c": 42
+          }
+        ],
+        "id": 363
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Teoria informacji.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 31,
+            "c": 278
+          }
+        ],
+        "id": 364
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Matematyka stosowana.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 33,
+            "c": 281
+          }
+        ],
+        "id": 365
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
+        "wordCountStart": 94,
+        "charCountStart": 940,
+        "changes": [
+          {
+            "timeKey": "16:20",
+            "w": 11,
+            "c": 115
+          }
+        ],
+        "id": 366
       }
     ]
   }
