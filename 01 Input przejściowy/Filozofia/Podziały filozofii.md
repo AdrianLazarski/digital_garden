@@ -1,3 +1,10 @@
+---
+created: 2026-02-28 19:46
+tags: [atom, definicja]
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date : 2026-07-02 22:03
+---
 - Sam podział filozofii na działy jest problemem filozoficznym, więc nie ma jednego powszechnie przyjętego.
 - Podział filozofii na działy zależy od określenia jej przedmiotu, problematyki, metod i zadań oraz od celu samego podziału.
 - Podział [[Filozofia klasyczna|filozofii klasycznej]].
