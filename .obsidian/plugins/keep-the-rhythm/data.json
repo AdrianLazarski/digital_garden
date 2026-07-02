@@ -2927,6 +2927,11 @@
             "timeKey": "22:50",
             "w": 4,
             "c": 21
+          },
+          {
+            "timeKey": "23:20",
+            "w": -4,
+            "c": -21
           }
         ],
         "id": 371
@@ -3007,6 +3012,11 @@
             "timeKey": "22:55",
             "w": 11,
             "c": 96
+          },
+          {
+            "timeKey": "23:15",
+            "w": -3,
+            "c": -4
           }
         ],
         "id": 375
@@ -3054,6 +3064,11 @@
             "timeKey": "22:55",
             "w": 11,
             "c": 96
+          },
+          {
+            "timeKey": "23:15",
+            "w": -3,
+            "c": -4
           }
         ],
         "id": 377
@@ -3102,6 +3117,11 @@
             "timeKey": "22:25",
             "w": 333,
             "c": 2191
+          },
+          {
+            "timeKey": "23:10",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 379
@@ -3113,6 +3133,25 @@
         "charCountStart": 34582,
         "changes": [],
         "id": 380
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Tales z Miletu.md",
+        "wordCountStart": 651,
+        "charCountStart": 4432,
+        "changes": [
+          {
+            "timeKey": "23:15",
+            "w": 28,
+            "c": 261
+          },
+          {
+            "timeKey": "23:20",
+            "w": -10,
+            "c": -104
+          }
+        ],
+        "id": 381
       }
     ]
   }

@@ -31,7 +31,8 @@ modified date: 2026-07-02 22:16
 - Fantastyczne poematy Homera, które były podstawą wychowania i formacji duchowej Greków, unikały opisywania tego, co odrażające i szpetne, co u innych ludów się nie zdarzało. Pełne były poczucia harmonii, proporcji, granicy i miary, które okaże się stałą cechą filozofii greckiej.
 - Zawierały też bogate opisy psychologiczne, uzasadniające racje przebiegu zdarzeń. Akcja przebiega z wewnętrzną koniecznością, a nie była jakimś zbiorem luźno powiązanych scen. To poetycki przodek filozoficznego poszukiwania przyczyny.
 - Filozofia pojawiła się w jońskich koloniach, które cieszyły się dużą wolnością polityczną. Potem, już w samej Grecji, pojawiła się w demokratycznych Atenach, a więc najwolniejszym polis Grecji.
-- Filozofia starożytna to filozofia o całości G. Reale, *Historia filozofii starożytnej tom I*, Lublin 2000, s. 469-477.
+- Filozofia starożytna to filozofia o całości 
+	- G. Reale, *Historia filozofii starożytnej tom I*, Lublin 2000, s. 469-477.
 
 # Okresy filozofii starożytnej:
 
@@ -40,10 +41,10 @@ modified date: 2026-07-02 22:16
 	- Tatarkiewicz: oświecenie starożytne
 3. Okres wielkich syntez filozoficznych [[Platon|Platona]] i [[Arystoteles|Arystotelesa]]. IV w. przed Chr.
 	Tatarkiewicz: okres systemów starożytnych. Szczytowy okres filozofii starożytnej.
-4. [[Szkoły hellenistyczne]], [[Stoicyzm]], [[Epikureizm]], [[Sceptycyzm]] eklektyzm. Efekt podbicia Grecji przez Macedonię. III-I w. p.n.e. Głównym zainteresowaniem etyka.
+4. [[Szkoły hellenistyczne]], [[Stoicyzm]], [[Epikureizm]], [[Sceptycyzm]], eklektyzm. Efekt podbicia Grecji przez Macedonię. III-I w. p.n.e. Głównym zainteresowaniem etyka.
 5. Okres religijny: ożywienie stoicyzmu w Rzymie, chrześcijaństwo, [[Neoplatonizm]] Miało w nim miejsce pierwsze zetknięcie się objawienia biblijnego z kulturą helleńską w Aleksandrii. 
 	- Ateny i [[Akademia Platońska]] > Aleksandria < Jerozolima i Kościół
-	- Tatarkiewicz 5 okres nazywa po prostu synkretycznym.
+	- Tatarkiewicz 5. okres nazywa po prostu synkretycznym.
 6. Okres patrystyczny – czas, w którym filozoficzna spekulacja i filozoficzne pojęcia zostają złączone z religijną inspiracją chrześcijaństwa. To przestrzeń, w której wiara i Objawienie szukają racjonalnych uzasadnień i wyjaśnień dla całego zespołu zagadnień, jakie przyniosła chrześcijańska narracja religijna.
 
 # Nurty i filozofowie
@@ -54,7 +55,7 @@ modified date: 2026-07-02 22:16
 
 # Literatura
 
-Diogenes Laertios, *Żywoty i poglądy słynnych filozofów*, Warszawa 1982, s. 78-79.
+Diogenes Laertios, *Żywoty i poglądy słynnych filozofów*, Warszawa 1982.
 W. Tatarkiewicz, *Historia filozofii t. 1*, Warszawa 1998.
 F. Copleston, *Historia filozofii tom 1*, Warszawa 1998.
 G. Kirk, J. Raven, *Filozofia przedsokratejska*, Warszawa 1999.

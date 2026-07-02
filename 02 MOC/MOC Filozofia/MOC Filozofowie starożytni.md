@@ -9,7 +9,7 @@ dojrzalosc: Krzak 🌿
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-02 22:28
 ---
-$\leftarrow$ [[02 MOC/MOC Filozofia/MOC Filozofia starożytna]]
+$\leftarrow$ [[MOC Filozofia starożytna]]
 
 
 **VII/VI w. przed Chr.**

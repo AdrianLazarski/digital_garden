@@ -1,3 +1,17 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - "#filozofia/grecka"
+  - "#filozofia/starożytna"
+  - "#filozofia/metafizyka"
+  - "#filozofia/przyrody"
+  - "#matematyka/historia"
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-02 23:17
+---
 
 **Spis treści**
 
@@ -65,6 +79,3 @@ E. Gilson, *Jedność doświadczenia filozoficznego*, Warszawa 2001, s. 214-215.
 # Polecane 👇
 
 - https://pl.pinterest.com/sofiofiliayt/tales-z-miletu/
-- 
-
-###### Tagi: #filozofia #filozof #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/przyrody #matematyk 

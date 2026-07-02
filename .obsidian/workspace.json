@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "2f94532a30f8a2ed",
+            "id": "d6b28bffa38438bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "db1bfd6382c9ae15",
+            "id": "9ab987f3078f2b0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Tales z Miletu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofia starożytna"
+              "title": "Tales z Miletu"
+            }
+          },
+          {
+            "id": "67eb4d4d30183971",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -304,13 +314,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Filozofia starożytna"
+              "title": "Konspekt"
             }
           },
           {
@@ -403,14 +412,15 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "db1bfd6382c9ae15",
+  "active": "67eb4d4d30183971",
   "lastOpenFiles": [
-    "05 Bazy danych/Filozofia starożytna baza.base",
-    "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
-    "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
-    "Zettelkasten.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Tales z Miletu.md",
     "02 MOC/MOC Filozofia/MOC Filozofia.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
+    "05 Bazy danych/Filozofia starożytna baza.base",
+    "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
+    "Zettelkasten.md",
     "01 Input przejściowy/Filozofia/Filozofia.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia bizantyjska.md",
     "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Adolf Reinach.md",
@@ -446,9 +456,4 @@
     "załączniki/robocza 3-86.webp",
     "załączniki/robocza 3-85.webp",
     "załączniki/robocza 3-84.webp",
-    "załączniki/robocza 3-83.webp",
-    "załączniki/robocza 3-82.webp",
-    "załączniki/robocza 3-81.webp",
-    "załączniki/robocza 3-80.webp"
-  ]
-}
+    "załączniki/robocza 3-
