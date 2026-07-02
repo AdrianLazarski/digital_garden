@@ -10,13 +10,14 @@ dojrzalosc: Krzak 🌿
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-02 22:16
 ---
-
 **Spis treści**
 
 1. [Informacje ogólne](#Informacje%20og%C3%B3lne)
 2. [Okresy filozofii starożytnej:](#Okresy%20filozofii%20staro%C5%BCytnej:)
 3. [Nurty i filozofowie](#Nurty%20i%20filozofowie)
-4. [Literatura:](#Literatura:)
+4. [Literatura](#Literatura:)
+5. [Zobacz też](#Zobacz%20te%C5%BC)
+
 
 
 # Informacje ogólne
@@ -51,7 +52,7 @@ modified date: 2026-07-02 22:16
 
 [[MOC Filozofowie starożytni]]
 
-# Literatura:
+# Literatura
 
 Diogenes Laertios, *Żywoty i poglądy słynnych filozofów*, Warszawa 1982, s. 78-79.
 W. Tatarkiewicz, *Historia filozofii t. 1*, Warszawa 1998.
@@ -61,9 +62,10 @@ S. Swieżawski, *Dzieje europejskiej filozofii klasycznej*, Warszawa 2000.
 G. Reale, *Historia filozofii starożytnej tom I-V*, Lublin 2000.
 E. Gilson, *Jedność doświadczenia filozoficznego*, Warszawa 2001.
 
+# Zobacz też
 
 $\leftarrow$ [[MOC Filozofia]]
+$\leftarrow$ [[MOC Historia filozofii]]
 
-
-[[02 MOC/MOC Filozofia/Bez nazwy.base]]
+$\rightarrow$  [[Filozofia starożytna baza.base]]
 

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/MOC Filozofia starożytna.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -125,16 +125,6 @@
               },
               "icon": "lucide-file",
               "title": "MOC Filozofia starożytna"
-            }
-          },
-          {
-            "id": "9edbee67b0b338ac",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nowa karta"
             }
           }
         ],
@@ -314,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/MOC Filozofia starożytna.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -415,13 +405,12 @@
   },
   "active": "db1bfd6382c9ae15",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
-    "03 Atomy/MOC Filozofia starożytna.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
+    "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "Zettelkasten.md",
     "02 MOC/MOC Filozofia/MOC Filozofia.md",
-    "02 MOC/MOC Filozofia/Bez nazwy.base",
     "01 Input przejściowy/Filozofia/Filozofia.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia bizantyjska.md",
     "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Adolf Reinach.md",

@@ -76,8 +76,7 @@
       "2026-04-20",
       "2026-04-27",
       "2026-06-09",
-      "2026-06-21",
-      "2026-07-02"
+      "2026-06-21"
     ],
     "dailyActivity": [
       {
@@ -2975,7 +2974,7 @@
       },
       {
         "date": "2026-07-02",
-        "filePath": "03 Atomy/MOC Filozofia starożytna.md",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
         "wordCountStart": 785,
         "charCountStart": 5917,
         "changes": [
@@ -3003,6 +3002,11 @@
             "timeKey": "22:50",
             "w": 6,
             "c": 32
+          },
+          {
+            "timeKey": "22:55",
+            "w": 11,
+            "c": 96
           }
         ],
         "id": 375
@@ -3023,23 +3027,33 @@
         "changes": [
           {
             "timeKey": "22:15",
-            "w": 38,
-            "c": 325
+            "w": 20,
+            "c": 144
           },
           {
             "timeKey": "22:20",
-            "w": 5,
-            "c": 52
+            "w": 1,
+            "c": 29
           },
           {
             "timeKey": "22:25",
-            "w": -1,
-            "c": -3
+            "w": -2,
+            "c": -33
+          },
+          {
+            "timeKey": "22:30",
+            "w": -327,
+            "c": -2229
           },
           {
             "timeKey": "22:50",
-            "w": -42,
-            "c": -374
+            "w": 6,
+            "c": 32
+          },
+          {
+            "timeKey": "22:55",
+            "w": 11,
+            "c": 96
           }
         ],
         "id": 377

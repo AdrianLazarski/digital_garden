@@ -126781,33 +126781,6 @@
         "modified date": "2026-07-02 21:21"
       }
     },
-    "02 MOC/MOC Filozofia/Bez nazwy.base": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1783023515726,
-      "modifiedDate": 1783023534120,
-      "sizeInBytes": 118,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -126886,24 +126859,24 @@
         "modified date": "2026-07-02 22:28"
       }
     },
-    "03 Atomy/MOC Filozofia starożytna.md": {
+    "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 426,
+      "wordCount": 435,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.42,
-      "characterCount": 3624,
-      "nonWhitespaceCharacterCount": 3161,
-      "newlineCount": 59,
-      "readingTimeInMinutes": 1.6075471698113208,
-      "linkCount": 22,
+      "pageCount": 1.45,
+      "characterCount": 3720,
+      "nonWhitespaceCharacterCount": 3247,
+      "newlineCount": 61,
+      "readingTimeInMinutes": 1.6415094339622642,
+      "linkCount": 24,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304396840,
-      "modifiedDate": 1783025626652,
-      "sizeInBytes": 4015,
+      "modifiedDate": 1783025872496,
+      "sizeInBytes": 4114,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -126924,6 +126897,33 @@
         "dojrzalosc": "Krzak 🌿",
         "status_epistemiczny": "Uzasadniony ✅",
         "modified date": "2026-07-02 22:16"
+      }
+    },
+    "05 Bazy danych/Filozofia starożytna baza.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1783023515726,
+      "modifiedDate": 1783023534120,
+      "sizeInBytes": 118,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
