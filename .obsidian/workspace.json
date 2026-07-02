@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Matematyka/Struktura algebraiczna.md",
+                "file": "02 MOC/MOC Matematyka/Struktura matematyczna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Struktura algebraiczna"
+              "title": "Struktura matematyczna"
             }
           }
         ],
@@ -280,13 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Matematyka/Struktura algebraiczna.md",
+                "file": "02 MOC/MOC Matematyka/Struktura matematyczna.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Struktura algebraiczna"
+              "title": "Konspekt Struktura matematyczna"
             }
           },
           {
@@ -381,6 +381,7 @@
   },
   "active": "777d8fce94750a25",
   "lastOpenFiles": [
+    "02 MOC/MOC Matematyka/Struktura algebraiczna.md",
     "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
     "02 MOC/MOC.md",
     "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
@@ -409,7 +410,6 @@
     "03 Atomy/Klasyfikacje języków programowania.md",
     "02 MOC/MOC IT/Bez nazwy.base",
     "02 MOC/MOC IT/MOC IT.md",
-    "02 MOC/MOC Matematyka/Struktura algebraiczna.md",
     "02 MOC/MOC Matematyka/MOC Kombinatoryka.md",
     "02 MOC/MOC.md.edtz",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Pasted image 20250226215225.png",
