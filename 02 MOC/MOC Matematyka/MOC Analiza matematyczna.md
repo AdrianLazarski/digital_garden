@@ -45,4 +45,5 @@ $\rightarrow$ [[Granica właściwa ciągu]]
 
 
 
+![[Analiza matematyczna baza.base]]
 

@@ -15,9 +15,10 @@ Algebrę dzieli się "szkolnie" i historycznie w następujący sposób, ale nie 
 
 
 ##### Działy algebry
-[[01 Input przejściowy/Matematyka/Działy/Algebra/Algebra liniowa]]
+[[MOC Algebra liniowa]]
 
 
 
 
+![[Algebra baza.base]]
 

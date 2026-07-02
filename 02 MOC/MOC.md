@@ -6,14 +6,19 @@
 [[MOC Matematyka]]
 	[[MOC Dziedziny matematyki]]
 		[[MOC Algebra]]
+			[[MOC Algebra liniowa]]
+				[[MOC Działania na macierzach]]
+				[[MOC Rodzaje macierzy]]
 		[[MOC Analiza matematyczna]]
 		[[MOC Matematyka dyskretna]]
 			[[MOC Kombinatoryka]]
 		[[MOC Podstawy matematyki]]
-			$\rightarrow$ [[Logika matematyczna]]
+			$\rightarrow$ [[MOC Logika matematyczna]]
 			$\rightarrow$ [[MOC Teoria mnogości]] (czasem zaliczana do powyższej, ale traktowana też osobno)
-			$\rightarrow$ [[Metamatematyka]] (leżącą na pograniczu tej pierwszej)
-			$\rightarrow$ [[Teoria typów]]
+			$\rightarrow$ [[MOC Metamatematyka]] (leżącą na pograniczu tej pierwszej)
+			$\rightarrow$ [[MOC Teoria typów]]
 		[[MOC Statystyka]]
+[[MOC Logika]]
+	[[MOC Logika matematyczna]]
 [[MOC Elektronika]]
 [[MOC IT]]

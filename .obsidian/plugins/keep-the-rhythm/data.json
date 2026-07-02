@@ -2462,6 +2462,16 @@
             "timeKey": "15:50",
             "w": 0,
             "c": -1
+          },
+          {
+            "timeKey": "16:05",
+            "w": 13,
+            "c": 104
+          },
+          {
+            "timeKey": "16:10",
+            "w": 5,
+            "c": 44
           }
         ],
         "id": 340
@@ -2525,6 +2535,11 @@
             "timeKey": "15:30",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "16:00",
+            "w": 4,
+            "c": 36
           }
         ],
         "id": 345
@@ -2539,6 +2554,16 @@
             "timeKey": "15:55",
             "w": 6,
             "c": 47
+          },
+          {
+            "timeKey": "16:00",
+            "w": 7,
+            "c": 42
+          },
+          {
+            "timeKey": "16:05",
+            "w": -9,
+            "c": -62
           }
         ],
         "id": 346
@@ -2685,6 +2710,30 @@
           }
         ],
         "id": 359
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "03 Atomy/Amplituda.md",
+        "wordCountStart": 90,
+        "charCountStart": 731,
+        "changes": [],
+        "id": 360
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Działania na zbiorach.md",
+        "wordCountStart": 37,
+        "charCountStart": 319,
+        "changes": [],
+        "id": 361
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "01 Input/Algebra zbiorów.md",
+        "wordCountStart": 196,
+        "charCountStart": 1095,
+        "changes": [],
+        "id": 362
       }
     ]
   }
