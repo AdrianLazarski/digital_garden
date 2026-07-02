@@ -54589,20 +54589,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 169,
+      "wordCount": 209,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5633333333333334,
-      "characterCount": 1723,
-      "nonWhitespaceCharacterCount": 1484,
-      "newlineCount": 67,
-      "readingTimeInMinutes": 0.6377358490566037,
-      "linkCount": 41,
+      "pageCount": 0.6966666666666667,
+      "characterCount": 2181,
+      "nonWhitespaceCharacterCount": 1891,
+      "newlineCount": 96,
+      "readingTimeInMinutes": 0.7886792452830189,
+      "linkCount": 57,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1782999089161,
-      "modifiedDate": 1783018245038,
-      "sizeInBytes": 1885,
+      "modifiedDate": 1783018443371,
+      "sizeInBytes": 2344,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.02666666666666667,
@@ -126749,6 +126749,33 @@
           "#definicja"
         ],
         "modified date": "2025-11-21 18:54"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783018497863,
+      "modifiedDate": 1783018500620,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
