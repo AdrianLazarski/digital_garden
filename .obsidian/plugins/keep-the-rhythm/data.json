@@ -2973,7 +2973,18 @@
         "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/01 Filozofia starożytna.md",
         "wordCountStart": 785,
         "charCountStart": 5917,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 20,
+            "c": 144
+          },
+          {
+            "timeKey": "22:20",
+            "w": 1,
+            "c": 29
+          }
+        ],
         "id": 375
       },
       {
@@ -2983,6 +2994,44 @@
         "charCountStart": 327,
         "changes": [],
         "id": 376
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 38,
+            "c": 325
+          },
+          {
+            "timeKey": "22:20",
+            "w": 5,
+            "c": 52
+          }
+        ],
+        "id": 377
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": 52,
+            "c": 514
+          },
+          {
+            "timeKey": "22:25",
+            "w": 1,
+            "c": 14
+          }
+        ],
+        "id": 378
       }
     ]
   }

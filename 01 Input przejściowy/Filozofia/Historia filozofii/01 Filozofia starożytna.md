@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - filozofia/starożytna
+  - filozofia/grecka
+  - filozofia/rzymska
+  - filozofia/historia_filozofii
+dojrzalosc: Krzak 🌿
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-02 22:16
+---
 
 
 
@@ -52,9 +64,10 @@
 [[Neoplatonizm]]
 [[Sceptycyzm]]
 [[Akademia Platońska]]
-[[Filozofia bizantyjska]] ???
+[[Filozofia bizantyjska]]
 [[Stoicyzm]]
-# Filozofowie starożytni
+
+[[MOC Filozofowie starożytni]]
 
 **VII/VI w. przed Chr.**
 [[Tales z Miletu]]  625-545
@@ -173,4 +186,4 @@ S. Swieżawski, *Dzieje europejskiej filozofii klasycznej*, Warszawa 2000.
 G. Reale, *Historia filozofii starożytnej tom I-V*, Lublin 2000.
 E. Gilson, *Jedność doświadczenia filozoficznego*, Warszawa 2001.
 
-#filozofia/starożytna #filozofia #filozofia/historia_filozofii #filozofia/grecka #filozofia/rzymska
+ #filozofia/historia_filozofii 

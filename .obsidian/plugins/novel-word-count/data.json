@@ -78191,20 +78191,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 739,
+      "wordCount": 736,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.4633333333333334,
-      "characterCount": 5917,
-      "nonWhitespaceCharacterCount": 5166,
-      "newlineCount": 176,
-      "readingTimeInMinutes": 2.788679245283019,
-      "linkCount": 101,
+      "pageCount": 2.453333333333333,
+      "characterCount": 5853,
+      "nonWhitespaceCharacterCount": 5103,
+      "newlineCount": 178,
+      "readingTimeInMinutes": 2.7773584905660376,
+      "linkCount": 102,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304396840,
-      "modifiedDate": 1763638876011,
-      "sizeInBytes": 6081,
+      "modifiedDate": 1783023865767,
+      "sizeInBytes": 6258,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.4633333333333334,
@@ -78212,6 +78212,19 @@
         "characterCount": 5917,
         "nonWhitespaceCharacterCount": 5166,
         "newlineCount": 176
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "filozofia/starożytna",
+          "filozofia/grecka",
+          "filozofia/rzymska",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-02 22:16"
       }
     },
     "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Étienne Gilson.md.edtz": {
@@ -99786,16 +99799,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 11.46,
-      "characterCount": 26375,
-      "nonWhitespaceCharacterCount": 22706,
+      "characterCount": 26359,
+      "nonWhitespaceCharacterCount": 22690,
       "newlineCount": 257,
       "readingTimeInMinutes": 12.973584905660378,
       "linkCount": 19,
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1772304385339,
-      "modifiedDate": 1783022425269,
-      "sizeInBytes": 27826,
+      "modifiedDate": 1783023284299,
+      "sizeInBytes": 27810,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 11.46,
@@ -126806,6 +126819,97 @@
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Aksjomatyczny 💎",
         "modified date": "2026-07-02 21:21"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 213,
+      "nonWhitespaceCharacterCount": 189,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 4,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1783023317144,
+      "modifiedDate": 1783023853187,
+      "sizeInBytes": 386,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-02 22:15",
+        "tags": [
+          "moc",
+          "filozofia/starożytna"
+        ],
+        "dojrzalosc": "Drzewo 🌲",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-02 22:15"
+      }
+    },
+    "02 MOC/MOC Filozofia/Bez nazwy.base": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1783023515726,
+      "modifiedDate": 1783023534120,
+      "sizeInBytes": 118,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783023871268,
+      "modifiedDate": 1783023871268,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
