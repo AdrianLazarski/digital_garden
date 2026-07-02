@@ -26,7 +26,7 @@ modified date: 2026-07-02 21:21
 
 [[MOC Historia filozofii]]
 
-[[MOC Filozofia starożytna]]
+[[02 MOC/MOC Filozofia/MOC Filozofia starożytna]]
 [[Szkoła jońska]]
 	[[Szkoła mileacka]]
 [[Orfizm]]

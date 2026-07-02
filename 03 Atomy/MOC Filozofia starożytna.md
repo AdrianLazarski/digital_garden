@@ -1,11 +1,11 @@
 ---
 created: 2026-02-28 19:46
 tags:
-  - atom
   - filozofia/starożytna
   - filozofia/grecka
   - filozofia/rzymska
   - filozofia/historia_filozofii
+  - moc
 dojrzalosc: Krzak 🌿
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-02 22:16
@@ -18,8 +18,6 @@ modified date: 2026-07-02 22:16
 3. [Nurty i filozofowie](#Nurty%20i%20filozofowie)
 4. [Literatura:](#Literatura:)
 
-
-$\rightarrow$ [[MOC Filozofia starożytna]]
 
 # Informacje ogólne
 
@@ -62,3 +60,10 @@ G. Kirk, J. Raven, *Filozofia przedsokratejska*, Warszawa 1999.
 S. Swieżawski, *Dzieje europejskiej filozofii klasycznej*, Warszawa 2000.
 G. Reale, *Historia filozofii starożytnej tom I-V*, Lublin 2000.
 E. Gilson, *Jedność doświadczenia filozoficznego*, Warszawa 2001.
+
+
+$\leftarrow$ [[MOC Filozofia]]
+
+
+[[02 MOC/MOC Filozofia/Bez nazwy.base]]
+
