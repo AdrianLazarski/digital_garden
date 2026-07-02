@@ -2897,7 +2897,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Filozofia.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 20,
+            "c": 156
+          }
+        ],
         "id": 371
       }
     ]
