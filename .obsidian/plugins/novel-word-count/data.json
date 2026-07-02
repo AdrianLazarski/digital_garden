@@ -54589,20 +54589,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 160,
+      "wordCount": 169,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5333333333333333,
-      "characterCount": 1670,
-      "nonWhitespaceCharacterCount": 1428,
-      "newlineCount": 44,
-      "readingTimeInMinutes": 0.6037735849056604,
-      "linkCount": 38,
+      "pageCount": 0.5633333333333334,
+      "characterCount": 1723,
+      "nonWhitespaceCharacterCount": 1484,
+      "newlineCount": 67,
+      "readingTimeInMinutes": 0.6377358490566037,
+      "linkCount": 41,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1782999089161,
-      "modifiedDate": 1783017618018,
-      "sizeInBytes": 1687,
+      "modifiedDate": 1783018245038,
+      "sizeInBytes": 1885,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.02666666666666667,
@@ -54610,6 +54610,15 @@
         "characterCount": 66,
         "nonWhitespaceCharacterCount": 57,
         "newlineCount": 6
+      },
+      "frontmatter": {
+        "created": "2026-07-02 15:31",
+        "tags": [
+          "moc"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-02 20:42"
       }
     },
     "02 MOC/załączniki/MOC SQL składnia.webp": {
