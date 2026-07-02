@@ -2480,8 +2480,18 @@
           },
           {
             "timeKey": "20:30",
-            "w": 20,
-            "c": 257
+            "w": 23,
+            "c": 299
+          },
+          {
+            "timeKey": "20:35",
+            "w": 37,
+            "c": 422
+          },
+          {
+            "timeKey": "20:40",
+            "w": 32,
+            "c": 268
           }
         ],
         "id": 340
@@ -2863,6 +2873,14 @@
           }
         ],
         "id": 369
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Fizyka/MOC Kształty prądu okresowego.md",
+        "wordCountStart": 40,
+        "charCountStart": 344,
+        "changes": [],
+        "id": 370
       }
     ]
   }
