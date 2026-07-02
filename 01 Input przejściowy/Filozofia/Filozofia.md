@@ -32,7 +32,7 @@ modified date: 2026-07-02 22:00
 10. [Bibliografia:](#Bibliografia:)
 
 ---
-## Informacje ogólne
+# Informacje ogólne
 - Filozofia na początku oznaczała mądrość/wykształcenie/wiedzę w ogóle/naukę w ogóle. Trwało to do XVIII w.
 - Z czasem wyodrębniły się samodzielne nauki, ale nie jest tak, że w filozofii zostało tylko to, czego nie udało się jeszcze unaukowić i z tego powodu nauka jest wyższą formą poznania racjonalnego.
 - Nie jest też tak, że nauki zaczęły się wyodrębniać dopiero w nowożytności. Astronomia, matematyka i elementy fizyki (statyka, optyka) były samodzielne już wcześniej.
@@ -50,7 +50,7 @@ modified date: 2026-07-02 22:00
 - Definicje filozofii we wstępach do filozofii to najczęściej po prostu deklaracje przynależności do danej orientacji czy szkoły filozoficznej. Należy patrzeć z przymrużeniem oka na wyłączność proponowanych przez nich metod filozoficznych.
 
 
-## Geneza filozofii
+# Geneza filozofii
 
 Przed filozofią były:
 1. Wierzenia religijne
@@ -68,7 +68,7 @@ Przed filozofią były:
 	- Medycyna pobudzała do obserwacji i doświadczeń, co miało wpływ na pitagorejczyków i Arystotelesa.
 3. Reguły życiowe
 	- "chłopski rozum" zawarty w przysłowiach i dyrektywach, zwłaszcza w czasie okresu siedmiu mędrców VII-VI w. przed Chr.
-### Powstanie w Grecji
+## Powstanie w Grecji
 
 - Teorie o pochodzeniu filozofii ze Wschodu są błędne, bo Grecy słabo znali języki obce, a przejście od mythos do logos wymagało zwrotu językowego. Zaczęli je już rozprowadzać kapłani egipscy, którzy zapoznali się z filozofią grecką w epoce Ptolemeuszy i twierdzili, że pochodzi od ich mądrości, czy żydzi aleksandryjscy, którzy uważali, że filozofia pochodzi od mądrości biblinej. Potem podchwycili to neoplatonicy i podsycali te bzdury. Reale
 - Fantastyczne poematy Homera, które były podstawą wychowania i formacji duchowej Greków, unikały opisywania tego, co odrażające i szpetne, co u innych ludów się nie zdarzało. Pełne były poczucia harmonii, proporcji, granicy i miary, które okaże się stałą cechą filozofii greckiej.
@@ -76,7 +76,7 @@ Przed filozofią były:
 - Filozofia pojawiła się w jońskich koloniach, które cieszyły się dużą wolnością polityczną. Potem, już w samej Grecji, pojawiła się w demokratycznych Atenach, a więc najwolniejszym polis Grecji.
 - Przejście od mythos do logos to przejście od społeczeństwa zamkniętego do otwartego. Zamknięte społeczeństwo to głównie kultura ustnego przekazu. Mit zapewnia proste wyjaśnienie świata i stabilność. Społeczeństwo otwarte ma bardziej ruchomą matrycę idei. Może samo wytworzyć nowe idee albo przyjąć je spoza społeczeństwa. To zaszło w IX-VI w. przed Chr.
 
-### Przyczyny powstania
+## Przyczyny powstania
 
 - Tatarkiewicz: Rozmaitość kultur, położenie geograficzne, konkurowanie poleis.
 - Marksiści, Legowicz, Pierre Hadot: klasa próżniacza miała zbyt wiele czasu i sobie zaczęła filozofować.
@@ -84,14 +84,14 @@ Przed filozofią były:
 - Reale: religia naturalistyczna, wolność polityczna
 - Arystoteles: zdziwienie; chęć poznania pierwszych przyczyn.
 
-### Skąd się bierze filozofowanie:
+## Skąd się bierze filozofowanie:
 - zdziwienie (sytuacje graniczne - Jaspers): Sokrates, Platon, Arystoteles, Kant
 - Wiedza okazuje się niewiedzą.
 - Poprzedzone doświadczeniem.
 - wątpienie: Augustyn, Kartezjusz, Leibniz
 - Prowadzi do tego, w co już wątpić nie można. Do faktu świadomości. Wiedzy najbardziej wewnętrznej (A), myślenia (K), prawd rozumu (L).
 
-## Charakterystyka filozofii
+# Charakterystyka filozofii
 - Filozofia wiedzą fundamentalną, bo pyta o nieempiryczne podstawy tego, co empiryczne.
 - Odwołuje się do rozumu i jest uniwersalną krytyką każdego obrazu świata i każdego roszczenia do sensu. Krytykuje naukę, religię, ideologie, społczeństwo i swoje odmiany.
 - Jest racjonalna w sensie pytania o ostateczne racje/zasady/przyczyny wszystkiego.
@@ -108,7 +108,7 @@ Przed filozofią były:
 [[1]] A. B. Stępień, Wprowadzenie do filozofii, Lublin 2001 , s. 23-24.
 
 
-## Trzy punkty wyjścia filozofii:
+# Trzy punkty wyjścia filozofii:
 - Filozofia bytu wychodząc od zjawisk pyta o ich istnienie, a więc "warunki możliwości doświadczenia w nie-ja".
 - Filozofia podmiotu pyta o "ja" jako podmiot wszelkiego doświadczenia. Pyta o warunku możliwości doświadczenia w ja.
 - Filozofia ducha wychodzi od idei lub absolutu i z ich perspektywy próbuje uchwycić warunki możliwości doświadczenia oraz byt i podmiot.
@@ -117,12 +117,12 @@ Przed filozofią były:
 
 
 
-## Filozofia a inne zjawiska
-### Filozofia a zdrowy rozsądek
+# Filozofia a inne zjawiska
+## Filozofia a zdrowy rozsądek
 
 - Zdrowy rozsądek uważa pewne tezy za niepodważalne np. tożsamość człowieka w przez całe jego życie. Filozofia w punkcie wyjścia najczęściej przyjmuje tę tezę, ale nie poprzestaje na tym i analizuje na czym ta tożsamość polega, próbuje ustalić jej definicję i bada czy realne podstawy tej tożsamości mają zastosowanie do innych rzeczy.
 - Filozofia zadowoli dopiero pełne zracjonalizowanie tezy zdroworozsądkowej. W niektórych przypadkach filozof jest skłonny zawiesić lub odrzucić daną zasadę zdroworozsądkową, jeśli nie potrafi jej dostatecznie wyjaśnić.
-### Filozofia a nauka
+## Filozofia a nauka
 
 - Anzenbacher wymienia 3 rodzaje stosunków nauka-filozofia:
 	1. [Scjentyzm](onenote:#Scjentyzm&section-id={C61F4758-AD59-4B6E-9B61-EA76501C2585}&page-id={AD2D0207-DE64-4741-9D9C-BCC44C5A5664}&end&base-path=https://d.docs.live.net/6bf6dec507fdeafe/Dokumenty/Filozofia/Działy/Filozofia%20nauki.one)
@@ -139,7 +139,7 @@ Przed filozofią były:
 - Filozofia jako nauka jest po prostu usystematyzowanym związkiem elementów/wiedzy.
 ![[Pasted image 20240402215145.png]]
 
-### Filozofia a religia
+## Filozofia a religia
 
 - Filozofia służy interpretacji świata, rozjaśnianiu własnej jaźni i transcendowaniu świata i istnienia, obejmującym oba te elementy.
 - Religia też, więc na czym polega różnica? Filozofia uważa się za wiedzę rozumową. Teologia zaś uznaje za istotny ruch od podstawy sensu (objawienie), który transcenduje ludzkie zdolności poznawcze.
@@ -152,20 +152,20 @@ Przed filozofią były:
 	1. Dopiero wiara czyni możliwą prawdziwą filozofię. Augustyn (credo ut intelligam), Anzelm z Canterbury (Fides quaerens intellectum)
 	2. Filozofia redukuje religię do filozofii i próbuje ją uzasadnić rozumowo. Kant (religia w granicach samego tylko rozumu), Jaspers (wiara filozoficzna).
 4. Filozofia i religia to różne, ale wzajemnie korespondujące płaszczyzny. Filozofia może pomóc uracjonalnić religię, choć oczywiście w ograniczonym zakresie.
-### Filozofia a sztuka
+## Filozofia a sztuka
 
 - Wg Anzenbachera sztuka też służy orientacji w świecie, rozjaśnianiu egzystencji i metafizyce, ale w sferze zmysłowej, zamiast rozumowej.
 
-### Filozofia a ideologia
+## Filozofia a ideologia
 
 - Tożsame lub wrogie.
 - Ideologie są łatwiejsze w użytkowaniu i rozwijaniu. Są egalitarne, podczas gdy prawdziwa filozofia jest zawsze elitarna. Co ciekawe, w czasach współczesnego egalitaryzmu powiedzenie, że jest się filozofem, jest uważane za pretensjonalne. Raczej jeśli już, to ktoś powie, że jest profesorem filozofii albo zajmuje się filozofią. To dość znamienne.
 
-### Filozofia a światopogląd
+## Filozofia a światopogląd
 
 - Światopogląd to ogół poglądów jednostki na świat. Najczęściej jest zlepkiem różnych nieuświadomionych filozofii i ideologii. Filozofia może ten światopogląd oczyszczać i uracjonalniać lub w wersjach irracjonalnych: zatruwać.
 - Nie istnieje światopogląd naukowy. Można mieć co najwyżej światopogląd filozoficzny lub ideologiczny.
-## Definicje filozofii:
+# Definicje filozofii:
 
 - Platon: filozofia nauką o niezmiennych istotach rzeczy.
 - Arystoteles: filozofia to wiedza o zasadach i przyczynach, z pomocą których poznaje się wszystko inne. Filozofia to wiedza, która rozważa byt jako byt. Najbardziej ogólna i najbardziej fundamentalna.
@@ -198,7 +198,7 @@ Przed filozofią były:
 - Habermas: filozofia nie może już dotyczyć całości świata, a musi się cofnąć i zbadać co może dokonać w ramach konwencji naukowych – zmienia się w metafilozofię. Ale to bzdura, bo filozofia nauki, czy epistemologia to po prostu filozofia.
 - Reale: Filozofia nie tylko nie jest zmienianiem świata, ale nie powinna również służyć zmienianiu świata.
 - Anzenbacher: Filozofia to nieempiryczna wiedza o świecie empirycznym. Filozofia to krytyczna wiedza rozumowa o warunkach możliwości rzeczywistości doświadczalnej jako całości.
-## Koncepcje filozofii
+# Koncepcje filozofii
 
 - Samo myślenie. Poznanie dla samego poznania. Pierwsza koncepcja, ale szybko przestała być zadowalająca. Wiązała się często z uznaniem, że jest najwyższą z ludzkich czynności.
 - [[Filozofia klasyczna]] - autonomiczna i racjonalna wiedza o własnym przedmiocie i adekwatnej mu metodzie.

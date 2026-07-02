@@ -2911,8 +2911,18 @@
           },
           {
             "timeKey": "22:00",
-            "w": 8,
-            "c": 95
+            "w": 12,
+            "c": 137
+          },
+          {
+            "timeKey": "22:05",
+            "w": 36,
+            "c": 363
+          },
+          {
+            "timeKey": "22:10",
+            "w": 29,
+            "c": 337
           }
         ],
         "id": 371
@@ -2927,6 +2937,11 @@
             "timeKey": "22:00",
             "w": 20,
             "c": 152
+          },
+          {
+            "timeKey": "22:10",
+            "w": 0,
+            "c": -16
           }
         ],
         "id": 372
@@ -2944,6 +2959,30 @@
           }
         ],
         "id": 373
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Adolf Reinach.md",
+        "wordCountStart": 219,
+        "charCountStart": 1560,
+        "changes": [],
+        "id": 374
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/01 Filozofia starożytna.md",
+        "wordCountStart": 785,
+        "charCountStart": 5917,
+        "changes": [],
+        "id": 375
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia bizantyjska.md",
+        "wordCountStart": 37,
+        "charCountStart": 327,
+        "changes": [],
+        "id": 376
       }
     ]
   }
