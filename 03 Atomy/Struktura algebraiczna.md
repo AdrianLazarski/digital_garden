@@ -4,7 +4,6 @@ tags:
   - "#matematyka/algebra"
   - "#matematyka/podstawy/teoria_mnogości"
   - "#definicja"
-  - "#moc"
 modified date: 2025-11-21 18:54
 ---
 ang. *algebraic structure*
@@ -16,11 +15,6 @@ ang. *algebraic structure*
 
 Albo po prostu zbiór z zadaniami określonymi na jego elementach.
 
-##### Rodzaje struktur algebrainycznych:
-- [[Grupa]]
-- [[Pierścień]]
-- [[Ciało]]
-- [[Przestrzeń liniowa]] (wektorowa)
-- [[Graf]]
-- Krata
-- inne
+$\leftarrow$ [[MOC Rodzaje struktur matematycznych]]
+
+$\rightarrow$ [[MOC Rodzaje struktur algebraicznych]]

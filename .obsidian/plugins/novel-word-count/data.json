@@ -55188,42 +55188,6 @@
         "newlineCount": 0
       }
     },
-    "02 MOC/MOC Matematyka/Struktura matematyczna.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 52,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 562,
-      "nonWhitespaceCharacterCount": 480,
-      "newlineCount": 27,
-      "readingTimeInMinutes": 0.19622641509433963,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304403981,
-      "modifiedDate": 1763821617002,
-      "sizeInBytes": 720,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.17333333333333334,
-        "wordCount": 52,
-        "characterCount": 562,
-        "nonWhitespaceCharacterCount": 480,
-        "newlineCount": 27
-      },
-      "frontmatter": {
-        "created": "2024-03-23 13:06",
-        "tags": [
-          "#matematyka/podstawy/teoria_mnogości",
-          "moc",
-          "#definicja"
-        ],
-        "modified date": "2025-11-21 18:33"
-      }
-    },
     "02 MOC/MOC Matematyka/Struktura algebraiczna.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -55249,43 +55213,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "02 MOC/MOC Matematyka/Struktura algebraiczna.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 44,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.14666666666666667,
-      "characterCount": 377,
-      "nonWhitespaceCharacterCount": 322,
-      "newlineCount": 18,
-      "readingTimeInMinutes": 0.1660377358490566,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304403969,
-      "modifiedDate": 1763821616979,
-      "sizeInBytes": 561,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.14666666666666667,
-        "wordCount": 44,
-        "characterCount": 377,
-        "nonWhitespaceCharacterCount": 322,
-        "newlineCount": 18
-      },
-      "frontmatter": {
-        "created": "2024-03-23 14:18",
-        "tags": [
-          "#matematyka/algebra",
-          "#matematyka/podstawy/teoria_mnogości",
-          "#definicja",
-          "#moc"
-        ],
-        "modified date": "2025-11-21 18:54"
       }
     },
     "02 MOC/MOC Matematyka/MOC Własności funkcji.md.edtz": {
@@ -126667,6 +126594,150 @@
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
         "modified date": "2026-07-02 16:18"
+      }
+    },
+    "02 MOC/MOC Matematyka/MOC Rodzaje struktur algebraicznych.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 103,
+      "nonWhitespaceCharacterCount": 87,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783016730502,
+      "modifiedDate": 1783016791564,
+      "sizeInBytes": 250,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-02 20:25",
+        "tags": [
+          "moc"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-02 20:25"
+      }
+    },
+    "02 MOC/MOC Matematyka/MOC Rodzaje struktur matematycznych.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 29,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 328,
+      "nonWhitespaceCharacterCount": 279,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.10943396226415095,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783016859131,
+      "modifiedDate": 1783016990771,
+      "sizeInBytes": 522,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-02 20:27",
+        "tags": [
+          "moc",
+          "matematyka/podstawy/teoria_mnogości"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-02 20:27"
+      }
+    },
+    "03 Atomy/Struktura matematyczna.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 33,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11,
+      "characterCount": 348,
+      "nonWhitespaceCharacterCount": 305,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.12452830188679245,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304403981,
+      "modifiedDate": 1783016933035,
+      "sizeInBytes": 488,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2024-03-23 13:06",
+        "tags": [
+          "#matematyka/podstawy/teoria_mnogości",
+          "#definicja"
+        ],
+        "modified date": "2025-11-21 18:33"
+      }
+    },
+    "03 Atomy/Struktura algebraiczna.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 42,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14,
+      "characterCount": 342,
+      "nonWhitespaceCharacterCount": 295,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.15849056603773584,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304403969,
+      "modifiedDate": 1783017047734,
+      "sizeInBytes": 511,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2024-03-23 14:18",
+        "tags": [
+          "#matematyka/algebra",
+          "#matematyka/podstawy/teoria_mnogości",
+          "#definicja"
+        ],
+        "modified date": "2025-11-21 18:54"
       }
     }
   }

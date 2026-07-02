@@ -2477,6 +2477,11 @@
             "timeKey": "16:20",
             "w": 12,
             "c": 112
+          },
+          {
+            "timeKey": "20:30",
+            "w": 20,
+            "c": 257
           }
         ],
         "id": 340
@@ -2594,10 +2599,21 @@
       },
       {
         "date": "2026-07-02",
-        "filePath": "02 MOC/MOC Matematyka/Struktura algebraiczna.md",
+        "filePath": "03 Atomy/Struktura algebraiczna.md",
         "wordCountStart": 65,
         "charCountStart": 545,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": -7,
+            "c": -89
+          },
+          {
+            "timeKey": "20:30",
+            "w": 4,
+            "c": 43
+          }
+        ],
         "id": 348
       },
       {
@@ -2803,11 +2819,50 @@
       },
       {
         "date": "2026-07-02",
-        "filePath": "02 MOC/MOC Matematyka/Struktura matematyczna.md",
+        "filePath": "03 Atomy/Struktura matematyczna.md",
         "wordCountStart": 75,
         "charCountStart": 701,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": -21,
+            "c": -222
+          }
+        ],
         "id": 367
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Rodzaje struktur matematycznych.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 52,
+            "c": 507
+          }
+        ],
+        "id": 368
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Rodzaje struktur algebraicznych.md",
+        "wordCountStart": 19,
+        "charCountStart": 140,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 9,
+            "c": 102
+          },
+          {
+            "timeKey": "20:30",
+            "w": 8,
+            "c": 90
+          }
+        ],
+        "id": 369
       }
     ]
   }
