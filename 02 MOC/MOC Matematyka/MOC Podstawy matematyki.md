@@ -17,4 +17,4 @@ $\rightarrow$ [[Metamatematyka]] (leżącą na pograniczu tej pierwszej)
 $\rightarrow$ [[Teoria typów]]
 
 
-$\leftarrow$ [[Działy matematyki]]
+$\leftarrow$ [[MOC Dziedziny matematyki]]

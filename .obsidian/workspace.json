@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "230204c1b0e4fc74",
+            "id": "370984ecf5520752",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System tagów.md",
+                "file": "02 MOC/MOC Matematyka/Algebra liniowa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "System tagów"
+              "title": "Algebra liniowa"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -280,13 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC.md",
+                "file": "02 MOC/MOC Matematyka/Algebra liniowa.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC"
+              "title": "Konspekt Algebra liniowa"
             }
           },
           {
@@ -375,23 +375,28 @@
       "command-palette:Otwórz listę poleceń": false,
       "bases:Stwórz nową bazę danych": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "keep-the-rhythm:Word Count Stats": false
+      "keep-the-rhythm:Word Count Stats": false,
+      "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "1ee28f4fc18a5193",
+  "active": "370984ecf5520752",
   "lastOpenFiles": [
+    "02 MOC/MOC Matematyka/Bez nazwy.base",
+    "02 MOC/MOC Matematyka/MOC Działania na macierzach.md",
+    "02 MOC/MOC Matematyka/Algebra liniowa.md",
+    "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
+    "02 MOC/MOC.md",
+    "01 Input przejściowy/Matematyka/Działy/Statystyka/Statystyka.md",
+    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
     "System tagów.md",
     "index.md",
-    "02 MOC/MOC.md",
     "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
     "03 Atomy/Klasyfikacje języków programowania.md",
     "02 MOC/MOC IT/Bez nazwy.base",
     "02 MOC/MOC IT/MOC IT.md",
     "02 MOC/MOC Matematyka/Struktura algebraiczna.md",
-    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
     "02 MOC/MOC Matematyka/MOC Algebra.md",
     "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
-    "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
     "02 MOC/MOC Matematyka/MOC Kombinatoryka.md",
     "02 MOC/MOC Matematyka/MOC Matematyka dyskretna.md",
     "02 MOC/MOC Matematyka/MOC Matematyka.md",
@@ -405,10 +410,6 @@
     "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
     "06 Language lab/02 Atomy angielski/Future Simple.md",
     "06 Language lab/02 Atomy angielski/Future Continious.md",
-    "06 Language lab/02 Atomy angielski/Future Perfect.md",
-    "06 Language lab/01 MOC Angielski/MOC Czasy angielskie.md",
-    "06 Language lab/02 Atomy angielski/Past Continious.md",
-    "06 Language lab/02 Atomy angielski/Past Simple.md",
     "załączniki/robocza 3-88.webp",
     "załączniki/robocza 3-87.webp",
     "załączniki/robocza 3-86.webp",

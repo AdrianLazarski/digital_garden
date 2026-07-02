@@ -13,10 +13,14 @@ Da się zaobserwować pewne schematy w używaniu tych słów:
 
 [[MOC Algebra]]
 [[MOC Analiza matematyczna]]
-[[MOC Teoria mnogości]]
 [[MOC Matematyka dyskretna]]
 	[[MOC Kombinatoryka]]
-[[Statystyka]]
+[[MOC Podstawy matematyki]]
+	$\rightarrow$ [[Logika matematyczna]]
+	$\rightarrow$ [[MOC Teoria mnogości]] (czasem zaliczana do powyższej, ale traktowana też osobno)
+	$\rightarrow$ [[Metamatematyka]] (leżącą na pograniczu tej pierwszej)
+	$\rightarrow$ [[Teoria typów]]
+[[MOC Statystyka]]
 
 
 

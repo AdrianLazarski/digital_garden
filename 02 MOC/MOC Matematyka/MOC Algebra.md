@@ -15,7 +15,7 @@ Algebrę dzieli się "szkolnie" i historycznie w następujący sposób, ale nie 
 
 
 ##### Działy algebry
-[[Algebra liniowa]]
+[[01 Input przejściowy/Matematyka/Działy/Algebra/Algebra liniowa]]
 
 
 
