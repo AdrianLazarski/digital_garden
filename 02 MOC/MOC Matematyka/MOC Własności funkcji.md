@@ -28,6 +28,7 @@ $\rightarrow$ [[Funkcja różnowartościowa]]
 $\rightarrow$ [[Funkcja odwrotna]]
 $\rightarrow$ [[Złożenie funkcji]]
 
+
 $\leftarrow$ [[MOC Analiza matematyczna]]
 	$\leftarrow$ [[MOC Dziedziny matematyki]]
-			$\leftarrow$ [[MOC Mate]]
+			$\leftarrow$ [[MOC Matematyka]]

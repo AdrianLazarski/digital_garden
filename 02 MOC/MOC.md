@@ -10,6 +10,7 @@
 				[[MOC Działania na macierzach]]
 				[[MOC Rodzaje macierzy]]
 		[[MOC Analiza matematyczna]]
+			[[MOC Własności funkcji]]
 		[[MOC Matematyka dyskretna]]
 			[[MOC Kombinatoryka]]
 		[[MOC Matematyka stosowana]]

@@ -43,7 +43,7 @@ $\rightarrow$ [[Ciąg monotoniczny]]
 	$\rightarrow$ [[Ciąg nierosnący]]
 $\rightarrow$ [[Granica właściwa ciągu]]
 
-
+[[MOC Własności funkcji]]
 
 ![[Analiza matematyczna baza.base]]
 
