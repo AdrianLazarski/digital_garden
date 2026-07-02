@@ -5,7 +5,7 @@ tags:
   - moc
 modified date: 2025-11-21 18:16
 ---
-MOCJedna z podstawowych [[MOC Dziedziny matematyki|dziedzin matematyki]] zajmująca się [[Struktura algebraiczna|strukturami algebraicznymi]].
+Jedna z podstawowych [[MOC Dziedziny matematyki|dziedzin matematyki]] zajmująca się [[Struktura algebraiczna|strukturami algebraicznymi]].
 
 
 Algebrę dzieli się "szkolnie" i historycznie w następujący sposób, ale nie jest to podział jakościowy. Matematycy na to wszystko po prostu mówią algebra:

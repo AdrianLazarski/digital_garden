@@ -56,36 +56,25 @@
             }
           },
           {
-            "id": "1ee28f4fc18a5193",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC"
-            }
-          },
-          {
             "id": "370984ecf5520752",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "05 Bazy danych/Analiza matematyczna baza.base",
+                "viewName": "Tabela"
+              },
+              "icon": "lucide-table",
+              "title": "Analiza matematyczna baza"
+            }
+          },
+          {
+            "id": "bad46141e865cf8a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Matematyka/Algebra liniowa.md",
+                "file": "02 MOC/MOC Matematyka/MOC Działania na macierzach.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +89,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Algebra liniowa"
+              "title": "MOC Działania na macierzach"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -280,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Matematyka/Algebra liniowa.md",
+                "file": "05 Bazy danych/Analiza matematyczna baza.base",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Algebra liniowa"
+              "title": "Konspekt Analiza matematyczna baza"
             }
           },
           {
@@ -381,11 +370,18 @@
   },
   "active": "370984ecf5520752",
   "lastOpenFiles": [
-    "02 MOC/MOC Matematyka/Bez nazwy.base",
+    "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
+    "05 Bazy danych/Analiza matematyczna baza.base",
+    "02 MOC/MOC Matematyka/MOC Algebra.md",
+    "02 MOC/MOC Matematyka/MOC Algebra liniowa.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
     "02 MOC/MOC Matematyka/MOC Działania na macierzach.md",
-    "02 MOC/MOC Matematyka/Algebra liniowa.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
+    "05 Bazy danych/Algebra liniowa baza.base",
     "02 MOC/MOC.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Algebra liniowa.md",
+    "03 Atomy/Macierz zerowa.md",
+    "03 Atomy/Macierz trójkątna.md",
     "01 Input przejściowy/Matematyka/Działy/Statystyka/Statystyka.md",
     "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
     "System tagów.md",
@@ -395,21 +391,15 @@
     "02 MOC/MOC IT/Bez nazwy.base",
     "02 MOC/MOC IT/MOC IT.md",
     "02 MOC/MOC Matematyka/Struktura algebraiczna.md",
-    "02 MOC/MOC Matematyka/MOC Algebra.md",
-    "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
     "02 MOC/MOC Matematyka/MOC Kombinatoryka.md",
     "02 MOC/MOC Matematyka/MOC Matematyka dyskretna.md",
     "02 MOC/MOC Matematyka/MOC Matematyka.md",
     "02 MOC/MOC.md.edtz",
-    "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Pasted image 20250226215225.png",
     "Książki/Stefanowicz Bogdan, Informacja.md",
     "Gotowanie/Gnocchi z cukinią i marchewką.md",
     "Skróty klawiszowe.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
-    "06 Language lab/02 Atomy angielski/Future Simple.md",
-    "06 Language lab/02 Atomy angielski/Future Continious.md",
     "załączniki/robocza 3-88.webp",
     "załączniki/robocza 3-87.webp",
     "załączniki/robocza 3-86.webp",
@@ -424,8 +414,6 @@
     "00 Daily log/20-04-2026.md.edtz",
     "00 Daily log/27-04-2026.md.edtz",
     "03 Atomy/Wzór Cramera.md.edtz",
-    "03 Atomy/Układ równań liniowych.md.edtz",
-    "Gotowanie/Gnocchi z sosem pieczarkowym.md.edtz",
-    "03 Atomy/Algorytm kompresji bezstratnej LZ77.md.edtz"
+    "03 Atomy/Układ równań liniowych.md.edtz"
   ]
 }

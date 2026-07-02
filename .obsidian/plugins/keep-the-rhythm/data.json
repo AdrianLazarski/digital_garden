@@ -2534,7 +2534,13 @@
         "filePath": "02 MOC/MOC Matematyka/MOC Algebra.md",
         "wordCountStart": 87,
         "charCountStart": 717,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": 6,
+            "c": 47
+          }
+        ],
         "id": 346
       },
       {
@@ -2612,12 +2618,23 @@
         "filePath": "02 MOC/MOC Matematyka/MOC Działania na macierzach.md",
         "wordCountStart": 37,
         "charCountStart": 346,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "16:00",
+            "w": 6,
+            "c": 62
+          }
+        ],
         "id": 355
       },
       {
         "date": "2026-07-02",
-        "filePath": "02 MOC/MOC Matematyka/Algebra liniowa.md",
+        "filePath": "02 MOC/MOC Matematyka/MOC Algebra liniowa.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2625,9 +2642,49 @@
             "timeKey": "15:50",
             "w": 26,
             "c": 182
+          },
+          {
+            "timeKey": "15:55",
+            "w": 7,
+            "c": 92
           }
         ],
         "id": 356
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "03 Atomy/Macierz trójkątna.md",
+        "wordCountStart": 64,
+        "charCountStart": 519,
+        "changes": [],
+        "id": 357
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "03 Atomy/Macierz zerowa.md",
+        "wordCountStart": 59,
+        "charCountStart": 446,
+        "changes": [],
+        "id": 358
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "01 Input przejściowy/Matematyka/Działy/Algebra/Algebra liniowa.md",
+        "wordCountStart": 46,
+        "charCountStart": 420,
+        "changes": [
+          {
+            "timeKey": "15:50",
+            "w": 24,
+            "c": 196
+          },
+          {
+            "timeKey": "15:55",
+            "w": 1,
+            "c": 12
+          }
+        ],
+        "id": 359
       }
     ]
   }
