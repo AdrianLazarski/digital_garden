@@ -10,7 +10,7 @@
 
 ## Dokonania
 
-- Twórca [[Teoria mnogości|teorii mnogości]].
+- Twórca [[MOC Teoria mnogości|teorii mnogości]].
 - Wykazał istnienie nieekwiwalentnych (tzn. mających różne moce) nieskończonych mnogości. 
 - Sformułował ściśle pojęcie mocy mnogości.
 - Przeprowadził dowód, że zbiór liczb niewymiernych jest „liczniejszy” (ma większą moc) niż zbiór liczb wymiernych.

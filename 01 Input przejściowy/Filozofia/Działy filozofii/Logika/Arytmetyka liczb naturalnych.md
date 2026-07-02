@@ -1,6 +1,6 @@
 
 - Twórcą Giuseppe Peano.
-- Fragment [[Teoria mnogości|teorii mnogości]].
+- Fragment [[MOC Teoria mnogości|teorii mnogości]].
 
 ## Język:
 

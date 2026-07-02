@@ -1293,7 +1293,7 @@
       },
       {
         "date": "2026-05-31",
-        "filePath": "02 MOC/MOC IT/Klasyfikacje języków programowania.md",
+        "filePath": "03 Atomy/Klasyfikacje języków programowania.md",
         "wordCountStart": 45,
         "charCountStart": 420,
         "changes": [],
@@ -2410,6 +2410,163 @@
         "charCountStart": 128980,
         "changes": [],
         "id": 337
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
+        "wordCountStart": 3845,
+        "charCountStart": 27190,
+        "changes": [],
+        "id": 338
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
+        "wordCountStart": 17839,
+        "charCountStart": 128980,
+        "changes": [],
+        "id": 339
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 6,
+            "c": 46
+          },
+          {
+            "timeKey": "15:35",
+            "w": 2,
+            "c": 20
+          }
+        ],
+        "id": 340
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Matematyka.md",
+        "wordCountStart": 30,
+        "charCountStart": 232,
+        "changes": [],
+        "id": 341
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Matematyka dyskretna.md",
+        "wordCountStart": 29,
+        "charCountStart": 217,
+        "changes": [],
+        "id": 342
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Kombinatoryka.md",
+        "wordCountStart": 36,
+        "charCountStart": 309,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 1,
+            "c": 4
+          }
+        ],
+        "id": 343
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
+        "wordCountStart": 70,
+        "charCountStart": 613,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 344
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
+        "wordCountStart": 125,
+        "charCountStart": 1326,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 345
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Algebra.md",
+        "wordCountStart": 87,
+        "charCountStart": 717,
+        "changes": [],
+        "id": 346
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
+        "wordCountStart": 58,
+        "charCountStart": 495,
+        "changes": [],
+        "id": 347
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/Struktura algebraiczna.md",
+        "wordCountStart": 65,
+        "charCountStart": 545,
+        "changes": [],
+        "id": 348
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
+        "wordCountStart": 144,
+        "charCountStart": 1240,
+        "changes": [],
+        "id": 349
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "02 MOC/MOC IT/MOC IT.md",
+        "wordCountStart": 62,
+        "charCountStart": 570,
+        "changes": [],
+        "id": 350
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "03 Atomy/Klasyfikacje języków programowania.md",
+        "wordCountStart": 45,
+        "charCountStart": 420,
+        "changes": [],
+        "id": 351
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "index.md",
+        "wordCountStart": 8,
+        "charCountStart": 63,
+        "changes": [],
+        "id": 352
+      },
+      {
+        "date": "2026-07-02",
+        "filePath": "System tagów.md",
+        "wordCountStart": 11,
+        "charCountStart": 137,
+        "changes": [],
+        "id": 353
       }
     ]
   }

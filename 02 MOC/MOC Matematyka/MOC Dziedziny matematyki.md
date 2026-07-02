@@ -11,11 +11,11 @@ Da się zaobserwować pewne schematy w używaniu tych słów:
 - a subdyscypliny i gałęzie mogą różnie określać części pierwszych dwóch. 
 
 
-[[02 MOC/MOC Matematyka/Algebra]]
-[[Analiza matematyczna]]
-[[Teoria mnogości]]
-[[Matematyka dyskretna]]
-	[[Kombinatoryka]]
+[[MOC Algebra]]
+[[MOC Analiza matematyczna]]
+[[MOC Teoria mnogości]]
+[[MOC Matematyka dyskretna]]
+	[[MOC Kombinatoryka]]
 [[Statystyka]]
 
 

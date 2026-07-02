@@ -10,7 +10,7 @@ modified date: 2025-11-22 12:29
 ang. *set*
 
 > [!note] Pojęcie pierwotne
-> Pojęcie pierwotne [[Teoria mnogości|teorii mnogości]].
+> Pojęcie pierwotne [[MOC Teoria mnogości|teorii mnogości]].
 
 > [!note] Definicja w przybliżeniu
 > Kolekcja jednoznacznie określonych, niepowtarzających się elementów.
@@ -28,7 +28,7 @@ $\rightarrow$ [[Moc zbioru]]
 
 ### Zobacz też
 
-$\leftarrow$ [[Teoria mnogości]]
+$\leftarrow$ [[MOC Teoria mnogości]]
 $\leftarrow$ [[Para uporządkowana]]
 
 

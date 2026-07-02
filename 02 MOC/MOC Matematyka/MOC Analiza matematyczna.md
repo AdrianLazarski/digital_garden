@@ -7,7 +7,7 @@ modified date: 2025-11-21 21:15
 ---
 ang. *Mathematical analysis*
 
-Jeden z głównych [[Dziedziny matematyki|działów]] matematyki.
+Jeden z głównych [[MOC Dziedziny matematyki|działów]] matematyki.
 
 
 ###### [[Funkcja]]

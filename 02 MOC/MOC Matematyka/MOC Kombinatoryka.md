@@ -5,7 +5,7 @@ tags:
   - moc
 modified date: 2025-11-21 18:05
 ---
-Dział [[Matematyka dyskretna|matematyki dyskretnej]].
+Dział [[MOC Matematyka dyskretna|matematyki dyskretnej]].
 
 ## Koncepcje
 

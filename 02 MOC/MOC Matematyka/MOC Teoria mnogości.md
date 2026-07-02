@@ -21,8 +21,8 @@ ang. *set theory*
 - Na początku XX wieku [[Ernst Zermelo]] i [[Adolf Abraham Halevi]] zaproponowali system aksjomatów, nakładający pewne ograniczenia  wykluczający paradoksy. Aksjomatyczna teoria mnogości. 
 
 
-$\leftarrow$ [[Dziedziny matematyki]]
-$\leftarrow$ [[Podstawy matematyki]]
+$\leftarrow$ [[MOC Dziedziny matematyki]]
+$\leftarrow$ [[MOC Podstawy matematyki]]
 $\rightarrow$ [[Zbiór]]
 $\rightarrow$ [[Ontologia zbiorów]]
 $\rightarrow$ [[Zbiory a działy matematyki]]

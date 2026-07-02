@@ -31,7 +31,7 @@ recenzje wkleić
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
 
 [[robocza]]
-[[IT]]
+[[MOC IT]]
 [[Język programowania]]
 [[MOC Typy danych]]
 [[C Sharp]]
