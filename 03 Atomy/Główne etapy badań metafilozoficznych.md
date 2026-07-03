@@ -7,7 +7,7 @@ dojrzalosc: Krzak 🌿
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-03 13:48
 ---
-Dla [[Metafilozofia|metafilozofii]] w znaczeniu węzszym.
+Dla [[MOC Metafilozofia|metafilozofii]] w znaczeniu węzszym.
 
 1. Opis zastanych nauk, doktryn lub systemów filozoficznych czy typowych czynności związanych z uprawianiem filozofii.
 2. Ocena wartości tego, co zastane.

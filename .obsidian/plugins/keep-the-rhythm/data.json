@@ -3235,8 +3235,8 @@
           },
           {
             "timeKey": "17:20",
-            "w": -159,
-            "c": -1079
+            "w": -220,
+            "c": -1426
           }
         ],
         "id": 388
@@ -3344,15 +3344,15 @@
           },
           {
             "timeKey": "17:20",
-            "w": -159,
-            "c": -1079
+            "w": -220,
+            "c": -1426
           }
         ],
         "id": 389
       },
       {
         "date": "2026-07-03",
-        "filePath": "03 Atomy/Metafilozofia.md",
+        "filePath": "02 MOC/MOC Filozofia/MOC Metafilozofia.md",
         "wordCountStart": 177,
         "charCountStart": 1402,
         "changes": [
@@ -3389,7 +3389,12 @@
           {
             "timeKey": "17:20",
             "w": 131,
-            "c": 835
+            "c": 856
+          },
+          {
+            "timeKey": "17:25",
+            "w": 0,
+            "c": 1
           }
         ],
         "id": 390
@@ -3967,7 +3972,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 43,
+            "c": 401
+          }
+        ],
         "id": 428
       },
       {
@@ -3997,6 +4008,22 @@
           }
         ],
         "id": 430
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/05 Filozofia przełomu epok.md",
+        "wordCountStart": 142,
+        "charCountStart": 1078,
+        "changes": [],
+        "id": 431
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/06 Filozofia współczesna.md",
+        "wordCountStart": 1005,
+        "charCountStart": 7767,
+        "changes": [],
+        "id": 432
       }
     ]
   }

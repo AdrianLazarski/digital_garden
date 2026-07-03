@@ -1,8 +1,8 @@
 ---
 created: 2026-02-28 19:46
 tags:
-  - atom
   - filozofia/metafilozofia
+  - moc
 dojrzalosc: Krzak 🌿
 status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-07-03 13:44
@@ -11,7 +11,7 @@ modified date: 2026-07-03 13:44
 
 ## Znaczenie szerokie
 - Metafilozofia w szerokim sensie to zespół nauk o [[MOC Filozofia|filozofii]], a w wąskim sensie to epistemologia i metodologia poznania filozoficznego.
-- Metanauka N' to nauka, która zajmuje się nauką N.
+- Metanauka $N'$ to nauka, która zajmuje się nauką $N$.
 - Przy tym rozumieniu metafilozofią będzie logika, semiotyka, metodologia filozofii, teoria poznania filozofii, historia, psychologia, socjologia filozofii itp. oraz bibliologia filozofii, dydaktyka filozofii itp.
 
 ## Znaczenie wąskie
@@ -29,6 +29,7 @@ modified date: 2026-07-03 13:44
 [[Podziały filozofii]]
 [[Charakterystyka i krytyka wiedzy filozoficznej]]
 
+[[MOC Socjologiczne i regionalne ujęcia filozofii]]
 ## 2.1 Geneza filozofii
 
 [[Etymologia i historia pojęcia filozofii]]
@@ -47,15 +48,10 @@ modified date: 2026-07-03 13:44
 [[Filozofia a światopogląd]]
 
 
-[[MOC Socjologiczne i regionalne ujęcia filozofii]]
-
-
-
 
 # Proweniencja
 
 $\leftarrow$  [[MOC Filozofia]]
-
 
 M. Hempoliński, Filozofia współczesna. Wprowadzenie do zagadnień i kierunków, Warszawa 1989, s. 7-51.
 J. M. Bocheński, Zarys historii filozofii, Kraków 1993, s. 15-18, 22-27.
@@ -70,5 +66,5 @@ J. Wojtysiak, Filozofia. Pochwała ciekawości, Kraków 2009, s. 11-16.
 A. Anzenbacher, Wprowadzenie do filozofii, Kraków 2018, s. 17-56. [wydanie zmienione]
 
 
-
+-----------------------
 [^1]: A. B. Stępień, Wprowadzenie do filozofii, Lublin 2001 , s. 111-112.
