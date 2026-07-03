@@ -3240,6 +3240,21 @@
             "timeKey": "13:00",
             "w": -116,
             "c": -863
+          },
+          {
+            "timeKey": "13:15",
+            "w": -495,
+            "c": -3795
+          },
+          {
+            "timeKey": "13:20",
+            "w": -624,
+            "c": -4618
+          },
+          {
+            "timeKey": "13:25",
+            "w": -480,
+            "c": -3712
           }
         ],
         "id": 389
@@ -3365,8 +3380,112 @@
         "filePath": "03 Atomy/Filozofia a nauka.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:15",
+            "w": 314,
+            "c": 2478
+          }
+        ],
         "id": 400
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Filozofia a religia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:15",
+            "w": 223,
+            "c": 1657
+          }
+        ],
+        "id": 401
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Filozofia a sztuka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 39,
+            "c": 309
+          }
+        ],
+        "id": 402
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Filozofia a sztuka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 39,
+            "c": 309
+          }
+        ],
+        "id": 403
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Filozofia a ideologia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 72,
+            "c": 537
+          }
+        ],
+        "id": 404
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Filozofia a światopogląd.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 60,
+            "c": 497
+          }
+        ],
+        "id": 405
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Historyczne definicje filozofii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 540,
+            "c": 3988
+          }
+        ],
+        "id": 406
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Główne koncepcje filozofii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 502,
+            "c": 3888
+          }
+        ],
+        "id": 407
       }
     ]
   }
