@@ -3222,6 +3222,11 @@
             "timeKey": "16:15",
             "w": -30,
             "c": -283
+          },
+          {
+            "timeKey": "17:10",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 388
@@ -3316,6 +3321,11 @@
             "timeKey": "16:15",
             "w": -30,
             "c": -283
+          },
+          {
+            "timeKey": "17:10",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 389
@@ -3905,7 +3915,7 @@
       },
       {
         "date": "2026-07-03",
-        "filePath": "02 MOC/MOC Dzieła filozoficzne.md",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3916,11 +3926,47 @@
           },
           {
             "timeKey": "16:20",
-            "w": 53,
-            "c": 387
+            "w": 59,
+            "c": 430
           }
         ],
         "id": 427
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 428
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Socjologiczne i regionalne ujęcia filozofii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:25",
+            "w": 30,
+            "c": 274
+          }
+        ],
+        "id": 429
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "Skróty klawiszowe.md",
+        "wordCountStart": 204,
+        "charCountStart": 1888,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 430
       }
     ]
   }

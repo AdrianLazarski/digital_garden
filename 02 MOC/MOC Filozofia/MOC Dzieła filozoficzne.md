@@ -36,4 +36,5 @@ modified date: 2026-07-03 16:16
 [[MOC Dzieła za zakresu propedeutyki filozofii]]
 
 [[MOC Dzieła z zakresu historii filozofii]]
+[[MOC Dzieła z zakresu filozofii wschodu]]
 [[MOC Najlepsze dzieła filozoficzne]]
