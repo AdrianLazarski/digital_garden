@@ -4019,11 +4019,111 @@
       },
       {
         "date": "2026-07-03",
-        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/06 Filozofia współczesna.md",
+        "filePath": "02 MOC/MOC Filozofia współczesna.md",
         "wordCountStart": 1005,
         "charCountStart": 7767,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": -18,
+            "c": -353
+          },
+          {
+            "timeKey": "17:35",
+            "w": -607,
+            "c": -4347
+          }
+        ],
         "id": 432
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 23,
+            "c": 186
+          }
+        ],
+        "id": 433
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/MOC Nurty filozofii współczesnej.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 63,
+            "c": 724
+          }
+        ],
+        "id": 434
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Filozofowie współcześni.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 601,
+            "c": 4403
+          }
+        ],
+        "id": 435
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 1945).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 27,
+            "c": 201
+          },
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 26
+          }
+        ],
+        "id": 436
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 29,
+            "c": 226
+          }
+        ],
+        "id": 437
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 21,
+            "c": 166
+          }
+        ],
+        "id": 438
       }
     ]
   }

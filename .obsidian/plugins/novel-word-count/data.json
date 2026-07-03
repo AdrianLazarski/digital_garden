@@ -58012,20 +58012,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 22,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 85,
-      "nonWhitespaceCharacterCount": 76,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.033962264150943396,
-      "linkCount": 3,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 229,
+      "nonWhitespaceCharacterCount": 204,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783088736439,
-      "modifiedDate": 1783092535379,
-      "sizeInBytes": 263,
+      "modifiedDate": 1783092598935,
+      "sizeInBytes": 411,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -79407,33 +79407,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/Filozofia/Historia filozofii/06 Filozofia współczesna.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 963,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.21,
-      "characterCount": 7767,
-      "nonWhitespaceCharacterCount": 6797,
-      "newlineCount": 249,
-      "readingTimeInMinutes": 3.6339622641509433,
-      "linkCount": 176,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304396952,
-      "modifiedDate": 1738262228958,
-      "sizeInBytes": 7951,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.21,
-        "wordCount": 963,
-        "characterCount": 7767,
-        "nonWhitespaceCharacterCount": 6797,
-        "newlineCount": 249
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/05 Filozofia przełomu epok.md.edtz": {
@@ -127914,6 +127887,257 @@
         "dojrzalosc": "Krzak 🌿",
         "status_epistemiczny": "Prawdopodobny 🧪",
         "modified date": "2026-07-03 13:44"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783092731204,
+      "modifiedDate": 1783092756090,
+      "sizeInBytes": 192,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 17:32",
+        "tags": [
+          "moc",
+          "filozofia/starożytna",
+          "filozofia/dzieła"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-03 17:32"
+      }
+    },
+    "01 Input przejściowy/Filozofia/Historia filozofii/MOC Nurty filozofii współczesnej.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 42,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14,
+      "characterCount": 559,
+      "nonWhitespaceCharacterCount": 509,
+      "newlineCount": 28,
+      "readingTimeInMinutes": 0.15849056603773584,
+      "linkCount": 24,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783092865641,
+      "modifiedDate": 1783092896420,
+      "sizeInBytes": 742,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 17:34",
+        "tags": [
+          "moc",
+          "filozofia/współczesna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-03 17:34"
+      }
+    },
+    "02 MOC/MOC Filozofia współczesna.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 328,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0933333333333333,
+      "characterCount": 2869,
+      "nonWhitespaceCharacterCount": 2424,
+      "newlineCount": 71,
+      "readingTimeInMinutes": 1.2377358490566037,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304396952,
+      "modifiedDate": 1783093040843,
+      "sizeInBytes": 3204,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "moc",
+          "filozofia/współczesna",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-03 17:33"
+      }
+    },
+    "02 MOC/MOC Filozofowie współcześni.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 586,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.9533333333333334,
+      "characterCount": 4238,
+      "nonWhitespaceCharacterCount": 3776,
+      "newlineCount": 151,
+      "readingTimeInMinutes": 2.211320754716981,
+      "linkCount": 145,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783092946664,
+      "modifiedDate": 1783093006035,
+      "sizeInBytes": 4450,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 17:35",
+        "tags": [
+          "moc",
+          "filozofia/współczesna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-03 17:36"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 1945).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 62,
+      "nonWhitespaceCharacterCount": 52,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783093089891,
+      "modifiedDate": 1783093200705,
+      "sizeInBytes": 235,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 17:38",
+        "tags": [
+          "moc",
+          "filozofia/współczesna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-03 17:39"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 61,
+      "nonWhitespaceCharacterCount": 52,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783093098895,
+      "modifiedDate": 1783093155614,
+      "sizeInBytes": 234,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 17:38",
+        "tags": [
+          "moc",
+          "filozofia/współczesna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-03 17:38"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783093229817,
+      "modifiedDate": 1783093229817,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

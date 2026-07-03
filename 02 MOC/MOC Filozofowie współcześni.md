@@ -1,73 +1,13 @@
-
-**Spis treści**
-
-1. [Informacje ogólne](#Informacje%20og%C3%B3lne)
-2. [Filozofowie współcześni](#Filozofowie%20wsp%C3%B3%C5%82cze%C5%9Bni)
-		1. [**XIX/XX w.**](#**XIX/XX%20w.**)
-		2. [**XX w.**](#**XX%20w.**)
-		3. [**XX/XXI w.**](#**XX/XXI%20w.**)
-3. [Nurty filozofii współczesnej](#Nurty%20filozofii%20wsp%C3%B3%C5%82czesnej)
-
-
-# Informacje ogólne
-
-- Filozofia współczesna jest procesem i nie ma ściśle ustalonego początku. Rozwijała się i dalej rozwija jako odpowiedź na nowe warunki:
-	1. historyczne
-		- Wojny światowe
-		- Ludobójstwa
-		- Ustanowienie i łamanie praw człowieka
-	2. społeczno-ekonomiczne
-		- Kapitalizm
-		- Globalizacja
-		- Nowe ruchy polityczne: totalitarne, liberalne
-	3. technologiczne
-		- Rozwój medycyny rodzący problemy bioetyczne.
-		- Globalna komunikacja
-		- Jeszcze większe panowanie nad przyrodą i społeczeństwem
-	4. kulturowe
-		- Homogenizacja kultur
-		- Ideologizacja społeczeństw (np. ekologia)
-		- Tolerancja i dyskryminacja
-- Niezrozumienie tego prowadzi do absurdalnych tez o "początku współczesności" jak u Hegla, czy Husserla.
-- Filozofia współczesna to rozwinięcie projektu oświeceniowego w postaci rozwijania jego wątków lub głoszenia, że się wyczerpał - nowoczesność krytykuje samą siebie.
-- Lejtomotywami: nauka, rozum, inny.
-- Filozofia współczesna jest antysystemowa i odchodzi też od szkół na rzecz pojedynczych myślicieli.
-- Jest już zawsze upolityczniona.
-
-Stosunek filozofii współczesnej do historii filozofii:
-1. <u>Teorie zerwania</u>
-	1. Załamanie racjonalności
-		- Rozum nie jest w stanie oddać nowej rzeczywistości, tylko totalizuje.
-		- Rozum doprowadził do wojen i okrucieństw.
-		- Rozum jest zerwaniem ze światem codziennym.
-		- Należy stworzyć nowy model racjonalności.
-	2. Hermeneutyki podejrzeń
-		- Termin pochodzi od Paula Ricoeura.
-		- To, co się jawi, jest konstytuuowane w nieświadomy sposób.
-		- Należy być podejrzliwym, identyfikować wpływy i je eliminować.
-	3. Destrukcja metafizyki
-		- Dotychczasowa myśl ogranicza filozofów.
-		- Same pojęcia przemycają metafizykę.
-		- Należy stworzyć nowy słownik filozoficzny
-- Teoria zerwania prowadzi do absurdalnych wniosków typu "Platon jest winien wybuchowi wojen".
-- Zerwanie samo może być kontynuacją: skąd wiadomo, że jest to „nowy początek”?
-- Prowadzi to do powtarzania błędów dawnych filozofów.
-2. <u>Teorie kontynuacji</u>
-	1. Historyzm
-		- Filozofia wyrasta z poprzednich teorii na zasadzie determinizmu.
-		- Nie mamy wpływu na historyczność swojego myślenia.
-		- Filozof powinien wskazywać na przekształcenia własnych myśli.
-	2. Krytyczna analiza
-		- Filozofia ma być jedynie analizą dotychczasowych teorii i pełnić rolę porządkującą.
-	3. Ukryte wpływy
-		- Myśl współczesna jest determinowana w sposób utajony.
-		- Filozof nie jest świadom swoich wpływów, dlatego każda filozofia jest kontynuacją.
-	- Problem nowości: czy kontynuacja wnosi coś nowego?
-
-Zob. [[05 Filozofia przełomu epok]]
-# Filozofowie współcześni
-
-### **XIX/XX w.**
+---
+created: 2026-07-03 17:35
+tags:
+  - moc
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-03 17:36
+---
+# **XIX/XX w.**
 [[Gottlob Frege]] 1848-1925
 [[Sigmund Freud]] 1856-1939
 [[Edmund Husserl]] 1859-1938
@@ -124,7 +64,7 @@ Zob. [[05 Filozofia przełomu epok]]
 [[Gilbert Ryle]] 1900-1976
 [[Erich Fromm]] 1900-1980
 
-### **XX w.**
+# **XX w.**
 [[Jacques Lacan]] 1901-1981
 [[Alfred Tarski]] 1901-1983
 [[Eric Voegelin]] 1901-1985
@@ -167,7 +107,7 @@ Zob. [[05 Filozofia przełomu epok]]
 [[Józef Tischner]] 1931-2000
 [[Panagiotis Kondylis]] 1943-1998
 
-### **XX/XXI w.**
+# **XX/XXI w.**
 [[Hans-Georg Gadamer]] 1900-2002
 [[Claude Levi-Strauss]] 1908-2009
 [[Paul Ricœur]] 1913-2005
@@ -217,33 +157,3 @@ Zob. [[05 Filozofia przełomu epok]]
 [[Paul Moser]] 1957
 [[Artur Andrzejuk]] 1965
 [[Graham Harman]] 1968
-
-# Nurty filozofii współczesnej
-
-[[Filozofia życia]]
-[[Egzystencjalizm]]
-Socjalizm (polityka)
-Socjalizm (filozofia)
-[[Modernizm katolicki]]
-[[Neoscholastyka]]
-	[[Neotomizm]]
-[[Neokantyzm]]
-	• [[Szkoła marburska]]
-	• [[Szkoła badeńska]]
-
-[[Szkoła frankfurcka]]
-[[Feminizm]]
-[[Fenomenologia]]
-[[Filozofia analityczna]]
-	[[Neopozytywizm]] (pozytywizm logiczny)
-	[[Koło wiedeńskie]]
-	[[Szkoła lwowsko-warszawska]]
-[[Filozofia dialogu]]
-[[Hermeneutyka]]
-[[Konserwatywna rewolucja]]
-[[Marksizm]]
-[[Modernizm (filozofia)]]
-[[Neoarystotelizm]]
-[[Postkolonializm]]
-[[Postmodernizm]]
-[[Strukturalizm]]
