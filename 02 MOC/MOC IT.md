@@ -5,6 +5,21 @@ tags:
   - moc
 modified date: 2025-11-23 14:26
 ---
+$\rightarrow$ [[MOC Języki programowania]]
+	$\rightarrow$ [[MOC C Sharp]]
+	$\rightarrow$ [[MOC SQL składnia]]
+$\rightarrow$ [[MOC Metodyka programowania]]
+	$\rightarrow$ [[MOC Programowanie obiektowe]]
+$\rightarrow$ [[MOC Narzędzia]]
+	$\rightarrow$ [[MOC Środowisko programistyczne]]
+$\rightarrow$ [[MOC Typy danych]]
+$\rightarrow$ [[MOC Operator (Programowanie)]]
+$\rightarrow$ [[MOC Media przewodowe]]
+
+
+
+
+
 
 - [[Programowanie]]
 	- [[Język programowania]]

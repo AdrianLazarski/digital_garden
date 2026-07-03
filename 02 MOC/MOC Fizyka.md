@@ -4,6 +4,10 @@ tags:
   - moc
 ---
 
+$\rightarrow$ [[MOC Fizycy]]
+$\rightarrow$ [[MOC Jednostki fizyczne]]
+$\rightarrow$ [[MOC Kształty prądu okresowego]]
+
 
 
 [[MOC Fizycy]]

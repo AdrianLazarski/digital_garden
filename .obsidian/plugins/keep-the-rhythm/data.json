@@ -2508,7 +2508,7 @@
       },
       {
         "date": "2026-07-02",
-        "filePath": "02 MOC/MOC Matematyka/MOC Matematyka.md",
+        "filePath": "02 MOC/MOC Matematyka.md",
         "wordCountStart": 30,
         "charCountStart": 232,
         "changes": [],
@@ -2646,7 +2646,7 @@
       },
       {
         "date": "2026-07-02",
-        "filePath": "02 MOC/MOC IT/MOC IT.md",
+        "filePath": "02 MOC/MOC IT.md",
         "wordCountStart": 62,
         "charCountStart": 570,
         "changes": [],
@@ -2894,7 +2894,7 @@
       },
       {
         "date": "2026-07-02",
-        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia.md",
+        "filePath": "02 MOC/MOC Filozofia.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2938,7 +2938,7 @@
       },
       {
         "date": "2026-07-02",
-        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia.md",
+        "filePath": "02 MOC/MOC Filozofia.md",
         "wordCountStart": 3564,
         "charCountStart": 26374,
         "changes": [
@@ -3203,7 +3203,7 @@
       },
       {
         "date": "2026-07-03",
-        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia.md",
+        "filePath": "02 MOC/MOC Filozofia.md",
         "wordCountStart": 98,
         "charCountStart": 1007,
         "changes": [
@@ -3217,7 +3217,7 @@
       },
       {
         "date": "2026-07-03",
-        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia.md",
+        "filePath": "02 MOC/MOC Filozofia.md",
         "wordCountStart": 3584,
         "charCountStart": 26510,
         "changes": [
@@ -3677,9 +3677,136 @@
             "timeKey": "14:15",
             "w": -6,
             "c": -66
+          },
+          {
+            "timeKey": "15:50",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "15:55",
+            "w": -42,
+            "c": -427
+          },
+          {
+            "timeKey": "16:00",
+            "w": -101,
+            "c": -1034
           }
         ],
         "id": 413
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC IT.md",
+        "wordCountStart": 62,
+        "charCountStart": 570,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": 40,
+            "c": 409
+          }
+        ],
+        "id": 414
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Socjologia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": 20,
+            "c": 157
+          }
+        ],
+        "id": 415
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Psychologia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": 19,
+            "c": 140
+          }
+        ],
+        "id": 416
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Logika.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 24,
+            "c": 197
+          }
+        ],
+        "id": 417
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Historia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 20,
+            "c": 153
+          }
+        ],
+        "id": 418
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Ekonomia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 20,
+            "c": 153
+          }
+        ],
+        "id": 419
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Matematyka.md",
+        "wordCountStart": 30,
+        "charCountStart": 232,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 96,
+            "c": 981
+          }
+        ],
+        "id": 420
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Fizyka.md",
+        "wordCountStart": 16,
+        "charCountStart": 172,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 12,
+            "c": 119
+          }
+        ],
+        "id": 421
       }
     ]
   }
