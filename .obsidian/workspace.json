@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Metafilozofia.md",
+                "file": "03 Atomy/Metafilozofia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -376,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Metafilozofia.md",
+                "file": "03 Atomy/Metafilozofia.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -473,16 +473,17 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "8c0c9fb94f4a78d3",
+  "active": "180c24419c3d71cd",
   "lastOpenFiles": [
     "01 Input przejściowy/Filozofia/MOC Filozofia.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
-    "01 Input przejściowy/Filozofia/Metafilozofia.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Tales z Miletu.md",
-    "03 Atomy/Podziały filozofii.md",
-    "03 Atomy/Metody filozoficzne.md",
+    "03 Atomy/Metafilozofia.md",
+    "03 Atomy/Główne etapy badań metafilozoficznych.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "Zettelkasten.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Tales z Miletu.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
+    "03 Atomy/Podziały filozofii.md",
+    "03 Atomy/Metody filozoficzne.md",
     "03 Atomy/Psychologiczne źródła filozofowania.md",
     "03 Atomy/Filozofia a nauka.md",
     "03 Atomy/Filozofia a religia.md",
@@ -500,7 +501,6 @@
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Heraklit z Efezu.md",
     "02 MOC/MOC Filozofia/MOC Filozofia.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/03 Filozofia renesansowa.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/02 Filozofia średniowieczna.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",

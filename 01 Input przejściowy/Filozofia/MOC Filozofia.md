@@ -40,7 +40,7 @@ Notatki strukturyzujące refleksję nad filozofią z zewnątrz, określające je
 [[Metody filozoficzne]]
 [[Historyczne definicje filozofii]]
 [[Główne koncepcje filozofii]]
- [[Podziały filozofii]]
+[[Podziały filozofii]]
 
 # Obszar propedeutyczny
 

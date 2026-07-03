@@ -3275,13 +3275,18 @@
             "timeKey": "13:45",
             "w": 0,
             "c": 11
+          },
+          {
+            "timeKey": "13:50",
+            "w": 0,
+            "c": -1
           }
         ],
         "id": 389
       },
       {
         "date": "2026-07-03",
-        "filePath": "01 Input przejściowy/Filozofia/Metafilozofia.md",
+        "filePath": "03 Atomy/Metafilozofia.md",
         "wordCountStart": 177,
         "charCountStart": 1402,
         "changes": [
@@ -3297,8 +3302,13 @@
           },
           {
             "timeKey": "13:45",
-            "w": 4,
-            "c": 47
+            "w": -44,
+            "c": -307
+          },
+          {
+            "timeKey": "13:50",
+            "w": 0,
+            "c": -5
           }
         ],
         "id": 390
@@ -3617,6 +3627,25 @@
           }
         ],
         "id": 411
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Główne etapy badań metafilozoficznych.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:45",
+            "w": 76,
+            "c": 581
+          },
+          {
+            "timeKey": "13:50",
+            "w": 10,
+            "c": 103
+          }
+        ],
+        "id": 412
       }
     ]
   }
