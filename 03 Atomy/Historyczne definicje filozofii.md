@@ -41,3 +41,6 @@ modified date: 2026-07-03 13:23
 - Reale: Filozofia nie tylko nie jest zmienianiem świata, ale nie powinna również służyć zmienianiu świata.
 - Anzenbacher: Filozofia to nieempiryczna wiedza o świecie empirycznym. Filozofia to krytyczna wiedza rozumowa o warunkach możliwości rzeczywistości doświadczalnej jako całości.
 
+# Proweniencja
+
+$\leftarrow$  [[MOC Filozofia]]

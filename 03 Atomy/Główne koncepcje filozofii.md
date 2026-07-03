@@ -38,3 +38,12 @@ modified date: 2026-07-03 13:25
 - Filozofia to jej wieczne pytania. Równie ważnym zadaniem, co szukanie odpowiedzi na pytania, jest ostateczne sformułowanie tych pytań w sposób już nieredukowalny do innych. Na tego typu pytania nigdy nie będzie ostatecznej odpowiedzi, bo są one rdzeniem naszego życia umysłowego[^2].
 - Bocheński: Historyk filozofii mógłby za filozofię uznać to, co filozofowie w danej epoce uważali za filozofię, ale to słaby pomysł, bo musiałby się zajmować np. botaniką.
 
+
+# Proweniencja
+
+$\leftarrow$  [[MOC Filozofia]]
+
+[^1]: J. Hartman, Filozofia, [w:] Słownik filozofii, Kraków 2006, s. 61-63.
+[^2]: J. Hartman, Filozofia, [w:] Słownik filozofii, Kraków 2006, s. 61-63.
+[^3]: J. M. Bocheński, Zarys historii filozofii, Kraków 1993, s. 23.
+[^4]: A. B. Stępień, Wprowadzenie do filozofii, Lublin 2001 , s. 24-28.

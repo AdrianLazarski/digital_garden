@@ -2957,7 +2957,7 @@
       },
       {
         "date": "2026-07-02",
-        "filePath": "01 Input przejściowy/Filozofia/Podziały filozofii.md",
+        "filePath": "03 Atomy/Podziały filozofii.md",
         "wordCountStart": 919,
         "charCountStart": 7466,
         "changes": [
@@ -3264,7 +3264,17 @@
           {
             "timeKey": "13:35",
             "w": 22,
-            "c": 200
+            "c": 188
+          },
+          {
+            "timeKey": "13:40",
+            "w": -51,
+            "c": -324
+          },
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": 11
           }
         ],
         "id": 389
@@ -3279,6 +3289,16 @@
             "timeKey": "12:30",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "13:40",
+            "w": 23,
+            "c": 184
+          },
+          {
+            "timeKey": "13:45",
+            "w": 4,
+            "c": 47
           }
         ],
         "id": 390
@@ -3395,6 +3415,11 @@
             "timeKey": "13:15",
             "w": 314,
             "c": 2478
+          },
+          {
+            "timeKey": "13:40",
+            "w": 4,
+            "c": 48
           }
         ],
         "id": 400
@@ -3409,6 +3434,11 @@
             "timeKey": "13:15",
             "w": 223,
             "c": 1657
+          },
+          {
+            "timeKey": "13:40",
+            "w": 4,
+            "c": 47
           }
         ],
         "id": 401
@@ -3451,6 +3481,11 @@
             "timeKey": "13:20",
             "w": 72,
             "c": 537
+          },
+          {
+            "timeKey": "13:40",
+            "w": 4,
+            "c": 47
           }
         ],
         "id": 404
@@ -3465,6 +3500,11 @@
             "timeKey": "13:20",
             "w": 60,
             "c": 497
+          },
+          {
+            "timeKey": "13:40",
+            "w": 4,
+            "c": 47
           }
         ],
         "id": 405
@@ -3479,6 +3519,11 @@
             "timeKey": "13:20",
             "w": 540,
             "c": 3988
+          },
+          {
+            "timeKey": "13:40",
+            "w": 4,
+            "c": 47
           }
         ],
         "id": 406
@@ -3493,6 +3538,11 @@
             "timeKey": "13:25",
             "w": 502,
             "c": 3888
+          },
+          {
+            "timeKey": "13:40",
+            "w": 53,
+            "c": 342
           }
         ],
         "id": 407
@@ -3512,6 +3562,11 @@
             "timeKey": "13:30",
             "w": 385,
             "c": 2815
+          },
+          {
+            "timeKey": "13:40",
+            "w": 4,
+            "c": 49
           }
         ],
         "id": 408
@@ -3526,9 +3581,42 @@
             "timeKey": "13:30",
             "w": 265,
             "c": 1966
+          },
+          {
+            "timeKey": "13:40",
+            "w": 4,
+            "c": 47
           }
         ],
         "id": 409
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Metody filozoficzne.md",
+        "wordCountStart": 388,
+        "charCountStart": 3065,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": 22,
+            "c": 174
+          }
+        ],
+        "id": 410
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Podziały filozofii.md",
+        "wordCountStart": 939,
+        "charCountStart": 7617,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": 2,
+            "c": 18
+          }
+        ],
+        "id": 411
       }
     ]
   }

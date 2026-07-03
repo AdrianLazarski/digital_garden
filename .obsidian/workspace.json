@@ -176,12 +176,12 @@
             }
           },
           {
-            "id": "4d8fc342140bd007",
+            "id": "8c0c9fb94f4a78d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Psychologiczne źródła filozofowania.md",
+                "file": "01 Input przejściowy/Filozofia/Metafilozofia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,35 +196,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Psychologiczne źródła filozofowania"
-            }
-          },
-          {
-            "id": "3c4ba92e4ae50504",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Charakterystyka i krytyka wiedzy filozoficznej.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Charakterystyka i krytyka wiedzy filozoficznej"
+              "title": "Metafilozofia"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -400,13 +376,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/MOC Filozofia.md",
+                "file": "01 Input przejściowy/Filozofia/Metafilozofia.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Filozofia"
+              "title": "Konspekt Metafilozofia"
             }
           },
           {
@@ -497,34 +473,34 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "eeaa149ed8d46a49",
+  "active": "8c0c9fb94f4a78d3",
   "lastOpenFiles": [
-    "03 Atomy/Charakterystyka i krytyka wiedzy filozoficznej.md",
     "01 Input przejściowy/Filozofia/MOC Filozofia.md",
-    "03 Atomy/Etymologia i historia pojęcia filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Tales z Miletu.md",
-    "03 Atomy/Główne koncepcje filozofii.md",
-    "03 Atomy/Historyczne definicje filozofii.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
-    "03 Atomy/Filozofia a światopogląd.md",
-    "03 Atomy/Filozofia a ideologia.md",
-    "03 Atomy/Filozofia a sztuka.md",
-    "03 Atomy/Filozofia a religia.md",
-    "03 Atomy/Filozofia a nauka.md",
+    "01 Input przejściowy/Filozofia/Metafilozofia.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Tales z Miletu.md",
+    "03 Atomy/Podziały filozofii.md",
+    "03 Atomy/Metody filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "Zettelkasten.md",
     "03 Atomy/Psychologiczne źródła filozofowania.md",
+    "03 Atomy/Filozofia a nauka.md",
+    "03 Atomy/Filozofia a religia.md",
+    "03 Atomy/Filozofia a sztuka.md",
+    "03 Atomy/Filozofia a ideologia.md",
+    "03 Atomy/Filozofia a światopogląd.md",
+    "03 Atomy/Historyczne definicje filozofii.md",
+    "03 Atomy/Główne koncepcje filozofii.md",
+    "03 Atomy/Etymologia i historia pojęcia filozofii.md",
+    "03 Atomy/Charakterystyka i krytyka wiedzy filozoficznej.md",
     "03 Atomy/Filozofia a zdrowy rozsądek.md",
     "03 Atomy/Historyczno-kulturowe przyczyny powstania filozofii w Grecji.md",
     "03 Atomy/Przedfilozoficzne formy poznania.md",
     "03 Atomy/Trzy punkty wyjścia filozofii.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Heraklit z Efezu.md",
-    "01 Input przejściowy/Filozofia/Metafilozofia.md",
     "02 MOC/MOC Filozofia/MOC Filozofia.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/03 Filozofia renesansowa.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/02 Filozofia średniowieczna.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksagoras.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksymander.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksymenes.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",

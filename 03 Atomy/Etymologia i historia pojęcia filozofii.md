@@ -27,3 +27,7 @@ modified date: 2026-07-03 13:28
 - Podobnie Martens i Schnadelbach: zanikają granice między szkołami filozoficznymi i tradycyjne problemy filozoficzne zaczynają się wydawać przestarzałe. Nie oznacza to oczywiście wieczystego pokoju, ale bardziej ci autorzy preferują podział typologiczny na filozofię nastawioną na tradycję (czytanie tekstów), na praktykę (egzystencjalizm, pragmatyzm, teoria krytyczna) i na naukę, przy czym chodzi o główny nacisk, a nie wyłączność tematyczną, bo tak naprawdę każdy element jest w każdej grupie.
 - Definicje filozofii we wstępach do filozofii to najczęściej po prostu deklaracje przynależności do danej orientacji czy szkoły filozoficznej. Należy patrzeć z przymrużeniem oka na wyłączność proponowanych przez nich metod filozoficznych.
 - Fichte: to, jaką ktoś filozofię wybiera, zależy od tego, jakim jest on człowiekiem.
+
+# Proweniencja
+
+$\leftarrow$  [[MOC Filozofia]]

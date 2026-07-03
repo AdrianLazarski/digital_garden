@@ -21,3 +21,6 @@ modified date: 2026-07-03 13:19
 	2. Filozofia redukuje religię do filozofii i próbuje ją uzasadnić rozumowo. Kant (religia w granicach samego tylko rozumu), Jaspers (wiara filozoficzna).
 4. Filozofia i religia to różne, ale wzajemnie korespondujące płaszczyzny. Filozofia może pomóc uracjonalnić religię, choć oczywiście w ograniczonym zakresie.
 
+# Proweniencja
+
+$\leftarrow$  [[MOC Filozofia]]

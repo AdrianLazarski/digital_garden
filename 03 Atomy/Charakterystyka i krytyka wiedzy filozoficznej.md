@@ -22,3 +22,6 @@ modified date: 2026-07-03 13:33
 [[1]] A. B. Stępień, Wprowadzenie do filozofii, Lublin 2001 , s. 23-24.
 
 
+# Proweniencja
+
+$\leftarrow$  [[MOC Filozofia]]

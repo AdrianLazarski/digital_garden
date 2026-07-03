@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - filozofia/metafilozofia
+dojrzalosc: Krzak 🌿
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-03 13:42
+---
 - Dobór metody zależy od ogólnej koncepcji filozofii oraz od uznawanej szkoły lub kierunku filozoficznego np. pozytywiści będą stosowali dedukcją oraz eksrapolację uogólnień indukcyjnych oraz wnioskowanie przez analogię.
 - Należy odróżnić metody złożone (makrometody) od ich składników (mikrometod).
 - Specyficznie filozoficzne
@@ -28,10 +37,10 @@ Metody filozoficzne:
 6. Transcendentalne
 7. Scjentystyczne tj. metody budowania teorii i ich kontroli poznawczej w naukach realnych i formalnych.
 
+# Proweniencja
+
+$\leftarrow$  [[MOC Filozofia]]
 
 
 **Bibliografia:**
 A. B. Stępień, Wprowadzenie do filozofii, Lublin 2001 , s. 28-39.
-
-
-#filozofia #filozofia/metafilozofia 

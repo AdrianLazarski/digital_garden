@@ -22,3 +22,7 @@ modified date: 2026-07-03 13:04
 - Filozofia jako nauka jest po prostu usystematyzowanym związkiem elementów/wiedzy.
 
 ![[Pasted image 20240402215145.png]]
+
+# Proweniencja
+
+$\leftarrow$  [[MOC Filozofia]]

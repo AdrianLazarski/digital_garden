@@ -36,33 +36,22 @@ modified date: 2026-07-02 22:00
 
 Notatki strukturyzujące refleksję nad filozofią z zewnątrz, określające jej status metodologiczny, definicje naukowe oraz etapy badawcze:
 
-[[Etymologia i historia pojęcia filozofii]]
-
+[[Metafilozofia]]
+[[Metody filozoficzne]]
+[[Historyczne definicje filozofii]]
+[[Główne koncepcje filozofii]]
+ [[Podziały filozofii]]
 
 # Obszar propedeutyczny
 
 Notatki wprowadzające w wewnętrzną strukturę myśli filozoficznej, jej psychologiczne oraz kulturowe źródła:
 
-[[Przedfilozoficzne formy poznania]]
-
-[[Historyczno-kulturowe przyczyny powstania filozofii w Grecji]]
-
-[[Psychologiczne źródła filozofowania]]
-
-
+[[Etymologia i historia pojęcia filozofii]]
 [[Charakterystyka i krytyka wiedzy filozoficznej]]
-
-[[Historyczne definicje filozofii]]
-
-[[Główne koncepcje filozofii]]
-
- [[Podziały filozofii]]
-
-[[Metody filozoficzne]]
-
 [[Trzy punkty wyjścia filozofii]]
-
-
+[[Przedfilozoficzne formy poznania]]
+[[Historyczno-kulturowe przyczyny powstania filozofii w Grecji]]
+[[Psychologiczne źródła filozofowania]]
 
 
 # Filozofia wobec innych zjawisk
@@ -76,7 +65,7 @@ Notatki wprowadzające w wewnętrzną strukturę myśli filozoficznej, jej psych
 
 
 
-## Bibliografia:
+# Bibliografia:
 
 M. Hempoliński, Filozofia współczesna. Wprowadzenie do zagadnień i kierunków, Warszawa 1989, s. 7-51.
 J. M. Bocheński, Zarys historii filozofii, Kraków 1993, s. 15-18, 22-27.
@@ -90,13 +79,6 @@ red. J. Hartman, Słownik filozofii, Kraków 2006, s. 60-67.
 J. Wojtysiak, Filozofia. Pochwała ciekawości, Kraków 2009, s. 11-16.
 A. Anzenbacher, Wprowadzenie do filozofii, Kraków 2018, s. 17-56. [wydanie zmienione]
 
-[^1]: J. Hartman, Filozofia, [w:] Słownik filozofii, Kraków 2006, s. 61-63.
-[^2]: J. Hartman, Filozofia, [w:] Słownik filozofii, Kraków 2006, s. 61-63.
-[^3]: J. M. Bocheński, Zarys historii filozofii, Kraków 1993, s. 23.
-[^4]: A. B. Stępień, Wprowadzenie do filozofii, Lublin 2001 , s. 24-28.
 
 
 
-
-
-#filozofia #filozofia/metafilozofia
