@@ -2,8 +2,8 @@
 created: 2025-12-31 13:44
 tags:
   - fizyka/elektromagnetyzm
-  - atom
   - definicja
+  - moc
 modified date: 2025-12-31 13:44
 ---
 ang. *electromagnetism*
@@ -14,7 +14,7 @@ Po polsku określa się często jako elektrodynamika.
 
 
 $\leftarrow$ [[MOC Fizyka]]
-$\rightarrow$ [[MOC Elektromagnetyzm]]
+
 
 $\rightarrow$ [[Prąd elektryczny]]
 $\rightarrow$ [[Równania Maxwella]]
@@ -44,3 +44,5 @@ $\rightarrow$ [[Pierwsze prawo Kirchoffa PPK]]
 $\rightarrow$ [[Drugie prawo Kirchoffa NPK]]
 $\rightarrow$ [[Twierdzenie Nortona]]
 $\rightarrow$ [[Twierdzenie Thevenina]]
+
+[[MOC Kształty prądu okresowego]]

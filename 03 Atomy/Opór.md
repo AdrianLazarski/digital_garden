@@ -23,5 +23,5 @@ $$
 Zob.
 $\rightarrow$ [[Rezystancja wejściowa]]
 
-$\leftarrow$ [[Elektromagnetyzm]]
+$\leftarrow$ [[MOC Elektromagnetyzm]]
 

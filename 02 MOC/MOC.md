@@ -2,7 +2,7 @@
 created: 2026-07-02 15:31
 tags:
   - moc
-dojrzalosc: Sadzonka 🌱
+dojrzalosc: Krzak 🌿
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-02 20:42
 ---
@@ -18,22 +18,6 @@ modified date: 2026-07-02 20:42
 [[MOC Psychologia]] 🛋️
 [[MOC Religia]] ✝️
 [[MOC Socjologia]] 👪
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

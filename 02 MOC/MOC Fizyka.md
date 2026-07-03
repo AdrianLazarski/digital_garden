@@ -1,22 +1,16 @@
 ---
+created: 2026-02-28 19:46
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
 tags:
   - fizyka
   - moc
+modified date : 2026-07-03 16:08
 ---
-
-$\rightarrow$ [[MOC Fizycy]]
-$\rightarrow$ [[MOC Jednostki fizyczne]]
-$\rightarrow$ [[MOC Kształty prądu okresowego]]
-
-
-
+[[MOC Działy fizyki]]
 [[MOC Fizycy]]
+[[MOC Historia fizyki]]
 [[MOC Jednostki fizyczne]]
+[[MOC Pojęcia pierwotne fizyki]]
 
-## Pojęcia pierwotne fizyki
 
-[[Ładunek elektryczny]]
-
-## Działy fizyki
-
-[[Elektromagnetyzm]]

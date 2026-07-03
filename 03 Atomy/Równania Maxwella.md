@@ -13,4 +13,4 @@ modified date: 2025-12-31 14:57
  4. Prawo Ampera – zmienne pole elektryczne lub prąd indukują pole magnetyczne.
 
 
-$\leftarrow$ [[Elektromagnetyzm]]
+$\leftarrow$ [[MOC Elektromagnetyzm]]

@@ -8,7 +8,7 @@ tags:
 modified date: 2025-12-31 14:04
 ---
 > [!note] Definicja
-> Pojęcie pierwotne teorii [[Elektromagnetyzm|elektromagnetycznej]].
+> Pojęcie pierwotne teorii [[MOC Elektromagnetyzm|elektromagnetycznej]].
 
 - Podstawowa cecha materii.
 - Elektrony mają ładunek ujemny (-), protony mają ładunek dodatni (+).

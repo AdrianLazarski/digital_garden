@@ -45036,20 +45036,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 70,
+      "wordCount": 71,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.23333333333333334,
-      "characterCount": 594,
-      "nonWhitespaceCharacterCount": 509,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 598,
+      "nonWhitespaceCharacterCount": 512,
       "newlineCount": 21,
-      "readingTimeInMinutes": 0.2641509433962264,
+      "readingTimeInMinutes": 0.2679245283018868,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304405488,
-      "modifiedDate": 1767186059984,
-      "sizeInBytes": 755,
+      "modifiedDate": 1783087594632,
+      "sizeInBytes": 759,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.23333333333333334,
@@ -51907,42 +51907,6 @@
         "newlineCount": 0
       }
     },
-    "03 Atomy/Elektromagnetyzm.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 106,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.35333333333333333,
-      "characterCount": 1190,
-      "nonWhitespaceCharacterCount": 1068,
-      "newlineCount": 40,
-      "readingTimeInMinutes": 0.4,
-      "linkCount": 28,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304404469,
-      "modifiedDate": 1767192424314,
-      "sizeInBytes": 1344,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.35333333333333333,
-        "wordCount": 106,
-        "characterCount": 1190,
-        "nonWhitespaceCharacterCount": 1068,
-        "newlineCount": 40
-      },
-      "frontmatter": {
-        "created": "2025-12-31 13:44",
-        "tags": [
-          "fizyka/elektromagnetyzm",
-          "atom",
-          "definicja"
-        ],
-        "modified date": "2025-12-31 13:44"
-      }
-    },
     "03 Atomy/Ekstranet.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -54822,20 +54786,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 139,
+      "wordCount": 26,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.4633333333333333,
-      "characterCount": 1398,
-      "nonWhitespaceCharacterCount": 1189,
-      "newlineCount": 60,
-      "readingTimeInMinutes": 0.5245283018867924,
-      "linkCount": 36,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 230,
+      "nonWhitespaceCharacterCount": 192,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 11,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1782999089161,
-      "modifiedDate": 1783087057080,
-      "sizeInBytes": 1590,
+      "modifiedDate": 1783087377859,
+      "sizeInBytes": 406,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.6966666666666667,
@@ -54849,7 +54813,7 @@
         "tags": [
           "moc"
         ],
-        "dojrzalosc": "Sadzonka 🌱",
+        "dojrzalosc": "Krzak 🌿",
         "status_epistemiczny": "Aksjomatyczny 💎",
         "modified date": "2026-07-02 20:42"
       }
@@ -127328,16 +127292,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783087081872,
-      "modifiedDate": 1783087101817,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783087233054,
+      "sizeInBytes": 157,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -127345,6 +127309,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 15:58",
+        "tags": [
+          "moc",
+          "ekonomia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-03 16:00"
       }
     },
     "02 MOC/MOC Historia.md": {
@@ -127355,16 +127329,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783087089814,
-      "modifiedDate": 1783087109413,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783087221368,
+      "sizeInBytes": 157,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -127372,26 +127346,36 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 15:58",
+        "tags": [
+          "moc",
+          "historia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-03 16:00"
       }
     },
     "02 MOC/MOC Logika.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 4,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 47,
+      "nonWhitespaceCharacterCount": 38,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783087091845,
-      "modifiedDate": 1783087109427,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783087341728,
+      "sizeInBytes": 201,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -127399,6 +127383,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 15:58",
+        "tags": [
+          "moc",
+          "logika"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-03 16:00"
       }
     },
     "02 MOC/MOC Psychologia.md": {
@@ -127409,16 +127403,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783087101841,
-      "modifiedDate": 1783087111953,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783087184557,
+      "sizeInBytes": 144,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -127426,6 +127420,15 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 15:58",
+        "tags": [
+          "moc"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-03 15:59"
       }
     },
     "02 MOC/MOC Religia.md": {
@@ -127463,16 +127466,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783087109430,
-      "modifiedDate": 1783087114318,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783087169054,
+      "sizeInBytes": 161,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -127480,6 +127483,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 15:58",
+        "tags": [
+          "moc",
+          "socjologia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Prawdopodobny 🧪",
+        "modified date": "2026-07-03 15:59"
       }
     },
     "02 MOC/MOC Filozofia.md": {
@@ -127513,20 +127526,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 16,
+      "wordCount": 15,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.05333333333333334,
-      "characterCount": 172,
-      "nonWhitespaceCharacterCount": 139,
-      "newlineCount": 19,
-      "readingTimeInMinutes": 0.06037735849056604,
-      "linkCount": 0,
+      "pageCount": 0.05,
+      "characterCount": 124,
+      "nonWhitespaceCharacterCount": 106,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304403642,
-      "modifiedDate": 1767186507529,
-      "sizeInBytes": 175,
+      "modifiedDate": 1783087771086,
+      "sizeInBytes": 281,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -127534,26 +127547,36 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "tags": [
+          "fizyka",
+          "moc"
+        ],
+        "modified date": "2026-07-03 16:08"
       }
     },
     "02 MOC/MOC Matematyka.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 28,
+      "wordCount": 110,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09333333333333334,
-      "characterCount": 232,
-      "nonWhitespaceCharacterCount": 198,
-      "newlineCount": 14,
-      "readingTimeInMinutes": 0.10566037735849057,
-      "linkCount": 0,
+      "pageCount": 0.36666666666666664,
+      "characterCount": 1119,
+      "nonWhitespaceCharacterCount": 965,
+      "newlineCount": 29,
+      "readingTimeInMinutes": 0.41509433962264153,
+      "linkCount": 24,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304403887,
-      "modifiedDate": 1763813433099,
-      "sizeInBytes": 234,
+      "modifiedDate": 1783087308857,
+      "sizeInBytes": 1225,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -127561,6 +127584,14 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2025-11-22 13:07",
+        "tags": [
+          "matematyka",
+          "moc"
+        ],
+        "modified date": "2025-11-22 13:10"
       }
     },
     "02 MOC/MOC IT.md": {
@@ -127581,6 +127612,123 @@
       "createdDate": 1772304403685,
       "modifiedDate": 1783086930847,
       "sizeInBytes": 996,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC Fizyka/MOC Pojęcia pierwotne fizyki.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 175,
+      "nonWhitespaceCharacterCount": 149,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783087462970,
+      "modifiedDate": 1783087491372,
+      "sizeInBytes": 180,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC Fizyka/MOC Elektromagnetyzm.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 107,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3566666666666667,
+      "characterCount": 1187,
+      "nonWhitespaceCharacterCount": 1062,
+      "newlineCount": 42,
+      "readingTimeInMinutes": 0.4037735849056604,
+      "linkCount": 28,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304404469,
+      "modifiedDate": 1783087703913,
+      "sizeInBytes": 1342,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2025-12-31 13:44",
+        "tags": [
+          "fizyka/elektromagnetyzm",
+          "definicja",
+          "moc"
+        ],
+        "modified date": "2025-12-31 13:44"
+      }
+    },
+    "02 MOC/MOC Fizyka/MOC Działy fizyki.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 177,
+      "nonWhitespaceCharacterCount": 150,
+      "newlineCount": 12,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783087516424,
+      "modifiedDate": 1783087597152,
+      "sizeInBytes": 181,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC Fizyka/MOC Historia fizyki.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783087779080,
+      "modifiedDate": 1783087779080,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

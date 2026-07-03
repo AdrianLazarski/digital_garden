@@ -76,7 +76,8 @@
       "2026-04-20",
       "2026-04-27",
       "2026-06-09",
-      "2026-06-21"
+      "2026-06-21",
+      "2026-07-03"
     ],
     "dailyActivity": [
       {
@@ -3211,6 +3212,11 @@
             "timeKey": "12:45",
             "w": -98,
             "c": -1007
+          },
+          {
+            "timeKey": "16:10",
+            "w": 334,
+            "c": 2497
           }
         ],
         "id": 388
@@ -3225,6 +3231,11 @@
             "timeKey": "12:30",
             "w": 0,
             "c": 1
+          },
+          {
+            "timeKey": "12:45",
+            "w": -98,
+            "c": -1007
           },
           {
             "timeKey": "12:50",
@@ -3290,6 +3301,11 @@
             "timeKey": "14:05",
             "w": 78,
             "c": 454
+          },
+          {
+            "timeKey": "16:10",
+            "w": 334,
+            "c": 2497
           }
         ],
         "id": 389
@@ -3690,8 +3706,8 @@
           },
           {
             "timeKey": "16:00",
-            "w": -101,
-            "c": -1034
+            "w": -113,
+            "c": -1171
           }
         ],
         "id": 413
@@ -3802,11 +3818,80 @@
         "changes": [
           {
             "timeKey": "16:00",
-            "w": 12,
-            "c": 119
+            "w": 3,
+            "c": 15
+          },
+          {
+            "timeKey": "16:05",
+            "w": 16,
+            "c": 88
           }
         ],
         "id": 421
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Fizyka/MOC Pojęcia pierwotne fizyki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 22,
+            "c": 175
+          }
+        ],
+        "id": 422
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Fizyka/MOC Działy fizyki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": 22,
+            "c": 177
+          }
+        ],
+        "id": 423
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Fizyka/MOC Elektromagnetyzm.md",
+        "wordCountStart": 125,
+        "charCountStart": 1312,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": 1,
+            "c": -4
+          }
+        ],
+        "id": 424
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Fizyka/MOC Kształty prądu okresowego.md",
+        "wordCountStart": 40,
+        "charCountStart": 344,
+        "changes": [],
+        "id": 425
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Fizyka/MOC Historia fizyki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": 19,
+            "c": 140
+          }
+        ],
+        "id": 426
       }
     ]
   }
