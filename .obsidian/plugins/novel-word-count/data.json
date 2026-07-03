@@ -126908,20 +126908,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1597,
+      "wordCount": 563,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.323333333333333,
-      "characterCount": 12463,
-      "nonWhitespaceCharacterCount": 10735,
-      "newlineCount": 160,
-      "readingTimeInMinutes": 6.026415094339622,
+      "pageCount": 1.8766666666666667,
+      "characterCount": 4790,
+      "nonWhitespaceCharacterCount": 4172,
+      "newlineCount": 117,
+      "readingTimeInMinutes": 2.1245283018867926,
       "linkCount": 30,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304385339,
-      "modifiedDate": 1783077941303,
-      "sizeInBytes": 13175,
+      "modifiedDate": 1783078379741,
+      "sizeInBytes": 5094,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -127317,20 +127317,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 481,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 1.6033333333333333,
+      "characterCount": 3724,
+      "nonWhitespaceCharacterCount": 3178,
+      "newlineCount": 33,
+      "readingTimeInMinutes": 1.8150943396226416,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783077945970,
-      "modifiedDate": 1783077948898,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783077991437,
+      "sizeInBytes": 4052,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -127338,6 +127338,89 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 13:25",
+        "tags": [
+          "atom",
+          "filozofia/metafilozofia"
+        ],
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-03 13:25"
+      }
+    },
+    "03 Atomy/Etymologia i historia pojęcia filozofii.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 560,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.8666666666666667,
+      "characterCount": 4027,
+      "nonWhitespaceCharacterCount": 3447,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 2.1132075471698113,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783078120010,
+      "modifiedDate": 1783078374183,
+      "sizeInBytes": 4451,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 13:28",
+        "tags": [
+          "atom",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-03 13:28"
+      }
+    },
+    "03 Atomy/Charakterystyka i krytyka wiedzy filozoficznej.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783078393276,
+      "modifiedDate": 1783078403184,
+      "sizeInBytes": 145,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 13:33",
+        "tags": [
+          "atom"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-03 13:33"
       }
     }
   }

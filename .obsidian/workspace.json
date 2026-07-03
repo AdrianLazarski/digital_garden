@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Główne koncepcje filozofii.md",
+                "file": "03 Atomy/Charakterystyka i krytyka wiedzy filozoficznej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Główne koncepcje filozofii"
+              "title": "Charakterystyka i krytyka wiedzy filozoficznej"
             }
           }
         ],
@@ -499,16 +499,18 @@
   },
   "active": "eeaa149ed8d46a49",
   "lastOpenFiles": [
-    "03 Atomy/Główne koncepcje filozofii.md",
+    "03 Atomy/Charakterystyka i krytyka wiedzy filozoficznej.md",
     "01 Input przejściowy/Filozofia/MOC Filozofia.md",
+    "03 Atomy/Etymologia i historia pojęcia filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Tales z Miletu.md",
+    "03 Atomy/Główne koncepcje filozofii.md",
     "03 Atomy/Historyczne definicje filozofii.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
     "03 Atomy/Filozofia a światopogląd.md",
     "03 Atomy/Filozofia a ideologia.md",
     "03 Atomy/Filozofia a sztuka.md",
     "03 Atomy/Filozofia a religia.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Tales z Miletu.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "03 Atomy/Filozofia a nauka.md",
     "03 Atomy/Psychologiczne źródła filozofowania.md",
     "03 Atomy/Filozofia a zdrowy rozsądek.md",
@@ -523,8 +525,6 @@
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksagoras.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksymander.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksymenes.md",
-    "Zettelkasten.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",
