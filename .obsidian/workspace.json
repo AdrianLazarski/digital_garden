@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -400,13 +400,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Filozofia a nauka.md",
+                "file": "01 Input przejściowy/Filozofia/MOC Filozofia.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Filozofia a nauka"
+              "title": "Konspekt MOC Filozofia"
             }
           },
           {
@@ -497,13 +497,13 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "3c4ba92e4ae50504",
+  "active": "eeaa149ed8d46a49",
   "lastOpenFiles": [
-    "01 Input przejściowy/Filozofia/MOC Filozofia.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
     "03 Atomy/Filozofia a nauka.md",
+    "01 Input przejściowy/Filozofia/MOC Filozofia.md",
     "03 Atomy/Psychologiczne źródła filozofowania.md",
     "03 Atomy/Filozofia a zdrowy rozsądek.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
     "03 Atomy/Historyczno-kulturowe przyczyny powstania filozofii w Grecji.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "03 Atomy/Przedfilozoficzne formy poznania.md",
