@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "Zettelkasten"
             }
+          },
+          {
+            "id": "a05470c81866ea5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Heraklit z Efezu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Heraklit z Efezu"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -328,13 +352,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Heraklit z Efezu.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Zettelkasten"
+              "title": "Konspekt Heraklit z Efezu"
             }
           },
           {
@@ -425,15 +449,18 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "67eb4d4d30183971",
+  "active": "a05470c81866ea5d",
   "lastOpenFiles": [
+    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksagoras.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksymander.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksymenes.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Tales z Miletu.md",
+    "Zettelkasten.md",
     "02 MOC/MOC Filozofia/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
-    "Zettelkasten.md",
     "01 Input przejściowy/Filozofia/Filozofia.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia bizantyjska.md",
     "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Adolf Reinach.md",
@@ -457,10 +484,7 @@
     "02 MOC/MOC Matematyka/MOC Teoria informacji.md",
     "02 MOC/MOC Matematyka/MOC Rodzaje sygnałów okresowych.md",
     "02 MOC/MOC Matematyka/MOC Działania na zbiorach.md",
-    "02 MOC/MOC Matematyka/MOC Algebra liniowa.md",
-    "02 MOC/MOC Matematyka/MOC Algebra.md",
     "05 Bazy danych/Algebra baza.base",
-    "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
     "05 Bazy danych/Analiza matematyczna baza.base",
     "05 Bazy danych/Algebra liniowa baza.base",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Pasted image 20250226215225.png",
