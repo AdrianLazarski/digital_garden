@@ -2938,7 +2938,7 @@
       },
       {
         "date": "2026-07-02",
-        "filePath": "01 Input przejściowy/Filozofia/Filozofia.md",
+        "filePath": "01 Input przejściowy/Filozofia/MOC Filozofia.md",
         "wordCountStart": 3564,
         "charCountStart": 26374,
         "changes": [
@@ -3206,12 +3206,18 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Filozofia.md",
         "wordCountStart": 98,
         "charCountStart": 1007,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": -98,
+            "c": -1007
+          }
+        ],
         "id": 388
       },
       {
         "date": "2026-07-03",
-        "filePath": "01 Input przejściowy/Filozofia/Filozofia.md",
+        "filePath": "01 Input przejściowy/Filozofia/MOC Filozofia.md",
         "wordCountStart": 3584,
         "charCountStart": 26510,
         "changes": [
@@ -3219,6 +3225,16 @@
             "timeKey": "12:30",
             "w": 0,
             "c": 1
+          },
+          {
+            "timeKey": "12:50",
+            "w": -56,
+            "c": -405
+          },
+          {
+            "timeKey": "12:55",
+            "w": -306,
+            "c": -2314
           }
         ],
         "id": 389
@@ -3260,6 +3276,42 @@
         "charCountStart": 6055,
         "changes": [],
         "id": 393
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+        "wordCountStart": 333,
+        "charCountStart": 2191,
+        "changes": [],
+        "id": 394
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Trzy punkty wyjścia filozofii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 82,
+            "c": 630
+          }
+        ],
+        "id": 395
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Przedfilozoficzne formy poznania.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": 328,
+            "c": 2494
+          }
+        ],
+        "id": 396
       }
     ]
   }

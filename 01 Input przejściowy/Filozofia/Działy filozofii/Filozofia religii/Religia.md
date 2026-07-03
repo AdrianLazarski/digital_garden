@@ -14,7 +14,7 @@ Stępień s. 42, na religię składają się:
 
 ## Religia a filozofia
 
-- [[Filozofia]] służy interpretacji świata, rozjaśnianiu własnej jaźni i transcendowaniu świata i istnienia, obejmującym oba te elementy.
+- [[MOC Filozofia]] służy interpretacji świata, rozjaśnianiu własnej jaźni i transcendowaniu świata i istnienia, obejmującym oba te elementy.
 - Religia też, więc na czym polega różnica? Filozofia uważa się za wiedzę rozumową. Teologia zaś uznaje za istotny ruch od podstawy sensu (objawienie), który transcenduje ludzkie zdolności poznawcze.
 - W historii były 4 rodzaje poglądów na temat ich stosunków:
 1. Religia i filozofia są zupełnie odrębne od siebie. Np. neopozytywizm: wypowiedzi religii nie są fałszywe, a pozbawione naukowego znaczenia.

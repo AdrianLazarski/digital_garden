@@ -1,8 +1,8 @@
 ---
 created: 2026-02-28 19:46
 tags:
-  - atom
   - definicja
+  - moc
 dojrzalosc: Drzewo 🌲
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-02 22:00
@@ -53,22 +53,8 @@ modified date: 2026-07-02 22:00
 
 # Geneza filozofii
 
-Przed filozofią były:
-1. Wierzenia religijne
-	- Religia publiczna: każdemu zjawisku przyrodniczemu, ale i społecznemu przypisane jakieś bóstwo, stanowiące po prostu wyidealizowanego człowieka. Ponieważ jest to tylko różnica ilościowa, a nie jakościowa, to grecka religia jest religią naturalistyczną i nie ma w niej miejsca na świętość. By wznieść się do poziomu bogów, człowiek nie musi zaprzeć się samego siebie.
-	- Podział świata na bóstwa i duchy o różnych cechach jest na swój sposób racjonalny. Problemem jest instytucjonalizacja takiego myślenia.
-	- Ponieważ u Greków brak świętych pism, a głównymi źródłami były poematy Homera i Teogonia Hezjoda, to kapłani, którzy nie mieli nawet wyłączności na składanie ofiar, mieli niewielki znaczenie. Brak dogmatu i jego stróżów, wyjątkowy w starożytnym świecie, zapewniał wolność spekulacji filozoficznej.
-	- W Teogonii Hezjoda wszystko jest boskie, bo każde wydarzenie to wraz decyzji bogów.
-	- Zawiera ona idee pochodzące z empirycznego i niesymbolicznego myślenia, wyrażone językiem mitu.
-	- Jest to quasi-racjonalność. Składniki wszechświata powstają natychmiast i są opisywane za pomogą dziejów Bogów. Kosmologia babilońska nie ma tej quasi-racjonalności, do powstania nieba i ziemi (podziału Tiamat) dochodzi dopiero pod koniec długiej sagi o bogach.
-	- Ten naturalizm zadecydował o charakterze najwcześniejszej filozofii greckiej.
-	- Religia misteriów: służyła zaspokojeniu autentycznej potrzeby religijnej. Dostrzeżenie w człowieku złego elementu.
-2. Umiejętności praktyczne - teoria powstała do praktyki, a nie odwrotnie.
-	- Matematyka, geometria z Egiptu. Służyła do wyliczania objętości pól i zbiorów oraz konstruowania budowli sakralnych. Jako ogólna teoria liczb dopiero neopitagorejczycy.
-	- Astronomia z Babilonii. Znali na przykład cykliczność zaćmień, ale używali jej w astrologii. Astrologia przewiduje przyszłość, by wpływać na teraźniejszość. Dopiero Grecy rozwinęli astronomię teoretyczną i dokonali odkrylcia kulistości Ziemi, teorii zaćmień, obrotu Ziemi innych planet wokół jednego centrum. Nie udało im się odejść jednak od geocentryzmu.
-	- Medycyna pobudzała do obserwacji i doświadczeń, co miało wpływ na pitagorejczyków i Arystotelesa.
-3. Reguły życiowe
-	- "chłopski rozum" zawarty w przysłowiach i dyrektywach, zwłaszcza w czasie okresu siedmiu mędrców VII-VI w. przed Chr.
+[[Przedfilozoficzne formy poznania]]
+
 ## Powstanie w Grecji
 
 - Teorie o pochodzeniu filozofii ze Wschodu są błędne, bo Grecy słabo znali języki obce, a przejście od mythos do logos wymagało zwrotu językowego. Zaczęli je już rozprowadzać kapłani egipscy, którzy zapoznali się z filozofią grecką w epoce Ptolemeuszy i twierdzili, że pochodzi od ich mądrości, czy żydzi aleksandryjscy, którzy uważali, że filozofia pochodzi od mądrości biblinej. Potem podchwycili to neoplatonicy i podsycali te bzdury. Reale
@@ -109,11 +95,7 @@ Przed filozofią były:
 [[1]] A. B. Stępień, Wprowadzenie do filozofii, Lublin 2001 , s. 23-24.
 
 
-# Trzy punkty wyjścia filozofii:
-- Filozofia bytu wychodząc od zjawisk pyta o ich istnienie, a więc "warunki możliwości doświadczenia w nie-ja".
-- Filozofia podmiotu pyta o "ja" jako podmiot wszelkiego doświadczenia. Pyta o warunku możliwości doświadczenia w ja.
-- Filozofia ducha wychodzi od idei lub absolutu i z ich perspektywy próbuje uchwycić warunki możliwości doświadczenia oraz byt i podmiot.
-![[Pasted image 20240402215056.png]]
+[[Trzy punkty wyjścia filozofii]]
 
 
 

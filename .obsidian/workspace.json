@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Metafilozofia.md",
+                "file": "01 Input przejściowy/Filozofia/MOC Filozofia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Metafilozofia"
+              "title": "MOC Filozofia"
             }
           },
           {
@@ -176,12 +176,12 @@
             }
           },
           {
-            "id": "a05470c81866ea5d",
+            "id": "4d8fc342140bd007",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Heraklit z Efezu.md",
+                "file": "03 Atomy/Przedfilozoficzne formy poznania.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,11 +196,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Heraklit z Efezu"
+              "title": "Przedfilozoficzne formy poznania"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -376,13 +376,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
+                "file": "03 Atomy/Przedfilozoficzne formy poznania.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt 04 Filozofia nowożytna"
+              "title": "Konspekt Przedfilozoficzne formy poznania"
             }
           },
           {
@@ -473,20 +473,23 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "370984ecf5520752",
+  "active": "4d8fc342140bd007",
   "lastOpenFiles": [
+    "01 Input przejściowy/Filozofia/MOC Filozofia.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "03 Atomy/Przedfilozoficzne formy poznania.md",
+    "03 Atomy/Trzy punkty wyjścia filozofii.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Heraklit z Efezu.md",
+    "01 Input przejściowy/Filozofia/Metafilozofia.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/03 Filozofia renesansowa.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/02 Filozofia średniowieczna.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia.md",
-    "01 Input przejściowy/Filozofia/Metafilozofia.md",
-    "01 Input przejściowy/Filozofia/Filozofia.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Heraklit z Efezu.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksagoras.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksymander.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksymenes.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Tales z Miletu.md",
     "Zettelkasten.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
@@ -505,9 +508,6 @@
     "02 MOC/MOC Matematyka/MOC Rodzaje struktur algebraicznych.md",
     "03 Atomy/Struktura matematyczna.md",
     "02 MOC/MOC Matematyka/MOC Rodzaje struktur matematycznych.md",
-    "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
-    "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
-    "02 MOC/MOC Matematyka/MOC Matematyka stosowana.md",
     "05 Bazy danych/Algebra baza.base",
     "05 Bazy danych/Analiza matematyczna baza.base",
     "05 Bazy danych/Algebra liniowa baza.base",

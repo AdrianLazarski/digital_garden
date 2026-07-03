@@ -57055,43 +57055,6 @@
         "modified date": "2026-07-02 22:28"
       }
     },
-    "02 MOC/MOC Filozofia/MOC Filozofia.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 77,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.25666666666666665,
-      "characterCount": 852,
-      "nonWhitespaceCharacterCount": 748,
-      "newlineCount": 51,
-      "readingTimeInMinutes": 0.29056603773584905,
-      "linkCount": 37,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783018497863,
-      "modifiedDate": 1783027254374,
-      "sizeInBytes": 1031,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.25666666666666665,
-        "wordCount": 77,
-        "characterCount": 852,
-        "nonWhitespaceCharacterCount": 748,
-        "newlineCount": 51
-      },
-      "frontmatter": {
-        "created": "2026-07-02 20:54",
-        "tags": [
-          "moc",
-          "filozofia"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Aksjomatyczny 💎",
-        "modified date": "2026-07-02 21:21"
-      }
-    },
     "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -70846,33 +70809,6 @@
       "createdDate": 1772304399082,
       "modifiedDate": 1712087505219,
       "sizeInBytes": 57643,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/Filozofia/załączniki/Pasted image 20240402215056.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304399072,
-      "modifiedDate": 1712087456654,
-      "sizeInBytes": 48350,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -100286,43 +100222,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Filozofia.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3438,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 11.46,
-      "characterCount": 26360,
-      "nonWhitespaceCharacterCount": 22690,
-      "newlineCount": 258,
-      "readingTimeInMinutes": 12.973584905660378,
-      "linkCount": 19,
-      "embedCount": 3,
-      "aliases": null,
-      "createdDate": 1772304385339,
-      "modifiedDate": 1783074668125,
-      "sizeInBytes": 27811,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 11.46,
-        "wordCount": 3438,
-        "characterCount": 26359,
-        "nonWhitespaceCharacterCount": 22690,
-        "newlineCount": 257
-      },
-      "frontmatter": {
-        "created": "2026-02-28 19:46",
-        "tags": [
-          "atom",
-          "definicja"
-        ],
-        "dojrzalosc": "Drzewo 🌲",
-        "status_epistemiczny": "Uzasadniony ✅",
-        "modified date": "2026-07-02 22:00"
-      }
-    },
     "01 Input przejściowy/Filozofia/Filozofia klasyczna.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -107690,20 +107589,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 339,
+      "wordCount": 340,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.13,
-      "characterCount": 2553,
-      "nonWhitespaceCharacterCount": 2184,
+      "pageCount": 1.1333333333333333,
+      "characterCount": 2557,
+      "nonWhitespaceCharacterCount": 2187,
       "newlineCount": 35,
-      "readingTimeInMinutes": 1.2792452830188679,
+      "readingTimeInMinutes": 1.2830188679245282,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304387059,
-      "modifiedDate": 1763640999836,
-      "sizeInBytes": 2682,
+      "modifiedDate": 1783076057435,
+      "sizeInBytes": 2686,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.13,
@@ -126939,6 +126838,134 @@
         "tags": [
           "dailynote"
         ]
+      }
+    },
+    "03 Atomy/Trzy punkty wyjścia filozofii.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 60,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2,
+      "characterCount": 466,
+      "nonWhitespaceCharacterCount": 396,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.22641509433962265,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1783075830092,
+      "modifiedDate": 1783076032788,
+      "sizeInBytes": 654,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 12:50",
+        "tags": [
+          "atom",
+          "filozofia/metafilozofia"
+        ],
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-03 12:50"
+      }
+    },
+    "01 Input przejściowy/Filozofia/załączniki/Trójkąt platoński.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304399072,
+      "modifiedDate": 1712087456654,
+      "sizeInBytes": 48350,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "01 Input przejściowy/Filozofia/MOC Filozofia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3385,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 11.283333333333333,
+      "characterCount": 25993,
+      "nonWhitespaceCharacterCount": 22379,
+      "newlineCount": 255,
+      "readingTimeInMinutes": 12.773584905660377,
+      "linkCount": 21,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1772304385339,
+      "modifiedDate": 1783076196831,
+      "sizeInBytes": 27429,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "definicja",
+          "moc"
+        ],
+        "dojrzalosc": "Drzewo 🌲",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-02 22:00"
+      }
+    },
+    "03 Atomy/Przedfilozoficzne formy poznania.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783076209721,
+      "modifiedDate": 1783076212315,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
