@@ -174,57 +174,9 @@
               "icon": "lucide-file",
               "title": "MOC Dzieła z zakresu logiki"
             }
-          },
-          {
-            "id": "5f83403f850e9385",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu antropologii filozoficznej"
-            }
-          },
-          {
-            "id": "d52858a21e4e10ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła etyczne"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -400,13 +352,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Dzieła etyczne"
+              "title": "Konspekt MOC Dzieła z zakresu logiki"
             }
           },
           {
@@ -497,13 +449,13 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "d52858a21e4e10ed",
+  "active": "331a674dbf2591cf",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła estetyczne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",

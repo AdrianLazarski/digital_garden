@@ -4214,8 +4214,41 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 21,
+            "c": 160
+          }
+        ],
         "id": 445
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 19,
+            "c": 140
+          },
+          {
+            "timeKey": "18:00",
+            "w": 2,
+            "c": 27
+          }
+        ],
+        "id": 446
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 447
       }
     ]
   }
