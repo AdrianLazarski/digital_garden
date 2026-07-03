@@ -20,8 +20,6 @@ modified date: 2026-07-03 13:44
   [[Główne etapy badań metafilozoficznych]]
 
 
-
-
 # Proweniencja
 
 $\leftarrow$  [[MOC Filozofia]]

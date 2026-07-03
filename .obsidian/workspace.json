@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/MOC Filozofia.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -176,12 +176,12 @@
             }
           },
           {
-            "id": "8c0c9fb94f4a78d3",
+            "id": "4cddba407d2713e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Metafilozofia.md",
+                "file": "02 MOC/MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Metafilozofia"
+              "title": "MOC"
             }
           }
         ],
@@ -376,13 +376,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Metafilozofia.md",
+                "file": "02 MOC/MOC.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Metafilozofia"
+              "title": "Konspekt MOC"
             }
           },
           {
@@ -473,15 +473,15 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "180c24419c3d71cd",
+  "active": "4cddba407d2713e4",
   "lastOpenFiles": [
-    "01 Input przejściowy/Filozofia/MOC Filozofia.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia.md",
+    "Zettelkasten.md",
     "03 Atomy/Metafilozofia.md",
     "03 Atomy/Główne etapy badań metafilozoficznych.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
-    "Zettelkasten.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Tales z Miletu.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
     "03 Atomy/Podziały filozofii.md",
     "03 Atomy/Metody filozoficzne.md",
     "03 Atomy/Psychologiczne źródła filozofowania.md",
@@ -499,7 +499,6 @@
     "03 Atomy/Przedfilozoficzne formy poznania.md",
     "03 Atomy/Trzy punkty wyjścia filozofii.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Heraklit z Efezu.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/03 Filozofia renesansowa.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",

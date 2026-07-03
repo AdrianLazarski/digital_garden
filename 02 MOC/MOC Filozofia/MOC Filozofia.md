@@ -1,38 +1,22 @@
 ---
 created: 2026-02-28 19:46
 tags:
-  - definicja
   - moc
+  - filozofia
 dojrzalosc: Drzewo 🌲
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-02 22:00
 ---
-
-
 **Spis treści**
 
-1. [Informacje ogólne](#Informacje%20og%C3%B3lne)
-2. [Geneza filozofii](#Geneza%20filozofii)
-	1. [Powstanie w Grecji](#Powstanie%20w%20Grecji)
-	2. [Przyczyny powstania:](#Przyczyny%20powstania:)
-	3. [Skąd się bierze filozofowanie:](#Sk%C4%85d%20si%C4%99%20bierze%20filozofowanie:)
-3. [Charakterystyka filozofii](#Charakterystyka%20filozofii)
-4. [Trzy punkty wyjścia filozofii:](#Trzy%20punkty%20wyj%C5%9Bcia%20filozofii:)
-5. [Filozofia a inne zjawiska](#Filozofia%20a%20inne%20zjawiska)
-	1. [Filozofia a zdrowy rozsądek](#Filozofia%20a%20zdrowy%20rozs%C4%85dek)
-	2. [Filozofia a nauka](#Filozofia%20a%20nauka)
-	3. [Filozofia a religia](#Filozofia%20a%20religia)
-	4. [Filozofia a sztuka](#Filozofia%20a%20sztuka)
-	5. [Filozofia a ideologia](#Filozofia%20a%20ideologia)
-	6. [Filozofia a światopogląd](#Filozofia%20a%20%C5%9Bwiatopogl%C4%85d)
-6. [Definicje filozofii:](#Definicje%20filozofii:)
-7. [Koncepcje filozofii:](#Koncepcje%20filozofii:)
-8. [Podziały filozofii](#Podzia%C5%82y%20filozofii)
-9. [Metody filozoficzne](#Metody%20filozoficzne)
-10. [Bibliografia:](#Bibliografia:)
+[1. Metafilozofia](#1.%20Metafilozofia)
+	[1.1 Geneza filozofii](#1.1%20Geneza%20filozofii)
+	[1.2 Filozofia wobec innych zjawisk](#1.2%20Filozofia%20wobec%20innych%20zjawisk)
+[2. Rozwój historyczny i regionalny](#2.%20Rozw%C3%B3j%20historyczny%20i%20regionalny)
+[3. Bibliografia do części metafilozoficznej:](#3.%20Bibliografia%20do%20cz%C4%99%C5%9Bci%20metafilozoficznej:)
 
 ---
-# Obszar metafilozoficzny
+# 1. Metafilozofia
 
 Notatki strukturyzujące refleksję nad filozofią z zewnątrz, określające jej status metodologiczny, definicje naukowe oraz etapy badawcze:
 
@@ -41,20 +25,17 @@ Notatki strukturyzujące refleksję nad filozofią z zewnątrz, określające je
 [[Historyczne definicje filozofii]]
 [[Główne koncepcje filozofii]]
 [[Podziały filozofii]]
+[[Charakterystyka i krytyka wiedzy filozoficznej]]
 
-# Obszar propedeutyczny
-
-Notatki wprowadzające w wewnętrzną strukturę myśli filozoficznej, jej psychologiczne oraz kulturowe źródła:
+## 1.1 Geneza filozofii
 
 [[Etymologia i historia pojęcia filozofii]]
-[[Charakterystyka i krytyka wiedzy filozoficznej]]
 [[Trzy punkty wyjścia filozofii]]
 [[Przedfilozoficzne formy poznania]]
 [[Historyczno-kulturowe przyczyny powstania filozofii w Grecji]]
 [[Psychologiczne źródła filozofowania]]
 
-
-# Filozofia wobec innych zjawisk
+## 1.2 Filozofia wobec innych zjawisk
 
 [[Filozofia a zdrowy rozsądek]]
 [[Filozofia a nauka]]
@@ -64,8 +45,14 @@ Notatki wprowadzające w wewnętrzną strukturę myśli filozoficznej, jej psych
 [[Filozofia a światopogląd]]
 
 
+# 2. Rozwój historyczny i regionalny
 
-# Bibliografia:
+[[MOC Historia filozofii]]
+[[MOC Socjologiczne i regionalne ujęcia filozofii]]
+
+
+
+# 3. Bibliografia do części metafilozoficznej:
 
 M. Hempoliński, Filozofia współczesna. Wprowadzenie do zagadnień i kierunków, Warszawa 1989, s. 7-51.
 J. M. Bocheński, Zarys historii filozofii, Kraków 1993, s. 15-18, 22-27.
@@ -78,7 +65,4 @@ W. Tyburski, A. Wachowiak, R. Wiśniewski, Historia filozofii i etyki do współ
 red. J. Hartman, Słownik filozofii, Kraków 2006, s. 60-67.
 J. Wojtysiak, Filozofia. Pochwała ciekawości, Kraków 2009, s. 11-16.
 A. Anzenbacher, Wprowadzenie do filozofii, Kraków 2018, s. 17-56. [wydanie zmienione]
-
-
-
 

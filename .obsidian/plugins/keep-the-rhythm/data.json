@@ -2938,7 +2938,7 @@
       },
       {
         "date": "2026-07-02",
-        "filePath": "01 Input przejściowy/Filozofia/MOC Filozofia.md",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia.md",
         "wordCountStart": 3564,
         "charCountStart": 26374,
         "changes": [
@@ -3217,7 +3217,7 @@
       },
       {
         "date": "2026-07-03",
-        "filePath": "01 Input przejściowy/Filozofia/MOC Filozofia.md",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia.md",
         "wordCountStart": 3584,
         "charCountStart": 26510,
         "changes": [
@@ -3280,6 +3280,16 @@
             "timeKey": "13:50",
             "w": 0,
             "c": -1
+          },
+          {
+            "timeKey": "14:00",
+            "w": -185,
+            "c": -1127
+          },
+          {
+            "timeKey": "14:05",
+            "w": 78,
+            "c": 454
           }
         ],
         "id": 389
@@ -3309,6 +3319,11 @@
             "timeKey": "13:50",
             "w": 0,
             "c": -5
+          },
+          {
+            "timeKey": "14:00",
+            "w": 0,
+            "c": -2
           }
         ],
         "id": 390
@@ -3646,6 +3661,20 @@
           }
         ],
         "id": 412
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC.md",
+        "wordCountStart": 240,
+        "charCountStart": 2322,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": -36,
+            "c": -308
+          }
+        ],
+        "id": 413
       }
     ]
   }

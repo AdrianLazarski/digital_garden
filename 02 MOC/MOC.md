@@ -6,22 +6,6 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-02 20:42
 ---
-**Spis treści**
-
-1. [Filozofia](#Filozofia)
-2. [IT](#IT)
-3. [Elektronika](#Elektronika)
-4. [Matematyka](#Matematyka)
-5. [Logika](#Logika)
-6. [Fizyka](#Fizyka)
-7. [Ekonomia](#Ekonomia)
-8. [Religia](#Religia)
-9. [Historia](#Historia)
-10. [Socjologia](#Socjologia)
-11. [Psychologia](#Psychologia)
-
-
-# Filozofia
 
 [[MOC Filozofia]]
 

@@ -126813,43 +126813,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/MOC Filozofia.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 296,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9866666666666667,
-      "characterCount": 2859,
-      "nonWhitespaceCharacterCount": 2541,
-      "newlineCount": 77,
-      "readingTimeInMinutes": 1.1169811320754717,
-      "linkCount": 30,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304385339,
-      "modifiedDate": 1783079590005,
-      "sizeInBytes": 3073,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "created": "2026-02-28 19:46",
-        "tags": [
-          "definicja",
-          "moc"
-        ],
-        "dojrzalosc": "Drzewo 🌲",
-        "status_epistemiczny": "Uzasadniony ✅",
-        "modified date": "2026-07-02 22:00"
-      }
-    },
     "03 Atomy/Przedfilozoficzne formy poznania.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -127427,20 +127390,57 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 152,
+      "wordCount": 134,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5066666666666667,
-      "characterCount": 1274,
-      "nonWhitespaceCharacterCount": 1095,
-      "newlineCount": 31,
-      "readingTimeInMinutes": 0.5735849056603773,
-      "linkCount": 0,
+      "pageCount": 0.44666666666666666,
+      "characterCount": 1105,
+      "nonWhitespaceCharacterCount": 951,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 0.5056603773584906,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304385355,
-      "modifiedDate": 1783079625390,
-      "sizeInBytes": 1313,
+      "modifiedDate": 1783080084941,
+      "sizeInBytes": 1311,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "filozofia/metafilozofia"
+        ],
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Prawdopodobny 🧪",
+        "modified date": "2026-07-03 13:44"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 272,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9066666666666666,
+      "characterCount": 2336,
+      "nonWhitespaceCharacterCount": 2047,
+      "newlineCount": 69,
+      "readingTimeInMinutes": 1.0264150943396226,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304385339,
+      "modifiedDate": 1783080420110,
+      "sizeInBytes": 2391,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
