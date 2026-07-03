@@ -3236,6 +3236,30 @@
           }
         ],
         "id": 390
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/02 Filozofia średniowieczna.md",
+        "wordCountStart": 598,
+        "charCountStart": 4472,
+        "changes": [],
+        "id": 391
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/03 Filozofia renesansowa.md",
+        "wordCountStart": 214,
+        "charCountStart": 1657,
+        "changes": [],
+        "id": 392
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
+        "wordCountStart": 783,
+        "charCountStart": 6055,
+        "changes": [],
+        "id": 393
       }
     ]
   }

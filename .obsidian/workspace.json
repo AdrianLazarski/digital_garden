@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofia.md",
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofia"
+              "title": "04 Filozofia nowożytna"
             }
           },
           {
@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -376,13 +376,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Metafilozofia.md",
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Metafilozofia"
+              "title": "Konspekt 04 Filozofia nowożytna"
             }
           },
           {
@@ -473,10 +473,13 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "eeaa149ed8d46a49",
+  "active": "370984ecf5520752",
   "lastOpenFiles": [
-    "01 Input przejściowy/Filozofia/Filozofia.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/03 Filozofia renesansowa.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/02 Filozofia średniowieczna.md",
     "02 MOC/MOC Filozofia/MOC Filozofia.md",
+    "01 Input przejściowy/Filozofia/Metafilozofia.md",
+    "01 Input przejściowy/Filozofia/Filozofia.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Heraklit z Efezu.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksagoras.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksymander.md",
@@ -505,9 +508,6 @@
     "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
     "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
     "02 MOC/MOC Matematyka/MOC Matematyka stosowana.md",
-    "01 Input/Algebra zbiorów.md",
-    "02 MOC/MOC Matematyka/MOC Teoria informacji.md",
-    "02 MOC/MOC Matematyka/MOC Rodzaje sygnałów okresowych.md",
     "05 Bazy danych/Algebra baza.base",
     "05 Bazy danych/Analiza matematyczna baza.base",
     "05 Bazy danych/Algebra liniowa baza.base",
