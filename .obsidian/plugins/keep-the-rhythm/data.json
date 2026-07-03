@@ -3200,6 +3200,42 @@
         "charCountStart": 14371,
         "changes": [],
         "id": 387
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia.md",
+        "wordCountStart": 98,
+        "charCountStart": 1007,
+        "changes": [],
+        "id": 388
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "01 Input przejściowy/Filozofia/Filozofia.md",
+        "wordCountStart": 3584,
+        "charCountStart": 26510,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 389
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "01 Input przejściowy/Filozofia/Metafilozofia.md",
+        "wordCountStart": 177,
+        "charCountStart": 1402,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 390
       }
     ]
   }

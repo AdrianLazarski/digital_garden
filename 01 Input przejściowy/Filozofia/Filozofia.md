@@ -42,12 +42,13 @@ modified date: 2026-07-02 22:00
 - Od słów philen-kochać i sophia, które oznaczało wszelki rodzaj biegłości, a potem wiedzę, szczególnie "wyższego rzędu", jak ta o cnocie. Stąd umiłowanie mądrości. Ewentualnie od philon-przyjaciel.
 - Złożenie 'przyjaciel mądrości' (filosofos) pierwszy raz napotykamy na przełomie VI i V wieku u Heraklita (DK 22 B32). Utrwalił je Sokrates. Pierwszy tego słowa miał użyć Pitagoras, ale nie wiadomo czy istniał. Rzekomo "miłośnik mądrości" miał zastąpić mędrca, co było wyrazem skromności, ale dziś nazwanie się filozofem jest uważane za zarozumiałość.
 - Cyceron podaje anegdotkę, że aż do Pitagorasa filozofów nazywano po prostu mędrcami. Leon, tyran Fliunti, zadziwiony mądrością Pitagorasa spytał go jaki zawód wykonuje. Na co ten mu odpowiedział, że żaden, bo jest filozofem. Na co tyran pyta co oznacza to nowe słowo i Pitagoras odpowiada mu metaforą. Życie podobne jest do panhelleńskich igrzysk, w których uczestniczą trzy kategorie ludzi. Ci,którzy pragną zdobyć nagrodę i sławę; ci, którzy przychodzą tam, by coś sprzedać lub kupić; i ci najmniej liczni i najszlachet­niejsi, którzy zadowalają się oglądaniem tego, co się dzieje. Filozofowie są jak ci ostatni – żyją po to, by poszukiwać natury rzeczy.
-- Swieżawski: nie tylko nasza kultura wytworzyła filozofię.
-- Fichte: to, jaką ktoś filozofię wybiera, zależy od tego, jakim jest on człowiekiem.
 - Filozofia utraciła tytuł królowej nauk w XIX w. przez sukcesy nauk przyrodniczych i prace Hume'a oraz Kanta. Atakowano metafizykę i etykę normatywną; za jedyną naukową dyscyplinę filozoficzną uważano teorię poznania i do niej próbowano wszystko sprowadzić.
+- Swieżawski: nie tylko nasza kultura wytworzyła filozofię.
+
 - Optymistyczna wizja współczesnej filozofii Hempolińskiego: filozofowie z różnych krajów, kierunków i szkół tworzą dziś ściślejszą wspólnotę, niż kiedykolwiek. Ich tory myślowe przecinają się, a nawet zbiegają w wielu miejscach. Dawną wrogość zastępuje szacunek i wzajemne zrozumienie.
 - Podobnie Martens i Schnadelbach: zanikają granice między szkołami filozoficznymi i tradycyjne problemy filozoficzne zaczynają się wydawać przestarzałe. Nie oznacza to oczywiście wieczystego pokoju, ale bardziej ci autorzy preferują podział typologiczny na filozofię nastawioną na tradycję (czytanie tekstów), na praktykę (egzystencjalizm, pragmatyzm, teoria krytyczna) i na naukę, przy czym chodzi o główny nacisk, a nie wyłączność tematyczną, bo tak naprawdę każdy element jest w każdej grupie.
 - Definicje filozofii we wstępach do filozofii to najczęściej po prostu deklaracje przynależności do danej orientacji czy szkoły filozoficznej. Należy patrzeć z przymrużeniem oka na wyłączność proponowanych przez nich metod filozoficznych.
+- Fichte: to, jaką ktoś filozofię wybiera, zależy od tego, jakim jest on człowiekiem.
 
 
 # Geneza filozofii
