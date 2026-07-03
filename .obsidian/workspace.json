@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2919b44c2217466f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Książki/Stefanowicz Bogdan, Informacja.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stefanowicz Bogdan, Informacja"
-            }
-          },
-          {
-            "id": "5d4372c48138f5f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tupy, Pooley, Superobfitość"
-            }
-          },
-          {
             "id": "512a517a3c83057e",
             "type": "leaf",
             "state": {
@@ -174,9 +126,105 @@
               "icon": "lucide-file",
               "title": "MOC Dzieła filozoficzne"
             }
+          },
+          {
+            "id": "9e4d6b63abd77c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła z zakresu filozofii języka"
+            }
+          },
+          {
+            "id": "331a674dbf2591cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła z zakresu logiki"
+            }
+          },
+          {
+            "id": "5f83403f850e9385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła z zakresu antropologii filozoficznej"
+            }
+          },
+          {
+            "id": "d52858a21e4e10ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła etyczne"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -352,13 +400,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Dzieła filozoficzne"
+              "title": "Konspekt MOC Dzieła etyczne"
             }
           },
           {
@@ -449,10 +497,20 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "5227329662aedcf2",
+  "active": "d52858a21e4e10ed",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła estetyczne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+    "02 MOC/MOC Filozofia/MOC Średniowieczna literatura filozoficzna.md",
+    "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
+    "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
+    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 1945).md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
     "02 MOC/MOC Filozofia współczesna.md",
@@ -467,16 +525,6 @@
     "02 MOC/MOC Filozofia.md",
     "03 Atomy/Podziały filozofii.md",
     "02 MOC/MOC Socjologiczne i regionalne ujęcia filozofii.md",
-    "02 MOC/MOC.md",
-    "02 MOC/MOC Logika.md",
-    "02 MOC/MOC Fizyka/MOC Kształty prądu okresowego.md",
-    "02 MOC/MOC Fizyka/MOC Historia fizyki.md",
-    "02 MOC/MOC Fizyka.md",
-    "02 MOC/MOC Fizyka/MOC Elektromagnetyzm.md",
-    "02 MOC/MOC Fizyka/MOC Działy fizyki.md",
-    "02 MOC/MOC Fizyka/MOC Pojęcia pierwotne fizyki.md",
-    "02 MOC/MOC Ekonomia.md",
-    "02 MOC/MOC Historia.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",
