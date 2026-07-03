@@ -2,8 +2,9 @@
 created: 2026-07-03 12:56
 tags:
   - atom
-dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+  - filozofia/historia_filozofii
+dojrzalosc: Krzak 🌿
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-03 12:56
 ---
 Przed filozofią były:
@@ -18,8 +19,12 @@ Przed filozofią były:
 	- Religia misteriów: służyła zaspokojeniu autentycznej potrzeby religijnej. Dostrzeżenie w człowieku złego elementu.
 2. Umiejętności praktyczne - teoria powstała do praktyki, a nie odwrotnie.
 	- Matematyka, geometria z Egiptu. Służyła do wyliczania objętości pól i zbiorów oraz konstruowania budowli sakralnych. Jako ogólna teoria liczb dopiero neopitagorejczycy.
-	- Astronomia z Babilonii. Znali na przykład cykliczność zaćmień, ale używali jej w astrologii. Astrologia przewiduje przyszłość, by wpływać na teraźniejszość. Dopiero Grecy rozwinęli astronomię teoretyczną i dokonali odkrylcia kulistości Ziemi, teorii zaćmień, obrotu Ziemi innych planet wokół jednego centrum. Nie udało im się odejść jednak od geocentryzmu.
+	- Astronomia z Babilonii. Znali na przykład cykliczność zaćmień, ale używali jej w astrologii. Astrologia przewiduje przyszłość, by wpływać na teraźniejszość. Dopiero Grecy rozwinęli astronomię teoretyczną i dokonali odkrycia kulistości Ziemi, teorii zaćmień, obrotu Ziemi innych planet wokół jednego centrum. Nie udało im się odejść jednak od geocentryzmu.
 	- Medycyna pobudzała do obserwacji i doświadczeń, co miało wpływ na pitagorejczyków i Arystotelesa.
 3. Reguły życiowe
 	- "chłopski rozum" zawarty w przysłowiach i dyrektywach, zwłaszcza w czasie okresu siedmiu mędrców VII-VI w. przed Chr.
 
+
+# Proweniencja
+
+$\leftarrow$  [[MOC Filozofia]]

@@ -3233,8 +3233,13 @@
           },
           {
             "timeKey": "12:55",
-            "w": -306,
-            "c": -2314
+            "w": -559,
+            "c": -4226
+          },
+          {
+            "timeKey": "13:00",
+            "w": -116,
+            "c": -863
           }
         ],
         "id": 389
@@ -3307,11 +3312,61 @@
         "changes": [
           {
             "timeKey": "12:55",
-            "w": 328,
-            "c": 2494
+            "w": 334,
+            "c": 2570
           }
         ],
         "id": 396
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Historyczno-kulturowe przyczyny powstania filozofii w Grecji.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": 281,
+            "c": 2174
+          }
+        ],
+        "id": 397
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Psychologiczne źródła filozofowania.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:00",
+            "w": 70,
+            "c": 603
+          }
+        ],
+        "id": 398
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Filozofia a zdrowy rozsądek.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:00",
+            "w": 97,
+            "c": 722
+          }
+        ],
+        "id": 399
+      },
+      {
+        "date": "2026-07-03",
+        "filePath": "03 Atomy/Filozofia a nauka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 400
       }
     ]
   }

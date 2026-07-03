@@ -55,28 +55,11 @@ modified date: 2026-07-02 22:00
 
 [[Przedfilozoficzne formy poznania]]
 
-## Powstanie w Grecji
+[[Historyczno-kulturowe przyczyny powstania filozofii w Grecji]]
 
-- Teorie o pochodzeniu filozofii ze Wschodu są błędne, bo Grecy słabo znali języki obce, a przejście od mythos do logos wymagało zwrotu językowego. Zaczęli je już rozprowadzać kapłani egipscy, którzy zapoznali się z filozofią grecką w epoce Ptolemeuszy i twierdzili, że pochodzi od ich mądrości, czy żydzi aleksandryjscy, którzy uważali, że filozofia pochodzi od mądrości biblinej. Potem podchwycili to neoplatonicy i podsycali te bzdury. Reale
-- Fantastyczne poematy Homera, które były podstawą wychowania i formacji duchowej Greków, unikały opisywania tego, co odrażające i szpetne, co u innych ludów się nie zdarzało. Pełne były poczucia harmonii, proporcji, granicy i miary, które okaże się stałą cechą filozofii greckiej.
-- Zawierały też bogate opisy psychologiczne, uzasadniające racje przebiegu zdarzeń. Akcja przebiega z wewnętrzną koniecznością, a nie była jakimś zbiorem luźno powiązanych scen. Odyseusz jest w pełni racjonalnym człowiekiem. To poetycki przodek filozoficznego poszukiwania przyczyny.
-- Filozofia pojawiła się w jońskich koloniach, które cieszyły się dużą wolnością polityczną. Potem, już w samej Grecji, pojawiła się w demokratycznych Atenach, a więc najwolniejszym polis Grecji.
-- Przejście od mythos do logos to przejście od społeczeństwa zamkniętego do otwartego. Zamknięte społeczeństwo to głównie kultura ustnego przekazu. Mit zapewnia proste wyjaśnienie świata i stabilność. Społeczeństwo otwarte ma bardziej ruchomą matrycę idei. Może samo wytworzyć nowe idee albo przyjąć je spoza społeczeństwa. To zaszło w IX-VI w. przed Chr.
+[[Psychologiczne źródła filozofowania]]
 
-## Przyczyny powstania
 
-- Tatarkiewicz: Rozmaitość kultur, położenie geograficzne, konkurowanie poleis.
-- Marksiści, Legowicz, Pierre Hadot: klasa próżniacza miała zbyt wiele czasu i sobie zaczęła filozofować.
-- Swieżawski: położenie geograficzne, ustrój polityczny, dobrobyt.
-- Reale: religia naturalistyczna, wolność polityczna
-- Arystoteles: zdziwienie; chęć poznania pierwszych przyczyn.
-
-## Skąd się bierze filozofowanie:
-- zdziwienie (sytuacje graniczne - Jaspers): Sokrates, Platon, Arystoteles, Kant
-- Wiedza okazuje się niewiedzą.
-- Poprzedzone doświadczeniem.
-- wątpienie: Augustyn, Kartezjusz, Leibniz
-- Prowadzi do tego, w co już wątpić nie można. Do faktu świadomości. Wiedzy najbardziej wewnętrznej (A), myślenia (K), prawd rozumu (L).
 
 # Charakterystyka filozofii
 - Filozofia wiedzą fundamentalną, bo pyta o nieempiryczne podstawy tego, co empiryczne.
@@ -101,11 +84,12 @@ modified date: 2026-07-02 22:00
 
 
 # Filozofia a inne zjawiska
-## Filozofia a zdrowy rozsądek
 
-- Zdrowy rozsądek uważa pewne tezy za niepodważalne np. tożsamość człowieka w przez całe jego życie. Filozofia w punkcie wyjścia najczęściej przyjmuje tę tezę, ale nie poprzestaje na tym i analizuje na czym ta tożsamość polega, próbuje ustalić jej definicję i bada czy realne podstawy tej tożsamości mają zastosowanie do innych rzeczy.
-- Filozofia zadowoli dopiero pełne zracjonalizowanie tezy zdroworozsądkowej. W niektórych przypadkach filozof jest skłonny zawiesić lub odrzucić daną zasadę zdroworozsądkową, jeśli nie potrafi jej dostatecznie wyjaśnić.
-## Filozofia a nauka
+[[Filozofia a zdrowy rozsądek]]
+
+
+
+[[Filozofia a nauka]]
 
 - Anzenbacher wymienia 3 rodzaje stosunków nauka-filozofia:
 	1. [Scjentyzm](onenote:#Scjentyzm&section-id={C61F4758-AD59-4B6E-9B61-EA76501C2585}&page-id={AD2D0207-DE64-4741-9D9C-BCC44C5A5664}&end&base-path=https://d.docs.live.net/6bf6dec507fdeafe/Dokumenty/Filozofia/Działy/Filozofia%20nauki.one)
@@ -122,7 +106,7 @@ modified date: 2026-07-02 22:00
 - Filozofia jako nauka jest po prostu usystematyzowanym związkiem elementów/wiedzy.
 ![[Pasted image 20240402215145.png]]
 
-## Filozofia a religia
+[[Filozofia a religia]]
 
 - Filozofia służy interpretacji świata, rozjaśnianiu własnej jaźni i transcendowaniu świata i istnienia, obejmującym oba te elementy.
 - Religia też, więc na czym polega różnica? Filozofia uważa się za wiedzę rozumową. Teologia zaś uznaje za istotny ruch od podstawy sensu (objawienie), który transcenduje ludzkie zdolności poznawcze.
@@ -135,16 +119,17 @@ modified date: 2026-07-02 22:00
 	1. Dopiero wiara czyni możliwą prawdziwą filozofię. Augustyn (credo ut intelligam), Anzelm z Canterbury (Fides quaerens intellectum)
 	2. Filozofia redukuje religię do filozofii i próbuje ją uzasadnić rozumowo. Kant (religia w granicach samego tylko rozumu), Jaspers (wiara filozoficzna).
 4. Filozofia i religia to różne, ale wzajemnie korespondujące płaszczyzny. Filozofia może pomóc uracjonalnić religię, choć oczywiście w ograniczonym zakresie.
-## Filozofia a sztuka
+
+[[Filozofia a sztuka]]
 
 - Wg Anzenbachera sztuka też służy orientacji w świecie, rozjaśnianiu egzystencji i metafizyce, ale w sferze zmysłowej, zamiast rozumowej.
 
-## Filozofia a ideologia
+[[Filozofia a ideologia]]
 
 - Tożsame lub wrogie.
 - Ideologie są łatwiejsze w użytkowaniu i rozwijaniu. Są egalitarne, podczas gdy prawdziwa filozofia jest zawsze elitarna. Co ciekawe, w czasach współczesnego egalitaryzmu powiedzenie, że jest się filozofem, jest uważane za pretensjonalne. Raczej jeśli już, to ktoś powie, że jest profesorem filozofii albo zajmuje się filozofią. To dość znamienne.
 
-## Filozofia a światopogląd
+[[Filozofia a światopogląd]]
 
 - Światopogląd to ogół poglądów jednostki na świat. Najczęściej jest zlepkiem różnych nieuświadomionych filozofii i ideologii. Filozofia może ten światopogląd oczyszczać i uracjonalniać lub w wersjach irracjonalnych: zatruwać.
 - Nie istnieje światopogląd naukowy. Można mieć co najwyżej światopogląd filozoficzny lub ideologiczny.

@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Przedfilozoficzne formy poznania.md",
+                "file": "03 Atomy/Psychologiczne źródła filozofowania.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,11 +196,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Przedfilozoficzne formy poznania"
+              "title": "Psychologiczne źródła filozofowania"
+            }
+          },
+          {
+            "id": "3c4ba92e4ae50504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Filozofia a nauka.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Filozofia a nauka"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -376,13 +400,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Przedfilozoficzne formy poznania.md",
+                "file": "03 Atomy/Filozofia a nauka.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Przedfilozoficzne formy poznania"
+              "title": "Konspekt Filozofia a nauka"
             }
           },
           {
@@ -473,16 +497,20 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "4d8fc342140bd007",
+  "active": "3c4ba92e4ae50504",
   "lastOpenFiles": [
     "01 Input przejściowy/Filozofia/MOC Filozofia.md",
+    "03 Atomy/Filozofia a nauka.md",
+    "03 Atomy/Psychologiczne źródła filozofowania.md",
+    "03 Atomy/Filozofia a zdrowy rozsądek.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
+    "03 Atomy/Historyczno-kulturowe przyczyny powstania filozofii w Grecji.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "03 Atomy/Przedfilozoficzne formy poznania.md",
     "03 Atomy/Trzy punkty wyjścia filozofii.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Heraklit z Efezu.md",
     "01 Input przejściowy/Filozofia/Metafilozofia.md",
     "02 MOC/MOC Filozofia/MOC Filozofia.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/03 Filozofia renesansowa.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/02 Filozofia średniowieczna.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Anaksagoras.md",
@@ -504,10 +532,6 @@
     "02 MOC/MOC.md",
     "02 MOC/MOC Filozofia",
     "02 MOC/MOC Fizyka/MOC Kształty prądu okresowego.md",
-    "03 Atomy/Struktura algebraiczna.md",
-    "02 MOC/MOC Matematyka/MOC Rodzaje struktur algebraicznych.md",
-    "03 Atomy/Struktura matematyczna.md",
-    "02 MOC/MOC Matematyka/MOC Rodzaje struktur matematycznych.md",
     "05 Bazy danych/Algebra baza.base",
     "05 Bazy danych/Analiza matematyczna baza.base",
     "05 Bazy danych/Algebra liniowa baza.base",

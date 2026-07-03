@@ -126908,20 +126908,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3385,
+      "wordCount": 2704,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 11.283333333333333,
-      "characterCount": 25993,
-      "nonWhitespaceCharacterCount": 22379,
-      "newlineCount": 255,
-      "readingTimeInMinutes": 12.773584905660377,
-      "linkCount": 21,
+      "pageCount": 9.013333333333334,
+      "characterCount": 20867,
+      "nonWhitespaceCharacterCount": 17979,
+      "newlineCount": 225,
+      "readingTimeInMinutes": 10.20377358490566,
+      "linkCount": 29,
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1772304385339,
-      "modifiedDate": 1783076196831,
-      "sizeInBytes": 27429,
+      "modifiedDate": 1783076654025,
+      "sizeInBytes": 22003,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -126945,20 +126945,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 316,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 1.0533333333333332,
+      "characterCount": 2401,
+      "nonWhitespaceCharacterCount": 2058,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 1.1924528301886792,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783076209721,
-      "modifiedDate": 1783076212315,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783076379667,
+      "sizeInBytes": 2711,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -126966,6 +126966,164 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 12:56",
+        "tags": [
+          "atom",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-03 12:56"
+      }
+    },
+    "03 Atomy/Historyczno-kulturowe przyczyny powstania filozofii w Grecji.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 261,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.87,
+      "characterCount": 2005,
+      "nonWhitespaceCharacterCount": 1727,
+      "newlineCount": 19,
+      "readingTimeInMinutes": 0.9849056603773585,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783076322089,
+      "modifiedDate": 1783076385213,
+      "sizeInBytes": 2294,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 12:58",
+        "tags": [
+          "atom",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-03 12:58"
+      }
+    },
+    "03 Atomy/Psychologiczne źródła filozofowania.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 47,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 406,
+      "nonWhitespaceCharacterCount": 347,
+      "newlineCount": 12,
+      "readingTimeInMinutes": 0.17735849056603772,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783076416682,
+      "modifiedDate": 1783076498139,
+      "sizeInBytes": 621,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 13:00",
+        "tags": [
+          "atom",
+          "filozofia/metafilozofia",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-03 13:00"
+      }
+    },
+    "03 Atomy/Filozofia a zdrowy rozsądek.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 76,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.25333333333333335,
+      "characterCount": 558,
+      "nonWhitespaceCharacterCount": 478,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.28679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783076619042,
+      "modifiedDate": 1783076659263,
+      "sizeInBytes": 762,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 13:03",
+        "tags": [
+          "atom",
+          "filozofia/metafilozofia"
+        ],
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-03 13:03"
+      }
+    },
+    "03 Atomy/Filozofia a nauka.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783076672251,
+      "modifiedDate": 1783076686389,
+      "sizeInBytes": 145,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-03 13:04",
+        "tags": [
+          "atom"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-03 13:04"
       }
     }
   }
