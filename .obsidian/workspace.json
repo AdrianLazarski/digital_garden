@@ -131,10 +131,24 @@
             "id": "67eb4d4d30183971",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "Zettelkasten"
             }
           }
         ],
@@ -314,12 +328,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Zettelkasten.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt"
+              "title": "Konspekt Zettelkasten"
             }
           },
           {
@@ -396,7 +411,6 @@
     "hiddenItems": {
       "obsidian-bible-reference:Bible Verse Lookup": false,
       "obisidian-note-linker:Note Linker": false,
-      "edit-history:Open edit history": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
@@ -408,7 +422,6 @@
       "command-palette:Otwórz listę poleceń": false,
       "bases:Stwórz nową bazę danych": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "keep-the-rhythm:Word Count Stats": false,
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
@@ -456,4 +469,9 @@
     "załączniki/robocza 3-86.webp",
     "załączniki/robocza 3-85.webp",
     "załączniki/robocza 3-84.webp",
-    "załączniki/robocza 3-
+    "załączniki/robocza 3-83.webp",
+    "załączniki/robocza 3-82.webp",
+    "załączniki/robocza 3-81.webp",
+    "załączniki/robocza 3-80.webp"
+  ]
+}
