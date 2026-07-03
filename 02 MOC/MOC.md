@@ -7,11 +7,12 @@ status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-02 20:42
 ---
 
-[[MOC Filozofia]]
+[[MOC Filozofia]] 🧠
+
 
 # IT
 
-[[MOC IT]]
+[[MOC IT]] 🤖
 
 $\rightarrow$ [[MOC Języki programowania]]
 	$\rightarrow$ [[MOC C Sharp]]
@@ -26,11 +27,11 @@ $\rightarrow$ [[MOC Media przewodowe]]
 
 # Elektronika
 
-[[MOC Elektronika]]
+[[MOC Elektronika]] 🔌
 
 
-# Matematyka
-[[MOC Matematyka]]
+
+[[MOC Matematyka]] 🧮
 
 $\rightarrow$ [[MOC Dziedziny matematyki]]
 	$\rightarrow$ [[MOC Algebra]]
@@ -54,33 +55,28 @@ $\rightarrow$ [[MOC Dziedziny matematyki]]
 		$\rightarrow$ [[MOC Teoria typów]]
 	$\rightarrow$ [[MOC Statystyka]]
 
-# Logika
-[[MOC Logika]]
+
+[[MOC Logika]] 0️⃣1️⃣
 
 $\rightarrow$ [[MOC Logika matematyczna]]
 
-# Fizyka
-[[MOC Fizyka]]
+
+[[MOC Fizyka]] ⚛️
 
 $\rightarrow$ [[MOC Fizycy]]
 $\rightarrow$ [[MOC Jednostki fizyczne]]
 $\rightarrow$ [[MOC Kształty prądu okresowego]]
 
 
-# Ekonomia
-[[MOC Ekonomia]]
+[[MOC Ekonomia]] 💰
 
 
-# Religia
-[[MOC Religia]]
+[[MOC Religia]] ✝️
 
-# Historia
-[[MOC Historia]]
+[[MOC Historia]] 🏰
 
-# Socjologia
-[[MOC Socjologia]]
+[[MOC Socjologia]] 👪
 
-# Psychologia
 [[MOC Psychologia]]
 
 
