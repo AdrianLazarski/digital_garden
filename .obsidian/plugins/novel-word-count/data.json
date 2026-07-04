@@ -58512,8 +58512,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783093623877,
-      "modifiedDate": 1783199379091,
-      "sizeInBytes": 144,
+      "modifiedDate": 1783200950207,
+      "sizeInBytes": 155,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -58525,7 +58525,8 @@
       "frontmatter": {
         "created": "2026-07-03 17:47",
         "tags": [
-          "moc"
+          "moc",
+          "logika"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
@@ -58548,8 +58549,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783093625704,
-      "modifiedDate": 1783199390309,
-      "sizeInBytes": 144,
+      "modifiedDate": 1783200934268,
+      "sizeInBytes": 166,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -58561,7 +58562,8 @@
       "frontmatter": {
         "created": "2026-07-03 17:47",
         "tags": [
-          "moc"
+          "moc",
+          "filozofia/języka"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",

@@ -4260,6 +4260,11 @@
             "timeKey": "23:05",
             "w": 19,
             "c": 140
+          },
+          {
+            "timeKey": "23:35",
+            "w": 1,
+            "c": 11
           }
         ],
         "id": 448
@@ -4288,9 +4293,22 @@
             "timeKey": "23:05",
             "w": 19,
             "c": 140
+          },
+          {
+            "timeKey": "23:35",
+            "w": 2,
+            "c": 21
           }
         ],
         "id": 450
+      },
+      {
+        "date": "2026-07-04",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+        "wordCountStart": 153,
+        "charCountStart": 1232,
+        "changes": [],
+        "id": 451
       }
     ]
   }

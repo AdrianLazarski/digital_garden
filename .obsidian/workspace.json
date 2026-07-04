@@ -126,57 +126,9 @@
               "icon": "lucide-file",
               "title": "MOC Dzieła filozoficzne"
             }
-          },
-          {
-            "id": "9e4d6b63abd77c08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii języka"
-            }
-          },
-          {
-            "id": "331a674dbf2591cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu logiki"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -352,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Dzieła z zakresu filozofii języka"
+              "title": "Konspekt MOC Dzieła filozoficzne"
             }
           },
           {
@@ -449,12 +401,12 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "9e4d6b63abd77c08",
+  "active": "5227329662aedcf2",
   "lastOpenFiles": [
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
     "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła estetyczne.md",
