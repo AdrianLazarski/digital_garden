@@ -4255,7 +4255,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "23:05",
+            "w": 19,
+            "c": 140
+          }
+        ],
         "id": 448
       },
       {
@@ -4271,6 +4277,20 @@
           }
         ],
         "id": 449
+      },
+      {
+        "date": "2026-07-04",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:05",
+            "w": 19,
+            "c": 140
+          }
+        ],
+        "id": 450
       }
     ]
   }
