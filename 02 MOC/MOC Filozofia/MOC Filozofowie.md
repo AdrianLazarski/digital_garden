@@ -18,6 +18,7 @@ modified date: 2026-07-06 14:09
 
 
 # Narodowościowo
+
 [[MOC Filozofowie polscy]]
 
 [[MOC Filozofowie amerykańscy]]
@@ -30,6 +31,16 @@ modified date: 2026-07-06 14:09
 [[MOC Filozofowie rosyjscy]]
 [[MOC Filozofowie włoscy]]
 [[MOC Filozofowie żydowscy]]
+
+
+# Nurtami
+
+
+[[MOC Filozofowie liberalni]]
+[[MOC Filozofowie konserwatywni]]
+[[MOC Filozofowie lewicowi]]
+[[MOC Filozofowie marksistowscy]]
+
 # Inne kryteria
 
 [[MOC Filozofki]]

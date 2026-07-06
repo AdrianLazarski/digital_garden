@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - filozofia/starożytna
+  - "#filozofia/polityki"
+  - "#filozofia/prawa"
+dojrzalosc: Krzak 🌿
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-06 14:32
+---
 - Pochodził z Elei.
 - V-IV w. przed Chr.
 - Uczeń [[Gorgiasz z Leontinoi|Gorgiasza]]. Przejął po nim kierownictwo szkoły retorycznej.
@@ -16,6 +27,3 @@ Dzieła:
 
 
 J. Gajda-Krynicka, Sofiści, Warszawa 1989, s. 167-168.
-
-
-Tagi: #filozofia #filozof #filozofia/starożytna #filozofia/grecka #sofiści #filozofia/polityki #filozofia/prawa 

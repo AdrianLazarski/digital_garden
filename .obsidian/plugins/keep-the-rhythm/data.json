@@ -4545,8 +4545,13 @@
           },
           {
             "timeKey": "14:25",
-            "w": 22,
-            "c": 231
+            "w": 23,
+            "c": 247
+          },
+          {
+            "timeKey": "14:30",
+            "w": 12,
+            "c": 127
           }
         ],
         "id": 466
@@ -4617,6 +4622,11 @@
             "timeKey": "14:20",
             "w": 21,
             "c": 169
+          },
+          {
+            "timeKey": "14:35",
+            "w": 12,
+            "c": 138
           }
         ],
         "id": 474
@@ -4784,6 +4794,42 @@
           }
         ],
         "id": 485
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Alkidamas.md",
+        "wordCountStart": 109,
+        "charCountStart": 891,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 13,
+            "c": 96
+          }
+        ],
+        "id": 486
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
+        "wordCountStart": 491,
+        "charCountStart": 3952,
+        "changes": [],
+        "id": 487
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+        "wordCountStart": 333,
+        "charCountStart": 2191,
+        "changes": [
+          {
+            "timeKey": "14:35",
+            "w": 1,
+            "c": 15
+          }
+        ],
+        "id": 488
       }
     ]
   }

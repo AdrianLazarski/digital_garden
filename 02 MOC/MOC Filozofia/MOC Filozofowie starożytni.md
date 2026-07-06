@@ -11,6 +11,7 @@ modified date: 2026-07-02 22:28
 ---
 $\leftarrow$ [[MOC Filozofia starożytna]]
 
+# Chronoliogif
 
 **VII/VI w. przed Chr.**
 [[Tales z Miletu]]  625-545
