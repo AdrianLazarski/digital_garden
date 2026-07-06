@@ -561,13 +561,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Filozofowie starożytni"
+              "title": "Konspekt"
             }
           },
           {
@@ -658,14 +657,14 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "8ae5954f150c0d2b",
+  "active": "328c5e3e9e9cfcf9",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Alkidamas.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie renesansowi.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
