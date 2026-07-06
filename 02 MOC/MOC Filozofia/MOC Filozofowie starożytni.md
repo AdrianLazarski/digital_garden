@@ -11,7 +11,7 @@ modified date: 2026-07-02 22:28
 ---
 $\leftarrow$ [[MOC Filozofia starożytna]]
 
-# Chronoliogif
+# Chronologicznie
 
 **VII/VI w. przed Chr.**
 [[Tales z Miletu]]  625-545
@@ -119,3 +119,11 @@ $\leftarrow$ [[MOC Filozofia starożytna]]
 [[Kasjodor]] 485-580
 [[Jan Filipon]] 490-580
 [[Pseudo-Dionizy Areopagita]]
+
+# Alfabetycznie
+
+[[Alkidamas]]
+[[Anaksagoras]]
+[[Anaksarchos z Abdery]]
+[[Anaksymander]]
+[[Anaksymenes]]
