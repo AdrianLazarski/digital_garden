@@ -3402,7 +3402,7 @@
       },
       {
         "date": "2026-07-03",
-        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/02 Filozofia średniowieczna.md",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
         "wordCountStart": 598,
         "charCountStart": 4472,
         "changes": [],
@@ -4020,7 +4020,7 @@
       },
       {
         "date": "2026-07-03",
-        "filePath": "02 MOC/MOC Filozofia współczesna.md",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia współczesna.md",
         "wordCountStart": 1005,
         "charCountStart": 7767,
         "changes": [
@@ -4067,7 +4067,7 @@
       },
       {
         "date": "2026-07-03",
-        "filePath": "02 MOC/MOC Filozofowie współcześni.md",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -4646,7 +4646,7 @@
           {
             "timeKey": "17:50",
             "w": 0,
-            "c": 1
+            "c": 6
           }
         ],
         "id": 474
@@ -4764,6 +4764,11 @@
             "timeKey": "14:20",
             "w": 21,
             "c": 168
+          },
+          {
+            "timeKey": "17:55",
+            "w": 65,
+            "c": 481
           }
         ],
         "id": 482
@@ -4778,6 +4783,11 @@
             "timeKey": "14:25",
             "w": 27,
             "c": 233
+          },
+          {
+            "timeKey": "17:55",
+            "w": 46,
+            "c": 460
           }
         ],
         "id": 483
@@ -4792,6 +4802,11 @@
             "timeKey": "14:25",
             "w": 26,
             "c": 233
+          },
+          {
+            "timeKey": "17:55",
+            "w": 147,
+            "c": 1143
           }
         ],
         "id": 484
@@ -4900,17 +4915,62 @@
       },
       {
         "date": "2026-07-06",
-        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/02 Filozofia średniowieczna.md",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
         "wordCountStart": 598,
         "charCountStart": 4472,
         "changes": [
           {
+            "timeKey": "14:25",
+            "w": 27,
+            "c": 233
+          },
+          {
             "timeKey": "16:45",
             "w": -289,
             "c": -1887
+          },
+          {
+            "timeKey": "17:50",
+            "w": -239,
+            "c": -1919
+          },
+          {
+            "timeKey": "17:55",
+            "w": 46,
+            "c": 460
           }
         ],
         "id": 491
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "03 Atomy/Uniwersytet.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 285,
+            "c": 2283
+          }
+        ],
+        "id": 492
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia współczesna.md",
+        "wordCountStart": 380,
+        "charCountStart": 3067,
+        "changes": [],
+        "id": 493
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/03 Filozofia renesansowa.md",
+        "wordCountStart": 214,
+        "charCountStart": 1657,
+        "changes": [],
+        "id": 494
       }
     ]
   }

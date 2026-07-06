@@ -1,33 +1,13 @@
 ---
-dg-publish: true
+created: 2026-07-06 17:54
+tags:
+  - atom
+  - historia/nauki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-07-06 17:54
 ---
-
-
-## Najważniejsze zagadnienia
-
-[[Renesans karoliński]]
-[[Spór pomiędzy dialektykami i antydialektykami]]
-[[Filozofia arabska]]
-[[Spór o uniwersalia]]
-[[Filozofia XII w.]]
-[[Szkoła w Chartres]]
-[[Wiktoryni]]
-[[Szkoła w Oksfordzie]]
-[[Szkoła franciszkańska]]
-[[Filozofia XIII w.]]
-[[Szkoła dominikańska]]
-[[Awerroizm]]
-[[Szkoła w Merton College]] ([[Kalkulatorzy]])
-
-[[Filozofia bizantyjska]]
-
-## Przedstawiciele:
-
-
-
-## Uniwersytety
-
-### Organizacja uniwersytetów:
+# Organizacja uniwersytetów:
 
 Model boloński – *universitas scholarium*
 	- Korporacja studentów
@@ -53,14 +33,14 @@ Model paryski (typ kanclerski, uniwersytet fakultetów) – *universitas magistr
 		- Podział na wydziały
 - 1400 Jagiellońska fundacja uniwersytetu w Krakowie.
 
-### Organizacja studiów:
+# Organizacja studiów:
 
 - Najpierw wydział sztuk – filozofia. Głownie Organon.
 - Potem teologia, prawo lub medycyna.
 - Po studiach Arystotelesa Augustyn na teologii wydawał się bełkotem. Stąd popularność Awicenny.
 - Od XIII w. magistra otrzymywało się za komentarz do Sentencji Piotra Lombarda.
 
-### Inne informacje:
+# Inne informacje:
 
 - *scientia* - wiedza konieczna, ściśle udowadnialna
 - sztuka - systematyczny układ zasad i konsekwencji; schemat sylogistyczny

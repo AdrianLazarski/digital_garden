@@ -270,6 +270,37 @@
               "icon": "lucide-file",
               "title": "MOC Filozofowie nowożytni"
             }
+          }
+        ],
+        "currentTab": 10
+      },
+      {
+        "id": "484b3166e883579e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43fa13ef6e26bf86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/03 Filozofia renesansowa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "03 Filozofia renesansowa"
+            }
           },
           {
             "id": "566c75edfa19f231",
@@ -294,45 +325,14 @@
               "icon": "lucide-file",
               "title": "MOC Filozofowie renesansowi"
             }
-          }
-        ],
-        "currentTab": 11
-      },
-      {
-        "id": "484b3166e883579e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c25bd98bf19b8091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Filozofowie średniowieczni"
-            }
           },
           {
-            "id": "e534ce76b8e754bb",
+            "id": "f8f26473fcada9c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Historia filozofii/02 Filozofia średniowieczna.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofia renesansowa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -347,10 +347,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02 Filozofia średniowieczna"
+              "title": "MOC Filozofia renesansowa"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -526,13 +527,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofia renesansowa.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Filozofowie średniowieczni"
+              "title": "Konspekt MOC Filozofia renesansowa"
             }
           },
           {
@@ -623,21 +624,23 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "c25bd98bf19b8091",
+  "active": "f8f26473fcada9c9",
   "lastOpenFiles": [
     "02 MOC/MOC Filozofia/MOC Filozofowie renesansowi.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/02 Filozofia średniowieczna.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia renesansowa.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/03 Filozofia renesansowa.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
     "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia współczesna.md",
+    "03 Atomy/Uniwersytet.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
     "03 Atomy/Leucyp z Miletu.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Alkidamas.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia renesansowa.md",
     "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md",
     "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie przełomu epok.md",
@@ -649,8 +652,6 @@
     "02 MOC/MOC Filozofia/MOC Filozofowie polscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie brytyjscy.md",
     "02 MOC/MOC Filozofia.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
-    "02 MOC/MOC Matematyka.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",
