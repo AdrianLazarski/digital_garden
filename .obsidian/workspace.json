@@ -351,7 +351,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -527,13 +527,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofia renesansowa.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie renesansowi.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Filozofia renesansowa"
+              "title": "Konspekt MOC Filozofowie renesansowi"
             }
           },
           {
@@ -624,10 +624,10 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "f8f26473fcada9c9",
+  "active": "566c75edfa19f231",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Filozofowie renesansowi.md",
     "02 MOC/MOC Filozofia/MOC Filozofia renesansowa.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie renesansowi.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/03 Filozofia renesansowa.md",
     "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
     "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",

@@ -7,6 +7,8 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 14:22
 ---
+
+
 ### **XV w.**
 [[Marsilio Ficino]] 1433-1499
 [[Giovanni Pico della Mirandola]] 1463-1494
