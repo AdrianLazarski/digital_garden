@@ -4569,7 +4569,13 @@
         "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
         "wordCountStart": 783,
         "charCountStart": 6055,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": -783,
+            "c": -6055
+          }
+        ],
         "id": 468
       },
       {
@@ -4585,7 +4591,13 @@
         "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
         "wordCountStart": 783,
         "charCountStart": 6055,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": -783,
+            "c": -6055
+          }
+        ],
         "id": 470
       },
       {
@@ -4755,6 +4767,31 @@
             "timeKey": "18:35",
             "w": 3,
             "c": 36
+          },
+          {
+            "timeKey": "18:40",
+            "w": 970,
+            "c": 7183
+          },
+          {
+            "timeKey": "18:45",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "18:50",
+            "w": 0,
+            "c": 6
+          },
+          {
+            "timeKey": "18:55",
+            "w": -4,
+            "c": -20
+          },
+          {
+            "timeKey": "19:00",
+            "w": -1,
+            "c": -25
           }
         ],
         "id": 481
@@ -4846,6 +4883,11 @@
             "timeKey": "14:25",
             "w": 1,
             "c": 12
+          },
+          {
+            "timeKey": "18:40",
+            "w": 291,
+            "c": 2423
           }
         ],
         "id": 485
