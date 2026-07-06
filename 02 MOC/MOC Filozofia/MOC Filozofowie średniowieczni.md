@@ -98,3 +98,69 @@ modified date: 2026-07-06 14:23
 
 # 2. Alfabetycznie
 
+[[Abubacer]] †1185
+[[Albert Wielki]] 1206-1280
+[[Aleksander z Hales]] 1186-1245
+[[Al-Gazali]] 1058-1111
+[[Al-Kindi]] 801-873
+[[Alkuin z Yorku]] 730-806 r.
+[[Al-Farabi]] 870-950
+[[Anzelm z Besaty]] 1000-1070r.
+[[Anzelm z Canterbury]] 1033/34-1109
+[[Awempace]] ok. 1085-1138
+[[Awerroes]] 1126-1198 r.
+[[Awicenna]] 980-1037r.
+[[Berengariusz z Tour]] 998-1088
+[[Bernard z Chartres]] 1124-1130†
+[[Bonawentura]] 1221-1274
+[[Filip Kanclerz]] 1170-1236
+[[Fredegizjusz z Tour]] 834†
+[[Fulbert z Chartres]] 975-1029r.
+[[Gerard z Czanad]]/ [[Gerard z Sagredo]] +1046
+[[Gilbert z la Porée]] 1076-1154
+[[Hraban Maur]] 776/784-856
+[[Hugon ze św. Wiktora]] 1096-1141
+[[Ibn Haldun]] 1332-1406
+[[Izydor z Sewilli]] 560-636
+[[Idzi Rzymianin]] 1243-1316
+[[Jan Buridan]] 1300-1362
+[[Jan Duns Szkot]] 1266-1308
+[[Jan Roscelin]] z Compiegne 1050-1120
+[[Jan Szkot Eriugena]] 810-877
+[[Jan z La Rochelle]] †1245
+[[Jan z Salisbury]] 1115/1120-1180
+[[Joscelin z Soissons]] zm. 1152
+[[Lafranc]]/Lafrank 1005/1010-1089r.
+[[Mikołaj z Autrecourt]] 1299-1369
+[[Mikołaj z Oresme]] 1320-1382
+[[Piotr Abelard]] 1079-1142
+[[Piotr Damiani]] 1007-1072
+[[Piotr Hiszpan]] (Jan XXI) 1210-1277
+[[Piotr Lombard]] 1100-1160
+[[Piotr z Poitiers]] 1130-1205
+[[Roger Bacon]] (1210/1214-1292)
+[[Robert Grosseteste]] 1175-1253
+
+[[Ryszard ze św. Wiktora]] 1110-1173
+[[Teodoryk z Chartres]] 1085-1155
+[[Walter z Mortagne]] 1100-1174
+[[Wilhelm z Auxerre]] †1231
+[[Wilhelm z Champeaux]] 1070-1121
+[[Wilhelm z Owernii]] 1181–1249
+
+
+[[Tomasz z Akwinu]] (1225-1274)
+[[Siger z Brabantu]] 1235-1280
+[[Henryk z Gandawy]] 1217-1293
+
+[[Wilhelm Ockham]] 1285-1349
+[[Tomasz Bradwardine]] 1290-1349
+
+
+
+
+
+
+
+
+[[Mikołaj z Kuzy]] 1400-1464
