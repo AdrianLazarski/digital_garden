@@ -4328,9 +4328,68 @@
             "timeKey": "13:45",
             "w": 20,
             "c": 151
+          },
+          {
+            "timeKey": "13:50",
+            "w": 1,
+            "c": 9
           }
         ],
         "id": 453
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 454
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 455
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii matematyki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 456
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 457
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła za zakresu filozofii religii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 458
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła za zakresu propedeutyki filozofii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:55",
+            "w": 20,
+            "c": 154
+          }
+        ],
+        "id": 459
       }
     ]
   }
