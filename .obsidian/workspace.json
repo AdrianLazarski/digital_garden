@@ -246,33 +246,9 @@
               "icon": "lucide-file",
               "title": "MOC Filozofowie przełomu epok"
             }
-          },
-          {
-            "id": "7cc4918751b48ef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Filozofowie nowożytni"
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       },
       {
         "id": "484b3166e883579e",
@@ -478,13 +454,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie przełomu epok.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Filozofowie nowożytni"
+              "title": "Konspekt MOC Filozofowie przełomu epok"
             }
           },
           {
@@ -575,10 +551,10 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "7cc4918751b48ef8",
+  "active": "1ce00133e233a7e1",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie renesansowi.md",
     "02 MOC/MOC Filozofia/MOC Filozofia renesansowa.md",
