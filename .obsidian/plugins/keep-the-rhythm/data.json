@@ -5078,10 +5078,143 @@
           {
             "timeKey": "20:00",
             "w": 5,
-            "c": 44
+            "c": 45
           }
         ],
         "id": 496
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Epistemologia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 497
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 498
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 21,
+            "c": 167
+          }
+        ],
+        "id": 499
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia umysłu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 21,
+            "c": 163
+          }
+        ],
+        "id": 500
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia umysłu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 21,
+            "c": 163
+          }
+        ],
+        "id": 501
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia prawa.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 21,
+            "c": 162
+          }
+        ],
+        "id": 502
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia nauki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 21,
+            "c": 162
+          }
+        ],
+        "id": 503
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 21,
+            "c": 165
+          }
+        ],
+        "id": 504
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia przyrody.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "20:05",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 505
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia religii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 21,
+            "c": 164
+          }
+        ],
+        "id": 506
       }
     ]
   }

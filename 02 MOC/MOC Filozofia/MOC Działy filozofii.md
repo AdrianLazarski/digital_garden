@@ -7,7 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 19:57
 ---
-[[MOC Antrpologia filozoficzna]]
+[[MOC Antropologia filozoficzna]]
 [[MOC Etyka]]
 [[MOC Estetyka]]
 [[MOC Epistemologia]]
