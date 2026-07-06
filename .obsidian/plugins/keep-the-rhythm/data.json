@@ -4627,6 +4627,11 @@
             "timeKey": "14:35",
             "w": 12,
             "c": 138
+          },
+          {
+            "timeKey": "16:45",
+            "w": 289,
+            "c": 1877
           }
         ],
         "id": 474
@@ -4877,6 +4882,20 @@
           }
         ],
         "id": 490
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/02 Filozofia średniowieczna.md",
+        "wordCountStart": 598,
+        "charCountStart": 4472,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": -289,
+            "c": -1887
+          }
+        ],
+        "id": 491
       }
     ]
   }

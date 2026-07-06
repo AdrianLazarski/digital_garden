@@ -62088,8 +62088,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783023871268,
-      "modifiedDate": 1783025704779,
-      "sizeInBytes": 581,
+      "modifiedDate": 1783348627500,
+      "sizeInBytes": 563,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.10333333333333333,
@@ -62103,11 +62103,10 @@
         "tags": [
           "moc",
           "filozofia/starożytna",
-          "filozofia/grecka",
           "filozofia/rzymska"
         ],
         "dojrzalosc": "Krzak 🌿",
-        "status_epistemiczny": "Uzasadniony ✅",
+        "status_epistemiczny": "Aksjomatyczny 💎",
         "modified date": "2026-07-02 22:24"
       }
     },
