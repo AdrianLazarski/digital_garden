@@ -4526,8 +4526,130 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 20,
+            "c": 156
+          },
+          {
+            "timeKey": "14:10",
+            "w": 39,
+            "c": 390
+          },
+          {
+            "timeKey": "14:15",
+            "w": 4,
+            "c": 47
+          }
+        ],
         "id": 466
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia.md",
+        "wordCountStart": 33,
+        "charCountStart": 278,
+        "changes": [],
+        "id": 467
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
+        "wordCountStart": 783,
+        "charCountStart": 6055,
+        "changes": [],
+        "id": 468
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Matematyka.md",
+        "wordCountStart": 126,
+        "charCountStart": 1213,
+        "changes": [],
+        "id": 469
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
+        "wordCountStart": 783,
+        "charCountStart": 6055,
+        "changes": [],
+        "id": 470
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie brytyjscy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 471
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie polscy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 472
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie arabscy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 473
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 474
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie zaangażowani politycznie.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 20,
+            "c": 156
+          }
+        ],
+        "id": 475
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 26,
+            "c": 206
+          }
+        ],
+        "id": 476
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie amerykańscy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 19,
+            "c": 140
+          }
+        ],
+        "id": 477
       }
     ]
   }

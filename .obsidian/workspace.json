@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "512a517a3c83057e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Matematyka.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Matematyka"
-            }
-          },
-          {
             "id": "370984ecf5520752",
             "type": "leaf",
             "state": {
@@ -125,6 +101,174 @@
               },
               "icon": "lucide-file",
               "title": "MOC Filozofowie"
+            }
+          },
+          {
+            "id": "eea9a78a5f8c99fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie amerykańscy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Filozofowie amerykańscy"
+            }
+          },
+          {
+            "id": "dacecd9c64708410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Filozofowie niemieccy"
+            }
+          },
+          {
+            "id": "56146bf8f596c882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Filozofowie francuscy"
+            }
+          },
+          {
+            "id": "1ce00133e233a7e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie przełomu epok.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Filozofowie przełomu epok"
+            }
+          },
+          {
+            "id": "7cc4918751b48ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Filozofowie nowożytni"
+            }
+          },
+          {
+            "id": "566c75edfa19f231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie renesansowi.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Filozofowie renesansowi"
+            }
+          },
+          {
+            "id": "c25bd98bf19b8091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Filozofowie średniowieczni"
             }
           }
         ],
@@ -304,13 +448,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie amerykańscy.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Filozofowie"
+              "title": "Konspekt MOC Filozofowie amerykańscy"
             }
           },
           {
@@ -401,10 +545,25 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "dc712346f9c24ec6",
+  "active": "eea9a78a5f8c99fe",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Filozofki.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie zaangażowani politycznie.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie amerykańscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie przełomu epok.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie renesansowi.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie arabscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie polscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie brytyjscy.md",
     "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
+    "02 MOC/MOC Filozofia.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
+    "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
     "02 MOC/MOC Filozofia/MOC Najlepsze dzieła filozoficzne.md",
@@ -414,21 +573,6 @@
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii matematyki.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
     "02 MOC/MOC Filozofia/MOC Dzieła za zakresu filozofii religii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii umysłu.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła za zakresu propedeutyki filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła estetyczne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
-    "02 MOC/MOC Filozofia/MOC Średniowieczna literatura filozoficzna.md",
-    "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
-    "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
-    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 1945).md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",
