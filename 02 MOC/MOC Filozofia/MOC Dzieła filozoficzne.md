@@ -3,8 +3,8 @@ created: 2026-07-03 16:16
 tags:
   - moc
   - filozofia/dzieła
-dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+dojrzalosc: Krzak 🌿
+status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-03 16:16
 ---
 # Epokami

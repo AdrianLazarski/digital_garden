@@ -4,6 +4,6 @@ tags:
   - moc
   - filozofia
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 13:55
 ---

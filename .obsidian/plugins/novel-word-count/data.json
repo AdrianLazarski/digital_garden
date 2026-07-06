@@ -58396,8 +58396,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783088736439,
-      "modifiedDate": 1783092598935,
-      "sizeInBytes": 411,
+      "modifiedDate": 1783339750067,
+      "sizeInBytes": 413,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.07333333333333333,
@@ -58413,7 +58413,7 @@
           "filozofia/historia_filozofii"
         ],
         "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
+        "status_epistemiczny": "Aksjomatyczny 💎",
         "modified date": "2026-07-03 17:28"
       }
     },
@@ -58652,15 +58652,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.43,
-      "characterCount": 1072,
+      "characterCount": 1073,
       "nonWhitespaceCharacterCount": 937,
-      "newlineCount": 32,
+      "newlineCount": 33,
       "readingTimeInMinutes": 0.4867924528301887,
       "linkCount": 25,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783088196088,
-      "modifiedDate": 1783088668638,
+      "modifiedDate": 1783339706089,
       "sizeInBytes": 1264,
       "sessionStart": {
         "noteCount": 1,
@@ -58676,8 +58676,8 @@
           "moc",
           "filozofia/dzieła"
         ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
+        "dojrzalosc": "Krzak 🌿",
+        "status_epistemiczny": "Aksjomatyczny 💎",
         "modified date": "2026-07-03 16:16"
       }
     },
@@ -128564,16 +128564,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783338874388,
-      "modifiedDate": 1783338878496,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783339631864,
+      "sizeInBytes": 169,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -128581,6 +128581,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 13:54",
+        "tags": [
+          "moc",
+          "filozofia/polityki"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:06"
       }
     },
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md": {
@@ -128591,16 +128601,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783338881034,
-      "modifiedDate": 1783338886478,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783339614808,
+      "sizeInBytes": 169,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -128608,6 +128618,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 13:54",
+        "tags": [
+          "moc",
+          "filozofia/przyrody"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:06"
       }
     },
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii matematyki.md": {
@@ -128618,16 +128638,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783338887284,
-      "modifiedDate": 1783338891934,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783339586987,
+      "sizeInBytes": 171,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -128635,6 +128655,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 13:54",
+        "tags": [
+          "moc",
+          "filozofia/matematyki"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:06"
       }
     },
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md": {
@@ -128645,16 +128675,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783338893504,
-      "modifiedDate": 1783338899534,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783339570225,
+      "sizeInBytes": 166,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -128662,6 +128692,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 13:54",
+        "tags": [
+          "moc",
+          "filozofia/nauki"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:05"
       }
     },
     "02 MOC/MOC Filozofia/MOC Dzieła za zakresu filozofii religii.md": {
@@ -128672,16 +128712,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783338901727,
-      "modifiedDate": 1783338904731,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783339545257,
+      "sizeInBytes": 168,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -128689,6 +128729,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 13:55",
+        "tags": [
+          "moc",
+          "filozofia/religii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:05"
       }
     },
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii umysłu.md": {
@@ -128699,16 +128749,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783338907801,
-      "modifiedDate": 1783338907801,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783339526576,
+      "sizeInBytes": 168,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -128716,6 +128766,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 13:55",
+        "tags": [
+          "moc",
+          "filozofia/umysłu"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:03"
       }
     },
     "02 MOC/MOC Filozofia/MOC Dzieła za zakresu propedeutyki filozofii.md": {
@@ -128734,8 +128794,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783338913716,
-      "modifiedDate": 1783338940004,
-      "sizeInBytes": 158,
+      "modifiedDate": 1783339368189,
+      "sizeInBytes": 160,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -128751,8 +128811,146 @@
           "filozofia"
         ],
         "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
+        "status_epistemiczny": "Aksjomatyczny 💎",
         "modified date": "2026-07-06 13:55"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783339655874,
+      "modifiedDate": 1783339698247,
+      "sizeInBytes": 179,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 14:07",
+        "tags": [
+          "moc",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:08"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii wschodu.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783339661423,
+      "modifiedDate": 1783339679224,
+      "sizeInBytes": 168,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 14:07",
+        "tags": [
+          "moc",
+          "filozofia/wschodu"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:07"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Najlepsze dzieła filozoficzne.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783339705587,
+      "modifiedDate": 1783339731703,
+      "sizeInBytes": 160,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 14:08",
+        "tags": [
+          "moc",
+          "filozofia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:08"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofowie.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783339763034,
+      "modifiedDate": 1783339763034,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

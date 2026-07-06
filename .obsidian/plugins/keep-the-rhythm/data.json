@@ -4315,7 +4315,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
         "wordCountStart": 153,
         "charCountStart": 1232,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 452
       },
       {
@@ -4342,7 +4348,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 21,
+            "c": 165
+          }
+        ],
         "id": 454
       },
       {
@@ -4350,7 +4362,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 21,
+            "c": 165
+          }
+        ],
         "id": 455
       },
       {
@@ -4358,7 +4376,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii matematyki.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 21,
+            "c": 167
+          }
+        ],
         "id": 456
       },
       {
@@ -4366,7 +4390,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 21,
+            "c": 162
+          }
+        ],
         "id": 457
       },
       {
@@ -4374,7 +4404,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła za zakresu filozofii religii.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 21,
+            "c": 164
+          }
+        ],
         "id": 458
       },
       {
@@ -4387,9 +4423,111 @@
             "timeKey": "13:55",
             "w": 20,
             "c": 154
+          },
+          {
+            "timeKey": "14:00",
+            "w": 0,
+            "c": 2
           }
         ],
         "id": 459
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii umysłu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:00",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "14:05",
+            "w": 1,
+            "c": 12
+          }
+        ],
+        "id": 460
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 21,
+            "c": 175
+          }
+        ],
+        "id": 461
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii wschodu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 21,
+            "c": 164
+          }
+        ],
+        "id": 462
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Najlepsze dzieła filozoficzne.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 20,
+            "c": 156
+          }
+        ],
+        "id": 463
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Najlepsze dzieła filozoficzne.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 20,
+            "c": 156
+          }
+        ],
+        "id": 464
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
+        "wordCountStart": 43,
+        "charCountStart": 401,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 465
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 466
       }
     ]
   }

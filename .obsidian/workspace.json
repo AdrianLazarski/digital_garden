@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "5227329662aedcf2",
+            "id": "dc712346f9c24ec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,203 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła filozoficzne"
-            }
-          },
-          {
-            "id": "c26a2ce8a5492a45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła za zakresu propedeutyki filozofii.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła za zakresu propedeutyki filozofii"
-            }
-          },
-          {
-            "id": "aeee267e216f8d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła za zakresu propedeutyki filozofii.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła za zakresu propedeutyki filozofii"
-            }
-          },
-          {
-            "id": "1222139352dd245a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii umysłu.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii umysłu"
-            }
-          },
-          {
-            "id": "16492dd48a9811f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła za zakresu filozofii religii.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła za zakresu filozofii religii"
-            }
-          },
-          {
-            "id": "ed36197e5384e645",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii nauki"
-            }
-          },
-          {
-            "id": "0ab2dbeb478654c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii matematyki.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii matematyki"
-            }
-          },
-          {
-            "id": "2674ecfa270a5027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii przyrody"
-            }
-          },
-          {
-            "id": "fcd96798eda531dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii polityki"
+              "title": "MOC Filozofowie"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -496,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła za zakresu propedeutyki filozofii.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Dzieła za zakresu propedeutyki filozofii"
+              "title": "Konspekt MOC Filozofowie"
             }
           },
           {
@@ -593,16 +401,21 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "c26a2ce8a5492a45",
+  "active": "dc712346f9c24ec6",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła za zakresu propedeutyki filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii umysłu.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła za zakresu filozofii religii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii matematyki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Najlepsze dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii wschodu.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii matematyki.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła za zakresu filozofii religii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii umysłu.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła za zakresu propedeutyki filozofii.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
@@ -616,11 +429,6 @@
     "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
     "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 1945).md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
-    "02 MOC/MOC Filozofia współczesna.md",
-    "02 MOC/MOC Filozofowie współcześni.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/MOC Nurty filozofii współczesnej.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/05 Filozofia przełomu epok.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",

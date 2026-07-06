@@ -1,9 +1,9 @@
 ---
-created: 2026-07-06 13:54
+created: 2026-07-06 14:07
 tags:
   - moc
-  - filozofia/przyrody
+  - filozofia/wschodu
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
-modified date: 2026-07-06 14:06
+modified date: 2026-07-06 14:07
 ---
