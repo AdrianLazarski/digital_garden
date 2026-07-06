@@ -385,7 +385,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -561,12 +561,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt"
+              "title": "Konspekt MOC Filozofia starożytna"
             }
           },
           {
@@ -657,14 +658,16 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "328c5e3e9e9cfcf9",
+  "active": "e27fbf54171d9c96",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
+    "03 Atomy/Leucyp z Miletu.md",
     "01 Input przejściowy/Filozofia/Filozofowie/1. Filozofowie starożytni/Alkidamas.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie renesansowi.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
     "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
@@ -683,8 +686,6 @@
     "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
     "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Najlepsze dzieła filozoficzne.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",

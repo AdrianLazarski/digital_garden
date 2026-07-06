@@ -3,10 +3,9 @@ created: 2026-07-02 22:24
 tags:
   - moc
   - filozofia/starożytna
-  - filozofia/grecka
   - filozofia/rzymska
 dojrzalosc: Krzak 🌿
-status_epistemiczny: Uzasadniony ✅
+status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-02 22:24
 ---
 $\leftarrow$ [[MOC Filozofia starożytna]]
