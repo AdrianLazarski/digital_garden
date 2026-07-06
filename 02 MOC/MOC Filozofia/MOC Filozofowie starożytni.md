@@ -124,6 +124,91 @@ $\leftarrow$ [[MOC Filozofia starożytna]]
 
 [[Alkidamas]]
 [[Anaksagoras]]
-[[Anaksarchos z Abdery]]
+[[Anaksarchos z Abdery]] 380-340
 [[Anaksymander]]
 [[Anaksymenes]]
+[[Antyfont]] 480-411
+[[Antystenes]] 445-365
+[[Archelaos z Aten]]
+[[Arystoteles]] 384-322
+[[Arystyp z Cyreny]] 435-366
+
+[[Cyceron]] 106-43
+[[Demokryt z Abdery]] 460-370
+[[Diodor z Kronos]]
+[[Diogenes z Apolonii]]
+[[Diogenes ze Smyrny]]
+[[Diogenes z Synopy]] 413-323
+[[Empedokles]] 494-434
+[[Epikur]] 341-270
+[[Eubulides z Miletu]]
+[[Euklides z Megary]] ok. 435-356
+[[Filon z Aleksandrii]] 10BC-50AC
+[[Gorgiasz z Leontinoi]] 483-375
+[[Heraklit z Efezu]] 540-480
+[[Hippiasz z Elidy]] 480-411
+[[Hippodamus z Miletu]] 498-408
+[[Hippon z Samos]]
+[[Karneades]] 214-129
+[[Kallikles]]
+[[Kratylos]]
+[[Kritiasz]] 460-403
+[[Ksenofanes z Kolofonu]] 570-470
+[[Ksenofont]] 430-355
+[[Leucyp z Miletu]] 480-?
+[[Lukrecjusz]] 99-55
+[[Lykofron]]
+
+[[Parmenides z Elei]] 540-470
+[[Pitagoras]] 570-497
+[[Platon]] 427-347
+[[Plotyn]] 204-270
+[[Protagoras]] 480-410
+[[Prodikos]] 470-?
+[[Pyrron z Elidy]] 376-286
+
+[[Melissos z Samos]]
+[[Metrodor z Chios]]
+
+[[Sokrates]] 469-399
+[[Seneka]] 5BC-65AC
+[[Tales z Miletu]]  625-545
+[[Trazymach]]
+
+[[Zenon z Elei]] 490-430
+[[Zenon z Kition]] 355-263
+
+
+
+
+
+
+
+**
+
+**
+[[Marek Aureliusz]] 121-180
+**
+[[Sekstus Empiryk]]
+
+**III/IV w.**
+[[Porfiriusz]] 232-301
+[[Jamblich]] 264-339
+[[Mariusz Wiktorynus]] 281/291-363
+
+**IV w.**
+[[Bazyli Wielki]] 329-379
+[[Grzegorz z Nazjanzu]] 330-390
+[[Grzegorz z Nyssy]] 335-395
+
+**IV/V w.**
+[[Augustyn z Hippony]] 354-430
+
+**V w.**
+[[Proklos]] 412-485
+
+**V/VI w.**
+[[Boecjusz]] 480-525
+[[Kasjodor]] 485-580
+[[Jan Filipon]] 490-580
+[[Pseudo-Dionizy Areopagita]]
