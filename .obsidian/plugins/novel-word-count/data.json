@@ -62523,20 +62523,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 141,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.47,
+      "characterCount": 1077,
+      "nonWhitespaceCharacterCount": 963,
+      "newlineCount": 35,
+      "readingTimeInMinutes": 0.5320754716981132,
+      "linkCount": 30,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783340210328,
-      "modifiedDate": 1783340553965,
-      "sizeInBytes": 199,
+      "modifiedDate": 1783360419639,
+      "sizeInBytes": 1297,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -62909,16 +62909,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1,
-      "characterCount": 2523,
+      "characterCount": 2521,
       "nonWhitespaceCharacterCount": 2169,
-      "newlineCount": 65,
+      "newlineCount": 63,
       "readingTimeInMinutes": 1.1320754716981132,
       "linkCount": 29,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783340640296,
-      "modifiedDate": 1783356124829,
-      "sizeInBytes": 2838,
+      "modifiedDate": 1783360582918,
+      "sizeInBytes": 2836,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03333333333333333,
@@ -84914,33 +84914,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/Filozofia/Historia filozofii/05 Filozofia przełomu epok.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 141,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.47,
-      "characterCount": 1078,
-      "nonWhitespaceCharacterCount": 963,
-      "newlineCount": 36,
-      "readingTimeInMinutes": 0.5320754716981132,
-      "linkCount": 30,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304396933,
-      "modifiedDate": 1738262221467,
-      "sizeInBytes": 1100,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.47,
-        "wordCount": 141,
-        "characterCount": 1078,
-        "nonWhitespaceCharacterCount": 963,
-        "newlineCount": 36
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md.edtz": {
@@ -129399,6 +129372,43 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Działy filozofii.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 165,
+      "nonWhitespaceCharacterCount": 145,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783360623936,
+      "modifiedDate": 1783360713819,
+      "sizeInBytes": 325,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 19:57",
+        "tags": [
+          "moc",
+          "filozofia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 19:57"
       }
     }
   }

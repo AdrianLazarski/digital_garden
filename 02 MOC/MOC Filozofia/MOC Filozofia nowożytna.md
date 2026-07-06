@@ -9,8 +9,6 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-06 14:24
 ---
 
-
-
 # Informacje ogólne
 
 - Za początek można uznać [[03 Filozofia renesansowa]]

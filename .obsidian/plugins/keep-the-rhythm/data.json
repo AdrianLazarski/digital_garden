@@ -4748,6 +4748,11 @@
             "timeKey": "14:20",
             "w": 23,
             "c": 192
+          },
+          {
+            "timeKey": "19:50",
+            "w": 142,
+            "c": 1076
           }
         ],
         "id": 480
@@ -4888,6 +4893,11 @@
             "timeKey": "18:40",
             "w": 291,
             "c": 2423
+          },
+          {
+            "timeKey": "19:55",
+            "w": 0,
+            "c": -2
           }
         ],
         "id": 485
@@ -5039,6 +5049,39 @@
           }
         ],
         "id": 494
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/05 Filozofia przełomu epok.md",
+        "wordCountStart": 142,
+        "charCountStart": 1078,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": -142,
+            "c": -1078
+          }
+        ],
+        "id": 495
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:55",
+            "w": 49,
+            "c": 411
+          },
+          {
+            "timeKey": "20:00",
+            "w": 5,
+            "c": 44
+          }
+        ],
+        "id": 496
       }
     ]
   }
