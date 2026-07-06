@@ -320,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -496,13 +496,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
+                "file": "02 MOC/MOC Filozofia/MOC Antropologia filozoficzna.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Filozofia języka"
+              "title": "Konspekt MOC Antropologia filozoficzna"
             }
           },
           {
@@ -593,20 +593,20 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "1fa41c28a554a45b",
+  "active": "38b32f5fbf98a051",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Etyka.md",
+    "02 MOC/MOC Filozofia/MOC Epistemologia.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia religii.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
+    "02 MOC/MOC Filozofia/MOC Estetyka.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Filozofia umysłu.md",
     "02 MOC/MOC Filozofia/MOC Filozofia prawa.md",
     "02 MOC/MOC Filozofia/MOC Filozofia nauki.md",
     "02 MOC/MOC Filozofia/MOC Filozofia przyrody.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia religii.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
-    "02 MOC/MOC Filozofia/MOC Estetyka.md",
-    "02 MOC/MOC Filozofia/MOC Epistemologia.md",
-    "02 MOC/MOC Filozofia/MOC Etyka.md",
     "02 MOC/MOC Filozofia/MOC Antropologia filozoficzna.md",
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Historia filozofii.md",

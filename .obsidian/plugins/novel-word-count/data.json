@@ -129419,16 +129419,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783360884160,
-      "modifiedDate": 1783360904279,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783361689639,
+      "sizeInBytes": 173,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129436,6 +129436,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 20:01",
+        "tags": [
+          "moc",
+          "filozofia/antropologia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 20:14"
       }
     },
     "02 MOC/MOC Filozofia/MOC Etyka.md": {
@@ -129446,16 +129456,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783360892583,
-      "modifiedDate": 1783360915104,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783361655391,
+      "sizeInBytes": 166,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129463,6 +129473,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 20:01",
+        "tags": [
+          "moc",
+          "filozofia/etyka"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 20:13"
       }
     },
     "02 MOC/MOC Filozofia/MOC Epistemologia.md": {
@@ -129473,16 +129493,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783360893159,
-      "modifiedDate": 1783360915133,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783361630918,
+      "sizeInBytes": 174,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129490,6 +129510,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 20:01",
+        "tags": [
+          "filozofia/epistemologia",
+          "moc"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 20:13"
       }
     },
     "02 MOC/MOC Filozofia/MOC Filozofia języka.md": {
@@ -129500,16 +129530,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783360895078,
-      "modifiedDate": 1783360915138,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783361474492,
+      "sizeInBytes": 168,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129517,6 +129547,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 20:01",
+        "tags": [
+          "moc",
+          "filozofia/języka"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 20:10"
       }
     },
     "02 MOC/MOC Filozofia/MOC Metafizyka.md": {
@@ -129601,16 +129641,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783360915561,
-      "modifiedDate": 1783360929947,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783361600959,
+      "sizeInBytes": 169,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129618,6 +129658,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 20:01",
+        "tags": [
+          "moc",
+          "filozofia/estetyka"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 20:13"
       }
     },
     "02 MOC/MOC Filozofia/MOC Filozofia prawa.md": {
