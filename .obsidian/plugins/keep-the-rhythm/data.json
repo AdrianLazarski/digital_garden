@@ -4317,6 +4317,20 @@
         "charCountStart": 1232,
         "changes": [],
         "id": 452
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:45",
+            "w": 20,
+            "c": 151
+          }
+        ],
+        "id": 453
       }
     ]
   }
