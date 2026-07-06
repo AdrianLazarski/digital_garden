@@ -77,7 +77,8 @@
       "2026-04-27",
       "2026-06-09",
       "2026-06-21",
-      "2026-07-03"
+      "2026-07-03",
+      "2026-07-06"
     ],
     "dailyActivity": [
       {
@@ -4541,6 +4542,11 @@
             "timeKey": "14:15",
             "w": 4,
             "c": 47
+          },
+          {
+            "timeKey": "14:25",
+            "w": 22,
+            "c": 231
           }
         ],
         "id": 466
@@ -4606,7 +4612,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 21,
+            "c": 169
+          }
+        ],
         "id": 474
       },
       {
@@ -4645,11 +4657,133 @@
         "changes": [
           {
             "timeKey": "14:15",
-            "w": 19,
-            "c": 140
+            "w": 21,
+            "c": 163
+          },
+          {
+            "timeKey": "14:20",
+            "w": 6,
+            "c": 50
           }
         ],
         "id": 477
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 20,
+            "c": 156
+          }
+        ],
+        "id": 478
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 20,
+            "c": 156
+          }
+        ],
+        "id": 479
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie przełomu epok.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 23,
+            "c": 192
+          }
+        ],
+        "id": 480
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 21,
+            "c": 166
+          }
+        ],
+        "id": 481
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie renesansowi.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 21,
+            "c": 168
+          }
+        ],
+        "id": 482
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 27,
+            "c": 233
+          }
+        ],
+        "id": 483
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia renesansowa.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 26,
+            "c": 233
+          }
+        ],
+        "id": 484
+      },
+      {
+        "date": "2026-07-06",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 32,
+            "c": 284
+          },
+          {
+            "timeKey": "14:25",
+            "w": 1,
+            "c": 12
+          }
+        ],
+        "id": 485
       }
     ]
   }

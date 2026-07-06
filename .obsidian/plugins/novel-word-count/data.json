@@ -128930,20 +128930,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 43,
+      "wordCount": 53,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.14333333333333334,
-      "characterCount": 438,
-      "nonWhitespaceCharacterCount": 391,
-      "newlineCount": 19,
-      "readingTimeInMinutes": 0.16226415094339622,
-      "linkCount": 14,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 549,
+      "nonWhitespaceCharacterCount": 485,
+      "newlineCount": 28,
+      "readingTimeInMinutes": 0.2,
+      "linkCount": 16,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783339763034,
-      "modifiedDate": 1783340125931,
-      "sizeInBytes": 606,
+      "modifiedDate": 1783340876058,
+      "sizeInBytes": 721,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129052,16 +129052,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783340193554,
-      "modifiedDate": 1783340210274,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783340596409,
+      "sizeInBytes": 174,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129069,6 +129069,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 14:16",
+        "tags": [
+          "moc",
+          "filozofia/średniowieczna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-06 14:23"
       }
     },
     "02 MOC/MOC Filozofia/MOC Filozofowie renesansowi.md": {
@@ -129079,16 +129089,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783340200055,
-      "modifiedDate": 1783340200055,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783340586141,
+      "sizeInBytes": 172,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129096,6 +129106,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 14:16",
+        "tags": [
+          "moc",
+          "filozofia/renesansowa"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:22"
       }
     },
     "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md": {
@@ -129106,16 +129126,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783340201523,
-      "modifiedDate": 1783340223357,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783340569308,
+      "sizeInBytes": 171,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129123,6 +129143,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 14:16",
+        "tags": [
+          "moc",
+          "filozofia/nowożytna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:22"
       }
     },
     "02 MOC/MOC Filozofia/MOC Filozofowie przełomu epok.md": {
@@ -129133,16 +129163,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783340210328,
-      "modifiedDate": 1783340210328,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783340553965,
+      "sizeInBytes": 199,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129150,6 +129180,17 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 14:16",
+        "tags": [
+          "moc",
+          "filozofia/nowożytna",
+          "filozofia/współczesna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:21"
       }
     },
     "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md": {
@@ -129160,16 +129201,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783340211777,
-      "modifiedDate": 1783340211777,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783340470999,
+      "sizeInBytes": 160,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129177,6 +129218,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 14:16",
+        "tags": [
+          "moc",
+          "filozofia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:21"
       }
     },
     "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md": {
@@ -129187,16 +129238,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783340214830,
-      "modifiedDate": 1783340214830,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783340457162,
+      "sizeInBytes": 160,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129204,53 +129255,36 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 14:16",
+        "tags": [
+          "moc",
+          "filozofia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:20"
       }
     },
     "02 MOC/MOC Filozofia/MOC Filozofowie amerykańscy.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 7,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 58,
+      "nonWhitespaceCharacterCount": 50,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783340221803,
-      "modifiedDate": 1783340221803,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "02 MOC/MOC Filozofia/MOC Filozofki.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 23,
-      "nonWhitespaceCharacterCount": 20,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783340222289,
-      "modifiedDate": 1783340281424,
-      "sizeInBytes": 168,
+      "modifiedDate": 1783340422069,
+      "sizeInBytes": 217,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129262,7 +129296,45 @@
       "frontmatter": {
         "created": "2026-07-06 14:17",
         "tags": [
-          "moc"
+          "moc",
+          "filozofia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-06 14:18"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofki.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 51,
+      "nonWhitespaceCharacterCount": 44,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783340222289,
+      "modifiedDate": 1783340308625,
+      "sizeInBytes": 210,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 14:17",
+        "tags": [
+          "moc",
+          "filozofia"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Aksjomatyczny 💎",
@@ -129304,6 +129376,119 @@
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Aksjomatyczny 💎",
         "modified date": "2026-07-06 14:17"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 65,
+      "nonWhitespaceCharacterCount": 57,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783340627268,
+      "modifiedDate": 1783340768409,
+      "sizeInBytes": 239,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 14:23",
+        "tags": [
+          "moc",
+          "filozofia/średniowieczna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-06 14:25"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofia renesansowa.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 29,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783340633531,
+      "modifiedDate": 1783340738782,
+      "sizeInBytes": 237,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 14:23",
+        "tags": [
+          "moc",
+          "filozofia/renesansowa",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-06 14:25"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 100,
+      "nonWhitespaceCharacterCount": 86,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783340640296,
+      "modifiedDate": 1783340702596,
+      "sizeInBytes": 303,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-06 14:24",
+        "tags": [
+          "moc",
+          "filozofia/nowożytna",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-06 14:24"
       }
     }
   }
