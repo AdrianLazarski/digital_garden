@@ -4750,6 +4750,11 @@
             "timeKey": "14:20",
             "w": 21,
             "c": 166
+          },
+          {
+            "timeKey": "18:35",
+            "w": 3,
+            "c": 36
           }
         ],
         "id": 481
@@ -4774,6 +4779,11 @@
             "timeKey": "18:00",
             "w": 0,
             "c": 2
+          },
+          {
+            "timeKey": "18:35",
+            "w": 0,
+            "c": -1
           }
         ],
         "id": 482
@@ -4812,6 +4822,11 @@
             "timeKey": "17:55",
             "w": 147,
             "c": 1143
+          },
+          {
+            "timeKey": "18:35",
+            "w": 0,
+            "c": -1
           }
         ],
         "id": 484
@@ -4974,7 +4989,13 @@
         "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/03 Filozofia renesansowa.md",
         "wordCountStart": 214,
         "charCountStart": 1657,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": -214,
+            "c": -1657
+          }
+        ],
         "id": 494
       }
     ]

@@ -23,7 +23,6 @@ modified date: 2026-07-06 14:25
 - Wielkim odpowiedzialnym za to oraz za podważenie autorytetu Kościoła jest reformacja.
 
 
-
 # Renesansowe nurty filozoficzne
 
 Neoplatonizm
