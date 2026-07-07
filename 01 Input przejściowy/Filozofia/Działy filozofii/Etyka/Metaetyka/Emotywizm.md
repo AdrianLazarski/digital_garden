@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/etyka/meta
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-07 12:12
+---
 
 Kierunek metatyczny, głoszący, że namysł etyczny to jedynie ekspresja subiektywnych doznań i uczuć jednostki.
 - Oceny i normy to pseudozdania.
@@ -15,4 +25,3 @@ Kierunek metatyczny, głoszący, że namysł etyczny to jedynie ekspresja subiek
 
 [[Alfred Jules Ayer]]
 
-#filozofia #filozofia/metaetyka 

@@ -5275,8 +5275,154 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Antropologia filozoficzna.md",
         "wordCountStart": 21,
         "charCountStart": 169,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:05",
+            "w": 18,
+            "c": 218
+          },
+          {
+            "timeKey": "12:10",
+            "w": 1,
+            "c": 10
+          }
+        ],
         "id": 510
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Człowiek.md",
+        "wordCountStart": 48,
+        "charCountStart": 411,
+        "changes": [],
+        "id": 511
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Etyka.md",
+        "wordCountStart": 21,
+        "charCountStart": 162,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 11,
+            "c": 110
+          },
+          {
+            "timeKey": "12:15",
+            "w": 10,
+            "c": 133
+          }
+        ],
+        "id": 512
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Bioetyka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 26,
+            "c": 235
+          }
+        ],
+        "id": 513
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Metaetyka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 23,
+            "c": 182
+          }
+        ],
+        "id": 514
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Metaetyka/Emotywizm.md",
+        "wordCountStart": 134,
+        "charCountStart": 928,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 20,
+            "c": 148
+          }
+        ],
+        "id": 515
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Epistemologia.md",
+        "wordCountStart": 21,
+        "charCountStart": 170,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 32,
+            "c": 400
+          },
+          {
+            "timeKey": "12:20",
+            "w": 17,
+            "c": 204
+          }
+        ],
+        "id": 516
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Estetyka.md",
+        "wordCountStart": 21,
+        "charCountStart": 165,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 4,
+            "c": 51
+          }
+        ],
+        "id": 517
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
+        "wordCountStart": 21,
+        "charCountStart": 163,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 2,
+            "c": 22
+          },
+          {
+            "timeKey": "12:25",
+            "w": 5,
+            "c": 53
+          }
+        ],
+        "id": 518
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+        "wordCountStart": 21,
+        "charCountStart": 167,
+        "changes": [
+          {
+            "timeKey": "12:25",
+            "w": 19,
+            "c": 221
+          }
+        ],
+        "id": 519
       }
     ]
   }

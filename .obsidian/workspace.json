@@ -198,129 +198,9 @@
               "icon": "lucide-file",
               "title": "MOC Metafizyka"
             }
-          },
-          {
-            "id": "1fa41c28a554a45b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Filozofia języka"
-            }
-          },
-          {
-            "id": "27ff7ce110bc494a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Estetyka.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Estetyka"
-            }
-          },
-          {
-            "id": "4429267f3f3ae327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Epistemologia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Epistemologia"
-            }
-          },
-          {
-            "id": "adb19d275f0bb683",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Etyka.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Etyka"
-            }
-          },
-          {
-            "id": "38b32f5fbf98a051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Antropologia filozoficzna.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Antropologia filozoficzna"
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -496,13 +376,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Antropologia filozoficzna.md",
+                "file": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Antropologia filozoficzna"
+              "title": "Konspekt MOC Metafizyka"
             }
           },
           {
@@ -593,21 +473,25 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "38b32f5fbf98a051",
+  "active": "569f6bcb12d4f3aa",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Etyka.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
+    "02 MOC/MOC Filozofia/MOC Estetyka.md",
     "02 MOC/MOC Filozofia/MOC Epistemologia.md",
+    "02 MOC/MOC Filozofia/MOC Etyka.md",
+    "02 MOC/MOC Filozofia/MOC Bioetyka.md",
+    "02 MOC/MOC Filozofia/MOC Metaetyka.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Metaetyka/Emotywizm.md",
+    "02 MOC/MOC Filozofia/MOC Antropologia filozoficzna.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Człowiek.md",
     "02 MOC/MOC Filozofia/MOC Filozofia religii.md",
     "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
-    "02 MOC/MOC Filozofia/MOC Estetyka.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Filozofia umysłu.md",
     "02 MOC/MOC Filozofia/MOC Filozofia prawa.md",
     "02 MOC/MOC Filozofia/MOC Filozofia nauki.md",
     "02 MOC/MOC Filozofia/MOC Filozofia przyrody.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Antropologia filozoficzna.md",
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
@@ -617,10 +501,6 @@
     "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
     "02 MOC/MOC Filozofia/MOC Filozofia renesansowa.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/05 Filozofia przełomu epok.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie przełomu epok.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie renesansowi.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",

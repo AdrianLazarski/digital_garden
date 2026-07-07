@@ -7,3 +7,19 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 20:14
 ---
+[[Człowiek]]
+[[Dążenie]]
+[[Dusza]]
+[[Godność]]
+[[Instynkt naturalny]]
+[[Intelekt]]
+[[Natura człowieka]]
+[[Osoba]]
+[[Pamięć]]
+[[Pożądanie]]
+[[Praca]]
+[[Psychologia filozoficzna]]
+[[Sumienie]]
+[[Szczęście]]
+[[Twórczość]]
+[[Wola]]
