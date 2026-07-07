@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie australijscy.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofowie australijscy"
+              "title": "MOC Filozofowie"
+            }
+          },
+          {
+            "id": "959efa91378bd0ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,13 +218,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie australijscy.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Filozofowie australijscy"
+              "title": "Konspekt"
             }
           },
           {
@@ -304,9 +314,18 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "370984ecf5520752",
+  "active": "959efa91378bd0ed",
   "lastOpenFiles": [
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie chrześcijańscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie marksistowscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie lewicowi.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie konserwatywni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie liberalni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie włoscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie rosyjscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie australijscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie umysłu.md",
     "02 MOC/MOC Filozofia/MOC Filozofia umysłu.md",
@@ -323,15 +342,6 @@
     "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
     "02 MOC/MOC Filozofia/MOC Etycy.md",
     "02 MOC/MOC Filozofia/MOC Etyka.md",
-    "02 MOC/MOC Filozofia/MOC Estetycy.md",
-    "02 MOC/MOC Filozofia/MOC Estetyka.md",
-    "02 MOC/MOC Filozofia/MOC Epistemolodzy.md",
-    "02 MOC/MOC Filozofia/MOC Epistemologia.md",
-    "02 MOC/MOC Filozofia.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie religii.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie przyrody.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/Prawo/Werdykt.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/Prawo/Prawo podmiotowe.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",

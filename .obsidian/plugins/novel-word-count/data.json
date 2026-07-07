@@ -130345,6 +130345,338 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783423709312,
+      "modifiedDate": 1783423734044,
+      "sizeInBytes": 160,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-07 13:28",
+        "tags": [
+          "moc",
+          "filozofia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-07 13:28"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 81,
+      "nonWhitespaceCharacterCount": 72,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783423740370,
+      "modifiedDate": 1783423782984,
+      "sizeInBytes": 240,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-07 13:29",
+        "tags": [
+          "moc",
+          "filozofia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-07 13:29"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofowie rosyjscy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 24,
+      "nonWhitespaceCharacterCount": 21,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783423798248,
+      "modifiedDate": 1783423818320,
+      "sizeInBytes": 184,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-07 13:29",
+        "tags": [
+          "moc",
+          "filozofia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-07 13:30"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofowie włoscy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 45,
+      "nonWhitespaceCharacterCount": 40,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783423823136,
+      "modifiedDate": 1783423854444,
+      "sizeInBytes": 205,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-07 13:30",
+        "tags": [
+          "moc",
+          "filozofia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-07 13:30"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 35,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783423858423,
+      "modifiedDate": 1783423897430,
+      "sizeInBytes": 186,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-07 13:30",
+        "tags": [
+          "moc"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-07 13:31"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofowie liberalni.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 97,
+      "nonWhitespaceCharacterCount": 83,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783423906194,
+      "modifiedDate": 1783424000549,
+      "sizeInBytes": 256,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-07 13:31",
+        "tags": [
+          "moc",
+          "filozofia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-07 13:31"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofowie konserwatywni.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783424004168,
+      "modifiedDate": 1783424016207,
+      "sizeInBytes": 160,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-07 13:33",
+        "tags": [
+          "moc",
+          "filozofia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-07 13:33"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofowie lewicowi.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 59,
+      "nonWhitespaceCharacterCount": 51,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783424021871,
+      "modifiedDate": 1783424053180,
+      "sizeInBytes": 218,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-07 13:33",
+        "tags": [
+          "moc",
+          "filozofia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-07 13:33"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofowie marksistowscy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 37,
+      "nonWhitespaceCharacterCount": 32,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783424056911,
+      "modifiedDate": 1783424081036,
+      "sizeInBytes": 196,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-07 13:34",
+        "tags": [
+          "moc",
+          "filozofia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-07 13:34"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Filozofowie chrześcijańscy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
       "newlineCount": 0,
@@ -130352,8 +130684,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1783423709312,
-      "modifiedDate": 1783423709312,
+      "createdDate": 1783424085598,
+      "modifiedDate": 1783424085598,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,

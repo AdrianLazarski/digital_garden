@@ -5770,10 +5770,141 @@
           {
             "timeKey": "13:25",
             "w": 20,
-            "c": 151
+            "c": 156
           }
         ],
         "id": 541
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 28,
+            "c": 236
+          }
+        ],
+        "id": 542
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie rosyjscy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 22,
+            "c": 179
+          }
+        ],
+        "id": 543
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie włoscy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 24,
+            "c": 200
+          }
+        ],
+        "id": 544
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 23,
+            "c": 182
+          }
+        ],
+        "id": 545
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie liberalni.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 32,
+            "c": 252
+          }
+        ],
+        "id": 546
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie konserwatywni.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 20,
+            "c": 156
+          }
+        ],
+        "id": 547
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie lewicowi.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 26,
+            "c": 214
+          }
+        ],
+        "id": 548
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie marksistowscy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 24,
+            "c": 192
+          }
+        ],
+        "id": 549
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie chrześcijańscy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 21,
+            "c": 166
+          },
+          {
+            "timeKey": "13:35",
+            "w": 9,
+            "c": 80
+          }
+        ],
+        "id": 550
       }
     ]
   }
