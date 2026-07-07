@@ -12,3 +12,7 @@ modified date: 2026-07-06 20:10
 [[Sens]]
 [[Teoria deskrypcji Russella]]
 [[Znaczenie]]
+
+
+[[MOC Dzieła z zakresu filozofii języka]]
+[[MOC Filozofowie języka]]

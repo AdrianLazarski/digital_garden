@@ -15,3 +15,5 @@ modified date: 2026-07-06 20:05
 [[Świadomość]]
 [[Treść aktu świadomości]]
 
+[[MOC Dzieła z zakresu filozofii umysłu]]
+[[MOC Filozofowie umysłu]]

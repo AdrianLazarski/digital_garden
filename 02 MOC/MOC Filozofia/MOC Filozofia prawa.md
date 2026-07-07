@@ -13,3 +13,6 @@ modified date: 2026-07-06 20:05
 [[Sprawiedliwość]]
 [[Teoria prawa podmiotowego]]
 [[Teoria sprawiedliwości]]
+
+[[MOC Dzieła z zakresu filozofii prawa]]
+[[MOC Filozofowie prawa]]

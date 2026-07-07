@@ -7,3 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-07 13:11
 ---
+
+[[Arystoteles]]
+[[Ayn Rand]]
+

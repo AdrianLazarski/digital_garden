@@ -27,3 +27,5 @@ modified date: 2026-07-06 20:13
 [[Przyjaźń]]
 [[Utylitaryzm]]
 
+[[MOC Dzieła etyczne]]
+[[MOC Etycy]]

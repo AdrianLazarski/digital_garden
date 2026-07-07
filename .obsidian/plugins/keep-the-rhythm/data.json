@@ -5313,6 +5313,16 @@
             "timeKey": "12:15",
             "w": 10,
             "c": 133
+          },
+          {
+            "timeKey": "13:15",
+            "w": 1,
+            "c": 2
+          },
+          {
+            "timeKey": "13:20",
+            "w": 4,
+            "c": 35
           }
         ],
         "id": 512
@@ -5417,6 +5427,11 @@
             "timeKey": "12:25",
             "w": 5,
             "c": 53
+          },
+          {
+            "timeKey": "13:20",
+            "w": 9,
+            "c": 72
           }
         ],
         "id": 518
@@ -5450,6 +5465,11 @@
             "timeKey": "12:35",
             "w": 14,
             "c": 152
+          },
+          {
+            "timeKey": "13:25",
+            "w": 9,
+            "c": 69
           }
         ],
         "id": 520
@@ -5464,6 +5484,11 @@
             "timeKey": "12:35",
             "w": 11,
             "c": 135
+          },
+          {
+            "timeKey": "13:25",
+            "w": 9,
+            "c": 68
           }
         ],
         "id": 521
@@ -5644,9 +5669,111 @@
             "timeKey": "13:10",
             "w": 21,
             "c": 165
+          },
+          {
+            "timeKey": "13:15",
+            "w": 3,
+            "c": 31
           }
         ],
         "id": 534
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Etycy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 25,
+            "c": 208
+          }
+        ],
+        "id": 535
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie języka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 27,
+            "c": 227
+          }
+        ],
+        "id": 536
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md",
+        "wordCountStart": 324,
+        "charCountStart": 2717,
+        "changes": [],
+        "id": 537
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie nauki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 24,
+            "c": 190
+          },
+          {
+            "timeKey": "13:25",
+            "w": -1,
+            "c": -8
+          }
+        ],
+        "id": 538
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie prawa.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 25,
+            "c": 198
+          }
+        ],
+        "id": 539
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie umysłu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 22,
+            "c": 178
+          }
+        ],
+        "id": 540
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie australijscy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 20,
+            "c": 151
+          }
+        ],
+        "id": 541
       }
     ]
   }
