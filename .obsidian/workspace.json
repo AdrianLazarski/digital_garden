@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+                "file": "02 MOC/MOC Matematyka.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofowie"
-            }
-          },
-          {
-            "id": "959efa91378bd0ed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Podgląd grafu"
+              "title": "MOC Matematyka"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,12 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 MOC/MOC Matematyka.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt"
+              "title": "Konspekt MOC Matematyka"
             }
           },
           {
@@ -314,7 +304,7 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "959efa91378bd0ed",
+  "active": "370984ecf5520752",
   "lastOpenFiles": [
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie chrześcijańscy.md",

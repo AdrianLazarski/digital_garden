@@ -130673,20 +130673,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 9,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.03,
+      "characterCount": 79,
+      "nonWhitespaceCharacterCount": 68,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783424085598,
-      "modifiedDate": 1783424085598,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783424131731,
+      "sizeInBytes": 250,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -130694,6 +130694,17 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-07 13:34",
+        "tags": [
+          "moc",
+          "filozofia",
+          "religia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-07 13:34"
       }
     }
   }
