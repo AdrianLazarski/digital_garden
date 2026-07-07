@@ -9,5 +9,6 @@ modified date: 2026-07-07 13:05
 ---
 [[Platon]]
 [[Arystoteles]]
-[[Tomasz]]
+[[Augustyn z Hippony]]
+[[Tomasz z Akwinu]]
 [[Immanuel Kant]]

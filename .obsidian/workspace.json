@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Epistemolodzy.md",
+                "file": "02 MOC/MOC Filozofia/MOC Estetycy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Epistemolodzy"
+              "title": "MOC Estetycy"
             }
           }
         ],
@@ -232,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Epistemolodzy.md",
+                "file": "02 MOC/MOC Filozofia/MOC Estetycy.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Epistemolodzy"
+              "title": "Konspekt MOC Estetycy"
             }
           },
           {
@@ -331,8 +331,10 @@
   },
   "active": "59aa71679192d45d",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Epistemologia.md",
+    "02 MOC/MOC Filozofia/MOC Estetyka.md",
+    "02 MOC/MOC Filozofia/MOC Estetycy.md",
     "02 MOC/MOC Filozofia/MOC Epistemolodzy.md",
+    "02 MOC/MOC Filozofia/MOC Epistemologia.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie religii.md",
@@ -348,7 +350,6 @@
     "02 MOC/MOC Filozofia/MOC Filozofia umysłu.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
-    "02 MOC/MOC Filozofia/MOC Estetyka.md",
     "02 MOC/MOC Filozofia/MOC Etyka.md",
     "02 MOC/MOC Filozofia/MOC Bioetyka.md",
     "02 MOC/MOC Filozofia/MOC Metaetyka.md",
@@ -356,7 +357,6 @@
     "02 MOC/MOC Filozofia/MOC Antropologia filozoficzna.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Człowiek.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",

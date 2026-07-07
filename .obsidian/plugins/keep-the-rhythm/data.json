@@ -5393,6 +5393,11 @@
             "timeKey": "12:20",
             "w": 4,
             "c": 51
+          },
+          {
+            "timeKey": "13:05",
+            "w": 5,
+            "c": 44
           }
         ],
         "id": 517
@@ -5623,11 +5628,25 @@
         "changes": [
           {
             "timeKey": "13:05",
-            "w": 25,
-            "c": 214
+            "w": 31,
+            "c": 258
           }
         ],
         "id": 533
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Estetycy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 21,
+            "c": 165
+          }
+        ],
+        "id": 534
       }
     ]
   }
