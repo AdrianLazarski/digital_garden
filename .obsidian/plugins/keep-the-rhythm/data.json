@@ -5553,11 +5553,39 @@
         "changes": [
           {
             "timeKey": "12:45",
-            "w": 34,
-            "c": 284
+            "w": 44,
+            "c": 378
           }
         ],
         "id": 528
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia religii.md",
+        "wordCountStart": 21,
+        "charCountStart": 164,
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 10,
+            "c": 86
+          }
+        ],
+        "id": 529
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie religii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 25,
+            "c": 208
+          }
+        ],
+        "id": 530
       }
     ]
   }

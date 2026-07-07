@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofia religii.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie religii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofia religii"
-            }
-          },
-          {
-            "id": "8d3957c63ae18c76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie polityki.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Filozofowie polityki"
+              "title": "MOC Filozofowie religii"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie polityki.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie religii.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Filozofowie polityki"
+              "title": "Konspekt MOC Filozofowie religii"
             }
           },
           {
@@ -353,8 +329,10 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "8d3957c63ae18c76",
+  "active": "709c08cd75ad303b",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Filozofia religii.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie religii.md",
     "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie polityki.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie przyrody.md",
@@ -374,13 +352,11 @@
     "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Metaetyka/Emotywizm.md",
     "02 MOC/MOC Filozofia/MOC Antropologia filozoficzna.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Człowiek.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia religii.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
     "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",
