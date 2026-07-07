@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Historia filozofii/04 Filozofia nowożytna.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "04 Filozofia nowożytna"
+              "title": "MOC Filozofowie"
             }
           },
           {
-            "id": "709c08cd75ad303b",
+            "id": "59aa71679192d45d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie religii.md",
+                "file": "02 MOC/MOC Filozofia/MOC Epistemolodzy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofowie religii"
+              "title": "MOC Epistemolodzy"
             }
           }
         ],
@@ -232,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie religii.md",
+                "file": "02 MOC/MOC Filozofia/MOC Epistemolodzy.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Filozofowie religii"
+              "title": "Konspekt MOC Epistemolodzy"
             }
           },
           {
@@ -329,10 +329,14 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "709c08cd75ad303b",
+  "active": "59aa71679192d45d",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Filozofia religii.md",
+    "02 MOC/MOC Filozofia/MOC Epistemologia.md",
+    "02 MOC/MOC Filozofia/MOC Epistemolodzy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie religii.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia religii.md",
     "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie polityki.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie przyrody.md",
@@ -345,7 +349,6 @@
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
     "02 MOC/MOC Filozofia/MOC Estetyka.md",
-    "02 MOC/MOC Filozofia/MOC Epistemologia.md",
     "02 MOC/MOC Filozofia/MOC Etyka.md",
     "02 MOC/MOC Filozofia/MOC Bioetyka.md",
     "02 MOC/MOC Filozofia/MOC Metaetyka.md",
@@ -353,10 +356,7 @@
     "02 MOC/MOC Filozofia/MOC Antropologia filozoficzna.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Człowiek.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
-    "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",

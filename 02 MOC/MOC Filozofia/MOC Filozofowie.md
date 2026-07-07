@@ -7,7 +7,15 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 14:09
 ---
-# Epokami
+**Spis treści**
+
+1. [Tematami](#Tematami)
+2. [Narodowościowo](#Narodowo%C5%9Bciowo)
+3. [Nurtami](#Nurtami)
+4. [Inne kryteria](#Inne%20kryteria)
+
+
+# 1. Epokami
 
 [[MOC Filozofowie starożytni]]
 [[MOC Filozofowie średniowieczni]]
@@ -16,8 +24,21 @@ modified date: 2026-07-06 14:09
 [[MOC Filozofowie przełomu epok]]
 [[MOC Filozofowie współcześni]]
 
+# 2. Tematami
 
-# Narodowościowo
+[[MOC Epistemolodzy]]
+[[MOC Etycy]]
+[[MOC Estetycy]]
+[[MOC Filozofowie języka]]
+[[MOC Filozofowie nauki]]
+[[MOC Filozofowie polityki]]
+[[MOC Filozofowie prawa]]
+[[MOC Filozofowie przyrody]]
+[[MOC Filozofowie przyrody]]
+[[MOC Filozofowie religii]]
+[[MOC Filozofowie umysłu]]
+
+# 3. Narodowościowo
 
 [[MOC Filozofowie polscy]]
 
@@ -33,7 +54,7 @@ modified date: 2026-07-06 14:09
 [[MOC Filozofowie żydowscy]]
 
 
-# Nurtami
+# 4. Nurtami
 
 
 [[MOC Filozofowie liberalni]]
@@ -41,7 +62,7 @@ modified date: 2026-07-06 14:09
 [[MOC Filozofowie lewicowi]]
 [[MOC Filozofowie marksistowscy]]
 
-# Inne kryteria
+# 5. Inne kryteria
 
 [[MOC Filozofki]]
 [[MOC Filozofowie zaangażowani politycznie]]

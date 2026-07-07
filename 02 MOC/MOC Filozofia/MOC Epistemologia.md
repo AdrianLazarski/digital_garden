@@ -37,3 +37,6 @@ modified date: 2026-07-06 20:13
 [[Zależność wiedzy]]
 [[Założenie]]
 [[Zdrowy rozsądek]]
+
+[[MOC Dzieła epistemologiczne]]
+[[MOC Epistemolodzy]]
