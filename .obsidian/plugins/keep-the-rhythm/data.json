@@ -5418,11 +5418,60 @@
         "changes": [
           {
             "timeKey": "12:25",
-            "w": 19,
-            "c": 221
+            "w": 45,
+            "c": 518
+          },
+          {
+            "timeKey": "12:30",
+            "w": 29,
+            "c": 291
           }
         ],
         "id": 519
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia umysłu.md",
+        "wordCountStart": 21,
+        "charCountStart": 163,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 14,
+            "c": 152
+          }
+        ],
+        "id": 520
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia prawa.md",
+        "wordCountStart": 21,
+        "charCountStart": 162,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 11,
+            "c": 135
+          }
+        ],
+        "id": 521
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/Prawo/Prawo podmiotowe.md",
+        "wordCountStart": 49,
+        "charCountStart": 417,
+        "changes": [],
+        "id": 522
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/Prawo/Werdykt.md",
+        "wordCountStart": 24,
+        "charCountStart": 169,
+        "changes": [],
+        "id": 523
       }
     ]
   }
