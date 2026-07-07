@@ -3,5 +3,4 @@ Wygłasza go ława przysięgłych. Jest to po prostu stwierdzenie faktu. Nie myl
 
 Od słów *vere dictum*, czyli mówienie/dyktowanie prawdy.
 
-
-#filozofia/prawa 
+#prawo

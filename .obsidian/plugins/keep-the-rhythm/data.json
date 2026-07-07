@@ -5470,8 +5470,94 @@
         "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/Prawo/Werdykt.md",
         "wordCountStart": 24,
         "charCountStart": 169,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": -1,
+            "c": -12
+          }
+        ],
         "id": 523
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia nauki.md",
+        "wordCountStart": 21,
+        "charCountStart": 162,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 12,
+            "c": 143
+          },
+          {
+            "timeKey": "12:40",
+            "w": 20,
+            "c": 184
+          }
+        ],
+        "id": 524
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia przyrody.md",
+        "wordCountStart": 21,
+        "charCountStart": 159,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 30,
+            "c": 295
+          }
+        ],
+        "id": 525
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie przyrody.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 21,
+            "c": 165
+          }
+        ],
+        "id": 526
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
+        "wordCountStart": 21,
+        "charCountStart": 165,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 11,
+            "c": 139
+          },
+          {
+            "timeKey": "12:45",
+            "w": 27,
+            "c": 316
+          }
+        ],
+        "id": 527
+      },
+      {
+        "date": "2026-07-07",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie polityki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": 34,
+            "c": 284
+          }
+        ],
+        "id": 528
       }
     ]
   }
