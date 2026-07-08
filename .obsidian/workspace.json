@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "MOC Matematyka"
             }
-          },
-          {
-            "id": "673f4f057a49e98d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Language lab/English grammar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "English grammar"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Language lab/English grammar.md",
+                "file": "02 MOC/MOC Matematyka.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt English grammar"
+              "title": "Konspekt MOC Matematyka"
             }
           },
           {
@@ -329,8 +304,9 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "673f4f057a49e98d",
+  "active": "370984ecf5520752",
   "lastOpenFiles": [
+    "06 Language lab/English grammar.md",
     "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie chrześcijańscy.md",
@@ -356,7 +332,6 @@
     "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie języka.md",
     "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
-    "02 MOC/MOC Filozofia/MOC Etycy.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",
