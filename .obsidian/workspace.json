@@ -8,27 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "370984ecf5520752",
+            "id": "418b4f7ca43047e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Zdanie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Zdanie"
+              "title": "Nowa karta"
             }
           }
         ]
@@ -207,13 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Zdanie.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Zdanie"
+              "title": "Konspekt"
             }
           },
           {
@@ -304,8 +289,9 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "370984ecf5520752",
+  "active": "418b4f7ca43047e7",
   "lastOpenFiles": [
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Zdanie.md",
     "02 MOC/MOC Matematyka.md",
     "06 Language lab/English grammar.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
@@ -331,7 +317,6 @@
     "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md",
     "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie języka.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",
