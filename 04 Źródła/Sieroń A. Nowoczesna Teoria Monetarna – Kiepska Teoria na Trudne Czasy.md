@@ -37,3 +37,4 @@ Założenia MMT:
 	- Zwolennicy NTM są prawdopodobnie tego świadomi, dlatego w swoich rozważaniach posługują się skonsolidowanym sektorem publicznym (Skarb Państwa + bank centralny).
 - Ludzie mogą stracić zaufanie do waluty i realokować swoje fundusze — co może poważnie wpłynąć na kurs walutowy, stopy procentowe i ceny aktywów — nawet jeśli wiedzą, że techniczne bankructwo jest niemożliwe
 	- Jak dostrzega sam Wray (s. 92), „rządowi nie mogą wyczerpać się środki na wydatki. Wyczerpać może się jednak skłonności ludności do sprzedaży większej ilości siły roboczej, zasobów czy też produkcji _w zamian za_ walutę — przynajmniej po ustalonej cenie”.
+- niespodziewana inflacja może być postrzegana z ekonomicznego punktu widzenia jako częściowa niewypłacalność, jako że dłużnik spłaca realnie mniej niż pożyczył
