@@ -18,4 +18,4 @@ modified date: 2026-07-10 14:00
 [[Podatek liniowy]]
 [[Podatek progresywny]]
 [[MOC Podatki]]
-[[Stopy procentowe]]
+[[MOC Stopy procentowe]]

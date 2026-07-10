@@ -6047,6 +6047,11 @@
             "timeKey": "15:00",
             "w": 1,
             "c": 4
+          },
+          {
+            "timeKey": "15:15",
+            "w": 1,
+            "c": 4
           }
         ],
         "id": 560
@@ -6527,7 +6532,7 @@
       },
       {
         "date": "2026-07-10",
-        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/MOC Podatki.md",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Podatki.md",
         "wordCountStart": 34,
         "charCountStart": 275,
         "changes": [
@@ -6562,6 +6567,123 @@
           }
         ],
         "id": 595
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Rodzaje podatków.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 31,
+            "c": 267
+          }
+        ],
+        "id": 596
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Prawo malejącej użyteczności krańcowej.md",
+        "wordCountStart": 93,
+        "charCountStart": 665,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 21,
+            "c": 163
+          }
+        ],
+        "id": 597
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Preferencja czasowa.md",
+        "wordCountStart": 54,
+        "charCountStart": 467,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 21,
+            "c": 164
+          }
+        ],
+        "id": 598
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Produkcja.md",
+        "wordCountStart": 11,
+        "charCountStart": 95,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 21,
+            "c": 164
+          }
+        ],
+        "id": 599
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Przedsiębiorczość.md",
+        "wordCountStart": 72,
+        "charCountStart": 623,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 21,
+            "c": 164
+          }
+        ],
+        "id": 600
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Stopy procentowe.md",
+        "wordCountStart": 10,
+        "charCountStart": 61,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 19,
+            "c": 146
+          },
+          {
+            "timeKey": "15:15",
+            "w": 0,
+            "c": -3
+          }
+        ],
+        "id": 601
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Zysk.md",
+        "wordCountStart": 21,
+        "charCountStart": 188,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 19,
+            "c": 143
+          }
+        ],
+        "id": 602
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Prawdopodobieństwo.md",
+        "wordCountStart": 20,
+        "charCountStart": 177,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 20,
+            "c": 163
+          }
+        ],
+        "id": 603
       }
     ]
   }

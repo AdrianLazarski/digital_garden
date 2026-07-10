@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - ekonomia/mikro
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-10 15:14
+---
 
 - Działanie ma na celu ograniczenie lub wyeliminowanie niepewności
 - Każda działająca osoba uruchamia funkcję przedsiębiorczą.
@@ -6,4 +16,3 @@
 - Firma pomaga w odpowiedniej alokacji czynników produkcji i pozwala na wdrożenie w życie planu przedsiębiorcy-organizatora. Poza tym pozwala na sprawniejsze nadzorowanie procesu produkcji, a pracownicy zwiększają produktywność.
 
 
-#ekonomia 
