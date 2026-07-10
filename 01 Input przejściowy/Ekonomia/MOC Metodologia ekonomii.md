@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - moc
+  - ekonomia
+  - filozofia/nauki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Aksjomatyczny 💎
+modified date: 2026-07-10 14:07
+---
 
 
 ## 4 tradycje metodologiczne:
@@ -23,4 +33,3 @@
 	- Aprioryzm przy formułowaniu teorii, ale empiryzm przy analizie rzeczywistości.
 
 
-#ekonomia #ase #filozofia/nauki 

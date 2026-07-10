@@ -3841,7 +3841,7 @@
       },
       {
         "date": "2026-07-03",
-        "filePath": "02 MOC/MOC Ekonomia.md",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Ekonomia.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -5970,11 +5970,179 @@
       },
       {
         "date": "2026-07-10",
-        "filePath": "02 MOC/MOC Ekonomia.md",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Ekonomia.md",
         "wordCountStart": 20,
         "charCountStart": 153,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:55",
+            "w": 19,
+            "c": 188
+          },
+          {
+            "timeKey": "14:00",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "14:05",
+            "w": 9,
+            "c": 71
+          }
+        ],
         "id": 558
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Mikroekonomia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:00",
+            "w": 20,
+            "c": 155
+          }
+        ],
+        "id": 559
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Makroekonomia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:00",
+            "w": 20,
+            "c": 155
+          }
+        ],
+        "id": 560
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Historia gospodarcza.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:00",
+            "w": 20,
+            "c": 155
+          }
+        ],
+        "id": 561
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:00",
+            "w": 20,
+            "c": 155
+          },
+          {
+            "timeKey": "14:05",
+            "w": 65,
+            "c": 553
+          }
+        ],
+        "id": 562
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Ekonomiści.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:00",
+            "w": 69,
+            "c": 621
+          },
+          {
+            "timeKey": "14:05",
+            "w": 2,
+            "c": 10
+          }
+        ],
+        "id": 563
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Historia myśli ekonomicznej.md",
+        "wordCountStart": 68,
+        "charCountStart": 588,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": -68,
+            "c": -588
+          }
+        ],
+        "id": 564
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Ekonomiści/Herbert Simon.md",
+        "wordCountStart": 53,
+        "charCountStart": 438,
+        "changes": [],
+        "id": 565
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Nurty/Fizjokratyzm.md",
+        "wordCountStart": 27,
+        "charCountStart": 291,
+        "changes": [],
+        "id": 566
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Ekonomia.md",
+        "wordCountStart": 7,
+        "charCountStart": 58,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": -7,
+            "c": -58
+          }
+        ],
+        "id": 567
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Ekonomia.md",
+        "wordCountStart": 7,
+        "charCountStart": 58,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": -7,
+            "c": -58
+          }
+        ],
+        "id": 568
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/MOC Metodologia ekonomii.md",
+        "wordCountStart": 131,
+        "charCountStart": 1073,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 18,
+            "c": 143
+          }
+        ],
+        "id": 569
       }
     ]
   }
