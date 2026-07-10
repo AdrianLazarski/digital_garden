@@ -25,4 +25,6 @@ Założenia MMT:
 	- Cofając się wystarczająco daleko, dojdziemy do momentu, w którym siła nabywcza została oszacowana dzięki popytowi na niepieniężne zastosowania danego środka wymiany. 
 	- Tymczasem sam fakt, że mamy do zapłaty w podatkach określoną ilość jednostek pieniężnych, nie pozwala oszacować ich siły nabywczej.
 
-- 
+- Zmiany w udziale podatków w PKB nie wydają się powodować zmian w popycie na pieniądz.
+- logika podpowiada, że produkcja musi poprzedzać opodatkowanie, ponieważ podatki obciążają ostatecznie działalność produkcyjną
+	- Nie widzę w tym nic logicznego.
