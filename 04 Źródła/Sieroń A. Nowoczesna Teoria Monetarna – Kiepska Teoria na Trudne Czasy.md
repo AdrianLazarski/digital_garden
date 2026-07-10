@@ -54,3 +54,12 @@ Założenia MMT:
 - MMT redefiniuje „oszczędności netto” sektora prywatnego wyłącznie jako papierową nadwyżkę finansową pochodzącą z deficytu rządu ($S - I$), traktując prywatne inwestycje jako „obciążenie” oszczędności, które sprowadza je do zera. Takie podejście ignoruje fakt, że kreacja prawdziwego majątku nie wynika z przyrostu rządowej gotówki, lecz właśnie z mechanizmu rynkowego, w którym prywatne oszczędności (rezygnacja z konsumpcji) uwalniają realne zasoby i są przekształcane w produktywne inwestycje.
 - Sieroń o postulacie by stopa procentowa wynosiła 0 (niestety nie wyjaśnił wystarczająco dla laika dlaczego MMT to postuluje):
 - S:Stopa procentowa nie jest ceną pieniądza, lecz, jeśli już, to pożyczek wyrażonych w pieniądzu. A tak naprawdę jest kluczową wielkością w gospodarce, która koordynuje alokację międzyokresową. Jej ustanowienie na sztucznie niskim poziomie będzie prowadzić do błędnej alokacji kapitału w postaci cyklu koniunkturalnego, baniek na rynku aktywów oraz wzrostu liczby firm zombie. Będzie również zniechęcać do oszczędności, zaś zachęcać do nadmiernego zadłużania oraz angażowania się w ryzykowne projekty inwestycyjne.
+
+- Program gwarancji zatrudnienia, oprócz kosztów, które ememciarze chcą przeskoczyć drukarką, ma inne problemy:
+	- efekt wypychania, wynikający z możliwego odciągania pracowników z sektora prywatnego do sektora publicznego. 
+	- Pracownicy potrzebują też komplementarnych zasobów, co podbiłoby ich ceny, zwiększając koszty działalności dla firm z sektora prywatnego.
+	- dla szybkiego rozwoju gospodarczego kluczowe jest, aby ludzie orientowali się na karierę w dynamicznie działających firmach, które podejmują wysoko produktywne inwestycje, a nie w sektorze publicznym, którego projekty odznaczają się niższą produktywnością
+	- Wizja ciepłej posadki w sektorze publicznym obniżyłby także motywację pracowników do wytężonej pracy, a pracodawców do organizowania szkoleń ze względu na obawy przed odejściem pracowników
+		- Inną kwestią jest, że płaca w tym programie musiałaby być poniżej płacy minimalnej (jeśli płaca minimalna miałaby być efektywna), co rodziłoby pytania, dlaczego rząd zatrudnia ludzi poniżej płacy minimalnej.
+
+- U MMT rząd oznacza połączony rząd oraz bank centralny, co wzmacnia tezę, że wydatki rządu kreują pieniądz
