@@ -11,13 +11,86 @@
             "id": "5d53ae3ec8b28959",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Ekonomia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Ekonomia"
+            }
+          },
+          {
+            "id": "f7031cb1874888d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Nowoczesna teoria monetarna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nowoczesna teoria monetarna"
+            }
+          },
+          {
+            "id": "ab3051ce13aee23f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Czartalizm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Czartalizm"
+            }
+          },
+          {
+            "id": "a8aae8ecd954cf5e",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "Nowa karta"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,6 +156,7 @@
       {
         "id": "9bba5f3f490372be",
         "type": "tabs",
+        "dimension": 14.285714285714285,
         "children": [
           {
             "id": "86fd6bfbedd99844",
@@ -90,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 Atomy/Czartalizm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne"
+              "title": "Linki zwrotne do Czartalizm"
             }
           },
           {
@@ -108,11 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 Atomy/Czartalizm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące"
+              "title": "Łącza wychodzące od Czartalizm"
             }
           },
           {
@@ -150,20 +226,69 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03 Atomy/Czartalizm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt"
+              "title": "Konspekt Czartalizm"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "333cae531fcc7b0a",
+        "type": "tabs",
+        "dimension": 54.50000000000001,
+        "children": [
+          {
+            "id": "63e680f82b5c5120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skróty klawiszowe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Skróty klawiszowe"
+            }
+          }
+        ]
+      },
+      {
+        "id": "29afbb854a444f78",
+        "type": "tabs",
+        "dimension": 31.214285714285715,
+        "children": [
+          {
+            "id": "b983c702558e534e",
+            "type": "leaf",
+            "state": {
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +308,11 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "5d53ae3ec8b28959",
-  "lastOpenFiles": []
+  "active": "ab3051ce13aee23f",
+  "lastOpenFiles": [
+    "Skróty klawiszowe.md",
+    "03 Atomy/Czartalizm.md",
+    "03 Atomy/Nowoczesna teoria monetarna.md",
+    "02 MOC/MOC Ekonomia.md"
+  ]
 }
