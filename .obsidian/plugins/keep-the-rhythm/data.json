@@ -6042,6 +6042,11 @@
             "timeKey": "14:20",
             "w": 2,
             "c": 21
+          },
+          {
+            "timeKey": "15:00",
+            "w": 1,
+            "c": 4
           }
         ],
         "id": 560
@@ -6491,6 +6496,72 @@
           }
         ],
         "id": 591
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Podatek liniowy.md",
+        "wordCountStart": 58,
+        "charCountStart": 417,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 20,
+            "c": 159
+          }
+        ],
+        "id": 592
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Podatek progresywny.md",
+        "wordCountStart": 62,
+        "charCountStart": 471,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 20,
+            "c": 160
+          }
+        ],
+        "id": 593
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/MOC Podatki.md",
+        "wordCountStart": 34,
+        "charCountStart": 275,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 2,
+            "c": 37
+          },
+          {
+            "timeKey": "15:10",
+            "w": -10,
+            "c": -91
+          }
+        ],
+        "id": 594
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Przerzucalność podatków.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "15:05",
+            "w": 21,
+            "c": 140
+          }
+        ],
+        "id": 595
       }
     ]
   }

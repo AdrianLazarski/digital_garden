@@ -17,5 +17,5 @@ modified date: 2026-07-10 14:00
 [[Nierówności]]
 [[Podatek liniowy]]
 [[Podatek progresywny]]
-[[Podatki]]
+[[MOC Podatki]]
 [[Stopy procentowe]]

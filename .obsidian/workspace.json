@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Pieniądz.md",
+                "file": "01 Input przejściowy/Ekonomia/Prawa i kategorie/MOC Podatki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pieniądz"
+              "title": "MOC Podatki"
             }
           }
         ],
@@ -280,13 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Pieniądz.md",
+                "file": "01 Input przejściowy/Ekonomia/Prawa i kategorie/MOC Podatki.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Pieniądz"
+              "title": "Konspekt MOC Podatki"
             }
           },
           {
@@ -379,6 +379,11 @@
   },
   "active": "98e84dbcbfa63d6e",
   "lastOpenFiles": [
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Przerzucalność podatków.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/MOC Podatki.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Podatek progresywny.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Podatek liniowy.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Pieniądz.md",
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Nierówności.md",
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Krzywa Laffera.md",
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Know-how.md",
@@ -400,11 +405,6 @@
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Agregat.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
-    "02 MOC/MOC Ekonomia/MOC Filozofia ekonomii.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
-    "02 MOC/MOC Ekonomia/MOC Metodologia ekonomii.md",
-    "01 Input przejściowy/Ekonomia/Ekonomia.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",

@@ -118624,33 +118624,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Podatki.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 34,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.11333333333333333,
-      "characterCount": 275,
-      "nonWhitespaceCharacterCount": 230,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.12830188679245283,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304385044,
-      "modifiedDate": 1718554793520,
-      "sizeInBytes": 287,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.11333333333333333,
-        "wordCount": 34,
-        "characterCount": 275,
-        "nonWhitespaceCharacterCount": 230,
-        "newlineCount": 17
-      }
-    },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Podatek progresywny.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -118682,20 +118655,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 62,
+      "wordCount": 60,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.20666666666666667,
-      "characterCount": 471,
-      "nonWhitespaceCharacterCount": 404,
+      "pageCount": 0.2,
+      "characterCount": 456,
+      "nonWhitespaceCharacterCount": 391,
       "newlineCount": 9,
-      "readingTimeInMinutes": 0.2339622641509434,
+      "readingTimeInMinutes": 0.22641509433962265,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304385029,
-      "modifiedDate": 1718555017423,
-      "sizeInBytes": 494,
+      "modifiedDate": 1783688563558,
+      "sizeInBytes": 658,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.20666666666666667,
@@ -118703,6 +118676,17 @@
         "characterCount": 471,
         "nonWhitespaceCharacterCount": 404,
         "newlineCount": 9
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/makro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 15:02"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Podatek liniowy.md.edtz": {
@@ -118736,20 +118720,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 57,
+      "wordCount": 55,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.19,
-      "characterCount": 417,
-      "nonWhitespaceCharacterCount": 352,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.21509433962264152,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 403,
+      "nonWhitespaceCharacterCount": 339,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.20754716981132076,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304385013,
-      "modifiedDate": 1718554950574,
-      "sizeInBytes": 435,
+      "modifiedDate": 1783688538697,
+      "sizeInBytes": 598,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.19,
@@ -118757,6 +118741,17 @@
         "characterCount": 417,
         "nonWhitespaceCharacterCount": 352,
         "newlineCount": 9
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/makro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 15:02"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Pieniądz.md.edtz": {
@@ -130805,20 +130800,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 18,
+      "wordCount": 19,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06,
-      "characterCount": 223,
-      "nonWhitespaceCharacterCount": 204,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 227,
+      "nonWhitespaceCharacterCount": 207,
       "newlineCount": 14,
-      "readingTimeInMinutes": 0.06792452830188679,
+      "readingTimeInMinutes": 0.07169811320754717,
       "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783684848923,
-      "modifiedDate": 1783686029498,
-      "sizeInBytes": 384,
+      "modifiedDate": 1783688607433,
+      "sizeInBytes": 388,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -131190,6 +131185,80 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      }
+    },
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/MOC Podatki.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 152,
+      "nonWhitespaceCharacterCount": 131,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304385044,
+      "modifiedDate": 1783688651895,
+      "sizeInBytes": 322,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "ekonomia/makro",
+          "moc"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 15:02"
+      }
+    },
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Przerzucalność podatków.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783688652474,
+      "modifiedDate": 1783688660604,
+      "sizeInBytes": 155,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 15:04",
+        "tags": [
+          "atom",
+          "definicja"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 15:04"
       }
     }
   }
