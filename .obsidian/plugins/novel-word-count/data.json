@@ -119018,8 +119018,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384937,
-      "modifiedDate": 1783686200266,
-      "sizeInBytes": 598,
+      "modifiedDate": 1783686678410,
+      "sizeInBytes": 621,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.19333333333333333,
@@ -119032,7 +119032,8 @@
         "created": "2026-02-28 19:46",
         "tags": [
           "atom",
-          "definicja"
+          "definicja",
+          "ekonomia/mikro"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
