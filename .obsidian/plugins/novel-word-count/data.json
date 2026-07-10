@@ -66912,20 +66912,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 65,
+      "wordCount": 78,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.21666666666666667,
-      "characterCount": 554,
-      "nonWhitespaceCharacterCount": 481,
-      "newlineCount": 18,
-      "readingTimeInMinutes": 0.24528301886792453,
-      "linkCount": 9,
+      "pageCount": 0.26,
+      "characterCount": 683,
+      "nonWhitespaceCharacterCount": 594,
+      "newlineCount": 26,
+      "readingTimeInMinutes": 0.2943396226415094,
+      "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783684918025,
-      "modifiedDate": 1783685161922,
-      "sizeInBytes": 732,
+      "modifiedDate": 1783690722381,
+      "sizeInBytes": 862,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.21666666666666667,
@@ -131177,42 +131177,6 @@
         ]
       }
     },
-    "03 Atomy/Nowoczesna teoria monetarna.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 40,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13333333333333333,
-      "characterCount": 343,
-      "nonWhitespaceCharacterCount": 294,
-      "newlineCount": 12,
-      "readingTimeInMinutes": 0.1509433962264151,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783689699681,
-      "modifiedDate": 1783689954900,
-      "sizeInBytes": 509,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "created": "2026-07-10 15:21",
-        "tags": [
-          "ekonomia/makro"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
-        "modified date": "2026-07-10 15:21"
-      }
-    },
     "03 Atomy/Czartalizm.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -131229,8 +131193,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783689955341,
-      "modifiedDate": 1783690235821,
-      "sizeInBytes": 515,
+      "modifiedDate": 1783690270630,
+      "sizeInBytes": 543,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -131243,11 +131207,163 @@
         "created": "2026-07-10 15:25",
         "tags": [
           "atom",
-          "ekonomia"
+          "ekonomia",
+          "historia/nauki/ekonomii"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
         "modified date": "2026-07-10 15:25"
+      }
+    },
+    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 43,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 382,
+      "nonWhitespaceCharacterCount": 330,
+      "newlineCount": 12,
+      "readingTimeInMinutes": 0.16226415094339622,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783689699681,
+      "modifiedDate": 1783690647738,
+      "sizeInBytes": 572,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 15:21",
+        "tags": [
+          "ekonomia/makro",
+          "moc",
+          "definicja"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 15:21"
+      }
+    },
+    "02 MOC/MOC Ekonomia/MOC Postkeynesizm.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783690641347,
+      "modifiedDate": 1783690677865,
+      "sizeInBytes": 193,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 15:37",
+        "tags": [
+          "definicja",
+          "ekonomia",
+          "historia/nauki/ekonomii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 15:37"
+      }
+    },
+    "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 45,
+      "nonWhitespaceCharacterCount": 36,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783690725996,
+      "modifiedDate": 1783690855445,
+      "sizeInBytes": 233,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 15:38",
+        "tags": [
+          "moc",
+          "ekonomia",
+          "historia/nauki/ekonomii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 15:39"
+      }
+    },
+    "02 MOC/MOC Ekonomia/MOC Keynesizm.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783690732344,
+      "modifiedDate": 1783690760168,
+      "sizeInBytes": 174,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 15:38",
+        "tags": [
+          "moc",
+          "historia/nauki/ekonomii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 15:39"
       }
     }
   }

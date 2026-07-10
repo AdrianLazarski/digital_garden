@@ -23,3 +23,11 @@ XVI-wieczni scholastycy: cena sprawiedliwa to cena rynkowa
 
 [[Adam Smith]]
 	- 1776 r. wydanie Badań nad naturą i przyczynami bogactwa narodów. Umowny początek współczesnej ekonomii. Również rok ogłoszenia Deklaracji Niepodległości i śmierci Hume'a.
+
+
+
+[[MOC Austriacka szkoła ekonomii]]
+[[Czartalizm]]
+[[MOC Keynesizm]]
+[[MOC Postkeynesizm]]
+[[MOC Nowoczesna teoria monetarna]]

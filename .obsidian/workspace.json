@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "f7031cb1874888d5",
+            "id": "2be362bbadb4db85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Nowoczesna teoria monetarna.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,103 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nowoczesna teoria monetarna"
+              "title": "MOC Historia myśli ekonomicznej"
+            }
+          },
+          {
+            "id": "f3ffe016f7639f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Ekonomia/MOC Keynesizm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Keynesizm"
+            }
+          },
+          {
+            "id": "0a8bcdac06a28e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Austriacka szkoła ekonomii"
+            }
+          },
+          {
+            "id": "f7031cb1874888d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Nowoczesna teoria monetarna"
+            }
+          },
+          {
+            "id": "4b2f1c117d534980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Ekonomia/MOC Postkeynesizm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Postkeynesizm"
             }
           },
           {
@@ -90,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Atomy/Czartalizm.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +270,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do Czartalizm"
+              "title": "Linki zwrotne do MOC Austriacka szkoła ekonomii"
             }
           },
           {
@@ -183,12 +279,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Atomy/Czartalizm.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące od Czartalizm"
+              "title": "Łącza wychodzące od MOC Austriacka szkoła ekonomii"
             }
           },
           {
@@ -226,13 +322,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Czartalizm.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Czartalizm"
+              "title": "Konspekt MOC Austriacka szkoła ekonomii"
             }
           }
         ],
@@ -308,11 +404,15 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "ab3051ce13aee23f",
+  "active": "0a8bcdac06a28e01",
   "lastOpenFiles": [
-    "Skróty klawiszowe.md",
+    "02 MOC/MOC Ekonomia/MOC Keynesizm.md",
+    "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
+    "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
+    "02 MOC/MOC Ekonomia/MOC Postkeynesizm.md",
+    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna.md",
+    "02 MOC/MOC Ekonomia.md",
     "03 Atomy/Czartalizm.md",
-    "03 Atomy/Nowoczesna teoria monetarna.md",
-    "02 MOC/MOC Ekonomia.md"
+    "Skróty klawiszowe.md"
   ]
 }

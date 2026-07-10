@@ -3,6 +3,7 @@ created: 2026-07-10 15:25
 tags:
   - atom
   - ekonomia
+  - historia/nauki/ekonomii
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-10 15:25
