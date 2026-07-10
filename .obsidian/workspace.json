@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Ekonomia.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Mikroekonomia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Ekonomia"
+              "title": "MOC Mikroekonomia"
             }
           },
           {
-            "id": "894bd438d3666b7c",
+            "id": "71a1570c9298a6fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/MOC Metodologia ekonomii.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Makroekonomia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Metodologia ekonomii"
+              "title": "MOC Makroekonomia"
+            }
+          },
+          {
+            "id": "98e84dbcbfa63d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Bankowość islamska.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bankowość islamska"
             }
           }
         ],
@@ -256,13 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Ekonomia.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Mikroekonomia.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Ekonomia"
+              "title": "Konspekt MOC Mikroekonomia"
             }
           },
           {
@@ -355,8 +379,19 @@
   },
   "active": "973a59897ad450ea",
   "lastOpenFiles": [
-    "01 Input przejściowy/Ekonomia/MOC Metodologia ekonomii.md",
-    "02 MOC/MOC Ekonomia/MOC Ekonomia.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Bankowość islamska.md",
+    "02 MOC/MOC Ekonomia/MOC Mikroekonomia.md",
+    "02 MOC/MOC Ekonomia/MOC Makroekonomia.md",
+    "02 MOC/MOC Ekonomia.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Bank.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Automatyzacja.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Agregat.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
+    "02 MOC/MOC Ekonomia/MOC Filozofia ekonomii.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
+    "02 MOC/MOC Ekonomia/MOC Metodologia ekonomii.md",
     "01 Input przejściowy/Ekonomia/Ekonomia.md",
     "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
     "01 Input przejściowy/Ekonomia/Historia myśli ekonomicznej.md",
@@ -364,23 +399,12 @@
     "01 Input przejściowy/Ekonomia/Nurty/Fizjokratyzm.md",
     "01 Input przejściowy/Ekonomia/Ekonomiści/Herbert Simon.md",
     "02 MOC/MOC Ekonomia/MOC Historia gospodarcza.md",
-    "02 MOC/MOC Ekonomia/MOC Makroekonomia.md",
-    "02 MOC/MOC Ekonomia/MOC Mikroekonomia.md",
     "Gotowanie/Pranie ciemne.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Zdanie.md",
     "02 MOC/MOC Matematyka.md",
     "06 Language lab/English grammar.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie chrześcijańscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie marksistowscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie lewicowi.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie konserwatywni.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie liberalni.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie włoscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie rosyjscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie australijscy.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",

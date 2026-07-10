@@ -119658,16 +119658,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.04,
-      "characterCount": 104,
+      "characterCount": 105,
       "nonWhitespaceCharacterCount": 89,
-      "newlineCount": 6,
+      "newlineCount": 7,
       "readingTimeInMinutes": 0.045283018867924525,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384756,
-      "modifiedDate": 1718553567534,
-      "sizeInBytes": 106,
+      "modifiedDate": 1783685593981,
+      "sizeInBytes": 250,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.04,
@@ -119675,6 +119675,15 @@
         "characterCount": 104,
         "nonWhitespaceCharacterCount": 89,
         "newlineCount": 6
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "moc"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:13"
       }
     },
     "01 Input przejściowy/Ekonomia/Praca dzieci.md.edtz": {
@@ -130589,43 +130598,6 @@
         ]
       }
     },
-    "02 MOC/MOC Ekonomia/MOC Ekonomia.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 25,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 230,
-      "nonWhitespaceCharacterCount": 197,
-      "newlineCount": 16,
-      "readingTimeInMinutes": 0.09433962264150944,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783087081872,
-      "modifiedDate": 1783685193677,
-      "sizeInBytes": 393,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "created": "2026-07-03 15:58",
-        "tags": [
-          "moc",
-          "ekonomia"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Aksjomatyczny 💎",
-        "modified date": "2026-07-03 16:00"
-      }
-    },
     "02 MOC/MOC Ekonomia/MOC Mikroekonomia.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -130811,24 +130783,240 @@
         "modified date": "2026-07-10 14:02"
       }
     },
-    "01 Input przejściowy/Ekonomia/MOC Metodologia ekonomii.md": {
+    "02 MOC/MOC Ekonomia/MOC Metodologia ekonomii.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 130,
+      "wordCount": 146,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.43333333333333335,
-      "characterCount": 1073,
-      "nonWhitespaceCharacterCount": 903,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 0.49056603773584906,
+      "pageCount": 0.4866666666666667,
+      "characterCount": 1216,
+      "nonWhitespaceCharacterCount": 1021,
+      "newlineCount": 36,
+      "readingTimeInMinutes": 0.5509433962264151,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304383556,
-      "modifiedDate": 1763640424065,
-      "sizeInBytes": 1118,
+      "modifiedDate": 1783685255851,
+      "sizeInBytes": 1265,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC Ekonomia/MOC Filozofia ekonomii.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 47,
+      "nonWhitespaceCharacterCount": 38,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783685293057,
+      "modifiedDate": 1783685337213,
+      "sizeInBytes": 226,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 14:08",
+        "tags": [
+          "moc",
+          "ekonomia",
+          "filozofia/nauki"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 14:08"
+      }
+    },
+    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783685340630,
+      "modifiedDate": 1783685376303,
+      "sizeInBytes": 179,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 14:09",
+        "tags": [
+          "moc",
+          "filozofia/nauki",
+          "ekonomia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 14:09"
+      }
+    },
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 167,
+      "nonWhitespaceCharacterCount": 140,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783685390595,
+      "modifiedDate": 1783685486544,
+      "sizeInBytes": 329,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 14:09",
+        "tags": [
+          "moc",
+          "ekonomia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 14:09"
+      }
+    },
+    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783685488656,
+      "modifiedDate": 1783685511191,
+      "sizeInBytes": 184,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 14:11",
+        "tags": [
+          "moc",
+          "ekonomia",
+          "historia/gospodarcza"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 14:11"
+      }
+    },
+    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783685515268,
+      "modifiedDate": 1783685536158,
+      "sizeInBytes": 178,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 14:11",
+        "tags": [
+          "moc",
+          "ekonomia",
+          "historia/nauki"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 14:11"
+      }
+    },
+    "02 MOC/MOC Ekonomia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 46,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15333333333333332,
+      "characterCount": 414,
+      "nonWhitespaceCharacterCount": 354,
+      "newlineCount": 26,
+      "readingTimeInMinutes": 0.17358490566037735,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783087081872,
+      "modifiedDate": 1783685268513,
+      "sizeInBytes": 423,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

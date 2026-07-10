@@ -3841,7 +3841,7 @@
       },
       {
         "date": "2026-07-03",
-        "filePath": "02 MOC/MOC Ekonomia/MOC Ekonomia.md",
+        "filePath": "02 MOC/MOC Ekonomia.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -5970,7 +5970,7 @@
       },
       {
         "date": "2026-07-10",
-        "filePath": "02 MOC/MOC Ekonomia/MOC Ekonomia.md",
+        "filePath": "02 MOC/MOC Ekonomia.md",
         "wordCountStart": 20,
         "charCountStart": 153,
         "changes": [
@@ -5987,7 +5987,7 @@
           {
             "timeKey": "14:05",
             "w": 9,
-            "c": 71
+            "c": 72
           }
         ],
         "id": 558
@@ -6002,6 +6002,11 @@
             "timeKey": "14:00",
             "w": 20,
             "c": 155
+          },
+          {
+            "timeKey": "14:15",
+            "w": 5,
+            "c": 59
           }
         ],
         "id": 559
@@ -6016,6 +6021,11 @@
             "timeKey": "14:00",
             "w": 20,
             "c": 155
+          },
+          {
+            "timeKey": "14:10",
+            "w": 1,
+            "c": 12
           }
         ],
         "id": 560
@@ -6132,7 +6142,7 @@
       },
       {
         "date": "2026-07-10",
-        "filePath": "01 Input przejściowy/Ekonomia/MOC Metodologia ekonomii.md",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Metodologia ekonomii.md",
         "wordCountStart": 131,
         "charCountStart": 1073,
         "changes": [
@@ -6143,6 +6153,137 @@
           }
         ],
         "id": 569
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Filozofia ekonomii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 28,
+            "c": 221
+          }
+        ],
+        "id": 570
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 22,
+            "c": 175
+          }
+        ],
+        "id": 571
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 18,
+            "c": 132
+          },
+          {
+            "timeKey": "14:10",
+            "w": 23,
+            "c": 189
+          }
+        ],
+        "id": 572
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 22,
+            "c": 180
+          }
+        ],
+        "id": 573
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 22,
+            "c": 174
+          }
+        ],
+        "id": 574
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Agregat.md",
+        "wordCountStart": 12,
+        "charCountStart": 104,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 22,
+            "c": 179
+          }
+        ],
+        "id": 575
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Automatyzacja.md",
+        "wordCountStart": 42,
+        "charCountStart": 582,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 21,
+            "c": 161
+          }
+        ],
+        "id": 576
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Bank.md",
+        "wordCountStart": 37,
+        "charCountStart": 311,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 21,
+            "c": 164
+          }
+        ],
+        "id": 577
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Bankowość islamska.md",
+        "wordCountStart": 27,
+        "charCountStart": 201,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 22,
+            "c": 174
+          }
+        ],
+        "id": 578
       }
     ]
   }

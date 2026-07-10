@@ -22,3 +22,4 @@ Nauka o zwykłym życiu. - Alfred Marshall
 
 [[MOC Metodologia ekonomii]]
 [[MOC Filozofia ekonomii]]
+
