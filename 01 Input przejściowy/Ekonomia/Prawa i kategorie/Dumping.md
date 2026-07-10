@@ -1,4 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - ekonomia/mikro
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-10 14:21
+---
 
 A propos dumpingu cenowego. Jest to mit. Dominick Armentano, specjalista od prawa antytrustowego, nie znalazł ani jednego przykładu drapieżnych cen. Pewien Amerykanin, Herbert Dow, który był pionierem amerykańskiego przemysłu chemicznego, odkrył tani sposób wydzielania bromu z wody morskiej. Aby zdobyć pozycję na rynku pracował po 18 godzin dziennie i spał w fabryce. W Niemczech był wtedy kartel niemiecki (i nie było tam wolnego rynku z tego co wiem), który zdominował przemysł chemiczny w Europie. Dow zaczął sprzedawać w Anglii po 36 centów za funt bromu, gdy cena kartelu wynosiła 49 centów. Niemcy kazali mu zostawić rynek europejski, a gdy Dow się nie zgodził to postanowili zalać amerykański rynek tanim bromem. Co zrobił Herbert? Kupował niemiecki brom w USA (15 centów za funt) i sprzedawał go w Europie (27 centów za funt). Po około 4 latach kartel poddał się i doszli do porozumienia.
 
-#ekonomia 

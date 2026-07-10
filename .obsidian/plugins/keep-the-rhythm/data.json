@@ -79,7 +79,8 @@
       "2026-06-21",
       "2026-07-03",
       "2026-07-06",
-      "2026-07-07"
+      "2026-07-07",
+      "2026-07-10"
     ],
     "dailyActivity": [
       {
@@ -6005,8 +6006,13 @@
           },
           {
             "timeKey": "14:15",
-            "w": 5,
-            "c": 59
+            "w": 15,
+            "c": 179
+          },
+          {
+            "timeKey": "14:20",
+            "w": 4,
+            "c": 58
           }
         ],
         "id": 559
@@ -6026,6 +6032,16 @@
             "timeKey": "14:10",
             "w": 1,
             "c": 12
+          },
+          {
+            "timeKey": "14:15",
+            "w": 15,
+            "c": 189
+          },
+          {
+            "timeKey": "14:20",
+            "w": 2,
+            "c": 21
           }
         ],
         "id": 560
@@ -6284,6 +6300,132 @@
           }
         ],
         "id": 578
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Cena.md",
+        "wordCountStart": 89,
+        "charCountStart": 739,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 19,
+            "c": 145
+          }
+        ],
+        "id": 579
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Dumping.md",
+        "wordCountStart": 143,
+        "charCountStart": 911,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 21,
+            "c": 164
+          }
+        ],
+        "id": 580
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/FED.md",
+        "wordCountStart": 162,
+        "charCountStart": 1007,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 21,
+            "c": 164
+          }
+        ],
+        "id": 581
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Gospodarka jednostajnie funkcjonująca.md",
+        "wordCountStart": 9,
+        "charCountStart": 62,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 20,
+            "c": 160
+          }
+        ],
+        "id": 582
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Inflacja.md",
+        "wordCountStart": 77,
+        "charCountStart": 559,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 20,
+            "c": 158
+          }
+        ],
+        "id": 583
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Interwencjonizm.md",
+        "wordCountStart": 57,
+        "charCountStart": 495,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 20,
+            "c": 159
+          }
+        ],
+        "id": 584
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Kapitalizm.md",
+        "wordCountStart": 13,
+        "charCountStart": 119,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 21,
+            "c": 164
+          }
+        ],
+        "id": 585
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Kapitał.md",
+        "wordCountStart": 19,
+        "charCountStart": 153,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 20,
+            "c": 159
+          }
+        ],
+        "id": 586
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Know-how.md",
+        "wordCountStart": 56,
+        "charCountStart": 414,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 20,
+            "c": 151
+          }
+        ],
+        "id": 587
       }
     ]
   }

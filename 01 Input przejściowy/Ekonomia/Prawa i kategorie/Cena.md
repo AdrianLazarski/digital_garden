@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - ekonomia/mikro
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-10 14:20
+---
 
 
 Warunki wymiany. Ilościowy stosunek oddawanego dobra do otrzymywanego.
@@ -15,4 +24,3 @@ Cena pieniądza to jego siła nabywcza.
 	- Wachlarz alternatywnych zastosowań dóbr produkcyjnych + użyteczność dla konsumentów → ceny
 
 
-#ekonomia #ase 

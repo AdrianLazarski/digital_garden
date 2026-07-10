@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Bankowość islamska.md",
+                "file": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Know-how.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bankowość islamska"
+              "title": "Know-how"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -280,13 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Mikroekonomia.md",
+                "file": "01 Input przejściowy/Ekonomia/Prawa i kategorie/Know-how.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Mikroekonomia"
+              "title": "Konspekt Know-how"
             }
           },
           {
@@ -377,8 +377,16 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "973a59897ad450ea",
+  "active": "98e84dbcbfa63d6e",
   "lastOpenFiles": [
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Kapitał.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Kapitalizm.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Interwencjonizm.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Inflacja.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Gospodarka jednostajnie funkcjonująca.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/FED.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Dumping.md",
+    "01 Input przejściowy/Ekonomia/Prawa i kategorie/Cena.md",
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Bankowość islamska.md",
     "02 MOC/MOC Ekonomia/MOC Mikroekonomia.md",
     "02 MOC/MOC Ekonomia/MOC Makroekonomia.md",
@@ -397,14 +405,6 @@
     "01 Input przejściowy/Ekonomia/Historia myśli ekonomicznej.md",
     "02 MOC/MOC Ekonomia/MOC Ekonomiści.md",
     "01 Input przejściowy/Ekonomia/Nurty/Fizjokratyzm.md",
-    "01 Input przejściowy/Ekonomia/Ekonomiści/Herbert Simon.md",
-    "02 MOC/MOC Ekonomia/MOC Historia gospodarcza.md",
-    "Gotowanie/Pranie ciemne.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Zdanie.md",
-    "02 MOC/MOC Matematyka.md",
-    "06 Language lab/English grammar.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie chrześcijańscy.md",
     "05 Bazy danych/Filozofia starożytna baza.base",
     "02 MOC/MOC Religia",
     "02 MOC/MOC Psychologia",

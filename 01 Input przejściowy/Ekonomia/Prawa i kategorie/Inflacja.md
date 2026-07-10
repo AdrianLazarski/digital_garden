@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - ekonomia/makro
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-10 14:22
+---
 
 1. Chciwość to nie wyjaśnienie ekonomiczne.
 2. Brak wyjaśnienia zróżnicowania w cenach dóbr.
@@ -12,5 +22,3 @@
 ![[Pasted image 20240616182744.png]]
 ![[Pasted image 20240616182748.png]]
 
-
-#ekonomia #ase 

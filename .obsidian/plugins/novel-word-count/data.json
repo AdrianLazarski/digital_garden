@@ -119010,16 +119010,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.19333333333333333,
-      "characterCount": 414,
+      "characterCount": 415,
       "nonWhitespaceCharacterCount": 349,
-      "newlineCount": 10,
+      "newlineCount": 11,
       "readingTimeInMinutes": 0.2188679245283019,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384937,
-      "modifiedDate": 1718553905386,
-      "sizeInBytes": 443,
+      "modifiedDate": 1783686200266,
+      "sizeInBytes": 598,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.19333333333333333,
@@ -119027,6 +119027,16 @@
         "characterCount": 414,
         "nonWhitespaceCharacterCount": 349,
         "newlineCount": 10
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:23"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Kapitał.md.edtz": {
@@ -119060,20 +119070,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 19,
+      "wordCount": 17,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 153,
-      "nonWhitespaceCharacterCount": 128,
-      "newlineCount": 7,
-      "readingTimeInMinutes": 0.07169811320754717,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 139,
+      "nonWhitespaceCharacterCount": 115,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.06415094339622641,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384922,
-      "modifiedDate": 1718553839229,
-      "sizeInBytes": 160,
+      "modifiedDate": 1783686194156,
+      "sizeInBytes": 323,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.06333333333333334,
@@ -119081,6 +119091,17 @@
         "characterCount": 153,
         "nonWhitespaceCharacterCount": 128,
         "newlineCount": 7
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/mikro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:22"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Kapitalizm.md.edtz": {
@@ -119114,20 +119135,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 13,
+      "wordCount": 12,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.043333333333333335,
-      "characterCount": 119,
-      "nonWhitespaceCharacterCount": 102,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.04905660377358491,
+      "pageCount": 0.04,
+      "characterCount": 110,
+      "nonWhitespaceCharacterCount": 93,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.045283018867924525,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384907,
-      "modifiedDate": 1718553818939,
-      "sizeInBytes": 122,
+      "modifiedDate": 1783686171804,
+      "sizeInBytes": 290,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.043333333333333335,
@@ -119135,6 +119156,17 @@
         "characterCount": 119,
         "nonWhitespaceCharacterCount": 102,
         "newlineCount": 6
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/makro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:22"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Interwencjonizm.md.edtz": {
@@ -119168,20 +119200,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 57,
+      "wordCount": 55,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.19,
-      "characterCount": 495,
-      "nonWhitespaceCharacterCount": 424,
-      "newlineCount": 14,
-      "readingTimeInMinutes": 0.21509433962264152,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 481,
+      "nonWhitespaceCharacterCount": 411,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.20754716981132076,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384891,
-      "modifiedDate": 1718553799954,
-      "sizeInBytes": 511,
+      "modifiedDate": 1783686156833,
+      "sizeInBytes": 674,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.19,
@@ -119189,6 +119221,17 @@
         "characterCount": 495,
         "nonWhitespaceCharacterCount": 424,
         "newlineCount": 14
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/makro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:22"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Inflacja.md.edtz": {
@@ -119222,20 +119265,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 74,
+      "wordCount": 72,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.24666666666666667,
-      "characterCount": 559,
-      "nonWhitespaceCharacterCount": 479,
+      "pageCount": 0.24,
+      "characterCount": 544,
+      "nonWhitespaceCharacterCount": 466,
       "newlineCount": 16,
-      "readingTimeInMinutes": 0.2792452830188679,
+      "readingTimeInMinutes": 0.27169811320754716,
       "linkCount": 0,
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1772304384877,
-      "modifiedDate": 1718555279655,
-      "sizeInBytes": 590,
+      "modifiedDate": 1783686139988,
+      "sizeInBytes": 752,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.24666666666666667,
@@ -119243,6 +119286,17 @@
         "characterCount": 559,
         "nonWhitespaceCharacterCount": 479,
         "newlineCount": 16
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/makro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:22"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Gospodarka jednostajnie funkcjonująca.md.edtz": {
@@ -119276,20 +119330,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 7,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 62,
-      "nonWhitespaceCharacterCount": 49,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.033962264150943396,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 49,
+      "nonWhitespaceCharacterCount": 36,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.026415094339622643,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384862,
-      "modifiedDate": 1718553723765,
-      "sizeInBytes": 63,
+      "modifiedDate": 1783686117703,
+      "sizeInBytes": 227,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03,
@@ -119297,6 +119351,17 @@
         "characterCount": 62,
         "nonWhitespaceCharacterCount": 49,
         "newlineCount": 6
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/makro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:21"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/FED.md.edtz": {
@@ -119330,20 +119395,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 162,
+      "wordCount": 161,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.54,
-      "characterCount": 1007,
-      "nonWhitespaceCharacterCount": 839,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.6113207547169811,
+      "pageCount": 0.5366666666666666,
+      "characterCount": 998,
+      "nonWhitespaceCharacterCount": 830,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.6075471698113207,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384848,
-      "modifiedDate": 1744538709057,
-      "sizeInBytes": 1057,
+      "modifiedDate": 1783686097238,
+      "sizeInBytes": 1225,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.54,
@@ -119351,6 +119416,17 @@
         "characterCount": 1007,
         "nonWhitespaceCharacterCount": 839,
         "newlineCount": 6
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/makro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:21"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Dumping.md.edtz": {
@@ -119384,20 +119460,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 143,
+      "wordCount": 142,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.4766666666666667,
-      "characterCount": 911,
-      "nonWhitespaceCharacterCount": 766,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.539622641509434,
+      "pageCount": 0.47333333333333333,
+      "characterCount": 902,
+      "nonWhitespaceCharacterCount": 757,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.5358490566037736,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384833,
-      "modifiedDate": 1744538930508,
-      "sizeInBytes": 948,
+      "modifiedDate": 1783686079388,
+      "sizeInBytes": 1116,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.4766666666666667,
@@ -119405,6 +119481,17 @@
         "characterCount": 911,
         "nonWhitespaceCharacterCount": 766,
         "newlineCount": 4
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/mikro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:21"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Cena.md.edtz": {
@@ -119438,20 +119525,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 89,
+      "wordCount": 87,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.2966666666666667,
-      "characterCount": 739,
-      "nonWhitespaceCharacterCount": 628,
-      "newlineCount": 18,
-      "readingTimeInMinutes": 0.33584905660377357,
+      "pageCount": 0.29,
+      "characterCount": 725,
+      "nonWhitespaceCharacterCount": 615,
+      "newlineCount": 19,
+      "readingTimeInMinutes": 0.3283018867924528,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384817,
-      "modifiedDate": 1718553692736,
-      "sizeInBytes": 785,
+      "modifiedDate": 1783686063733,
+      "sizeInBytes": 934,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2966666666666667,
@@ -119459,6 +119546,16 @@
         "characterCount": 739,
         "nonWhitespaceCharacterCount": 628,
         "newlineCount": 18
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "ekonomia/mikro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:20"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Bankowość islamska.md.edtz": {
@@ -119496,16 +119593,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.09,
-      "characterCount": 201,
+      "characterCount": 202,
       "nonWhitespaceCharacterCount": 170,
-      "newlineCount": 7,
+      "newlineCount": 8,
       "readingTimeInMinutes": 0.1018867924528302,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384802,
-      "modifiedDate": 1718553636765,
-      "sizeInBytes": 209,
+      "modifiedDate": 1783685850191,
+      "sizeInBytes": 387,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.09,
@@ -119513,6 +119610,17 @@
         "characterCount": 201,
         "nonWhitespaceCharacterCount": 170,
         "newlineCount": 7
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/mikro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:16"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Bank.md.edtz": {
@@ -119546,20 +119654,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 37,
+      "wordCount": 36,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.12333333333333334,
-      "characterCount": 311,
-      "nonWhitespaceCharacterCount": 267,
-      "newlineCount": 10,
-      "readingTimeInMinutes": 0.13962264150943396,
+      "pageCount": 0.12,
+      "characterCount": 302,
+      "nonWhitespaceCharacterCount": 258,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 0.13584905660377358,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384788,
-      "modifiedDate": 1718553612049,
-      "sizeInBytes": 324,
+      "modifiedDate": 1783685751259,
+      "sizeInBytes": 492,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.12333333333333334,
@@ -119567,6 +119675,17 @@
         "characterCount": 311,
         "nonWhitespaceCharacterCount": 267,
         "newlineCount": 10
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/mikro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:15"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Automatyzacja.md.edtz": {
@@ -119600,20 +119719,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 49,
+      "wordCount": 48,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.16333333333333333,
-      "characterCount": 582,
-      "nonWhitespaceCharacterCount": 553,
-      "newlineCount": 7,
-      "readingTimeInMinutes": 0.18490566037735848,
+      "pageCount": 0.16,
+      "characterCount": 570,
+      "nonWhitespaceCharacterCount": 544,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.1811320754716981,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384771,
-      "modifiedDate": 1718549410560,
-      "sizeInBytes": 589,
+      "modifiedDate": 1783685728069,
+      "sizeInBytes": 754,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.16333333333333333,
@@ -119621,6 +119740,17 @@
         "characterCount": 582,
         "nonWhitespaceCharacterCount": 553,
         "newlineCount": 7
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/mikro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:15"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Agregat.md.edtz": {
@@ -119654,20 +119784,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 12,
+      "wordCount": 11,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.04,
-      "characterCount": 105,
-      "nonWhitespaceCharacterCount": 89,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 96,
+      "nonWhitespaceCharacterCount": 80,
       "newlineCount": 7,
-      "readingTimeInMinutes": 0.045283018867924525,
+      "readingTimeInMinutes": 0.04150943396226415,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384756,
-      "modifiedDate": 1783685593981,
-      "sizeInBytes": 250,
+      "modifiedDate": 1783685686662,
+      "sizeInBytes": 289,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.04,
@@ -119679,7 +119809,9 @@
       "frontmatter": {
         "created": "2026-02-28 19:46",
         "tags": [
-          "moc"
+          "filozofia/ekonomii",
+          "definicja",
+          "ekonomia/makro"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
@@ -130602,20 +130734,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 20,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 238,
+      "nonWhitespaceCharacterCount": 218,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783684826720,
-      "modifiedDate": 1783684842526,
-      "sizeInBytes": 159,
+      "modifiedDate": 1783686038080,
+      "sizeInBytes": 407,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -130639,20 +130771,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 18,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.06,
+      "characterCount": 223,
+      "nonWhitespaceCharacterCount": 204,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783684848923,
-      "modifiedDate": 1783684861345,
-      "sizeInBytes": 159,
+      "modifiedDate": 1783686029498,
+      "sizeInBytes": 384,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
