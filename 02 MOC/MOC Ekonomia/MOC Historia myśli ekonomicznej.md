@@ -30,4 +30,4 @@ XVI-wieczni scholastycy: cena sprawiedliwa to cena rynkowa
 [[Czartalizm]]
 [[MOC Keynesizm]]
 [[MOC Postkeynesizm]]
-[[MOC Nowoczesna teoria monetarna]]
+[[MOC Nowoczesna teoria monetarna MMT]]

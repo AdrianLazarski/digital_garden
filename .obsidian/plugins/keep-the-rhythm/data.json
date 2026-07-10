@@ -6105,6 +6105,11 @@
             "timeKey": "15:35",
             "w": 9,
             "c": 79
+          },
+          {
+            "timeKey": "16:05",
+            "w": 1,
+            "c": 4
           }
         ],
         "id": 562
@@ -6707,7 +6712,7 @@
       },
       {
         "date": "2026-07-10",
-        "filePath": "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna.md",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -6725,6 +6730,11 @@
             "timeKey": "15:35",
             "w": 6,
             "c": 63
+          },
+          {
+            "timeKey": "16:05",
+            "w": 6,
+            "c": 38
           }
         ],
         "id": 604
@@ -6801,6 +6811,11 @@
             "timeKey": "15:40",
             "w": 14,
             "c": 104
+          },
+          {
+            "timeKey": "16:05",
+            "w": 3,
+            "c": 25
           }
         ],
         "id": 608
@@ -6923,6 +6938,11 @@
             "timeKey": "15:50",
             "w": 19,
             "c": 147
+          },
+          {
+            "timeKey": "16:05",
+            "w": 1,
+            "c": 8
           }
         ],
         "id": 616
@@ -6935,11 +6955,100 @@
         "changes": [
           {
             "timeKey": "16:00",
+            "w": 46,
+            "c": 378
+          }
+        ],
+        "id": 617
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła ASE.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 20,
+            "c": 157
+          },
+          {
+            "timeKey": "16:05",
+            "w": 4,
+            "c": 25
+          }
+        ],
+        "id": 618
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Krytyka ASE.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:05",
             "w": 20,
             "c": 155
           }
         ],
-        "id": 617
+        "id": 619
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Koncepcje ASE.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": 20,
+            "c": 150
+          }
+        ],
+        "id": 620
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Krytyka MMT.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": 20,
+            "c": 155
+          }
+        ],
+        "id": 621
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Tezy MMT.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": 21,
+            "c": 161
+          }
+        ],
+        "id": 622
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 10,
+            "c": 73
+          }
+        ],
+        "id": 623
       }
     ]
   }

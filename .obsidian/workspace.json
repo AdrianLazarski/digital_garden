@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Ekonomia.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Ekonomia"
+              "title": "MOC Dzieła ekonomiczne"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Koncepcje ASE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,103 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Austriacka szkoła ekonomii"
-            }
-          },
-          {
-            "id": "716cb33c033d9ae4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Krytyka ASE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Krytyka ASE"
-            }
-          },
-          {
-            "id": "e80913b99ebeb134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Dzieła ASE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła ASE"
-            }
-          },
-          {
-            "id": "3ddbf2a0ce95de5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Ekonomiści ASE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Ekonomiści ASE"
-            }
-          },
-          {
-            "id": "b42d016ce3725a81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Teorie ASE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Teorie ASE"
+              "title": "MOC Koncepcje ASE"
             }
           },
           {
@@ -181,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,11 +100,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Nowoczesna teoria monetarna"
+              "title": "MOC Nowoczesna teoria monetarna MMT"
+            }
+          },
+          {
+            "id": "c07ff021e7dc7731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Ekonomia/MOC Tezy MMT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Tezy MMT"
+            }
+          },
+          {
+            "id": "7f4033ecf7edcbec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Ekonomia/MOC Krytyka MMT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Krytyka MMT"
+            }
+          },
+          {
+            "id": "0e08620de5d724ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -274,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Ekonomiści ASE.md",
+                "file": "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +260,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do MOC Ekonomiści ASE"
+              "title": "Linki zwrotne do Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy"
             }
           },
           {
@@ -293,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Ekonomiści ASE.md",
+                "file": "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące od MOC Ekonomiści ASE"
+              "title": "Łącza wychodzące od Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy"
             }
           },
           {
@@ -336,13 +312,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Ekonomiści ASE.md",
+                "file": "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Ekonomiści ASE"
+              "title": "Konspekt Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy"
             }
           }
         ],
@@ -418,15 +394,22 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "3ddbf2a0ce95de5f",
+  "active": "0e08620de5d724ea",
   "lastOpenFiles": [
+    "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "02 MOC/MOC Ekonomia.md",
+    "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
+    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
+    "02 MOC/MOC Ekonomia/MOC Tezy MMT.md",
+    "02 MOC/MOC Ekonomia/MOC Krytyka MMT.md",
+    "02 MOC/MOC Ekonomia/MOC Koncepcje ASE.md",
+    "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
     "02 MOC/MOC Ekonomia/MOC Teorie ASE.md",
-    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna.md",
-    "03 Atomy/Historia ASE.md",
     "02 MOC/MOC Ekonomia/MOC Krytyka ASE.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ASE.md",
     "02 MOC/MOC Ekonomia/MOC Ekonomiści ASE.md",
-    "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
+    "03 Atomy/Historia ASE.md",
     "02 MOC/MOC Ekonomia/MOC Krytyka postkeynesizmu.md",
     "02 MOC/MOC Ekonomia/MOC Teorie postkeynesistowskie.md",
     "02 MOC/MOC Ekonomia/MOC Ekonomiści postkeynesistowscy.md",
@@ -436,8 +419,6 @@
     "02 MOC/MOC Ekonomia/MOC Ekonomiści keynesistowscy.md",
     "02 MOC/MOC Ekonomia/MOC Teorie keynesistowskie.md",
     "03 Atomy/Czartalizm.md",
-    "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
-    "02 MOC/MOC Ekonomia.md",
     "Skróty klawiszowe.md"
   ]
 }

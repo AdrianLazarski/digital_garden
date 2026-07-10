@@ -18,3 +18,6 @@ MMT wywodzi się z [[Czartalizm|czartalizmu]] i [[MOC Postkeynesizm|postkeynesiz
 
 
 
+[[MOC Tezy MMT]]
+
+[[MOC Krytyka MMT]]

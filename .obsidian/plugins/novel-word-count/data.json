@@ -66912,20 +66912,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 78,
+      "wordCount": 79,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.26,
-      "characterCount": 683,
-      "nonWhitespaceCharacterCount": 594,
+      "pageCount": 0.2633333333333333,
+      "characterCount": 687,
+      "nonWhitespaceCharacterCount": 597,
       "newlineCount": 26,
-      "readingTimeInMinutes": 0.2943396226415094,
+      "readingTimeInMinutes": 0.2981132075471698,
       "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783684918025,
-      "modifiedDate": 1783690722381,
-      "sizeInBytes": 862,
+      "modifiedDate": 1783692449579,
+      "sizeInBytes": 866,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.21666666666666667,
@@ -131215,44 +131215,6 @@
         "modified date": "2026-07-10 15:25"
       }
     },
-    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 43,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.14333333333333334,
-      "characterCount": 382,
-      "nonWhitespaceCharacterCount": 330,
-      "newlineCount": 12,
-      "readingTimeInMinutes": 0.16226415094339622,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783689699681,
-      "modifiedDate": 1783690647738,
-      "sizeInBytes": 572,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "created": "2026-07-10 15:21",
-        "tags": [
-          "ekonomia/makro",
-          "moc",
-          "definicja"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Aksjomatyczny 💎",
-        "modified date": "2026-07-10 15:21"
-      }
-    },
     "02 MOC/MOC Ekonomia/MOC Postkeynesizm.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -131284,20 +131246,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 14,
+      "wordCount": 17,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 103,
-      "nonWhitespaceCharacterCount": 84,
-      "newlineCount": 11,
-      "readingTimeInMinutes": 0.052830188679245285,
-      "linkCount": 5,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 128,
+      "nonWhitespaceCharacterCount": 103,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783690725996,
-      "modifiedDate": 1783690973418,
-      "sizeInBytes": 291,
+      "modifiedDate": 1783692387198,
+      "sizeInBytes": 316,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -131593,8 +131555,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783691535914,
-      "modifiedDate": 1783691664830,
-      "sizeInBytes": 151,
+      "modifiedDate": 1783692354313,
+      "sizeInBytes": 159,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -131606,7 +131568,8 @@
       "frontmatter": {
         "created": "2026-07-10 15:52",
         "tags": [
-          "ekonomia"
+          "ekonomia",
+          "moc"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Aksjomatyczny 💎",
@@ -131617,20 +131580,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 27,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.09,
+      "characterCount": 224,
+      "nonWhitespaceCharacterCount": 196,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 11,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783691536718,
-      "modifiedDate": 1783691536718,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783692286931,
+      "sizeInBytes": 384,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -131638,26 +131601,36 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 15:52",
+        "tags": [
+          "ekonomia",
+          "moc"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 16:01"
       }
     },
     "02 MOC/MOC Ekonomia/MOC Dzieła ASE.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 5,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 35,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783691538693,
-      "modifiedDate": 1783691538693,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783692315824,
+      "sizeInBytes": 187,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -131665,6 +131638,15 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 15:52",
+        "tags": [
+          "moc"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 16:04"
       }
     },
     "02 MOC/MOC Ekonomia/MOC Krytyka ASE.md": {
@@ -131675,16 +131657,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783691541153,
-      "modifiedDate": 1783691555490,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783692338942,
+      "sizeInBytes": 157,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -131692,6 +131674,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 15:52",
+        "tags": [
+          "moc",
+          "ekonomia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 16:05"
       }
     },
     "03 Atomy/Historia ASE.md": {
@@ -131712,6 +131704,182 @@
       "createdDate": 1783691519631,
       "modifiedDate": 1783691555197,
       "sizeInBytes": 200,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC Ekonomia/MOC Koncepcje ASE.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783692392275,
+      "modifiedDate": 1783692410275,
+      "sizeInBytes": 154,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 16:06",
+        "tags": [
+          "ase",
+          "moc"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 16:06"
+      }
+    },
+    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 49,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 420,
+      "nonWhitespaceCharacterCount": 361,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.18490566037735848,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783689699681,
+      "modifiedDate": 1783692502947,
+      "sizeInBytes": 610,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 15:21",
+        "tags": [
+          "ekonomia/makro",
+          "moc",
+          "definicja"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 15:21"
+      }
+    },
+    "02 MOC/MOC Ekonomia/MOC Krytyka MMT.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783692462018,
+      "modifiedDate": 1783692492961,
+      "sizeInBytes": 159,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 16:07",
+        "tags": [
+          "moc",
+          "ekonomia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 16:07"
+      }
+    },
+    "02 MOC/MOC Ekonomia/MOC Tezy MMT.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783692502951,
+      "modifiedDate": 1783692533126,
+      "sizeInBytes": 165,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 16:08",
+        "tags": [
+          "ekonomia/makro",
+          "moc"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-10 16:08"
+      }
+    },
+    "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 73,
+      "nonWhitespaceCharacterCount": 62,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783692623446,
+      "modifiedDate": 1783692667365,
+      "sizeInBytes": 76,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
