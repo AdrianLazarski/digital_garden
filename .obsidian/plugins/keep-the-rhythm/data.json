@@ -6758,6 +6758,11 @@
             "timeKey": "15:35",
             "w": 23,
             "c": 189
+          },
+          {
+            "timeKey": "15:45",
+            "w": 9,
+            "c": 105
           }
         ],
         "id": 606
@@ -6772,6 +6777,11 @@
             "timeKey": "15:35",
             "w": 22,
             "c": 170
+          },
+          {
+            "timeKey": "15:40",
+            "w": 9,
+            "c": 95
           }
         ],
         "id": 607
@@ -6789,11 +6799,100 @@
           },
           {
             "timeKey": "15:40",
-            "w": 9,
-            "c": 61
+            "w": 14,
+            "c": 104
           }
         ],
         "id": 608
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Teorie keynesistowskie.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 21,
+            "c": 161
+          }
+        ],
+        "id": 609
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Ekonomiści keynesistowscy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 23,
+            "c": 179
+          }
+        ],
+        "id": 610
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Krytyka keynesizmu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 20,
+            "c": 155
+          }
+        ],
+        "id": 611
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Teorie postkeynesistowskie.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 20,
+            "c": 155
+          }
+        ],
+        "id": 612
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Ekonomiści postkeynesistowscy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 22,
+            "c": 171
+          },
+          {
+            "timeKey": "15:50",
+            "w": 8,
+            "c": 76
+          }
+        ],
+        "id": 613
+      },
+      {
+        "date": "2026-07-10",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Krytyka postkeynesizmu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 20,
+            "c": 151
+          }
+        ],
+        "id": 614
       }
     ]
   }

@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "f3ffe016f7639f34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Keynesizm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Keynesizm"
-            }
-          },
-          {
             "id": "0a8bcdac06a28e01",
             "type": "leaf",
             "state": {
@@ -101,6 +77,78 @@
               },
               "icon": "lucide-file",
               "title": "MOC Austriacka szkoła ekonomii"
+            }
+          },
+          {
+            "id": "4b2f1c117d534980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Ekonomia/MOC Krytyka postkeynesizmu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Krytyka postkeynesizmu"
+            }
+          },
+          {
+            "id": "8ad87c0229e367ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Ekonomia/MOC Ekonomiści postkeynesistowscy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Ekonomiści postkeynesistowscy"
+            }
+          },
+          {
+            "id": "04a77e82dafebe47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Ekonomia/MOC Teorie postkeynesistowskie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Teorie postkeynesistowskie"
             }
           },
           {
@@ -126,67 +174,9 @@
               "icon": "lucide-file",
               "title": "MOC Nowoczesna teoria monetarna"
             }
-          },
-          {
-            "id": "4b2f1c117d534980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Postkeynesizm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Postkeynesizm"
-            }
-          },
-          {
-            "id": "ab3051ce13aee23f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Czartalizm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Czartalizm"
-            }
-          },
-          {
-            "id": "a8aae8ecd954cf5e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nowa karta"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -260,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Ekonomiści postkeynesistowscy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +260,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do MOC Austriacka szkoła ekonomii"
+              "title": "Linki zwrotne do MOC Ekonomiści postkeynesistowscy"
             }
           },
           {
@@ -279,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Ekonomiści postkeynesistowscy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące od MOC Austriacka szkoła ekonomii"
+              "title": "Łącza wychodzące od MOC Ekonomiści postkeynesistowscy"
             }
           },
           {
@@ -322,13 +312,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Ekonomiści postkeynesistowscy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Austriacka szkoła ekonomii"
+              "title": "Konspekt MOC Ekonomiści postkeynesistowscy"
             }
           }
         ],
@@ -404,15 +394,21 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0a8bcdac06a28e01",
+  "active": "8ad87c0229e367ac",
   "lastOpenFiles": [
-    "02 MOC/MOC Ekonomia/MOC Keynesizm.md",
-    "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
-    "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
+    "02 MOC/MOC Ekonomia/MOC Teorie postkeynesistowskie.md",
+    "02 MOC/MOC Ekonomia/MOC Ekonomiści postkeynesistowscy.md",
+    "02 MOC/MOC Ekonomia/MOC Krytyka postkeynesizmu.md",
     "02 MOC/MOC Ekonomia/MOC Postkeynesizm.md",
+    "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
     "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna.md",
-    "02 MOC/MOC Ekonomia.md",
+    "02 MOC/MOC Ekonomia/MOC Keynesizm.md",
+    "02 MOC/MOC Ekonomia/MOC Krytyka keynesizmu.md",
+    "02 MOC/MOC Ekonomia/MOC Ekonomiści keynesistowscy.md",
+    "02 MOC/MOC Ekonomia/MOC Teorie keynesistowskie.md",
     "03 Atomy/Czartalizm.md",
+    "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
+    "02 MOC/MOC Ekonomia.md",
     "Skróty klawiszowe.md"
   ]
 }
