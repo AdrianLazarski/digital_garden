@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - ekonomia/mikro
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-10 14:49
+---
 
 
 Jako stan to coś innego, niż proces.
@@ -16,4 +26,3 @@ Teoria rynków spornych (kontestowalnych) nie jest obciążona trzema pierwszymi
 - Ekonomia skali jest barierą wejścia dla małych firm, ale nie jest to niekorzystne dla konsumentów.
 - 
 
-#ekonomia 

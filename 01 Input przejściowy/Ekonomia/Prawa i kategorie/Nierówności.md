@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - ekonomia/makro
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-10 14:55
+---
 
 - Zamiast mówić o nierównościach dochodowych i majątkowych mówmy o nierównościach produkcyjnych.
 	- 5,6 miliona osób w Polsce (26% ludzi w wieku produkcyjnym) wytwarza połowę polskiego PKB. 2018 r.
@@ -36,7 +46,7 @@
 	- Limity
 3. Dotacje i subsydia
 4. Ratowanie wielkich instytucji finansowych przed upadkiem
-5. Inflacja - kto pierwszy otrzyma nowy pieniądz, jest w lepszej sytuacji od tych, którzy dostaną je na końcu i będą musieli je wydawać przy nowej strukutrze cen i ich wzroście.
+5. Inflacja - kto pierwszy otrzyma nowy pieniądz, jest w lepszej sytuacji od tych, którzy dostaną je na końcu i będą musieli je wydawać przy nowej strukturze cen i ich wzroście.
 
 ## Bibliografia
 

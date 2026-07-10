@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - ekonomia/mikro
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-10 14:56
+---
 
 Środek wymiany w wymianie pośredniej.
 
@@ -53,5 +63,3 @@
 
 Mnożnik kreacji: 1/N gdzie N-stopa rezerw
 	np. dla 10% rezerw 1/0,1 oznacza 10 razy większą wartość depozytów. Ilość środków wykreowanych 9 (10-1) razy większa.****
-
-#ekonomia #ase 

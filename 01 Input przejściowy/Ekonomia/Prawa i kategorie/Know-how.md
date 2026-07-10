@@ -17,4 +17,3 @@ Badania pokazują, że 80% learningu w pracy, to on-the-job training, nie da si�
 	- Przecież skąd Polacy mieli wziąć magicznie dobrych managerów po komunie? Musieli się uczyć od zachodu.
 
 
-#ekonomia 

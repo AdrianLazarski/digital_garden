@@ -118790,20 +118790,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 337,
+      "wordCount": 335,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.1233333333333333,
-      "characterCount": 2752,
-      "nonWhitespaceCharacterCount": 2356,
+      "pageCount": 1.1166666666666667,
+      "characterCount": 2737,
+      "nonWhitespaceCharacterCount": 2343,
       "newlineCount": 57,
-      "readingTimeInMinutes": 1.271698113207547,
+      "readingTimeInMinutes": 1.2641509433962264,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384998,
-      "modifiedDate": 1718554556979,
-      "sizeInBytes": 2858,
+      "modifiedDate": 1783688190298,
+      "sizeInBytes": 3020,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.1233333333333333,
@@ -118811,6 +118811,17 @@
         "characterCount": 2752,
         "nonWhitespaceCharacterCount": 2356,
         "newlineCount": 57
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/mikro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:56"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Nierówności.md.edtz": {
@@ -118848,16 +118859,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.2733333333333334,
-      "characterCount": 2922,
+      "characterCount": 2923,
       "nonWhitespaceCharacterCount": 2486,
-      "newlineCount": 51,
+      "newlineCount": 52,
       "readingTimeInMinutes": 1.441509433962264,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384982,
-      "modifiedDate": 1718554526725,
-      "sizeInBytes": 3053,
+      "modifiedDate": 1783688168931,
+      "sizeInBytes": 3231,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.2733333333333334,
@@ -118865,6 +118876,17 @@
         "characterCount": 2922,
         "nonWhitespaceCharacterCount": 2486,
         "newlineCount": 51
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/makro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:55"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Krzywa Laffera.md.edtz": {
@@ -118952,20 +118974,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 66,
+      "wordCount": 65,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.22,
-      "characterCount": 544,
-      "nonWhitespaceCharacterCount": 458,
-      "newlineCount": 19,
-      "readingTimeInMinutes": 0.2490566037735849,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 535,
+      "nonWhitespaceCharacterCount": 449,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 0.24528301886792453,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384952,
-      "modifiedDate": 1718553957947,
-      "sizeInBytes": 575,
+      "modifiedDate": 1783687816808,
+      "sizeInBytes": 743,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.22,
@@ -118973,6 +118995,17 @@
         "characterCount": 544,
         "nonWhitespaceCharacterCount": 458,
         "newlineCount": 19
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ekonomia/mikro"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-10 14:49"
       }
     },
     "01 Input przejściowy/Ekonomia/Prawa i kategorie/Know-how.md.edtz": {
@@ -119006,20 +119039,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 58,
+      "wordCount": 57,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.19333333333333333,
-      "characterCount": 415,
-      "nonWhitespaceCharacterCount": 349,
+      "pageCount": 0.19,
+      "characterCount": 405,
+      "nonWhitespaceCharacterCount": 340,
       "newlineCount": 11,
-      "readingTimeInMinutes": 0.2188679245283019,
+      "readingTimeInMinutes": 0.21509433962264152,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384937,
-      "modifiedDate": 1783686678410,
-      "sizeInBytes": 621,
+      "modifiedDate": 1783687827200,
+      "sizeInBytes": 611,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.19333333333333333,
