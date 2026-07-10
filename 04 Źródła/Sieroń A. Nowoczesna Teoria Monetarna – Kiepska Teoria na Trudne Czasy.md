@@ -1,1 +1,22 @@
-Sieroń, A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy, 
+---
+created: 2026-07-10 16:10
+tags:
+  - ref
+  - ekonomia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-10 16:12
+---
+Sieroń, A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy, 2019, https://mises.pl/artykul/nowoczesna-teoria-monetarna-kiepska-teoria-na-trudne-czasy [dostęp 10.07.2026]
+
+Założenia MMT:
+1. Pieniądz to zobowiązanie ([[IOU]]) państwa.
+2. Ludzie używają pieniądza, ponieważ płacą w nim podatki.
+3.  Rządy emitujące suwerenną walutę zawsze mogą ją dodrukować, ograniczenia finansowe ich nie dotyczą
+	- <mark style="background:#ff4d4f">Nieprawda, ograniczeniem jest inflacja i pełne zatrudnienie.</mark>
+4. Celem podatków oraz emisji długu nie jest zatem pokrywanie wydatków, lecz kreowanie popytu na walutę oraz wpływanie na inflację i wielkość rezerw bankowych; 
+5. Deficyty rządowe nie są więc problemem; przeciwnie, kreują one majątek finansowy sektora prywatnego (w gospodarce zamkniętej deficyt w sektorze publicznym równa się nadwyżce w sektorze prywatnym); 
+6. Ponieważ państwo nie musi się zadłużać, nie musi oferować odsetek pożyczkodawcom, powinno zatem obniżyć stopę procentową na stałe do zera.
+	1. <mark style="background:#ff4d4f">What?</mark>
+7.  Rząd jest zawsze w stanie zapewnić pełne zatrudnienie poprzez program gwarancji zatrudnienia.
+

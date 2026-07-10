@@ -131866,20 +131866,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 10,
+      "wordCount": 148,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 73,
-      "nonWhitespaceCharacterCount": 62,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 0,
+      "pageCount": 0.49333333333333335,
+      "characterCount": 1166,
+      "nonWhitespaceCharacterCount": 1014,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.5584905660377358,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783692623446,
-      "modifiedDate": 1783692667365,
-      "sizeInBytes": 76,
+      "modifiedDate": 1783693004133,
+      "sizeInBytes": 1378,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -131887,6 +131887,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-10 16:10",
+        "tags": [
+          "ref",
+          "ekonomia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-10 16:12"
       }
     }
   }
