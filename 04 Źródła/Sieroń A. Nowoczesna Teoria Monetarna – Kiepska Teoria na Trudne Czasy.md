@@ -38,3 +38,8 @@ Założenia MMT:
 - Ludzie mogą stracić zaufanie do waluty i realokować swoje fundusze — co może poważnie wpłynąć na kurs walutowy, stopy procentowe i ceny aktywów — nawet jeśli wiedzą, że techniczne bankructwo jest niemożliwe
 	- Jak dostrzega sam Wray (s. 92), „rządowi nie mogą wyczerpać się środki na wydatki. Wyczerpać może się jednak skłonności ludności do sprzedaży większej ilości siły roboczej, zasobów czy też produkcji _w zamian za_ walutę — przynajmniej po ustalonej cenie”.
 - niespodziewana inflacja może być postrzegana z ekonomicznego punktu widzenia jako częściowa niewypłacalność, jako że dłużnik spłaca realnie mniej niż pożyczył
+- W kontekście podatku inflacyjnego rząd musiałby zawsze finansować swoje wydatki podatkami (albo teraz, albo w przyszłości).
+- Według NTM pieniądz to dług, ale nie jest jasne, w jaki dokładnie sposób zapłata podatków miałaby umarzać walutę fiat (która nie stanowi do niczego roszczenia)
+- Podatki stanowią transfer środków z sektora prywatnego do publicznego, a nie zmniejszenie podaży pieniądza. W dniu płatności zobowiązań podatkowych gospodarka nie przeżywa szoków deflacyjnych.
+- Dla MMT emisja obligacji nie jest zaciąganiem długu, lecz „narzędziem, za pomocą którego bank centralny osiąga określone poziomy stopy procentowej” (Wray, s. 159)
+- 
