@@ -5945,20 +5945,6 @@
         "charCountStart": 611,
         "changes": [],
         "id": 555
-      },
-      {
-        "date": "2026-07-10",
-        "filePath": "Skróty klawiszowe.md",
-        "wordCountStart": 204,
-        "charCountStart": 1888,
-        "changes": [
-          {
-            "timeKey": "13:45",
-            "w": 0,
-            "c": 0
-          }
-        ],
-        "id": 556
       }
     ]
   }
