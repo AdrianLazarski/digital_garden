@@ -1,9 +1,9 @@
 ---
-created: 2026-07-10 15:49
+created: 2026-07-10 15:52
 tags:
-  - moc
   - ekonomia
+  - moc
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
-modified date: 2026-07-10 15:49
+modified date: 2026-07-10 16:01
 ---
