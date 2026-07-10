@@ -20,3 +20,9 @@ Założenia MMT:
 	1. <mark style="background:#ff4d4f">What?</mark>
 7.  Rząd jest zawsze w stanie zapewnić pełne zatrudnienie poprzez program gwarancji zatrudnienia.
 
+- Państwowa teoria pieniądza jest błędna, bo nie potrafi wyjaśnić siły nabywczej pieniądza.
+	- Według ASE siła nabywcza pieniądza determinowana jest przez podaż i popyt na pieniądz. Ludzie zgłaszają popyt na pieniądz dzisiaj, kierując się wczorajszą siłą nabywczą. 
+	- Cofając się wystarczająco daleko, dojdziemy do momentu, w którym siła nabywcza została oszacowana dzięki popytowi na niepieniężne zastosowania danego środka wymiany. 
+	- Tymczasem sam fakt, że mamy do zapłaty w podatkach określoną ilość jednostek pieniężnych, nie pozwala oszacować ich siły nabywczej.
+
+- 
