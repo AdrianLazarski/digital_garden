@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy"
             }
+          },
+          {
+            "id": "c8a0e7c4c30f4d64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Leucyp z Miletu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Leucyp z Miletu"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -208,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "demokryt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,7 +253,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -312,13 +337,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
+                "file": "03 Atomy/Leucyp z Miletu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy"
+              "title": "Konspekt Leucyp z Miletu"
             }
           }
         ],
@@ -394,10 +419,11 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0e08620de5d724ea",
+  "active": "c8a0e7c4c30f4d64",
   "lastOpenFiles": [
-    "Gotowanie/Pranie ciemne.md",
+    "03 Atomy/Demokryt z Abdery.md",
     "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
+    "Gotowanie/Pranie ciemne.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "02 MOC/MOC Ekonomia.md",
     "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
