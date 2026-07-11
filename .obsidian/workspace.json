@@ -174,9 +174,19 @@
               "icon": "lucide-file",
               "title": "Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy"
             }
+          },
+          {
+            "id": "51c7d7c3c67a9207",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -312,13 +322,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy"
+              "title": "Konspekt"
             }
           }
         ],
@@ -394,7 +403,7 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0e08620de5d724ea",
+  "active": "51c7d7c3c67a9207",
   "lastOpenFiles": [
     "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
