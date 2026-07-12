@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -337,13 +337,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Leucyp z Miletu.md",
+                "file": "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Leucyp z Miletu"
+              "title": "Konspekt Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy"
             }
           }
         ],
@@ -419,8 +419,9 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "c8a0e7c4c30f4d64",
+  "active": "0e08620de5d724ea",
   "lastOpenFiles": [
+    "03 Atomy/Leucyp z Miletu.md",
     "03 Atomy/Demokryt z Abdery.md",
     "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
     "Gotowanie/Pranie ciemne.md",
@@ -445,7 +446,6 @@
     "02 MOC/MOC Ekonomia/MOC Krytyka keynesizmu.md",
     "02 MOC/MOC Ekonomia/MOC Ekonomiści keynesistowscy.md",
     "02 MOC/MOC Ekonomia/MOC Teorie keynesistowskie.md",
-    "03 Atomy/Czartalizm.md",
-    "Skróty klawiszowe.md"
+    "03 Atomy/Czartalizm.md"
   ]
 }
