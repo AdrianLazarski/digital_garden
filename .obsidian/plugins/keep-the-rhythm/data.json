@@ -7202,6 +7202,53 @@
         "charCountStart": 8574,
         "changes": [],
         "id": 630
+      },
+      {
+        "date": "2026-07-12",
+        "filePath": "02 MOC/MOC Matematyka.md",
+        "wordCountStart": 126,
+        "charCountStart": 1213,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": -24,
+            "c": -252
+          },
+          {
+            "timeKey": "20:15",
+            "w": 9,
+            "c": 97
+          }
+        ],
+        "id": 631
+      },
+      {
+        "date": "2026-07-12",
+        "filePath": "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
+        "wordCountStart": 144,
+        "charCountStart": 1240,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 15,
+            "c": 155
+          }
+        ],
+        "id": 632
+      },
+      {
+        "date": "2026-07-12",
+        "filePath": "02 MOC/MOC Matematyka/MOC Algebra liniowa.md",
+        "wordCountStart": 33,
+        "charCountStart": 274,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 9,
+            "c": 92
+          }
+        ],
+        "id": 633
       }
     ]
   }

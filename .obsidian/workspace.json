@@ -198,9 +198,57 @@
               "icon": "lucide-file",
               "title": "Leucyp z Miletu"
             }
+          },
+          {
+            "id": "7bd36ba369006a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Matematyka.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Matematyka"
+            }
+          },
+          {
+            "id": "7b093fbd6a1991ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Teoria mnogości"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -232,7 +280,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "demokryt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,8 +301,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -337,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
+                "file": "02 MOC/MOC Matematyka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy"
+              "title": "Konspekt MOC Matematyka"
             }
           }
         ],
@@ -419,11 +466,14 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0e08620de5d724ea",
+  "active": "7bd36ba369006a12",
   "lastOpenFiles": [
+    "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
+    "02 MOC/MOC Matematyka/MOC Algebra liniowa.md",
+    "02 MOC/MOC Matematyka.md",
+    "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
     "03 Atomy/Leucyp z Miletu.md",
     "03 Atomy/Demokryt z Abdery.md",
-    "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
     "Gotowanie/Pranie ciemne.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "02 MOC/MOC Ekonomia.md",
@@ -443,9 +493,6 @@
     "02 MOC/MOC Ekonomia/MOC Ekonomiści postkeynesistowscy.md",
     "02 MOC/MOC Ekonomia/MOC Postkeynesizm.md",
     "02 MOC/MOC Ekonomia/MOC Keynesizm.md",
-    "02 MOC/MOC Ekonomia/MOC Krytyka keynesizmu.md",
-    "02 MOC/MOC Ekonomia/MOC Ekonomiści keynesistowscy.md",
-    "02 MOC/MOC Ekonomia/MOC Teorie keynesistowskie.md",
-    "03 Atomy/Czartalizm.md"
+    "02 MOC/MOC Ekonomia/MOC Krytyka keynesizmu.md"
   ]
 }

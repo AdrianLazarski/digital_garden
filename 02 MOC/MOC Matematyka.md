@@ -14,8 +14,6 @@ modified date: 2025-11-22 13:10
 $\rightarrow$ [[MOC Dziedziny matematyki]]
 	$\rightarrow$ [[MOC Algebra]]
 		$\rightarrow$ [[MOC Algebra liniowa]]
-			$\rightarrow$ [[MOC Działania na macierzach]]
-			$\rightarrow$ [[MOC Rodzaje macierzy]]
 	$\rightarrow$ [[MOC Analiza matematyczna]]
 		$\rightarrow$ [[MOC Własności funkcji]]
 	$\rightarrow$ [[MOC Matematyka dyskretna]]
@@ -25,11 +23,11 @@ $\rightarrow$ [[MOC Dziedziny matematyki]]
 		$\rightarrow$ [[MOC Teoria gier]]
 	$\rightarrow$ [[MOC Podstawy matematyki]]
 		$\rightarrow$ [[MOC Logika matematyczna]]
+			$\rightarrow$ [[MOC Teoria modeli]]
+			$\rightarrow$ [[MOC Teoria dowodu]]
+			$\rightarrow$ [[MOC Teoria typów]]
+			$\rightarrow$ 
 		$\rightarrow$ [[MOC Teoria mnogości]] (czasem zaliczana do powyższej, ale traktowana też osobno)
-			$\rightarrow$ [[MOC Działania na zbiorach]]
-			$\rightarrow$ [[MOC Rodzaje struktur matematycznych]]
-				$\rightarrow$ [[MOC Rodzaje struktur algebraicznych]]
 		$\rightarrow$ [[MOC Metamatematyka]] (leżącą na pograniczu tej pierwszej)
-		$\rightarrow$ [[MOC Teoria typów]]
 	$\rightarrow$ [[MOC Statystyka
 	$\rightarrow$ [[Zbiory a działy matematyki]]

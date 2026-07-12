@@ -32,3 +32,9 @@ $\rightarrow$ [[Zbiór uniwersalny]]
 $\rightarrow$ [[Zbiór potęgowy]]
 $\rightarrow$ [[Relacje pomiędzy zbiorami]]
 $\rightarrow$ [[Moc zbioru]]
+
+
+
+$\rightarrow$ [[MOC Działania na zbiorach]]
+$\rightarrow$ [[MOC Rodzaje struktur matematycznych]]
+	$\rightarrow$ [[MOC Rodzaje struktur algebraicznych]]
