@@ -3,11 +3,12 @@ created: 2026-02-28 19:46
 tags:
   - ref
   - ekonomia
+  - historia/gospodarcza
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 21:23
 ---
-
+  Bourgeois Dignity: Why Economics Can’t Explain the Modern World, 2011
 
 ## Wstęp
 
@@ -26,4 +27,3 @@ modified date: 2026-07-13 21:23
 - XVII-wieczne Chiny, XV-wieczne północne Włochy, X-wieczny świat arabski i Rzym I wieku miały niskie stopy procentowe i dobrze skonstruowane prawa własności, ale bez przemiany ideologicznej 
 
 
-#ekonomia #historia/gospodarcza 

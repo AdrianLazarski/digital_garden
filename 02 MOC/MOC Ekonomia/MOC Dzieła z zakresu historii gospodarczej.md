@@ -9,5 +9,5 @@ status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-10 14:11
 ---
 
-
+[[McCloskey Deirdre, Burżuazyjna godność]], 2011
 [[PAWS, Średniowieczne korzenie wolnego rynku]], 2012

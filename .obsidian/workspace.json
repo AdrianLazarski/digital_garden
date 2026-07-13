@@ -320,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -456,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Burżuazyjna godność.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt McCloskey Deirdre, Burżuazyjna godność"
+              "title": "Konspekt MOC Dzieła ekonomiczne"
             }
           }
         ],
@@ -538,11 +538,13 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "1a584a7634fe7609",
+  "active": "5d53ae3ec8b28959",
   "lastOpenFiles": [
-    "01 Input przejściowy/Ekonomia/Dzieła/Majcherek Janusz, Źródła bogactwa i biedy ludzi oraz ich zbiorowości.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "02 MOC/MOC Ekonomia.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Burżuazyjna godność.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Majcherek Janusz, Źródła bogactwa i biedy ludzi oraz ich zbiorowości.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Kaiser Axel, Uliczny ekonomista.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/PAWS, Średniowieczne korzenie wolnego rynku.md",
@@ -564,8 +566,6 @@
     "01 Input przejściowy/Ekonomia/Dzieła/Foss, Klein, Organizowanie działania przedsiębiorczego.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Epstein Alex, Przyszłość paliw kopalnych.md",
     "01 Input przejściowy/Ekonomia/Dzieła/de Jouvenel Bertrand, Redystrybucja. Grabież czy ignorancja.md",
-    "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md",
-    "02 MOC/MOC Politologia.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md"
+    "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md"
   ]
 }
