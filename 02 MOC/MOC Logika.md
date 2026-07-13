@@ -10,9 +10,12 @@ modified date: 2026-07-03 16:00
 
 
 
-
-$\rightarrow$ [[MOC Logika matematyczna]]
-
 [[MOC Logika formalna]]
 [[MOC Semiotyka]]
 [[MOC Metodologia ogólna]]
+
+[[MOC Historia logiki]]
+[[MOC Dzieła logiczne]]
+[[MOC Logicy]]
+
+[[Logika matematyczna]]

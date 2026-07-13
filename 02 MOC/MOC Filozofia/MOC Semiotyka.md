@@ -13,18 +13,6 @@ modified date: 2026-07-13 12:12
 
 
 
-[[Deskrypcja]]
-[[Desygnat]]
-[[Nazwa]]
-[[Supozycja]]
-[[Supozycja formalna]]
-[[Supozycja materialna]]
-[[Supozycja prosta]]
-[[Wyrażenie sensowne]]
-[[Wyrażenie stałe]]
-    
-- **Pragmatyka (Użycie języka i błędy komunikacyjne):** Błędy w rozumowaniu, Erystyka, Kanony Milla, Pragmatyka, Sofizmat rozszerzenia _(chochoł)_.
-    
 [[Przekłady]]
 [[Semiotyka]]
 

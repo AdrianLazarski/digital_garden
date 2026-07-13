@@ -7298,6 +7298,11 @@
             "timeKey": "11:30",
             "w": 8,
             "c": 72
+          },
+          {
+            "timeKey": "12:25",
+            "w": 6,
+            "c": 45
           }
         ],
         "id": 638
@@ -7433,8 +7438,13 @@
           },
           {
             "timeKey": "12:15",
-            "w": -10,
-            "c": -89
+            "w": -24,
+            "c": -252
+          },
+          {
+            "timeKey": "12:20",
+            "w": -18,
+            "c": -159
           }
         ],
         "id": 648
@@ -7449,6 +7459,11 @@
             "timeKey": "12:10",
             "w": 24,
             "c": 200
+          },
+          {
+            "timeKey": "12:25",
+            "w": 2,
+            "c": 17
           }
         ],
         "id": 649
@@ -7461,8 +7476,8 @@
         "changes": [
           {
             "timeKey": "12:15",
-            "w": 27,
-            "c": 240
+            "w": 26,
+            "c": 228
           }
         ],
         "id": 650
@@ -7474,6 +7489,100 @@
         "charCountStart": 0,
         "changes": [],
         "id": 651
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Logika.md",
+        "wordCountStart": 280,
+        "charCountStart": 2328,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 1,
+            "c": 4
+          }
+        ],
+        "id": 652
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia/MOC Semantyka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 38,
+            "c": 365
+          },
+          {
+            "timeKey": "12:20",
+            "w": 67,
+            "c": 540
+          }
+        ],
+        "id": 653
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Semantyka.md",
+        "wordCountStart": 69,
+        "charCountStart": 570,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": -69,
+            "c": -570
+          }
+        ],
+        "id": 654
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia/MOC Pragmatyka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 78,
+            "c": 615
+          },
+          {
+            "timeKey": "12:25",
+            "w": -2,
+            "c": -15
+          }
+        ],
+        "id": 655
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Pragmatyka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 656
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Pragmatyka/Pragmatyka.md",
+        "wordCountStart": 51,
+        "charCountStart": 401,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": -51,
+            "c": -401
+          }
+        ],
+        "id": 657
       }
     ]
   }

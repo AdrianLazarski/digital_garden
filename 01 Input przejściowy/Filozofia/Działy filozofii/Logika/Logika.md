@@ -26,7 +26,7 @@ Ontologia języka - najogólniejsza teoria rzeczywistości, objęta systemem zna
 	b)rachunek predykatów (sformalizowana teoria kwantyfikatorów)
 	- Nie jest możliwa bez semiotyki i obie mają swoje metateorie.
 2. [[Filozofia/Działy filozofii/Logika/Semiotyka]] (logiczna teoria języka)
-	1. [[Składnia]]
+	1. [[MOC Składnia]]
 	2. [[Semantyka]]
 	3.  [[Filozofia💭/Działy filozofii 🗃️/Logika/Pragmatyka|Pragmatyka]]
 3. [[Metodologia nauk]]

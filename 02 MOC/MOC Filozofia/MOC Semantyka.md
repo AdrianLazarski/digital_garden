@@ -1,6 +1,15 @@
-
-
-Określa stosunki znaków do ich korelatów.
+---
+created: 2026-07-13 12:19
+tags:
+  - definicja
+  - moc
+  - logika/semiotyka/semantyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Aksjomatyczny 💎
+modified date: 2026-07-13 12:19
+---
+> [!note] Definicja
+> Określa stosunki znaków do ich korelatów.
 
 np. Zdanie A jest prawdziwe wtedy i tylko wtedy, gdy A
 
@@ -16,4 +25,13 @@ Korelat semantyczny to inaczej [[Desygnat|desygnat]].
 Dział [[Filozofia/Działy filozofii/Logika/Semiotyka|semiotyki]].
 
 
-#filozofia #logika #logika/semiotyka 
+
+[[Deskrypcja]]
+[[Desygnat]]
+[[Nazwa]]
+[[Supozycja]]
+[[Supozycja formalna]]
+[[Supozycja materialna]]
+[[Supozycja prosta]]
+[[Wyrażenie sensowne]]
+[[Wyrażenie stałe]]
