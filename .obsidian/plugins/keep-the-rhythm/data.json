@@ -7279,6 +7279,47 @@
         "charCountStart": 354,
         "changes": [],
         "id": 636
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "03 Atomy/Leucyp z Miletu.md",
+        "wordCountStart": 822,
+        "charCountStart": 5729,
+        "changes": [],
+        "id": 637
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Logika.md",
+        "wordCountStart": 24,
+        "charCountStart": 197,
+        "changes": [
+          {
+            "timeKey": "11:30",
+            "w": 8,
+            "c": 72
+          }
+        ],
+        "id": 638
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Logika formalna.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:30",
+            "w": 107,
+            "c": 953
+          },
+          {
+            "timeKey": "11:35",
+            "w": -78,
+            "c": -736
+          }
+        ],
+        "id": 639
       }
     ]
   }
