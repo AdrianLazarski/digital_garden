@@ -69601,20 +69601,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 6,
+      "wordCount": 2,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 63,
-      "nonWhitespaceCharacterCount": 41,
-      "newlineCount": 20,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 2,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 17,
+      "newlineCount": 18,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304402994,
-      "modifiedDate": 1783959130803,
-      "sizeInBytes": 63,
+      "modifiedDate": 1783959307443,
+      "sizeInBytes": 238,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.023333333333333334,
@@ -69622,6 +69622,18 @@
         "characterCount": 82,
         "nonWhitespaceCharacterCount": 57,
         "newlineCount": 21
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "matematyka",
+          "historia/nauki/matematyki"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-13 18:14"
       }
     },
     "01 Input przejściowy/Matematyka/Matematycy/George Bool.md.edtz": {
@@ -133050,20 +133062,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 11,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 89,
+      "nonWhitespaceCharacterCount": 76,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783959162496,
-      "modifiedDate": 1783959162496,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783959269714,
+      "sizeInBytes": 249,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -133071,6 +133083,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-13 18:12",
+        "tags": [
+          "moc",
+          "matematyka"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-13 18:13"
       }
     }
   }

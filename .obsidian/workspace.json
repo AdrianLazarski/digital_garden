@@ -248,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -384,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofia matematyki.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Filozofia matematyki"
+              "title": "Konspekt MOC Filozofia polityki"
             }
           }
         ],
@@ -466,12 +466,12 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "6dff0a375ccc7d57",
+  "active": "3f14b6e6fff4e2b4",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Filozofia matematyki.md",
     "01 Input przejściowy/Matematyka/Matematycy/Historia matematyki.md",
     "02 MOC/MOC Matematycy.md",
     "02 MOC/MOC Matematyka.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia matematyki.md",
     "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
     "02 MOC/MOC Logika.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
