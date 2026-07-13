@@ -8022,6 +8022,16 @@
             "timeKey": "17:35",
             "w": 11,
             "c": 76
+          },
+          {
+            "timeKey": "17:45",
+            "w": 38,
+            "c": 257
+          },
+          {
+            "timeKey": "17:50",
+            "w": 0,
+            "c": 3
           }
         ],
         "id": 682
@@ -8036,9 +8046,85 @@
             "timeKey": "17:35",
             "w": 25,
             "c": 204
+          },
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 27
           }
         ],
         "id": 683
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Metalogika.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "17:50",
+            "w": 35,
+            "c": 343
+          }
+        ],
+        "id": 684
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Metalogika.md",
+        "wordCountStart": 18,
+        "charCountStart": 144,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": -18,
+            "c": -144
+          }
+        ],
+        "id": 685
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wynikanie logiczne.md",
+        "wordCountStart": 82,
+        "charCountStart": 660,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 18,
+            "c": 132
+          },
+          {
+            "timeKey": "17:55",
+            "w": -1,
+            "c": -3
+          }
+        ],
+        "id": 686
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wynikanie logiczne.md",
+        "wordCountStart": 82,
+        "charCountStart": 660,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 18,
+            "c": 132
+          },
+          {
+            "timeKey": "17:55",
+            "w": -1,
+            "c": -3
+          }
+        ],
+        "id": 687
       }
     ]
   }

@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
+                "file": "02 MOC/MOC Matematyka/MOC Metalogika.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,16 +220,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Podstawy matematyki"
+              "title": "MOC Metalogika"
             }
           },
           {
-            "id": "19979dfada31744c",
+            "id": "676e0420e4524570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Metamatematyka.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wynikanie logiczne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,59 +244,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Metamatematyka"
-            }
-          },
-          {
-            "id": "4e9c19cd0431d566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Teoria.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Teoria"
-            }
-          },
-          {
-            "id": "4c13a93a0abc937d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Definicja.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Definicja"
+              "title": "Wynikanie logiczne"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -432,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Teoria.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wynikanie logiczne.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Teoria"
+              "title": "Konspekt Wynikanie logiczne"
             }
           }
         ],
@@ -514,14 +466,17 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "4e9c19cd0431d566",
+  "active": "676e0420e4524570",
   "lastOpenFiles": [
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Definicja.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Metalogika.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wynikanie logiczne.md",
+    "02 MOC/MOC Matematyka/MOC Metalogika.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Teoria.md",
+    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
     "02 MOC/MOC Matematyka/MOC Metamatematyka.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Definicja.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Teoria typów i rzędów.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Twierdzenie Gödla.md",
-    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
     "02 MOC/MOC Matematyka/MOC Teoria typów.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
     "02 MOC/MOC Matematyka/MOC Matematyka stosowana.md",
@@ -538,9 +493,6 @@
     "02 MOC/MOC Matematyka/MOC Statystyka.md",
     "02 MOC/MOC Matematyka/MOC Teoria informacji.md",
     "02 MOC/MOC Matematyka/MOC Teoria gier.md",
-    "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
-    "02 MOC/MOC Matematyka/MOC Matematyka dyskretna.md",
-    "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
-    "02 MOC/MOC Matematyka/MOC Algebra.md"
+    "02 MOC/MOC Matematyka/MOC Teoria mnogości.md"
   ]
 }

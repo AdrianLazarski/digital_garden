@@ -110487,20 +110487,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 80,
+      "wordCount": 114,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.26666666666666666,
-      "characterCount": 623,
-      "nonWhitespaceCharacterCount": 525,
-      "newlineCount": 20,
-      "readingTimeInMinutes": 0.3018867924528302,
+      "pageCount": 0.38,
+      "characterCount": 826,
+      "nonWhitespaceCharacterCount": 691,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 0.43018867924528303,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304388134,
-      "modifiedDate": 1783957070652,
-      "sizeInBytes": 803,
+      "modifiedDate": 1783957903765,
+      "sizeInBytes": 1076,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2833333333333333,
@@ -110513,7 +110513,9 @@
         "created": "2026-02-28 19:46",
         "tags": [
           "atom",
-          "definicja"
+          "definicja",
+          "matematyka/metamatematyka",
+          "logika/metodologia"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
@@ -111997,33 +111999,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Metalogika.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 18,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06,
-      "characterCount": 144,
-      "nonWhitespaceCharacterCount": 120,
-      "newlineCount": 8,
-      "readingTimeInMinutes": 0.06792452830188679,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304387729,
-      "modifiedDate": 1718463305684,
-      "sizeInBytes": 146,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06,
-        "wordCount": 18,
-        "characterCount": 144,
-        "nonWhitespaceCharacterCount": 120,
-        "newlineCount": 8
-      }
-    },
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Mereologia.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -113498,8 +113473,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304387277,
-      "modifiedDate": 1783957059112,
-      "sizeInBytes": 764,
+      "modifiedDate": 1783957740097,
+      "sizeInBytes": 791,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.21666666666666667,
@@ -113512,7 +113487,8 @@
         "created": "2026-02-28 19:46",
         "tags": [
           "atom",
-          "definicja"
+          "definicja",
+          "logika/metodologia"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
@@ -132902,6 +132878,45 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC Matematyka/MOC Metalogika.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 31,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 304,
+      "nonWhitespaceCharacterCount": 242,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.1169811320754717,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783957776258,
+      "modifiedDate": 1783957966136,
+      "sizeInBytes": 500,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-13 17:49",
+        "tags": [
+          "atom",
+          "definicja",
+          "matematyka/metalogika",
+          "moc"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-13 17:49"
       }
     }
   }

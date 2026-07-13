@@ -1,9 +1,12 @@
 ---
 created: 2026-02-28 19:46
-tags: [atom, definicja]
+tags:
+  - atom
+  - definicja
+  - logika/metodologia
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date : 2026-07-13 17:36
+modified date: 2026-07-13 17:36
 ---
 
 Definicja jest zawsze zrelatywizowana do teorii.
