@@ -272,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -304,7 +304,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:definicja",
+                "query": "funkcja prawdziwościowa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -409,13 +409,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Logika formalna.md",
+                "file": "02 MOC/MOC Logika matematyczna.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Logika formalna"
+              "title": "Konspekt MOC Logika matematyczna"
             }
           }
         ],
@@ -491,13 +491,14 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "b17b314c3ed17216",
+  "active": "265628fb12521e1d",
   "lastOpenFiles": [
+    "02 MOC/MOC Matematyka.md",
+    "02 MOC/MOC Logika matematyczna.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Funkcja prawdziwościowa.md",
     "02 MOC/MOC Logika formalna.md",
     "02 MOC/MOC Logika.md",
     "03 Atomy/Leucyp z Miletu.md",
-    "02 MOC/MOC Logika matematyczna.md",
-    "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
     "02 MOC/MOC Matematyka/MOC Algebra liniowa.md",
     "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
@@ -517,7 +518,6 @@
     "02 MOC/MOC Ekonomia/MOC Ekonomiści ASE.md",
     "03 Atomy/Historia ASE.md",
     "02 MOC/MOC Ekonomia/MOC Krytyka postkeynesizmu.md",
-    "02 MOC/MOC Ekonomia/MOC Teorie postkeynesistowskie.md",
-    "02 MOC/MOC Ekonomia/MOC Ekonomiści postkeynesistowscy.md"
+    "02 MOC/MOC Ekonomia/MOC Teorie postkeynesistowskie.md"
   ]
 }

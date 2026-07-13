@@ -7315,11 +7315,27 @@
           },
           {
             "timeKey": "11:35",
-            "w": -78,
-            "c": -736
+            "w": -71,
+            "c": -673
           }
         ],
         "id": 639
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Funkcja prawdziwościowa.md",
+        "wordCountStart": 26,
+        "charCountStart": 246,
+        "changes": [],
+        "id": 640
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka.md",
+        "wordCountStart": 98,
+        "charCountStart": 924,
+        "changes": [],
+        "id": 641
       }
     ]
   }
