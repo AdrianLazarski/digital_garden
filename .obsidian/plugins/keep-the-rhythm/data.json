@@ -7386,6 +7386,11 @@
             "timeKey": "18:10",
             "w": 2,
             "c": 19
+          },
+          {
+            "timeKey": "19:35",
+            "w": 1,
+            "c": 4
           }
         ],
         "id": 641
@@ -8258,6 +8263,55 @@
           }
         ],
         "id": 693
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie matematyki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 22,
+            "c": 180
+          }
+        ],
+        "id": 694
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Definicje i wizje matematyki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 5
+          }
+        ],
+        "id": 695
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Ekonomia.md",
+        "wordCountStart": 48,
+        "charCountStart": 414,
+        "changes": [],
+        "id": 696
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+        "wordCountStart": 41,
+        "charCountStart": 321,
+        "changes": [],
+        "id": 697
       }
     ]
   }
