@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - ref
+  - recenzja
+  - liberalizm
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 19:50
+---
 
 
 
@@ -13,5 +24,3 @@ Wielkim atutem omawianej publikacji jest wyraźne odróżnienie wykładu podstaw
 
 Podsumowując "Elementarz ekonomii" to lektura godna polecenia zarówno zupełnemu laikowi, jak i komuś, kto chciałby odświeżyć sobie podstawowe zagadnienia w niskim nakładem czasu i wysiłku. Duża wartość tkwi w przekroju tematycznym książki i staraniach autora, by uchronić czytelnika przed popełnianiem najczęstszych błędów oraz by nauczyć go myśleć jak ekonomista. Jeśli ktoś miałby z racji braku czasu przeczytać tylko jedną popularno-naukową książkę o ekonomii w całym swoim życiu, to Elementarz byłby naprawdę dobrym wyborem.
 
-
-#ekonomia #liberalizm

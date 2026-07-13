@@ -13,5 +13,10 @@ modified date: 2026-07-10 14:09
 
 # Teoria ekonomii
 
+[[Mises Ludwig von, Ludzkie działanie]]
 
+
+# Popularnonaukowe
+
+[[Ballve Faustino, Elementarz ekonomii]]
 

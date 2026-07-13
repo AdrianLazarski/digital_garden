@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/średniowieczna
+  - filozofia/metafizyka
+  - filozofia/epistemologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 19:49
+---
 [[Piotr Abelard]] 
 
 5 produktów poznania, które nie są pojęciami:
@@ -32,4 +43,3 @@
 - Rozumieć jakąś rzecz (mieć częściowe pojęcie) =/= mieć pojęcie o niej.
 
 
-#filozofia #filozofia/średniowieczna #filozofia/epistemologia #filozofia/metafizyka 
