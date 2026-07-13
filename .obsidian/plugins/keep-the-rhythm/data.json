@@ -8345,6 +8345,11 @@
             "timeKey": "20:10",
             "w": 15,
             "c": 108
+          },
+          {
+            "timeKey": "20:20",
+            "w": 6,
+            "c": 49
           }
         ],
         "id": 697
@@ -8357,6 +8362,11 @@
         "changes": [
           {
             "timeKey": "19:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:15",
             "w": 0,
             "c": 0
           }
@@ -8628,8 +8638,61 @@
         "filePath": "02 MOC/MOC Socjologia.md",
         "wordCountStart": 20,
         "charCountStart": 157,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 7,
+            "c": 76
+          }
+        ],
         "id": 717
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Socjologia/MOC Socjolodzy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 20,
+            "c": 157
+          }
+        ],
+        "id": 718
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:15",
+            "w": 29,
+            "c": 225
+          }
+        ],
+        "id": 719
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
+        "wordCountStart": 4979,
+        "charCountStart": 36835,
+        "changes": [
+          {
+            "timeKey": "20:15",
+            "w": 20,
+            "c": 153
+          },
+          {
+            "timeKey": "20:20",
+            "w": 8,
+            "c": 55
+          }
+        ],
+        "id": 720
       }
     ]
   }

@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+  - politologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 20:16
+---
+  The Myth of the Rational Voter, 2007
+
 **Spis treści**
 
 1. [Wstęp](#Wst%C4%99p)

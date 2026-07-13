@@ -4,6 +4,11 @@ tags:
   - moc
   - socjologia
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Prawdopodobny 🧪
+status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-03 15:59
 ---
+[[MOC Dzieła socjologiczne]]
+[[MOC Socjolodzy]]
+
+# Koncepcje socjologiczne
+

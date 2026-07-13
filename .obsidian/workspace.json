@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Socjologia.md",
+                "file": "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Socjologia"
+              "title": "MOC Dzieła socjologiczne"
             }
           },
           {
@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,11 +268,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci"
+              "title": "Caplan Bryan, Mit racjonalnego wyborcy"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -408,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Socjologia.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Socjologia"
+              "title": "Konspekt Caplan Bryan, Mit racjonalnego wyborcy"
             }
           }
         ],
@@ -490,11 +490,15 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "2be362bbadb4db85",
+  "active": "1a584a7634fe7609",
   "lastOpenFiles": [
-    "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci.md",
+    "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
+    "02 MOC/MOC Socjologia.md",
+    "02 MOC/MOC Socjologia/MOC Socjolodzy.md",
+    "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Edukacja pod lupą.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Caplan Brayan, Otwarte granice.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Bastiat Frederic, Pamflety.md",
@@ -513,10 +517,6 @@
     "02 MOC/MOC Ekonomia/MOC Tezy MMT.md",
     "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Matematyka/MOC Definicje i wizje matematyki.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie matematyki.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia matematyki.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
-    "01 Input przejściowy/Matematyka/Matematycy/Historia matematyki.md",
-    "02 MOC/MOC Matematycy.md"
+    "02 MOC/MOC Filozofia/MOC Filozofowie matematyki.md"
   ]
 }
