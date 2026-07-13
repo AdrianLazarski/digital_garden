@@ -80,7 +80,8 @@
       "2026-07-03",
       "2026-07-06",
       "2026-07-07",
-      "2026-07-10"
+      "2026-07-10",
+      "2026-07-13"
     ],
     "dailyActivity": [
       {
@@ -7252,7 +7253,7 @@
       },
       {
         "date": "2026-07-12",
-        "filePath": "02 MOC/MOC Logika matematyczna.md",
+        "filePath": "02 MOC/Logika matematyczna.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -7274,10 +7275,26 @@
       },
       {
         "date": "2026-07-13",
-        "filePath": "02 MOC/MOC Logika matematyczna.md",
+        "filePath": "02 MOC/Logika matematyczna.md",
         "wordCountStart": 41,
         "charCountStart": 354,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:25",
+            "w": -1,
+            "c": -6
+          },
+          {
+            "timeKey": "12:30",
+            "w": 1,
+            "c": 17
+          },
+          {
+            "timeKey": "12:35",
+            "w": 270,
+            "c": 2534
+          }
+        ],
         "id": 636
       },
       {
@@ -7339,7 +7356,13 @@
         "filePath": "02 MOC/MOC Matematyka.md",
         "wordCountStart": 98,
         "charCountStart": 924,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:25",
+            "w": -1,
+            "c": -4
+          }
+        ],
         "id": 641
       },
       {

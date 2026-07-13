@@ -22,7 +22,7 @@ $\rightarrow$ [[MOC Dziedziny matematyki]]
 		$\rightarrow$ [[MOC Teoria informacji]]
 		$\rightarrow$ [[MOC Teoria gier]]
 	$\rightarrow$ [[MOC Podstawy matematyki]]
-		$\rightarrow$ [[MOC Logika matematyczna]]
+		$\rightarrow$ [[Logika matematyczna]]
 		$\rightarrow$ [[MOC Teoria mnogości]] (czasem zaliczana do powyższej, ale traktowana też osobno)
 		$\rightarrow$ [[MOC Metamatematyka]] (leżącą na pograniczu tej pierwszej)
 	$\rightarrow$ [[MOC Statystyka

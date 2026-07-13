@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Logika matematyczna.md",
+                "file": "02 MOC/Logika matematyczna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Logika matematyczna"
+              "title": "Logika matematyczna"
             }
           }
         ],
@@ -384,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Logika matematyczna.md",
+                "file": "02 MOC/Logika matematyczna.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Logika matematyczna"
+              "title": "Konspekt Logika matematyczna"
             }
           }
         ],
@@ -488,7 +488,7 @@
     "02 MOC/MOC Filozofia/MOC Syntaktyczne elementy języka.md",
     "02 MOC/MOC Filozofia/MOC Typy i struktury dowodów.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dowód niezałożeniowy.md",
-    "02 MOC/MOC Logika matematyczna.md",
+    "02 MOC/Logika matematyczna.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Funkcja prawdziwościowa.md",
     "03 Atomy/Leucyp z Miletu.md",
     "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
