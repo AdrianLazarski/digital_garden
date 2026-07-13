@@ -1,4 +1,14 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - recenzja
+  - ekonomia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Aksjomatyczny 💎
+modified date: 2026-07-13 20:26
+---
+  Ethics of redistribution, 1951
 
 Bertrand de Jouvenel to bardzo ciekawa postać. Socjalista, który został liberałem, by potem znów stać się socjalistą, a jeszcze później liberałem. Na tyle tęgi umysł, że Hayek zaprosił go do prestiżowego stowarzyszenia Mont Pelerin. Tytuł ruszyłem przypadkiem i ani trochę nie żałuję. Wyśmienita rzecz do polecania socjalistom.
 
@@ -7,7 +17,7 @@ W książce de Jouvenel nie kryje się z tym, że sympatyzuje z socjalizmem, ale
 Notatki:
 -Redystrybucja wymaga ona nieustannych korekt i co raz większego ograniczania wolności, gdyż działający na rynku ludzie nieustannie powodują zmiany w społecznej strukturze kapitałowej.
 
--R. może zniechęcić bogatych, ale może zachęcić klasę średnią do wzmożonego wysiłku, by utrzymywali swój poziom życia; jednakze argumentacja za wysiłkiem narodowym jest tak samo słaba jak arbitralną maksymalizacją zysku.
+-R. może zniechęcić bogatych, ale może zachęcić klasę średnią do wzmożonego wysiłku, by utrzymywali swój poziom życia; jednakże argumentacja za wysiłkiem narodowym jest tak samo słaba jak arbitralną maksymalizacją zysku.
 
 -Konsumpcja nie jest celem, a środkiem do celu jakim jest życie.
 
@@ -41,9 +51,8 @@ Notatki:
 
 -Każde umasowienie konsumpcji jakiegoś dobra poprzedzone było jego nierówną dystrybucją.
 
--Socjaluchy nie zwracają uwagi na zależność między ilością zakumulowanego kapitału, a postępem.
+-Socjaliści nie zwracają uwagi na zależność między ilością zakumulowanego kapitału, a postępem.
 
--Ile od czasów renesansu burżuje zrobili dla kultury - zdecydowanie więcej niż jakakolwiek knaga.
+-Ile od czasów renesansu burżuje zrobili dla kultury - zdecydowanie więcej niż jakiekolwiek państwo.
 
 
-#ekonomia #liberalizm

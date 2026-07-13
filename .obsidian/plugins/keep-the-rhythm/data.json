@@ -8350,6 +8350,16 @@
             "timeKey": "20:20",
             "w": 6,
             "c": 49
+          },
+          {
+            "timeKey": "20:25",
+            "w": 8,
+            "c": 66
+          },
+          {
+            "timeKey": "20:30",
+            "w": 11,
+            "c": 116
           }
         ],
         "id": 697
@@ -8693,6 +8703,81 @@
           }
         ],
         "id": 720
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Politologia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 21,
+            "c": 165
+          },
+          {
+            "timeKey": "20:25",
+            "w": 2,
+            "c": 24
+          }
+        ],
+        "id": 721
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 26,
+            "c": 206
+          }
+        ],
+        "id": 722
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/de Jouvenel Bertrand, Redystrybucja. Grabież czy ignorancja.md",
+        "wordCountStart": 517,
+        "charCountStart": 3773,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 23,
+            "c": 182
+          }
+        ],
+        "id": 723
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Epstein Alex, Przyszłość paliw kopalnych.md",
+        "wordCountStart": 286,
+        "charCountStart": 2104,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 35,
+            "c": 253
+          }
+        ],
+        "id": 724
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Foss, Klein, Organizowanie działania przedsiębiorczego.md",
+        "wordCountStart": 1106,
+        "charCountStart": 8811,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 17,
+            "c": 121
+          }
+        ],
+        "id": 725
       }
     ]
   }

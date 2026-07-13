@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 20:33
+---
 
 
 ## Wstęp
@@ -78,8 +87,3 @@ Neoklasyczna teoria firmy
 Coase
 - Wykazał, że firma jest w neoklasycznej teorii bezcelowa 149-150 str
 - Wymiany rynkowe czyli korzystanie z mechanizmu cen generują koszty transakcyjne: rozpoznawanie partnerów handlowych, negocjowanie warunków, sporządzanie i egzekucja umów. Można je obniżyć, organizując te zadania na poziomie firmy. To jednak generuje inne koszty transakcyjne: problemy przepływu informacji, zachęt, monitorowania i oceny wyników. Zatem o granicach firmy decydują krańcowe jednostki nakładów na wymianę wewnętrzna i zewnętrzną.
-
-
-
-
-#ekonomia #liberalizm #ase 

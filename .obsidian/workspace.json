@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Foss, Klein, Organizowanie działania przedsiębiorczego.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,7 +268,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Caplan Bryan, Mit racjonalnego wyborcy"
+              "title": "Foss, Klein, Organizowanie działania przedsiębiorczego"
             }
           }
         ],
@@ -408,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Foss, Klein, Organizowanie działania przedsiębiorczego.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Caplan Bryan, Mit racjonalnego wyborcy"
+              "title": "Konspekt Foss, Klein, Organizowanie działania przedsiębiorczego"
             }
           }
         ],
@@ -493,6 +493,11 @@
   "active": "1a584a7634fe7609",
   "lastOpenFiles": [
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Foss, Klein, Organizowanie działania przedsiębiorczego.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Epstein Alex, Przyszłość paliw kopalnych.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/de Jouvenel Bertrand, Redystrybucja. Grabież czy ignorancja.md",
+    "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md",
+    "02 MOC/MOC Politologia.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci.md",
     "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
@@ -512,11 +517,6 @@
     "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
     "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Bagus Phliip, Era Mileia.md",
-    "02 MOC/MOC Ekonomia.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Abelard Piotr, Rozprawa o pojęciach ogólnych.md",
-    "02 MOC/MOC Ekonomia/MOC Tezy MMT.md",
-    "02 MOC/MOC Matematyka.md",
-    "02 MOC/MOC Matematyka/MOC Definicje i wizje matematyki.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie matematyki.md"
+    "02 MOC/MOC Ekonomia.md"
   ]
 }
