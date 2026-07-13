@@ -224,12 +224,12 @@
             }
           },
           {
-            "id": "7b093fbd6a1991ce",
+            "id": "265628fb12521e1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
+                "file": "02 MOC/MOC Logika matematyczna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,11 +244,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Teoria mnogości"
+              "title": "MOC Logika matematyczna"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -384,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Matematyka.md",
+                "file": "02 MOC/MOC Logika matematyczna.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Matematyka"
+              "title": "Konspekt MOC Logika matematyczna"
             }
           }
         ],
@@ -466,11 +466,13 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "7bd36ba369006a12",
+  "active": "265628fb12521e1d",
   "lastOpenFiles": [
+    "02 MOC/MOC Matematyka.md",
+    "02 MOC/MOC Logika matematyczna.md",
+    "02 MOC/MOC Logika.md",
     "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
     "02 MOC/MOC Matematyka/MOC Algebra liniowa.md",
-    "02 MOC/MOC Matematyka.md",
     "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
     "03 Atomy/Leucyp z Miletu.md",
     "03 Atomy/Demokryt z Abdery.md",
@@ -491,8 +493,6 @@
     "02 MOC/MOC Ekonomia/MOC Krytyka postkeynesizmu.md",
     "02 MOC/MOC Ekonomia/MOC Teorie postkeynesistowskie.md",
     "02 MOC/MOC Ekonomia/MOC Ekonomiści postkeynesistowscy.md",
-    "02 MOC/MOC Ekonomia/MOC Postkeynesizm.md",
-    "02 MOC/MOC Ekonomia/MOC Keynesizm.md",
-    "02 MOC/MOC Ekonomia/MOC Krytyka keynesizmu.md"
+    "02 MOC/MOC Ekonomia/MOC Postkeynesizm.md"
   ]
 }
