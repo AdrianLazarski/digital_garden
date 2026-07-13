@@ -222,9 +222,33 @@
               "icon": "lucide-file",
               "title": "MOC Podstawy matematyki"
             }
+          },
+          {
+            "id": "19979dfada31744c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Matematyka/MOC Metamatematyka.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Metamatematyka"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -360,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
+                "file": "02 MOC/MOC Matematyka/MOC Metamatematyka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Podstawy matematyki"
+              "title": "Konspekt MOC Metamatematyka"
             }
           }
         ],
@@ -442,8 +466,11 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "12e8e814cac15135",
+  "active": "19979dfada31744c",
   "lastOpenFiles": [
+    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
+    "02 MOC/MOC Matematyka/MOC Metamatematyka.md",
+    "02 MOC/MOC Matematyka/MOC Teoria typów.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
     "02 MOC/MOC Matematyka/MOC Matematyka stosowana.md",
     "02 MOC/MOC Matematyka/MOC Teoria liczb.md",
@@ -460,15 +487,12 @@
     "02 MOC/MOC Matematyka/MOC Teoria informacji.md",
     "02 MOC/MOC Matematyka/MOC Teoria gier.md",
     "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
-    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
     "02 MOC/MOC Matematyka/MOC Matematyka dyskretna.md",
     "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
     "02 MOC/MOC Matematyka/MOC Algebra.md",
     "03 Atomy/Logika matematyczna.md",
     "02 MOC/MOC Logika.md",
     "02 MOC/MOC Filozofia/MOC Metodologia ogólna.md",
-    "02 MOC/MOC Filozofia/MOC Logika formalna.md",
-    "02 MOC/MOC Filozofia/MOC Semiotyka.md",
-    "02 MOC/MOC Filozofia/MOC Pragmatyka.md"
+    "02 MOC/MOC Filozofia/MOC Logika formalna.md"
   ]
 }

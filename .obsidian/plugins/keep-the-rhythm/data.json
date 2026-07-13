@@ -7732,8 +7732,13 @@
         "changes": [
           {
             "timeKey": "17:20",
-            "w": 2,
-            "c": 16
+            "w": -3,
+            "c": -21
+          },
+          {
+            "timeKey": "17:30",
+            "w": -1,
+            "c": -36
           }
         ],
         "id": 663
@@ -7945,6 +7950,34 @@
           }
         ],
         "id": 677
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Teoria typów.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 24,
+            "c": 202
+          }
+        ],
+        "id": 678
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Metamatematyka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 54,
+            "c": 465
+          }
+        ],
+        "id": 679
       }
     ]
   }
