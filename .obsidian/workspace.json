@@ -246,9 +246,57 @@
               "icon": "lucide-file",
               "title": "MOC Metamatematyka"
             }
+          },
+          {
+            "id": "4e9c19cd0431d566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Teoria.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Teoria"
+            }
+          },
+          {
+            "id": "4c13a93a0abc937d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Definicja.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Definicja"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -384,13 +432,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Metamatematyka.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Teoria.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Metamatematyka"
+              "title": "Konspekt Teoria"
             }
           }
         ],
@@ -466,10 +514,14 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "19979dfada31744c",
+  "active": "4e9c19cd0431d566",
   "lastOpenFiles": [
-    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Definicja.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Teoria.md",
     "02 MOC/MOC Matematyka/MOC Metamatematyka.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Teoria typów i rzędów.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Twierdzenie Gödla.md",
+    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
     "02 MOC/MOC Matematyka/MOC Teoria typów.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
     "02 MOC/MOC Matematyka/MOC Matematyka stosowana.md",
@@ -489,10 +541,6 @@
     "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
     "02 MOC/MOC Matematyka/MOC Matematyka dyskretna.md",
     "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
-    "02 MOC/MOC Matematyka/MOC Algebra.md",
-    "03 Atomy/Logika matematyczna.md",
-    "02 MOC/MOC Logika.md",
-    "02 MOC/MOC Filozofia/MOC Metodologia ogólna.md",
-    "02 MOC/MOC Filozofia/MOC Logika formalna.md"
+    "02 MOC/MOC Matematyka/MOC Algebra.md"
   ]
 }

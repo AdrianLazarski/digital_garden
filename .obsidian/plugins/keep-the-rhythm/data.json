@@ -7974,10 +7974,71 @@
           {
             "timeKey": "17:30",
             "w": 54,
-            "c": 465
+            "c": 457
           }
         ],
         "id": 679
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Twierdzenie Gödla.md",
+        "wordCountStart": 32,
+        "charCountStart": 231,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 20,
+            "c": 165
+          }
+        ],
+        "id": 680
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Teoria typów i rzędów.md",
+        "wordCountStart": 26,
+        "charCountStart": 215,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": -1,
+            "c": -21
+          },
+          {
+            "timeKey": "17:35",
+            "w": 26,
+            "c": 207
+          }
+        ],
+        "id": 681
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Teoria.md",
+        "wordCountStart": 91,
+        "charCountStart": 697,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 11,
+            "c": 76
+          }
+        ],
+        "id": 682
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Definicja.md",
+        "wordCountStart": 69,
+        "charCountStart": 527,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 25,
+            "c": 204
+          }
+        ],
+        "id": 683
       }
     ]
   }

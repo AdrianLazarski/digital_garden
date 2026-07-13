@@ -109797,33 +109797,6 @@
         "newlineCount": 31
       }
     },
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/załączniki/Pasted image 20240616141935.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304388603,
-      "modifiedDate": 1718540375573,
-      "sizeInBytes": 32607,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/załączniki/Pasted image 20240616140244.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -110341,20 +110314,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 31,
+      "wordCount": 29,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.10333333333333333,
-      "characterCount": 231,
-      "nonWhitespaceCharacterCount": 195,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 212,
+      "nonWhitespaceCharacterCount": 178,
       "newlineCount": 8,
-      "readingTimeInMinutes": 0.1169811320754717,
+      "readingTimeInMinutes": 0.10943396226415095,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304388179,
-      "modifiedDate": 1718537089118,
-      "sizeInBytes": 244,
+      "modifiedDate": 1783956847159,
+      "sizeInBytes": 413,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.10333333333333333,
@@ -110362,6 +110335,17 @@
         "characterCount": 231,
         "nonWhitespaceCharacterCount": 195,
         "newlineCount": 8
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "matematyka/metamatematyka"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-13 17:33"
       }
     },
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Teza.md.edtz": {
@@ -110503,20 +110487,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 85,
+      "wordCount": 80,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.2833333333333333,
-      "characterCount": 697,
-      "nonWhitespaceCharacterCount": 594,
+      "pageCount": 0.26666666666666666,
+      "characterCount": 623,
+      "nonWhitespaceCharacterCount": 525,
       "newlineCount": 20,
-      "readingTimeInMinutes": 0.32075471698113206,
+      "readingTimeInMinutes": 0.3018867924528302,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304388134,
-      "modifiedDate": 1763822763723,
-      "sizeInBytes": 725,
+      "modifiedDate": 1783957070652,
+      "sizeInBytes": 803,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2833333333333333,
@@ -110524,6 +110508,16 @@
         "characterCount": 697,
         "nonWhitespaceCharacterCount": 594,
         "newlineCount": 20
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-13 17:37"
       }
     },
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Teoria typów i rzędów.md.edtz": {
@@ -110557,20 +110551,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 25,
+      "wordCount": 27,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 215,
-      "nonWhitespaceCharacterCount": 181,
-      "newlineCount": 10,
-      "readingTimeInMinutes": 0.09433962264150944,
+      "pageCount": 0.09,
+      "characterCount": 217,
+      "nonWhitespaceCharacterCount": 178,
+      "newlineCount": 12,
+      "readingTimeInMinutes": 0.1018867924528302,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1772304388118,
-      "modifiedDate": 1718540386585,
-      "sizeInBytes": 224,
+      "modifiedDate": 1783956939236,
+      "sizeInBytes": 420,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.08333333333333333,
@@ -110578,6 +110572,17 @@
         "characterCount": 215,
         "nonWhitespaceCharacterCount": 181,
         "newlineCount": 10
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "matematyka/metamatematyka"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-13 17:35"
       }
     },
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Tautologia.md.edtz": {
@@ -113481,20 +113486,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 65,
+      "wordCount": 70,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.21666666666666667,
-      "characterCount": 527,
-      "nonWhitespaceCharacterCount": 443,
-      "newlineCount": 11,
-      "readingTimeInMinutes": 0.24528301886792453,
-      "linkCount": 0,
+      "pageCount": 0.23333333333333334,
+      "characterCount": 581,
+      "nonWhitespaceCharacterCount": 488,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.2641509433962264,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304387277,
-      "modifiedDate": 1718465719654,
-      "sizeInBytes": 556,
+      "modifiedDate": 1783957059112,
+      "sizeInBytes": 764,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.21666666666666667,
@@ -113502,6 +113507,16 @@
         "characterCount": 527,
         "nonWhitespaceCharacterCount": 443,
         "newlineCount": 11
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-13 17:36"
       }
     },
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dedukcja.md.edtz": {
@@ -132827,9 +132842,48 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 31,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 263,
+      "nonWhitespaceCharacterCount": 229,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.1169811320754717,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783956744753,
+      "modifiedDate": 1783956818665,
+      "sizeInBytes": 479,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-13 17:32",
+        "tags": [
+          "atom",
+          "definicja",
+          "moc",
+          "matematyka/metamatematyka"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-13 17:32"
+      }
+    },
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/załączniki/Teoria typów i rzędów.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
@@ -132837,10 +132891,10 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1783956744753,
-      "modifiedDate": 1783956744753,
-      "sizeInBytes": 0,
+      "aliases": [],
+      "createdDate": 1772304388603,
+      "modifiedDate": 1718540375573,
+      "sizeInBytes": 32607,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
