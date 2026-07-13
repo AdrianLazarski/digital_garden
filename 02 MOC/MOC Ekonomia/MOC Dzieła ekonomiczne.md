@@ -18,7 +18,7 @@ modified date: 2026-07-10 14:09
 [[Hayek, Denacjonalizacja pieniądza]], 1976
 [[Hülsmann Jörg Guido, Etyka produkcji pieniądza]], 2007
 [[Foss, Klein, Organizowanie działania przedsiębiorczego]], 2012
-
+[[Majcherek Janusz, Źródła bogactwa i biedy ludzi oraz ich zbiorowości]], 2022
 
 # Popularnonaukowe
 
@@ -33,3 +33,4 @@ modified date: 2026-07-10 14:09
 [[Caplan Brayan, Otwarte granice]], 2019
 [[Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii]], 2019
 [[Epstein Alex, Przyszłość paliw kopalnych]], 2022
+[[Kaiser Axel, Uliczny ekonomista]], 2022

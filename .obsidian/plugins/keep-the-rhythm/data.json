@@ -8390,6 +8390,11 @@
             "timeKey": "21:05",
             "w": 11,
             "c": 92
+          },
+          {
+            "timeKey": "21:20",
+            "w": 16,
+            "c": 121
           }
         ],
         "id": 697
@@ -8407,6 +8412,11 @@
           },
           {
             "timeKey": "20:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:20",
             "w": 0,
             "c": 0
           }
@@ -9022,6 +9032,86 @@
           }
         ],
         "id": 737
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/PAWS, Średniowieczne korzenie wolnego rynku.md",
+        "wordCountStart": 316,
+        "charCountStart": 2261,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 21,
+            "c": 168
+          }
+        ],
+        "id": 738
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
+        "wordCountStart": 22,
+        "charCountStart": 180,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 6,
+            "c": 55
+          },
+          {
+            "timeKey": "21:20",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 739
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Kaiser Axel, Uliczny ekonomista.md",
+        "wordCountStart": 115,
+        "charCountStart": 839,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 14,
+            "c": 97
+          },
+          {
+            "timeKey": "21:20",
+            "w": 694,
+            "c": 4861
+          }
+        ],
+        "id": 740
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Majcherek Janusz, Źródła bogactwa i biedy ludzi oraz ich zbiorowości.md",
+        "wordCountStart": 1134,
+        "charCountStart": 8711,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 19,
+            "c": 125
+          }
+        ],
+        "id": 741
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Burżuazyjna godność.md",
+        "wordCountStart": 159,
+        "charCountStart": 1184,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 19,
+            "c": 140
+          }
+        ],
+        "id": 742
       }
     ]
   }

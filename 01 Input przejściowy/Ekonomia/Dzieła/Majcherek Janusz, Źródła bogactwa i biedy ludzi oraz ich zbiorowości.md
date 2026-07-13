@@ -1,4 +1,13 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 21:21
+---
+2022 r.
 
 - Ludzie nie mają problemu ze stwierdzeniem, że uzdolnienie sportowe czy muzyczne ma podłoże genetyczne. Nie powinno więc ich dziwić, że takie podłoże ma też uzdolnienie przedsiębiorcze.
 - Różne badania wskazują na bliskość lub nawet tożsamość takich talentów jak kreatywność, przedsiębiorczość, czy innowacyjność.
@@ -67,4 +76,3 @@
 - "W wysoko zorganizowanych społeczeństwach władza polityczna służy stabilizacji, bezpieczeństwu i utrzymaniu istniejącego porządku. Nie jest więc zbyt odpowiednim organem do kierowania działalnością nastawioną na burzenie stabilności i bezpieczeństwa oraz na wprowadzanie zmian".
 
 
-#ekonomia #liberalizm #socjologia 

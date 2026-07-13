@@ -1,5 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+  - historia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-13 21:15
+---
 
-https://www.youtube.com/watch?v=qOr72lUQvsM
+https://www.youtube.com/watch?v=qOr72lUQvsM, 2012
 
 ## Mit wyzysku
 
@@ -24,4 +34,3 @@ https://www.youtube.com/watch?v=qOr72lUQvsM
 -W latach 1000-1492 w Europie zginęło 600k ludzi. Czyli tyle ile podczas 5 lat wojny secesyjnej.
 
 
-#ekonomia #historia
