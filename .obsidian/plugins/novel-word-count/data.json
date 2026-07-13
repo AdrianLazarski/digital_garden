@@ -132166,19 +132166,19 @@
         ]
       }
     },
-    "02 MOC/MOC Logika formalna.md": {
+    "02 MOC/MOC Filozofia/MOC Logika formalna.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 15,
+      "wordCount": 33,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 119,
-      "nonWhitespaceCharacterCount": 103,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.05660377358490566,
-      "linkCount": 4,
+      "pageCount": 0.11,
+      "characterCount": 280,
+      "nonWhitespaceCharacterCount": 241,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.12452830188679245,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783935110547,
@@ -132191,16 +132191,107 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Rodzaje logik.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 182,
+      "nonWhitespaceCharacterCount": 158,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783937124654,
+      "modifiedDate": 1783937171925,
+      "sizeInBytes": 350,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       },
       "frontmatter": {
-        "created": "2026-07-13 11:31",
+        "created": "2026-07-13 12:05",
         "tags": [
           "moc",
           "logika/formalna"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Aksjomatyczny 💎",
-        "modified date": "2026-07-13 11:31"
+        "modified date": "2026-07-13 12:05"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Typy i struktury dowodów.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 260,
+      "nonWhitespaceCharacterCount": 223,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783937183533,
+      "modifiedDate": 1783937257254,
+      "sizeInBytes": 438,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-13 12:06",
+        "tags": [
+          "moc",
+          "logika/formalna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-13 12:06"
+      }
+    },
+    "02 MOC/MOC Filozofia/MOC Syntaktyczne elementy języka.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783937260655,
+      "modifiedDate": 1783937260655,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

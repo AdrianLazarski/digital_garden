@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Logika formalna.md",
+                "file": "02 MOC/MOC Filozofia/MOC Syntaktyczne elementy języka.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Logika formalna"
+              "title": "MOC Syntaktyczne elementy języka"
             }
           },
           {
@@ -272,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -304,7 +304,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "funkcja prawdziwościowa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -325,8 +325,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -409,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Logika matematyczna.md",
+                "file": "02 MOC/MOC Filozofia/MOC Syntaktyczne elementy języka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Logika matematyczna"
+              "title": "Konspekt MOC Syntaktyczne elementy języka"
             }
           }
         ],
@@ -491,12 +490,16 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "265628fb12521e1d",
+  "active": "b17b314c3ed17216",
   "lastOpenFiles": [
-    "02 MOC/MOC Matematyka.md",
+    "02 MOC/MOC Filozofia/MOC Logika formalna.md",
+    "02 MOC/MOC Filozofia/MOC Syntaktyczne elementy języka.md",
+    "02 MOC/MOC Filozofia/MOC Typy i struktury dowodów.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dowód niezałożeniowy.md",
+    "02 MOC/MOC Filozofia/MOC Rodzaje logik.md",
     "02 MOC/MOC Logika matematyczna.md",
+    "02 MOC/MOC Matematyka.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Funkcja prawdziwościowa.md",
-    "02 MOC/MOC Logika formalna.md",
     "02 MOC/MOC Logika.md",
     "03 Atomy/Leucyp z Miletu.md",
     "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
@@ -514,10 +517,6 @@
     "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
     "02 MOC/MOC Ekonomia/MOC Teorie ASE.md",
     "02 MOC/MOC Ekonomia/MOC Krytyka ASE.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła ASE.md",
-    "02 MOC/MOC Ekonomia/MOC Ekonomiści ASE.md",
-    "03 Atomy/Historia ASE.md",
-    "02 MOC/MOC Ekonomia/MOC Krytyka postkeynesizmu.md",
-    "02 MOC/MOC Ekonomia/MOC Teorie postkeynesistowskie.md"
+    "02 MOC/MOC Ekonomia/MOC Dzieła ASE.md"
   ]
 }
