@@ -8325,6 +8325,16 @@
             "timeKey": "19:50",
             "w": 5,
             "c": 62
+          },
+          {
+            "timeKey": "19:55",
+            "w": 3,
+            "c": 30
+          },
+          {
+            "timeKey": "20:00",
+            "w": 2,
+            "c": 11
           }
         ],
         "id": 697
@@ -8353,6 +8363,11 @@
             "timeKey": "19:45",
             "w": 2,
             "c": 22
+          },
+          {
+            "timeKey": "19:55",
+            "w": 7,
+            "c": 52
           }
         ],
         "id": 699
@@ -8438,11 +8453,113 @@
         "changes": [
           {
             "timeKey": "19:50",
-            "w": 21,
-            "c": 167
+            "w": 23,
+            "c": 186
+          },
+          {
+            "timeKey": "19:55",
+            "w": 1,
+            "c": 5
+          },
+          {
+            "timeKey": "20:00",
+            "w": 6,
+            "c": 34
           }
         ],
         "id": 707
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "03 Atomy/Frédéric Bastiat.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:55",
+            "w": 26,
+            "c": 214
+          }
+        ],
+        "id": 708
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "03 Atomy/Frédéric Bastiat.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:55",
+            "w": 26,
+            "c": 214
+          }
+        ],
+        "id": 709
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia.md",
+        "wordCountStart": 33,
+        "charCountStart": 278,
+        "changes": [],
+        "id": 710
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+        "wordCountStart": 153,
+        "charCountStart": 1232,
+        "changes": [],
+        "id": 711
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
+        "wordCountStart": 21,
+        "charCountStart": 164,
+        "changes": [
+          {
+            "timeKey": "19:55",
+            "w": 3,
+            "c": 32
+          },
+          {
+            "timeKey": "20:00",
+            "w": 2,
+            "c": 11
+          }
+        ],
+        "id": 712
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
+        "wordCountStart": 21,
+        "charCountStart": 160,
+        "changes": [
+          {
+            "timeKey": "19:55",
+            "w": 3,
+            "c": 32
+          },
+          {
+            "timeKey": "20:00",
+            "w": 2,
+            "c": 11
+          }
+        ],
+        "id": 713
       }
     ]
   }

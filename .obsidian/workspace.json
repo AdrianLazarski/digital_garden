@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Koncepcje ASE.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Koncepcje ASE"
+              "title": "MOC Dzieła filozoficzne"
+            }
+          },
+          {
+            "id": "57d2f241f0f912b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła z zakresu filozofii prawa"
+            }
+          },
+          {
+            "id": "9928e1d2f85fded1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Nowożytna literatura filozoficzna (do 1900)"
             }
           },
           {
@@ -205,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Bastiat Frederic, Pamflety.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Ballve Faustino, Elementarz ekonomii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,11 +268,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bastiat Frederic, Pamflety"
+              "title": "Ballve Faustino, Elementarz ekonomii"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -360,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Bastiat Frederic, Pamflety.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Ballve Faustino, Elementarz ekonomii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Bastiat Frederic, Pamflety"
+              "title": "Konspekt Ballve Faustino, Elementarz ekonomii"
             }
           }
         ],
@@ -444,17 +492,22 @@
   },
   "active": "1a584a7634fe7609",
   "lastOpenFiles": [
-    "01 Input przejściowy/Ekonomia/Dzieła/Ballve Faustino, Elementarz ekonomii.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Bastiat Frederic, Pamflety.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
+    "02 MOC/MOC Filozofia.md",
+    "02 MOC/MOC Ekonomia/MOC Koncepcje ASE.md",
+    "03 Atomy/Frédéric Bastiat.md",
+    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Ballve Faustino, Elementarz ekonomii.md",
     "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Bagus Phliip, Era Mileia.md",
     "02 MOC/MOC Ekonomia.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Abelard Piotr, Rozprawa o pojęciach ogólnych.md",
     "02 MOC/MOC Ekonomia/MOC Tezy MMT.md",
-    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
-    "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
-    "02 MOC/MOC Ekonomia/MOC Koncepcje ASE.md",
     "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Matematyka/MOC Definicje i wizje matematyki.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie matematyki.md",
@@ -464,11 +517,6 @@
     "02 MOC/MOC Matematycy.md",
     "02 MOC/MOC Logika.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
-    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
-    "02 MOC/MOC Matematyka/MOC Metalogika.md",
-    "02 MOC/MOC Matematyka/MOC Teoria dowodu.md",
-    "02 MOC/MOC Matematyka/MOC Teoria modeli.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wynikanie logiczne.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Metalogika.md"
+    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md"
   ]
 }

@@ -4,19 +4,20 @@ tags:
   - ref
   - liberalizm
   - ekonomia
+  - filozofia/prawa
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 19:53
 ---
+[[Frédéric Bastiat]]
 
 
 
-
-## Rabunek a prawo
+# Rabunek a prawo, 1850
 
 - Jedno z wielu bastiatowych zaorań protekcjonizmu
 
-## Matura i socjalizm
+# Matura i socjalizm, 1850
 
 - Krytykuje stopnie uniwersyteckie za ujednolicenie naczania i narzucanie mu kierunku, a w nauce, która ze swej istoty ma być postępem, nie powinno być takiego konserwatyzmu.
 - Krytykuje studia klasyczne oparte na łacinie, porównujące je do uczenia współczesnych wojskowych strzelania z procy. 
@@ -49,24 +50,24 @@ modified date: 2026-07-13 19:53
 - Argumentem za podstawą programową jest często "jedność" tj. by wszyscy mieli wspólny punkt odniesienia przez uzyskanie identycznej edukacji. Ale przecież i tak ta podstawa programowa się zmienia i jedna "jedność" zastępuje drugą.
 - W swojej krytyce klasycznego nauczania powołuje się na św. Augustyna, który miał podobne przemyślenia w Wyznaniach.
 
-## Własność a prawo stanowione
+# Własność a prawo stanowione, 1848
 
 - ,,To nie dlatego, że istnieje prawo stanowione i jego ustawy, istnieje własność w jej różnych formach, ale dlatego, że istnieje ta własność – istnieje prawo stanowione".
 - "człowiek rodzi się właścicielem, gdyż rodzi się wraz ze swymi potrzebami, których zaspokajanie jest nieodzowne dla życia, wraz z organami i zdolnościami, których wykorzystywanie jest nieodzowne dla zaspokajania potrzeb. Te zdolności człowieka są tylko przedłużeniem jego osoby; własność jest tylko przedłużeniem jego zdolności, zdolności człowieka do wykorzystywania przyrody; własność jest niczym więcej, jak tylko przedłużeniem tych zdolności. Oddzielać człowieka od jego zdolności – to kazać mu umierać; oddzielać człowieka od produktów tych jego zdolności – to raz jeszcze kazać mu umierać". s. 122
 - Człowiek nie potrafi żyć bez zaspokajania swoich potrzeb. Nie może ich zaspokajać bez pracy i nie może pracować, jeśli nie ma pewności, że będzie mógł użyć owoców swojej pracy do zaspokojenia swoich potrzeb.
 - Panowanie przemocy rodzi wspólnotę oporu w postaci społeczeństwa, zawiązującego umowę społeczną. Prawo stanowione służu ochronie własności, więc ma swój początek w niej, a nie odwrotnie.
 
-## Sprawiedliwość a braterstwo
+# Sprawiedliwość a braterstwo, 1848
 
 - Socjaliści uważają, że społeczeństwo jest wytworem prawa stanowionego. W związku z tym jeśli liberałowie domagają się od prawa tylko sprawiedliwości, to socjaliści sądzą, że wykluczają oni braterstwo ze społeczeństwa.
 - str. 165: pisze że państwo z całkowicie wolnym handlem miałoby tak szerokie stosunki handlowe, że stanowiłoby to dla niego najlepszą obronę przed agresją obcych wojsk.
 - Postuluje jeden podatek, proporcjonalny do realizowanej własności, pobierany od rodziny i bez specjalnych kosztów ze strony władz samorządowych.
 - W imię braterstwa ludzie są w stanie postulować dosłownie wszystko, by zapewnić korzyści jakiejś grupie. Nawet jak większość czarnych scenariuszy się nie sprawdzi, to sama ich formalna możliwość jest tworzeniem niepewności, która szkodzi "pracy", przez którą Bastiat rozumie rozwój gospodarczy.
-- Argument za podstawą programową, jakoby chroniła ona przed uczeniem ludzi błędnych tez, jest słaby, ponieważ jednolitość i dekretowy charakter edukcji oznacza, że gdy wystąpi jakiś błąd, to jest on powszechny i praktycznie nie do wykorzenienia.
+- Argument za podstawą programową, jakoby chroniła ona przed uczeniem ludzi błędnych tez, jest słaby, ponieważ jednolitość i dekretowy charakter edukacji oznacza, że gdy wystąpi jakiś błąd, to jest on powszechny i praktycznie nie do wykorzenienia.
 - "Albo Państwo jest nieomylne, a zatem nie możemy uczynić nic lepszego, jak tylko poddać mu cały obszar życia umysłowego – albo nie jest nieomylne, a w tym wypadku nierozumne jest oddanie mu tak oświaty, jak prasy". str 179
 	- Prasa też służy kształceniu, a panuje w niej całkowita anarchia. Skoro nie ma jakiegoś ministerstwa prasy, kontrolującego cały rynek wydawniczy, to czemu ma być ministerstwo edukacji?
 
-## Własność a rabunek
+# Własność a rabunek, 1850
 
 - Użyteczność - wszystko co służy. Zarówno praca, jak i natura.
 - Wartość - porcja użyteczności, która pochodzi w danej rzeczy z pracy.
@@ -78,4 +79,4 @@ modified date: 2026-07-13 19:53
 - "Gdy widzę, jak Praca burzy się przeciw Kapitałowi, wydaje mi się, że widzę Wygłodzonego odmawiającego pożywienia".
 
 
-#ekonomia #liberalizm 
+Utopista, 1847

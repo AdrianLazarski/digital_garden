@@ -8,7 +8,9 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-10 14:02
 ---
-## Przed Adamem Smithem:
+[[MOC Dzieła z zakresu historii myśli ekonomicznej]]
+
+# Przed Adamem Smithem:
 
 [[Arystoteles]]: własność prywatna pozwala praktykować cnoty życzliwości i filantropii
 Mandeville i bajka o pszczołach
@@ -20,7 +22,7 @@ XVI-wieczni scholastycy: cena sprawiedliwa to cena rynkowa
 [[Étienne de Condillac]]
 
 
-## Od Adama Smitha
+# Od Adama Smitha
 
 [[Adam Smith]]
 	- 1776 r. wydanie Badań nad naturą i przyczynami bogactwa narodów. Umowny początek współczesnej ekonomii. Również rok ogłoszenia Deklaracji Niepodległości i śmierci Hume'a.

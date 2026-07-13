@@ -19,4 +19,4 @@ modified date: 2026-07-10 14:09
 # Popularnonaukowe
 
 [[Ballve Faustino, Elementarz ekonomii]]
-
+[[Bastiat Frederic, Pamflety]], 1848-1850
