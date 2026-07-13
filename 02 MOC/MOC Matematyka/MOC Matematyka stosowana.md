@@ -11,7 +11,7 @@ $\rightarrow$ [[MOC Teoria informacji]]
 $\rightarrow$ [[MOC Teoria gier]]
 [[MOC Statystyka]]
 [[MOC Teoria decyzji]]
-
+[[MOC Teoria układów dynamicznych]]
 
 
 $\leftarrow$ [[MOC Dziedziny matematyki]]

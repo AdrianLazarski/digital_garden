@@ -7637,6 +7637,16 @@
             "timeKey": "16:30",
             "w": 11,
             "c": 97
+          },
+          {
+            "timeKey": "17:00",
+            "w": 12,
+            "c": 75
+          },
+          {
+            "timeKey": "17:05",
+            "w": -4,
+            "c": -36
           }
         ],
         "id": 658
@@ -7656,6 +7666,16 @@
             "timeKey": "16:30",
             "w": 11,
             "c": 97
+          },
+          {
+            "timeKey": "17:00",
+            "w": 12,
+            "c": 75
+          },
+          {
+            "timeKey": "17:05",
+            "w": -4,
+            "c": -36
           }
         ],
         "id": 659
@@ -7720,6 +7740,11 @@
             "timeKey": "16:50",
             "w": 0,
             "c": 2
+          },
+          {
+            "timeKey": "17:05",
+            "w": 4,
+            "c": 35
           }
         ],
         "id": 665
@@ -7778,6 +7803,75 @@
           }
         ],
         "id": 669
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Geometria.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 20,
+            "c": 159
+          }
+        ],
+        "id": 670
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Propabilistyka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 22,
+            "c": 195
+          }
+        ],
+        "id": 671
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "03 Atomy/Prawdopodobieństwo.md",
+        "wordCountStart": 40,
+        "charCountStart": 340,
+        "changes": [],
+        "id": 672
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Topologia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 21,
+            "c": 167
+          }
+        ],
+        "id": 673
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Teoria układów dynamicznych.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 24,
+            "c": 182
+          },
+          {
+            "timeKey": "17:05",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 674
       }
     ]
   }

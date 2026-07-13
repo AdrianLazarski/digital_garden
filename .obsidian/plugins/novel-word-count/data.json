@@ -62268,20 +62268,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 80,
+      "wordCount": 75,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.26666666666666666,
-      "characterCount": 706,
-      "nonWhitespaceCharacterCount": 602,
-      "newlineCount": 34,
-      "readingTimeInMinutes": 0.3018867924528302,
-      "linkCount": 12,
+      "pageCount": 0.25,
+      "characterCount": 667,
+      "nonWhitespaceCharacterCount": 568,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 0.2830188679245283,
+      "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304403851,
-      "modifiedDate": 1783953262732,
-      "sizeInBytes": 785,
+      "modifiedDate": 1783954838553,
+      "sizeInBytes": 864,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2966666666666667,
@@ -62291,10 +62291,14 @@
         "newlineCount": 35
       },
       "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
         "tags": [
-          "#moc",
-          "#matematyka"
-        ]
+          "moc",
+          "matematyka"
+        ],
+        "modified date": "2026-07-13 17:00"
       }
     },
     "02 MOC/MOC Matematyka/MOC Działania na zbiorach.md.edtz": {
@@ -132518,16 +132522,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783954741545,
-      "modifiedDate": 1783954741545,
-      "sizeInBytes": 0,
+      "modifiedDate": 1783954766179,
+      "sizeInBytes": 186,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -132535,6 +132539,163 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-13 16:59",
+        "tags": [
+          "moc",
+          "matematyka/stosowana/teoria_decyzji"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-13 16:59"
+      }
+    },
+    "02 MOC/MOC Matematyka/MOC Geometria.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783954844457,
+      "modifiedDate": 1783954863831,
+      "sizeInBytes": 163,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-13 17:00",
+        "tags": [
+          "matematyka/geometria"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-13 17:00"
+      }
+    },
+    "02 MOC/MOC Matematyka/MOC Propabilistyka.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 24,
+      "nonWhitespaceCharacterCount": 22,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783954874034,
+      "modifiedDate": 1783954899293,
+      "sizeInBytes": 200,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-13 17:01",
+        "tags": [
+          "moc",
+          "matematyka/propabilistyka"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-13 17:01"
+      }
+    },
+    "02 MOC/MOC Matematyka/MOC Topologia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783954913211,
+      "modifiedDate": 1783954940519,
+      "sizeInBytes": 171,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-13 17:01",
+        "tags": [
+          "matematyka/topologia",
+          "moc"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-13 17:01"
+      }
+    },
+    "02 MOC/MOC Matematyka/MOC Teoria układów dynamicznych.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 25,
+      "nonWhitespaceCharacterCount": 19,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783954947468,
+      "modifiedDate": 1783954977029,
+      "sizeInBytes": 186,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-13 17:02",
+        "tags": [
+          "moc",
+          "matematyka/dy"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-13 17:02"
       }
     }
   }

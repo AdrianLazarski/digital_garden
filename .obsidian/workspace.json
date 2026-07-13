@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Matematyka.md",
+                "file": "02 MOC/MOC Matematyka/MOC Matematyka stosowana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Matematyka"
+              "title": "MOC Matematyka stosowana"
             }
           },
           {
@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
+                "file": "02 MOC/MOC Matematyka/MOC Teoria układów dynamicznych.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dziedziny matematyki"
+              "title": "MOC Teoria układów dynamicznych"
             }
           }
         ],
@@ -384,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
+                "file": "02 MOC/MOC Matematyka/MOC Teoria układów dynamicznych.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Dziedziny matematyki"
+              "title": "Konspekt MOC Teoria układów dynamicznych"
             }
           }
         ],
@@ -468,13 +468,18 @@
   },
   "active": "12e8e814cac15135",
   "lastOpenFiles": [
-    "02 MOC/MOC Matematyka/MOC Teoria decyzji.md",
     "02 MOC/MOC Matematyka/MOC Matematyka stosowana.md",
+    "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
+    "02 MOC/MOC Matematyka.md",
+    "02 MOC/MOC Matematyka/MOC Teoria układów dynamicznych.md",
+    "02 MOC/MOC Matematyka/MOC Topologia.md",
+    "02 MOC/MOC Matematyka/MOC Propabilistyka.md",
+    "03 Atomy/Prawdopodobieństwo.md",
+    "02 MOC/MOC Matematyka/MOC Geometria.md",
+    "02 MOC/MOC Matematyka/MOC Teoria decyzji.md",
     "02 MOC/MOC Matematyka/MOC Statystyka.md",
     "02 MOC/MOC Matematyka/MOC Teoria informacji.md",
-    "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
     "02 MOC/MOC Matematyka/MOC Teoria gier.md",
-    "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
     "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
     "02 MOC/MOC Matematyka/MOC Matematyka dyskretna.md",
@@ -488,11 +493,6 @@
     "02 MOC/MOC Filozofia/MOC Pragmatyka.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Pragmatyka/Pragmatyka.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Pragmatyka.md",
-    "02 MOC/MOC Filozofia/MOC Semantyka.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Semantyka.md",
-    "02 MOC/MOC Filozofia/MOC Składnia.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Składnia.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Logika.md",
-    "02 MOC/MOC Filozofia/MOC Rodzaje logik.md"
+    "02 MOC/MOC Filozofia/MOC Semantyka.md"
   ]
 }
