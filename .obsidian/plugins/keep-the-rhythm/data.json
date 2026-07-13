@@ -7253,7 +7253,7 @@
       },
       {
         "date": "2026-07-12",
-        "filePath": "02 MOC/Logika matematyczna.md",
+        "filePath": "03 Atomy/Logika matematyczna.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -7275,7 +7275,7 @@
       },
       {
         "date": "2026-07-13",
-        "filePath": "02 MOC/Logika matematyczna.md",
+        "filePath": "03 Atomy/Logika matematyczna.md",
         "wordCountStart": 41,
         "charCountStart": 354,
         "changes": [
@@ -7293,6 +7293,16 @@
             "timeKey": "12:35",
             "w": 270,
             "c": 2534
+          },
+          {
+            "timeKey": "16:15",
+            "w": 0,
+            "c": -41
+          },
+          {
+            "timeKey": "16:20",
+            "w": 25,
+            "c": 60
           }
         ],
         "id": 636
@@ -7361,6 +7371,11 @@
             "timeKey": "12:25",
             "w": -1,
             "c": -4
+          },
+          {
+            "timeKey": "16:25",
+            "w": -70,
+            "c": -706
           }
         ],
         "id": 641
@@ -7606,6 +7621,106 @@
           }
         ],
         "id": 657
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
+        "wordCountStart": 95,
+        "charCountStart": 851,
+        "changes": [
+          {
+            "timeKey": "16:25",
+            "w": -20,
+            "c": -200
+          },
+          {
+            "timeKey": "16:30",
+            "w": 11,
+            "c": 97
+          }
+        ],
+        "id": 658
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
+        "wordCountStart": 95,
+        "charCountStart": 851,
+        "changes": [
+          {
+            "timeKey": "16:25",
+            "w": -20,
+            "c": -200
+          },
+          {
+            "timeKey": "16:30",
+            "w": 11,
+            "c": 97
+          }
+        ],
+        "id": 659
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Algebra.md",
+        "wordCountStart": 91,
+        "charCountStart": 744,
+        "changes": [],
+        "id": 660
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
+        "wordCountStart": 132,
+        "charCountStart": 1387,
+        "changes": [],
+        "id": 661
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Matematyka dyskretna.md",
+        "wordCountStart": 31,
+        "charCountStart": 225,
+        "changes": [],
+        "id": 662
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
+        "wordCountStart": 60,
+        "charCountStart": 506,
+        "changes": [],
+        "id": 663
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
+        "wordCountStart": 159,
+        "charCountStart": 1395,
+        "changes": [],
+        "id": 664
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Matematyka stosowana.md",
+        "wordCountStart": 33,
+        "charCountStart": 281,
+        "changes": [],
+        "id": 665
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Teoria gier.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 24,
+            "c": 202
+          }
+        ],
+        "id": 666
       }
     ]
   }
