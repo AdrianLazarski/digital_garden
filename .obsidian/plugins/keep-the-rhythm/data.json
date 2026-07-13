@@ -2683,7 +2683,7 @@
       },
       {
         "date": "2026-07-02",
-        "filePath": "01 Input przejściowy/Matematyka/Działy/Statystyka/Statystyka.md",
+        "filePath": "02 MOC/MOC Matematyka/MOC Statystyka.md",
         "wordCountStart": 219,
         "charCountStart": 1998,
         "changes": [],
@@ -7705,7 +7705,23 @@
         "filePath": "02 MOC/MOC Matematyka/MOC Matematyka stosowana.md",
         "wordCountStart": 33,
         "charCountStart": 281,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 4,
+            "c": 38
+          },
+          {
+            "timeKey": "16:45",
+            "w": 1,
+            "c": 4
+          },
+          {
+            "timeKey": "16:50",
+            "w": 0,
+            "c": 2
+          }
+        ],
         "id": 665
       },
       {
@@ -7721,6 +7737,47 @@
           }
         ],
         "id": 666
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Teoria informacji.md",
+        "wordCountStart": 31,
+        "charCountStart": 278,
+        "changes": [],
+        "id": 667
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Statystyka.md",
+        "wordCountStart": 219,
+        "charCountStart": 1998,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": 23,
+            "c": 190
+          },
+          {
+            "timeKey": "16:50",
+            "w": -2,
+            "c": -20
+          }
+        ],
+        "id": 668
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Teoria decyzji.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:55",
+            "w": 22,
+            "c": 182
+          }
+        ],
+        "id": 669
       }
     ]
   }

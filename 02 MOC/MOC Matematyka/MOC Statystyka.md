@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - definicja
+  - moc
+  - matematyka/stosowana/statystyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Aksjomatyczny 💎
+modified date: 2026-07-13 16:49
+---
+
+
 z łac. statisticus, „polityczny, dot. polityki”, od status, „państwo, stan”
 
 1. Zbiór danych liczbowych charakteryzujących określone zjawisko.
@@ -38,4 +50,3 @@ Statystyka dzieli się na 2 działy:
 
 
 
-#statystyka #matematyka 
