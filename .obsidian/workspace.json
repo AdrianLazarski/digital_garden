@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
+                "file": "02 MOC/MOC Socjologia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Historia myśli ekonomicznej"
+              "title": "MOC Socjologia"
             }
           },
           {
@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Ballve Faustino, Elementarz ekonomii.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,11 +268,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ballve Faustino, Elementarz ekonomii"
+              "title": "Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -408,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Ballve Faustino, Elementarz ekonomii.md",
+                "file": "02 MOC/MOC Socjologia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Ballve Faustino, Elementarz ekonomii"
+              "title": "Konspekt MOC Socjologia"
             }
           }
         ],
@@ -490,19 +490,22 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "1a584a7634fe7609",
+  "active": "2be362bbadb4db85",
   "lastOpenFiles": [
-    "01 Input przejściowy/Ekonomia/Dzieła/Bastiat Frederic, Pamflety.md",
+    "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Edukacja pod lupą.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Caplan Brayan, Otwarte granice.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Bastiat Frederic, Pamflety.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Ballve Faustino, Elementarz ekonomii.md",
     "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Ekonomia/MOC Koncepcje ASE.md",
     "03 Atomy/Frédéric Bastiat.md",
     "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Ballve Faustino, Elementarz ekonomii.md",
     "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Bagus Phliip, Era Mileia.md",
     "02 MOC/MOC Ekonomia.md",
@@ -514,9 +517,6 @@
     "02 MOC/MOC Filozofia/MOC Filozofia matematyki.md",
     "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
     "01 Input przejściowy/Matematyka/Matematycy/Historia matematyki.md",
-    "02 MOC/MOC Matematycy.md",
-    "02 MOC/MOC Logika.md",
-    "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
-    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md"
+    "02 MOC/MOC Matematycy.md"
   ]
 }

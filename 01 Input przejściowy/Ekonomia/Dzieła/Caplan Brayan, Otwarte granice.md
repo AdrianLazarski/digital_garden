@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - ref
+  - liberalizm
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 20:06
+---
+Open Borders: The Science and Ethics of Immigration, 2019
+
 
 - Prawdopodobieństwo zginięcia w zamachu terrorystycznym jest mniejsze, niż uderzenie przez pioruna. Ale już całkiem porównywalne do urodzenia dziecka w wyniku czynu zabronionego. Czy zwolennik otwartych granic pozwoli niechcianemu dziecku z gwałtu przekroczyć granicę ciała matki, czy padną strzały z wieżyczki strażniczej?
 - Pozytywna migracja: Ukraińcy, Hindusi, Wietnamczycy.
@@ -38,5 +50,3 @@
 - Jest mapa porównująca odsetek Brytyjczyków urodzonych za granicą z odsetkiem głosującym za Brexitem. Caplan sugeruje, że kolory są zupełnie odwrotne i najbardziej przeciwne imigrantom są osoby, mające z nimi najmniejszą styczność, ale wcale nie dla każdej jednostki administracyjnej można odczytać taką zależność i to jednak trywializowanie Brexitu.
 
 
-
-#ekonomia #liberalizm 

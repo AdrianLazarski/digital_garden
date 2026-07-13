@@ -1,4 +1,14 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - recenzja
+  - ref
+  - ekonomia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 20:08
+---
+_The Case Against Education_, 2018
 
 Uprzejmie dziękuję wydawnictwu Fijorr za dostarczenie mi tej książki do recenzji. Temat edukacji zawsze żywo mnie interesował i bardzo wiele wskazuje, że jakąkolwiek naprawę społeczeństwa należałoby zacząć od całkowitego zaorania pruskiego modelu szkolnictwa, kładącego nacisk na posłuszeństwo, a nie na jakieś realne kształcenie intelektualne. Takiego kierunku rozważań spodziewałem się od Caplana i trochę się przeliczyłem, choć niekoniecznie zawiodłem. Dostałem trochę coś innego, niż się spodziewałem, ale równie wartościowego.
 
@@ -19,4 +29,3 @@ W każdym razie autor, jako wieloletni wykładowca akademicki i ojciec kilkorga 
 8/10
 
 
-#ekonomia #liberalizm 

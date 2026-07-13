@@ -18,5 +18,8 @@ modified date: 2026-07-10 14:09
 
 # Popularnonaukowe
 
-[[Ballve Faustino, Elementarz ekonomii]]
+[[Ballve Faustino, Elementarz ekonomii]], 1956
 [[Bastiat Frederic, Pamflety]], 1848-1850
+[[Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci]], 2011
+[[Caplan Bryan, Edukacja pod lupą]], 2018
+[[Caplan Brayan, Otwarte granice]], 2019

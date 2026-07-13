@@ -8335,6 +8335,16 @@
             "timeKey": "20:00",
             "w": 2,
             "c": 11
+          },
+          {
+            "timeKey": "20:05",
+            "w": 6,
+            "c": 47
+          },
+          {
+            "timeKey": "20:10",
+            "w": 15,
+            "c": 108
           }
         ],
         "id": 697
@@ -8463,8 +8473,13 @@
           },
           {
             "timeKey": "20:00",
-            "w": 6,
-            "c": 34
+            "w": 1085,
+            "c": 7779
+          },
+          {
+            "timeKey": "20:05",
+            "w": 93,
+            "c": 467
           }
         ],
         "id": 707
@@ -8560,6 +8575,61 @@
           }
         ],
         "id": 713
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Brayan, Otwarte granice.md",
+        "wordCountStart": 1279,
+        "charCountStart": 8960,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 28,
+            "c": 203
+          }
+        ],
+        "id": 714
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Edukacja pod lupą.md",
+        "wordCountStart": 953,
+        "charCountStart": 6738,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 19,
+            "c": 143
+          },
+          {
+            "timeKey": "20:10",
+            "w": 5,
+            "c": 34
+          }
+        ],
+        "id": 715
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci.md",
+        "wordCountStart": 586,
+        "charCountStart": 3955,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 1108,
+            "c": 7637
+          }
+        ],
+        "id": 716
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Socjologia.md",
+        "wordCountStart": 20,
+        "charCountStart": 157,
+        "changes": [],
+        "id": 717
       }
     ]
   }
