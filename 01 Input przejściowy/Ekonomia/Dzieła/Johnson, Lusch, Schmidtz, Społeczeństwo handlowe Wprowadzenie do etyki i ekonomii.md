@@ -3,14 +3,53 @@ created: 2026-02-28 19:46
 tags:
   - ekonomia
   - liberalizm
-  - filozofia/etyka
   - ref
   - filozofia/polityki
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 21:01
 ---
+  Commercial Society: A Primer on Ethics and Economics, 2019
+**Spis treści**
 
+1. [I Etyka](#I%20Etyka)
+	1. [Etyka, gospodarka, przedsiębiorczość](#Etyka,%20gospodarka,%20przedsi%C4%99biorczo%C5%9B%C4%87)
+	2. [Dlaczego etyka?](#Dlaczego%20etyka?)
+	3. [Dlaczego gospodarka?](#Dlaczego%20gospodarka?)
+	4. [Dlaczego przedsiębiorczość?](#Dlaczego%20przedsi%C4%99biorczo%C5%9B%C4%87?)
+	5. [Handel](#Handel)
+	6. [Zasoby](#Zasoby)
+	7. [Koszt](#Koszt)
+	8. [Instytucje](#Instytucje)
+	9. [Wartość](#Warto%C5%9B%C4%87)
+2. [II Postęp](#II%20Post%C4%99p)
+	1. [Adam Smith o postępie](#Adam%20Smith%20o%20post%C4%99pie)
+	2. [Koszty transakcyjne i postęp](#Koszty%20transakcyjne%20i%20post%C4%99p)
+	3. [Handel i postęp](#Handel%20i%20post%C4%99p)
+	4. [13 Granica możliwości produkcyjnych](#13%20Granica%20mo%C5%BCliwo%C5%9Bci%20produkcyjnych)
+3. [III Rozumienie handlu](#III%20Rozumienie%20handlu)
+	1. [17 Podział pracy](#17%20Podzia%C5%82%20pracy)
+	2. [18 Kupujący](#18%20Kupuj%C4%85cy)
+	3. [19 Sprzedający](#19%20Sprzedaj%C4%85cy)
+	4. [23](#23)
+4. [IV Zaufanie, pośrednictwo i osoby trzecie](#IV%20Zaufanie,%20po%C5%9Brednictwo%20i%20osoby%20trzecie)
+	1. [27 Teoria przełożonego-agenta](#27%20Teoria%20prze%C5%82o%C5%BConego-agenta)
+	2. [28 Koszt dla osób trzecich](#28%20Koszt%20dla%20os%C3%B3b%20trzecich)
+	3. [30 Logika dóbr wspólnych](#30%20Logika%20d%C3%B3br%20wsp%C3%B3lnych)
+	4. [31 Tragedie środowiskowe](#31%20Tragedie%20%C5%9Brodowiskowe)
+	5. [32 Własność](#32%20W%C5%82asno%C5%9B%C4%87)
+	6. [33 Działki](#33%20Dzia%C5%82ki)
+	7. [34 Własność komunalna](#34%20W%C5%82asno%C5%9B%C4%87%20komunalna)
+	8. [35 Zaufanie](#35%20Zaufanie)
+	9. [37 Siła rynkowa](#37%20Si%C5%82a%20rynkowa)
+	10. [38 Siła monopolowa](#38%20Si%C5%82a%20monopolowa)
+5. [V Zarządzanie społeczeństwem handlowym](#V%20Zarz%C4%85dzanie%20spo%C5%82ecze%C5%84stwem%20handlowym)
+	1. [47 Pomiar poziomu cen](#47%20Pomiar%20poziomu%20cen)
+	2. [50 Teoria wyboru publicznego](#50%20Teoria%20wyboru%20publicznego)
+6. [Recenzja](#Recenzja)
+
+
+# I Etyka
 
 ## Etyka, gospodarka, przedsiębiorczość
 
@@ -98,7 +137,7 @@ modified date: 2026-07-13 21:01
 - Nie kupujemy 100 butelek wody po złotówce, bo spada ich wartość krańcowa dla nas.
 - Jeśli kupiłem kartę miejską na 3 miesiące, to koszt całkowity komunikacji to dla mnie 250 zł. Z kolei koszt krańcowy pojedynczego przejazdu, gdy posiadam już tę kartę, wynosi 0 zł.
 
-# Postęp
+# II Postęp
 
 - Nie da się dowieść, że twoje życie będzie szczęśliwsze, jeśli będziesz żył osiemdziesiąt lat, a nie czterdzieści. Ale jest możliwość, że będzie.
 

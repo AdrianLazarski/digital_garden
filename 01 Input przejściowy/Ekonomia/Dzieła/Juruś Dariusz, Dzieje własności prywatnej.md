@@ -1,3 +1,27 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+  - filozofia/historia_filozofii
+  - filozofia/prawa
+  - filozofia/polityki
+  - historia/nauki/ekonomii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 21:07
+---
+2014 r.
+
+**Spis treści**
+
+1. [Ksenofont](#Ksenofont)
+2. [Platon](#Platon)
+3. [Arystoteles](#Arystoteles)
+4. [Tomasz z Akwinu](#Tomasz%20z%20Akwinu)
+5. [Hobbes](#Hobbes)
+6. [James Buchanan](#James%20Buchanan)
+7. [Recenzja](#Recenzja)
 
 
 - Własność zawsze ma u podstaw jakąś koncepcję natury człowieka i służy tej realizacji. Dla jednych ma służyć cnotliwemu życiu (Platon, Arystoteles, św. Tomasz), dla innych bezpieczeństwu (Hume, Bentham); emanacji ludzkiej wolności (Kant, Buchanan) lub osobowości (Hegel).
@@ -89,7 +113,20 @@
 - Własność prywatna umożliwia świadczenie usług samemu sobie np. usługi transportowej.
 
 
+# Recenzja
+
+Dzieje własności prywatnej: Od starożytności do współczesności, to wybór tekstów dokonany przez profesora Uniwersytetu Jagiellońskiego Dariusza Jurusia i opatrzony jego wstępem. Na tę publikację składają się fragmenty najważniejszych prac w historii ludzkiej myśli politycznej i prawnej na temat pojęcia i instytucji własności prywatnej. Każdy rozdział zawiera teksty źródłowe, poprzedzone notką biograficzną, skrótowym przybliżeniem najważniejszych idei danego myśliciela oraz listą jego najważniejszych publikacji.  
+  
+Wśród filozofów, omówionych w książce, znajdują się: Ksenofont, Platon, Arystoteles, Tomasz z Akwinu, Hugo Grocjusz, Thomas Hobbes, John Locke, David Hume, Immanuel Kant, Georg Hegel, Pierre Proudhon, Karol Marks, Frederic Bastiat, Max Stirner, Jeremy Bentham, Lysander Spooner, Ludwig von Mises, Murray Rothbard, Hans Herman Hoppe i James Buchanan.  
+  
+Autor zwraca uwagę, że idea własności, czy to prywatnej, czy wspólnej, zawsze ma u swoich podstaw jakąś koncepcję antropologiczną, czyli wizję tego, czym jest człowiek jako taki. Stąd chęć zrozumienia różnych spojrzeń na pojęcie własności, wymaga zrozumienia różnych kontekstów, w których są one osadzone. Przykładowo, inaczej będą patrzeć na własność myśliciele przekonani, że własność jest owocem prawa państwowego (np. Hobbes),a inaczej tacy, którzy sądzą, że własność jest czymś naturalnym dla człowieka i poprzedza ona tak złożone struktury społeczne, jak państwowość (np. Locke).  
+  
+Sama koncepcja własności nie tylko jest konsekwencją jakiejś idei, ale i obfituje w konsekwencje. I tak, o ile jeszcze dla Ksenofonta własność jest dość neutralnym pojęciem, oznaczającym po prostu pewną relację (obojętna jest dla niego różnica między posiadaniem krowy, a „posiadaniem” wroga czy przyjaciela),tak współcześni mu Platon i Arystoteles dostrzegają już we własności wymiar moralny. Przy czym, o ile pierwszy z tych dwóch widział w prywatnym posiadaniu dóbr zagrożenie, pobudzające chciwość i odciągające uwagę od dbania o duszę i zdrowie fizyczne, tak drugi dostrzegał w prywatnej własności podstawę dla takich cnót, jak hojność czy powściągliwość. Niestety Arystoteles przekazał nam też błędną wizję pożyczania pieniędzy na procent, nazywając je lichwą i potępiając. Motyw ten będzie się powtarzał przez całe średniowiecze, tracąc w końcu na sile, ale nie zniknie całkowicie aż do dzisiaj.  
+  
+Ciekawsze jednak może wydawać się to, co było po średniowieczu. W XVII wieku John Locke stworzył wpływową koncepcję pierwotnego zawłaszczenia. Głosi ona, że ludzie ustanowili i zdobyli pierwszą własność, gdy wykonali pracę nad jakimiś dobrami naturalnymi np. osoba zrywająca owoce z drzew stała się ich właścicielem, bo wykonała pracę zbieracza, a osoba, która ociosała kamień, stała się właścicielem powstałego w ten sposób prymitywnego narzędzia, bo wykonała pracę rzemieślnika.  
+  
+Myśl tę rozwinie i posunie do skrajności w XX wieku Murray Rothbard. W przeciwieństwie do Platona, we własności widział instytucję do zapobiegania konfliktom. Toteż nie tylko będzie twierdził za Lockiem, że własność prywatna poprzedza państwo, ale także, dojdzie do wniosku, że nie potrzebuje zupełnie państwa do jej ochrony – tym bardziej, że państwo samo jest zawsze, zdaniem Rothbarda, największym agresorem, naruszającym własność jednostek poprzez nakładanie na nie podatków.  
+  
+Zanim doszło do tak daleko posuniętej aprobaty dla prywatnego posiadania dóbr i stwierdzenia ich legalności na gruncie prawa naturalnego, spotkać też można było myślicieli postulujących całkowite zniesienie własności prywatnej, czy też jakichś jej przejawów, toteż w książce znajdują się też teksty anarchistów, czy komunistów. O ile sam autor ma sympatie libertariańskie i liberalne, o tyle zbiór ten jest tak uniwersalny, że zaspokoi potrzeby najróżniej usytuowanych politycznie czytelników.
 
 
-
-#ekonomia #liberalizm #filozofia #historia/ekonomii #filozofia/historia_filozofii 

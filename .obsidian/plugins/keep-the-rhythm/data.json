@@ -8385,6 +8385,11 @@
             "timeKey": "21:00",
             "w": 1,
             "c": 6
+          },
+          {
+            "timeKey": "21:05",
+            "w": 11,
+            "c": 92
           }
         ],
         "id": 697
@@ -8623,6 +8628,11 @@
             "timeKey": "20:00",
             "w": 2,
             "c": 11
+          },
+          {
+            "timeKey": "21:10",
+            "w": 6,
+            "c": 52
           }
         ],
         "id": 713
@@ -8936,11 +8946,82 @@
         "changes": [
           {
             "timeKey": "21:00",
-            "w": 517,
-            "c": 3853
+            "w": 529,
+            "c": 3927
+          },
+          {
+            "timeKey": "21:05",
+            "w": 378,
+            "c": 1911
           }
         ],
         "id": 733
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+        "wordCountStart": 21,
+        "charCountStart": 165,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 11,
+            "c": 93
+          },
+          {
+            "timeKey": "21:10",
+            "w": 6,
+            "c": 51
+          }
+        ],
+        "id": 734
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Juruś Dariusz, Dzieje własności prywatnej.md",
+        "wordCountStart": 1215,
+        "charCountStart": 8746,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 22,
+            "c": 175
+          },
+          {
+            "timeKey": "21:10",
+            "w": 562,
+            "c": 4084
+          }
+        ],
+        "id": 735
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
+        "wordCountStart": 22,
+        "charCountStart": 174,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 12,
+            "c": 108
+          }
+        ],
+        "id": 736
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
+        "wordCountStart": 17839,
+        "charCountStart": 128980,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 29,
+            "c": 218
+          }
+        ],
+        "id": 737
       }
     ]
   }

@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - ref
+  - historia/nauki/ekonomii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 21:12
+---
+The Making of Modern Economics, 2001
+
 **Spis treści**
 
 [Rozdział 1](#Rozdzia%C5%82%201)

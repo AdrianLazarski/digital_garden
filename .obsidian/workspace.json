@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "2be362bbadb4db85",
+            "id": "a62f3e177d0bb340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła socjologiczne"
+              "title": "MOC Dzieła z zakresu historii myśli ekonomicznej"
             }
           },
           {
-            "id": "0a8bcdac06a28e01",
+            "id": "cda9e2dc734caec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła filozoficzne"
+              "title": "MOC Dzieła z zakresu filozofii prawa"
+            }
+          },
+          {
+            "id": "12cda91daaa00a19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła z zakresu filozofii polityki"
             }
           },
           {
@@ -253,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,11 +292,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii"
+              "title": "Skousen Mark, Narodziny współczesnej ekonomii"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -408,13 +432,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii"
+              "title": "Konspekt Skousen Mark, Narodziny współczesnej ekonomii"
             }
           }
         ],
@@ -492,13 +516,19 @@
   },
   "active": "1a584a7634fe7609",
   "lastOpenFiles": [
-    "01 Input przejściowy/Ekonomia/Dzieła/Instytut Misesa - Polska mitologia kapitału. Czy jesteśmy kolonią zachodu.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Juruś Dariusz, Dzieje własności prywatnej.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii.md",
+    "02 MOC/MOC Filozofia.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Instytut Misesa - Polska mitologia kapitału. Czy jesteśmy kolonią zachodu.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Hülsmann Jörg Guido, Etyka produkcji pieniądza.md",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Hayek, Nadużycie rozumu.md",
@@ -512,12 +542,6 @@
     "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci.md",
     "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
     "02 MOC/MOC Socjologia.md",
-    "02 MOC/MOC Socjologia/MOC Socjolodzy.md",
-    "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Edukacja pod lupą.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Caplan Brayan, Otwarte granice.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Bastiat Frederic, Pamflety.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Ballve Faustino, Elementarz ekonomii.md",
-    "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md"
+    "02 MOC/MOC Socjologia/MOC Socjolodzy.md"
   ]
 }
