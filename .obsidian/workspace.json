@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,7 +268,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła filozoficzne"
+              "title": "Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii"
             }
           }
         ],
@@ -408,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Dzieła filozoficzne"
+              "title": "Konspekt Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii"
             }
           }
         ],
@@ -492,12 +492,16 @@
   },
   "active": "1a584a7634fe7609",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Instytut Misesa - Polska mitologia kapitału. Czy jesteśmy kolonią zachodu.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Hülsmann Jörg Guido, Etyka produkcji pieniądza.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp",
+    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Hayek, Nadużycie rozumu.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Hayek, Denacjonalizacja pieniądza.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Foss, Klein, Organizowanie działania przedsiębiorczego.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Epstein Alex, Przyszłość paliw kopalnych.md",
@@ -514,9 +518,6 @@
     "01 Input przejściowy/Ekonomia/Dzieła/Caplan Brayan, Otwarte granice.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Bastiat Frederic, Pamflety.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Ballve Faustino, Elementarz ekonomii.md",
-    "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
-    "02 MOC/MOC Ekonomia/MOC Koncepcje ASE.md",
-    "03 Atomy/Frédéric Bastiat.md"
+    "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md"
   ]
 }

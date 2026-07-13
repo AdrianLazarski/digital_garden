@@ -8375,6 +8375,16 @@
             "timeKey": "20:50",
             "w": 4,
             "c": 33
+          },
+          {
+            "timeKey": "20:55",
+            "w": 16,
+            "c": 135
+          },
+          {
+            "timeKey": "21:00",
+            "w": 1,
+            "c": 6
           }
         ],
         "id": 697
@@ -8573,8 +8583,8 @@
         "changes": [
           {
             "timeKey": "20:50",
-            "w": 1,
-            "c": 5
+            "w": 6,
+            "c": 44
           }
         ],
         "id": 711
@@ -8865,6 +8875,72 @@
           }
         ],
         "id": 729
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
+        "wordCountStart": 22,
+        "charCountStart": 175,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 10,
+            "c": 81
+          }
+        ],
+        "id": 730
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Hülsmann Jörg Guido, Etyka produkcji pieniądza.md",
+        "wordCountStart": 277,
+        "charCountStart": 2113,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 17,
+            "c": 125
+          },
+          {
+            "timeKey": "20:55",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 731
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Instytut Misesa - Polska mitologia kapitału. Czy jesteśmy kolonią zachodu.md",
+        "wordCountStart": 846,
+        "charCountStart": 5651,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 18,
+            "c": 139
+          },
+          {
+            "timeKey": "21:00",
+            "w": 9,
+            "c": 49
+          }
+        ],
+        "id": 732
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii.md",
+        "wordCountStart": 4474,
+        "charCountStart": 32217,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 517,
+            "c": 3853
+          }
+        ],
+        "id": 733
       }
     ]
   }

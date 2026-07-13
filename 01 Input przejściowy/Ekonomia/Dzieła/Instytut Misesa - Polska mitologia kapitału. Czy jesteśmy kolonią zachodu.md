@@ -1,5 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+  - liberalizm
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 20:57
+---
 
-  
+  https://www.youtube.com/watch?v=3PQ7WsjdNgA, 2015
 
 
 **1. Z Polski wysysany jest kapitał** 02:20  
@@ -88,5 +98,3 @@ Największe udziały w polskiej bankowości mają Włochy, czy Hiszpania. Gdy u 
 -Między klientami a firmami to dopiero panują umowy śmieciowe! Klient nie jest zobowiązany do regularnego kupowania, czy wzmożonych zakupów, by wszyscy pracownicy firmy wyjechali na wakacje :D
 
 
-
-#ekonomia #liberalizm #ase 

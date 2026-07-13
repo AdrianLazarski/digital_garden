@@ -25,7 +25,7 @@ modified date: 2026-07-03 16:16
 [[MOC Dzieła etyczne]]
 [[MOC Dzieła z zakresu antropologii filozoficznej]]
 [[MOC Dzieła z zakresu logiki]]
-[[MOC Dzieła z zakresu filozofii eko]]
+[[MOC Dzieła z zakresu filozofii ekonomii]]
 [[MOC Dzieła z zakresu filozofii języka]]
 [[MOC Dzieła z zakresu filozofii prawa]]
 [[MOC Dzieła z zakresu filozofii polityki]]

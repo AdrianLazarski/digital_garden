@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - liberalizm
+  - filozofia/etyka
+  - ref
+  - filozofia/polityki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 21:01
+---
 
 
 ## Etyka, gospodarka, przedsiębiorczość
@@ -182,7 +194,7 @@
 - Możemy na tyle dobrze zrozumieć logikę systemu, by móc dokonywać ważnych przewidywań na poziomie ogólnym, mimo ze nie potrafimy przewidzieć zachowania żadnego konkretnego elementu tego systemu.
 
 
-# Zaufanie, pośrednictwo i osoby trzecie
+# IV Zaufanie, pośrednictwo i osoby trzecie
 
 ## 27 Teoria przełożonego-agenta
 
@@ -297,6 +309,20 @@
 
 - Buchanan otrzymał w 1986 Nobla za to. Podkreślał, że prekursorem był Gordon Tullock, który zauważył, że jeśli istnieje jakaś wartość, którą można zrealizować poprzez politykę, to ludzie będą inwestować zasoby w wysiłki mające na celu pozyskanie tej wartości.
 
+# Recenzja
 
-
-#ekonomia #liberalizm #ase #filozofia/etyka 
+Człowiek jest zwierzęciem stworzonym do współpracy i w pełni realizować się może tylko w kontaktach z innymi. Zapewniają mu one nie tylko przetrwanie biologiczne, ale też możliwość moralnego rozwoju. A że znaczna część tych kontaktów odbywa się na rynku, stąd naturalne jest połączenie tematyki ekonomii z etyką.  
+  
+Społeczeństwo handlowe: Wprowadzenie do etyki i ekonomii to dość oryginalna książka, łącząca funkcję popularnonaukowego wprowadzenia do tytułowych dziedzin (i nie tylko) wraz z zadaniem bycia już trochę poważniejszym podręcznikiem do ekonomii. Przyjrzyjmy się, jak to wyszło.  
+  
+Autorzy nie podpisali, kto odpowiadał za jaką część książki, ale po ich specjalizacjach możemy się domyślać. Doktor Cathleen Johnson jest specjalistką od ekonomii eksperymentalnej, Robert Lusch profesorem marketingu i przedsiębiorczości, a David Schmidtz profesorem filozofii. I, mimo że w książce zdecydowanie dominują zagadnienia ekonomiczne, to filozofia jest jej głównym spoiwem i myślą przewodnią, a dokładniej – filozofia liberalna i libertariańska.  
+  
+W ramach tych sposobów myślenia handel jawi się jako podstawowa forma współpracy z obcymi, a ta, jest czymś unikalnym dla homo sapiens. Nie wszystko jesteśmy w stanie zrobić sami, a na prezenty nie możemy zawsze liczyć. Dlatego istnieje tylko jedna uniwersalna alternatywa dla handlu. Jest to kradzież. Wszystko wskazuje na to, że gdybyśmy to ją wybrali na główną strategię zdobywania dóbr oprócz produkcji, to wymarlibyśmy, jak inne gatunki ludzkie.  
+  
+W świetle tego bezpieczeństwo własności prywatnej jest kluczowe. Gdy wierzymy, że możemy powiedzieć „nie” komuś, kto chce wziąć coś naszego to, zamiast poświęcać czas na obronę swojej własności, możemy go przeznaczyć na produkcję. Zaczynamy wtedy reklamować swoje wartościowe rzeczy, zamiast je chować przed chciwymi oczami.  
+  
+Po ustaleniu tego etycznego minimum (nie zabijaj, nie kradnij),autorzy przechodzą do systematycznego wykładu ekonomii od podstaw. Omówione zostają takie zagadnienia, jak handel, zasoby, koszty, instytucje, przewaga komparatywna, podział pracy, popyt i podaż, ceny, teoria przełożonego-agenta, różne formy własności, monopole, protekcjonizm, instytucje i instrumenty finansowe, bankowość, innowacje i przedsiębiorczość. Pojawiają się też tematy makroekonomiczne, takie jak różne sposoby pomiaru wzrostu gospodarczego, polityka fiskalna, monetarna, czy teoria wyboru publicznego. Jest też sporo o podstawach rachunkowości, marketingu i finansach osobistych.  
+  
+Książka podzielona jest na dużo dość krótkich rozdziałów, na koniec których zawsze, w ramach sekcji „Dyskusja i ćwiczenia” pojawiają się pytania do przemyślenia, pomagające utrwalić i pogłębić treść tego, co się właśnie przeczytało. Kolejność omawianych zagadnień jest tak ułożona, że nie wymaga się od czytelnika nic więcej, niż znajomości poprzednich rozdziałów. Pojawia się trochę podstawowych wykresów, jakie można znaleźć w bardziej konwencjonalnych podręcznikach do mikroekonomii, ale zdecydowana większość książki to dość luźny i łatwy w odbiorze wywód.  
+  
+Czujny czytelnik może się dopatrzeć paru błędów, czy dyskusyjnych tez, ale dotyczą one dygresji na temat filozofii starożytnej, czy historii średniowiecza, a nie ekonomii, więc za bardzo one nie szkodzą. Jeśli więc nie lubicie typowych podręczników, a chcecie nadrobić zaległości z ekonomii albo zastanawiacie się, czy warto ją studiować, to Społeczeństwo handlowe może być całkiem przyzwoitym wyborem. Przydać się też może jako narzędzie do pogłębienia zrozumienia związków etyki z ekonomią, czy jako pomoc dydaktyczna dla akademików, którzy chcieliby pobudzić swoich studentów do ciekawej dyskusji.
