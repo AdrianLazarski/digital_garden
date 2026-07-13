@@ -7376,6 +7376,16 @@
             "timeKey": "16:25",
             "w": -70,
             "c": -706
+          },
+          {
+            "timeKey": "18:05",
+            "w": 1,
+            "c": 5
+          },
+          {
+            "timeKey": "18:10",
+            "w": 2,
+            "c": 19
           }
         ],
         "id": 641
@@ -7657,6 +7667,11 @@
             "timeKey": "17:15",
             "w": 1,
             "c": 5
+          },
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 12
           }
         ],
         "id": 658
@@ -7696,6 +7711,11 @@
             "timeKey": "17:15",
             "w": 1,
             "c": 5
+          },
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 12
           }
         ],
         "id": 659
@@ -7739,6 +7759,11 @@
             "timeKey": "17:30",
             "w": -1,
             "c": -36
+          },
+          {
+            "timeKey": "18:05",
+            "w": -5,
+            "c": -7
           }
         ],
         "id": 663
@@ -8079,7 +8104,7 @@
           {
             "timeKey": "18:05",
             "w": -6,
-            "c": -93
+            "c": -92
           }
         ],
         "id": 684
@@ -8173,6 +8198,66 @@
           }
         ],
         "id": 689
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia matematyki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 28,
+            "c": 224
+          },
+          {
+            "timeKey": "18:10",
+            "w": 4,
+            "c": 52
+          }
+        ],
+        "id": 690
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
+        "wordCountStart": 59,
+        "charCountStart": 620,
+        "changes": [],
+        "id": 691
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Matematyka/Matematycy/Historia matematyki.md",
+        "wordCountStart": 7,
+        "charCountStart": 82,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 16,
+            "c": 122
+          },
+          {
+            "timeKey": "18:15",
+            "w": 3,
+            "c": 30
+          }
+        ],
+        "id": 692
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematycy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 31,
+            "c": 245
+          }
+        ],
+        "id": 693
       }
     ]
   }

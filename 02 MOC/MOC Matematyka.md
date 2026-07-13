@@ -12,8 +12,10 @@ modified date: 2025-11-22 13:10
 [[Definicje i wizje matematyki]]
 
 [[Historia matematyki]]
+[[MOC Matematycy]]
 
-[[Filozofia matematyki]]
+[[MOC Filozofia matematyki]]
+
 
 
 

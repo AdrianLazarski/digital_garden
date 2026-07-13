@@ -7,9 +7,9 @@ tags:
   - matematyka
 modified date: 2026-07-13 17:00
 ---
-Podziały w dynamice wciąż się zmieniają i współcześnie wymienia się około 5000 dyscyplin/subdyscyplin/gałęzi/działów. Brak też jednoznacznego rozróżnienia tych terminów. 
+Podziały wciąż się zmieniają i współcześnie wymienia się około 5000 dyscyplin/subdyscyplin/gałęzi/działów. Brak też jednoznacznego rozróżnienia tych terminów taksonomicznych. 
 
-Da się zaobserwować pewne schematy w używaniu tych słów: 
+Da się jednak zaobserwować pewne schematy w używaniu tych słów: 
 - dziedziny są najszersze, 
 - dyscypliny mają bardziej precyzyjnie zarysowane granice i metodologie, 
 - a subdyscypliny i gałęzie mogą różnie określać części pierwszych dwóch. 
