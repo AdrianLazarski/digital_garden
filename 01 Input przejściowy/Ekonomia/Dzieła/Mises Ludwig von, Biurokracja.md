@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - socjologia
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 21:50
+---
 [[Ludwig von Mises]], Bureaucracy, 1944
 tłum. Jan Kłos, Warszawa 2013 (Pafere)
 
@@ -141,5 +151,3 @@ Całość wywodu Misesa zilustrowana jest odniesieniami do historii państw Zach
 W tej bardzo krótkiej i przystępnej książce znajdzie się jeszcze kilka ciekawych szczegółowych przypadków, w których biurokracja zawodzi, także zachęcam do lektury.
 
 
-
-#ase #ekonomia #socjologia #recenzja 

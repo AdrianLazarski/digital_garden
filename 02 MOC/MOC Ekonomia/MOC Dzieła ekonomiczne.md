@@ -13,6 +13,8 @@ modified date: 2026-07-10 14:09
 
 # Teoria ekonomii
 
+[[Menger Carl, Zasady ekonomii]], 1871
+[[Mises Ludwig von, Kalkulacja ekonomiczna w socjalizmie]], 1920
 [[Mises Ludwig von, Ludzkie działanie]], 1940
 [[Hayek, Nadużycie rozumu]], 1941 
 [[Hayek, Denacjonalizacja pieniądza]], 1976
@@ -29,6 +31,7 @@ modified date: 2026-07-10 14:09
 
 
 [[Bastiat Frederic, Pamflety]], 1848-1850
+[[Mises Ludwig von, Biurokracja]], 1944
 [[de Jouvenel Bertrand, Redystrybucja. Grabież czy ignorancja]], 1951
 [[Ballve Faustino, Elementarz ekonomii]], 1956
 [[Caplan Bryan, Mit racjonalnego wyborcy]], 2007

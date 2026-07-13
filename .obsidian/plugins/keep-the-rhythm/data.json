@@ -8400,6 +8400,16 @@
             "timeKey": "21:40",
             "w": 7,
             "c": 73
+          },
+          {
+            "timeKey": "21:45",
+            "w": 5,
+            "c": 39
+          },
+          {
+            "timeKey": "21:50",
+            "w": 13,
+            "c": 105
           }
         ],
         "id": 697
@@ -8737,6 +8747,11 @@
             "timeKey": "20:15",
             "w": 29,
             "c": 225
+          },
+          {
+            "timeKey": "21:50",
+            "w": 5,
+            "c": 39
           }
         ],
         "id": 719
@@ -9072,6 +9087,16 @@
             "timeKey": "21:25",
             "w": 5,
             "c": 48
+          },
+          {
+            "timeKey": "21:45",
+            "w": 6,
+            "c": 58
+          },
+          {
+            "timeKey": "21:50",
+            "w": 0,
+            "c": 2
           }
         ],
         "id": 739
@@ -9136,11 +9161,67 @@
         "changes": [
           {
             "timeKey": "21:40",
-            "w": 825,
-            "c": 6325
+            "w": 832,
+            "c": 6368
           }
         ],
         "id": 743
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Menger Carl, Zasady ekonomii.md",
+        "wordCountStart": 16,
+        "charCountStart": 128,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 18,
+            "c": 127
+          }
+        ],
+        "id": 744
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Biurokracja.md",
+        "wordCountStart": 2715,
+        "charCountStart": 20113,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 17,
+            "c": 129
+          }
+        ],
+        "id": 745
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Kalkulacja ekonomiczna w socjalizmie.md",
+        "wordCountStart": 883,
+        "charCountStart": 6663,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 17,
+            "c": 124
+          }
+        ],
+        "id": 746
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Ludzkie działanie.md",
+        "wordCountStart": 8457,
+        "charCountStart": 63840,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 20,
+            "c": 152
+          }
+        ],
+        "id": 747
       }
     ]
   }

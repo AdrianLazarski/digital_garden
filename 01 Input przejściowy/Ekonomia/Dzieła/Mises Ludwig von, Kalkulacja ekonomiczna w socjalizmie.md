@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 21:51
+---
 
 
 ## Wprowadzenie prof. Jacek Kochanowicz:
@@ -18,7 +27,7 @@
 
 - Rozporządzanie własnością społeczną jest możliwe tylko jeśli zostanie powołane do tego specjalne ciało wykonawcze. Jego struktura nie ma znaczenia dla tego czy coś jest socjalizmem.
 - Istotą socjalistycznego sposobu produkcji jest to, że nie da się określić w nim udziału poszczególnych czynników produkcji ani stosunku pomiędzy nakładami, a osiąganymi przychodami.
-- Sposób rozdziału produktu nie ma znaczenia, bo i tak jego rozdział zależy od kolektywu, ale dla ułatawienia Mises rozważy przypadek równego rozdziału.
+- Sposób rozdziału produktu nie ma znaczenia, bo i tak jego rozdział zależy od kolektywu, ale dla ułatwienia Mises rozważy przypadek równego rozdziału.
 - Abstynent chętnie wymieni swój przydział kuponów na alkohol na kupony na napoje bezalkoholowe etc. Jest to wymiana pośrednia. Gdy ludzie zauważą płynące z niej korzyści, natychmiast znajdzie się miejsce dla uniwersalnego środka wymiany, czyli pieniądza.
 - Pieniądz w socjalizmie jest jednak ograniczony, gdyż wymianie nie podlegają środki produkcji, a to oznacza, że niemożliwe jest ustalenie ich ceny.
 - Kierownictwo redystrybucji musi śledzić stosunki wymiany powstałe między towarzyszami, by zachować równy rozdział.
@@ -50,4 +59,3 @@
 
 
 
-#ekonomia #liberalizm #ase 

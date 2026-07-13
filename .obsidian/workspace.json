@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
+                "file": "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii prawa"
+              "title": "MOC Dzieła socjologiczne"
             }
           },
           {
@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Ludzkie działanie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,7 +316,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "McCloskey Deirdre, Mit przedsiębiorczego państwa"
+              "title": "Mises Ludwig von, Ludzkie działanie"
             }
           }
         ],
@@ -456,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Ludzkie działanie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt McCloskey Deirdre, Mit przedsiębiorczego państwa"
+              "title": "Konspekt Mises Ludwig von, Ludzkie działanie"
             }
           }
         ],
@@ -540,9 +540,17 @@
   },
   "active": "1a584a7634fe7609",
   "lastOpenFiles": [
-    "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Burżuazyjna godność.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Kalkulacja ekonomiczna w socjalizmie.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Biurokracja.md",
+    "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
+    "02 MOC/MOC Socjologia.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Menger Carl, Zasady ekonomii.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Burżuazyjna godność.md",
     "02 MOC/MOC Ekonomia.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Majcherek Janusz, Źródła bogactwa i biedy ludzi oraz ich zbiorowości.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Kaiser Axel, Uliczny ekonomista.md",
@@ -551,21 +559,13 @@
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Juruś Dariusz, Dzieje własności prywatnej.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
     "02 MOC/MOC Filozofia.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Instytut Misesa - Polska mitologia kapitału. Czy jesteśmy kolonią zachodu.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Hülsmann Jörg Guido, Etyka produkcji pieniądza.md",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Hayek, Nadużycie rozumu.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Hayek, Denacjonalizacja pieniądza.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Foss, Klein, Organizowanie działania przedsiębiorczego.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Epstein Alex, Przyszłość paliw kopalnych.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/de Jouvenel Bertrand, Redystrybucja. Grabież czy ignorancja.md",
-    "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md"
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md"
   ]
 }

@@ -7,7 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 21:43
 ---
-
+The Myth of the Entrepreneurial State, 2020
 
 - W przedmowie do polskiego wydania Przedsiębiorczego państwa zachwyty nad etatyzmem formułuje Morawiecki.
 - To, że państwo z racji samej swojej wielkości znalazło się na którymś etapie łańcucha dostaw przy powstawaniu jakiejś innowacji, nie oznacza, że jego obecność była tam konieczna.
