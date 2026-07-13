@@ -14,6 +14,25 @@ modified date: 2026-07-13 21:59
 ---
   Theory and History. An Interpretation of Social and Economic Evolution, 1957
 
+1956**Spis treści**
+
+1. [Wstęp Machaja](#Wst%C4%99p%20Machaja)
+2. [Wprowadzenie](#Wprowadzenie)
+3. [Roz. 1](#Roz.%201)
+4. [Roz. 2](#Roz.%202)
+5. [Roz. 3](#Roz.%203)
+6. [Roz. 5](#Roz.%205)
+7. [Roz. 7](#Roz.%207)
+8. [Roz. 8](#Roz.%208)
+9. [Roz. 9](#Roz.%209)
+10. [Roz. 10](#Roz.%2010)
+11. [Roz. 11](#Roz.%2011)
+12. [Roz. 12](#Roz.%2012)
+13. [Roz. 13](#Roz.%2013)
+14. [Roz. 14](#Roz.%2014)
+15. [Roz. 15](#Roz.%2015)
+16. [Roz. 16](#Roz.%2016)
+17. [Recenzja](#Recenzja)
 
 
 ## Wstęp Machaja

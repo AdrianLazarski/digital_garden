@@ -4405,7 +4405,7 @@
       },
       {
         "date": "2026-07-06",
-        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła za zakresu filozofii religii.md",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -4419,7 +4419,7 @@
       },
       {
         "date": "2026-07-06",
-        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła za zakresu propedeutyki filozofii.md",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -8415,6 +8415,11 @@
             "timeKey": "21:55",
             "w": 6,
             "c": 44
+          },
+          {
+            "timeKey": "22:10",
+            "w": 15,
+            "c": 138
           }
         ],
         "id": 697
@@ -8620,6 +8625,11 @@
             "timeKey": "20:50",
             "w": 6,
             "c": 44
+          },
+          {
+            "timeKey": "22:05",
+            "w": 0,
+            "c": -2
           }
         ],
         "id": 711
@@ -8757,6 +8767,11 @@
             "timeKey": "21:50",
             "w": 5,
             "c": 39
+          },
+          {
+            "timeKey": "22:10",
+            "w": 6,
+            "c": 59
           }
         ],
         "id": 719
@@ -8903,6 +8918,11 @@
             "timeKey": "20:50",
             "w": 4,
             "c": 37
+          },
+          {
+            "timeKey": "22:00",
+            "w": 7,
+            "c": 44
           }
         ],
         "id": 728
@@ -9267,9 +9287,82 @@
             "timeKey": "22:00",
             "w": 1337,
             "c": 9649
+          },
+          {
+            "timeKey": "22:05",
+            "w": 101,
+            "c": 461
+          },
+          {
+            "timeKey": "22:10",
+            "w": 1,
+            "c": 4
           }
         ],
         "id": 749
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
+        "wordCountStart": 21,
+        "charCountStart": 164,
+        "changes": [],
+        "id": 750
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
+        "wordCountStart": 20,
+        "charCountStart": 156,
+        "changes": [],
+        "id": 751
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Ekonomiści/Ludwig von Mises.md",
+        "wordCountStart": 617,
+        "charCountStart": 5047,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 28,
+            "c": 211
+          },
+          {
+            "timeKey": "22:10",
+            "w": 1,
+            "c": 4
+          }
+        ],
+        "id": 752
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Mises Ludwig von, Mentalność antykapitalistyczna.md",
+        "wordCountStart": 525,
+        "charCountStart": 3951,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 14,
+            "c": 86
+          }
+        ],
+        "id": 753
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Murphy Robert P., Niepoprawny politycznie przewodnik po kapitalizmie.md",
+        "wordCountStart": 1341,
+        "charCountStart": 9870,
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": 155,
+            "c": 1152
+          }
+        ],
+        "id": 754
       }
     ]
   }

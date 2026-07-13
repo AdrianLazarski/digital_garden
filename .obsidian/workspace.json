@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "57418134a0b659bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła z zakresu filozofii nauki"
+            }
+          },
+          {
             "id": "5d53ae3ec8b28959",
             "type": "leaf",
             "state": {
@@ -295,7 +319,8 @@
               "title": "Mises Ludwig von, Teoria a historia"
             }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -431,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+                "file": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Teoria a historia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Dzieła filozoficzne"
+              "title": "Konspekt Mises Ludwig von, Teoria a historia"
             }
           }
         ],
@@ -513,20 +538,27 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "c8a0e7c4c30f4d64",
+  "active": "1a584a7634fe7609",
   "lastOpenFiles": [
+    "01 Input przejściowy/Ekonomia/Dzieła/Murphy Robert P., Niepoprawny politycznie przewodnik po kapitalizmie.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
+    "01 Input przejściowy/Ekonomia/Ekonomiści/Ludwig von Mises.md",
+    "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Mises Ludwig von, Mentalność antykapitalistyczna.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Teoria a historia.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia.md",
-    "02 MOC/MOC Ekonomia.md",
     "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
-    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
-    "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
+    "02 MOC/MOC Filozofia.md",
+    "02 MOC/MOC Ekonomia.md",
+    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
+    "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Planowany Chaos.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Ludzkie działanie.md",
@@ -534,13 +566,6 @@
     "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Biurokracja.md",
     "02 MOC/MOC Socjologia.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Menger Carl, Zasady ekonomii.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Burżuazyjna godność.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Majcherek Janusz, Źródła bogactwa i biedy ludzi oraz ich zbiorowości.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Kaiser Axel, Uliczny ekonomista.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/PAWS, Średniowieczne korzenie wolnego rynku.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"
   ]
 }

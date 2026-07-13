@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+  - filozofia/austriacka
+  - filozofia/współczesna
+  - liberalizm
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-13 22:08
+---
 
 
 **Spis treści**
@@ -17,10 +29,13 @@
 
 # Dzieła 📖
 
-[[Mises Ludwig von, Mentalność antykapitalistyczna]]
-[[Mises Ludwig von, Ludzkie działanie]]
-[[Mises Ludwig von, Teoria a historia]]
-[[Mises Ludwig von, Kalkulacja ekonomiczna w socjalizmie]]
+[[Mises Ludwig von, Kalkulacja ekonomiczna w socjalizmie]], 1920
+[[Mises Ludwig von, Ludzkie działanie]], 1940
+[[Mises Ludwig von, Biurokracja]], 1944
+[[Mises Ludwig von, Planowany Chaos]], 1947
+[[Mises Ludwig von, Mentalność antykapitalistyczna]], 1956
+[[Mises Ludwig von, Teoria a historia]], 1957
+
 
 # Poglądy 🔍
 
@@ -110,5 +125,3 @@ Nie istnieją żadne prawa naturalne – poparcie Misesa dla liberalizmu – kap
 
 https://www.youtube.com/watch?v=Rp5J1CFstTA
 
-
-###### Tagi: #filozofia #filozof #filozofia/współczesna #ekonomia #ekonomista #ase #liberalizm #filozofia/nauki 

@@ -1,4 +1,13 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 22:12
+---
+Politically Incorrect Guide to Capitalism, 2006
 
   
 
@@ -120,6 +129,8 @@ Amerykańska Agencja Żywności i Leków (FDA) w 1962 roku podniosła standardy 
 
 Licencjonowanie lekarzy dławi badania w niezatwierdzonych dziedzinach, sprawia, że lekarze niechętnie zeznają przeciwko w sobie w sprawach o błąd w sztuce oraz sprawia, że wykwalifikowani lekarze tracą czas na rutynowe procedury medyczne, które mogłyby wykonywac osoby mniej wyszkolone.
 
+# Recenzja 
+2018 r.
 
-
-#ekonomia #liberalizm #ase 
+Pozycja dla raczej zaczynających swoją przygodę z ekonomią. Murphy omawia najpopularniejsze ataki na wolny rynek i za pomocą żelaznej logiki w najszerszym znaczeniu oraz faktów historycznych pokazuje, że kapitalizm jest najlepszym, co mogło nam się przytrafić kiedykolwiek. Jeśli ktoś czuje się zielony w temacie: cen, bezrobocia, związków zawodowych, dyskryminacji pozytywnej, niewolnictwa, ochrony środowiska, bezpieczeństwa, bankowości, pieniądza, kryzysów, interwencjonizmu państwowego, monopoli, globalizacji, czy ceł, to warto by sięgnął po tę krótką książkę. Na koniec każdego rozdziału są proponowane dodatkowe lektury dla poszerzenia wiedzy z danego działu, więc będziecie wiedzieli co dalej zrobić ze swoją edukacją.  
+Dziesięciu gwiazdek nie dam, bo nie wszystko poruszono, co można by poruszyć i dlatego, że zarejestrowałem pewne uproszczenie. Jest ono nieznaczne i prawdopodobnie wywód na tym skorzystał, ale jednak oddala to tę pozycję od ideału.

@@ -35,6 +35,8 @@ modified date: 2026-07-10 14:09
 [[Mises Ludwig von, Planowany Chaos]], 1947
 [[de Jouvenel Bertrand, Redystrybucja. Grabież czy ignorancja]], 1951
 [[Ballve Faustino, Elementarz ekonomii]], 1956
+[[Mises Ludwig von, Mentalność antykapitalistyczna]], 1956
+[[Murphy Robert P., Niepoprawny politycznie przewodnik po kapitalizmie]], 2006
 [[Caplan Bryan, Mit racjonalnego wyborcy]], 2007
 [[Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci]], 2011
 [[Instytut Misesa - Polska mitologia kapitału. Czy jesteśmy kolonią zachodu]], 2015

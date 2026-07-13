@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - socjologia
+  - ekonomia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 22:09
+---
 [[Ludwig von Mises]], 1956 r.
 
 - Postawa braku dążenia do polepszania warunków swojego życia jest typowa dla zwierząt, nie dla ludzi.
@@ -22,5 +32,3 @@
 - Grecy piszący o wolności i prawach "tylko dla obywateli" nie byli gorsi od ludzi, którzy 2000 lat później podpisywali Deklarację Niepodległości, mając niewolników.
 - Antonio Graziadei, były komunistyczny poseł, miał we faszystowskich Włoszech wypłacaną profesorską emeryturę i mógł wydawać swoje bzdety w największych włoskich firmach wydawniczych.
 
-
-#filozofia #filozofia/współczesna #filozofia/austriacka #socjologia #liberalizm 

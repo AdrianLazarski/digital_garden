@@ -32,9 +32,9 @@ modified date: 2026-07-03 16:16
 [[MOC Dzieła z zakresu filozofii przyrody]]
 [[MOC Dzieła z zakresu filozofii matematyki]]
 [[MOC Dzieła z zakresu filozofii nauki]]
-[[MOC Dzieła za zakresu filozofii religii]]
+[[MOC Dzieła z zakresu filozofii religii]]
 [[MOC Dzieła z zakresu filozofii umysłu]]
-[[MOC Dzieła za zakresu propedeutyki filozofii]]
+[[MOC Dzieła z zakresu propedeutyki filozofii]]
 
 [[MOC Dzieła z zakresu historii filozofii]]
 [[MOC Dzieła z zakresu filozofii wschodu]]
