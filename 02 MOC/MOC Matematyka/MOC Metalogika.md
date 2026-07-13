@@ -1,7 +1,6 @@
 ---
 created: 2026-07-13 17:49
 tags:
-  - atom
   - definicja
   - matematyka/metalogika
   - moc
@@ -15,10 +14,5 @@ modified date: 2026-07-13 17:49
 
 [[Wynikanie logiczne]]
 
-**Semantyka (Teoria modeli):**
-    [[Teoria modeli]]
-    [[Model]]
-    [[Uniwersum]]
-        
-**Syntaktyka (Teoria dowodu):**
-    [[Teoria dowodu]]
+[[MOC Teoria modeli]]
+[[MOC Teoria dowodu]]

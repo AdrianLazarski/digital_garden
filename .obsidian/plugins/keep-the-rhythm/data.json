@@ -8070,6 +8070,16 @@
             "timeKey": "17:50",
             "w": 35,
             "c": 343
+          },
+          {
+            "timeKey": "18:00",
+            "w": -1,
+            "c": -20
+          },
+          {
+            "timeKey": "18:05",
+            "w": -6,
+            "c": -93
           }
         ],
         "id": 684
@@ -8101,8 +8111,13 @@
           },
           {
             "timeKey": "17:55",
-            "w": -1,
-            "c": -3
+            "w": 11,
+            "c": 111
+          },
+          {
+            "timeKey": "18:00",
+            "w": 0,
+            "c": 1
           }
         ],
         "id": 686
@@ -8120,11 +8135,44 @@
           },
           {
             "timeKey": "17:55",
-            "w": -1,
-            "c": -3
+            "w": 11,
+            "c": 111
+          },
+          {
+            "timeKey": "18:00",
+            "w": 0,
+            "c": 1
           }
         ],
         "id": 687
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Teoria modeli.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 28,
+            "c": 245
+          }
+        ],
+        "id": 688
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Teoria dowodu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 25,
+            "c": 213
+          }
+        ],
+        "id": 689
       }
     ]
   }

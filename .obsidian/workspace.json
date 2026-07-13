@@ -224,12 +224,12 @@
             }
           },
           {
-            "id": "676e0420e4524570",
+            "id": "33625903175ba50a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wynikanie logiczne.md",
+                "file": "02 MOC/MOC Matematyka/MOC Teoria dowodu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wynikanie logiczne"
+              "title": "MOC Teoria dowodu"
             }
           }
         ],
@@ -384,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wynikanie logiczne.md",
+                "file": "02 MOC/MOC Matematyka/MOC Teoria dowodu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Wynikanie logiczne"
+              "title": "Konspekt MOC Teoria dowodu"
             }
           }
         ],
@@ -466,11 +466,13 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "676e0420e4524570",
+  "active": "33625903175ba50a",
   "lastOpenFiles": [
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Metalogika.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wynikanie logiczne.md",
     "02 MOC/MOC Matematyka/MOC Metalogika.md",
+    "02 MOC/MOC Matematyka/MOC Teoria dowodu.md",
+    "02 MOC/MOC Matematyka/MOC Teoria modeli.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wynikanie logiczne.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Metalogika.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Teoria.md",
     "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
     "02 MOC/MOC Matematyka/MOC Metamatematyka.md",
@@ -491,8 +493,6 @@
     "02 MOC/MOC Matematyka/MOC Geometria.md",
     "02 MOC/MOC Matematyka/MOC Teoria decyzji.md",
     "02 MOC/MOC Matematyka/MOC Statystyka.md",
-    "02 MOC/MOC Matematyka/MOC Teoria informacji.md",
-    "02 MOC/MOC Matematyka/MOC Teoria gier.md",
-    "02 MOC/MOC Matematyka/MOC Teoria mnogości.md"
+    "02 MOC/MOC Matematyka/MOC Teoria informacji.md"
   ]
 }

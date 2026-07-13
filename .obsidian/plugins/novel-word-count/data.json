@@ -110044,20 +110044,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 83,
+      "wordCount": 84,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.27666666666666667,
-      "characterCount": 660,
-      "nonWhitespaceCharacterCount": 563,
-      "newlineCount": 19,
-      "readingTimeInMinutes": 0.3132075471698113,
+      "pageCount": 0.28,
+      "characterCount": 695,
+      "nonWhitespaceCharacterCount": 592,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 0.3169811320754717,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304388262,
-      "modifiedDate": 1718537765222,
-      "sizeInBytes": 687,
+      "modifiedDate": 1783958432408,
+      "sizeInBytes": 935,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.27666666666666667,
@@ -110065,6 +110065,18 @@
         "characterCount": 660,
         "nonWhitespaceCharacterCount": 563,
         "newlineCount": 19
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "matematyka/podstawy/metalogika",
+          "logika/formalna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-13 17:54"
       }
     },
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wnioskowanie entymematyczne.md.edtz": {
@@ -132884,20 +132896,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 31,
+      "wordCount": 29,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.10333333333333333,
-      "characterCount": 304,
-      "nonWhitespaceCharacterCount": 242,
-      "newlineCount": 15,
-      "readingTimeInMinutes": 0.1169811320754717,
-      "linkCount": 5,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 246,
+      "nonWhitespaceCharacterCount": 206,
+      "newlineCount": 12,
+      "readingTimeInMinutes": 0.10943396226415095,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783957776258,
-      "modifiedDate": 1783957966136,
-      "sizeInBytes": 500,
+      "modifiedDate": 1783958705137,
+      "sizeInBytes": 433,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -132909,7 +132921,6 @@
       "frontmatter": {
         "created": "2026-07-13 17:49",
         "tags": [
-          "atom",
           "definicja",
           "matematyka/metalogika",
           "moc"
@@ -132917,6 +132928,71 @@
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Aksjomatyczny 💎",
         "modified date": "2026-07-13 17:49"
+      }
+    },
+    "02 MOC/MOC Matematyka/MOC Teoria modeli.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 55,
+      "nonWhitespaceCharacterCount": 47,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783958534082,
+      "modifiedDate": 1783958691051,
+      "sizeInBytes": 249,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-13 18:02",
+        "tags": [
+          "definicja",
+          "moc",
+          "matematyka/podstawy/metalogika"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-07-13 18:02"
+      }
+    },
+    "02 MOC/MOC Matematyka/MOC Teoria dowodu.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1783958721951,
+      "modifiedDate": 1783958721951,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
