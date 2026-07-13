@@ -12,8 +12,9 @@ modified date: 2025-11-22 16:22
 ### Do podstaw matematyki należą:
 
 $\rightarrow$ [[Logika matematyczna]]
-$\rightarrow$ [[MOC Teoria mnogości]] (czasem zaliczana do powyższej, ale traktowana też osobno)
-$\rightarrow$ [[Metamatematyka]] (leżącą na pograniczu tej pierwszej)
+
+$\rightarrow$ [[MOC Metamatematyka]] (leżącą na pograniczu tej pierwszej)
+$\rightarrow$ [[MOC Teoria mnogości]] (czasem zaliczana do logiki matematycznej, ale traktowana też osobno)
 $\rightarrow$ [[Teoria typów]]
 
 

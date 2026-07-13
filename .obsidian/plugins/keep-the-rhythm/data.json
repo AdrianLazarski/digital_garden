@@ -7647,6 +7647,16 @@
             "timeKey": "17:05",
             "w": -4,
             "c": -36
+          },
+          {
+            "timeKey": "17:10",
+            "w": 2,
+            "c": 18
+          },
+          {
+            "timeKey": "17:15",
+            "w": 1,
+            "c": 5
           }
         ],
         "id": 658
@@ -7676,6 +7686,16 @@
             "timeKey": "17:05",
             "w": -4,
             "c": -36
+          },
+          {
+            "timeKey": "17:10",
+            "w": 2,
+            "c": 18
+          },
+          {
+            "timeKey": "17:15",
+            "w": 1,
+            "c": 5
           }
         ],
         "id": 659
@@ -7709,7 +7729,13 @@
         "filePath": "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
         "wordCountStart": 60,
         "charCountStart": 506,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 2,
+            "c": 16
+          }
+        ],
         "id": 663
       },
       {
@@ -7869,9 +7895,56 @@
             "timeKey": "17:05",
             "w": 1,
             "c": 9
+          },
+          {
+            "timeKey": "17:10",
+            "w": 0,
+            "c": 18
           }
         ],
         "id": 674
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Teoria chaosu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": 22,
+            "c": 185
+          }
+        ],
+        "id": 675
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Teoria liczb.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 24,
+            "c": 199
+          }
+        ],
+        "id": 676
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Matematyka/MOC Liczby.md",
+        "wordCountStart": 63,
+        "charCountStart": 564,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 17,
+            "c": 129
+          }
+        ],
+        "id": 677
       }
     ]
   }

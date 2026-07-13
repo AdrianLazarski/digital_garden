@@ -1,5 +1,5 @@
 
-- [[Liczby]], które można zapisać w postaci ilorazu dwóch [[Liczby całkowite|liczb całkowitych]], w którym dzielnik jest różny od 0.
+- [[MOC Liczby]], które można zapisać w postaci ilorazu dwóch [[Liczby całkowite|liczb całkowitych]], w którym dzielnik jest różny od 0.
 	- Czyli liczby, które można przedstawić w postaci ułamka zwykłego.
 	- Przeciwieństwem [[Liczby niewymierne]].
 - Uogólnienie [[Liczby całkowite|liczb całkowitych]]. Tzn. że całkowite zawierają się w wymiernych.

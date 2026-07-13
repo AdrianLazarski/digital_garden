@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - definicja
+  - moc
+  - matematyka/teoria_liczb
+dojrzalosc: Krzak 🌿
+status_epistemiczny: Aksjomatyczny 💎
+modified date: 2026-07-13 17:16
+---
 
 Nie ma czegoś takiego. Są liczby z jakimś określeniem. Po prostu liczba nie ma definicji.
 
@@ -11,18 +21,9 @@ Nie ma czegoś takiego. Są liczby z jakimś określeniem. Po prostu liczba nie 
 					[[Liczby pierwsze]]
 					[[Liczby złożone]]
 					[[Liczby doskonałe]]
-		[[Liczby niewymierne]] $\mathbb{R/Q}$ (w drugą stronę slash)
+		[[Liczby niewymierne]] $\mathbb{R \text{/} Q}$ 
 		[[Liczby algebraiczne]]
 		[[Liczby przestępne]]
 
 
-![[Pasted image 20250208130806.png]]
-
-
-
-
-
-
-
-
-#matematyka #matematyka/arytmetyka 
+![[Zbiory liczbowe.png|Zbiory liczbowe]]

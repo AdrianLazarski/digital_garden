@@ -17,11 +17,11 @@ Da się zaobserwować pewne schematy w używaniu tych słów:
 
 [[MOC Algebra]]
 [[MOC Analiza matematyczna]]
-[[MOC Arytmetyka]]
 [[MOC Geometria]]
 [[MOC Matematyka dyskretna]]
 [[MOC Podstawy matematyki]]
 [[MOC Propabilistyka]]
+[[MOC Teoria liczb]] (dawniej arytmetyka)
 [[MOC Topologia]]
 [[MOC Matematyka stosowana]]
 
