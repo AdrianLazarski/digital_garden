@@ -1,8 +1,11 @@
 ---
 created: 2026-02-28 19:46
 tags:
+  - definicja
+  - moc
+  - logika/formalna
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-13 12:09
 ---
 
@@ -22,7 +25,6 @@ Najważniejsze tezy:
 | --------------------------- | ---------------------- |
 | (p→r) ∧ (q→r) ∧ (p ∨ q) → r | dylemat konstrukcyjny  |
 
-#logika #filozofia
 
 
 [[Funkcja prawdziwościowa]] 

@@ -200,12 +200,12 @@
             }
           },
           {
-            "id": "b17b314c3ed17216",
+            "id": "bdc22e6ae54e50b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Syntaktyczne elementy języka.md",
+                "file": "02 MOC/MOC Filozofia/MOC Semiotyka.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Syntaktyczne elementy języka"
+              "title": "MOC Semiotyka"
+            }
+          },
+          {
+            "id": "8c68a1c40285c75a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Składnia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Składnia"
             }
           },
           {
@@ -272,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -408,13 +432,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Syntaktyczne elementy języka.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Składnia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Syntaktyczne elementy języka"
+              "title": "Konspekt Składnia"
             }
           }
         ],
@@ -490,17 +514,24 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "b17b314c3ed17216",
+  "active": "8c68a1c40285c75a",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Semiotyka.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Składnia.md",
+    "02 MOC/MOC Filozofia/MOC Składnia.md",
+    "02 MOC/MOC Filozofia/MOC Metodologia ogólna.md",
+    "02 MOC/MOC Logika.md",
     "02 MOC/MOC Filozofia/MOC Logika formalna.md",
+    "02 MOC/MOC Filozofia/MOC Rodzaje logik.md",
+    "02 MOC/MOC Filozofia/MOC Klasyczna logika zdaniowa.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Klasyczna logika zdaniowa.md",
+    "02 MOC/MOC Filozofia/MOC Rodzaje rozumowań.md",
     "02 MOC/MOC Filozofia/MOC Syntaktyczne elementy języka.md",
     "02 MOC/MOC Filozofia/MOC Typy i struktury dowodów.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dowód niezałożeniowy.md",
-    "02 MOC/MOC Filozofia/MOC Rodzaje logik.md",
     "02 MOC/MOC Logika matematyczna.md",
     "02 MOC/MOC Matematyka.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Funkcja prawdziwościowa.md",
-    "02 MOC/MOC Logika.md",
     "03 Atomy/Leucyp z Miletu.md",
     "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
     "02 MOC/MOC Matematyka/MOC Algebra liniowa.md",
@@ -510,13 +541,6 @@
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "02 MOC/MOC Ekonomia.md",
     "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
-    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
-    "02 MOC/MOC Ekonomia/MOC Tezy MMT.md",
-    "02 MOC/MOC Ekonomia/MOC Krytyka MMT.md",
-    "02 MOC/MOC Ekonomia/MOC Koncepcje ASE.md",
-    "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
-    "02 MOC/MOC Ekonomia/MOC Teorie ASE.md",
-    "02 MOC/MOC Ekonomia/MOC Krytyka ASE.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła ASE.md"
+    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md"
   ]
 }

@@ -7,7 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-13 12:05
 ---
-[[Klasyczna logika zdaniowa]]
+[[MOC Klasyczna logika zdaniowa]]
 [[Klasyczny rachunek predykatów]] 
 [[KRP z identycznością]]
 [[Logika modalna]]
