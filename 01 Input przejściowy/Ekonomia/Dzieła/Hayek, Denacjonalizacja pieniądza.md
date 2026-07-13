@@ -1,14 +1,14 @@
 ---
 created: 2026-02-28 19:46
 tags:
-  - atom
   - ref
   - ekonomia
+  - recenzja
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 20:35
 ---
-
+  The Denationalization of Money, 1976
 
 
 - Dobry żart tłumacza, że Hayek jest Satoshim Nakamoto.
@@ -66,3 +66,18 @@ Hayek:
 - Bywało tak, że kraje, którym się udało obniżyć roczną stopę inflacji do 5%, były wzywane przez inne, nadal zwiększające inflację o 15% rocznie, by dopomogły im poprzez "reflację".
 
 
+# Recenzja
+
+Dziękuję uprzejmie wydawnictwu Animi2 za przesłanie mi tej książki do recenzji. Nie jest to moje pierwsze spotkanie z Hayekiem, więc byłem przygotowany na dość ciężkie pióro. O dziwo pierwsza połowa książki jest napisana niezwykle lekko, dopiero później człowiek zaczyna mieć wrażenie, że niektóre kwestie są niepotrzebnie tak skomplikowanie zapisane. Dodać do tego, że wybitny austriak (celowo małą literą, bo chodzi o szkołę ekonomiczną) zaczyna się powtarzać, a dopadnie człowieka wrażenie, że nie do końca przemyślana była struktura pracy. Ale to nic, bo treść jest ważniejsza, plus przecież nie czytałem oryginału – nie wiem więc, czy te późniejsze zgrzyty to wina Hayeka, czy może tłumacza.  
+  
+A propos tłumacza, to polecam przeczytać jego wstęp. Jest całkiem interesujący i przyczepić mogę się do tylko jednej rzeczy: wymienia wielkie marki epoki cyfryzacji, snując apokaliptyczną wizję, że nie mają sobie równych i że ich monopol może być dla nich groźny. A tak jakoś zapomniał, że przed Facebookiem był MySpace, również kiedyś wielki monopolista. Kto dziś jeszcze pamięta o tym portalu? A no właśnie. Toteż zrównywanie monopoli naturalnych ze sztucznymi jest niezbyt poważne. Największym zagrożeniem dla wolności jednostki było i zawsze będzie państwo, organizujące konflikty, wojny i kradzieże na skalę przemysłową.  
+  
+Pozostając jeszcze w sferze formy, to książka jest wydana przepięknie. Przykuwająca wzrok okładka, estetyczny układ tekstu, przyjemny, jakościowy papier – jak już drukować książki, to tylko takie!  
+Do oryginału dołączonych było 10 zagadnień do "dyskusji" ułożonych przez bodajże pierwszego wydawcę tego tytułu i tutaj również się znajdą. To coś w stylu ćwiczeń w podręczniku szkolnym na końcu tematu. W sumie dobra rzecz, dla utrwalenia i pogłębienia treści.  
+  
+No właśnie, to co z tą treścią? Jak sam tytuł wskazuje, Hayek snuje teoretyczne rozważania na temat odebrania państwu monopolu na emisję pieniądza. Opisuje takie zalety tego rozwiązania, jak np. uniknięcie inflacji i cykli koniunkturalnych, czy też uodpornienie się danej wspólnoty politycznej na międzynarodowe naciski, bo nawet gdyby była rządzona przez prawych ludzi, nieokradających swoich obywateli, to wciąż mogłaby zostać jakoś przymuszona do udziału w tym przestępczym procederze.  
+  
+Ciekawe jest to, że o ile uważał, że w momencie pisania tej książki nie było bezpieczniejszego systemu, niż standard złota, to opisuje, jakby działała emisja prywatnego pieniądza fiducjarnego (czy to trochę nie oksymoron? – można by spytać). Autor uważał, że konkurencja to lepsza metoda wywierania presji na emitentach do utrzymywania stałej wartości waluty, niż zobowiązanie jej wymienialności waluty do złota plus jest tańsza od skupowania i przechowywania metali. Po prostu bank indeksowałby swoje konta we własnej walucie. "Mogłoby się to wydać szokujące, ale przecież to od prawie wieku robią banki centralne. "Ich pieniądze są wymienialne dokładnie do niczego.  
+By utrzymać kontrolę nad obiegiem waluty, bank będzie musiał oprzeć lwią część swojej działalności na pożyczkach krótkoterminowych, by móc szybko zredukować ilość wyemitowanej waluty. Jeśli byłby znany z szybkiego działania i utrzymywałby stałą wartość, to rósłby popyt na jego walutę, bo gwarantowałaby ona podmiotom rynkowym bezpieczne warunki funkcjonowania; większą stabilność cen i mniej błędnej alokacji zasobów.  
+  
+Wątków jest jeszcze parę, rzekłbym dość sporo, jak na tak krótką książeczkę, ale zapoznajcie się z nimi sami. Raz, że jest trochę ciekawostek historycznych i znalazła się nawet dygresja metodologiczna, a dwa – jest to praca na swój sposób prorocza, bo Hayek opisał coś, co częściowo jest dziś realizowane przez kryptowaluty. Także czapki z głów i do lektury!

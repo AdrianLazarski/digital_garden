@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Hayek, Denacjonalizacja pieniądza.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,11 +268,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hayek, Denacjonalizacja pieniądza"
+              "title": "MOC Dzieła filozoficzne"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -408,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Dzieła ekonomiczne"
+              "title": "Konspekt MOC Dzieła filozoficzne"
             }
           }
         ],
@@ -490,11 +490,16 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "5d53ae3ec8b28959",
+  "active": "1a584a7634fe7609",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Hayek, Nadużycie rozumu.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Hayek, Denacjonalizacja pieniądza.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Foss, Klein, Organizowanie działania przedsiębiorczego.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Epstein Alex, Przyszłość paliw kopalnych.md",
     "01 Input przejściowy/Ekonomia/Dzieła/de Jouvenel Bertrand, Redystrybucja. Grabież czy ignorancja.md",
     "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md",
@@ -511,12 +516,7 @@
     "01 Input przejściowy/Ekonomia/Dzieła/Ballve Faustino, Elementarz ekonomii.md",
     "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Ekonomia/MOC Koncepcje ASE.md",
-    "03 Atomy/Frédéric Bastiat.md",
-    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
-    "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Bagus Phliip, Era Mileia.md"
+    "03 Atomy/Frédéric Bastiat.md"
   ]
 }

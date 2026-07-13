@@ -1,3 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - "#ekonomia"
+  - "#filozofia/nauki"
+  - filozofia/współczesna
+  - filozofia/austriacka
+  - filozofia/ekonomii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 20:49
+---
 
 
 | Warszawa 2013 | ![[Pasted image 20241130193151.png\|right\|166]] |
@@ -224,5 +237,3 @@
 ### 17 Comte i Hegel
 
 
-
-#ekonomia #liberalizm #ase #filozofia #filozofia/współczesna #filozofia/austriacka #filozofia/nauki #filozofia/ekonomii 

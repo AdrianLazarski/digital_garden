@@ -8365,6 +8365,16 @@
             "timeKey": "20:35",
             "w": 1,
             "c": 6
+          },
+          {
+            "timeKey": "20:45",
+            "w": 4,
+            "c": 46
+          },
+          {
+            "timeKey": "20:50",
+            "w": 4,
+            "c": 33
           }
         ],
         "id": 697
@@ -8560,7 +8570,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
         "wordCountStart": 153,
         "charCountStart": 1232,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 1,
+            "c": 5
+          }
+        ],
         "id": 711
       },
       {
@@ -8794,9 +8810,61 @@
             "timeKey": "20:35",
             "w": 18,
             "c": 137
+          },
+          {
+            "timeKey": "20:45",
+            "w": 544,
+            "c": 3798
           }
         ],
         "id": 726
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Hayek, Nadużycie rozumu.md",
+        "wordCountStart": 5114,
+        "charCountStart": 38212,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 24,
+            "c": 205
+          },
+          {
+            "timeKey": "20:50",
+            "w": -8,
+            "c": -74
+          }
+        ],
+        "id": 727
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
+        "wordCountStart": 21,
+        "charCountStart": 162,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 4,
+            "c": 37
+          }
+        ],
+        "id": 728
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+        "wordCountStart": 29,
+        "charCountStart": 226,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 4,
+            "c": 35
+          }
+        ],
+        "id": 729
       }
     ]
   }
