@@ -8395,6 +8395,11 @@
             "timeKey": "21:20",
             "w": 16,
             "c": 121
+          },
+          {
+            "timeKey": "21:40",
+            "w": 7,
+            "c": 73
           }
         ],
         "id": 697
@@ -9122,6 +9127,20 @@
           }
         ],
         "id": 742
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+        "wordCountStart": 856,
+        "charCountStart": 6421,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 825,
+            "c": 6325
+          }
+        ],
+        "id": 743
       }
     ]
   }
