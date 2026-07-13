@@ -1,4 +1,18 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - definicja
+  - ref
+  - ekonomia
+  - filozofia/ekonomii
+  - filozofia/nauki
+  - filozofia/współczesna
+  - filozofia/austriacka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 21:59
+---
+  Theory and History. An Interpretation of Social and Economic Evolution, 1957
 
 
 
@@ -301,5 +315,32 @@
 - Postęp gospodarczy to efekt akumulacji dóbr kapitałowych w stopniu przekraczającym wzrost ludności.
 - Wartość demokracji i instytucji konstytucyjnych polega na możliwości pokojowej zmiany metod rządzenia i personelu.
 
+# Recenzja
 
-#ekonomia #liberalizm #ase #filozofia #filozofia/współczesna #filozofia/austriacka #filozofia/nauki #filozofia/historiozofia 
+Niezwykle zajmująca i łatwa w przyswajaniu książka z zakresu filozofii i metodologii nauk, obfitująca też w liczne dygresje; czasem bardziej, czasem mniej trafne. Mises, wybitny ekonomista i twórca prakseologii, skupia się w niej na takich wynaturzeniach jak scjentyzm, historyzm i historycyzm nie po to, by deprecjonować historię jako naukę, ale by ją ochronić przed różnej maści ideologami, pragnącymi uczynić ją swoją prostytutką. I udało mu się to całkiem nieźle.  
+  
+Wywód zaczyna się od wprowadzenia w dualizm metodologiczny. Mises krótko i klarownie wyjaśnia potrzebę stosowania innych metod w naukach społecznych, a innych w naukach szczegółowych. Temat ten mocno wiąże się z wartościowaniem i to jemu jest poświęcona pierwsza z czterech części książki. W jej ramach autor prowadzi rozważania dotyczące jednostki, społeczności, prawa naturalnego i sprawiedliwości. Reprezentuje tu stanowisko mocno utylitarne.  
+  
+Druga część książki nosi tytuł "Determinizm i materializm". Nie znam na tyle biografii Misesa, więc nie umiem stwierdzić, ale ciekawe czy tematykę prawdopodobieństwa konsultował ze swoim bratem Richardem, słynnym matematykiem. Mniejsza. Autor broni tu determinizmu przed zarzutami o ignorowanie czynników ideologicznych w historii, gdyż jest to cecha materializmu, a nie determinizmu, który dla Misesa "stanowi epistemologiczną podstawę poszukiwania wiedzy". Nie jestem przekonany do tego stanowiska, ale zaraz pojawia się coś, co można słynnemu Austriakowi poczytać jako zasługę, mianowicie podkreśla, że niedoskonałe prawo przyczynowości w mechanice kwantowej nadal jest prawem przyczynowości. "Pojęcie prawdopodobieństwa i przypadkowości odnoszą się do ludzkiej wiedzy, przewidywania i działania, a nie do biegu zdarzeń we wszechświecie. Mają konotacje prakseologiczne, a nie ontologiczne." Co prawda jest to coś, co powinien wiedzieć każdy student filozofii pierwszego roku, ale w kulturze popularnej ta informacja jest mało obecna, więc zawsze cieszy, jak ktoś rozpowszechnia taką wiedzę.  
+  
+Z determinizmu następuje płynne przejście do materializmu i jej odmiany dialektycznej, gdzie Mises bezlitośnie pastwi się nad Marksem i jego kolegą fabrykantem, wprowadzając najpierw czytelnika w Heglizm, by następnie pokazać, jak bardzo postawili idealizm Hegla na głowie, udając jego kontynuatorów. Pojawia się tutaj też temat filozofii dziejów i nie jest to może tak wyraźnie zaakcentowane, ale dostaje się tu historycyzmowi, który jest, jak to ładnie ujął dr Machaj we wstępie, "systemem teoretycznym wyjaśniającym ewolucję społeczno-gospodarczą".  
+  
+Kolejny i najdłuższy dział książki to już część właściwa. Na pierwszy ogień idzie historyzm, czyli przekonanie, że oprócz nauk szczegółowych i logiki nie ma innej wiedzy, niż historia i że w sferze ludzkiego działania nie ma żadnych niezmiennych praw. Na początku była to osiemnastowieczna reakcja na racjonalizm, ale później historyzm stał się narzędziem każdej pseudofilozoficznej kliki, wspierającej współczesną sobie kastę rządzącą. Po Wilhelmie Dilthey'u historyści dopuścili psychologię do szacownego grona nauk, ale ekonomia dalej im wadziła, bo znacznie ograniczała samowolkę rządu. Tego Mises nie napisał, ale w aspekcie funkcjonalnym, następcą historycyzmu będzie keynesizm, bo też egzystuje głównie jako instrument polityków.  
+  
+Historyści wymyślali sobie różne dyscypliny, mające uzasadniać ich sympatie, Mises wymienia: ekonomię realistyczną, instytucjonalną, etyczna i ekonomiczne aspekty nauk politycznych. W żadnej z nich nie troszczono się o uzasadnienie epistemologiczne. Tak ma być i koniec! Żeby było zabawniej, często lubią sobie przeczyć i utrzymują, że jakieś tendencje, które były obecne w przeszłości, wystąpią także w przyszłości.  
+  
+Potem w kolejce do bicia są scjentyści. Wśród nich wyróżnia przede wszystkim behawiorystów i panfizykalistów. Ci pierwsi chcą wyjaśniać wszystko przez slogan "dostosowywania się" i badać zachowania metodami psychologii zwierząt i dzieci. Nie udało im się jednak nigdy wyjaśnić różnicy pomiędzy ich dziedziną a fizjologią. Nie można wyjaśniać zachowania jednostki, bez uwzględnienia tego, jakie ona mu nadaje znaczenie. Ci drudzy zaś uważają, że procedury fizyki jedyną naukową metodą. Mises zauważa jednak, że ludzie różnie reagują na te same bodźce, więc takie podejście nic nie wyjaśnia. Czemu inżynier buduje akurat taki most, który się nie zawali, a nie jakikolwiek? Zresztą, dopóki pozytywista nie wyjaśni swojej filozofii i wyprowadzonych z niej polityki w kategoriach swojego własnego schematu bodźca i reakcji, dopóty sam siebie obala. W innym przypadku traktują siebie jako wysłanników Bogów, co też zresztą miało miejsce, czego dowodem są Goebbels i Mannheim.  
+  
+Następnie dostajemy fragmenty na temat indywidualizmu i dość satysfakcjonującą krytykę kolektywizmu. Słusznie zauważa autor, że "Filozofia kolektywistyczna to forma realizmu pojęciowego, przekształcająca doktrynę epistemologiczną w twierdzenie etyczne.". Nie ma żadnych podstaw we wszelakich nacjonalizmach, rasizmach, czy egalitaryzmach których rdzeniem jest kolektywizm.  
+  
+Dalsze fragmenty dotyczą podziału na psychologię i tymologię. Ta pierwsza zajmować ma się psychologią naturalistyczną, a druga ludzkim wartościowaniem i aktami woli. Tymologia to część historii, bo czerpie wiedzę z doświadczenia historycznego. Mises podkreśla, że prakseologia nie zajmuje się tymologicznymi aspektami wartościowania, tylko samym działaniem. Jest to o tyle ciekawe, że zawsze zaznacza, że ekonomia jest tylko częścią prakseologii i że psychologia też się w niej mieści. Niezbyt rozumiem jak, w obliczu takich oświadczeń. No trudno.  
+  
+Jeszcze w okolicach tymologii, ciekawe były rozważania z zakresu estetyki. Otóż koncepcja prawdy i fałszu w literaturze pięknej dotyczy tylko wiarygodności tymologicznej. Nieważne, czy fabuła jest wypełniona smokami i magią, bo nadal może być spójna i przyjemna w odbiorze. Jeśli jednak portret psychologiczny nie będzie przekonujący, to książka będzie traktowana jako nielogiczna i po prostu zła. Od razu nasuwają się na myśli książki Ayn Rand, które przez wiele osób są odbierane jako nieprzekonujące tymologicznie,mimo że jak najbardziej są spójne pod tym względem, ale dotyczą tak specyficznych jednostek, że ludzie mogą być nieświadomi istnienia takich "światów wewnętrznych".  
+  
+Mises zauważa też, że "historia interesuje się jednostką z punktu widzenia wpływu, jaki wywiera ona na grupę lub traktuje ją jako typowego przedstawiciela danej grupy." i zwraca uwagę, że naturaliści, z Zolą na czele, nie rozumieli tego i tworzyli straszne gnioty, a tam, gdzie napisali coś lepszego, to dzięki niestosowaniu się swoich, motywowanych potrzebą akceptacji przez pozytywistów, zasad. Jednocześnie twierdzi, że nie ma obiektywnej estetyki, co wskazuje, że niezbyt dokładnie to przemyślał.  
+  
+Skoro już pojawiła się krytyka, to nie można zapomnieć o tym, co autor wypisywał o chrześcijaństwie. Takiego steku bzdur to się nie spodziewałem po kimś tak dobrze oczytanym. Stwierdził, że skoro Bóg jest wszechmocny, to nie może się zdarzyć nic, czego by on nie chciał. Następnie wyciągnął z tego brak odpowiedzialności człowieka. Przecież to "antynomia" na poziomie gimnazjalisty w fedorze, co zaorał katechetkę na religii w szkole. Bóg bardziej ceni sobie wolność Misesa, niż to, żeby się nie onanizował przed wykładami, co nie znaczy, że Bóg pragnął, by Austriak żydowskiego pochodzenia walił Niemca po hełmie w swojej kanciapie na uczelni. Co następne? ""Władza świecka stanowiła instrument walki reformacji z kontrreformacją". To raczej religia stanowiła instrument władzy świeckiej. I w ogóle z narracji Misesa wynika, że dobrowolne przyjmowanie chrześcijaństwa po IV wieku to mniejszość przypadków, co jest nieprawdą. Dalej pisze, że rycerstwo było sprzeczne z "nadstawianiem drugiego policzka", co pokazuje, że zupełnie nie rozumie tej Ewangelii. Jak najbardziej istnieje kategoria wojny sprawiedliwej, a drugi policzek można nadstawiać tylko jak, przyniesie to coś dobrego. W innym przypadku trzeba kupców wypędzać ze świątyni biczem jak Pan Jezus. I na koniec wisienka na torcie: "Nie sądźcie, byście nie byli sądzeni" jako zakaz istnienia sądownictwa. Poważnie, tak to zrozumiał. Ręce opadają.  
+  
+Z błędów niezwiązanych z chrześcijaństwem, to mamy stwierdzenie, że "Grupa nie jest bytem ontologicznym". Raz, że to pleonazm, a dwa to nieprawda, bo byt relacyjny to jak najbardziej byt. O ile Mises był świetnym filozofem nauki i polityki, tak widać u niego poważne braki w podstawach filozofii klasycznej. Napisał też, że "Arystoteles widział rozróżnienie wolności i despotyzmu w zewnętrznej cesze rządu – liczbie ludzi sprawujących władzę (demokracja, monarchia, oligarchia),ale nie tłumaczy to III Rzeszy, czy ludowego poparcia dla innych tyranów". Owszem, w klasyfikacji Arystotelesa nie ma miejsca dla totalitaryzmu, ale rozróżnienie na wolność i despotyzm i nie polegała w ogóle na liczbie sprawujących władzę. O wolność dbają monarchia, arystokracja i politeia, a ich zdegenerowanymi odpowiednikami są tyrania, oligarchia i demokracja. Jakościowa różnica leży w zepsuciu jej reprezentantów, liczba nie ma nic do rzeczy.  
+  
+To tyle. Przeczytać "Teorię a historię" jak najbardziej warto, bo wiele można się dowiedzieć i jest to najzwyczajniej w świecie książka przyjemna. Tym bardziej, jeśli macie za sobą "Ludzkie działanie" i czujecie niedosyt tematyki metodologicznej. Nieliczne błędy tak naprawdę nie mają znaczenia dla myśli przewodniej książki i czynią tego tytana intelektu bardziej ludzkim i bliższym szaremu człowiekowi.

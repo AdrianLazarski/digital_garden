@@ -3,11 +3,12 @@ created: 2026-02-28 19:46
 tags:
   - ekonomia
   - ref
+  - filozofia/nauki
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 21:54
 ---
-
+1940 niemieckie, 1963 angielskie, 2011 polskie wydanie
 
 ## Rozdział 1 Działający człowiek
 
@@ -870,6 +871,6 @@ Brak nadwyżki to nie tylko brak zysku, ale i strata!
 - "W dłuższej perspektywie nie ma czegoś takiego jak niepopularny system rządów".
 - Ekonomia jest neutralna w stosunku do wszystkich sądów wartościujących, gdyż odnosi się tylko do środków, a nie celów ostatecznych.
 
+# Recenzja
 
-
-#ekonomia #liberalizm #ase 
+Ludzkie działanie (LD) to najważniejszy traktat ekonomiczny wszech czasów. Autor przedstawia w nim metodologię austriackiej szkoły, którą zainteresować powinien się każdy liberał. Książka jest gruba i po jakichś 200-300 stronach czyta się trochę ciężej, ale wysiłek włożony w lekturę zwraca się. Mises wykłada w LD ekonomię, będącą częścią prakseologii, czyli nauki o ludzkim działaniu. Deklaratywnie wychodzi z jednego aksjomatu (|faktycznie z większej liczby),mówiącego, że ludzie podejmują działanie by zastąpić stan mniej pożądany stanem bardziej pożądanym, a następnie dedukuje z niego całą teorię ekonomiczną. Jeżeli aksjomat jest poprawny, (spróbuj zaprzeczyć mu - będzie to działanie),to wszystko co jest z niego wydedukowane jest również poprawne. Praca Misesa to coś niezwykle ważnego w dziejach ludzkości, bo pokazuje nam, że jesteśmy ograniczeni nie tylko przez prawa fizyki i nasze biologiczno-środowiskowe uwarunkowania, ale również przez prawa prakseologiczne. Za pomocą tego odkrycia, omawia bardzo szczegółowo społeczeństwo rynkowe, problem kalkulacji ekonomicznej w socjalizmie, interwencjonizm czy cykle koniunkturalne. Bezbłędnie wykazuje dyletanctwo współczesnych intelektualistów, którzy stanowią współczesną klasę kapłańską, karmiącą społeczeństwo bajeczkami o państwie przezwyciężającym prawa wszechświata. To dlatego szkoła austriacka jest od wielu lat marginalizowana i mordowana milczeniem. Pasożyty nienawidzą Misesa i jego spadkobierców za to, że ośmielili się powiedzieć, że król jest nagi.

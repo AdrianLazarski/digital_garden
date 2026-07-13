@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - ref
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 21:57
+---
 1947
 
 ## Przedmowa Leonarda E. Reada
@@ -138,4 +148,3 @@ Narracja, że dobrostan amerykańskich czy australijskich robotników jest okupi
 Książka kończy się rozważaniami o rzekomej nieuchronności socjalizmu i pewnymi uwagami z zakresu filozofii nauk społecznych. Mimo upływu lat wciąż stanowi interesujące i wartościowe spojrzenie klasycznego liberała na politykę pierwszej połowy XX wieku, tym bardziej, że cła nie wyszły z mody i niektórzy, na wzór faszystów, utożsamiają bogactwo państw z dostępem do surowców.
 
 
-#ekonomia #ase #liberalizm #faszyzm #socjalizm #nazizm 

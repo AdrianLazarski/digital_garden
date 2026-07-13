@@ -8410,6 +8410,11 @@
             "timeKey": "21:50",
             "w": 13,
             "c": 105
+          },
+          {
+            "timeKey": "21:55",
+            "w": 6,
+            "c": 44
           }
         ],
         "id": 697
@@ -8926,6 +8931,11 @@
             "timeKey": "20:50",
             "w": 10,
             "c": 81
+          },
+          {
+            "timeKey": "22:00",
+            "w": 7,
+            "c": 45
           }
         ],
         "id": 730
@@ -9217,11 +9227,49 @@
         "changes": [
           {
             "timeKey": "21:50",
-            "w": 20,
-            "c": 152
+            "w": 17,
+            "c": 124
+          },
+          {
+            "timeKey": "21:55",
+            "w": 208,
+            "c": 1605
           }
         ],
         "id": 747
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Planowany Chaos.md",
+        "wordCountStart": 2688,
+        "charCountStart": 20200,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 15,
+            "c": 110
+          }
+        ],
+        "id": 748
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Teoria a historia.md",
+        "wordCountStart": 3571,
+        "charCountStart": 27319,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 21,
+            "c": 166
+          },
+          {
+            "timeKey": "22:00",
+            "w": 1337,
+            "c": 9649
+          }
+        ],
+        "id": 749
       }
     ]
   }

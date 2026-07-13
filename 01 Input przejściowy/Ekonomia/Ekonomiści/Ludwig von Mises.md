@@ -19,7 +19,7 @@
 
 [[Mises Ludwig von, Mentalność antykapitalistyczna]]
 [[Mises Ludwig von, Ludzkie działanie]]
-[[Mises Ludwig von, Teoria a histora]]
+[[Mises Ludwig von, Teoria a historia]]
 [[Mises Ludwig von, Kalkulacja ekonomiczna w socjalizmie]]
 
 # Poglądy 🔍
