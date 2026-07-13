@@ -13,8 +13,8 @@ modified date: 2026-07-10 14:09
 
 # Teoria ekonomii
 
-[[Mises Ludwig von, Ludzkie działanie]]
-[[Foss, Klein, Organizowanie działania przedsiębiorczego]], 
+[[Mises Ludwig von, Ludzkie działanie]], 1940
+[[Foss, Klein, Organizowanie działania przedsiębiorczego]], 2012
 
 
 # Popularnonaukowe

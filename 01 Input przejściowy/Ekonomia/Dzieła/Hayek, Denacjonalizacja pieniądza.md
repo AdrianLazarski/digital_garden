@@ -1,8 +1,18 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - ref
+  - ekonomia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-13 20:35
+---
 
 
 
 - Dobry żart tłumacza, że Hayek jest Satoshim Nakamoto.
-- Nowoczesne rządy odziedziły po swoich poprzednikach "regalia" mennicze, tylko w zmienionej formie tj. jako instytucję banku centralnego.
+- Nowoczesne rządy odziedziczyły po swoich poprzednikach "regalia" mennicze, tylko w zmienionej formie tj. jako instytucję banku centralnego.
 - Hayek w wywiadach tytułował się "starym wigiem".
 - Hayek wyróżniał dwie tradycje liberalne:
 	- Anglosaska od Locke, sceptyczna wobec możliwości ludzkiego rozumu, antyscjentystyczna, podkreślająca odpowiedzialność jednostki
@@ -56,4 +66,3 @@ Hayek:
 - Bywało tak, że kraje, którym się udało obniżyć roczną stopę inflacji do 5%, były wzywane przez inne, nadal zwiększające inflację o 15% rocznie, by dopomogły im poprzez "reflację".
 
 
-#ekonomia #liberalizm #ase 

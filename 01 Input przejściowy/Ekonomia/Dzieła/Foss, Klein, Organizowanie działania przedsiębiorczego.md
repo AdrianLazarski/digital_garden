@@ -7,7 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 20:33
 ---
-
+  *Organizing Entrepreneurial Judgement: A New Approach to the Firm*, 2012
 
 ## Wstęp
 - Dyskusja o przedsiębiorczości za bardzo nie istniała do lat 70, gdy wydobyto na światło dzienne Naturę firmy (1937) Cose'a.

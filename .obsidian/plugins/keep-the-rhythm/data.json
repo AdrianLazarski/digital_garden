@@ -8358,8 +8358,13 @@
           },
           {
             "timeKey": "20:30",
-            "w": 11,
-            "c": 116
+            "w": 12,
+            "c": 120
+          },
+          {
+            "timeKey": "20:35",
+            "w": 1,
+            "c": 6
           }
         ],
         "id": 697
@@ -8773,11 +8778,25 @@
         "changes": [
           {
             "timeKey": "20:30",
-            "w": 17,
-            "c": 121
+            "w": 27,
+            "c": 195
           }
         ],
         "id": 725
+      },
+      {
+        "date": "2026-07-13",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Hayek, Denacjonalizacja pieniądza.md",
+        "wordCountStart": 1321,
+        "charCountStart": 9752,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 18,
+            "c": 137
+          }
+        ],
+        "id": 726
       }
     ]
   }
