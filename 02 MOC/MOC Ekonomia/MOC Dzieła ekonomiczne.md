@@ -13,6 +13,7 @@ modified date: 2026-07-10 14:09
 
 # Teoria ekonomii
 
+[[Smith Adam, Badania nad naturą i przyczynami bogactwa narodów]], 1776
 [[Menger Carl, Zasady ekonomii]], 1871
 [[Mises Ludwig von, Kalkulacja ekonomiczna w socjalizmie]], 1920
 [[Mises Ludwig von, Ludzkie działanie]], 1940
@@ -37,6 +38,7 @@ modified date: 2026-07-10 14:09
 [[Ballve Faustino, Elementarz ekonomii]], 1956
 [[Mises Ludwig von, Mentalność antykapitalistyczna]], 1956
 [[Rothbard Murray, Ekonomiczny punkt widzenia]], 1995
+[[Woods Thomas E., Kościół a wolny rynek]], 2005
 [[Murphy Robert P., Niepoprawny politycznie przewodnik po kapitalizmie]], 2006
 [[Caplan Bryan, Mit racjonalnego wyborcy]], 2007
 [[Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci]], 2011
@@ -47,3 +49,4 @@ modified date: 2026-07-10 14:09
 [[Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii]], 2019
 [[Epstein Alex, Przyszłość paliw kopalnych]], 2022
 [[Kaiser Axel, Uliczny ekonomista]], 2022
+[[Tupy, Pooley, Superobfitość]], 2022

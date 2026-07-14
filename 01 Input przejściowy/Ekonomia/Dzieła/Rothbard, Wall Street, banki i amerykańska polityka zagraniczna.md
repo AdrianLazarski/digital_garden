@@ -8,8 +8,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-14 19:05
 ---
-
-
+Wall Street, Banks, and American Foreign Policy, 1984
 
 - Nie wiem czemu we wprowadzeniu Raimonda z 1995 r. mamy informację o wydarzeniu z 2005 r.
 - Marks był autorem splagiatowanej, zniekształconej i uproszczonej wersji analizy klasowej, opartej na ricardiańskiej, laborystycznej teorii wartości. Zasługą Rothbarda przywrócenie właściwej teorii, gdzie ludzie są przeciwstawieni państwu. Tyle, że Rothbard w eseju nic o tym nie pisze, więc wtf?

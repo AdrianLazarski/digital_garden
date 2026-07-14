@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - historia/gospodarcza
+  - ref
+  - historia/Polski
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-14 19:10
+---
 wyd. niemieckie 2023
 Wrocław 2024, tłum. Katarzyna Jopek
 

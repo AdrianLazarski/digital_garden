@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+  - religia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-14 19:09
+---
 *The Church and the Market*, 2005 r.
 
 
@@ -86,5 +96,3 @@ Na rynku wytwarza się i wymienia bogactwo. Nie ma żadnych dystrybutorów, wię
 
 Zarzucenie kapitalizmowi materializmu jest bez sensu. Równie dobrze katolickiej nauce społecznej można zarzucić materializm, skoro zmierza do zapewniania robotnikom większej ilości dóbr materialnych.
 
-
- #libertarianizm #chrześcijaństwo #ekonomia 

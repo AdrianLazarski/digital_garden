@@ -81,8 +81,7 @@
       "2026-07-06",
       "2026-07-07",
       "2026-07-10",
-      "2026-07-13",
-      "2026-07-14"
+      "2026-07-13"
     ],
     "dailyActivity": [
       {
@@ -9423,8 +9422,13 @@
           },
           {
             "timeKey": "19:05",
-            "w": 1,
-            "c": 9
+            "w": 15,
+            "c": 119
+          },
+          {
+            "timeKey": "19:10",
+            "w": 8,
+            "c": 49
           }
         ],
         "id": 758
@@ -9453,7 +9457,18 @@
         "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
         "wordCountStart": 39,
         "charCountStart": 344,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 9,
+            "c": 74
+          },
+          {
+            "timeKey": "19:10",
+            "w": 6,
+            "c": 47
+          }
+        ],
         "id": 760
       },
       {
@@ -9492,11 +9507,94 @@
         "changes": [
           {
             "timeKey": "19:05",
-            "w": 18,
-            "c": 131
+            "w": 26,
+            "c": 183
           }
         ],
         "id": 763
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
+        "wordCountStart": 17868,
+        "charCountStart": 129198,
+        "changes": [],
+        "id": 764
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Smith Adam, Badania nad naturą i przyczynami bogactwa narodów.md",
+        "wordCountStart": 55,
+        "charCountStart": 407,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 19,
+            "c": 143
+          }
+        ],
+        "id": 765
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
+        "wordCountStart": 3845,
+        "charCountStart": 27190,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 22,
+            "c": 173
+          }
+        ],
+        "id": 766
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Wstęp do ASE.md",
+        "wordCountStart": 6365,
+        "charCountStart": 48765,
+        "changes": [
+          {
+            "timeKey": "19:10",
+            "w": -1190,
+            "c": -9630
+          },
+          {
+            "timeKey": "19:15",
+            "w": -255,
+            "c": -2080
+          }
+        ],
+        "id": 767
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Woods Thomas E., Kościół a wolny rynek.md",
+        "wordCountStart": 1225,
+        "charCountStart": 8805,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 18,
+            "c": 119
+          }
+        ],
+        "id": 768
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Zitelmann Rainer, Wzlot orła białego.md",
+        "wordCountStart": 692,
+        "charCountStart": 4826,
+        "changes": [
+          {
+            "timeKey": "19:10",
+            "w": 24,
+            "c": 197
+          }
+        ],
+        "id": 769
       }
     ]
   }

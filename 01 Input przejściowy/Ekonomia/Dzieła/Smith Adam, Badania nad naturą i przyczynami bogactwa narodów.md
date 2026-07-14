@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - liberalizm
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-14 19:07
+---
 
 
 - Pisana 12 lat, wydana w 1776 r.
@@ -10,6 +20,3 @@
 
 
 
-
-
-#ekonomia #liberalizm 
