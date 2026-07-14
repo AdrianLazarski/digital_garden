@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-14 18:52
+---
 
 
 
@@ -80,4 +89,18 @@ W latach 2009-14 sfinansował zakup ponad 25 Boeingów.
 - Odsetek czarnoskórych kibiców hokeja na lodzie jest nieproporcjonalny do liczby czarnych w populacji. Stwierdzenie tego faktu nie jest rasistowskie i nie jest dowodem "dyskryminacji".
 
 
-#ekonomia #liberalizm 
+# Recenzja
+
+„52 mity o kapitalizmie” to zbiór krótkich esejów, omawiających i odpierających zarzuty wobec kapitalizmu i wolnego rynku. Zakres tematyczny obejmuje nie tylko ekonomię, ale także socjologię, historię gospodarczą, etykę, filozofię prawa, a nawet literaturę piękną. Pokazuje to nie tylko dużą erudycję autora i doświadczenie w dyskusjach politycznych, ale także, z jaka łatwością mnożą się fałszywe tezy, gdy ludzie nie weryfikują informacji.  
+  
+Przykładowo łatwo stwierdzić, że kapitalizm premiuje wybijanie zagrożonych gatunków albo zużywanie rzadkich zasobów dla zysku. Tymczasem, gdy państwo zabrania korzystania z jakiegoś surowca lub racjonuje dostęp do niego, powstają natychmiast czarne rynki i w ich ramach odbywa się rywalizacja o jak najszybszą, całkowitą eksploatację danych dóbr – stwierdza Reed. Wysokie marże na zakazanych towarach przyciągają kłusowników i dlatego czarne nosorożce są na wyginięciu mimo zakazów polowań na nie. W warunkach faktycznie wolnorynkowych możliwa byłaby hodowla i handel rzadziej występującymi gatunkami, co zapewniałoby zachowanie bioróżnorodności – kury i krowy są raczej daleko od wyginięcia.  
+  
+Podobnie kapitalizm pomógłby np. z problemem wycinki drzew, bo zasoby naturalne mają swoją wartość kapitałową i nawet największy egoista, kierujący się tylko i wyłącznie rządzą zysku stricte pieniężnego, nie miałby żadnego interesu w ścięciu całego lasu na raz i raz na zawsze, bez prowadzenia racjonalnej gospodarki leśnej i nieustannego sadzenia nowych szkółek drzewnych.  
+  
+Innym przykładem może być to, że autor sprzeciwia się traktowaniu nierówności majątkowych jako poważnego problemu, jeśli nie są one wynikiem układów politycznych, a swobodnej działalności rynkowej. Pomijając typowe dla tego zagadnienia argumenty, przytacza bardzo ciekawą uwagę ekonomisty Donalda Boudreauxa: co z tego, że Bill Gates jest 70 tys. razy bogatszy, skoro nie konsumuje 70 tys. razy więcej kalorii, jego dzieci nie są 70 tys. razy lepiej wykształcone, nie podróżuje tyle razy szybciej i bezpieczniej i nie będzie żył o tyle dłużej. Oczywiście jak ktoś mieszka w wynajmowanym pokoju, a nie w willi i jeździ tramwajem, a nie lata prywatnym odrzutowcem, to różnice wydają się olbrzymią przepaścią, ale fakty są takie, że dzięki rozwojowi gospodarczemu i tak większość ludzi na na Zachodzie żyje na wyższym poziomie, niż dawni królowie.  
+  
+Nierówności, zdaniem Reeda, nie tylko nie są poważnym problemem, ale są też najczęściej nieuczciwie przedstawiane. Badania o wzroście ich poziomu często milczą na temat mobilności między grupami dochodowymi, czyli, mówiąc prościej, o zmianach sytuacji materialnej. Większość, spośród najlepiej zarabiających Amerykanów z 1979 roku, znalazło się dekadę później w niższej kategorii. Z kolei spośród 20% najbiedniejszych tylko 14,2% zostało w tej grupie. Reszta awansowała: 20,7% ludności o jedną grupę majątkową, 35% o dwie, 25,3% o trzy grupy, a 14,7% dołączyło do grona najbogatszych. To znaczy, że nawet różnica między najbogatszymi a innymi grupami dochodowymi jest większa niż kiedyś, to nie oznacza to, że to dawni najbogatsi są jeszcze bardziej bogaci, a dawni biedni są jeszcze biedniejsi. To są zupełnie nowe grupy ludzi, bo gospodarka kapitalistyczna nie jest jakimś niezmiennym system o nieprzekraczalnych kastach.  
+  
+Ciekawe też jest pokazanie, jak ingerencje państwa w gospodarkę bywają nieskuteczne i pogarszają sytuację, zamiast ją poprawić. Reed przytacza przypadek, w którym nałożenie wysokich podatków na prywatne jachty, samoloty i biżuterię w stanach miało przynieść, według zwolenników tego rozwiązania, 31 mln dolarów wpływów do budżetu. Przyniosło to jedynie 16,6 mln oraz doprowadziło do likwidacji 7600 miejsc pracy. W efekcie musiano zapłacić 24,4 mln dolarów zasiłków dla bezrobotnych, więc nie tylko ludzie potracili pracę, a konsumenci dóbr luksusowych pieniądze, ale również stracił budżet państwa.  
+  
+Reed omawia też takie problemy jak praca dzieci w czasach rewolucji przemysłowej, kryzysy finansowe, pomoc charytatywna, centralne planowanie, handel międzynarodowy, związki zawodowe, rozwój technologiczny, czy dbanie o kulturę. Przykłady interesujących fragmentów można mnożyć, ale nie zastąpi to samodzielnej lektury książki. Każdy jej rozdział zawiera krótkie podsumowanie, pozwalające na sprawne poruszanie się po książce i odświeżanie sobie szczególnie interesujących zagadnień. Książka ta stanowi więc swoiste kompendium wiedzy, przydatne na półce każdego zwolennika liberalizmu gospodarczego. Liczne źródła, cytaty, klarowny język i humor Reeda powinny zadowolić nawet najbardziej wybrednego czytelnika.

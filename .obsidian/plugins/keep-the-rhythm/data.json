@@ -81,7 +81,8 @@
       "2026-07-06",
       "2026-07-07",
       "2026-07-10",
-      "2026-07-13"
+      "2026-07-13",
+      "2026-07-14"
     ],
     "dailyActivity": [
       {
@@ -9376,6 +9377,25 @@
         "charCountStart": 6262,
         "changes": [],
         "id": 755
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Reed Lawrence W., 52 mity o kapitalizmie.md",
+        "wordCountStart": 1505,
+        "charCountStart": 10673,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 19,
+            "c": 142
+          },
+          {
+            "timeKey": "18:55",
+            "w": 635,
+            "c": 4618
+          }
+        ],
+        "id": 756
       }
     ]
   }
