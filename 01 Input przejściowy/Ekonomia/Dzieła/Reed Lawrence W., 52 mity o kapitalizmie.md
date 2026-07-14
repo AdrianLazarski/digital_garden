@@ -7,7 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-14 18:52
 ---
-
+Excuse Me, Professor: Challenging the Myths of Progressivism, 2015
 
 
 - Drzewa mahoniowie lasów równikowych pochłaniają więcej wody i słońca, niż inne rośliny czy zwierzęta, a ludziom to nie przeszkadza, za to przeszkadza im fakt, że przedsiębiorcy i inwestorzy kontrolują więcej zasobów, od innych ludzi.

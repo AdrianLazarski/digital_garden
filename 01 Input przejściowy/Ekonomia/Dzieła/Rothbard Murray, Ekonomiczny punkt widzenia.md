@@ -1,8 +1,19 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - ekonomia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-14 19:00
+---
+Making Economic Sense, 1995
 
 
 Liczby oznaczają nr artykułu.
 
-1 Hasło Clintona „Gospodarka głupcze” powinno brzmeć „Cykl koniunkturalny głupcze”.
+1 Hasło Clintona „Gospodarka głupcze” powinno brzmieć „Cykl koniunkturalny głupcze”.
 Uwzględniając inflację, dochody Amerykanów w latach 90 były niższe niż w latach 70, a główną motywacją pracy kobiet była nie kariera, a niemożność utrzymania z samej pensji męża.
 
 4 Taksflacja – wpychanie podatników w wyższe progi podatkowe poprzez inflacyjne nadmuchiwanie ich dochodów.
@@ -12,12 +23,12 @@ Uwzględniając inflację, dochody Amerykanów w latach 90 były niższe niż w 
 6 Rozkład normalny jest zupełnie arbitralnym założeniem i rozkład danych wygląda często inaczej niż krzywa dzwonowa.
 
 7 Ekonomia austriacka nie zajmuje się tylko badaniem niecelowych skutków ludzkiego działania. Przedsiębiorca, który nauczy się pewnych motywów teorii ekonomicznej, wiedzący, że maksymalizując zysk służy innym ludziom i obierający oba te cele na raz, unieważniałby wtedy teorię ekonomii.
-Zamieszanie zostało wywołane przez Adama Fergusona i Hayeka i zaczęto je wyorzystywać w polityce. No bo skoro działania ludzkie są niezamierzone albo nieświadome, to co z tego, że Lewiatan się rozrasta? To jak grzyb po deszczu.
+Zamieszanie zostało wywołane przez Adama Fergusona i Hayeka i zaczęto je wykorzystywać w polityce. No bo skoro działania ludzkie są niezamierzone albo nieświadome, to co z tego, że Lewiatan się rozrasta? To jak grzyb po deszczu.
 
-8 Impresjonizm socjologiczny – rozważanie społecznych lub gospodarczych zjawisk ostatnich kilku tygodni czy miesiecy w taki sposób, jakby trwać już miały zawsze.
+8 Impresjonizm socjologiczny – rozważanie społecznych lub gospodarczych zjawisk ostatnich kilku tygodni czy miesięcy w taki sposób, jakby trwać już miały zawsze.
 W długim okresie kapitał odpływa od inwestycji o niższym zwrocie do inwestycji o wyższym zwrocie. Tendencja ta jest międzynarodowa, więc prowadzi do migracji kapitału i do wyrównywania stóp procentowych w różnych państwach.
 
-10 Rothbard twierdzi, że ma żadnych danych empirycznych na potwierdzenie krzywej Laffera i że moża działałaby ona przy obniżce podatków z 98% do 90%, ale w innych przypadkach jednak obniżce podatków towarzyszy spadek dochodów państwa.
+10 Rothbard twierdzi, że ma żadnych danych empirycznych na potwierdzenie krzywej Laffera i że może działałaby ona przy obniżce podatków z 98% do 90%, ale w innych przypadkach jednak obniżce podatków towarzyszy spadek dochodów państwa.
 Słowo „populista” w amerykańskim znaczeniu nie zawsze było słowem pejoratywnym, bywa, że populizm to po prostu postawa antyelitarystyczna.
 H.L. Mencken: „Demokracja to pogląd uznający, że zwykli ludzie wiedzą, czego chcą, i zasłużyli sobie, aby to mocno i porządnie dostać”.
 
@@ -41,4 +52,3 @@ Wydatki federalne wzrosły w tym czasie o 117,1 procent.
 
 
 
-#ekonomia #liberalizm #ase #libertarianizm 

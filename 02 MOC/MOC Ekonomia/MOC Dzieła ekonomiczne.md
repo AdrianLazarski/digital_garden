@@ -27,7 +27,7 @@ modified date: 2026-07-10 14:09
 [[McCloskey Deirdre, Burżuazyjna godność]], 2011
 [[Majcherek Janusz, Źródła bogactwa i biedy ludzi oraz ich zbiorowości]], 2022
 
-# Popularnonaukowe
+# Popularnonaukowe i publicystyka
 
 
 [[Bastiat Frederic, Pamflety]], 1848-1850
@@ -36,10 +36,12 @@ modified date: 2026-07-10 14:09
 [[de Jouvenel Bertrand, Redystrybucja. Grabież czy ignorancja]], 1951
 [[Ballve Faustino, Elementarz ekonomii]], 1956
 [[Mises Ludwig von, Mentalność antykapitalistyczna]], 1956
+[[Rothbard Murray, Ekonomiczny punkt widzenia]], 1995
 [[Murphy Robert P., Niepoprawny politycznie przewodnik po kapitalizmie]], 2006
 [[Caplan Bryan, Mit racjonalnego wyborcy]], 2007
 [[Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci]], 2011
 [[Instytut Misesa - Polska mitologia kapitału. Czy jesteśmy kolonią zachodu]], 2015
+[[Reed Lawrence W., 52 mity o kapitalizmie]], 2015
 [[Caplan Bryan, Edukacja pod lupą]], 2018
 [[Caplan Brayan, Otwarte granice]], 2019
 [[Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii]], 2019

@@ -9391,11 +9391,112 @@
           },
           {
             "timeKey": "18:55",
-            "w": 635,
-            "c": 4618
+            "w": 644,
+            "c": 4684
           }
         ],
         "id": 756
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
+        "wordCountStart": 32,
+        "charCountStart": 243,
+        "changes": [],
+        "id": 757
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+        "wordCountStart": 202,
+        "charCountStart": 1692,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 8,
+            "c": 51
+          },
+          {
+            "timeKey": "19:00",
+            "w": 7,
+            "c": 60
+          },
+          {
+            "timeKey": "19:05",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 758
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Rothbard Murray, Economic Thought Before Adam Smith.md",
+        "wordCountStart": 298,
+        "charCountStart": 2326,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 18,
+            "c": 129
+          },
+          {
+            "timeKey": "19:00",
+            "w": 1,
+            "c": 4
+          }
+        ],
+        "id": 759
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
+        "wordCountStart": 39,
+        "charCountStart": 344,
+        "changes": [],
+        "id": 760
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
+        "wordCountStart": 34,
+        "charCountStart": 282,
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": 8,
+            "c": 61
+          }
+        ],
+        "id": 761
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Rothbard Murray, Ekonomiczny punkt widzenia.md",
+        "wordCountStart": 452,
+        "charCountStart": 3242,
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": 21,
+            "c": 154
+          }
+        ],
+        "id": 762
+      },
+      {
+        "date": "2026-07-14",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Rothbard, Wall Street, banki i amerykańska polityka zagraniczna.md",
+        "wordCountStart": 224,
+        "charCountStart": 1657,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 18,
+            "c": 131
+          }
+        ],
+        "id": 763
       }
     ]
   }

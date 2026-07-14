@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - ref
+  - historia/gospodarcza
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-14 19:05
+---
 
 
 
@@ -15,7 +25,3 @@ Rothbard
 
 - Banki inwestycyjne opierają sporą część swojego biznesu na skupowaniu rządowych obligacji, więc zależy im na promowaniu deficytu publicznego.
 - Od wojny secesyjnej do lat 90 XIX w. nie było praktycznie żadnych korporacji działających w przemyśle. Jedynym wyjątkiem była kolej, dlatego pierwsze banki inwestycyjne skupiły się na niej i na rządowych obligacjach.
-
-
-
-#ekonomia #liberalizm #ase #libertarianizm 
