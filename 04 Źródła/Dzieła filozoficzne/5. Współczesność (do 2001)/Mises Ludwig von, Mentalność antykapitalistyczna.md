@@ -4,6 +4,7 @@ tags:
   - ref
   - socjologia
   - ekonomia
+  - recenzja
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 22:09
@@ -32,3 +33,13 @@ modified date: 2026-07-13 22:09
 - Grecy piszący o wolności i prawach "tylko dla obywateli" nie byli gorsi od ludzi, którzy 2000 lat później podpisywali Deklarację Niepodległości, mając niewolników.
 - Antonio Graziadei, były komunistyczny poseł, miał we faszystowskich Włoszech wypłacaną profesorską emeryturę i mógł wydawać swoje bzdety w największych włoskich firmach wydawniczych.
 
+# Recenzja
+2017 r.
+
+Gwoli wstępu – Mentalność antykapitalistyczna, jak sam tytuł wskazuje, jest pracą socjologiczną. Nie rozumiem więc oburzeń, że za mało w niej było ekonomii. Takie oskarżenia mogły wysunąć tylko osoby, które nie rozumieją, że ekonomia zajmuje się ludzkim działaniem, a nie ludzką mentalnością.  
+  
+Co do samego eseju, to uważam go za wyśmienity. Mówi bardzo dużo o mentalności mas, biurowych pracowników umysłowych, próżniaczych dziedziców dużych majątków, intelektualistów oraz artystów. Krótko i treściwie wyjaśnia czym jest kapitalizm i jakiego są jego konsekwencje i na tej bazie przechodzi do lokowania w nim wymienionych grup, przedstawia ich zarzuty i bezlitośnie się z nimi rozprawia.  
+  
+Najbardziej zrobiła na mnie wrażenie obrona kultury w kapitalizmie (przewyższając nawet mój niesmak wywołany estetycznym subiektywizmem Misesa),bo nigdy tak o tym nie myślałem, ale de facto epoka kapitalistyczna wydała mnóstwo wspaniałych pisarzy i muzyków. Współistniejąca z nimi, niewymagająca popkultura nie powinna więc razić. Jest ona odpowiedzią na zapotrzebowanie mas, które w kulturze się nie orientują, ale też mają swoje potrzeby i wreszcie mają pieniądze na ich zaspokajanie. Są oczywiście ciemne strony popkultury, jak np. powieści kryminalne, bo jak dowodzi Mises, są one przejawem mentalności antykapitalistycznej, cieszącej się strącaniem z piedestałów ludzi, którzy z racji piastowania czcigodnych ról w społeczeństwie, stoją początkowo poza wszelkimi podejrzeniami. Osoba, której nie wyszło w życiu, utożsamiająca się z detektywem, czuje niebywałą przyjemność, gdy upodli jakiegoś człowieka sukcesu, a najlepiej jak wykaże, że sukces przestępcy opierał się na oszustwach, łapówkach i innych niecnych uczynkach. Ktoś może powiedzieć, że wcale tak wszystkie kryminały nie wyglądają i zapewne będzie miał rację. Nie wiem czy tendencja zmieniła się od czasów Misesa, ale nie mam ochoty tego sprawdzać, bo ten gatunek zupełnie mnie nie pociąga.  
+  
+Co tu dużo mówić - polecam. Polecam zarówno ludziom z dużą wiedzą na temat ekonomii i filozofii politycznej, jak i tym, którzy nie przeczytali nigdy żadnej poważnej pozycji na te tematy. Obie te grupy będą raczej usatysfakcjonowane.

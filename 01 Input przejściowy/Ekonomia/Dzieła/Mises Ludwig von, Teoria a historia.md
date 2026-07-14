@@ -13,8 +13,9 @@ status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 21:59
 ---
   Theory and History. An Interpretation of Social and Economic Evolution, 1957
+  [[Ludwig von Mises]]
 
-1956**Spis treści**
+**Spis treści**
 
 1. [Wstęp Machaja](#Wst%C4%99p%20Machaja)
 2. [Wprowadzenie](#Wprowadzenie)
