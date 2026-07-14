@@ -7,6 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-14 19:16
 ---
+https://mises.pl/artykul/wstep-austriackiej-szkoly-ekonomii-lista-30-tekstow-wybranych-redakcje-mises-pl
 
 
 scholastyków hiszpańskich, którzy jako pierwsi zaprezentowali indywidualistyczne i subiektywistyczne rozumienie cen i płac.

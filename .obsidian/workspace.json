@@ -320,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -456,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Dzieła/Wstęp do ASE.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Wstęp do ASE"
+              "title": "Konspekt MOC Dzieła ekonomiczne"
             }
           }
         ],
@@ -538,15 +538,15 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "1a584a7634fe7609",
+  "active": "5d53ae3ec8b28959",
   "lastOpenFiles": [
+    "01 Input przejściowy/Ekonomia/Dzieła/Wstęp do ASE.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Zitelmann Rainer, Wzlot orła białego.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Woods Thomas E., Kościół a wolny rynek.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Wstęp do ASE.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Smith Adam, Badania nad naturą i przyczynami bogactwa narodów.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
