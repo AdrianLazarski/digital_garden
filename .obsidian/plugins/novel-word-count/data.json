@@ -133897,20 +133897,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 24,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.08,
+      "characterCount": 228,
+      "nonWhitespaceCharacterCount": 209,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 0.09056603773584905,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1784542316952,
-      "modifiedDate": 1784542334883,
-      "sizeInBytes": 155,
+      "modifiedDate": 1784544124463,
+      "sizeInBytes": 385,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -133922,11 +133922,11 @@
       "frontmatter": {
         "created": "2026-07-20 12:11",
         "tags": [
-          "atom",
-          "definicja"
+          "ref",
+          "ekonomia"
         ],
         "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
+        "status_epistemiczny": "Uzasadniony ✅",
         "modified date": "2026-07-20 12:12"
       }
     }
