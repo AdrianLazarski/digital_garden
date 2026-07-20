@@ -24,4 +24,13 @@ https://instytutsprawobywatelskich.pl/stephanie-kelton-mit-deficytu-nowoczesna-t
 	- Śmieszny, retoryczny, przeideologizowany styl.
 - <mark style="background:#fdbfff">Jeżeli rzeczywiście chce coś osiągnąć, to pieniądze zawsze się znajdą.</mark> Gdyby nasi ustawodawcy chcieli, mogliby już dziś wprowadzić ustawy mające na celu podniesienie standardu życia, zwiększenie inwestycji w edukację, w nowe technologie, budowę trwałej infrastruktury. <mark style="background:#ff4d4f">Wydawanie lub niewydawanie pieniędzy to decyzja polityczna. </mark><mark style="background:#affad1">Oczywiście ekonomiczne konsekwencje każdej nowej ustawy powinny być dobrze przemyślane</mark>.
 	- Sama sobie sobie zaprzecza i to wielokrotnie. A, nie A, A, nie A. Nic dziwnego, że nie da się dotrzeć do tych debili.
-- 
+- "Mit ten opiera się na <mark style="background:#ff4d4f">błędnym założeniu, zgodnie z którym rząd, chcąc sfinansować swój deficyt, musi konkurować z innymi pożyczkobiorcami o ograniczony zasób oszczędności w gospodarce</mark>. Pomysł polega na tym, by deficyty rządowe pochłaniały pieniądze, które mogłyby zostać zainwestowane w przedsięwzięcia sektora prywatnego, długoterminowo zwiększające dobrobyt. <mark style="background:#d4b106">W rzeczywistości jest dokładnie odwrotnie: deficyty budżetowe powiększają istniejący w gospodarce zasób prywatnych oszczędności</mark> i są katalizatorem inwestycji w sektorze prywatnym."
+	- Żenująca ekwiwokacja.
+- "Fakt, że przeciętny amerykański pracownik nie odnotował podwyżki realnej płacy od lat 70. XX wieku – to jest kryzys."
+	- Nie no, to już jest jawne kłamstwo.
+- "Z wiedzy czerpanej z podstaw MMT wynika, że budowanie lepszej gospodarki nie jest zależne od znajdowania źródeł finansowania na cele, które chcemy osiągnąć."
+	- Kek.
+- "Oczywiście nie oznacza to, że wzrost deficytu nie ma znaczenia oraz że można wyrzucić do kosza wszystkie środki ostrożności i wydawać pieniądze bez granic."
+	- A, nie A, A, nie A...
+- "Nasze błędne przekonania o deficycie powodują, że duża część dostępnych zasobów w naszej gospodarce jest zwyczajnie marnotrawiona lub pozostaje niewykorzystana."
+	- 
