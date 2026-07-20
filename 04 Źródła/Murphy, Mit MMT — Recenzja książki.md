@@ -31,4 +31,5 @@ Recenzja książki [[Kelton Stephanie, Mit deficytu]]
 -  gdy Google pożyczy 10 mln dolarów, emitując swoje obligacje i następnie je wyda, to aktywa finansowe trzymane przez „Świat Oprócz Google” wzrosną o dokładnie 10 milionów dolarów. Zatem czy udowodniłem teraz coś niezmiernie ważnego na temat finansów Google?
 - "prywatne osoby mogą nabywać udziały w nowych korporacjach, tym samym nabywając aktywa nie powiązane z „długiem” kogokolwiek innego."
 	- sektor prywatny potrafi sam generować nowe aktywa finansowe (poprzez rozwój firm i emisję akcji), które odzwierciedlają realną produkcję i tworzenie nowej wartości
+- "jeśli zarządzający federalnymi programami pracy mogliby zwolnić pracownika, który przyszedł do pracy pijany, bądź po prostu ma dwie lewe ręce, nie byłaby to już gwarancja zatrudnienia."
 - 
