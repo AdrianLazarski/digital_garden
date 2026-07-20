@@ -10121,7 +10121,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
         "wordCountStart": 159,
         "charCountStart": 1274,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 6,
+            "c": 40
+          }
+        ],
         "id": 799
       },
       {
@@ -10153,6 +10159,11 @@
             "timeKey": "18:40",
             "w": 8,
             "c": 43
+          },
+          {
+            "timeKey": "18:45",
+            "w": 6,
+            "c": 45
           }
         ],
         "id": 801
@@ -10209,6 +10220,11 @@
             "timeKey": "18:35",
             "w": 9,
             "c": 64
+          },
+          {
+            "timeKey": "18:45",
+            "w": 6,
+            "c": 45
           }
         ],
         "id": 805
@@ -10226,8 +10242,8 @@
           },
           {
             "timeKey": "18:40",
-            "w": -1,
-            "c": -28
+            "w": 0,
+            "c": -8
           }
         ],
         "id": 806
@@ -10245,6 +10261,91 @@
           }
         ],
         "id": 807
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Anzelm z Canterbury, Proslogion.md",
+        "wordCountStart": 240,
+        "charCountStart": 1644,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "18:45",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 808
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "03 Atomy/Podziały filozofii.md",
+        "wordCountStart": 941,
+        "charCountStart": 7635,
+        "changes": [],
+        "id": 809
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01 Input przejściowy/Filozofia/Wykłady/Kursy uniwersyteckie/Grzybowski Jacek, Propedeutyka.md",
+        "wordCountStart": 2289,
+        "charCountStart": 20082,
+        "changes": [],
+        "id": 810
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "01 Input przejściowy/Filozofia/Filozofia klasyczna.md",
+        "wordCountStart": 267,
+        "charCountStart": 2128,
+        "changes": [],
+        "id": 811
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 30,
+            "c": 232
+          }
+        ],
+        "id": 812
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia Boga.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 30,
+            "c": 228
+          }
+        ],
+        "id": 813
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie Boga.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 19,
+            "c": 140
+          }
+        ],
+        "id": 814
       }
     ]
   }

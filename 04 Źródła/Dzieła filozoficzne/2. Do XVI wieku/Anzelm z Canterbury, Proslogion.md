@@ -1,4 +1,15 @@
-[[Anzelm z Canterbury]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - "#filozofia/boga"
+  - "#filozofia/metafizyka"
+  - "#filozofia/średniowieczna"
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-20 18:43
+---
+[[Anzelm z Canterbury]], 1078 r.
 
 - Tytuł oznacza rozmowę. Napisał też Monologion, czyli rozmowę z samym sobą.
 - Dzieło napisane na prośbę współbraci benedyktynów.
@@ -16,4 +27,3 @@ Moje uwagi:
 - Nazwa "argument ontologiczny" jest późniejsza. On go nazywał unum argumentum, bo jego zadaniem było przecież udowodnienia istnienia Boga jednym argumentem.
 
 
-#filozofia #filozofia/średniowieczna #filozofia/metafizyka #filozofia/boga 

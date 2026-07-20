@@ -5,6 +5,7 @@ tags:
   - filozofia/etyka
   - teologia/moralna
   - filozofia/średniowieczna
+  - chrześcijaństwo
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-20 18:39
