@@ -15,3 +15,6 @@ Odpowiedź na artykuł Wraya: Why we should stop worrying and learn to love the 
 
 - "Amerykańskie obligacje skarbowe cieszą się dużym zainteresowaniem, ponieważ Stany Zjednoczone mają dobre wyniki w utrzymywaniu wartości swojej waluty, a jest tak przynajmniej w porównaniu z innymi krajami."
 - Dlatego jest "stosunkowo niewielu nabywców długu rządowego Meksyku (oprocentowanie 8% lub więcej), Brazylii (oprocentowanie 10% lub więcej) czy Kenii (oprocentowanie 8% lub więcej)."
+- Zobowiązania FED-u to dolary. Zobowiązania rządu to obligacje skrabowe.
+
+W sumie słaby i krótki tekst.

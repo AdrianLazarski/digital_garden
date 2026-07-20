@@ -134046,20 +134046,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 101,
+      "wordCount": 117,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.33666666666666667,
-      "characterCount": 842,
-      "nonWhitespaceCharacterCount": 756,
-      "newlineCount": 10,
-      "readingTimeInMinutes": 0.38113207547169814,
+      "pageCount": 0.39,
+      "characterCount": 947,
+      "nonWhitespaceCharacterCount": 844,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.44150943396226416,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1784551595094,
-      "modifiedDate": 1784551939697,
-      "sizeInBytes": 1016,
+      "modifiedDate": 1784552453134,
+      "sizeInBytes": 1126,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -134077,6 +134077,43 @@
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Uzasadniony ✅",
         "modified date": "2026-07-20 14:46"
+      }
+    },
+    "04 Źródła/Lacalle, MMT to ekonomia kłamstw.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 93,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31,
+      "characterCount": 862,
+      "nonWhitespaceCharacterCount": 769,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 0.35094339622641507,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1784552636671,
+      "modifiedDate": 1784552856455,
+      "sizeInBytes": 1056,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-07-20 15:03",
+        "tags": [
+          "ref",
+          "ekonomia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-20 15:04"
       }
     }
   }
