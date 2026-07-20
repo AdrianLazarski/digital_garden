@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "57418134a0b659bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii nauki"
-            }
-          },
-          {
             "id": "5d53ae3ec8b28959",
             "type": "leaf",
             "state": {
@@ -77,126 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "MOC Dzieła ekonomiczne"
-            }
-          },
-          {
-            "id": "da89fb6efc4ba5a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu historii gospodarczej"
-            }
-          },
-          {
-            "id": "a62f3e177d0bb340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu historii myśli ekonomicznej"
-            }
-          },
-          {
-            "id": "cda9e2dc734caec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii prawa"
-            }
-          },
-          {
-            "id": "12cda91daaa00a19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii polityki"
-            }
-          },
-          {
-            "id": "57d2f241f0f912b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła socjologiczne"
             }
           },
           {
@@ -296,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -514,18 +370,27 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0e08620de5d724ea",
+  "active": "4f0f28361aa022b8",
   "lastOpenFiles": [
-    "01 Input przejściowy/Ekonomia/Dzieła/Wstęp do ASE.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Zitelmann Rainer, Wzlot orła białego.md",
+    "01 Input przejściowy/Socjologia/Dzieła socjologiczne/Szahaj Andrzej, Ponowoczesność i postmodernizm dla średniozaawansowanych.md",
+    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
+    "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
+    "01 Input przejściowy/Socjologia/Dzieła socjologiczne/Szacki Jerzy, Historia myśli socjologicznej.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Woods Thomas E., Kościół a wolny rynek.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Ekonomia/MOC Krytyka MMT.md",
+    "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Wstęp do ASE.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Zitelmann Rainer, Wzlot orła białego.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Woods Thomas E., Kościół a wolny rynek.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Smith Adam, Badania nad naturą i przyczynami bogactwa narodów.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Rothbard, Wall Street, banki i amerykańska polityka zagraniczna.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Rothbard Murray, Ekonomiczny punkt widzenia.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Rothbard Murray, Economic Thought Before Adam Smith.md",
@@ -533,15 +398,6 @@
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Mises Ludwig von, Mentalność antykapitalistyczna.md",
     "01 Input przejściowy/Ekonomia/Ekonomiści/Ludwig von Mises.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Teoria a historia.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Murphy Robert P., Niepoprawny politycznie przewodnik po kapitalizmie.md",
-    "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
-    "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"
   ]
 }

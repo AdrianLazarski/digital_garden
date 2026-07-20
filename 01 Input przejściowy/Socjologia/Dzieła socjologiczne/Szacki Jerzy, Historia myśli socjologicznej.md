@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - socjologia
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-17 19:29
+---
 1974 r.
 
 ## Rozdział 1
@@ -36,4 +46,3 @@
 
 
 
-#socjologia #filozofia #filozofia/współczesna #filozofia/historia_filozofii 
