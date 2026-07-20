@@ -9759,6 +9759,28 @@
         "charCountStart": 8574,
         "changes": [],
         "id": 786
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+        "wordCountStart": 246,
+        "charCountStart": 2003,
+        "changes": [],
+        "id": 787
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "04 Źródła/Kelton Stephanie, Mit deficytu.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 20,
+            "c": 151
+          }
+        ],
+        "id": 788
       }
     ]
   }
