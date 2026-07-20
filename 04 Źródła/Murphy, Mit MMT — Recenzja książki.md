@@ -32,4 +32,11 @@ Recenzja książki [[Kelton Stephanie, Mit deficytu]]
 - "prywatne osoby mogą nabywać udziały w nowych korporacjach, tym samym nabywając aktywa nie powiązane z „długiem” kogokolwiek innego."
 	- sektor prywatny potrafi sam generować nowe aktywa finansowe (poprzez rozwój firm i emisję akcji), które odzwierciedlają realną produkcję i tworzenie nowej wartości
 - "jeśli zarządzający federalnymi programami pracy mogliby zwolnić pracownika, który przyszedł do pracy pijany, bądź po prostu ma dwie lewe ręce, nie byłaby to już gwarancja zatrudnienia."
+- Nick Rowe: Zdefiniujmy „prywatne oszczędności” jako „prywatne oszczędności minus inwestycje” [...] co ekonomiści MMT rozumieją pod  pojęciem „oszczędności” lub czasami „oszczędności netto”. Wtedy mamy do czynienia ze standardowym rachunkiem dochodu narodowego. Y = C + I + G, a S = Y – T – C, a więc S – I = G – T.
+	- Murphy: I teraz wszystko jest jasne: kiedy ekonomiści MMT mówią o „oszczędnościach netto”, nie mają na myśli tego, że ludzie wspólnie zaoszczędzili więcej niż wspólnie pożyczyli. Nie, mają na myśli, że ludzie wspólnie więcej zaoszczędzili niż zainwestowali.
+	- "jeśli zdefiniujemy „prywatne oszczędności” jako „prywatne oszczędności”, to moja krytyka MMT nie jest obalona"
+	- Tymi równaniami można także uzasadnić, że obniżenie wydatków rządowych doprowadzi do szybszego wzrostu gospodarczego
+- W ramach ostatecznej ilustracji _non sequitur_ tych równań uwzględniających deficyt budżetowy warto podkreślić, że to samo można zrobić z chociażby Googlem. Spójrzcie ponownie na równania powyżej i zmieńcie definicję G na „całkowite wydatki Google”. Teraz C będzie wynosić „całkowite wydatki konsumpcyjne na-świecie-oprócz-Google” itd.
+  
+  Po zrobieniu tego moglibyśmy udowodnić — z matematyczną pewnością — że dopóki Google nie zdecyduje się zwiększyć swojego zadłużenia w przyszłym roku, to świat-oprócz-Google nie mógłby powiększyć ilości aktywów finansowych tak zdefiniowanych, jak przez ekonomistów MMT.
 - 
