@@ -10140,6 +10140,16 @@
             "timeKey": "18:35",
             "w": 0,
             "c": 2
+          },
+          {
+            "timeKey": "18:55",
+            "w": 12,
+            "c": 108
+          },
+          {
+            "timeKey": "19:00",
+            "w": 15,
+            "c": 100
           }
         ],
         "id": 800
@@ -10225,6 +10235,11 @@
             "timeKey": "18:45",
             "w": 6,
             "c": 45
+          },
+          {
+            "timeKey": "18:55",
+            "w": 14,
+            "c": 110
           }
         ],
         "id": 805
@@ -10258,6 +10273,11 @@
             "timeKey": "18:40",
             "w": 8,
             "c": 45
+          },
+          {
+            "timeKey": "18:55",
+            "w": 6,
+            "c": 53
           }
         ],
         "id": 807
@@ -10313,8 +10333,8 @@
         "changes": [
           {
             "timeKey": "18:50",
-            "w": 30,
-            "c": 232
+            "w": 27,
+            "c": 209
           }
         ],
         "id": 812
@@ -10341,11 +10361,49 @@
         "changes": [
           {
             "timeKey": "18:50",
-            "w": 19,
-            "c": 140
+            "w": 24,
+            "c": 189
           }
         ],
         "id": 814
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Etyka nikomachejska.md",
+        "wordCountStart": 142,
+        "charCountStart": 990,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 29,
+            "c": 201
+          },
+          {
+            "timeKey": "18:55",
+            "w": 1,
+            "c": 16
+          }
+        ],
+        "id": 815
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Fizyka.md",
+        "wordCountStart": 10,
+        "charCountStart": 117,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 21,
+            "c": 165
+          },
+          {
+            "timeKey": "19:00",
+            "w": 0,
+            "c": -32
+          }
+        ],
+        "id": 816
       }
     ]
   }

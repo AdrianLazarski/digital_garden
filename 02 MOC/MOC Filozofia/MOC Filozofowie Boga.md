@@ -4,6 +4,11 @@ tags:
   - moc
   - filozofia/boga
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-20 18:52
 ---
+
+[[Anzelm z Canterbury]]
+
+
+

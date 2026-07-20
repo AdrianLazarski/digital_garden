@@ -1,4 +1,14 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/etyka
+  - filozofia/starożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-20 18:53
+---
+[[Arystoteles]] 347-330 r. p.n.e.
 
 ## Księga I
 

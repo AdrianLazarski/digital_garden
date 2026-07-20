@@ -11,4 +11,3 @@ modified date: 2026-07-20 18:50
 [[Anzelm z Canterbury, Proslogion]], 1078 r.
 
 
-[[MOC Filozofia Boga]]

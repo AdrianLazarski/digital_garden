@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie Boga.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofowie Boga"
+              "title": "MOC Dzieła z zakresu filozofii Boga"
             }
           },
           {
@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Anzelm z Canterbury, Proslogion.md",
+                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Fizyka.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,35 +268,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Anzelm z Canterbury, Proslogion"
-            }
-          },
-          {
-            "id": "ae36823818712365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofia klasyczna.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Filozofia klasyczna"
+              "title": "Arystoteles, Fizyka"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -349,8 +325,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -433,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie Boga.md",
+                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Fizyka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Filozofowie Boga"
+              "title": "Konspekt Arystoteles, Fizyka"
             }
           }
         ],
@@ -515,21 +490,23 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "41ffca03b1248980",
+  "active": "814325add5514b73",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Filozofia Boga.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie Boga.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
+    "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Fizyka.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Etyka nikomachejska.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+    "02 MOC/MOC Filozofia/MOC Średniowieczna literatura filozoficzna.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Anzelm z Canterbury, Proslogion.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia Boga.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie Boga.md",
     "01 Input przejściowy/Filozofia/Filozofia klasyczna.md",
     "01 Input przejściowy/Filozofia/Wykłady/Kursy uniwersyteckie/Grzybowski Jacek, Propedeutyka.md",
     "03 Atomy/Podziały filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
-    "02 MOC/MOC Filozofia/MOC Średniowieczna literatura filozoficzna.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Anzelm z Canterbury, Proslogion.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Alkuin, O cnotach i wadach.md",
-    "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Abelard Piotr, Rozprawa o pojęciach ogólnych.md",
     "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
     "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
@@ -543,8 +520,6 @@
     "04 Źródła/załączniki",
     "04 Źródła/Mueller, Od IOU do inflacji - realistyczne ograniczenia Magicznej Teorii Monetarnej.md",
     "04 Źródła/Ludzkie gadanie 14 Co mówi nam MMT.md",
-    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
-    "04 Źródła/Sieroń A., Nie taka nowoczesna teoria monetarna.md",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"
   ]
 }

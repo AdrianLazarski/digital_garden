@@ -9,3 +9,9 @@ modified date: 2026-07-03 17:44
 ---
 [[Anzelm z Canterbury, Proslogion]], 1078 r.
 [[Abelard Piotr, Rozprawa o pojęciach ogólnych]], 1120/1130 r.
+
+
+# Zobacz też:
+
+[[MOC Dzieła z zakresu filozofii Boga]]
+[[MOC Dzieła z zakresu antropologii filozoficznej]]
