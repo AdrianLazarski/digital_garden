@@ -51,6 +51,7 @@ modified date: 2026-07-10 14:09
 [[Sieroń A., Nie taka nowoczesna teoria monetarna]], 2019
 [[Kelton Stephanie, Mit deficytu]], 2020
 [[Ludzkie gadanie 14 Co mówi nam MMT]], 2020
+[[Lacalle, MMT to ekonomia kłamstw]], 2021
 [[Epstein Alex, Przyszłość paliw kopalnych]], 2022
 [[Kaiser Axel, Uliczny ekonomista]], 2022
 [[Tupy, Pooley, Superobfitość]], 2022

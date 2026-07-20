@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Lacalle, MMT to ekonomia kłamstw.md",
+                "file": "04 Źródła/Murphy, Mit MMT — Recenzja książki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lacalle, MMT to ekonomia kłamstw"
+              "title": "Murphy, Mit MMT — Recenzja książki"
             }
           }
         ],
@@ -240,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Lacalle, MMT to ekonomia kłamstw.md",
+                "file": "04 Źródła/Murphy, Mit MMT — Recenzja książki.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Lacalle, MMT to ekonomia kłamstw"
+              "title": "Konspekt Murphy, Mit MMT — Recenzja książki"
             }
           }
         ],
@@ -324,10 +324,13 @@
   },
   "active": "c757143ca6c4cf7b",
   "lastOpenFiles": [
-    "04 Źródła/Mueller, Od IOU do inflacji - realistyczne ograniczenia Magicznej Teorii Monetarnej.md",
     "04 Źródła/Lacalle, MMT to ekonomia kłamstw.md",
+    "04 Źródła/Murphy, Mit MMT — Recenzja książki.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "02 MOC/MOC Ekonomia/MOC Źródła na temat MMT.md",
+    "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
+    "04 Źródła/załączniki",
+    "04 Źródła/Mueller, Od IOU do inflacji - realistyczne ograniczenia Magicznej Teorii Monetarnej.md",
     "04 Źródła/Ludzkie gadanie 14 Co mówi nam MMT.md",
     "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
     "04 Źródła/Sieroń A., Nie taka nowoczesna teoria monetarna.md",
@@ -349,7 +352,6 @@
     "01 Input przejściowy/Ekonomia/Dzieła/Woods Thomas E., Kościół a wolny rynek.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Smith Adam, Badania nad naturą i przyczynami bogactwa narodów.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"
   ]
 }
