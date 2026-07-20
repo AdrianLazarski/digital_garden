@@ -9771,6 +9771,11 @@
             "timeKey": "13:55",
             "w": 5,
             "c": 42
+          },
+          {
+            "timeKey": "14:15",
+            "w": 8,
+            "c": 58
           }
         ],
         "id": 787
@@ -9842,11 +9847,79 @@
           },
           {
             "timeKey": "14:10",
-            "w": 0,
-            "c": 1
+            "w": 64,
+            "c": 526
+          },
+          {
+            "timeKey": "14:15",
+            "w": 121,
+            "c": 939
           }
         ],
         "id": 789
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
+        "wordCountStart": 74,
+        "charCountStart": 594,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 5,
+            "c": 28
+          }
+        ],
+        "id": 790
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Źródła na temat MMT.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 27,
+            "c": 204
+          },
+          {
+            "timeKey": "14:20",
+            "w": 19,
+            "c": 158
+          }
+        ],
+        "id": 791
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Tezy MMT.md",
+        "wordCountStart": 21,
+        "charCountStart": 161,
+        "changes": [],
+        "id": 792
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Krytyka MMT.md",
+        "wordCountStart": 20,
+        "charCountStart": 155,
+        "changes": [],
+        "id": 793
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "04 Źródła/Ludzkie gadanie 14 Co mówi nam MMT.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 30,
+            "c": 222
+          }
+        ],
+        "id": 794
       }
     ]
   }
