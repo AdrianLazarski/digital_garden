@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Ludzkie gadanie 14 Co mówi nam MMT.md",
+                "file": "04 Źródła/Mueller, Od IOU do inflacji - realistyczne ograniczenia Magicznej Teorii Monetarnej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ludzkie gadanie 14 Co mówi nam MMT"
+              "title": "Mueller, Od IOU do inflacji - realistyczne ograniczenia Magicznej Teorii Monetarnej"
             }
           }
         ],
@@ -240,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Ludzkie gadanie 14 Co mówi nam MMT.md",
+                "file": "04 Źródła/Mueller, Od IOU do inflacji - realistyczne ograniczenia Magicznej Teorii Monetarnej.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Ludzkie gadanie 14 Co mówi nam MMT"
+              "title": "Konspekt Mueller, Od IOU do inflacji - realistyczne ograniczenia Magicznej Teorii Monetarnej"
             }
           }
         ],
@@ -325,9 +325,10 @@
   "active": "c757143ca6c4cf7b",
   "lastOpenFiles": [
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
-    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
     "02 MOC/MOC Ekonomia/MOC Źródła na temat MMT.md",
+    "04 Źródła/Mueller, Od IOU do inflacji - realistyczne ograniczenia Magicznej Teorii Monetarnej.md",
     "04 Źródła/Ludzkie gadanie 14 Co mówi nam MMT.md",
+    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
     "04 Źródła/Sieroń A., Nie taka nowoczesna teoria monetarna.md",
     "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
     "02 MOC/MOC Ekonomia/MOC Krytyka MMT.md",
@@ -349,7 +350,6 @@
     "01 Input przejściowy/Ekonomia/Dzieła/Smith Adam, Badania nad naturą i przyczynami bogactwa narodów.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Rothbard, Wall Street, banki i amerykańska polityka zagraniczna.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Rothbard Murray, Ekonomiczny punkt widzenia.md",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"
   ]
 }
