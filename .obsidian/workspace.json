@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d53ae3ec8b28959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła ekonomiczne"
-            }
-          },
-          {
-            "id": "2df47d4ebe41d105",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Źródła na temat MMT.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Źródła na temat MMT"
-            }
-          },
-          {
             "id": "3bf5591752cd795b",
             "type": "leaf",
             "state": {
@@ -77,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "MOC Dzieła filozoficzne"
+            }
+          },
+          {
+            "id": "f863932d639dd609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła z zakresu filozofii przyrody"
             }
           },
           {
@@ -253,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Fizyka.md",
+                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Metafizyka.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,11 +244,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arystoteles, Fizyka"
+              "title": "Arystoteles, Metafizyka"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -408,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Fizyka.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Arystoteles, Fizyka"
+              "title": "Konspekt MOC Dzieła z zakresu filozofii Boga"
             }
           }
         ],
@@ -490,17 +466,20 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "814325add5514b73",
+  "active": "41ffca03b1248980",
   "lastOpenFiles": [
     "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Fizyka.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Etyka nikomachejska.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Średniowieczna literatura filozoficzna.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Anzelm z Canterbury, Proslogion.md",
+    "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Fizyka.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Etyka nikomachejska.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Anzelm z Canterbury, Proslogion.md",
     "02 MOC/MOC Filozofia/MOC Filozofia Boga.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie Boga.md",
     "01 Input przejściowy/Filozofia/Filozofia klasyczna.md",
@@ -509,7 +488,6 @@
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Alkuin, O cnotach i wadach.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Abelard Piotr, Rozprawa o pojęciach ogólnych.md",
     "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
-    "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Ekonomia/MOC Źródła na temat MMT.md",
     "04 Źródła/Murphy, Mit MMT — Recenzja książki.md",
@@ -518,8 +496,6 @@
     "04 Źródła/Lacalle, MMT to ekonomia kłamstw.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
-    "04 Źródła/Mueller, Od IOU do inflacji - realistyczne ograniczenia Magicznej Teorii Monetarnej.md",
-    "04 Źródła/Ludzkie gadanie 14 Co mówi nam MMT.md",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"
   ]
 }

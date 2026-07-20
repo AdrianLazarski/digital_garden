@@ -10150,6 +10150,11 @@
             "timeKey": "19:00",
             "w": 15,
             "c": 100
+          },
+          {
+            "timeKey": "19:05",
+            "w": 4,
+            "c": 49
           }
         ],
         "id": 800
@@ -10240,6 +10245,16 @@
             "timeKey": "18:55",
             "w": 14,
             "c": 110
+          },
+          {
+            "timeKey": "19:00",
+            "w": 6,
+            "c": 36
+          },
+          {
+            "timeKey": "19:05",
+            "w": 4,
+            "c": 49
           }
         ],
         "id": 805
@@ -10335,6 +10350,11 @@
             "timeKey": "18:50",
             "w": 27,
             "c": 209
+          },
+          {
+            "timeKey": "19:05",
+            "w": 5,
+            "c": 44
           }
         ],
         "id": 812
@@ -10399,11 +10419,44 @@
           },
           {
             "timeKey": "19:00",
-            "w": 0,
-            "c": -32
+            "w": 2,
+            "c": -9
           }
         ],
         "id": 816
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
+        "wordCountStart": 21,
+        "charCountStart": 165,
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": 6,
+            "c": 34
+          }
+        ],
+        "id": 817
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Metafizyka.md",
+        "wordCountStart": 527,
+        "charCountStart": 3607,
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": 23,
+            "c": 186
+          },
+          {
+            "timeKey": "19:05",
+            "w": 5,
+            "c": 16
+          }
+        ],
+        "id": 818
       }
     ]
   }

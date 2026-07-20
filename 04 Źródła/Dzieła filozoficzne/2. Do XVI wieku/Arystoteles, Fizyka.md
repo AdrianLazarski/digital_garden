@@ -4,6 +4,7 @@ tags:
   - ref
   - filozofia/metafizyka
   - filozofia/starożytna
+  - filozofia/przyrody
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-07-20 18:59
