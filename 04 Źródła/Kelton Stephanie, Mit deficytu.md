@@ -33,4 +33,5 @@ https://instytutsprawobywatelskich.pl/stephanie-kelton-mit-deficytu-nowoczesna-t
 - "Oczywiście nie oznacza to, że wzrost deficytu nie ma znaczenia oraz że można wyrzucić do kosza wszystkie środki ostrożności i wydawać pieniądze bez granic."
 	- A, nie A, A, nie A...
 - "Nasze błędne przekonania o deficycie powodują, że duża część dostępnych zasobów w naszej gospodarce jest zwyczajnie marnotrawiona lub pozostaje niewykorzystana."
-	- 
+	- Czyli wszystkie inwestycje są dobre a priori. Absurd.
+- 

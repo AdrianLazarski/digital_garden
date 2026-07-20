@@ -9766,7 +9766,13 @@
         "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
         "wordCountStart": 246,
         "charCountStart": 2003,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:55",
+            "w": 5,
+            "c": 42
+          }
+        ],
         "id": 787
       },
       {
@@ -9812,11 +9818,25 @@
           },
           {
             "timeKey": "13:50",
-            "w": 74,
-            "c": 520
+            "w": 82,
+            "c": 576
           }
         ],
         "id": 788
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "04 Źródła/Sieroń A., Nie taka nowoczesna teoria monetarna.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:00",
+            "w": 30,
+            "c": 239
+          }
+        ],
+        "id": 789
       }
     ]
   }
