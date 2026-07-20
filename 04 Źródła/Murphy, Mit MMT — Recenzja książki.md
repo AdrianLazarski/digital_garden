@@ -39,4 +39,3 @@ Recenzja książki [[Kelton Stephanie, Mit deficytu]]
 - W ramach ostatecznej ilustracji _non sequitur_ tych równań uwzględniających deficyt budżetowy warto podkreślić, że to samo można zrobić z chociażby Googlem. Spójrzcie ponownie na równania powyżej i zmieńcie definicję G na „całkowite wydatki Google”. Teraz C będzie wynosić „całkowite wydatki konsumpcyjne na-świecie-oprócz-Google” itd.
   
   Po zrobieniu tego moglibyśmy udowodnić — z matematyczną pewnością — że dopóki Google nie zdecyduje się zwiększyć swojego zadłużenia w przyszłym roku, to świat-oprócz-Google nie mógłby powiększyć ilości aktywów finansowych tak zdefiniowanych, jak przez ekonomistów MMT.
-- 

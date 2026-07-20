@@ -1,4 +1,15 @@
-Autorem [[Alkuin z Yorku]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/etyka
+  - teologia/moralna
+  - filozofia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-20 18:39
+---
+Autorem [[Alkuin z Yorku]], 799/800 r.
 
 - Prawdziwa wiedza to porzucenie służby u diabła, a prawdziwa mądrość to czczenie Boga według jego przykazań. Oba razem dają szczęście, te zaś to poznanie boskości.
 - Dobre działanie bez wiary nie przynosi korzyści. Wiara bez uczynków jest martwa.
@@ -15,5 +26,3 @@ Autorem [[Alkuin z Yorku]]
 - Nie należy odraczać nawrócenia, bo to liczenie na długie i złe życie.
 - Bać się Boga to kochać go; to nie lęk służalczy.
 
-
-#filozofia/średniowieczna #filozofia #chrześcijaństwo #filozofia/etyka #teologia/moralna 

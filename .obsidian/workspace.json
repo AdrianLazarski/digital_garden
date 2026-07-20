@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "f7031cb1874888d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Nowoczesna teoria monetarna MMT"
-            }
-          },
-          {
             "id": "2df47d4ebe41d105",
             "type": "leaf",
             "state": {
@@ -80,12 +56,12 @@
             }
           },
           {
-            "id": "c757143ca6c4cf7b",
+            "id": "3bf5591752cd795b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Murphy, Mit MMT — Recenzja książki.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +76,179 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Murphy, Mit MMT — Recenzja książki"
+              "title": "MOC Dzieła filozoficzne"
+            }
+          },
+          {
+            "id": "cd9b2db4f1ce8cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła etyczne"
+            }
+          },
+          {
+            "id": "f537f841cbc3c528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła metafizyczne"
+            }
+          },
+          {
+            "id": "0ada3f8193c62795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła epistemologiczne"
+            }
+          },
+          {
+            "id": "c3d60db7832ee133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Starożytna literatura filozoficzna"
+            }
+          },
+          {
+            "id": "834a11da916349b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Średniowieczna literatura filozoficzna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Średniowieczna literatura filozoficzna"
+            }
+          },
+          {
+            "id": "913dba5bbff0a363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Renesansowa literatura filozoficzna"
+            }
+          },
+          {
+            "id": "814325add5514b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Alkuin, O cnotach i wadach.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Alkuin, O cnotach i wadach"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -240,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Murphy, Mit MMT — Recenzja książki.md",
+                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Alkuin, O cnotach i wadach.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Murphy, Mit MMT — Recenzja książki"
+              "title": "Konspekt Alkuin, O cnotach i wadach"
             }
           }
         ],
@@ -322,12 +466,23 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "c757143ca6c4cf7b",
+  "active": "814325add5514b73",
   "lastOpenFiles": [
-    "04 Źródła/Lacalle, MMT to ekonomia kłamstw.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Średniowieczna literatura filozoficzna.md",
+    "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Alkuin, O cnotach i wadach.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Abelard Piotr, Rozprawa o pojęciach ogólnych.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+    "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
+    "02 MOC/MOC Filozofia.md",
+    "02 MOC/MOC Ekonomia/MOC Źródła na temat MMT.md",
     "04 Źródła/Murphy, Mit MMT — Recenzja książki.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
-    "02 MOC/MOC Ekonomia/MOC Źródła na temat MMT.md",
+    "04 Źródła/Kelton Stephanie, Mit deficytu.md",
+    "04 Źródła/Lacalle, MMT to ekonomia kłamstw.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "04 Źródła/Mueller, Od IOU do inflacji - realistyczne ograniczenia Magicznej Teorii Monetarnej.md",
@@ -337,21 +492,10 @@
     "04 Źródła/Sieroń A. Nowoczesna Teoria Monetarna – Kiepska Teoria na Trudne Czasy.md",
     "02 MOC/MOC Ekonomia/MOC Krytyka MMT.md",
     "02 MOC/MOC Ekonomia/MOC Tezy MMT.md",
-    "04 Źródła/Kelton Stephanie, Mit deficytu.md",
     "01 Input przejściowy/Socjologia/Dzieła socjologiczne/Szahaj Andrzej, Ponowoczesność i postmodernizm dla średniozaawansowanych.md",
     "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
     "01 Input przejściowy/Socjologia/Dzieła socjologiczne/Szacki Jerzy, Historia myśli socjologicznej.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii myśli ekonomicznej.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Wstęp do ASE.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Zitelmann Rainer, Wzlot orła białego.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Woods Thomas E., Kościół a wolny rynek.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Smith Adam, Badania nad naturą i przyczynami bogactwa narodów.md",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"
   ]
 }

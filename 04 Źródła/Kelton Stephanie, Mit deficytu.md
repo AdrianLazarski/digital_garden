@@ -34,4 +34,12 @@ https://instytutsprawobywatelskich.pl/stephanie-kelton-mit-deficytu-nowoczesna-t
 	- A, nie A, A, nie A...
 - "Nasze błędne przekonania o deficycie powodują, że duża część dostępnych zasobów w naszej gospodarce jest zwyczajnie marnotrawiona lub pozostaje niewykorzystana."
 	- Czyli wszystkie inwestycje są dobre a priori. Absurd.
-- 
+
+
+
+
+
+
+
+
+[[Murphy, Mit MMT — Recenzja książki]]

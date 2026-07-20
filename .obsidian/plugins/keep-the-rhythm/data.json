@@ -9791,6 +9791,11 @@
             "timeKey": "15:15",
             "w": 6,
             "c": 43
+          },
+          {
+            "timeKey": "18:30",
+            "w": 6,
+            "c": 45
           }
         ],
         "id": 787
@@ -9840,6 +9845,11 @@
             "timeKey": "13:50",
             "w": 82,
             "c": 576
+          },
+          {
+            "timeKey": "18:30",
+            "w": 5,
+            "c": 44
           }
         ],
         "id": 788
@@ -9912,6 +9922,11 @@
             "timeKey": "15:15",
             "w": 6,
             "c": 43
+          },
+          {
+            "timeKey": "18:30",
+            "w": 6,
+            "c": 45
           }
         ],
         "id": 791
@@ -10084,9 +10099,152 @@
             "timeKey": "18:05",
             "w": 189,
             "c": 1425
+          },
+          {
+            "timeKey": "18:30",
+            "w": 0,
+            "c": -3
           }
         ],
         "id": 797
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Filozofia.md",
+        "wordCountStart": 33,
+        "charCountStart": 278,
+        "changes": [],
+        "id": 798
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+        "wordCountStart": 159,
+        "charCountStart": 1274,
+        "changes": [],
+        "id": 799
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
+        "wordCountStart": 23,
+        "charCountStart": 186,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 800
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Filozofia/MOC Średniowieczna literatura filozoficzna.md",
+        "wordCountStart": 21,
+        "charCountStart": 169,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 9,
+            "c": 65
+          },
+          {
+            "timeKey": "18:40",
+            "w": 8,
+            "c": 43
+          }
+        ],
+        "id": 801
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
+        "wordCountStart": 21,
+        "charCountStart": 166,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 802
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Abelard Piotr, Rozprawa o pojęciach ogólnych.md",
+        "wordCountStart": 428,
+        "charCountStart": 3090,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 3,
+            "c": 14
+          }
+        ],
+        "id": 803
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+        "wordCountStart": 19,
+        "charCountStart": 140,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 10,
+            "c": 80
+          }
+        ],
+        "id": 804
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+        "wordCountStart": 21,
+        "charCountStart": 165,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 9,
+            "c": 64
+          }
+        ],
+        "id": 805
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Alkuin, O cnotach i wadach.md",
+        "wordCountStart": 209,
+        "charCountStart": 1456,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 21,
+            "c": 159
+          },
+          {
+            "timeKey": "18:40",
+            "w": -1,
+            "c": -28
+          }
+        ],
+        "id": 806
+      },
+      {
+        "date": "2026-07-20",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+        "wordCountStart": 21,
+        "charCountStart": 160,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 8,
+            "c": 45
+          }
+        ],
+        "id": 807
       }
     ]
   }

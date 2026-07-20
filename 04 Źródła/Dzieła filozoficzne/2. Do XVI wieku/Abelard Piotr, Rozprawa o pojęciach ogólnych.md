@@ -9,6 +9,8 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 19:49
 ---
+1120/1130 r.
+
 [[Piotr Abelard]] 
 
 5 produktów poznania, które nie są pojęciami:
