@@ -20814,20 +20814,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 426,
+      "wordCount": 420,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.42,
-      "characterCount": 3267,
-      "nonWhitespaceCharacterCount": 2797,
-      "newlineCount": 35,
-      "readingTimeInMinutes": 1.6075471698113208,
+      "pageCount": 1.4,
+      "characterCount": 3151,
+      "nonWhitespaceCharacterCount": 2690,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 1.5849056603773586,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304411342,
-      "modifiedDate": 1720367979945,
-      "sizeInBytes": 3457,
+      "modifiedDate": 1784661955292,
+      "sizeInBytes": 3527,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.42,
@@ -20835,6 +20835,17 @@
         "characterCount": 3267,
         "nonWhitespaceCharacterCount": 2797,
         "newlineCount": 35
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "#historia/średniowieczna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-21 21:25"
       }
     },
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, Zarys historii filozofii.md.edtz": {

@@ -4,6 +4,6 @@ tags:
   - moc
   - historia
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-03 16:00
 ---

@@ -294,9 +294,33 @@
               "icon": "lucide-file",
               "title": "Borawska, Górski – Umysłowość średniowiecza"
             }
+          },
+          {
+            "id": "730d6588534068b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Historia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Historia"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -432,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Borawska, Górski – Umysłowość średniowiecza.md",
+                "file": "02 MOC/MOC Historia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Borawska, Górski – Umysłowość średniowiecza"
+              "title": "Konspekt MOC Historia"
             }
           }
         ],
@@ -514,11 +538,12 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "d5d6515ed7563f18",
+  "active": "730d6588534068b1",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, Zarys historii filozofii.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Borawska, Górski – Umysłowość średniowiecza.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, Zarys historii filozofii.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, History of formal logic.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
@@ -541,7 +566,6 @@
     "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Voegelin Eric, Świat Polis.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu metafilozofii.md",
     "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Voegelin Eric, Platon.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Toynbee Arnold, Studium historii.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

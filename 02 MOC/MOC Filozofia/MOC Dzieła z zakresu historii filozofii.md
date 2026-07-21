@@ -20,6 +20,7 @@ modified date: 2026-07-06 14:08
 [[Gilson Etienne, Jedność doświadczenia filozoficznego]], 1937 r.
 [[Bocheński Józef, History of formal logic]], 1956 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
+[[Borawska, Górski – Umysłowość średniowiecza]], 1993 r.
 
 # Nowożytność
 

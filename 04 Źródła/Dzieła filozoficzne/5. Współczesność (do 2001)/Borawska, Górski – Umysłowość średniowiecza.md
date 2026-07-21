@@ -4,6 +4,7 @@ tags:
   - atom
   - definicja
   - "#historia/średniowieczna"
+  - filozofia/historia_filozofii
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 21:25
