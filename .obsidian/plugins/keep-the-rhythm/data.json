@@ -10520,6 +10520,11 @@
             "timeKey": "17:40",
             "w": 5,
             "c": 40
+          },
+          {
+            "timeKey": "20:05",
+            "w": -7,
+            "c": -54
           }
         ],
         "id": 822
@@ -10567,8 +10572,18 @@
           },
           {
             "timeKey": "19:55",
-            "w": 17,
-            "c": 115
+            "w": 25,
+            "c": 175
+          },
+          {
+            "timeKey": "20:00",
+            "w": 22,
+            "c": 167
+          },
+          {
+            "timeKey": "20:05",
+            "w": 8,
+            "c": 67
           }
         ],
         "id": 823
@@ -10851,6 +10866,11 @@
             "timeKey": "19:25",
             "w": 8,
             "c": 64
+          },
+          {
+            "timeKey": "20:00",
+            "w": 9,
+            "c": 67
           }
         ],
         "id": 835
@@ -10998,6 +11018,16 @@
             "timeKey": "18:15",
             "w": 7,
             "c": 36
+          },
+          {
+            "timeKey": "20:00",
+            "w": 7,
+            "c": 48
+          },
+          {
+            "timeKey": "20:05",
+            "w": 8,
+            "c": 67
           }
         ],
         "id": 842
@@ -11572,11 +11602,102 @@
         "changes": [
           {
             "timeKey": "19:55",
-            "w": 21,
-            "c": 164
+            "w": 16,
+            "c": 113
           }
         ],
         "id": 875
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Schopenhauer Arthur, Chwyty erystyczne.md",
+        "wordCountStart": 1207,
+        "charCountStart": 8662,
+        "changes": [
+          {
+            "timeKey": "19:55",
+            "w": 17,
+            "c": 126
+          },
+          {
+            "timeKey": "20:00",
+            "w": 1,
+            "c": 7
+          }
+        ],
+        "id": 876
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Arthur Schopenhauer.md",
+        "wordCountStart": 182,
+        "charCountStart": 1220,
+        "changes": [],
+        "id": 877
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Schopenhauer Arthur, Świat jako wola i przedstawienie.md",
+        "wordCountStart": 44,
+        "charCountStart": 402,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 2,
+            "c": -39
+          }
+        ],
+        "id": 878
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Smith Adam, Teoria uczuć moralnych.md",
+        "wordCountStart": 51,
+        "charCountStart": 402,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 21,
+            "c": 152
+          }
+        ],
+        "id": 879
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Thoreau Henry David, O obywatelskim nieposłuszeństwie.md",
+        "wordCountStart": 34,
+        "charCountStart": 293,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 431,
+            "c": 3085
+          }
+        ],
+        "id": 880
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Bergson Henri, Dwa źródła moralności i religii.md",
+        "wordCountStart": 199,
+        "charCountStart": 1495,
+        "changes": [],
+        "id": 881
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 1945).md",
+        "wordCountStart": 29,
+        "charCountStart": 227,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": -29,
+            "c": -227
+          }
+        ],
+        "id": 882
       }
     ]
   }

@@ -248,36 +248,12 @@
             }
           },
           {
-            "id": "97eaf2db09e73fc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Nowożytna literatura filozoficzna (do 1900)"
-            }
-          },
-          {
             "id": "d5d6515ed7563f18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Schopenhauer Arthur, Aforyzmy o mądrości życia.md",
+                "file": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Bergson Henri, Dwa źródła moralności i religii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,11 +268,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schopenhauer Arthur, Aforyzmy o mądrości życia"
+              "title": "Bergson Henri, Dwa źródła moralności i religii"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -353,7 +328,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 330.5
   },
   "right": {
     "id": "f90596a187c2ffdf",
@@ -432,13 +407,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Schopenhauer Arthur, Aforyzmy o mądrości życia.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Schopenhauer Arthur, Aforyzmy o mądrości życia"
+              "title": "Konspekt MOC Dzieła filozoficzne"
             }
           }
         ],
@@ -514,13 +489,22 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "d5d6515ed7563f18",
+  "active": "3bf5591752cd795b",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Proudhon Pierre-Joseph, Co to jest własność.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 1945).md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Bergson Henri, Dwa źródła moralności i religii.md",
     "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Thoreau Henry David, O obywatelskim nieposłuszeństwie.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Smith Adam, Teoria uczuć moralnych.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Schopenhauer Arthur, Świat jako wola i przedstawienie.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Schopenhauer Arthur, Aforyzmy o mądrości życia.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Schopenhauer Arthur, Chwyty erystyczne.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Arthur Schopenhauer.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Proudhon Pierre-Joseph, Co to jest własność.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Wędrowiec i jego cień.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Narodziny tragedii albo Grecy i pesymizm.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Ludzkie arcyludzkie.md",
@@ -530,18 +514,9 @@
     "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel, Kto myśli abstrakcyjnie.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/de Maistre Joseph, Wieczory petersburskie.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Feuerbach Ludwig, Wykłady o istocie religii.md",
-    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Kurs filozofii pozytywnej t. 1.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Auguste Comte.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Tomasz z Akwinu, Traktat o Bogu.md",
-    "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła Platona.md",
-    "03 Atomy/Platon.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fedon.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Obrona Sokratesa.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

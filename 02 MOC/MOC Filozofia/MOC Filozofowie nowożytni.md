@@ -90,7 +90,7 @@ modified date: 2026-07-06 14:22
 [[Józef Hoene-Wroński]] 1776-1853
 [[Johann Friedrich Herbart]] 1776-1841
 [[Bernard Bolzano]] 1781-1848
-[[Artur Schopenhauer ]]1788-1860
+[[Arthur Schopenhauer]]1788-1860
 [[John Austin]] 1790-1859
 [[Auguste Comte]] 1798-1857
 
@@ -159,7 +159,7 @@ modified date: 2026-07-06 14:22
 [[Anthony Ashley-Cooper]] ([[Lord Shaftesbury]]) 1671-1713
 [[Antoine Destutt de Tracy]] 1754-1836
 [[Artur Górski]] 1870-1959
-[[Artur Schopenhauer ]]1788-1860
+[[Arthur Schopenhauer]]1788-1860
 [[August Cieszkowski]] 1814-1894
 [[Auguste Comte]] 1798-1857
 [[Baruch Spinoza]] 1632-1677

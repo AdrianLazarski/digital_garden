@@ -3,6 +3,7 @@ created: 2026-02-28 19:46
 tags:
   - ref
   - filozofia/nowożytna
+  - filozofia/etyka
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 19:58
@@ -16,5 +17,3 @@ Jak zapewnić sobie "istnienie [...], które po chłodnym i dojrzałym namyśle 
 
 
 
-
-#filozofia #filozofia/niemiecka #filozofia/nowożytna #filozofia/etyka 

@@ -1,4 +1,14 @@
-[[Artur Schopenhauer]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/nowożytna
+  - logika/semiotyka/pragmatyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 19:59
+---
+[[Arthur Schopenhauer]], 1830
 
 Słowo „erystyka” pojawia się już w starożytności, ale mówić będziemy nie o sofistach i Arystotelesie, a  o Schopenhauerze. Artur popełnił dzieło, którego tytuł przetłumaczono w ten sposób „Erystyka, czyli sztuka prowadzenia sporów”. W książce mowa dokładnie o „dialektyce erystycznej”, ale nie jest to istotne w tym wpisie. Najprościej mówiąc, erystyka to sztuka takiego dyskutowania, by dowieść swoich racji, bez względu na prawdę obiektywną.
 
@@ -86,4 +96,3 @@ Nie masz cytatu pasującego do rozmowy? Wymyśl go na poczekaniu. A jak zarzucis
 
 
 
-#filozofia #filozofia/nowożytna #logika #logika/semiotyka/pragmatyka 

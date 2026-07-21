@@ -81,7 +81,7 @@ Człowiek winien iść za sumieniem pewnym zawsze, nawet wtedy, kiedy znajduje s
 - [[Georg Wilhelm Friedrich Hegel]]
 	- sumienie związane jest z chceniem; bez racji rozumowych
 	- sumienie jest pewnością woli
-- [[Artur Schopenhauer]]
+- [[Arthur Schopenhauer]]
 	- Sumienie nie jest częścią ludzkiej natury;
 	- Jest to czucie mogące się przekształcić w intencję działania
 - [[John Henry Newman]]
