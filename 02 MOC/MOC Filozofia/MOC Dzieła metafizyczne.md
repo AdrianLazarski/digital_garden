@@ -19,8 +19,10 @@ modified date: 2026-07-03 17:44
 [[Tomasz z Akwinu, Traktat o Bogu]], 1268 r. 
 [[Hegel Georg Wilhelm Friedrich, Fenomenologia ducha]], 1807 r.
 [[Schopenhauer Arthur, Świat jako wola i przedstawienie]], 1818 r.
+[[Wittgenstein Ludwig, Tractatus logico-philosophicus]], 1918 r.
 [[Heidegger Martin, Bycie i czas]], 1927 r.
 [[Gilson Etienne, Jedność doświadczenia filozoficznego]], 1937 r.
+[[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]], 1949 r.
 
 
 # Zobacz też:

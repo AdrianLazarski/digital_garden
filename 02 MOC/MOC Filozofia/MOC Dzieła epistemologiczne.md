@@ -15,3 +15,4 @@ modified date: 2026-07-03 17:46
 [[Bacon Roger, Opus Maius]], 1267
 [[Bacon Franciszek, Novum organum]], 1620
 [[Kant Immanuel, Krytyka czystego rozumu]], 1781 r.
+[[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]], 1949 r.

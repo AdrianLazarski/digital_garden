@@ -10623,6 +10623,11 @@
             "timeKey": "19:30",
             "w": 7,
             "c": 52
+          },
+          {
+            "timeKey": "21:00",
+            "w": 8,
+            "c": 69
           }
         ],
         "id": 824
@@ -10881,6 +10886,16 @@
             "timeKey": "20:30",
             "w": 14,
             "c": 110
+          },
+          {
+            "timeKey": "20:55",
+            "w": 6,
+            "c": 65
+          },
+          {
+            "timeKey": "21:00",
+            "w": 8,
+            "c": 69
           }
         ],
         "id": 835
@@ -11068,6 +11083,11 @@
             "timeKey": "20:50",
             "w": 11,
             "c": 75
+          },
+          {
+            "timeKey": "21:00",
+            "w": 7,
+            "c": 55
           }
         ],
         "id": 842
@@ -11800,6 +11820,16 @@
             "timeKey": "20:55",
             "w": 6,
             "c": 65
+          },
+          {
+            "timeKey": "21:00",
+            "w": 15,
+            "c": 124
+          },
+          {
+            "timeKey": "21:05",
+            "w": 5,
+            "c": 42
           }
         ],
         "id": 883
@@ -12068,6 +12098,11 @@
             "timeKey": "20:50",
             "w": 11,
             "c": 76
+          },
+          {
+            "timeKey": "21:05",
+            "w": 14,
+            "c": 140
           }
         ],
         "id": 900
@@ -12104,6 +12139,122 @@
           }
         ],
         "id": 902
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
+        "wordCountStart": 21,
+        "charCountStart": 161,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 6,
+            "c": 67
+          }
+        ],
+        "id": 903
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Adorno Theodor, Nowy prawicowy radykalizm.md",
+        "wordCountStart": 581,
+        "charCountStart": 4398,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 21,
+            "c": 163
+          },
+          {
+            "timeKey": "21:00",
+            "w": 2,
+            "c": 26
+          }
+        ],
+        "id": 904
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
+        "wordCountStart": 8211,
+        "charCountStart": 60739,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 25,
+            "c": 218
+          }
+        ],
+        "id": 905
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Alinsky Saul, Roots of radicals.md",
+        "wordCountStart": 31,
+        "charCountStart": 238,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 15,
+            "c": 101
+          },
+          {
+            "timeKey": "21:05",
+            "w": 2,
+            "c": 7
+          }
+        ],
+        "id": 906
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Politologia.md",
+        "wordCountStart": 23,
+        "charCountStart": 189,
+        "changes": [],
+        "id": 907
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md",
+        "wordCountStart": 26,
+        "charCountStart": 206,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 7,
+            "c": 45
+          }
+        ],
+        "id": 908
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Barnes Jonathan, Arystoteles.md",
+        "wordCountStart": 192,
+        "charCountStart": 1403,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 0,
+            "c": 17
+          }
+        ],
+        "id": 909
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Berlin Isaiah, Cztery eseje o wolności.md",
+        "wordCountStart": 4198,
+        "charCountStart": 30968,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 22,
+            "c": 180
+          }
+        ],
+        "id": 910
       }
     ]
   }
