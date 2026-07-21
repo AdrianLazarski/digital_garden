@@ -5,6 +5,8 @@ tags:
   - filozofia/nowożytna
   - recenzja
   - filozofia/antropologia
+  - filozofia/etyka
+  - filozofia/metafizyka
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 19:35
