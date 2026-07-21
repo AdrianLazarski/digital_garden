@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/współczesna
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-21 20:21
+---
 [[Albert Camus]], 1942 r.
 
 
@@ -28,4 +37,3 @@ do str 29
 
 
 
-#filozofia #filozofia/współczesna #egzystencjalizm 

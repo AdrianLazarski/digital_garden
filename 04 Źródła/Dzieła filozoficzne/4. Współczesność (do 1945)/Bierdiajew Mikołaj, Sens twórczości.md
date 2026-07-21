@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/antropologia
+  - chrześcijaństwo
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 20:18
+---
 Смысл творчества. Опыт оправдания человека, 1915 r.
 tłum. Henryk Paprocki
 [[Mikołaj Bierdiajew]]
@@ -62,5 +73,12 @@ Kultura słowiańska jest niższa od germańskiej i jest antagonistyczna wobec n
 Nie wiadomo czym jest twórczość, nasze życie jest dopiero drogą do twórczości.
 
 
+# Recenzja
 
-#filozofia #filozofia/współczesna #chrześcijaństwo 
+Napisanie tej recenzji to prawdziwe wyzwanie - Bierdiajew pisze w niewiarygodnie chaotyczny sposób, często zaprzecza jakiejś tezie sprzed dwóch zdań i jego książka cechuje się nietzscheańskim entuzjazmem. Niby są rozdziały, niby chce przekazać coś konkretnego, ale w gruncie rzeczy zasypuje czytelnika mnóstwem luźno powiązanych zdań, wielokrotnie się też powtarzając. I weź tu człowieku jasno i klarownie powiedz o czym ta książka była...  
+  
+Najprościej rzecz ujmując: jest to prawosławna, inspirowana Nietzschem, Kantem, Heglem, i Boehmem, mistyka. Bierdiajew chce nas przekonać, że chrześcijaństwo w aktualnym stanie to tragedia, bo zastygło w rozwoju na etapie Syna (zbawienia),który nastąpił po etapie Ojca (prawo). Zamiast liczyć tylko na działanie Jezusa, człowiek powinien oddać się twórczości w epoce Ducha Świętego. I tu się robi dziwnie, bowiem twórczość wg Bierdiajewa to kreacja ex nihilo. Powołuje się na doktrynę o przebóstwieniu. Tak - ludzie mają się stać bogami i tworzyć. I to wszystko próbuje nazwać chrześcijaństwem. Mam mieszane uczucia. Zręcznie unikał klarownego wyjaśnienia co rozumie przez twórczość i byłem podekscytowany czynieniem z twórczości aktu religijnego - to byłaby dla mnie nowa jakość w religii. Niestety okazało się, że to zwykłe, mistyczne pierdololo. On nie wie kiedy epoka kreacji ex nihilo nadejdzie. W sumie to nic nie wie, ale ciągle krytykuje innych filozofów i inne religie, zamiennie z przyznawaniem się do akceptacji elementów ich myśli.  
+  
+Okrutnie się zmęczyłem z brnięciem przez ten tekst, do końca dopchnęło mnie to, że co chwila rzucał nową, losową tezą, która miała szansę poprowadzić do jakiejś sensownej całości. Niestety się jej nie doczekałem.  
+  
+Edit: nie wiem czy dziś bym się podpisał pod tą recenzją. Dam kiedyś szansę tej książce, bo inne teksty zrobiły na mnie wrażenie.

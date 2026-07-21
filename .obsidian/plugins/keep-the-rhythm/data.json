@@ -10951,6 +10951,11 @@
             "timeKey": "20:15",
             "w": 9,
             "c": 60
+          },
+          {
+            "timeKey": "20:20",
+            "w": 13,
+            "c": 97
           }
         ],
         "id": 839
@@ -11723,11 +11728,63 @@
           },
           {
             "timeKey": "20:15",
-            "w": 9,
-            "c": 61
+            "w": 15,
+            "c": 109
+          },
+          {
+            "timeKey": "20:20",
+            "w": 14,
+            "c": 87
           }
         ],
         "id": 883
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Bierdiajew Mikołaj, Sens twórczości.md",
+        "wordCountStart": 619,
+        "charCountStart": 4735,
+        "changes": [
+          {
+            "timeKey": "20:15",
+            "w": 20,
+            "c": 160
+          },
+          {
+            "timeKey": "20:20",
+            "w": 271,
+            "c": 1853
+          }
+        ],
+        "id": 884
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Camus Albert, Mit Syzyfa.md",
+        "wordCountStart": 412,
+        "charCountStart": 2949,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 17,
+            "c": 115
+          }
+        ],
+        "id": 885
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Cioran Emil, Na szczytach rozpaczy.md",
+        "wordCountStart": 2750,
+        "charCountStart": 19712,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 22,
+            "c": 181
+          }
+        ],
+        "id": 886
       }
     ]
   }
