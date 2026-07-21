@@ -248,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -384,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
+                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Metafizyka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Dzieła z zakresu filozofii Boga"
+              "title": "Konspekt Arystoteles, Metafizyka"
             }
           }
         ],
@@ -466,13 +466,13 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "41ffca03b1248980",
+  "active": "814325add5514b73",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
     "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Średniowieczna literatura filozoficzna.md",
     "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Fizyka.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
