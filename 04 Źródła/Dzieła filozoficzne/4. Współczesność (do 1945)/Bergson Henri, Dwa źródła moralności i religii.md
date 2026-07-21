@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/współczesna
+  - filozofia/antropologia
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-21 20:17
+---
 *Les Deux Sources de la morale et de la religion*, 1932 r.
 H. Bergson, Dwa źródła moralności i religii, Kraków 1993
 [[Henri Bergson]]
@@ -20,4 +30,3 @@ H. Bergson, Dwa źródła moralności i religii, Kraków 1993
 
 
 
-#filozofia #filozofia/współczesna 

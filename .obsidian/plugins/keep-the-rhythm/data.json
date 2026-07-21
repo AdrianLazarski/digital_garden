@@ -10946,6 +10946,11 @@
             "timeKey": "19:55",
             "w": 8,
             "c": 57
+          },
+          {
+            "timeKey": "20:15",
+            "w": 9,
+            "c": 60
           }
         ],
         "id": 839
@@ -11682,7 +11687,13 @@
         "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Bergson Henri, Dwa źródła moralności i religii.md",
         "wordCountStart": 199,
         "charCountStart": 1495,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:15",
+            "w": 20,
+            "c": 159
+          }
+        ],
         "id": 881
       },
       {
@@ -11698,6 +11709,25 @@
           }
         ],
         "id": 882
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+        "wordCountStart": 33,
+        "charCountStart": 261,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": -8,
+            "c": -58
+          },
+          {
+            "timeKey": "20:15",
+            "w": 9,
+            "c": 61
+          }
+        ],
+        "id": 883
       }
     ]
   }

@@ -12,3 +12,4 @@ modified date: 2026-07-03 17:59
 [[de Maistre Joseph, Wieczory petersburskie]], 1821 r.
 [[Proudhon Pierre-Joseph, Co to jest własność]], 1840 r.
 [[Nietzsche Friedrich, Ludzkie arcyludzkie]], 1878 r.
+[[Bergson Henri, Dwa źródła moralności i religii]], 1932 r.

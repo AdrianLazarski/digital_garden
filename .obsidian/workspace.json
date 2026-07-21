@@ -248,6 +248,30 @@
             }
           },
           {
+            "id": "ae10988248c7cfb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Współczesna literatura filozoficzna (do 2001)"
+            }
+          },
+          {
             "id": "d5d6515ed7563f18",
             "type": "leaf",
             "state": {
@@ -271,7 +295,8 @@
               "title": "Bergson Henri, Dwa źródła moralności i religii"
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -407,13 +432,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+                "file": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Bergson Henri, Dwa źródła moralności i religii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Dzieła filozoficzne"
+              "title": "Konspekt Bergson Henri, Dwa źródła moralności i religii"
             }
           }
         ],
@@ -489,12 +514,13 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "3bf5591752cd795b",
+  "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 1945).md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
     "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Bergson Henri, Dwa źródła moralności i religii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 1945).md",
     "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Thoreau Henry David, O obywatelskim nieposłuszeństwie.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
@@ -516,7 +542,6 @@
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/de Maistre Joseph, Wieczory petersburskie.md",
-    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Feuerbach Ludwig, Wykłady o istocie religii.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"
