@@ -7,6 +7,8 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 14:06
 ---
+[[Platon, Kriton]], 399–387 p.n.e.
+
 [[Machiavelli Nicollo, Książę]], 1513 r.
 [[Juruś Dariusz, Dzieje własności prywatnej]], 2014
 [[Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii]], 2019

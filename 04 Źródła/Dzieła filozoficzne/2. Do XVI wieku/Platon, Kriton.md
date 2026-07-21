@@ -1,4 +1,15 @@
-[[Platon]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/starożytna
+  - filozofia/etyka
+  - filozofia/polityki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 18:13
+---
+[[Platon]], 399–387 przed Chr.
 
 - Dialog pomiędzy Sokratesem, a Kritonem ma miejsce w więzieniu. 
 - Sokrates jest spokojny wobec czekającej go śmierci. 
@@ -17,4 +28,3 @@
 - Jeżeli wyszedłby ba osobę psującą prawa, tom utwierdziłby swoich sędziów w przekonaniu, że psuł młodzież.
 
 
-#filozofia #filozofia/starożytna #filozofia/grecka 

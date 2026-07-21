@@ -10678,6 +10678,11 @@
             "timeKey": "18:05",
             "w": 7,
             "c": 37
+          },
+          {
+            "timeKey": "18:15",
+            "w": 7,
+            "c": 35
           }
         ],
         "id": 829
@@ -10888,6 +10893,11 @@
             "timeKey": "17:55",
             "w": 5,
             "c": 40
+          },
+          {
+            "timeKey": "18:15",
+            "w": 7,
+            "c": 36
           }
         ],
         "id": 842
@@ -10921,6 +10931,16 @@
             "timeKey": "18:05",
             "w": 12,
             "c": 74
+          },
+          {
+            "timeKey": "18:10",
+            "w": 11,
+            "c": 75
+          },
+          {
+            "timeKey": "18:15",
+            "w": 15,
+            "c": 80
           }
         ],
         "id": 844
@@ -10994,11 +11014,63 @@
         "changes": [
           {
             "timeKey": "18:05",
-            "w": 19,
-            "c": 140
+            "w": 16,
+            "c": 117
+          },
+          {
+            "timeKey": "18:10",
+            "w": 4,
+            "c": 18
           }
         ],
         "id": 849
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Gorgiasz.md",
+        "wordCountStart": 6,
+        "charCountStart": 65,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 19,
+            "c": 129
+          }
+        ],
+        "id": 850
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Kriton.md",
+        "wordCountStart": 286,
+        "charCountStart": 1991,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 24,
+            "c": 173
+          },
+          {
+            "timeKey": "18:15",
+            "w": 0,
+            "c": 3
+          }
+        ],
+        "id": 851
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Obrona Sokratesa.md",
+        "wordCountStart": 146,
+        "charCountStart": 982,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 20,
+            "c": 133
+          }
+        ],
+        "id": 852
       }
     ]
   }
