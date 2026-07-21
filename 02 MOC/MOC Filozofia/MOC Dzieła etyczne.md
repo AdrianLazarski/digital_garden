@@ -8,6 +8,7 @@ status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-03 17:59
 ---
 
+[[Platon, Eutyfron]], 399–387 p.n.e.
 [[Arystoteles, Etyka nikomachejska]], 330 przed Chr.
 [[Marek Aureliusz, Rozmyślania]], 180 po Chr.
 [[Alkuin, O cnotach i wadach]], 799/800 r.

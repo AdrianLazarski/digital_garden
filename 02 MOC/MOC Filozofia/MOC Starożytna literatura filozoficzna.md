@@ -10,6 +10,9 @@ modified date: 2026-07-03 17:32
 ---
 Tam gdzie data jest niepewna, dałem późniejszą dla uproszczenia.
 
+[[Platon, Eutyfron]], 399–387 p.n.e.
+[[Platon, Fajdros]], 370 przed Chr.
+
 [[Arystoteles, Etyka nikomachejska]], 330 przed Chr.
 [[Arystoteles, Fizyka]], 322 przed Chr.
 [[Arystoteles, Metafizyka]], 322 przed Chr.

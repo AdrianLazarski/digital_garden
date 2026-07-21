@@ -1,4 +1,15 @@
-[[Platon]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/religii
+  - filozofia/etyka
+  - filozofia/starożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 18:03
+---
+[[Platon]] 399–387 p.n.e.
 
 
 
@@ -26,4 +37,3 @@
 - S. czyli pobożne to to, co miłowanie przez bogów. Powrót do punktu wyjścia.
 - E. ucieka xD
 
-#filozofia #filozofia/starożytna #filozofia/grecka #filozofia/etyka 

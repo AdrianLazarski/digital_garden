@@ -7,3 +7,5 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 14:05
 ---
+
+[[Platon, Eutyfron]], 399–387 p.n.e.

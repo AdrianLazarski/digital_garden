@@ -10529,6 +10529,11 @@
             "timeKey": "17:25",
             "w": 5,
             "c": 41
+          },
+          {
+            "timeKey": "18:00",
+            "w": 19,
+            "c": 163
           }
         ],
         "id": 823
@@ -10668,6 +10673,11 @@
             "timeKey": "17:55",
             "w": 6,
             "c": 46
+          },
+          {
+            "timeKey": "18:05",
+            "w": 7,
+            "c": 37
           }
         ],
         "id": 829
@@ -10816,6 +10826,11 @@
             "timeKey": "17:50",
             "w": 14,
             "c": 76
+          },
+          {
+            "timeKey": "18:00",
+            "w": 10,
+            "c": 70
           }
         ],
         "id": 839
@@ -10835,6 +10850,11 @@
             "timeKey": "17:55",
             "w": 943,
             "c": 6284
+          },
+          {
+            "timeKey": "18:00",
+            "w": 0,
+            "c": -2
           }
         ],
         "id": 840
@@ -10849,6 +10869,11 @@
             "timeKey": "17:55",
             "w": 5,
             "c": 42
+          },
+          {
+            "timeKey": "18:00",
+            "w": 10,
+            "c": 67
           }
         ],
         "id": 841
@@ -10891,9 +10916,89 @@
             "timeKey": "17:55",
             "w": 6,
             "c": 45
+          },
+          {
+            "timeKey": "18:05",
+            "w": 12,
+            "c": 74
           }
         ],
         "id": 844
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Pico della Mirandola Giovanni, Mowa o godności człowieka.md",
+        "wordCountStart": 437,
+        "charCountStart": 3167,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 14,
+            "c": 93
+          }
+        ],
+        "id": 845
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Eutyfron.md",
+        "wordCountStart": 499,
+        "charCountStart": 3204,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 18,
+            "c": 138
+          },
+          {
+            "timeKey": "18:05",
+            "w": 5,
+            "c": 15
+          }
+        ],
+        "id": 846
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
+        "wordCountStart": 21,
+        "charCountStart": 164,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 7,
+            "c": 37
+          }
+        ],
+        "id": 847
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fajdros.md",
+        "wordCountStart": 74,
+        "charCountStart": 484,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 19,
+            "c": 130
+          }
+        ],
+        "id": 848
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fedon.md",
+        "wordCountStart": 12,
+        "charCountStart": 109,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 19,
+            "c": 140
+          }
+        ],
+        "id": 849
       }
     ]
   }

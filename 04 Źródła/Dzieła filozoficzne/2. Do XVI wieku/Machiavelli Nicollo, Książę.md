@@ -3,8 +3,8 @@ created: 2026-02-28 19:46
 tags:
   - ref
   - filozofia/polityki
-  - filozofia/renesansowa
   - recenzja
+  - filozofia/nowożytna
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 17:54

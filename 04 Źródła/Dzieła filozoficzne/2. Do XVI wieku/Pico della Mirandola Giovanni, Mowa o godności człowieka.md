@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/nowożytna
+  - filozofia/antropologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 18:00
+---
 De hominis dignitate, [[Giovanni Pico della Mirandola]], 1496
 
 - Mnóstwo przypisów do starożytnych filozofów, poetów, Biblii, apokryfów, koranu, współczesnych mu
@@ -24,4 +34,3 @@ De hominis dignitate, [[Giovanni Pico della Mirandola]], 1496
 do 57 zdania doczytane
 
 
-#filozofia #filozofia/renesansowa #filozofia/nowożytna #filozofia/antropologia #filozofia/włoska 
