@@ -1,4 +1,14 @@
-[[Ludwig Feuerbach]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/nowożytna
+  - filozofia/religii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 19:22
+---
+[[Ludwig Feuerbach]], 1851 r.
 
 **Spis treści**
 

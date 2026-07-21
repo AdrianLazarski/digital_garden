@@ -1,11 +1,16 @@
-[[Joseph de Maistre]]
-Według opisu wydawcy miało być chrześcijańsko, miało być konserwatywnie, miało być kontrrewolucyjnie. Dwóch ostatnich jakoś bardzo tu nie uświadczymy, za to Wieczory petersburskie. O doczesnym panowaniu opatrzności z pewnością są chrześcijańskie. Może nie jakoś bardzo i od dziwnej strony, ale są.
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/nowożytna
+  - filozofia/antropologia
+  - chrześcijaństwo
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 19:24
+---
+[[Joseph de Maistre]], 1821 r.
 
-Nie może być inaczej, skoro w dialogu uświadczmy ciekawych wywodów dotyczących skuteczności modlitwy, istnienia wolnej woli, zgodnej z wolą bożą; zasadności grzechu pierworodnego i cierpienia (w tym wojen) oraz miałkości filozofii oświeceniowej.
-
-Z drugiej jednak strony kpi sobie z chrześcijaństwa, opluwając niezmienne prawa przyrody i stawiając się na równi z muzułmanami - wyznawcami, bezkształtnej, złośliwej masy, która osadziła człowieka w chaotycznym, nieprzyjaznym, niepoznawalnym świecie. De Maistre wierzy też w wiecznie istnienie idei, przedwiedzę, zachwyca się platonizmem, szkaluje filozofię racjonalistyczną, wypisuje jakieś głupoty o dziedziczności chwały i hańby, ujmuje sobie jako myśliciel, uznając moc autorytetu oraz krytykuje... posąg Woltera, zniżając się do poziomu neandertalczyka. No bo serio - rozumiem, że go nie lubił, ale co ten fragment w ogóle robił w tej książce? Ostatnim zarzutem będzie to, że czasem dziwnie dodaje cytaty - wyrywa je z kontekstu albo pokracznie tłumaczy na francuski.
-
-Może się wydawać, że jest więcej minusów niż plusów, ale lektury nie żałuję, bo było mnóstwo nawiązań do wielu różnych filozofów, od groma cytatów i mimo bucowatości autora można coś z tego dzieła wynieść.
 
 Wypisy:
 
@@ -49,7 +54,7 @@ Może się nawet zdarzyć, że wola stworzona znosi – nie mówię: wysiłek �
 
 W kontekście potęgi tej woli pada też niedopowiedziane uzasadnienie piekła. Kara jako taka ma dwie funkcje: karze winowajcę (to dzieło sprawiedliwości), lecz zarazem chce jego poprawy (to dzieło miłości). Jeśli człowiek cały odda się złu, to po śmierci nie ma już miejsca na miłość,  trzeba wyrwać chwasta.
 
-Jeśli więc człowiek może oprzeć się pragnieniu, a nawet działać wbrew pragnieniu, może także modlić się bez pragnienia, a nawet wbrew  niemu, ponieważ modlitwa jest takim samym aktem woli jak każdy inny, podlega więc prawu ogólnemu.Pragnienie nie jest wolą, lecz jedynie namiętnością woli; ponieważ zaś pragnienie, które działa na wolę, nie jest nie do pokonania, wnosimy, że aby modlić się naprawdę, trzeba z konieczności mieć wolę, a nie pragnąć, gdyż modlitwa jest z istoty swojej właśnie poruszeniem woli oświeconej przez pojmowanie.
+Jeśli więc człowiek może oprzeć się pragnieniu, a nawet działać wbrew pragnieniu, może także modlić się bez pragnienia, a nawet wbrew  niemu, ponieważ modlitwa jest takim samym aktem woli jak każdy inny, podlega więc prawu ogólnemu. Pragnienie nie jest wolą, lecz jedynie namiętnością woli; ponieważ zaś pragnienie, które działa na wolę, nie jest nie do pokonania, wnosimy, że aby modlić się naprawdę, trzeba z konieczności mieć wolę, a nie pragnąć, gdyż modlitwa jest z istoty swojej właśnie poruszeniem woli oświeconej przez pojmowanie.
 
 Definicje Locke’a to tylko zamaskowane tautologie i jest on kiepskim metafizykiem.
 
@@ -72,5 +77,12 @@ Gdybyśmy mieli wiedzę, która zwiodła pierwszych bałwochwalców, wkrótce sa
 Człowiek jest do prawdy tak dobrze usposobiony, że zwieść go może tylko prawda zepsuta lub źle zinterpretowana.
 
 
+# Recenzja 
 
-#filozofia #filozofia/nowożytna 
+Według opisu wydawcy miało być chrześcijańsko, miało być konserwatywnie, miało być kontrrewolucyjnie. Dwóch ostatnich jakoś bardzo tu nie uświadczymy, za to Wieczory petersburskie. O doczesnym panowaniu opatrzności z pewnością są chrześcijańskie. Może nie jakoś bardzo i od dziwnej strony, ale są.
+
+Nie może być inaczej, skoro w dialogu uświadczmy ciekawych wywodów dotyczących skuteczności modlitwy, istnienia wolnej woli, zgodnej z wolą bożą; zasadności grzechu pierworodnego i cierpienia (w tym wojen) oraz miałkości filozofii oświeceniowej.
+
+Z drugiej jednak strony kpi sobie z chrześcijaństwa, opluwając niezmienne prawa przyrody i stawiając się na równi z muzułmanami - wyznawcami, bezkształtnej, złośliwej masy, która osadziła człowieka w chaotycznym, nieprzyjaznym, niepoznawalnym świecie. De Maistre wierzy też w wiecznie istnienie idei, przedwiedzę, zachwyca się platonizmem, szkaluje filozofię racjonalistyczną, wypisuje jakieś głupoty o dziedziczności chwały i hańby, ujmuje sobie jako myśliciel, uznając moc autorytetu oraz krytykuje... posąg Woltera, zniżając się do poziomu neandertalczyka. No bo serio - rozumiem, że go nie lubił, ale co ten fragment w ogóle robił w tej książce? Ostatnim zarzutem będzie to, że czasem dziwnie dodaje cytaty - wyrywa je z kontekstu albo pokracznie tłumaczy na francuski.
+
+Może się wydawać, że jest więcej minusów niż plusów, ale lektury nie żałuję, bo było mnóstwo nawiązań do wielu różnych filozofów, od groma cytatów i mimo bucowatości autora można coś z tego dzieła wynieść.

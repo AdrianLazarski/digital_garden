@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii polityki"
+              "title": "MOC Dzieła z zakresu filozofii religii"
             }
           },
           {
@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Ogólna teoria religii.md",
+                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,7 +268,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Comte August, Ogólna teoria religii"
+              "title": "Hegel Georg Wilhelm Friedrich, Fenomenologia ducha"
             }
           }
         ],
@@ -408,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Ogólna teoria religii.md",
+                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Comte August, Ogólna teoria religii"
+              "title": "Konspekt Hegel Georg Wilhelm Friedrich, Fenomenologia ducha"
             }
           }
         ],
@@ -492,8 +492,14 @@
   },
   "active": "814325add5514b73",
   "lastOpenFiles": [
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/de Maistre Joseph, Wieczory petersburskie.md",
+    "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Feuerbach Ludwig, Wykłady o istocie religii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Kurs filozofii pozytywnej t. 1.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
     "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Auguste Comte.md",
-    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Ogólna teoria religii.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Tomasz z Akwinu, Traktat o Bogu.md",
     "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
     "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
@@ -512,12 +518,6 @@
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Timaios.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Protagoras.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Państwo.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Kriton.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Gorgiasz.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

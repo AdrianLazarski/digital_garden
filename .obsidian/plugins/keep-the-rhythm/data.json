@@ -10539,6 +10539,16 @@
             "timeKey": "18:00",
             "w": 19,
             "c": 163
+          },
+          {
+            "timeKey": "19:20",
+            "w": 17,
+            "c": 111
+          },
+          {
+            "timeKey": "19:25",
+            "w": 7,
+            "c": 55
           }
         ],
         "id": 823
@@ -11043,6 +11053,11 @@
             "timeKey": "18:05",
             "w": 7,
             "c": 37
+          },
+          {
+            "timeKey": "19:20",
+            "w": 17,
+            "c": 114
           }
         ],
         "id": 847
@@ -11304,7 +11319,7 @@
       },
       {
         "date": "2026-07-21",
-        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Ogólna teoria religii.md",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Kurs filozofii pozytywnej t. 1.md",
         "wordCountStart": 198,
         "charCountStart": 1593,
         "changes": [
@@ -11317,6 +11332,11 @@
             "timeKey": "19:15",
             "w": -1,
             "c": -13
+          },
+          {
+            "timeKey": "19:20",
+            "w": 2,
+            "c": 9
           }
         ],
         "id": 863
@@ -11328,6 +11348,53 @@
         "charCountStart": 4411,
         "changes": [],
         "id": 864
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Feuerbach Ludwig, Wykłady o istocie religii.md",
+        "wordCountStart": 15538,
+        "charCountStart": 107064,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 25,
+            "c": 194
+          }
+        ],
+        "id": 865
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/de Maistre Joseph, Wieczory petersburskie.md",
+        "wordCountStart": 1025,
+        "charCountStart": 6928,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": -195,
+            "c": -1394
+          },
+          {
+            "timeKey": "19:25",
+            "w": 219,
+            "c": 1594
+          }
+        ],
+        "id": 866
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
+        "wordCountStart": 157,
+        "charCountStart": 1299,
+        "changes": [
+          {
+            "timeKey": "19:25",
+            "w": 18,
+            "c": 135
+          }
+        ],
+        "id": 867
       }
     ]
   }
