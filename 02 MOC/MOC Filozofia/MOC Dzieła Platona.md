@@ -35,9 +35,9 @@ modified date: 2026-07-21 18:38
 		- [[Platon, Fedon]], 387–367 przed Chr.
 	3. Późne-krytyczne. Platon wydaje się w nich wycofywać z teorii idei, dostrzegając tkwiące w niej aporie.
 		- [[Platon, Teajtet]], 368 przed Chr.
-		- [[Platon, Parmenides]], 367 a 347
-		- [[Platon, Sofista]], 
-		- [[Platon, Polityk]], 
+		- [[Platon, Parmenides]], 367-347 przed Chr.
+		- [[Platon, Sofista]], 361 przed Chr.
+		- [[Platon, Polityk]], 360 przed Chr.
 		- [[Platon, Fileb]], 
 		- [[Platon, Timaios]], 360 przed Chr.
 		- [[Platon, Kritiasz]], 
