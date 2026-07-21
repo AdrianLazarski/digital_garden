@@ -7,6 +7,8 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 14:05
 ---
+
+[[Bonawentura, O sprowadzaniu sztuk do filozofii]], 1257 r.
 [[Bacon Roger, Opus Maius]], 1267
 [[Bacon Franciszek, Novum organum]], 1620
 

@@ -10463,7 +10463,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
         "wordCountStart": 32,
         "charCountStart": 253,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 7,
+            "c": 46
+          }
+        ],
         "id": 819
       },
       {
@@ -10503,7 +10509,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
         "wordCountStart": 165,
         "charCountStart": 1314,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 5,
+            "c": 40
+          }
+        ],
         "id": 822
       },
       {
@@ -10535,6 +10547,11 @@
             "timeKey": "17:30",
             "w": 5,
             "c": 34
+          },
+          {
+            "timeKey": "17:40",
+            "w": 8,
+            "c": 60
           }
         ],
         "id": 824
@@ -10554,6 +10571,11 @@
             "timeKey": "17:30",
             "w": 5,
             "c": 33
+          },
+          {
+            "timeKey": "17:40",
+            "w": 8,
+            "c": 61
           }
         ],
         "id": 825
@@ -10592,6 +10614,16 @@
             "timeKey": "17:35",
             "w": 12,
             "c": 67
+          },
+          {
+            "timeKey": "17:40",
+            "w": 8,
+            "c": 60
+          },
+          {
+            "timeKey": "17:45",
+            "w": 7,
+            "c": 47
           }
         ],
         "id": 827
@@ -10637,11 +10669,94 @@
         "changes": [
           {
             "timeKey": "17:35",
-            "w": 17,
-            "c": 114
+            "w": 18,
+            "c": 133
+          },
+          {
+            "timeKey": "17:40",
+            "w": 9,
+            "c": 89
           }
         ],
         "id": 830
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu metafilozofii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 160,
+            "c": 1075
+          }
+        ],
+        "id": 831
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia.md",
+        "wordCountStart": 33,
+        "charCountStart": 278,
+        "changes": [],
+        "id": 832
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Metafilozofia.md",
+        "wordCountStart": 361,
+        "charCountStart": 2840,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 5,
+            "c": 40
+          }
+        ],
+        "id": 833
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Damiani Piotr, O wszechmocy Bożej.md",
+        "wordCountStart": 148,
+        "charCountStart": 1047,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 21,
+            "c": 159
+          }
+        ],
+        "id": 834
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+        "wordCountStart": 60,
+        "charCountStart": 469,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 7,
+            "c": 47
+          }
+        ],
+        "id": 835
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Fredegizjusz z Tour, List o nicości i ciemnościach.md",
+        "wordCountStart": 110,
+        "charCountStart": 785,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 23,
+            "c": 194
+          }
+        ],
+        "id": 836
       }
     ]
   }

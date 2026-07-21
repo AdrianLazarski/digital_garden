@@ -48,6 +48,8 @@ modified date: 2026-07-03 13:44
 [[Filozofia a światopogląd]]
 
 
+[[MOC Dzieła z zakresu metafilozofii]]
+
 
 # Proweniencja
 

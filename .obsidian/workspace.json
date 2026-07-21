@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "a88cd88ebe160c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu metafilozofii.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła z zakresu metafilozofii"
+            }
+          },
+          {
             "id": "6beec0f76bebbd52",
             "type": "leaf",
             "state": {
@@ -277,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bonawentura, O sprowadzaniu sztuk do filozofii.md",
+                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Fredegizjusz z Tour, List o nicości i ciemnościach.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,11 +316,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bonawentura, O sprowadzaniu sztuk do filozofii"
+              "title": "Fredegizjusz z Tour, List o nicości i ciemnościach"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -432,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bonawentura, O sprowadzaniu sztuk do filozofii.md",
+                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Fredegizjusz z Tour, List o nicości i ciemnościach.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Bonawentura, O sprowadzaniu sztuk do filozofii"
+              "title": "Konspekt Fredegizjusz z Tour, List o nicości i ciemnościach"
             }
           }
         ],
@@ -516,20 +540,25 @@
   },
   "active": "814325add5514b73",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bernard z Clairvaux, O 12 stopniach pokory i pychy.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Damiani Piotr, O wszechmocy Bożej.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
     "02 MOC/MOC Filozofia/MOC Średniowieczna literatura filozoficzna.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bacon Roger, Opus Maius.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bonawentura, O sprowadzaniu sztuk do filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu metafilozofii.md",
+    "02 MOC/MOC Filozofia/MOC Metafilozofia.md",
+    "02 MOC/MOC Filozofia.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
     "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bacon Roger, Opus Maius.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bernard z Clairvaux, O 12 stopniach pokory i pychy.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bacon Franciszek, Novum organum.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Metafizyka.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
     "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
     "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Fizyka.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Etyka nikomachejska.md",
@@ -537,11 +566,6 @@
     "02 MOC/MOC Filozofia/MOC Filozofia Boga.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie Boga.md",
     "01 Input przejściowy/Filozofia/Filozofia klasyczna.md",
-    "01 Input przejściowy/Filozofia/Wykłady/Kursy uniwersyteckie/Grzybowski Jacek, Propedeutyka.md",
-    "03 Atomy/Podziały filozofii.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Alkuin, O cnotach i wadach.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Abelard Piotr, Rozprawa o pojęciach ogólnych.md",
-    "02 MOC/MOC Filozofia.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

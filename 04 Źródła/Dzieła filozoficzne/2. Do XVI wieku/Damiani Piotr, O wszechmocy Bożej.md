@@ -1,11 +1,23 @@
-[[Piotr Damiani]]
+---
+created: 2026-02-28 19:46
+tags:
+  - definicja
+  - filozofia/boga
+  - filozofia/metafizyka
+  - filozofia/średniowieczna
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 17:45
+---
+[[Piotr Damiani]] 1067 r.
 
 Niby antydialektyk ale sam zręcznie używa dialektyki.
 
 Rozdziały 1-8
 - Dedykacja dla Dezyderiusza, opata Monte Cassino.
 - Z wody wyławia się zdrową rybę, by była pokarmem dla innych.
-- Argument, że Bóg czegoś nie może zrobić, bo nie chce jest bez sensu, bo nawet słaby człowiek, ma możnosć zrobienia rzeczy, których akurat nie robi. Po prostu nie chce ze względu na inne dobro.
+- Argument, że Bóg czegoś nie może zrobić, bo nie chce jest bez sensu, bo nawet słaby człowiek, ma możność zrobienia rzeczy, których akurat nie robi. Po prostu nie chce ze względu na inne dobro.
 - Nie musimy wiedzieć nic więcej o dniu sądu, aby niepewność zmuszała nas nieustannie do spełniania pobożnych uczynków.
 - Nie wolno czytać Biblii dosłownie.
 - Stwierdzenia, że Bóg nie może lub nie umie uczynić zła dotyczą nie jego niewiedzy, czy niemocy, a prawości.
@@ -15,4 +27,3 @@ Rozdziały 1-8
 - Bóg nie jest zdeterminowany przez czas.
 
 
-#filozofia #filozofia/boga #filozofia/średniowieczna #filozofia/metafizyka 

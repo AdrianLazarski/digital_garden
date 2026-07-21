@@ -2,11 +2,15 @@
 created: 2026-02-28 19:46
 tags:
   - ref
+  - "#filozofia/średniowieczna"
+  - filozofia/epistemologia
+  - filozofia/nauki
+  - filozofia/metafilozofia
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 17:39
 ---
-[[Bonawentura]]
+[[Bonawentura]], 1255–1257 r.
 
 - Światło zewnętrzne - światło sztuk mechanicznych. Odsłania kształt nadany przez sztukę.
 - Światło niższe - światło poznania zmysłowego. Odsłania formę naturalną.
@@ -14,9 +18,9 @@ modified date: 2026-07-21 17:39
 - Światło wyższe - światło łaski i Pisma Świętego. Odsłania prawdę zbawczą.
 
 - Światło sztuki mechanicznej dzieli się na 7 części: teatr, płatnerstwo, rolnictwo, łowiectwo, żeglugę, medycynę.
-- Sztuka teatralna: pieśni, muzyka, dramat, pantonima.
+- Sztuka teatralna: pieśni, muzyka, dramat, pantomima.
 
-- Światło w zależności od nasilenia i czystości oddziałowuje na inny zmysł.
+- Światło w zależności od nasilenia i czystości oddziałuje na inny zmysł.
 - Światło wew. dzieli się na rozumowe, naturalne i moralne (rozważają: prawdę wypowiedzi, rzeczy [wiary] i obyczajów).
 
 - Filozofia naturalna: fizyka, metafizyka, matematyka.
@@ -39,4 +43,3 @@ modified date: 2026-07-21 17:39
 
 
 
-#filozofia 
