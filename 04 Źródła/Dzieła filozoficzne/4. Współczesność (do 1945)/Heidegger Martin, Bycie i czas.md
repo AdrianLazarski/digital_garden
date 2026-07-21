@@ -1,6 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - "#filozofia/współczesna"
+  - filozofia/metafizyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-21 20:33
+---
 [[Martin Heidegger]], 1927 r.
 - 
-- Carnap znalazł kilkadziesiąt błędów na pierwszych stronach.
+- Carnap twierdził, że znalazł kilkadziesiąt błędów na pierwszych stronach.
 
 
 
@@ -15,4 +25,3 @@ C. Dookólność otoczenia i przestrzenność jestestwa
 
 
 
-#filozofia #filozofia/współczesna #filozofia/metafizyka 

@@ -1,5 +1,28 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/polityki
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-21 20:28
+---
+Książka powstała w 1945 roku.
 
-- Książka powstała w 1945 roku.
+
+**Spis treści**
+
+1. [Rozdział 1](#Rozdzia%C5%82%201)
+2. [Rozdział 2](#Rozdzia%C5%82%202)
+3. [Rozdział 3](#Rozdzia%C5%82%203)
+4. [Księga II](#Ksi%C4%99ga%20II)
+5. [Rozdział 4](#Rozdzia%C5%82%204)
+6. [Księga III](#Ksi%C4%99ga%20III)
+7. [Rozdział 6](#Rozdzia%C5%82%206)
+8. [Recenzja](#Recenzja)
+
 
 # Księga I
 
@@ -82,5 +105,22 @@
 - Przy braku przekonujących dowodów lepiej wybrać prostszą hipotezę. Łatwiej sobie wyobrazić małą grupę ludzi żądną władzy, niż powszechną wolę uległości.
 
 
+# Recenzja
 
-#filozofia #filozofia/współczesna #filozofia/francuska #filozofia/polityki 
+Bertrand de Jouvenel to bardzo ciekawa postać. Socjalista, który został liberałem, by potem znów stać się socjalistą, a jeszcze później znów liberałem.  
+  
+Jego poszukiwania prawdy zaskarbiły mu szacunek Friedricha Hayeka, który zaprosił go do prestiżowego stowarzyszenia Mont Pelerin, zrzeszającego myślicieli i działaczy liberalnych. Traktat o władzy, wydany oryginalnie po francusku w 1945 roku, to jego najważniejsze dzieło, a w Polsce ukazało się w 2013 roku. Bezpośrednią inspiracją dla napisania tej książki była bez wątpienia II wojna światowa, której rozmiary i charakter były czymś niewyobrażalnym przed jej wybuchem, ale co zdaniem autora jest w gruncie rzeczy logiczną konsekwencją długiego procesu ewolucji koncepcji władzy.  
+  
+Różne i na pierwszy rzut oka przeciwstawne teorie np.wywodzą się w rzeczywistości z tego samego pnia: idei suwerenności tj. idei, że istnieje gdzieś prawo, któremu podlegają wszystkie inne prawa. Władza ma stanowić emanację naczelnego suwerena, niezależnie czy jest nim Bóg, czy społeczeństwo. Musi być wcieleniem jego woli, a jej legitymizacja jest wprost proporcjonalna do zakresu, w jakim te warunki są spełnione. Oznacza to, że można potencjalnie wskazać dla danego państwa i momentu historycznego czy władca spełnia jakieś religijne, czy społeczne kryteria. Wielu teoretyków suwerenności opracowywało sposoby ograniczenia władzy, ale prędzej czy później takie teorie suwerenności traciły swoją moc kierowania na dany cel, jakimi były zgodność z wolą boską, czy służenie dobru powszechnemu. Stawały się zaledwie retorycznymi i symbolicznymi odskoczniami dla władzy, dostarczającymi jej pomocy niewidzialnego suwerena, z którym się zaczynała utożsamiać. Władca twierdził, że jego własna wola to wola Boga, czy społeczeństwa i zamiast im służyć, sam stawał się ostatecznym wyznacznikiem tego, co dobre, sprawiedliwe itd.  
+  
+Teoria boskiej suwerenności w czasach jej świetności (XI-XIV w.),to głównie powtarzanie formuły św. Pawła, że „każda władza pochodzi od Boga”, ale nie w celu podporządkowania ludzi władzy, a raczej władzy Bogu. Jak przekonuje de Jouvenel, średniowieczna władza była najczęściej dzielona z innymi instytucjami, ograniczona i przede wszystkim nie była suwerenna. Tzn. hierarchicznie może król i był najważniejszy, ale nie był traktowany jako źródło i twórca praw „niższych” np. ustanowionych przez różne formy zgromadzeń właścicieli ziemskich, czy po prostu prawo zwyczajowe. Monarcha sam podlegał różnym prawom i nie mógł ich zmienić – w pewnym sensie można powiedzieć, że to spontaniczne i organicznie uformowane prawo było suwerenem.  
+  
+Władcy dążący do zwiększenia swojej potęgi musieli wejść w konflikt z teorią boskiej suwerenności, by móc wyrwać się spod jarzma Kościoła. Tak zrobiono miejsce dla teorii suwerenności ludu (Marsyliusz z Padwy) i z czasem nawet jezuici (Mariana, Bellarmin, Suarez),zaczęli zaprzeczać idei bezpośredniego namiestnictwa danego ludziom od Boga, głosząc, że to wspólnota ustanawia władzę. Z kolei wspólnotę według nich stanowi wyrażona lub dorozumiana konwencja.  
+  
+Nie będzie przesadą stwierdzenie autora, że koncepcja umowy społecznej miała już dość zaawansowany kształt 100 lat przed Janem Jakubem Rousseau. De Jouvenel omawia szczegółowo jego wpływ, a także Hobbesa, Spinozy, Fichtego, czy Hegla, na rozwój przekonania, że władcy realizują wolę ludu. Oczywiście przybiera to czasem absurdalne kształty i infantylne tłumaczenia, że jak władca robi coś źle, to realizuje prywatne interesy, a jak robi coś dobrze, to wtedy jest spełnieniem jakiejś Woli Powszechnej pisanej wielkimi literami.  
+  
+Teoria Bożej suwerenności, czy pierwsze wersje teorii suwerenności ludu były koncepcjami nominalistycznymi. Oznacza to, że traktowały społeczeństwo jako zbiór jednostek, co gwarantowało w jakimś zakresie ochronę ich praw. Z czasem jednak, nie bez małego wpływu organicznych teorii społeczeństwa, budujących fałszywe analogie między biologią a naukami społecznymi, nominalizm ustąpił na rzecz tzw. realizmu metafizycznego. Potocznie realizm kojarzy nam się z jakimś zdrowym rozsądkiem, tymczasem tutaj oznacza to coś możliwie najbardziej odległego zdrowego rozsądku mianowicie przekonanie, że byty ogólne istnieją w jakiś realny sposób. W zastosowaniu realizmu metafizycznego do społeczeństwa uznajemy społeczeństwo za jakiś byt istniejący wręcz samodzielnie, niezależnie od jednostek, rządzący się jakimiś własnymi prawami, celami i wartościami.  
+  
+Dość powiedzieć, że rewolucja francuska, a potem wojny napoleońskie rozprzestrzeniły po Europie realistyczną koncepcję społeczeństwa, którą podchwycili szczególnie niemieccy idealiści i wzniecili nacjonalizmy, których skutki poznaliśmy zwłaszcza w I połowie XX wieku.  
+  
+Zarysowałem tu tylko jeden z wielu wątków obecnych w książce, więc jeśli chcecie przyjrzeć się szczegółom tego, co tu zreferowałem, oraz chcecie poznać więcej teorii władzy, historię rozwoju demokracji czy prób ograniczania władzy, to zachęcam do lektury.

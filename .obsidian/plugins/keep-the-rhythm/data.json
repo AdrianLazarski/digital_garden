@@ -10871,6 +10871,11 @@
             "timeKey": "20:00",
             "w": 9,
             "c": 67
+          },
+          {
+            "timeKey": "20:30",
+            "w": 14,
+            "c": 110
           }
         ],
         "id": 835
@@ -11038,6 +11043,16 @@
             "timeKey": "20:05",
             "w": 8,
             "c": 67
+          },
+          {
+            "timeKey": "20:30",
+            "w": 10,
+            "c": 58
+          },
+          {
+            "timeKey": "20:35",
+            "w": 9,
+            "c": 64
           }
         ],
         "id": 842
@@ -11735,6 +11750,21 @@
             "timeKey": "20:20",
             "w": 14,
             "c": 87
+          },
+          {
+            "timeKey": "20:25",
+            "w": 8,
+            "c": 52
+          },
+          {
+            "timeKey": "20:30",
+            "w": 14,
+            "c": 109
+          },
+          {
+            "timeKey": "20:35",
+            "w": 21,
+            "c": 149
           }
         ],
         "id": 883
@@ -11785,6 +11815,86 @@
           }
         ],
         "id": 886
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/de Jouvenel Bertrand, Traktat o władzy.md",
+        "wordCountStart": 1354,
+        "charCountStart": 9967,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 16,
+            "c": 114
+          },
+          {
+            "timeKey": "20:30",
+            "w": 744,
+            "c": 5303
+          }
+        ],
+        "id": 887
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Gilson Etienne, Jedność doświadczenia filozoficznego.md",
+        "wordCountStart": 4087,
+        "charCountStart": 29156,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 1304,
+            "c": 9355
+          }
+        ],
+        "id": 888
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Heidegger Martin, Bycie i czas.md",
+        "wordCountStart": 59,
+        "charCountStart": 516,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 20,
+            "c": 152
+          }
+        ],
+        "id": 889
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Marcuse Herbert, Rozum i rewolucja. Hegel a powstanie teorii społecznej.md",
+        "wordCountStart": 38,
+        "charCountStart": 364,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "20:35",
+            "w": -16,
+            "c": -153
+          }
+        ],
+        "id": 890
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Mises Ludwig von, Liberalizm w tradycji klasycznej.md",
+        "wordCountStart": 1613,
+        "charCountStart": 11713,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 1232,
+            "c": 8728
+          }
+        ],
+        "id": 891
       }
     ]
   }
