@@ -25,12 +25,15 @@ modified date: 2026-07-03 17:38
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]], 1949 r.
 [[Bocheński Józef Maria, Współczesne metody myślenia]], 1954 r.
 [[Bocheński Józef, History of formal logic]], 1956 r.
+[[Camus Albert, Upadek]], 1956 r.
 [[Voegelin Eric, Świat Polis]], 1957 r.
 [[Voegelin Eric, Platon]], 1957 r.
+[[Fanon Frantz, Wyklęty lud ziemi]], 1961 r.
 [[Adorno Theodor, Nowy prawicowy radykalizm]], 1967 r.
 [[Berlin Isaiah, Cztery eseje o wolności]], 1969 r.
 [[Rothbard Murray, Manifest libertariański]], 1973 r.
 [[Barnes Jonathan, Arystoteles]], 1982 r.
+[[Davila Nicolas Gomez, Następne scholia do tekstu implicite]], 1992 r.
 [[Bocheński Józef Maria, Logika i filozofia]], 1993 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 [[Borawska, Górski – Umysłowość średniowiecza]], 1993 r.

@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-21 21:47
+---
 Współczesnemu człowiekowi nawet najbardziej subtelna prawda wydaje się nieznośnym zuchwalstwem.
 
   
@@ -151,5 +161,12 @@ Aby zrozumieć jakiś tekst, trzeba krążyć wokół niego bez pośpiechu, poni
 Ogłosić swą autonomię to nie chcieć innych panów niż brzuch i seks.
 
 
+# Recenzja
 
-#filozofia #filozofia/współczesna #konserwatyzm 
+Nicolás Gómez Dávila to osoba dość znana w "prawicowym" internecie. Wszelkiej maści konserwatyści, monarchiści etc. zachwycają się nim, dopóki nie olśniewa ich, że ich mentor jest wrogiem tomizmu. Dopóki jego znajomość ogranicza się do kilku ładnych cytatów, to jest raczej szanowanym przez nich. Wśród jakichś libertarian wygląda to podobnie, z tym, że oni nie mają zbytnio ciśnienia na dogłębną znajomość reakcyjnego guru, więc jest mniej rozczarowań w ich gronie. Jest też trzecia grupa tj. ludzie, którzy zdecydowanie za nim nie przepadają za jego pretensjonalność i rzekomą pogardę dla przeciętnego człowieka, który nie urodził się w rodzinie bogatych przemysłowców, by móc całymi dniami czytać książki jak "Nicolas Godżila".  
+  
+Tym, którzy go zupełnie nie znają, służę pomocą. Jest to konserwatywny kolumbijski filozof z XX wieku. Wróg demokracji i Soboru Watykańskiego II. Miał wielką bibliotekę, bardzo dużo czytał, bo nie musiał się sam utrzymywać i napisał kilka (kilkanaście?) tysięcy aforyzmów.  
+  
+Czemu o nim piszę? Ano właśnie przeczytałem jeden zbiór. Już sam tytuł powala pretensjonalnością "Nowe scholia do tekstu implicite". Zgadam się zupełnie z krytykami, że od Davili bije bucostwem i że często najzwyczajniej w świecie bredzi, ale błędnym wydaje mi się stwierdzenie, że gardzi on zwykłym Kowalskim. Zdecydowanie odróżnia "lud" od "pospólstwa", czy też "plebsu". Lud to lud, zwykli, poczciwi ludzie. Plebs to dla niego pewien produkt egalitarnego i demokratycznego prania mózgu.  
+  
+Pretensjonalność pretensjonalnością, a jak pozostałe wrażenia? Dość pozytywne. Może dobrych było tak na oko z 5% jego mądrości, ale jak już były sensowne, to faktycznie były dość mocne. Dużo było aforyzmów na temat estetyki, co lubię.

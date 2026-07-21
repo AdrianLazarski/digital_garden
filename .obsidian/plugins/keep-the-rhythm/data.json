@@ -10773,6 +10773,11 @@
             "timeKey": "18:15",
             "w": 7,
             "c": 35
+          },
+          {
+            "timeKey": "21:45",
+            "w": 5,
+            "c": 35
           }
         ],
         "id": 829
@@ -10986,6 +10991,11 @@
             "timeKey": "20:20",
             "w": 13,
             "c": 97
+          },
+          {
+            "timeKey": "21:45",
+            "w": 5,
+            "c": 34
           }
         ],
         "id": 839
@@ -11860,6 +11870,16 @@
             "timeKey": "21:35",
             "w": 6,
             "c": 57
+          },
+          {
+            "timeKey": "21:40",
+            "w": 5,
+            "c": 34
+          },
+          {
+            "timeKey": "21:45",
+            "w": 15,
+            "c": 108
           }
         ],
         "id": 883
@@ -12427,11 +12447,91 @@
         "changes": [
           {
             "timeKey": "21:35",
-            "w": 0,
-            "c": 2
+            "w": 3,
+            "c": 32
+          },
+          {
+            "timeKey": "21:40",
+            "w": 6,
+            "c": 52
           }
         ],
         "id": 918
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Historia/MOC Książki historyczne.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "21:40",
+            "w": 8,
+            "c": 82
+          }
+        ],
+        "id": 919
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Camus Albert, Upadek.md",
+        "wordCountStart": 273,
+        "charCountStart": 1970,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": -1,
+            "c": -22
+          }
+        ],
+        "id": 920
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Davila Nicolas Gomez, Następne scholia do tekstu implicite.md",
+        "wordCountStart": 363,
+        "charCountStart": 2697,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 19,
+            "c": 125
+          }
+        ],
+        "id": 921
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Davila Nicolas Gomez, Nowe scholia do tekstu implicite.md",
+        "wordCountStart": 700,
+        "charCountStart": 5468,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 274,
+            "c": 1885
+          }
+        ],
+        "id": 922
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Fanon Frantz, Wyklęty lud ziemi.md",
+        "wordCountStart": 59,
+        "charCountStart": 509,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 17,
+            "c": 116
+          }
+        ],
+        "id": 923
       }
     ]
   }

@@ -1,4 +1,13 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/współczesna
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 21:45
+---
+1992 r.
 
 Człowiek współczesny nie ma życia wewnętrznego: pozostają mu zaledwie wewnętrzne konflikty. 
 
@@ -57,4 +66,4 @@ Kto nie podziela naszych antypatii, nie pojmuje naszych idei.
 Pełno jest poetów, którzy nazywają "poezją" jedną z form intelektualnej nieodpowiedzialności.
 
 
-#filozofia #filozofia/współczesna #konserwatyzm 
+

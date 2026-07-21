@@ -4,17 +4,17 @@ tags:
   - ref
   - recenzja
   - filozofia/współczesna
-  - egzystencjalizm
-  - filozofia/francuska
   - beletrystyka
   - filozofia/etyka
-  - filozofia/metafizyka
+  - filozofia/antropologia
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-02-19 15:03
 Rok oryginału: "1956"
 ---
-Recenzja
+[[Albert Camus]]
+
+# Recenzja
 
 Zręczny opis zgniłego altruisty, któremu udaje się z czasem przejrzeć własne samozakłamanie. Niestety ostatecznie przechodzi z cynizmu nieuświadomionego do uświadomionego. I mimo, że nie jest przedstawiony jako postać jakoś szczególnie pozytywna, to ostatnie partie książki wyglądają już na stanowisko autora. 
 
