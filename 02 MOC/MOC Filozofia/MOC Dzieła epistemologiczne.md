@@ -14,3 +14,4 @@ modified date: 2026-07-03 17:46
 [[Bonawentura, O sprowadzaniu sztuk do filozofii]], 1257 r.
 [[Bacon Roger, Opus Maius]], 1267
 [[Bacon Franciszek, Novum organum]], 1620
+[[Kant Immanuel, Krytyka czystego rozumu]], 1781 r.

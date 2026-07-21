@@ -1,12 +1,17 @@
-[[Friedrich Nietzsche]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/nowożytna
+  - recenzja
+  - filozofia/antropologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 19:35
+---
+[[Friedrich Nietzsche]], 1878 r.
 
-„Ludzkie arcyludzkie” to jedna z wcześniejszych książek Nietzschego, opublikował ją, gdy miał 34 lata, tuż po zerwaniu kontaktów z Wagnerem. Warto też dodać, że to jego pierwsze aforystyczne dzieło. Forma ta trochę była dla chorego koniecznością, trochę chyba hołdem dla La Rochefocaulda, którego duch często przemawia do nas piórem Nietzschego. Etyka to po prostu przyzwyczajenie, dobro to po prostu korzyść, cnota prawie zawsze podszyta jest próżnością. Nie myślcie jednak, że tylko takimi smętami uraczył nas autor. Próbuje on nas pocieszyć deterministycznym podłożem zachowań i zdjąć z naszych barków zarówno winę, jak i zasługi. Czy to pocieszające, to inna kwestia.
 
-Trzeba też wspomnieć o jego wizji chrześcijaństwa. Uważa, że jak prosty lud ma guślarskie podejście do wiary, to że tak wygląda cała religia, oraz że asceci i święci tłumią w sobie tyle rzeczy, że szukają różnych form urozmaicenia sobie życia – okaleczania się, wizji, doświadczeń mistycznych. Stałość ich cnót ma wyjaśniać też to, że intensywność przyjemności z tłumienia np.chęci zemsty jest sąsiednia przyjemności jej dokonania, bo korzysta z tego samego rdzenia. Poza tymi głównymi myślami w tym temacie jest też mnóstwo krótszych, „szybkich cięć”, stawiających religię na głowie i zmuszających do wstrzymania oddechu i zastanowienia się nawet najmocniej wierzących (pod warunkiem, że mają otwarte umysły). 
-
-Jeśli chodzi o politykę, to Nietzsche ma dość celne, makiaweliczne spostrzeżenia na temat różnych procesów, dobrze ciśnie po socjalistach i poprawnie opisuje podstawowe mechanizmy rynkowe. Nie jest przywiązany ściśle do żadnych form organizacji społeczeństwa, ale ma ciekawe spostrzeżenia, które o dziwo półtora wieku później sprawdziły się w bardzo dużym stopniu. Aktualny chaos w polityce, wzrost partyjności, miałkość współczesnej filozofii – to owoce upodabniania się kobiet do mężczyzn. W dłuższym okresie ma też upaść państwo i Nietzsche nawet zapowiedział funkcjonowanie prywatnych agencji ochrony. Mało kto jest tego świadom, ale w sumie można go uznać za jednego z prekursorów myśli libertariańskiej, a w szczególności jej anarchokapitalistycznej części. 
-
-W estetyce młody Nietzsche zaskoczył mnie, bo uważał ją w tym okresie za coś mniej wartościowego od nauki. W ogóle mnóstwo tutaj pochwał dla myślenia naukowego i Oświecenia. Podejrzewam, że ta wersja filozofia najbardziej przypadłaby do gustu ludziom postrzegającym go przez pryzmat późniejszych pism jako mistyka, czy irracjonalnego buntownika. Poza tym jest mnóstwo pomniejszych myśli, niezwiązanych z głównymi gałęziami filozofii. Niektóre są truizmami i wywołują co najwyżej uprzejmą obojętność, inne zaś rzucają wiele światła na elementy życia codziennego, o których by mi nawet nie przyszło do głowy opowiadać innym, bo za tak nieistotne je miałem, albo po chwili zastanowienia wyparowywały z mojej głowy na zawsze. Są też oczywiście ważne spostrzeżenia na ważne tematy. To już mu się nigdy nie zmieniło, ale Nietzsche jednocześnie neguje etykę i daje tyle wskazówek na temat dobrego życia, że bez problemu można traktować jego aforyzmy jako pokarm dla ducha, a nie gorzką, rozkładającą truciznę. Kto przetrwa pierwsze kilkadziesiąt relatywistycznych, drażniących myśli, ten ze smakiem spożyje deser.
 
   
 
@@ -246,5 +251,14 @@ Trzy uwagi ogólne, których umiejscowienie zapomniałem zapisać:
 3. W Zaratustrze może tak tego nie widać, ale tu jest potwierdzenie, że naukę uważa za mniej istotną od sztuki. Ponadto jakoś paradoksalnie twierdzi, że jesteśmy bardziej uduchowieni niż ludzie przed wiekami.
 
 
+# Recenzja
 
-#filozofia #filozofia/nowożytna 
+„Ludzkie arcyludzkie” to jedna z wcześniejszych książek Nietzschego, opublikował ją, gdy miał 34 lata, tuż po zerwaniu kontaktów z Wagnerem. Warto też dodać, że to jego pierwsze aforystyczne dzieło. Forma ta trochę była dla chorego koniecznością, trochę chyba hołdem dla La Rochefocaulda, którego duch często przemawia do nas piórem Nietzschego. Etyka to po prostu przyzwyczajenie, dobro to po prostu korzyść, cnota prawie zawsze podszyta jest próżnością. Nie myślcie jednak, że tylko takimi smętami uraczył nas autor. Próbuje on nas pocieszyć deterministycznym podłożem zachowań i zdjąć z naszych barków zarówno winę, jak i zasługi. Czy to pocieszające, to inna kwestia.
+
+Trzeba też wspomnieć o jego wizji chrześcijaństwa. Uważa, że jak prosty lud ma guślarskie podejście do wiary, to że tak wygląda cała religia, oraz że asceci i święci tłumią w sobie tyle rzeczy, że szukają różnych form urozmaicenia sobie życia – okaleczania się, wizji, doświadczeń mistycznych. Stałość ich cnót ma wyjaśniać też to, że intensywność przyjemności z tłumienia np.chęci zemsty jest sąsiednia przyjemności jej dokonania, bo korzysta z tego samego rdzenia. Poza tymi głównymi myślami w tym temacie jest też mnóstwo krótszych, „szybkich cięć”, stawiających religię na głowie i zmuszających do wstrzymania oddechu i zastanowienia się nawet najmocniej wierzących (pod warunkiem, że mają otwarte umysły). 
+
+Jeśli chodzi o politykę, to Nietzsche ma dość celne, makiaweliczne spostrzeżenia na temat różnych procesów, dobrze ciśnie po socjalistach i poprawnie opisuje podstawowe mechanizmy rynkowe. Nie jest przywiązany ściśle do żadnych form organizacji społeczeństwa, ale ma ciekawe spostrzeżenia, które o dziwo półtora wieku później sprawdziły się w bardzo dużym stopniu. Aktualny chaos w polityce, wzrost partyjności, miałkość współczesnej filozofii – to owoce upodabniania się kobiet do mężczyzn. W dłuższym okresie ma też upaść państwo i Nietzsche nawet zapowiedział funkcjonowanie prywatnych agencji ochrony. Mało kto jest tego świadom, ale w sumie można go uznać za jednego z prekursorów myśli libertariańskiej, a w szczególności jej anarchokapitalistycznej części. 
+
+W estetyce młody Nietzsche zaskoczył mnie, bo uważał ją w tym okresie za coś mniej wartościowego od nauki. W ogóle mnóstwo tutaj pochwał dla myślenia naukowego i Oświecenia. Podejrzewam, że ta wersja filozofia najbardziej przypadłaby do gustu ludziom postrzegającym go przez pryzmat późniejszych pism jako mistyka, czy irracjonalnego buntownika. Poza tym jest mnóstwo pomniejszych myśli, niezwiązanych z głównymi gałęziami filozofii. Niektóre są truizmami i wywołują co najwyżej uprzejmą obojętność, inne zaś rzucają wiele światła na elementy życia codziennego, o których by mi nawet nie przyszło do głowy opowiadać innym, bo za tak nieistotne je miałem, albo po chwili zastanowienia wyparowywały z mojej głowy na zawsze. Są też oczywiście ważne spostrzeżenia na ważne tematy. To już mu się nigdy nie zmieniło, ale Nietzsche jednocześnie neguje etykę i daje tyle wskazówek na temat dobrego życia, że bez problemu można traktować jego aforyzmy jako pokarm dla ducha, a nie gorzką, rozkładającą truciznę. Kto przetrwa pierwsze kilkadziesiąt relatywistycznych, drażniących myśli, ten ze smakiem spożyje deser.
+
+

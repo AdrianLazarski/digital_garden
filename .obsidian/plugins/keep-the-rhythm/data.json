@@ -10547,8 +10547,18 @@
           },
           {
             "timeKey": "19:25",
-            "w": 7,
-            "c": 55
+            "w": 15,
+            "c": 119
+          },
+          {
+            "timeKey": "19:30",
+            "w": 13,
+            "c": 96
+          },
+          {
+            "timeKey": "19:35",
+            "w": 12,
+            "c": 104
           }
         ],
         "id": 823
@@ -10577,6 +10587,11 @@
           {
             "timeKey": "18:25",
             "w": 8,
+            "c": 52
+          },
+          {
+            "timeKey": "19:30",
+            "w": 7,
             "c": 52
           }
         ],
@@ -10821,6 +10836,11 @@
             "timeKey": "18:35",
             "w": 8,
             "c": 46
+          },
+          {
+            "timeKey": "19:25",
+            "w": 8,
+            "c": 64
           }
         ],
         "id": 835
@@ -10881,6 +10901,16 @@
             "timeKey": "18:00",
             "w": 10,
             "c": 70
+          },
+          {
+            "timeKey": "19:25",
+            "w": 7,
+            "c": 55
+          },
+          {
+            "timeKey": "19:35",
+            "w": 6,
+            "c": 54
           }
         ],
         "id": 839
@@ -10924,6 +10954,16 @@
             "timeKey": "18:00",
             "w": 10,
             "c": 67
+          },
+          {
+            "timeKey": "19:30",
+            "w": 5,
+            "c": 46
+          },
+          {
+            "timeKey": "19:35",
+            "w": -5,
+            "c": -45
           }
         ],
         "id": 841
@@ -11395,6 +11435,67 @@
           }
         ],
         "id": 867
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel, Kto myśli abstrakcyjnie.md",
+        "wordCountStart": 143,
+        "charCountStart": 1014,
+        "changes": [
+          {
+            "timeKey": "19:25",
+            "w": 2,
+            "c": 6
+          },
+          {
+            "timeKey": "19:30",
+            "w": 19,
+            "c": 149
+          }
+        ],
+        "id": 868
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Kant Immanuel, Krytyka czystego rozumu.md",
+        "wordCountStart": 39,
+        "charCountStart": 287,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 22,
+            "c": 172
+          }
+        ],
+        "id": 869
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Lichtenberg Georg Christoph, Aforyzmy.md",
+        "wordCountStart": 220,
+        "charCountStart": 1492,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 37,
+            "c": 247
+          }
+        ],
+        "id": 870
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Ludzkie arcyludzkie.md",
+        "wordCountStart": 4277,
+        "charCountStart": 29160,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 24,
+            "c": 194
+          }
+        ],
+        "id": 871
       }
     ]
   }

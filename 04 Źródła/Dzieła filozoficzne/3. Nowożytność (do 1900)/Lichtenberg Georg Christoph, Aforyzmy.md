@@ -1,4 +1,13 @@
-[[Georg Christoph Lichtenberg]] 
+---
+created: 2026-02-28 19:46
+tags:
+  - "#filozofia/nowożytna"
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 19:32
+---
+[[Georg Christoph Lichtenberg]], 1799 r. 
 
 
 Gdy myślał, czuł się tak, jak człowiek używający zwykle prawej ręki zmuszony nagle do użycia lewej.
@@ -26,5 +35,6 @@ Popularnym nazywa się dziś często taki wykład, dzięki któremu masy są w s
 Książek, które chcemy, by młodzież czytała, nie należy zalecać, lecz chwalić w jej obecności.
 
 
+# Recenzja
 
-#filozofia #filozofia/nowożytna 
+Na całą tę książkę było raptem z dziesięć zdań godnych uwagi. Reszta była głupia i irytująca.

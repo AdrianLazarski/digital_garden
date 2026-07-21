@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii religii"
+              "title": "MOC Dzieła z zakresu antropologii filozoficznej"
             }
           },
           {
@@ -200,30 +200,6 @@
             }
           },
           {
-            "id": "913dba5bbff0a363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Renesansowa literatura filozoficzna"
-            }
-          },
-          {
             "id": "97eaf2db09e73fc6",
             "type": "leaf",
             "state": {
@@ -253,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
+                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Ludzkie arcyludzkie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,11 +244,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hegel Georg Wilhelm Friedrich, Fenomenologia ducha"
+              "title": "Nietzsche Friedrich, Ludzkie arcyludzkie"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -408,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
+                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Ludzkie arcyludzkie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Hegel Georg Wilhelm Friedrich, Fenomenologia ducha"
+              "title": "Konspekt Nietzsche Friedrich, Ludzkie arcyludzkie"
             }
           }
         ],
@@ -492,32 +468,32 @@
   },
   "active": "814325add5514b73",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/de Maistre Joseph, Wieczory petersburskie.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
     "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
-    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Feuerbach Ludwig, Wykłady o istocie religii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
-    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Kurs filozofii pozytywnej t. 1.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Ludzkie arcyludzkie.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Lichtenberg Georg Christoph, Aforyzmy.md",
+    "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Kant Immanuel, Krytyka czystego rozumu.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel, Kto myśli abstrakcyjnie.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/de Maistre Joseph, Wieczory petersburskie.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Feuerbach Ludwig, Wykłady o istocie religii.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Kurs filozofii pozytywnej t. 1.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
     "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Auguste Comte.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Tomasz z Akwinu, Traktat o Bogu.md",
-    "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
     "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
     "02 MOC/MOC Filozofia/MOC Dzieła Platona.md",
     "03 Atomy/Platon.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fedon.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Obrona Sokratesa.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Średniowieczna literatura filozoficzna.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Teodoryk z Chartres, Traktat o dziełach sześciu dni.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Siger z Brabantu, Zagadnienia moralne.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Ryszard ze św. Wiktora, Beniamin maior.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Uczta.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Timaios.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Protagoras.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Państwo.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

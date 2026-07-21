@@ -1,8 +1,18 @@
-[[Georg Wilhelm Friedrich Hegel]]
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - "#filozofia/nowożytna"
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-21 19:30
+---
+[[Georg Wilhelm Friedrich Hegel]], 1807 r.
 
-Odrębny artykuł
+Odrębny esej
 
-Prowadzony jest na szafot przestępca. Lud widzi w nim tylko i wyłącznie kryminalistę. Niektóre kobiety mogą zauważyć, że oprócz bycia kryminalistą, skazany jest też przystojnym mężczyznom. Lud taka uwaga by rozgniewała.
+Prowadzony jest na szafot przestępca. Lud widzi w nim tylko i wyłącznie kryminalistę. Niektóre kobiety mogą zauważyć, że oprócz bycia kryminalistą, skazany jest też przystojnym mężczyzną. Lud taka uwaga by rozgniewała.
 
 Podobnie, jak ktoś by prześledził losy przestępcy i wskazał na złe stosunki rodzinne między jego rodzicami oraz na dużą surowość, która go spotykała za byle co i następnie by stwierdził, że mogły one spowodować rozczarowanie mieszczańskim ładem, to lud oburzyłyby się, że to usprawiedliwianie przestępstw.
 
@@ -12,4 +22,3 @@ Str 274. Przekupka obraża klientkę, która powiedziała, że sprzedaje zgniłe
 
 
 
-#filozofia #filozofia/nowożytna 
