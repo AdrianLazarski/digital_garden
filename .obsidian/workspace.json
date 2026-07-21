@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu historii filozofii"
+              "title": "MOC Dzieła z zakresu logiki"
             }
           },
           {
@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Berlin Isaiah, Cztery eseje o wolności.md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, History of formal logic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,11 +292,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Berlin Isaiah, Cztery eseje o wolności"
+              "title": "Bocheński Józef, History of formal logic"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -432,13 +432,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, History of formal logic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Współczesna literatura filozoficzna (do 2001)"
+              "title": "Konspekt Bocheński Józef, History of formal logic"
             }
           }
         ],
@@ -514,34 +514,34 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "ae10988248c7cfb7",
+  "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Berlin Isaiah, Cztery eseje o wolności.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Barnes Jonathan, Arystoteles.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Współczesne metody myślenia.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
     "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Logika i filozofia.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Berlin Isaiah, Cztery eseje o wolności.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Barnes Jonathan, Arystoteles.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Alinsky Saul, Roots of radicals.md",
     "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md",
     "02 MOC/MOC Politologia.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Adorno Theodor, Nowy prawicowy radykalizm.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
     "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Wittgenstein Ludwig, Tractatus logico-philosophicus.md",
     "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Voegelin Eric, Świat Polis.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu metafilozofii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
     "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Voegelin Eric, Platon.md",
     "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Toynbee Arnold, Studium historii.md",
     "02 MOC/MOC Filozofia/MOC Filozofia historii.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii historii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Rothbard Murray, Manifest libertariański.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Popper Karl, Społeczeństwo otwarte i jego wrogowie.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Ortega y Gasset Jose, Bunt mas.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

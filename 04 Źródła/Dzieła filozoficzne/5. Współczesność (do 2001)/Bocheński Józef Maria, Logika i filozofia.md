@@ -1,3 +1,17 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/ekonomii
+  - logika
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 21:10
+---
+Pisał w latach 1930-1985
+Pierwsze polskie wydanie 1993 r.
+
 ## Przyczynek do filozofii przedsiębiorstwa przemysłowego
 
 str. 162
@@ -98,4 +112,3 @@ s.170-
 - Zwraca też uwagę, że w historii istnieli tacy idealni przedsiębiorcy.
 
 
-#filozofia #filozofia/współczesna #filozofia/polska #logika 

@@ -16,3 +16,4 @@ modified date: 2026-07-03 17:46
 [[Bacon Franciszek, Novum organum]], 1620
 [[Kant Immanuel, Krytyka czystego rozumu]], 1781 r.
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]], 1949 r.
+[[Bocheński Józef Maria, Współczesne metody myślenia]], 1954 r.

@@ -12,3 +12,4 @@ modified date: 2026-07-10 14:09
 [[Mises Ludwig von, Ludzkie działanie]], 1940
 [[Hayek, Nadużycie rozumu]], 1941
 [[Mises Ludwig von, Teoria a historia]], 1957
+[[Bocheński Józef Maria, Logika i filozofia]], 1993 r.

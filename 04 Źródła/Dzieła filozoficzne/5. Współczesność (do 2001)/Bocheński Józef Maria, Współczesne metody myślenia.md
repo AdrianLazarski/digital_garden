@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - logika/metodologia
+  - filozofia/epistemologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-21 21:15
+---
 Die zeitgenössischen Denkementhoden, 1954
 Pierwsze wydanie PL: W Drodze, Poznań 1992
 Korzystam z Antyk, Komorów 2009, tłum. Stanisław Judycki

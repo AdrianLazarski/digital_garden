@@ -10628,6 +10628,11 @@
             "timeKey": "21:00",
             "w": 8,
             "c": 69
+          },
+          {
+            "timeKey": "21:15",
+            "w": 8,
+            "c": 64
           }
         ],
         "id": 824
@@ -11088,6 +11093,11 @@
             "timeKey": "21:00",
             "w": 7,
             "c": 55
+          },
+          {
+            "timeKey": "21:10",
+            "w": 8,
+            "c": 52
           }
         ],
         "id": 842
@@ -11828,8 +11838,18 @@
           },
           {
             "timeKey": "21:05",
-            "w": 5,
-            "c": 42
+            "w": 13,
+            "c": 94
+          },
+          {
+            "timeKey": "21:10",
+            "w": 8,
+            "c": 55
+          },
+          {
+            "timeKey": "21:15",
+            "w": 8,
+            "c": 64
           }
         ],
         "id": 883
@@ -12250,11 +12270,91 @@
         "changes": [
           {
             "timeKey": "21:05",
-            "w": 22,
-            "c": 180
+            "w": 23,
+            "c": 193
+          },
+          {
+            "timeKey": "21:10",
+            "w": 1,
+            "c": 8
           }
         ],
         "id": 910
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Logika i filozofia.md",
+        "wordCountStart": 1358,
+        "charCountStart": 10531,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 28,
+            "c": 198
+          }
+        ],
+        "id": 911
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+        "wordCountStart": 20,
+        "charCountStart": 151,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 8,
+            "c": 58
+          },
+          {
+            "timeKey": "21:15",
+            "w": 8,
+            "c": 64
+          }
+        ],
+        "id": 912
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
+        "wordCountStart": 39,
+        "charCountStart": 301,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 8,
+            "c": 55
+          }
+        ],
+        "id": 913
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Współczesne metody myślenia.md",
+        "wordCountStart": 1030,
+        "charCountStart": 7649,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 25,
+            "c": 217
+          }
+        ],
+        "id": 914
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, History of formal logic.md",
+        "wordCountStart": 1489,
+        "charCountStart": 9240,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": -656,
+            "c": -3990
+          }
+        ],
+        "id": 915
       }
     ]
   }

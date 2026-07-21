@@ -4,6 +4,10 @@ tags:
   - moc
   - logika
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-04 23:09
 ---
+
+[[Bocheński Józef Maria, Współczesne metody myślenia]], 1954 r.
+
+[[Bocheński Józef Maria, Logika i filozofia]], 1993 r.
