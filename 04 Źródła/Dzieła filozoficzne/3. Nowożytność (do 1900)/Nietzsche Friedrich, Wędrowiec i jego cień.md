@@ -1,4 +1,13 @@
-[[Friedrich Nietzsche]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-07-21 19:54
+---
+[[Friedrich Nietzsche]], 1880 r.
 
 We wstępie do „Wędrowca i jego cienia” Nietzsche zaleca traktować tę książkę jako drugi tum „Ludzkiego, arcyludzkiego”. Mówi też, że będzie pisał tylko o tym, co udało mu się przewyciężyć. Zawile tłumaczy, że porzucił pesymizm na rzecz optymizmu, tylko po to, by móc jeszcze mocniej ten optymizm odrzucić i „wyzdrowieć”.
 
@@ -23,4 +32,3 @@ Tu już pojawia się krytyka oceny moralnej czynu na podstawie intencji, którą
 
 
 
-#filozofia #filozofia/nowożytna 

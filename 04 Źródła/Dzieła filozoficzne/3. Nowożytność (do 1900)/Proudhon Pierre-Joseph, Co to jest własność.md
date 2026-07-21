@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/nowożytna
+  - filozofia/polityki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 19:56
+---
 *Qu’est-ce que la propriété?*, [[Pierre-Joseph Proudhon]], 1840 r.
 
 
@@ -25,5 +35,3 @@
 - Nierówność sił indywidualnych nie może stać się podstawą do nierównego wynagrodzenia, gdyż wszyscy ludzie są zdolni do wykonywania „zadania społecznego”, a owa zdolność została nadana przez naturę. Małą liczbę geniuszy uzasadnia tym, że więcej natura ich nie potrzebuje.  To niezwykle materialistyczna interpretacja całego duchowego i intelektualnego dorobku ludzkości… Swoją drogą mało poważne jest stwierdzenie, że nierówność sił indywidualnych nie może być podstawą do różnych zarobków. Robol ma dostawać tyle samo co inżynier? Obu ma być stać np. na podróż do Włoch? Robol pojedzie nażre się, popije i popływa, a inżynier poogląda budynki i może to pomóc mu w jego pracy. Zasoby są rzadkie i nie każdy może do tych Włoch polecieć, więc jeżeli mam wybrać czy wysłać tam robola, czy inżyniera, to wybieram inżyniera, panie Proudhon.
 - Handel istnieje tylko pomiędzy ludźmi wolnymi, a człowiek wolny to między innymi człowiek niezaślepiony namiętnością, czy strachem. Czyli handel tytoniem lub prostytucja to nie handel. Przeprowadzanie operacji za pieniądze to nie handel.  Bo tak. I jeszcze żeby zabawniej, sugeruje, że wartość towarów jest obiektywna, mówiąc, że wymiana musi być ”równa” i nie można na niej zyskiwać! Biorąc pod uwagę, że bez wizji zysku nikt by wymiany nie dokonywał, to coś tu jest nie tak.
 
-
-#filozofia #filozofia/nowożytna #filozofia/polityki #filozofia/francuska #anarchizm 

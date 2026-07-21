@@ -1,5 +1,36 @@
-[[Friedrich Nietzsche]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 19:48
+---
+[[Friedrich Nietzsche]], 1872, 1886
 
+**Spis treści**
+
+1. [Notatki](#Notatki)
+	1. [Bogdan Baran, Metafizyka tragedii (przedmowa tłumacza)](#Bogdan%20Baran,%20Metafizyka%20tragedii%20(przedmowa%20t%C5%82umacza))
+		1. [Próba samokrytyki](#Pr%C3%B3ba%20samokrytyki)
+	2. [Rozdział 1](#Rozdzia%C5%82%201)
+	3. [Rozdział 2](#Rozdzia%C5%82%202)
+	4. [Rozdział 3](#Rozdzia%C5%82%203)
+	5. [Rozdział 4](#Rozdzia%C5%82%204)
+	6. [Rozdział 5](#Rozdzia%C5%82%205)
+	7. [Rozdział 6](#Rozdzia%C5%82%206)
+	8. [Rozdział 11](#Rozdzia%C5%82%2011)
+	9. [Rozdział 13](#Rozdzia%C5%82%2013)
+	10. [Rozdział 14](#Rozdzia%C5%82%2014)
+	11. [Rozdział 15](#Rozdzia%C5%82%2015)
+	12. [Rozdział 16](#Rozdzia%C5%82%2016)
+	13. [Rozdział 17](#Rozdzia%C5%82%2017)
+	14. [Rozdział 18](#Rozdzia%C5%82%2018)
+	15. [Rozdział 19](#Rozdzia%C5%82%2019)
+2. [Recenzja](#Recenzja)
+
+# Notatki
 ## Bogdan Baran, Metafizyka tragedii (przedmowa tłumacza)
 - Pierwotny tytuł z 1872 r. to Narodziny tragedii z ducha muzyki i zwierało Przedmowę do Richarda Wagnera.
 - Wznowienie w 1886 r. pod nowym tytułem, bez przedmowy, ale z Próbą samokrytyki.
@@ -117,5 +148,20 @@
 
 - Opera to narodziny człowieka teoretycznego, krytycznego laika, nie artysty - jeden z najbardziej zdumiewających faktów w dziejach nauk wszystkich. Z gruntu niemuzykalni słuchacze wymagali, by słowo było przede wszystkim zrozumiałe". s. 180
 
+# Recenzja
 
-#filozofia #filozofia/nowożytna 
+Jak to Nietzsche – parę ciekawych uwag i mnóstwo upoetycznionego bełkotu, przez który trzeba się przedzierać z mniejszą lub większą satysfakcją/irytacją. Z racji tego, że ta książka to jedno z trzech dzieł, które nie są zbiorami aforyzmów, to ktoś mógł spodziewać się bardziej spójnego wywodu. Takie osoby rozczaruję – to dalej zbiór aforyzmów, dla niepoznaki przedzielonych rozdziałami i z pokasowanymi akapitami. I niestety większość właściwej treści jest skoncentrowana w pierwszej połowie dzieła, a później coraz bardziej narastają powtórzenia. Już teraz nie serdecznie nie polecę wam tej książki i powiem, że można ograniczyć się do przedmowy tłumacza Bogdana Barana, który nieźle streszcza główne wątki oraz do "Próby samokrytki" Nietzschego.  
+  
+Sam autor uważał potem tę książkę za niedążącą do "logicznej czystości", pomijającą dowody i po prostu źle napisaną. Dodał też:"Jakże dziś żałuję, że (…) usiłowałem mozolnie wyrazić formułami Schopenhauera i Kanta obce im i nowe wartościowania, które duchowi i smakowi Kanta i Schopenhauera były z gruntu przeciwstawne!". Gdzie indziej stwierdził też, że tę książkę można uznać za 50 lat starszą, bo tak bardzo zalatuje heglizmem. Kiepska rekomendacja, nie?  
+  
+No dobra, ale o czym to właściwie jest? Jaka jest myśl przewodnia? Na pewno nie jest to książka o tragedii greckiej, bo jest ona tylko pretekstem do "głębszych" rozważań metafizycznych i antropologicznych. "Głębszych" w cudzysłowie, bo warstwa metafizyczna zawsze jest u samych fundamentów i wszystkie inne na niej spoczywają, więc w tym sensie można było użyć tego słowa, ale jeśli chodzi o jakość przemyśleń, ich odkrywczość, czy sensowność, to są niewiarygodnie płytkie. Ot jakieś zawoalowane monizmy na kiju, zainspirowane za pośrednictwem Schopenhauera wschodnimi religiami, których to nawet dobrze nie znali, bo jakość europejskich tłumaczeń nie była wtedy najwyższa.  
+  
+Według narracji Nietzschego z natury wydobywają się dwie, na pierwszy rzut oka przeciwstawne, ale w gruncie rzeczy dopełniająca się siły. Apollińska i dionizyjska. Apollińskość to harmonia i zamknięcie w formach, które pra-jednia – jedyny prawdziwy byt – wytworzyła dla zbawienia samej siebie. Grek znał i odczuwał grozę i obrzydliwość bytowania; aby w ogóle żyć, musiał je zasłonić zrodzonym ze snu Olimpem. "Apollo pokazuje nam podniosłymi gestami, że cały ten świat udręki jest konieczny, by jednostka została nakłoniona do stworzenia zbawczej wizji i by potem, pogrążona w jej kontemplacji, siedziała spokojnie pośrodku morza w swej chwiejnej łodzi.".  
+  
+Dionizyjskość zaś to dzikość, czerpiąca przyjemność z cierpienia, którym jest istnienie jako takie. Znosi jednostkę i dokonuje metafizycznej przemiany całego świata, gdzie nie ma bytów i jest tylko upojne bycie jako pra-jednia. Artysta dionizyjski jednoczy się całkowicie z pra-jednią, jej bólem oraz sprzecznością i tworzy odbicie tej pra-jedni w muzyce, "którą słusznie nazywano powtórką świata i jego odlewem" (apollińskość w sztuce objawia się w sztukach wizualnych).  
+  
+Czym właściwie są te siły, to ciężko stwierdzić. Brzmią jak tendencje ludzi i to ludzi konkretnych tj. artystów, więc wydawałoby się, że to jakieś zjawiska antropologiczne i potwierdza to sam autor, pisząc, że artysta to naśladowca stanów natury: albo jest apollińskim artystą snu, albo dionizyjskim artystą upojenia, albo jednym i drugim w tragedii Greckiej. Jednakże gdzie indziej Nietzsche pisze, że to "siły artystyczne, które wydobywają się z samej natury bez pośrednictwa człowieczego artysty i w których się owe artystyczne popędy zaspokajają od razu i wprost". Sami widzicie, że ciężko to dzieło traktować jakoś poważnie. Jeśliby spróbować te zdania uzgodnić ze sobą, to można przyjąć, że apollińskość i dionizyjskość to stany natury, a apolliński twórca po prostu naśladuje apollińskość i dionizyjski analogicznie. Można też naśladować oba te pierwiastki, co ma być rzekomo wielkim osiągnięciem tragedii greckiej, łączącej dionizyjskie dytyramby (chór) z eposem (fabuła, dialogi) – dionizyjska treść znalazła formę apollińskiego tekstu. Tylko skoro bycie jednością w pra-jedni jest tak przyjemne, że dla niej dionizyjskość znosi wszelkie formy, to po co te formy powstały? Mamy tutaj sprzeczność. Chyba że jednak apollińskość to nie jakiś metafizyczny ruch samowybawiającej się pra-jedni, a tendencja czysto ludzka, co Nietzsche sam zasugerował tym fragmentem o wymyślaniu przez ludzi olimpijskich bogów dla zwiększenia swojego komfortu psychicznego. Wtedy zaś mamy sprzeczność z fragmentami o apollińskości i dionizyjskości jako stanach natury.  
+  
+Najżyczliwszą interpretacją byłaby ta: apollińskość i dionizyjskość to tendencje ludzkie w sztuce. Pierwsza kładzie nacisk na istotę bytów, druga na ich istnienie. Pierwsza upaja się formami, w tym i naszą indywidualną formą, nie znosząc jej, a jakby przedstawiając na tle złożonego świata i dostarczająca satysfakcji ze względu na podobieństwo. Druga traktuje formy czysto instrumentalnie i jest antysubstancjalna; liczy się dla niej tylko upojenie i poczucie jedności ze światem.  
+  
+Tylko to taka nonszalancka życzliwość, która zmusza nas do nietraktowania poważnie wszystkiego, co Nietzsche pisze i do podsuwania mu własnych słów, czego wolałbym nie robić. I wam również nie życzę bycia zmuszonym do czegoś takiego, więc po prostu nie czytajcie tej książki. Nie warto.

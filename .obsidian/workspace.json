@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła filozoficzne"
+            }
+          },
+          {
+            "id": "202b7c48bb9433c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
                 "mode": "source",
                 "source": false,
@@ -29,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "MOC Dzieła z zakresu antropologii filozoficznej"
+            }
+          },
+          {
+            "id": "7413a04c6f403248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła z zakresu filozofii polityki"
             }
           },
           {
@@ -224,12 +272,12 @@
             }
           },
           {
-            "id": "814325add5514b73",
+            "id": "d5d6515ed7563f18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Ludzkie arcyludzkie.md",
+                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Schopenhauer Arthur, Aforyzmy o mądrości życia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,11 +292,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nietzsche Friedrich, Ludzkie arcyludzkie"
+              "title": "Schopenhauer Arthur, Aforyzmy o mądrości życia"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -384,13 +432,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Ludzkie arcyludzkie.md",
+                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Schopenhauer Arthur, Aforyzmy o mądrości życia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Nietzsche Friedrich, Ludzkie arcyludzkie"
+              "title": "Konspekt Schopenhauer Arthur, Aforyzmy o mądrości życia"
             }
           }
         ],
@@ -466,10 +514,15 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "814325add5514b73",
+  "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Proudhon Pierre-Joseph, Co to jest własność.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
     "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Wędrowiec i jego cień.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Narodziny tragedii albo Grecy i pesymizm.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Ludzkie arcyludzkie.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Lichtenberg Georg Christoph, Aforyzmy.md",
     "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
@@ -478,12 +531,10 @@
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel, Kto myśli abstrakcyjnie.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/de Maistre Joseph, Wieczory petersburskie.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Feuerbach Ludwig, Wykłady o istocie religii.md",
     "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Kurs filozofii pozytywnej t. 1.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
     "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Auguste Comte.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Tomasz z Akwinu, Traktat o Bogu.md",
     "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
@@ -491,9 +542,6 @@
     "03 Atomy/Platon.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fedon.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Obrona Sokratesa.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
-    "02 MOC/MOC Filozofia/MOC Średniowieczna literatura filozoficzna.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Teodoryk z Chartres, Traktat o dziełach sześciu dni.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

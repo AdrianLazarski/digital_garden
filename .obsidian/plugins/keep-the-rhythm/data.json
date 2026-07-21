@@ -10559,6 +10559,16 @@
             "timeKey": "19:35",
             "w": 12,
             "c": 104
+          },
+          {
+            "timeKey": "19:50",
+            "w": 11,
+            "c": 81
+          },
+          {
+            "timeKey": "19:55",
+            "w": 17,
+            "c": 115
           }
         ],
         "id": 823
@@ -10911,6 +10921,11 @@
             "timeKey": "19:35",
             "w": 6,
             "c": 54
+          },
+          {
+            "timeKey": "19:55",
+            "w": 8,
+            "c": 57
           }
         ],
         "id": 839
@@ -11496,6 +11511,72 @@
           }
         ],
         "id": 871
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Narodziny tragedii albo Grecy i pesymizm.md",
+        "wordCountStart": 1713,
+        "charCountStart": 12770,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 18,
+            "c": 130
+          },
+          {
+            "timeKey": "19:50",
+            "w": 919,
+            "c": 6192
+          }
+        ],
+        "id": 872
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Wędrowiec i jego cień.md",
+        "wordCountStart": 355,
+        "charCountStart": 2411,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 18,
+            "c": 133
+          },
+          {
+            "timeKey": "19:55",
+            "w": 2,
+            "c": 9
+          }
+        ],
+        "id": 873
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Proudhon Pierre-Joseph, Co to jest własność.md",
+        "wordCountStart": 733,
+        "charCountStart": 5018,
+        "changes": [
+          {
+            "timeKey": "19:55",
+            "w": 15,
+            "c": 101
+          }
+        ],
+        "id": 874
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Schopenhauer Arthur, Aforyzmy o mądrości życia.md",
+        "wordCountStart": 50,
+        "charCountStart": 356,
+        "changes": [
+          {
+            "timeKey": "19:55",
+            "w": 21,
+            "c": 164
+          }
+        ],
+        "id": 875
       }
     ]
   }
