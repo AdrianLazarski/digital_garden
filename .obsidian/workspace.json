@@ -248,6 +248,30 @@
             }
           },
           {
+            "id": "685801e398780bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fedon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Platon, Fedon"
+            }
+          },
+          {
             "id": "913dba5bbff0a363",
             "type": "leaf",
             "state": {
@@ -540,10 +564,11 @@
   },
   "active": "2e0ff5f9f54237b8",
   "lastOpenFiles": [
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fedon.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła Platona.md",
     "03 Atomy/Platon.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Obrona Sokratesa.md",
     "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła Platona.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Tomasz z Akwinu, Traktat o Bogu.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
@@ -563,7 +588,6 @@
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
     "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Gorgiasz.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fedon.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fajdros.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Eutyfron.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
