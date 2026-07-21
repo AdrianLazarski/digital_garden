@@ -10,3 +10,5 @@ modified date: 2026-07-03 17:46
 
 
 [[Abelard Piotr, Rozprawa o pojęciach ogólnych]], 1120/1130 r.
+[[Bacon Roger, Opus Maius]], 1267
+[[Bacon Franciszek, Novum organum]], 1620

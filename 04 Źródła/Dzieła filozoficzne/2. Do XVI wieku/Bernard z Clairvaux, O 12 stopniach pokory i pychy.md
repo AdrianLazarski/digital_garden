@@ -1,4 +1,16 @@
-[[Bernard z Chartres]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/etyka
+  - teologia/moralna
+  - filozofia/średniowieczna
+  - chrześcijaństwo
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 17:32
+---
+[[Bernard z Chartres]], 1124 r.
 
 - Szatan grzeszy, bo uważa, że Bóg go nie ukarze, bo byłaby to zemsta, a więc zło. Bóg woli sam cierpieć, niż go zniszczyć. Skoro tak uważa, to tym większa jego zbrodnia wobec Boga.
 - Kara go jednak spotka, bo Bóg nie byłby doskonały, gdyby nie był jednocześnie sprawiedliwy.

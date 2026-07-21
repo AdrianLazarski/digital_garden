@@ -7,7 +7,8 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 14:05
 ---
-
+[[Bacon Roger, Opus Maius]], 1267
+[[Bacon Franciszek, Novum organum]], 1620
 
 [[Hayek, Nadużycie rozumu]], 1941
 [[Mises Ludwig von, Teoria a historia]], 1957

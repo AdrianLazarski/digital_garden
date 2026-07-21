@@ -10,3 +10,4 @@ modified date: 2026-07-03 17:59
 
 [[Arystoteles, Etyka nikomachejska]], 330 przed Chr.
 [[Alkuin, O cnotach i wadach]], 799/800 r.
+[[Bernard z Clairvaux, O 12 stopniach pokory i pychy]], 1124 r.

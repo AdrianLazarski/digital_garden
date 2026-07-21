@@ -1,4 +1,15 @@
-[[Roger Bacon]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/średniowieczna
+  - filozofia/epistemologia
+  - filozofia/nauki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 17:29
+---
+[[Roger Bacon]], 1267 r.
 
 Część 6
 
@@ -21,4 +32,3 @@ Część 6
 	2. Inne nauki dostarczają tylko terminów, a właściwa operacja odbywa się na gruncie nauki eksperymentalnej.
 
 
-#filozofia #filozofia/średniowieczna #filozofia/epistemologia 
