@@ -48,6 +48,8 @@ tags:
 - Przez 12 lat podróżował. Był w Egipcie i we Włoszech. Potem wrócił do Aten i oddał się pisaniu i nauczaniu. 
 - Gdzie nie mógł dosięgnąć filozofią, tam używał poezji i religii.
 
+
+[[MOC Dzieła Platona]]
 # Dzieła 📖
 
 - Napisał 36 dialogów i Listy. Starożytni uporządkowani dialogi w 9 tetralogii. 

@@ -1,4 +1,17 @@
-[[Tomasz z Akwinu]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/średniowieczna
+  - filozofia/boga
+  - chrześcijaństwo
+  - filozofia/metafizyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-21 18:33
+---
+[[Tomasz z Akwinu]], 1265–1268 r. 
+Cześć Summy teologicznej.
 
 O bogu (pierwsze 26 kwestii)
 - Bóg jest ze swej istoty samą formą.
@@ -15,4 +28,3 @@ Wszystko co Bóg wie jest w Nim i jest Nim. Wie wszystko, nawet rzeczy, które n
 
 
 
-#filozofia #filozofia/średniowieczna #tomizm #chrześcijaństwo #filozofia/metafizyka #filozofia/boga  

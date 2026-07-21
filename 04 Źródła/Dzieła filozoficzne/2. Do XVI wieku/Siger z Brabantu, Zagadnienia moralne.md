@@ -8,7 +8,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 18:29
 ---
-[[Siger z Brabantu]], 
+[[Siger z Brabantu]], 1277 r.
 
 - Wielkoduszność pobudza do rzeczy wzniosłych wedle rozumu, a pokora powściąga dążenie do rzeczy zbyt wzniosłych.
 - Wielkoduszność jest doskonalszą cnotą, niż pokora.

@@ -1,4 +1,15 @@
-[[Teodoryk z Chartres]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - chrześcijaństwo
+  - "#filozofia/metafizyka"
+  - "#filozofia/średniowieczna"
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 18:30
+---
+[[Teodoryk z Chartres]], 1141 r.
 
 - Mojżesz napisał Genesis. "Na początku Bóg stworzył niebo i ziemię" wskazuje na porządek czasowy i to, że świat ma racjonalne 4 przyczyny (de facto potem je odrzuca):  
     1. sprawczą - Bóg Ojciec  
@@ -28,6 +39,3 @@
 - Jedność zasadą wszystkich jednostkowych rzeczy.
 - Wiąże się z równością, którą rodzi z samej siebie i ze swojej substancji. Równość poprzedza samą liczbę, więc jest tożsama z jednością. Jedność to osoba rodząca, a równość osoba zrodzona.
 - Bóg formą bytowania wszystkich rzeczy, ale nie jako forma bytująca w materii – po prostu wszystko bytuje w nim.
-
-
-#filozofia #filozofia/średniowieczna #chrześcijaństwo #filozofia/metafizyka 

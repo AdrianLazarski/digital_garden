@@ -10469,6 +10469,11 @@
             "timeKey": "17:45",
             "w": 7,
             "c": 46
+          },
+          {
+            "timeKey": "18:35",
+            "w": 8,
+            "c": 45
           }
         ],
         "id": 819
@@ -10645,6 +10650,16 @@
             "timeKey": "18:25",
             "w": 8,
             "c": 52
+          },
+          {
+            "timeKey": "18:30",
+            "w": 17,
+            "c": 116
+          },
+          {
+            "timeKey": "18:35",
+            "w": 8,
+            "c": 46
           }
         ],
         "id": 827
@@ -10786,6 +10801,16 @@
             "timeKey": "17:55",
             "w": 6,
             "c": 45
+          },
+          {
+            "timeKey": "18:30",
+            "w": 10,
+            "c": 65
+          },
+          {
+            "timeKey": "18:35",
+            "w": 8,
+            "c": 46
           }
         ],
         "id": 835
@@ -11177,9 +11202,80 @@
             "timeKey": "18:25",
             "w": 18,
             "c": 142
+          },
+          {
+            "timeKey": "18:30",
+            "w": 2,
+            "c": 7
           }
         ],
         "id": 858
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Teodoryk z Chartres, Traktat o dziełach sześciu dni.md",
+        "wordCountStart": 311,
+        "charCountStart": 2192,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 20,
+            "c": 150
+          }
+        ],
+        "id": 859
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Tomasz z Akwinu, Traktat o Bogu.md",
+        "wordCountStart": 144,
+        "charCountStart": 931,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 15,
+            "c": 107
+          },
+          {
+            "timeKey": "18:35",
+            "w": 8,
+            "c": 66
+          }
+        ],
+        "id": 860
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła Platona.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 492,
+            "c": 3805
+          },
+          {
+            "timeKey": "18:40",
+            "w": 6,
+            "c": 28
+          }
+        ],
+        "id": 861
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "03 Atomy/Platon.md",
+        "wordCountStart": 3018,
+        "charCountStart": 22049,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 3,
+            "c": 24
+          }
+        ],
+        "id": 862
       }
     ]
   }
