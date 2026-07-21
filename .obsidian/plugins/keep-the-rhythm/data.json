@@ -10492,6 +10492,36 @@
           }
         ],
         "id": 821
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+        "wordCountStart": 165,
+        "charCountStart": 1314,
+        "changes": [],
+        "id": 822
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
+        "wordCountStart": 26,
+        "charCountStart": 207,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 5,
+            "c": 41
+          }
+        ],
+        "id": 823
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+        "wordCountStart": 29,
+        "charCountStart": 220,
+        "changes": [],
+        "id": 824
       }
     ]
   }

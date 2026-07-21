@@ -224,6 +224,30 @@
             }
           },
           {
+            "id": "97eaf2db09e73fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Nowożytna literatura filozoficzna (do 1900)"
+            }
+          },
+          {
             "id": "814325add5514b73",
             "type": "leaf",
             "state": {
@@ -248,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -384,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bacon Franciszek, Novum organum.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Bacon Franciszek, Novum organum"
+              "title": "Konspekt MOC Dzieła epistemologiczne"
             }
           }
         ],
@@ -466,8 +490,11 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "814325add5514b73",
+  "active": "0ada3f8193c62795",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Nowożytna literatura filozoficzna (do 1900).md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bacon Franciszek, Novum organum.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
     "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
@@ -476,7 +503,6 @@
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Fizyka.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Etyka nikomachejska.md",
     "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Anzelm z Canterbury, Proslogion.md",
@@ -492,8 +518,6 @@
     "02 MOC/MOC Ekonomia/MOC Źródła na temat MMT.md",
     "04 Źródła/Murphy, Mit MMT — Recenzja książki.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
-    "04 Źródła/Kelton Stephanie, Mit deficytu.md",
-    "04 Źródła/Lacalle, MMT to ekonomia kłamstw.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"
