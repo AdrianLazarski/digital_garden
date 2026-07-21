@@ -13,7 +13,7 @@ Tam gdzie data jest niepewna, dałem późniejszą dla uproszczenia.
 [[Arystoteles, Etyka nikomachejska]], 330 przed Chr.
 [[Arystoteles, Fizyka]], 322 przed Chr.
 [[Arystoteles, Metafizyka]], 322 przed Chr.
-
+[[Marek Aureliusz, Rozmyślania]], 180 po Chr.
 
 
 [[MOC Dzieła Platona]]

@@ -10,6 +10,8 @@ modified date: 2026-07-03 17:44
 [[Arystoteles, Fizyka]], 322 przed Chr.
 [[Arystoteles, Metafizyka]], 322 przed Chr.
 
+[[Marek Aureliusz, Rozmyślania]], 180 po Chr.
+[[Fredegizjusz z Tours, List o nicości i ciemnościach]], 800 r.
 [[Damiani Piotr, O wszechmocy Bożej]], 1067 r.
 [[Anzelm z Canterbury, Proslogion]], 1078 r.
 [[Abelard Piotr, Rozprawa o pojęciach ogólnych]], 1120/1130 r.

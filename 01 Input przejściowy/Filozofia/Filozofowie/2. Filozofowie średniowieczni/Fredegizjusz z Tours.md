@@ -16,7 +16,7 @@
 
 # Dzieła 📖
 
-*De nihilo et tenebris*, [[Fredegizjusz z Tour, List o nicości i ciemnościach|List o nicości i ciemnościach]]
+*De nihilo et tenebris*, [[Fredegizjusz z Tours, List o nicości i ciemnościach|List o nicości i ciemnościach]]
 
 # Poglądy 🔍
 

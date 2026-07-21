@@ -82,7 +82,8 @@
       "2026-07-07",
       "2026-07-10",
       "2026-07-13",
-      "2026-07-20"
+      "2026-07-20",
+      "2026-07-21"
     ],
     "dailyActivity": [
       {
@@ -10624,6 +10625,11 @@
             "timeKey": "17:45",
             "w": 7,
             "c": 47
+          },
+          {
+            "timeKey": "17:50",
+            "w": 24,
+            "c": 139
           }
         ],
         "id": 827
@@ -10657,6 +10663,11 @@
             "timeKey": "17:35",
             "w": 11,
             "c": 64
+          },
+          {
+            "timeKey": "17:55",
+            "w": 6,
+            "c": 46
           }
         ],
         "id": 829
@@ -10740,23 +10751,149 @@
             "timeKey": "17:45",
             "w": 7,
             "c": 47
+          },
+          {
+            "timeKey": "17:50",
+            "w": 10,
+            "c": 65
+          },
+          {
+            "timeKey": "17:55",
+            "w": 6,
+            "c": 45
           }
         ],
         "id": 835
       },
       {
         "date": "2026-07-21",
-        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Fredegizjusz z Tour, List o nicości i ciemnościach.md",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Fredegizjusz z Tours, List o nicości i ciemnościach.md",
         "wordCountStart": 110,
         "charCountStart": 785,
         "changes": [
           {
             "timeKey": "17:45",
-            "w": 23,
-            "c": 194
+            "w": 16,
+            "c": 110
+          },
+          {
+            "timeKey": "17:50",
+            "w": 2,
+            "c": 9
           }
         ],
         "id": 836
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Fredegizjusz z Tours.md",
+        "wordCountStart": 128,
+        "charCountStart": 744,
+        "changes": [],
+        "id": 837
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Hugon ze św. Wiktora, O tym, że miłość Boga jest życiem serca.md",
+        "wordCountStart": 86,
+        "charCountStart": 613,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 21,
+            "c": 151
+          }
+        ],
+        "id": 838
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
+        "wordCountStart": 21,
+        "charCountStart": 167,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 14,
+            "c": 76
+          }
+        ],
+        "id": 839
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Machiavelli Nicollo, Książę.md",
+        "wordCountStart": 428,
+        "charCountStart": 2895,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 21,
+            "c": 154
+          },
+          {
+            "timeKey": "17:55",
+            "w": 943,
+            "c": 6284
+          }
+        ],
+        "id": 840
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
+        "wordCountStart": 21,
+        "charCountStart": 168,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 5,
+            "c": 42
+          }
+        ],
+        "id": 841
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+        "wordCountStart": 38,
+        "charCountStart": 309,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 5,
+            "c": 40
+          }
+        ],
+        "id": 842
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Marek Aureliusz, Rozmyślania.md",
+        "wordCountStart": 1114,
+        "charCountStart": 7056,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 19,
+            "c": 127
+          }
+        ],
+        "id": 843
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
+        "wordCountStart": 54,
+        "charCountStart": 445,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 6,
+            "c": 45
+          }
+        ],
+        "id": 844
       }
     ]
   }

@@ -4,11 +4,12 @@ tags:
   - ref
   - filozofia/średniowieczna
   - filozofia/metafizyka
+  - chrześcijaństwo
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 17:49
 ---
-[[Fredegizjusz z Tour]]
+[[Fredegizjusz z Tours]], 800 r.
 
 - Teologia + dialektyka
 - Stwierdzenie, że nicość jest negacją, to stwierdzenie, że nicość jest w ogóle i że jest jakaś.
@@ -19,4 +20,3 @@ modified date: 2026-07-21 17:49
 - Ciemność tez istnieje, bo o niej też jest napisane wprost w Biblii "były ciemności ponad powierzchnią wód".
 
 
-#filozofia #filozofia/średniowieczna #chrześcijaństwo #teologia #filozofia/metafizyka #chrześcijaństwo 

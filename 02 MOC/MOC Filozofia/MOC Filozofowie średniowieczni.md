@@ -20,7 +20,7 @@ modified date: 2026-07-06 14:23
 
 ## **VIII/IX w.**
 [[Alkuin z Yorku]] 730-806 r.
-[[Fredegizjusz z Tour]] 834†
+[[Fredegizjusz z Tours]] 834†
 [[Hraban Maur]] 776/784-856
 
 ## **IX w.**
@@ -114,7 +114,7 @@ modified date: 2026-07-06 14:23
 [[Bernard z Chartres]] 1124-1130†
 [[Bonawentura]] 1221-1274
 [[Filip Kanclerz]] 1170-1236
-[[Fredegizjusz z Tour]] 834†
+[[Fredegizjusz z Tours]] 834†
 [[Fulbert z Chartres]] 975-1029r.
 [[Gerard z Czanad]]/ [[Gerard z Sagredo]] +1046
 [[Gilbert z la Porée]] 1076-1154

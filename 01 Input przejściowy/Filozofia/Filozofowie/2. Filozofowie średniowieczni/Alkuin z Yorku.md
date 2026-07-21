@@ -17,7 +17,7 @@
 - Wiele nie wymyślił, ale przekazał [[Boecjusz|Boecjusza]] i [[Kasjodor|Kasjodora]] oraz przygotował grunt pod spory teologiczne.
 - Cała wiedza ma służyć chrześcijaństwu. W Frankonii mają zakwitnąć Ateny Jezusa Chrystusa.
 - Filozof pogański i chrześcijanin mają taką samą etykę. Różni ich tylko wiara i chrzest. Chrześcijanin jednak musi żyć lepiej, bo inaczej „jesteśmy bardziej godni pożałowania niż podziwu".
-- Nauczyciel [[Fredegizjusz z Tour|Fredegizjusza z Tour]] i [[Hraban Maur|Hrabana Maura]]
+- Nauczyciel [[Fredegizjusz z Tours|Fredegizjusza z Tour]] i [[Hraban Maur|Hrabana Maura]]
 - Zredagował Wulgatę, której tekst zdążył ulec skażeniu.
 
 # Dzieła 📖

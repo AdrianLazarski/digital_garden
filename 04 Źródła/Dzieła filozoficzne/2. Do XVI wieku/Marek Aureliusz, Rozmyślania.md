@@ -1,4 +1,14 @@
-[[Marek Aureliusz]]
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/etyka
+  - filozofia/metafizyka
+  - filozofia/starożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 17:57
+---
+[[Marek Aureliusz]], 170–180 po Chr.
 
 Zaczynając dzień, powiedz sobie: zetknę się z ludźmi natrętnymi, niewdzięcznymi, zuchwałymi, podstępnymi, złośliwymi, niespołecznymi. Wszystkie te wady powstały u nich z powodu braku rozeznania złego i dobrego. Mnie zaś, którym zbadał naturę dobra, że jest piękne, i zła, że jest brzydkie, i naturę człowieka grzeszącego, że jest mi pokrewnym, nie dlatego że ma w sobie krew i pochodzenie to samo, ale że ma i rozsądek, i boski pierwiastek, nikt nie może wyrządzić nic złego. Nikt mnie bowiem nie uwikła w brzydotę. Nie mogę też czuć gniewu wobec krewnego ani go nienawidzić. Zrodziliśmy się bowiem do wspólnej pracy, tak jak nogi, jak ręce, jak brwi, jak rzędy zębów górnych i dolnych. Wzajemne więc szkodzenie sobie jest przeciwne naturze, wzajemnym zaś szkodzeniem jest uczucie gniewu i nienawiści.
 
@@ -77,4 +87,3 @@ Sokrates pytał: Czego chcecie, mieć dusze istot rozumnych czy nierozumnych?- R
   Dodać do tego tylko powtarzającą się argumentację, że śmierć jest przemianą zapisaną jako jedno z wielu praw wszechświata i jest ok, więc należy przyjmować ją bez strachu, to mamy już dostateczny wgląd w Marka Aureliusza. 
 
 
-#filozofia #filozofia/starożytna #filozofia/rzymska #filozofia/etyka #filozofia/metafizyka 
