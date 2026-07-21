@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu logiki"
+              "title": "MOC Dzieła z zakresu historii filozofii"
             }
           },
           {
@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, History of formal logic.md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Borawska, Górski – Umysłowość średniowiecza.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bocheński Józef, History of formal logic"
+              "title": "Borawska, Górski – Umysłowość średniowiecza"
             }
           }
         ],
@@ -432,13 +432,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, History of formal logic.md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Borawska, Górski – Umysłowość średniowiecza.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Bocheński Józef, History of formal logic"
+              "title": "Konspekt Borawska, Górski – Umysłowość średniowiecza"
             }
           }
         ],
@@ -516,15 +516,17 @@
   },
   "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Współczesne metody myślenia.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, Zarys historii filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, History of formal logic.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Współczesne metody myślenia.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Logika i filozofia.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Berlin Isaiah, Cztery eseje o wolności.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Barnes Jonathan, Arystoteles.md",
@@ -540,8 +542,6 @@
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu metafilozofii.md",
     "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Voegelin Eric, Platon.md",
     "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Toynbee Arnold, Studium historii.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia historii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii historii.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

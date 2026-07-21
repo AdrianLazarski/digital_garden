@@ -4,11 +4,15 @@ tags:
   - ref
   - logika
   - filozofia/historia_filozofii
+  - historia/nauki
+  - filozofia/współczesna
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 21:17
 ---
-[[Józef Bocheński]]
+[[Józef Bocheński]], 1956 r.
+
+
 
 
 
@@ -108,27 +112,16 @@ which penetrated to Tibet, China, Japan and elsewhere.
 
 
 this history begins in Europe in
-==========
-History of formal logic (Bochenski, Joseph M.)
-- Your Highlight at location 656-656 | Added on Wednesday, 15 July 2020 22:35:20
+
 
 4th century B.C., in India about the 1st century a.d.
-==========
-History of formal logic (Bochenski, Joseph M.)
-- Your Highlight at location 660-663 | Added on Wednesday, 15 July 2020 22:40:58
+
 
 The history of western logic can be divided into five periods: 1. the ancient period (to the 6th century a.d.); 2. the high Middle Age (7th to 11th centuries); 3. the Scholastic period (11th to loth centuries); 4. the older period of modern 'classical' logic (16th to 19th centuries); 5. mathematical logic (from the middle of the 19th century). Two of those are not creative periods — the high Middle Age and the time of 'classical' logic,
-==========
-History of formal logic (Bochenski, Joseph M.)
-- Your Highlight at location 667-668 | Added on Wednesday, 15 July 2020 22:48:40
+
 
 two great periods, the older Nyaya and Buddhism up to the 10th century of our era, and the Navya (new) Nyaya from the 12th century onwards.
-==========
-History of formal logic (Bochenski, Joseph M.)
-- Your Highlight at location 683-684 | Added on Wednesday, 15 July 2020 22:55:10
+
 
 ordinary language is as it were simplified, in that the chief words in it occur only in their immediate semantic function.
 
-
-
-#filozofia #filozofia/współczesna #logika #historia/nauki #filozofia/historia_filozofii #filozofia/polska 

@@ -11850,6 +11850,11 @@
             "timeKey": "21:15",
             "w": 8,
             "c": 64
+          },
+          {
+            "timeKey": "21:20",
+            "w": 15,
+            "c": 109
           }
         ],
         "id": 883
@@ -12123,6 +12128,11 @@
             "timeKey": "21:05",
             "w": 14,
             "c": 140
+          },
+          {
+            "timeKey": "21:20",
+            "w": 54,
+            "c": 419
           }
         ],
         "id": 900
@@ -12310,6 +12320,11 @@
             "timeKey": "21:15",
             "w": 8,
             "c": 64
+          },
+          {
+            "timeKey": "21:20",
+            "w": 8,
+            "c": 54
           }
         ],
         "id": 912
@@ -12350,11 +12365,44 @@
         "changes": [
           {
             "timeKey": "21:15",
-            "w": -656,
-            "c": -3990
+            "w": -786,
+            "c": -4799
+          },
+          {
+            "timeKey": "21:20",
+            "w": -6,
+            "c": -71
           }
         ],
         "id": 915
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, Zarys historii filozofii.md",
+        "wordCountStart": 459,
+        "charCountStart": 3264,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": -108,
+            "c": -663
+          }
+        ],
+        "id": 916
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Borawska, Górski – Umysłowość średniowiecza.md",
+        "wordCountStart": 430,
+        "charCountStart": 3267,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 12,
+            "c": 69
+          }
+        ],
+        "id": 917
       }
     ]
   }

@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - "#historia/średniowieczna"
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-21 21:25
+---
 1993 r.
 
 - Kultura to dorobek, który człowiek dodaje do natury.
@@ -29,7 +39,3 @@
  
 - Średniowiecze uświęciło pracę. Poszczególne zawody szukały swoich początków w ST. 
 - Grzegorz Wielki używał żywej, potocznej łaciny; od niego zaczyna się łacina średniowieczna.
-
-
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/średniowieczna #historia #historia/średniowieczna 
