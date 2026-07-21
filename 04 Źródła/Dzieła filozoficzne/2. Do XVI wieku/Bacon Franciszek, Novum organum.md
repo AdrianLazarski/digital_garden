@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/epistemologia
+  - filozofia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 15:08
+---
 [[Franciszek Bacon]], 1620 r.
 
 
@@ -30,4 +40,3 @@ Fragmenty księgi I:
 
 
 
-#filozofia #filozofia/nowożytna #filozofia/epistemologia 

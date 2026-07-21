@@ -10473,6 +10473,25 @@
         "charCountStart": 3809,
         "changes": [],
         "id": 820
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bacon Franciszek, Novum organum.md",
+        "wordCountStart": 326,
+        "charCountStart": 2355,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "15:10",
+            "w": -2,
+            "c": -17
+          }
+        ],
+        "id": 821
       }
     ]
   }
