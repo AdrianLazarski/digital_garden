@@ -1,4 +1,16 @@
-[[Platon]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/polityki
+  - filozofia/starożytna
+  - filozofia/antropologia
+  - filozofia/etyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 18:20
+---
+[[Platon]], 380 przed Chr.
 
 
 - Glaukon i Adejmantos, synowie Aristona, rodzeni bracia Platona. Wykształceni młodzi ludzie, odznaczeni w bitwie pod Megarą.

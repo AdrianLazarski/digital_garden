@@ -1,4 +1,14 @@
-[[Siger z Brabantu]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - "#filozofia/etyka"
+  - "#filozofia/średniowieczna"
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 18:29
+---
+[[Siger z Brabantu]], 
 
 - Wielkoduszność pobudza do rzeczy wzniosłych wedle rozumu, a pokora powściąga dążenie do rzeczy zbyt wzniosłych.
 - Wielkoduszność jest doskonalszą cnotą, niż pokora.
@@ -14,4 +24,3 @@
 
 
 
-#filozofia #filozofia/średniowieczna #filozofia/etyka 

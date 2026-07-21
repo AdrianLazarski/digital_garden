@@ -10558,6 +10558,11 @@
             "timeKey": "17:40",
             "w": 8,
             "c": 60
+          },
+          {
+            "timeKey": "18:25",
+            "w": 8,
+            "c": 52
           }
         ],
         "id": 824
@@ -10635,6 +10640,11 @@
             "timeKey": "17:50",
             "w": 24,
             "c": 139
+          },
+          {
+            "timeKey": "18:25",
+            "w": 8,
+            "c": 52
           }
         ],
         "id": 827
@@ -10941,6 +10951,16 @@
             "timeKey": "18:15",
             "w": 15,
             "c": 80
+          },
+          {
+            "timeKey": "18:20",
+            "w": 17,
+            "c": 111
+          },
+          {
+            "timeKey": "18:25",
+            "w": 7,
+            "c": 41
           }
         ],
         "id": 844
@@ -11071,6 +11091,95 @@
           }
         ],
         "id": 852
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Państwo.md",
+        "wordCountStart": 6475,
+        "charCountStart": 43567,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": 30,
+            "c": 250
+          }
+        ],
+        "id": 853
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Protagoras.md",
+        "wordCountStart": 20,
+        "charCountStart": 170,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": 20,
+            "c": 134
+          }
+        ],
+        "id": 854
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Timaios.md",
+        "wordCountStart": 6,
+        "charCountStart": 68,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": 19,
+            "c": 130
+          }
+        ],
+        "id": 855
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Uczta.md",
+        "wordCountStart": 6,
+        "charCountStart": 66,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": 16,
+            "c": 115
+          },
+          {
+            "timeKey": "18:25",
+            "w": 5,
+            "c": 23
+          }
+        ],
+        "id": 856
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Ryszard ze św. Wiktora, Beniamin maior.md",
+        "wordCountStart": 317,
+        "charCountStart": 2312,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 21,
+            "c": 148
+          }
+        ],
+        "id": 857
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Siger z Brabantu, Zagadnienia moralne.md",
+        "wordCountStart": 106,
+        "charCountStart": 766,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 18,
+            "c": 142
+          }
+        ],
+        "id": 858
       }
     ]
   }

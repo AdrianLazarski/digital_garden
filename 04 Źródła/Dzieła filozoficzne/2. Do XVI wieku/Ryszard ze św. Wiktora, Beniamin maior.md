@@ -1,4 +1,14 @@
-[[Ryszard ze św. Wiktora]]
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/epistemologia
+  - filozofia/średniowieczna
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 18:27
+---
+[[Ryszard ze św. Wiktora]], 1153-1162 r.
 
 
 O łasce kontemplacji
@@ -26,4 +36,3 @@ O łasce kontemplacji
 - Dwa ostatnie rodzaje to sfera inteligencji.
 
 
-#filozofia #filozofia/średniowieczna #filozofia/epistemologia 

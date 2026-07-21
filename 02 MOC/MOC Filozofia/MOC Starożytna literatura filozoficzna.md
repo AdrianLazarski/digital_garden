@@ -13,9 +13,13 @@ Tam gdzie data jest niepewna, dałem późniejszą dla uproszczenia.
 [[Platon, Obrona Sokratesa]], 399–387 p.n.e.
 [[Platon, Eutyfron]], 399–387 p.n.e.
 [[Platon, Kriton]], 399–387 p.n.e.
+[[Platon, Protagoras]], 399–387 p.n.e.
 [[Platon, Fedon]], 387–367 przed Chr.
+[[Platon, Uczta]], 384-372 r. przed Chr.
 [[Platon, Gorgiasz]], 380 przed Chr.
+[[Platon, Państwo]], 380 przed Chr.
 [[Platon, Fajdros]], 370 przed Chr.
+[[Platon, Timaios]], 360 przed Chr.
 
 [[Arystoteles, Etyka nikomachejska]], 330 przed Chr.
 [[Arystoteles, Fizyka]], 322 przed Chr.
