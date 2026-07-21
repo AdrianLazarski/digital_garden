@@ -200,78 +200,6 @@
             }
           },
           {
-            "id": "c3d60db7832ee133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Platon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Platon"
-            }
-          },
-          {
-            "id": "2e0ff5f9f54237b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła Platona.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła Platona"
-            }
-          },
-          {
-            "id": "685801e398780bde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fedon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Platon, Fedon"
-            }
-          },
-          {
             "id": "913dba5bbff0a363",
             "type": "leaf",
             "state": {
@@ -325,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Tomasz z Akwinu, Traktat o Bogu.md",
+                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Ogólna teoria religii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -340,11 +268,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tomasz z Akwinu, Traktat o Bogu"
+              "title": "Comte August, Ogólna teoria religii"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -480,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła Platona.md",
+                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Ogólna teoria religii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Dzieła Platona"
+              "title": "Konspekt Comte August, Ogólna teoria religii"
             }
           }
         ],
@@ -562,18 +490,20 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "2e0ff5f9f54237b8",
+  "active": "814325add5514b73",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fedon.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Auguste Comte.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Ogólna teoria religii.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Tomasz z Akwinu, Traktat o Bogu.md",
+    "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
+    "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
     "02 MOC/MOC Filozofia/MOC Dzieła Platona.md",
     "03 Atomy/Platon.md",
+    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fedon.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Obrona Sokratesa.md",
-    "02 MOC/MOC Filozofia/MOC Starożytna literatura filozoficzna.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Tomasz z Akwinu, Traktat o Bogu.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Średniowieczna literatura filozoficzna.md",
-    "02 MOC/MOC Filozofia/MOC Renesansowa literatura filozoficzna.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Teodoryk z Chartres, Traktat o dziełach sześciu dni.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Siger z Brabantu, Zagadnienia moralne.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Ryszard ze św. Wiktora, Beniamin maior.md",
@@ -588,8 +518,6 @@
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii religii.md",
     "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Gorgiasz.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fajdros.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Eutyfron.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

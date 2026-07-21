@@ -38,10 +38,10 @@ modified date: 2026-07-21 18:38
 		- [[Platon, Parmenides]], 367-347 przed Chr.
 		- [[Platon, Sofista]], 361 przed Chr.
 		- [[Platon, Polityk]], 360 przed Chr.
-		- [[Platon, Fileb]], 
+		- [[Platon, Fileb]], 360 przed Chr.
 		- [[Platon, Timaios]], 360 przed Chr.
-		- [[Platon, Kritiasz]], 
-		- [[Platon, Prawa]],  (jedyny dialog, w którym nie występuje Sokrates)
+		- [[Platon, Kritiasz]], 355 przed Chr.
+		- [[Platon, Prawa]],  347 r. przed Chr. (jedyny dialog, w którym nie występuje Sokrates)
 
 
 - Ta interpretacja genetyczna zakłada jedność Platona-filozofa i Platona-pisarza oraz to, że Platon osiągnął tylko ten poziom świadomości doktryny, który wyraża w danym dialogu. Ignoruje to nauki niepisane. A sam Platon mówi, że najpierw były nauki ustne, a dopiero potem na ich podstawie powstały dialogi.

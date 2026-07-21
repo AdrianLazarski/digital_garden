@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - "#filozofia/religii"
+  - "#filozofia/nowożytna"
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 19:14
+---
 [[Auguste Comte]]
 
 - Jedność altruistyczna nie wymaga całkowitego zniesienia egoizmu (jedność egoistyczna przeciwnie), a tylko podporządkowania go najsilniejszemu uczuciu.
@@ -14,5 +24,3 @@
 - Dogmat odnosi się do myśli, kult do uczuć, ustrój do czynów. Filozofia, poezja i polityka im odpowiadają. Nad wszystkimi panuje moralność i prowadzi do dobra, prawdy i piękna.
 - Rzeczywista egzystencja pozytywistów – w pamięci przyszłych pokoleń.
 
-
-#filozofia #filozofia/nowożytna #filozofia/religii 

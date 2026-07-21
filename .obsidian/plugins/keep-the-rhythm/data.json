@@ -10986,6 +10986,16 @@
             "timeKey": "18:25",
             "w": 7,
             "c": 41
+          },
+          {
+            "timeKey": "19:05",
+            "w": 40,
+            "c": 246
+          },
+          {
+            "timeKey": "19:10",
+            "w": 37,
+            "c": 260
           }
         ],
         "id": 844
@@ -11269,6 +11279,11 @@
             "timeKey": "18:50",
             "w": 10,
             "c": 46
+          },
+          {
+            "timeKey": "19:05",
+            "w": 10,
+            "c": 46
           }
         ],
         "id": 861
@@ -11286,6 +11301,33 @@
           }
         ],
         "id": 862
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Ogólna teoria religii.md",
+        "wordCountStart": 198,
+        "charCountStart": 1593,
+        "changes": [
+          {
+            "timeKey": "19:10",
+            "w": 19,
+            "c": 152
+          },
+          {
+            "timeKey": "19:15",
+            "w": -1,
+            "c": -13
+          }
+        ],
+        "id": 863
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Auguste Comte.md",
+        "wordCountStart": 576,
+        "charCountStart": 4411,
+        "changes": [],
+        "id": 864
       }
     ]
   }
