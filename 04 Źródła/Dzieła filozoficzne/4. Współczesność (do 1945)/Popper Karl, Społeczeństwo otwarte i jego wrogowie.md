@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/polityki
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-21 20:39
+---
 [[Karl Popper]], 1945 r.
 
 O książce
@@ -38,4 +48,3 @@ Przedmowa do polskiego wydania
 
 
 
-#filozofia #filozofia/współczesna #filozofia/polityki #liberalizm #filozofia/austriacka 

@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/polityki
+  - filozofia/prawa
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-21 20:40
+---
 [[Murray Rothbard]], *For a New Liberty: The Libertarian Manifesto*, 1973 r.
 
 
@@ -139,5 +150,10 @@ Nie narzuca swojego "suwerennego" zwierzchnictwa ze względu na "ochronę", któ
 
 
 
+# Recenzja
 
-#filozofia #filozofia/współczesna #libertarianizm #anarchizm #anarchokapitalizm #filozofia/polityki #filozofia/prawa 
+Książka bardzo zła i jednocześnie bardzo dobra. Kłamstwem nie będzie stwierdzenie, że autor nie znał realiów Europy środkowo-wschodniej i że kwestia aborcji jest trochę bardziej złożona niż mu się wydawało, ale te potknięcia w żadnym stopniu nie dyskredytują tego manifestu! Pierwszy rozdział to fenomenalnie przytoczona historia ruchu wolnościowego i chociaż on jeden powinien być przeczytany przez osoby, które uważają, że interesują się filozofią polityczną/historią myśli politycznej etc.  
+  
+Co jeszcze ciekawego można wyciągnąć z tego dzieła? Świadomość sterowanych zapaści semantycznych, spójny, logicznie poprawny system ideologiczny, wyjaśnienie w jaki sposób powstają kryzysy gospodarcze, niezliczone przykłady na potwierdzenie każdego zawartego w tej książce twierdzenia, w postaci ciekawostek historycznych. Autor masakruje przymusową edukację i przedstawia wizję społeczeństwa anarchokapitalistycznego, które mogłoby całkiem nieźle funkcjonować z prywatnymi agencjami ochroniarskimi czy prywatnymi drogami, gdyż to wszystko już kiedyś było i się sprawdziło.  
+  
+Obowiązkowa pozycja dla rozumnego człowieka XXI wieku, który wie, że nie możemy pozwalać na to, by wciąż relacje międzyludzkie opierały się na inicjowaniu agresji (nie mylić z pacyfizmem).

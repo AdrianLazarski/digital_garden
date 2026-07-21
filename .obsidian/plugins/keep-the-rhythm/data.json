@@ -10525,6 +10525,11 @@
             "timeKey": "20:05",
             "w": -7,
             "c": -54
+          },
+          {
+            "timeKey": "20:45",
+            "w": 6,
+            "c": 44
           }
         ],
         "id": 822
@@ -11051,8 +11056,18 @@
           },
           {
             "timeKey": "20:35",
-            "w": 9,
-            "c": 64
+            "w": 17,
+            "c": 108
+          },
+          {
+            "timeKey": "20:40",
+            "w": 15,
+            "c": 118
+          },
+          {
+            "timeKey": "20:50",
+            "w": 11,
+            "c": 75
           }
         ],
         "id": 842
@@ -11763,8 +11778,28 @@
           },
           {
             "timeKey": "20:35",
-            "w": 21,
-            "c": 149
+            "w": 29,
+            "c": 193
+          },
+          {
+            "timeKey": "20:40",
+            "w": 15,
+            "c": 118
+          },
+          {
+            "timeKey": "20:45",
+            "w": 6,
+            "c": 46
+          },
+          {
+            "timeKey": "20:50",
+            "w": 11,
+            "c": 75
+          },
+          {
+            "timeKey": "20:55",
+            "w": 6,
+            "c": 65
           }
         ],
         "id": 883
@@ -11895,6 +11930,180 @@
           }
         ],
         "id": 891
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Ortega y Gasset Jose, Bunt mas.md",
+        "wordCountStart": 86,
+        "charCountStart": 619,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 20,
+            "c": 161
+          }
+        ],
+        "id": 892
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Popper Karl, Społeczeństwo otwarte i jego wrogowie.md",
+        "wordCountStart": 483,
+        "charCountStart": 3901,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 23,
+            "c": 186
+          },
+          {
+            "timeKey": "20:40",
+            "w": -8,
+            "c": -85
+          }
+        ],
+        "id": 893
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Rothbard Murray, Manifest libertariański.md",
+        "wordCountStart": 1797,
+        "charCountStart": 12611,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 179,
+            "c": 1356
+          }
+        ],
+        "id": 894
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
+        "wordCountStart": 32,
+        "charCountStart": 255,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 6,
+            "c": 54
+          }
+        ],
+        "id": 895
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Toynbee Arnold, Studium historii.md",
+        "wordCountStart": 1933,
+        "charCountStart": 14406,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": -540,
+            "c": -3307
+          },
+          {
+            "timeKey": "20:45",
+            "w": -39,
+            "c": -269
+          }
+        ],
+        "id": 896
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii historii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 30,
+            "c": 245
+          }
+        ],
+        "id": 897
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia historii.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 25,
+            "c": 211
+          }
+        ],
+        "id": 898
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Voegelin Eric, Platon.md",
+        "wordCountStart": 978,
+        "charCountStart": 6726,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 20,
+            "c": 158
+          },
+          {
+            "timeKey": "20:50",
+            "w": 419,
+            "c": 2881
+          }
+        ],
+        "id": 899
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+        "wordCountStart": 21,
+        "charCountStart": 175,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 11,
+            "c": 76
+          }
+        ],
+        "id": 900
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Voegelin Eric, Świat Polis.md",
+        "wordCountStart": 50,
+        "charCountStart": 355,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 16,
+            "c": 112
+          }
+        ],
+        "id": 901
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Wittgenstein Ludwig, Tractatus logico-philosophicus.md",
+        "wordCountStart": 1114,
+        "charCountStart": 8144,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 14,
+            "c": 93
+          },
+          {
+            "timeKey": "20:55",
+            "w": 2,
+            "c": 21
+          }
+        ],
+        "id": 902
       }
     ]
   }

@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/współczesna
+  - filozofia/polityki
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 20:49
+---
 [[Eric Voegelin]], _Plato and Aristotle. Vol. III of Order and History_, 1957 r.
 PL Platon, 2009 r.
 
@@ -66,4 +76,10 @@ Rozdział 2
 - Ziemia i domy powinny być podzielone między obywateli. Wspólne uprawianie ziemi wykraczałoby poza pochodzenie i wychowanie części obywateli.
 
 
-#filozofia #filozofia/współczesna #filozofia/polityki #filozofia/historia_filozofii #filozofia/austriacka 
+# Recenzja
+
+"Platon" Voegelina to pierwsza część trzeciego tomu jego słynnego cyklu Order and History, ale można go traktować jako osobną książkę. Autor analizuje tu biografię, dialogi i listy platońskie, w których występuje filozofia polityki tytułowego filozofa, omawiając bardzo dogłębnie kolejność ich powstania, kontekst, dialogi, symbolikę oraz konkurencyjne wyjaśnienia tego wszystkiego. Swoją drogą z jego korespondencji z Leo Straussem wiadomo, jakie mieli używanie z Poppera, stylizującego Platona na totalitarystę, chociaż mnie nie przekonało szukanie trzeciego i piątego dna w zamordyzmie i chyba będę bronił jego "płytkiej" interpretacji. Zamordyzm to zamordyzm, nieważne czy szlachetny i czy skłonny na ustępstwa.  
+  
+O, to warto zaznaczyć! Platon po stwierdzeniu, że społeczeństwo może się tylko zbliżać do jego wizji idealnego społeczeństwa, w Prawach trochę spuścił z tonu: dopuścił własność prywatną, czy inny kształt klas społecznych. Nie można jednak powiedzieć, jakby chcieli niektórzy, że przeszedł z totalitaryzmu do jakiegoś demokratycznego państwa praw, bo i w tej dystopii z Państwa rządzić miały określone nomos – w znaczeniu pewnych praw kosmicznych, a nie wymysłów bandyty z monopolem na przemoc. Raz na jakiś czas król-filozof, którego nie da się w żaden obiektywny sposób rozpoznać, ma starać się o władzę i jeśli przypadkiem ją uzyska, co nie jest w żaden sposób pewne, bo ochlos ma skłonność do wrogości wobec takich osób, to ma wprowadzać pewną kosmiczną harmonię. Ale tylko na jakiś czas, bo się szybko psuje. Jej istnienia i formy trwania Platon w żaden poważny sposób nie uzasadnia, bo ucieka się do opowiadania mitów i podstawiania fikcyjnych postaci, za którymi może się schować i rozmyć odpowiedzialność. Aha, prawie bym zapomniał. Te nomos nie są niezmienne i filozof-król musi poświęcać części społeczeństwa, by umacniać strukturę całości, a w tym swoją władzę nad nią. No nic ciekawego i typowe uzasadnianie autorytaryzmów i totalitaryzmów. Filozofia polityki Platona jest bardzo modna u nowożytnych filozofów muzułmańskich i wprost powoływał się na nią między innymi Chomeini. Podoba wam się Iran po rewolucji irańskiej? Bo mnie nie.  
+  
+Co do samej pracy Voegelina, to jest napisana niezbyt przejrzyście i nie nazwałbym jej przyjemną lekturą, ale być może winić należy przedmiot analizy. Nieprędko, ale sięgnę dla równowagi po jego "Arystotelesa", który ma szansę być trochę lepszy. Tylko trochę, bo przedmiot analizy nie przykryje przesadnie skomplikowanego słownictwa, w którym autor się lubuje, oraz sporadycznej niezdolności do poprawnej argumentacji. Przykładowo Voegelin dwukrotnie płacze, by nie używać słowa "idealny" w określeniu do Państwa, bo sugeruje ono jakąś utopijność, ale nie potrafił tego składnie uzasadnić. Podobnie było w paru innych miejscach, więc nie jestem jakoś szczególnie zachwycony tą książką i nie polecam nikomu, kto nie zajmuje się Platonem akademicko.

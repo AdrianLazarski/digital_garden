@@ -1,8 +1,19 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/metafizyka
+  - filozofia/współczesna
+  - filozofia/języka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-21 20:54
+---
 [[Ludwig Wittgenstein]]
 
 - Na froncie prowadził dziennik, który stał się podstawą do zredagowania Traktatu logiczno filozoficznego w 1918r.
 - Traktat ukazał się w wersji niemieckiej w 1921 pod tytułem Logisch-philosophische Abhandlung  w piśmie Annalen der Naturphilosophie.
-- Słynna angielsko-niemiecka wersja pod łacińskim tytułem Traktatus logico-philosophicus  ukazała się w 1922
+- Słynna angielsko-niemiecka wersja pod łacińskim tytułem Tractatus logico-philosophicus  ukazała się w 1922
 - O wydanie było trudno.
 - Frege nie przyjął entuzjastycznie traktatu i sformułował szereg uwag.
 - Russell napisał pozytywny wstęp, ale nie zadowolił on Wittgensteina.
@@ -133,5 +144,3 @@ Komentarz:
 - Z istnienia jednego stanu rzeczy nie można wnosić nic o istnieniu drugiego oraz mają one strukturę i własności materialne. Zostaje tu miejsce na Boga.
 
 
-
-#filozofia #filozofia/współczesna #filozofia/austriacka #filozofia/metafizyka #filozofia/języka 

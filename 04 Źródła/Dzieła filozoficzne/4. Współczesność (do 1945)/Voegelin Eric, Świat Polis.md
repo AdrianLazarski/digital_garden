@@ -1,4 +1,15 @@
-[[Eric Voegelin]], The World of the Polis. Vol. II of Order and History_, 1957
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/polityki
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-21 20:52
+---
+[[Eric Voegelin]], The World of the Polis. Vol. II of Order and History, 1957
 PL 2014 r.
 
 Rozdział IV
@@ -10,7 +21,3 @@ Rozdział IV
 
 
 
-
-
-
-#filozofia #filozofia/współczesna #filozofia/polityki #filozofia/historia_filozofii #filozofia/austriacka 
