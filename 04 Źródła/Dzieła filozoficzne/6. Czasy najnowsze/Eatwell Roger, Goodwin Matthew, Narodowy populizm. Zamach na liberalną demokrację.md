@@ -1,6 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - politologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 22:19
+---
 National Populism: Revolt Against Liberal Democracy, 2018
 PL: Sonia Draga, Katowice 2020
-##### Wstęp
+# Wstęp
 •	Autorzy ostrzegają przed monokazualnym podejściem do wzrostu prawicowego populizmu. Może Trumpowi  pomogły social media czy Brexitowi rosyjskie boty, ale to jednak nie tłumaczy preferencji głosujących.
 •	Podobnie ciężko zrzucić winę na kryzysy finansowe. Teoria ta nie pokrywa się z faktami. Kraje, które były najbardziej dotknięte kryzysami niekoniecznie przodowały w populizmie  oraz często najzwyczajniej nie zgadzała się chronologia – populistyczne ruchy potrafiły zyskiwać popularność przed kryzysami, nie raz właśnie w latach dobrej koniunktury.
 •	Republikanie zaczęli zyskiwać poparcie jeszcze przed ogłoszeniem kandydatury Trumpa.
@@ -18,7 +27,7 @@ PL: Sonia Draga, Katowice 2020
 	•	De-alignment – odejście od głównych partii. Raz, że w punkcie wyjścia strasznie anglocentryczne, a dwa nie do końca prawdziwe,
 
 
-##### Rozdział 2
+# Rozdział 2
 - Metody populistyczne łatwo kojarzy się z metodami faszystowskimi tj. robieniem wszystkiego, by zdobyć władzę i utrzymać się przy niej, ale łatwo przegapić w ten sposób fakt, że populiści mają też faktyczne programy, które chcą zrealizować. Przeciwnicy aborcji zdawali się przy urnach nie zwracać uwagi na to, że PiS nie robi nic w kierunku zaostrzenia prawa i zapewnili mu kolejne cztery lata rządów. Populiści par excellence przemilczeliby wygodnie tę kwestię, a nie nagle doprowadzili do opublikowania wyroku TK, doprowadzając do wściekłości znaczną część obywateli.
 	- - Nieprawdą jest, że ludzie głosowali „przeciwko systemowi”. Głosowali konkretnie na Trumpa i konkretnie za Brexitem, bo popierają konkretne rozwiązania.
 - Ludzie wolą zbiednieć, ale mieć większą władzę nad swoim krajem. Kwestie tożsamości grupowej, przynależności do wspólnoty, narodu etc. wymagają innego rozwiązania, niż zarzucanie danymi ekonomicznymi i oskarżeniami o rasizm. 
@@ -28,6 +37,3 @@ PL: Sonia Draga, Katowice 2020
 
 - Młody elektorat też głosuje na populistów. Narodowi populiści, mimo, że zazwyczaj cieszą się większym poparciem mężczyzn, to potrafią też co raz lepiej mobilizować do urn kobiety.
 - Jest przewaga osób z niższym wykształceniem, ale nie są oni jedynymi ludźmi, głosującymi za populistami.
-
-
-#filozofia #filozofia/polityki #filozofia/współczesna 

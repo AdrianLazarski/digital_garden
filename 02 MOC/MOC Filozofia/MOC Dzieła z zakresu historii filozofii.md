@@ -59,3 +59,4 @@ modified date: 2026-07-06 14:08
 [[Kołakowski, Główne nurty marksizmu]], 1976 r.
 [[Johnson Paul, Intelektualiści]], 1988 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
+[[Gadacz, Dybel, Sady, Środa, Krótka historia filozofii współczesnej]], 2023 r.

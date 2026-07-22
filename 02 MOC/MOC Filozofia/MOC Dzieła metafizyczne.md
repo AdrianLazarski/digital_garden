@@ -29,6 +29,7 @@ modified date: 2026-07-03 17:44
 [[Krajewski Władysław, Związek przyczynowy]], 1995 r.
 [[Bremer Józef, Czy wolna wola jest wolna]], 2013 r.
 [[Crisp, Loux, Współczesne wprowadzenie do metafizyki]], 2017 r.
+[[Górecki, Wolność człowieka i jej granice 1]], 2019 r.
 
 
 # Zobacz też:

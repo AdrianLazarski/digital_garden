@@ -1,12 +1,15 @@
 ---
-class: Book
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/historia_filozofii
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
 tytuł: Gadacz, Dybel, Sady, Środa, Krótka historia filozofii współczesnej
-okładka: https://ecsmedia.pl/c/krotka-historia-filozofii-wspolczesnej-b-iext145308905.jpg
+modified date: 2026-07-22 22:20
 ---
-
-
-
-
+2023 r.
 
 
 

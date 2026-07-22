@@ -1,3 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/historia_filozofii
+  - filozofia/antropologia
+  - filozofia/metafizyka
+  - filozofia/polityki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 22:24
+---
 Wydawnictwo Uniwersytetu Łódzkiego, 2019
 
 ## Janina Gajda-Krynicka, Paradoks wolności w filozofii stoickiej

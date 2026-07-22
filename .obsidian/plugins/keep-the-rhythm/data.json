@@ -12981,6 +12981,11 @@
             "timeKey": "21:55",
             "w": 5,
             "c": 33
+          },
+          {
+            "timeKey": "22:20",
+            "w": 10,
+            "c": 79
           }
         ],
         "id": 930
@@ -13115,6 +13120,11 @@
             "timeKey": "22:15",
             "w": 8,
             "c": 65
+          },
+          {
+            "timeKey": "22:25",
+            "w": 10,
+            "c": 56
           }
         ],
         "id": 936
@@ -13162,6 +13172,11 @@
             "timeKey": "21:40",
             "w": 7,
             "c": 53
+          },
+          {
+            "timeKey": "22:25",
+            "w": 10,
+            "c": 56
           }
         ],
         "id": 939
@@ -13347,6 +13362,11 @@
             "timeKey": "22:00",
             "w": 7,
             "c": 52
+          },
+          {
+            "timeKey": "22:25",
+            "w": 10,
+            "c": 56
           }
         ],
         "id": 948
@@ -13510,6 +13530,11 @@
             "timeKey": "21:55",
             "w": 0,
             "c": -2
+          },
+          {
+            "timeKey": "22:20",
+            "w": 0,
+            "c": 2
           }
         ],
         "id": 959
@@ -13996,6 +14021,11 @@
             "timeKey": "21:55",
             "w": 98,
             "c": 637
+          },
+          {
+            "timeKey": "22:20",
+            "w": 0,
+            "c": 2
           }
         ],
         "id": 992
@@ -14025,6 +14055,11 @@
             "timeKey": "22:15",
             "w": 8,
             "c": 65
+          },
+          {
+            "timeKey": "22:20",
+            "w": 20,
+            "c": 138
           }
         ],
         "id": 993
@@ -14108,6 +14143,88 @@
           }
         ],
         "id": 998
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Eatwell Roger, Goodwin Matthew, Narodowy populizm. Zamach na liberalną demokrację.md",
+        "wordCountStart": 731,
+        "charCountStart": 5406,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 15,
+            "c": 90
+          }
+        ],
+        "id": 999
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Politologia.md",
+        "wordCountStart": 23,
+        "charCountStart": 189,
+        "changes": [],
+        "id": 1000
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md",
+        "wordCountStart": 33,
+        "charCountStart": 251,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 10,
+            "c": 82
+          },
+          {
+            "timeKey": "22:20",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1001
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Gadacz, Dybel, Sady, Środa, Krótka historia filozofii współczesnej.md",
+        "wordCountStart": 709,
+        "charCountStart": 5615,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": 16,
+            "c": 92
+          }
+        ],
+        "id": 1002
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Górecki, Wolność człowieka i jej granice 1.md",
+        "wordCountStart": 958,
+        "charCountStart": 7058,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": 23,
+            "c": 198
+          },
+          {
+            "timeKey": "22:25",
+            "w": 6,
+            "c": 75
+          }
+        ],
+        "id": 1003
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Grzybowski ks. Jacek, Uciec z krainy zapomnienia.md",
+        "wordCountStart": 670,
+        "charCountStart": 4845,
+        "changes": [],
+        "id": 1004
       }
     ]
   }

@@ -32,3 +32,4 @@ modified date: 2026-07-06 14:06
 [[Bartyzel Jacek, W gąszczu liberalizmów]], 2004 r.
 [[Juruś Dariusz, Dzieje własności prywatnej]], 2014 r.
 [[Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii]], 2019 r.
+[[Górecki, Wolność człowieka i jej granice 1]], 2019 r.
