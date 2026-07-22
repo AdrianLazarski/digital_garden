@@ -20,4 +20,8 @@ modified date: 2026-07-22 14:21
 - Prywatne wydatki nie oznaczają, że państwo nie ma wpływu na nie.
 - Podczas gdy na zwykłym rynku producenci stale poszukują sposobów na obniżenie kosztów, lekarze i szpitale często mogą zwiększać swoje dochody poprzez zwiększenie kosztów, bo bardziej sugerują się spełnianiem wymogów, koniecznych do otrzymania refundacji od płatników zewnętrznych (rządowych i prywatnych), niż świadczeniem dobrych usług.
 - Pacjenci rzadko mieli świadomość kosztów usług, bo te nie były transparentne, a ich ubezpieczenia zdrowotne pokrywały większość świadczeń. W związku z tą osłabioną wrażliwością cenową zgłaszali większy popyt na usługi, bo problem rosnących kosztów nie dotyczył ich bezpośrednio – pokrywają je ubezpieczyciele i podatnicy.
+- Argumentami przeciwko amerykańskiej służbie zdrowia są śmiertelność noworodków, czy oczekiwana długość życia, ale nie muszą wynikać one z kiepskiej jakości ochrony zdrowia np. w USA było więcej zabójstw, samobójstw czy wypadków drogowych. Po 
+	- tabela str. 15
+- Dziwna argumentacja, że większość zgonów wśród młodych w USA to wypadki, a nie choroby. Ale nie podał jak to wygląda poza USA.
+- Wskaźnik oczekiwanej długości życia zmienia się wraz z wiekiem. W 2006 roku USA miały wyższy wskaźnik przeżywalności osób po 80 roku życia, niż Szwecja, Francja, Anglia czy Japonia, więc kraje przodujące w oczekiwanej długości życia w momencie urodzenia.
 - 
