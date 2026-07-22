@@ -49,5 +49,11 @@ modified date: 2026-07-22 14:21
 	2. Zlikwidować prywatne, nastawione na zysk szkoły medyczne, i zastąpić je mniej licznymi, ale bardziej prywatnymi ośrodkami kształcenia
 	3. Wyeliminować alternatywne nurty medycyny
 - Do 1901 roku wszystkie stany poza Alaską i Oklahomą miały już swoje komisje egzaminacyjne, nadające licencje. Mimo tego liczba praktykujących lekarzy wciąż rosła: w 1880 r. było ich 82 tys., a 20 lat później już 120 tys.
-- W związku z tym AMA poszło krok dalej i zaczęło kontrolować szkoły medyczne, obniżając ich liczbę ze 160 w 1900 r. do 77 w 1940 r. W tych szkołach, co zostały, obniżono liczbę studentów o połowę i podniesiono ceny, by 
+- W związku z tym AMA poszło krok dalej i zaczęło kontrolować szkoły medyczne, obniżając ich liczbę ze 160 w 1900 r. do 77 w 1940 r. W tych szkołach, co zostały, obniżono liczbę studentów o połowę i podniesiono ceny, by spełniać rygorystyczne standardy.
+- Liczba kandydatów od lat 70 na jedno miejsce waha się między 2-3.
+- Przeciętny odrzucony kandydat z 1975 r. miał wyższy wynik testy MCAT, niż przeciętny przyjęty kandydat z 1955 r. A był to dokładnie ten sam test, bez żadnych zmian.
+- Równocześnie przyznaje się licencje lekarzom, którzy studiowali za granicą na uczelniach o dużo niższej jakości. W 1972 r. 46% nowo licencjonowanych lekarzy było absolwentami zagranicznych szkół np. Amerykanie jeździli studiować na Karaiby.
+- W latach 80. i 90. około 20% wszystkich praktykujących lekarzy kształciło się za granicą. Tyle jeśli chodzi o naciski AMA na jakość kształcenia.
+- Ograniczenia dotknęły też pielęgniarek, co pokrzyżowało plany Walmarta, których chciał zrobić sieć klinik z samymi pielęgniarkami.
+- Gdy naziści doszli do władzy w Niemczech, był duży napływ zagranicznych lekarzy do USA. Żeby chronić się przed konkurencją, zrobiono bardziej rygorystyczne wymogi dla uzyskania licencji, przez co odsetek lekarzy zagranicznych, którzy nie dostali licencji wzrósł z 5,7% w 1930 r. do 20,7% w 1940.
 - 
