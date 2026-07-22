@@ -294,33 +294,9 @@
               "icon": "lucide-file",
               "title": "Gajda-Krynicka Janina, Sofiści"
             }
-          },
-          {
-            "id": "df9e7c8f0ebadc30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Jasiński Łukasz, Agonia"
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -457,13 +433,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Jasiński Łukasz, Agonia"
+              "title": "Konspekt Gajda-Krynicka Janina, Sofiści"
             }
           }
         ],
@@ -540,7 +516,7 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "df9e7c8f0ebadc30",
+  "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
     "04 Źródła/Jasiński Łukasz, Agonia.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",

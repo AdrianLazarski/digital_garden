@@ -63,3 +63,17 @@ modified date: 2026-07-22 14:21
 
 # 3. Agencja ds. żywności i leków
 
+
+
+
+# 4. Ubezpieczenia społeczne
+
+
+# 5. Prywatne ubezpieczenia zdrowotne
+
+
+# 6. Szpitalnictwo
+
+
+# 7. Podsumowanie
+

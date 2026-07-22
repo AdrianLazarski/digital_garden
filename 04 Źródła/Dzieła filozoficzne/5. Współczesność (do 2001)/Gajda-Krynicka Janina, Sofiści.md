@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - ref
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 17:53
+---
 1989 r.
 
 
