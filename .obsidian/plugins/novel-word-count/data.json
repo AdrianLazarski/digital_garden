@@ -20310,21 +20310,21 @@
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 12727,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 42.42333333333333,
+      "characterCount": 92609,
+      "nonWhitespaceCharacterCount": 78846,
+      "newlineCount": 1081,
+      "readingTimeInMinutes": 48.026415094339626,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": null,
       "createdDate": 1772304411435,
-      "modifiedDate": 1784736819267,
-      "sizeInBytes": 110840,
+      "modifiedDate": 1784737421780,
+      "sizeInBytes": 97883,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 52.77,
@@ -20332,6 +20332,17 @@
         "characterCount": 114430,
         "nonWhitespaceCharacterCount": 97081,
         "newlineCount": 1407
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "ref",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Uzasadniony ✅",
+        "modified date": "2026-07-22 17:53"
       }
     },
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej.md.edtz": {

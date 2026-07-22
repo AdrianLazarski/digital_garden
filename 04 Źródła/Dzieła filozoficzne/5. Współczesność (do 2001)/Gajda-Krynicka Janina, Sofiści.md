@@ -226,518 +226,295 @@ Za najwcześniejszą z nich uważa się Pochwalę Heleny. Jest to typowy przykł
 W Pochwale Heleny pojawiała się kategoria „mniemanie" (doksa), pojmowana jako przeciwieństwo wiedzy o rzeczywistości Można przypuszczać, iż antytezę: wiedza - mniemanie, zrodzoną z koncepcji Parmenidesa, przejął Gorgiasz od eleatów, lecz u sofisty oba jej człony funkcjonowały w odmiennym niż u Parmenide�a :aczeniu. Parmenides uważał. że mniemania (doksai) to wyniki postrzeżeń, poznania zmysłowego, wiedza (noema) zaś to efekt poznania
 
 
-Według Gorgiasza mniemania ltsztaltuje potęga słowa, wiedza zaś jest wynikiem postrzeżeń, których przedmiotem jest rzeczywistość postrzegalna: „Wszystko bowiem, co postrzegamy, ma naturę nie taką, jaką my chcemy, iżby miało, a taką, jaka każ­ dej rzeczy przypada w udziale". Istnieją zatem, inaczej niż u Protagorasa
+Według Gorgiasza mniemania kształtuje potęga słowa, wiedza zaś jest wynikiem postrzeżeń, których przedmiotem jest rzeczywistość postrzegalna: „Wszystko bowiem, co postrzegamy, ma naturę nie taką, jaką my chcemy, iżby miało, a taką, jaka każ­ dej rzeczy przypada w udziale". Istnieją zatem, inaczej niż u Protagorasa
 
 
-Słowo może bowiem - poprzez kształtowanie mniemań - oddziaływać tylko na ludzi, którzy nie mają wiedzy, „wystarcza tym, którzy nie pami�tają przeszłości, nie badają teraźniejszości i nie domy­ ślają się przyszłości
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 114-114 | Added on Sunday, 10 April 2022 12:37:07
+Słowo może bowiem - poprzez kształtowanie mniemań - oddziaływać tylko na ludzi, którzy nie mają wiedzy, „wystarcza tym, którzy nie pamiętają przeszłości, nie badają teraźniejszości i nie domy­ślają się przyszłości
 
-Słowo zaś, jak uzasadniał w piś­ mie O niebyc1e, nie może przekazać wiedzy o obiektywnie istniejącej rzeczywistości
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 115-115 | Added on Sunday, 10 April 2022 12:39:45
+
+Słowo zaś, jak uzasadniał w piśmie O niebycie, nie może przekazać wiedzy o obiektywnie istniejącej rzeczywistości
+
 
 Powszechność zaś mniemań dowodzi potęgi słowa. Problem ten rozwinął Gorgiasz szerzej w Obronie Palamedesa, najstarszej z zachowanych artystycznych mów sądowych, powstałej po Pochwale Heleny. Palamedes, jeden z bohaterów wojny trojańskiej, oskar.ony bezpodstawnie przez Odysa o zdradę Greków na rzecz Trojan, bronił się zbijając zarzuty oskarżyciela i udawadniając nieprawdopodobieństwo zarzucanego mu czynu. W sprawie Palamedesa wyrok mieli wydać sędziowie bądź to uwierzywszy oskarżycielowi, bądź też obwinianemu. Sędziowie nie znali prawdy o wydarzeniu, które nie zaistniało, musieli więc opierać się na przekazie słownym. Palamedes
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 115-115 | Added on Sunday, 10 April 2022 12:40:29
 
 ostrzegł sędziów przed uleganiem mniemaniom kształtowanym przez słowo przeciwstawiając mniemaniom wiedzę. Zasygnalizowana w Pochwale Heleny antyteza: wiedza - mniemanie w Obronie Palamedesa jawiła się już jako oczywistość. Gorgiasz bowiem okre­ ślił przedmiot wiedzy i sposób jej zdobywania oraz ukazał konsekwencje ulegania mniemaniom. Palamedes zwrócił się do oskarżyciela mówiąc: „Czy oskarżasz mnie na podstawie wiedzy czy mniemania? Jeżeli na podstawie wiedzy pewnej, to wiesz, ponieważ widziałeś, albo współuczestniczyłeś, albo dowiedziałeś się od współuczestniczącego (...] Nie ulega wątpliwości, iż nie posiadasz wiedzy o tym, o co oskarżasz; nie wiedząc zaś ulegasz mniemaniom. I ty, o najodważniejszy z ludzi, zaufawszy mniemaniu, któremu najmniej ufać należy, waż�sz się męża o sprawę gardłową nskarżać
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 116-116 | Added on Sunday, 10 April 2022 12:40:49
+
 
 jakiemu dał wyraz w omawiamj mowie, dowodzi zdecydowanej ewolucji jego poglądów: od negacji możliwości wszelkiego poznania do określonej koncepcji wiedzy
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 116-116 | Added on Sunday, 10 April 2022 12:41:23
+
 
 Przedmiotem wiedzy jest według Gorgiasza obiektywnie istniejąca rzeczywistość postrzegalna: rzeczy, fakty, zjawiska, której przysługują obiektywne jakości. Wiedzę zdobywa się przez poznanie bezpośrednie (obserwacja, współuczestnictwo; nie wyklucza też Gorgiasz możliwości przekazu, ale przekazują­ cym musi być bezpośredni wiarygodny świadek
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 116-116 | Added on Sunday, 10 April 2022 12:42:31
+
 
 Palamedes zdawał sobie sprawę z tego, iż choć on znał prawdę, nie mógł przekazać jej sędziom za pomocą słowa; mógł ich tylko nakłaniać, by nie ulegając mniemaniom sami zdobywali prawdę opierając się na faktach. A więc trzeba dążyć do prawdy obiektywnej poprzez zdobywanie wiedzy drogą doświadczenia
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 117-117 | Added on Sunday, 10 April 2022 12:44:50
+
 
 pogląd, który jest dla nas wykładnikiem 3ego koncepcji wychowania: wiedza jest niezbędnym warunkiem właściwego postępowania
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 117-117 | Added on Sunday, 10 April 2022 12:44:59
+
 
 Wszystko, co wykracza poza zakres danych doświadczenia, wszystko, co „niewidzialne i niejawne", może być tylko prz�dmiotem kształtującej mniemania spekulaCJl
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 117-117 | Added on Sunday, 10 April 2022 12:46:21
+
 
 Jeżeli niesprawiedliwie wykonacie na mnie wyrok śmierci (. . .] na was wszystkich ciążyć będzie jawna wina zbrodni, na was, nie na oskarżycielu. Na was bowiem spoczywa odpowiedzialność za sprawiedliwość [...] Skazawszy mnie niesprawiedliwie bowiem popeł­ nicie zbrodnię nie tylko wobec mnie i mojego rodu, lecz i wobec was samych dokonacie świadomie czynu strasznego, bezbożnego, bezprawnego, niesprawiedliwego
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 118-118 | Added on Sunday, 10 April 2022 12:47:48
+
 
 postępował właściwie wobec starych i młodych, bogatych i biednych, w bitwie i radzie. Cześć i poważanie przysługują ludziom odznaczającym sit dzielnością. W Obronie Palamedesa nie podał Gorgiasz żadnej definicji cnoty-dzielności. Postępowanie odznaczającego się dzielnością
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 118-118 | Added on Sunday, 10 April 2022 12:48:22
+
 
 bohatera to zespół działań, z których każde określają okoliczności i sytuacja: „wobec szczęśliwych nie jestem zawistny, litość okazuję nieszczęśliwym, nie patrzę z góry na ubogich, nie przenoszę bogactwa nad dzielność (...] spełniam to, czego się podjąłem, nie jestem bezużyteczny w radzie ani gnuśny w bitwie, posłuszny jestem rządzącym (...] " 86. Gorgiasz wprowadził tu kategorię kairos (dosłownie odpowiedni moment, okazja) - nakazu chwili, który to nakaz determinuje okre­ ślone postępowanie człowieka. Nakaz chwili wymaga, by Palamedes wymieniał swoje zasługi, choć to nie przystoi mężowi; nakaz chwili z pochwały samego siebie czyni działanie właściwe
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 118-118 | Added on Sunday, 10 April 2022 12:53:06
+
 
 Teoria „kairosu" odgrywała duą rolę w retoryce; jej znajomość ułatwiała ustalenie właściwe�o nastroju mow, dobór argumentów i przykładów. DtoniJU z Halikarassos (De compositione nominum 45, 6) przypisuje Gorgiaszowi autorstwo traktatu o „kairosie
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 119-119 | Added on Sunday, 10 April 2022 12:53:48
+
 
 Więcej danych dotyczących treści Gorgiaszowego rozumienia właściwego postępowanin dostarcza Epitafios, a raczej zachowany tpilog mowy pogrzebowej . Sofista wyliczył w niej zalPty poległych, ujmując je jednym okre­ śleniCm arete
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 119-119 | Added on Sunday, 10 April 2022 12:55:22
+
 
 kh postępowanie było zatem wyznac701w µrzez okolicznoś­ ci, a cłzitlność p1Mt>jawiała stt w tym, iż potrafili „to, co właściwe we właśc1wvm momencie i powiedZilĆ, i pr:wmilczcć. I uczynić. i zaniechać"
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 119-119 | Added on Sunday, 10 April 2022 12:56:05
+
 
 Zwycięstwo nad burbar7yńcami domaga si< pieśni triumfaln:ch, zwvc1;stwo nad GH�kami - pieśni żałobnych
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 120-120 | Added on Sunday, 10 April 2022 12:57:22
+
 
 dzaj4 Platońskie dialogi Menon i Gorgiasz, zwłaszcza ten ostatni, wydany jeszcze za życia sofisty
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 120-120 | Added on Sunday, 10 April 2022 12:59:33
+
 
 decydujc rozum. który pozwala ustalić WJ podstav: to, co „własc1we" (ha dei), lecz tego. „co właśctw<'" 111< można zdefiniować w sposob absolutny 1 lwzwzględny na podstaw1< untulog1czno
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 120-120 | Added on Sunday, 10 April 2022 13:00:38
+
 
 Iów1ą, iż .am (nrgrasz, zapoznawsz� s1� / diulog11 r z.t�·ułowan�m )ł'go 1mwnifni p11\1•cl7lll do swy<h hhskrrh „,ak pu:knit Platon potafi .zyd:1(
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 120-120 | Added on Sunday, 10 April 2022 13:00:47
+
 
 Inni 1.ś poWtJdaJą. 11 Gori1.SL przeczytawszy dialog Platon.. \\')'Jaśmł obt'l'l\ł'l tż maq�o takwgo nw pnwll'dział, tm lll słszał fd Pl 1tm
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 120-120 | Added on Sunday, 10 April 2022 13:02:19
+
 
 " 111·1 mippus zaś w p1śm1e o Got·gwszu pow1edz1al, 1ż Gorgwoz, przehywai4c w Ate nueh po t)11, Juk wystawił solll \ Ddfath zloty posąg i pośwuil go bogu , Platcmow1, kt•'ir\' na jego wufok rzekł; „010 Jrzyhywa do nao pi�kny 1 llol\· Gurgwsz- otpm,<­ dział; •Otn At<ny zrd na n1wt•�u 1 p1ękn(go Archlol'ha». Inni 1.ś poWtJdaJą. 11 Gori1.SL przeczytawszy dialog Platon.. \\')'Jaśmł obt'l'l\ł'l tż maq�o takwgo nw pnwll'dział, tm lll słszał fd Pl 1tm
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 121-121 | Added on Sunday, 10 April 2022 13:05:26
+
 
 Według Gorgiasza zatem rola nauczyciela dzielności nie polega tylko na nauczaniu retoryki, jako narzędzia przekonywania, czy też na przedstawianiu konketnych prykładów właściwego postępowania, pouczających człowieka i zachęcaJących do naśladowania. lecz przede wszystkm na kształtowaniu w ludziach takiego poziomu intelektualno-etycznego, który pozwoliłby, by każdy sam umiał określić to. .,co właściwe" w każdej sytuacji, w jakiej może się znaleźć
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 121-121 | Added on Sunday, 10 April 2022 13:06:19
+
 
 treść pojęcia „silnieJszy•· sprowadza się do posiadania większej od innych mocy przekonywania, której podstawą jest oparte na wiedzy rozeznanie tego, „co właściwe" w każdej sytuacji. Tylko taki człowiek może właściwie posługiwać się retoryką, a powinna ona być zawsze narzędziem sprawiedliwego oddział ywania. Tylko taki człowiek jest „zdolny do rządzenia ludźmi", takiemu powinni podporządkować się „
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 123-123 | Added on Monday, 11 April 2022 00:01:43
+
 
 odrzucił zarówno koncepcję wiecznego i niezmiennego prawa natury, determinującego post�powanic człowieka w jego bycie społecznym
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 123-123 | Added on Monday, 11 April 2022 00:06:55
+
 
 W sferze przyrodniczej człowi<k podlega prawom rządzącym rzeczywistością przyrodniczą: jest śmiertelny, jak wszystkie istoty żywe: „Natura bowiem jawnym wyrokiem wyrok śmierci wydała na wszystkch śmiertelnych („.]" 95, podlega popędom, z których za najistotniejsze uważa dążenie do korzyści i unikanie cierpień: „Wszystkie bowiem czyny ludzkie dwojaką mają przyczynę: qążenie do korzyści lub unikanie przykrości
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 124-124 | Added on Monday, 11 April 2022 00:07:35
+
+
 
 W zachowanych pismach Gorgiasza nie znajdujemy wprawdzie bezpośrednich stwierdzeń, iż państwo i prawo są wynikiem umowy, niemniej jednak przeświadczenie sofisty o zmienności praw, norm etycznych, kształtują­ cych się w zależności od sytuacji i okolicznoś­ ci, pozwala postawić tezę, iż akceptował koncepcję umowy społecznej
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 125-125 | Added on Monday, 11 April 2022 00:09:12
+
 
 Jak wykazano bowiem, w okesie, gdy Gorgiasz reprezentował ju dojrzałe stanowisko filozoficzne, sceptycyzm teoriopoznawczy cechował go tylko w odniesieniu do zjawisk „niejawnych i niewidzialnych
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 125-125 | Added on Monday, 11 April 2022 00:11:33
+
 
 Był niewątpliwie młodszy od Protagorasa, według Suidasa 102 miał być rówieśnikiem Demokl"­ ta, a zatem urodził się prawdopodobnie w latach 465-460
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 126-126 | Added on Monday, 11 April 2022 11:27:04
 
 Uważając siebie za sofistę twierdził, iż sofista jest na poły filozofem, na poły politykiem 104• Zajmował się filozofią przyrody, etyką, interesowało go pochodzenie religii, polityka, zagadienia genezy państwa, prawa i języka. Szeroki zakres jego badań podporządkowany był jednak jednemu problemowi: jakie jest miejsce człowieka w rzeczywistości przyrodniczej i społecznej
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 126-126 | Added on Monday, 11 April 2022 11:29:23
 
 wiele istotnych poglądów Prodikosa przekazują nam pisma Ksenofonta i pseudoplatońskie dialogi: Aksiochos i Eryksias
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 126-126 | Added on Monday, 11 April 2022 11:29:46
+
 
 Znane nam pisma Prodikosa to traktat O naturze albo O naturze człowieka (Peri fyseos anthropou) 10R, pismo Pory (Horai; trudno rozstrzygnąć, czy tytuł ten oznaczał pory roku czy pory życia; ze względu na rolę, jaką Prodikos przypisuje w życiu ludzi rolnictwu, przyjmujemy, iż tytuł pisma wiązał się z powszechnym na Keos kultem bogiń
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 127-127 | Added on Monday, 11 April 2022 11:29:55
+
 
 dzieło O poprawnym mówieniu (Peri onomaton orthotetos
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 127-127 | Added on Monday, 11 April 2022 11:31:42
+
 
 Traktat O naturze ma inny charakter niż młodzieńcze pisma Protagorasa czy Gorgiasza Za1mował się w nim przede wszystkim naturą człowieka, wiele miejsca poświęcając, jak o tym świadczy przekazany przez Galena fragment rn, anatomii i fizjologii, jak też celowej konstrukcji ciała ludzkiego
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 127-127 | Added on Monday, 11 April 2022 11:32:04
+
 
 złożyły się. jak można przypuszczać, zaró\mo studia nad filozofią archaiczną, jak i ustalenia nowego nurtu w filozofii, zapoczątkowanego pr:ez Protagorasa (według Suidasa Prodikos miał być jego uczniem
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 127-127 | Added on Monday, 11 April 2022 11:33:21
+
 
 Według Prodikosa przyrodniczego aspektu życia człowieka nie sposób oderwać od natury, jako że człowiek stanowi jej część
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 127-127 | Added on Monday, 11 April 2022 11:33:57
 
 Prod1kos. 104 Pł< lton, 1utyrm1 277e: Kratylos 3!Hb Prnd1kos był tym spośród sofistów, któiy słynął z dbałości o poprawne używanie wyrazów zgodnie z kh właściwym zna�'lllltm Badał różnice znuczenmwe poszcz<gólnych ltrminów (np, „by( odważnym" a „nie bać się", „proca" a „wytwarzanie
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 128-128 | Added on Monday, 11 April 2022 11:41:15
+
 
 Stan natwy jawił się. podobnie jak u Protagorasa, w ciemnych barwach: ludzie żyli jak zwierzęta, rozproszeni, nie mając stałych siedzib. Ze stanu dzikości wyzwoliło ich rolnictwo. Praca na roli sprawiła. że ludzie obrali sobie stałe siedziby, rozwijali się fizycznie i duchowo. Wspólna praca stała sic zaczątkiem wiQzi społecznej i organizacji państwowej. Praca zatem była źródłem i siłą
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 129-129 | Added on Monday, 11 April 2022 11:42:50
+
 
 na określonym etapie rozwoju ludzkości dla ochrony interesów pracujących, na nich się opiera. Według Prodikosa ludzie pracy, tzn. mesoi politai - stan średni - drogą umowy społecznej ustalają prawa, które mają na celu ochronę ich interesów, stanu stanowiącego podstawę państwa zarówno przed zakusami bogaczy, jak i obywateli biednych, skłonnych do prewrotów politycznych
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 129-129 | Added on Monday, 11 April 2022 11:43:56
+
 
 Dzielność jest bowiem najwyższym dobrem dla człowieka, ponieważ zapewnia szczęście, na które składają się łaska u bogów, miłość przyjaciół, cześć w ojczyźnie, pamięć i sława po śmierci. Dzielność jest zatem dostę­ pna każdemu, a warunkiem jej uzyskania jest praca
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 130-130 | Added on Monday, 11 April 2022 11:44:42
+
 
 ludzie, wyszedłszy już ze stanu dzikości, na pierwszym etapie rozwoju cywilizacji zaczęli oddawać cześć wszystkiemu, co im przynosiło korzyść przez wpływ na urodzaje: słońcu, księżycowi, rzekom i źródłom: „Prodikos dowodzi, że między bogów zaliczono wszystkie rzeczy, które okazały się pożyteczne dla życia ludzkiego" 114. Był to pierwszy etap rozwoju religii, której źródeł szukał nie w strachu ludzi przed żywiołami, a w uczuciu wdzięcznoś­ ci i podziwu wobec natury
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 130-130 | Added on Monday, 11 April 2022 11:45:27
+
 
 Na wyższym stopniu rozwoju cywilizacji pierwotna forma religii przekształca się w oddawanie czci boskiej „wynalazcom żywności i sztuk", uważanym przez Prodikosa za dobroczyńców ludzkości. Ta forma religii ma niewątpliwy wpływ na kształtowanie się w świadomości ludzkiej zrozumienia roli pracy w życiu indywidualnym i społecznym. W miarę pojmowania przez ludzi bezpośredniego związku pracy z rozwojem cywilizacji, a więc z pozytywnym przekształcaniem się form ż­ cia, pierwotna forma religii, znajdująca wyraz w ubóstwieniu żywiołów czy płodów ziemi: „chleba przez nadanie mu imienia Demetry, wina - Dionizosa (.. .] 115, przekształca się w kult ludzi, których działalność przybra­ ła widomą formę pożytecznych dla człowieka „wynalazków", np. kult Aristaiosa
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 131-131 | Added on Monday, 11 April 2022 11:46:00
+
 
 Anstaiosa uwa­ żano za i pszczółnauczyciela . Religia zatem rolnictwajest zjawiskiem. hodowli . bydła powstaje historycznie, na określonym etapie które rozwoju ludzkości, gdy człowiek nawiązuje pierwsze bo ludzie, więzi społeczne. Jest tworem ludzi, dla powodowani sil natury i tworów podziwem własnej i wdzięcznością pracy, nadają i rangę bóstw przez oddawanie czci. Uznanie żywiołów za godne czci i kultu wymaga akceptacji społecznej, religia jest wicc tworem umowy społecznej i w pierwotnej formie, i w kolejnych formach rozwoju. Pełni ona stwiepozytywną , jako że wywiera rolę w społeczeństwie korzystny i pań­ ludzi przez łagodzenie obyczajów. wpływ
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 131-131 | Added on Tuesday, 19 April 2022 09:36:58
+
 
 rekonstrukcji już wspomnianopoglądów , cennym Prodikosa materiałem jest grupa Aksiochos pseudoplatońskich pozwala na uzupełnienie dialogów. Dialog Prodikosa
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 131-131 | Added on Tuesday, 19 April 2022 09:37:42
+
 
 syn Sokratesa umierającego z prośbąAksiochosa , by pocie- szył o d jeg ojca.Sok�at �es u łoż a um iera 1 d P dj _ąk cego pi-�e s aw1a mu naJpierw pog ą y ro 1 osa: „Przedstawię ci teraz , głoszone zasady mędrca Prodikosadwie i za cztery przezeń drachmy na (... ] dwa lll, sprowadzająsposoby: za · ce się do człowieka pesymistycznego od chwili narodzin stwierdzeniaaż do , śmierci i życie jest wolne pełne dzieckocierpień , młodzienieci udręki
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 132-132 | Added on Tuesday, 19 April 2022 09:39:31
+
 
 śmierć nic dotyczy ani żywych, ani umarłych", wyjaśniając: „Ponieważ nie dotyczy żyjących, zaś zmarli [już] nie istnieją
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 132-132 | Added on Tuesday, 19 April 2022 09:40:19
+
 
 poglądów na religię i sprawy życia i śmierci w ich eschatologicznym ujęcm u Prodikosa i Epikura, różnicując jednak ich genczę: punktem wyjścia stosunku Prodikosa do spraw życia i śmierci jest znajomość natury człowieka, dla Epikura zaś - znajomość natury wszechrzeczy
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 132-132 | Added on Tuesday, 19 April 2022 09:41:54
+
 
 Prodikosowa koncepcja człowieka, jako bytu o jednolite) strukturze ontologicznej, aczkolwiek na pozór identyczna z koncepcjami milezyjskimi, wyrosła z zupełnie innych uwarunkowań
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 133-133 | Added on Tuesday, 19 April 2022 09:42:23
+
 
 U Prodikosa przedmiotem badań jest człowiek i jego natura. Badania te są wszechstronne - interesuje go nie tylko struktura fizyczna człowieka, lecz i formy jego świadomości; bada on człowieka jako byt podlegający nie tylko zmianom fizycznym, lecz i historycznym, nie tylko jako byt jednostkowy, lecz i społeczny
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 133-133 | Added on Tuesday, 19 April 2022 09:42:39
+
 
 Prodikosowa koncepcja człowieka jest więc wynikiem indukcyjnego modelu
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 133-133 | Added on Tuesday, 19 April 2022 09:42:47
+
 
 W filozofii milezyjskiej, która ukształtowała określoną wizję wszechświata, człowiek mieścił się w tej wizji jako byt podległy prawu natury, nie rozbijający jedności ontologicznej kosmosu
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 133-133 | Added on Tuesday, 19 April 2022 09:43:48
+
 
 dialogu Erksias Sokrates przypomina swym rozmówcom wykład Prodikosa w ateńskim Liceum na temat bogactwa. wykład, który zapisał się w pamięci jego uczestników tym, iż gimnazjarcha po wysłuchaniu jego treści wyrzucił Prodikosa z Liceum, motywując to zgorszeniem
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 133-133 | Added on Tuesday, 19 April 2022 09:44:04
+
 
 „dla ludzi dobrych oraz takich, którzy wiedzą, jak z bogactwa korzystać, jest ono rzeczą dobrą, dla złych zaś oraz nic wiedzących - złą. Podobnie ma się rzecz ze wszystkim innym; z konieczności bowiem każda rzecz jest taka { jakimi są ci, którzy się nią posługują
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 134-134 | Added on Tuesday, 19 April 2022 09:44:15
+
 
 Dzielnoś(' nie jest wrodzona ludziom, można się jej nauczyć, a podstawą jej jest wiedza.
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 134-134 | Added on Tuesday, 19 April 2022 09:46:32
+
 
 Przy analizie jego poglądów nie można wykluczyć ewentualnych wpływów działającego współcześnie z nim Demokryta z Jego koncepcją człowieka-mikrokosmosu. Ów punkt widzenia potwierdzają badania nad przyrodniczą stroną natury człowieka
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 135-135 | Added on Tuesday, 19 April 2022 09:47:09
+
 
 Kolejne etapy rozwoju człowieka to życic społeczne i zorganizowanie si< w struktury państwowe. Te ostatnie są wynikiem umowy społecznej, podobnie jak prawa. Aktu umowy dokonują jednostki dzięki umiejętno­ ści rozróżnienia dobra i zła, która wynika ze znajomości natury ludzkiej
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 135-135 | Added on Tuesday, 19 April 2022 09:47:28
+
 
 Przyrodnicza strona natury człowieka determinuje dalszy jego rozwój, zarówno fizyczny, jak i duchowy, w wyniku którego człowiek wyrasta ponad inne byty przyrody
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 135-135 | Added on Tuesday, 19 April 2022 09:50:57
+
 
 dzielność uważał Prodikos za rzecz nabytą, nic wrodzoną, ale nauczyć siG jej można opierając się na znajomości własnej natury. Celem aktów umowy społecznej jest korzyść jednostki, ale i ona musi pozostać w zgodzie z naturą człowieka. Akceptacja okeślonych struktur politycznych opiera si< na przeświadczeniu, iż są one zgodne z naturą człowieka. Prodikos, jak wynika z traktatu Por, jest gorącym zwolennikiem demokracji; stan średni - jest według niego naturalnym obrońcą praworzą­ dności
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 136-136 | Added on Tuesday, 19 April 2022 09:52:28
+
 
 na celu korzyść jednostek, lecz korzyść ta z kolei jest zdeterminowana naturą ludzi - „sygnatariuszy'' aktów owej umowy. Dla Prodikosa więc „to. czym w naturze różni się człowiek od innych w działaniu i doznawaniu" jest określone przez naturę człowieka. �ie można więc ustalać kategorycznie. iż Prodikos, jak Protagoras czy Gorgiasz, wa człowieka spod prawa natury w aspekcie jego bytu społecznego
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 136-136 | Added on Tuesday, 19 April 2022 09:53:05
+
 
 Prodikós pierwszy wśród sofistów podjął problem oceny istniejącego porządku społecznego jako wyniku umowy społecznej Porzą­ dek ten akceptował podobnie 1ak Protagoras czy Gorgiasz, lecz w odróżnieniu od nich szukał dla swej oceny jakiegoś kryterium
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 136-136 | Added on Tuesday, 19 April 2022 09:54:39
+
 
 doszukać się pierwszych prób jakościowej analizy stosunków społecznych, jak też odcia, iż umowa społeczna kształtuje te stosunki dla korzyści określonej grupy społecznej. Tą grupą jest „stan średni" - żyJący z pracy w sposób najbardziej zgodny z naturą człowieka. Demokratyczna struktura państwa powstałego drogą umowy chroni interesy „stanu średniego"
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 137-137 | Added on Tuesday, 19 April 2022 09:55:03
+
 
 nurt w Prodiosa sofistyce wykazującezapoczątkowały , poglądy kształtuje stosunki społeczne i umowa społeczna określonej grupy
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 137-137 | Added on Tuesday, 19 April 2022 09:55:18
+
 
 Jego przedstawiciele na korzyść poddawali przeciwstawiając kytyce koncepcje jej „niepisane umowy prawo społecznej, ". W rozdziale prawo tym naturydla których to poznamy było prawem grupę równości
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 137-137 | Added on Tuesday, 19 April 2022 09:55:46
+
 
 W Większy dialogach oraz w Hippiasz dialogu Mniejszy, Hippiasz przedstawił wizerunek jednego Protagoras z Platon sofistów przełomu V i najpopularniejszych platońskim zwierciadle I wieku. W jawi nam się Hippiasz z Elidy wszechstronny erudytajako powierzchowny, choć który dla ukazania swej , samochwała mądrości i biegłości i bufon, we wszelkich posuniętą sztukach autoreklamąnie cofa . się przed daleko zdolnościami dyplomatycznymi Chwali („się Elisswymi
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 138-138 | Added on Tuesday, 19 April 2022 09:56:06
+
 
 umiejętnością zarabiania pienię­ d (
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 138-138 | Added on Tuesday, 19 April 2022 09:56:20
+
 
 rozległością swej wiedzy i umieję­ tnościami praktycznymi
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 139-139 | Added on Tuesday, 19 April 2022 09:57:24
+
 
 zachowało się bardzo niewiele fragmentów o treści niezbyt znaczącej dla rekonstrukcji jego poglądów. Stąd też odkrycie Dupr6ela , iż anonimowy traktat Mowy podwójne, przypisywany pierwotnie szkole Protagorasa (por. rozdz. III), jest oparty na koncepcjach filozoficznych Hippiasza - podsumowując jego poglądy, rozszerza znacznie materiał badawczy
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 139-139 | Added on Tuesday, 19 April 2022 09:57:47
 
 skomponowanych na wzór Protagorasowych Antologii, bezpo­ średniego autorstwa samego Hippiasza, czy też fragmentów jego pism
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 139-139 | Added on Tuesday, 19 April 2022 09:57:53
+
 
 zachowało się bardzo niewiele fragmentów o treści niezbyt znaczącej dla rekonstrukcji jego poglądów. Stąd też odkrycie Dupr6ela , iż anonimowy traktat Mowy podwójne, przypisywany pierwotnie szkole Protagorasa (por. rozdz. III), jest oparty na koncepcjach filozoficznych Hippiasza - podsumowując jego poglądy, rozszerza znacznie materiał badawczy. (Dupn�el przestrzegał 7 jednak przed
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 139-139 | Added on Wednesday, 20 April 2022 08:58:33
+
 
 młodszy od Protagorasa, działał jednak współcześnie z nim i mógł z.n rywalizować, jeśli chodzi o popularość. Zył jeszcze w roku procesu Sokratesa 9. Pochodził z Elidy i podobnie jak Gorgiasz czy Prodikos sprawował często funkcje dyplomatyczne podróżując po Grec]i, najczęściej przebywając z racji układów politycznych w Sparcie, gdzie jako zapewne jedyny sofista cieszył się uznaniem
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 140-140 | Added on Wednesday, 20 April 2022 08:59:17
+
 
 Ksenofont nazwał go polymathes 12
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 140-140 | Added on Wednesday, 20 April 2022 08:59:27
+
 
 Cz<sto bywał na wszelkich panhelleńskich uroczystościach, zwłaszcza chętnie, jak Gorgiasz, przemawiał w Olimpii. Miał honorowe obywatelstwo wielu miast. Lubił szczególnie mowy popisowe, zarówno przygotowywane wcześniej, jak i improwizowane
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 140-140 | Added on Wednesday, 20 April 2022 09:00:40
+
 
 Hippiasz zajmował się astronomią, matematyką, gramatyką, retoryką, historią, Literaturą, muzyką; próbował różnych gatunków poezji; prowadził szeroko zakrojone studia historyczne: interesowała go genealogia, chronologia, nazewnictwo ludów i krajów, powstawanie miast i kolonii
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 140-140 | Added on Wednesday, 20 April 2022 09:00:50
 
 , z wielu źródeł greckich i niegreckich, a dzieło swe, noszące tytuł Zbiór
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 141-141 | Added on Wednesday, 20 April 2022 09:01:39
 
 Z tych wszystkich źródeł zebrałem rzeczy najważ­ niejsze i najistotniejsze, i stworzę w ten sposób księgę nową, i wszechstronną
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 141-141 | Added on Wednesday, 20 April 2022 09:02:47
+
 
 Ulubionym przez Hippiasza tematem wykładów było objaśnianie twórczości poetów i przedstawianie charakterystyki bohaterów homeryckich, traktowane jako podstawa do rozważań na tematy moralno-etyczne i polityczne
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 142-142 | Added on Wednesday, 20 April 2022 09:03:30
+
 
 Do pism o podobnym charakterze jak tu wymieniany Zbiór zaliczyć należy Nazewnictwo ludów (Ethnon onomasiai) 19 czy też Spisy zwycięzców olimpijskich
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 142-142 | Added on Wednesday, 20 April 2022 09:04:11
 
 wymieniając cztery szkoły filozoficzne na podłożu sofistyki, uważa Hippiasza za twórcę szkoły przyrodniczej
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 142-142 | Added on Wednesday, 20 April 2022 09:04:14
 
 Olympionikon anagrafe) 20. Mullach21
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 142-142 | Added on Wednesday, 20 April 2022 09:04:27
 
 Mullach21 - jeden z pierwszych historyków filozofii
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 142-142 | Added on Wednesday, 20 April 2022 09:05:59
 
 Według Hippiasza całokształt rzeczywistości to nieskończona ilość bytów funkcjonujących niejako parami przeciwstawnymi sobie, pozostającymi wobec siebie w ciągłej opozycji. Byty te mają naturę dwojakiego rodzaju: są to zarówno byty materialne, jak i niematerialne. Byty niematerialne mają charakter idei ogólnych, które oddziałują na rzeczy materialne, jednostkowe, zarówno przez ich kształtowanie, jak i określanie. Byty materialne mają charakter jednostkowy, ich poznanie polega na wyodrębnieniu tego, co dany byt odróżnia od innych. Natura bytów nie jest zależna od poznającego je człowieka; mają one swe jakośc1 obiektywne
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 144-144 | Added on Wednesday, 20 April 2022 09:09:43
 
 Za istotę natury człowieka uważa sofista niewątpliwie przyrodzone wszystkim istotom żywym dążenie do przedłużenia gatunku. U zwierząt występuje to w czysto biologicznej formie (płodzenie potomstwa i opieka nad nim), u człowieka przybiera formę dążenia do nieśmiertelności
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 144-144 | Added on Wednesday, 20 April 2022 09:12:36
+
 
 Obserwacje, badania historyczno-porównawcze pozwoliły mu dostrzegać zarÓ\O odmienności w obyczajach i prawach różnych ludów, i państw, jak fakt zmienności praw i obyczajów w obrębie 1edne1 społeczności. Istnie3ące prawa nie mają zatem wedł.ug niego wartości absolutnej
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 145-145 | Added on Wednesday, 20 April 2022 09:13:13
 
 prawem jest to wszystko, co ogół obywateli wspólnie uchwala i podaje w formie rozporządzenia na piśmie do wiadomości co czynić trzeba, a czego należy unikać"2d, lecz znaczenie i ważość pra\ są ściśle związane z określoną historycznie sytuacją; gdy ta się zmienia, i prawa tracą swoją waż­ ność („Jak moża mieć poszanowanie dla praw i słuchać ich, jeśli sami prawodawcy często zmieniają prawa, uznawszy je za niesłuszne?" 29). Prawa państwowe są zatem tworem ludzi, jako wynik umowy społecznej, choć w ich stanowieniu nie wyklucza Hippiasz elementu samowoli. Prawa państwowe zawsze obracają się przeciwko człowiekowi, zadając gwałt jego naturze i naturze w ogóle; są naruszeniem porL(dku rzeczywistości. Dlatego też takie prawa nazwał Hippiasz „prawami tyranami
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 145-145 | Added on Wednesday, 20 April 2022 09:13:59
 
 Przeciwstawiał im „prawa niepisane" (agrafoi nomoi), „takie, które na całym świecie są uznawane za prawa" 30• Nie pochodzą one „z ustanowienia ludzi" (nomo), ich powszechność na całym świecie, fakt, i ich przekroczenie ma negatywne konsekwencje dla człowieka i społeczności, „wskazuje na znakomitszego prawodawcę niż człowiek" 31. Prawodawcą tym jest natura. Człowiek może uniknąć odpowiedzialności za przekroczenie praw państwowych, jeśli nie będzie to ujawnione lub też chroni go siła; przekroczenie prawa natury zawsze pociąga za sobą karę
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 146-146 | Added on Wednesday, 20 April 2022 09:15:59
 
 Obywatele was tutaj obecnych uwa­ żam za krewnych, za swoich, za współobywateli wszystkich razem, wtdle natury (sei), nie wedle prawa (noro) Bo to, eo podobne\ to sobie pokrewne z natwy. a tylko prawo tyranizuje ludzi i gwałt zadaje naturze
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 146-146 | Added on Wednesday, 20 April 2022 09:16:35
+
 
 Ze wzmianki u Arstotelesa W)nika, iż Hippiaszowe prawo równości obejmowało również niewolników
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 147-147 | Added on Wednesday, 20 April 2022 17:08:40
+
 
 Protagoras i Gorgiasz (jak wspomniano w rozdz. IlI} przyjęli jednak tę „ umowność" za jedyną możliwą formę stosunków międzyludzkich, wyrywając zdecydowanie całokształt bytu społecznego spod panowania prawa natury. Prodikos uznał za konieczne znalezienie dodatkowego uzasadnienia dla pozytywnej oceny zjawisk „z umowy" poprzez uzgodnienie ich z naturą człowieka
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 147-147 | Added on Wednesday, 20 April 2022 17:08:57
+
 
 Hippiasz natomiast stwierdził, iż umowa, jako forma kształtowania stosunków społecznych, jest formą zwyrodniałą
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 148-148 | Added on Wednesday, 20 April 2022 17:13:30
+
 
 odnosił się do nich z poczuciem wyższości
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 148-148 | Added on Wednesday, 20 April 2022 17:15:34
+
 
 Z traktatu Mowy podwójne wynika, że podstawą jego ontologicznych ustaleń były analizy pojęć etycznych; naturę bytów materialnych ustalał poprzez badanie desygnatów pojęć moralnych, takich jak dobro czy zło, naturę zas idei ogólnych poprzez badanie pojęć jako takich. Do koncepcji wielości bytów doszedł tą samą drogą metodologiczną. Podstawą ustalenia jakiegokolwiek prawa była dlań wiedza o rzeczach: „Kto nie bGdzie znał rzeczy, nie będzie znał i praw
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 149-149 | Added on Wednesday, 20 April 2022 17:18:09
+
 
 od Hippiasza poczynając, umowa w sofi:tyce zaczęła być przedmiotem ocen negatywnych. Fakt ten z kolei sµowodował konieczność przeciwstawienia umowie prawa natury, którego poszczególne teorie nie byłY. już kształtowane, jak w prLypadku filozofii archaicznej, na podstawie koncepcji struktury wszechświata
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 149-149 | Added on Wednesday, 20 April 2022 17:18:14
+
 
 znowu funkcjonować antyteza: fysis-nomos
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 150-150 | Added on Wednesday, 20 April 2022 17:21:39
+
 
 Skuteczność działań jednostki, jej szczęście, wymagają życia zgodnego z prawem natury, a więc zna1omości natury. Prowadzi do tego wiedza, którą Hippiasz pojmował jako erudycję. Świadczy o tym zakres jego nauczania, obejmujący, jak już wspomniano, wiele przedmiotów, a także jego pisma
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 150-150 | Added on Wednesday, 20 April 2022 17:22:38
+
 
 trudno się zgodzić ze stanowiskiem Duprćela (wyd cyt„ s. 339), który przypisując Hippiaszow1 poglądy wrażane przez Kalliklesa w Platońskun Gorgiazu 1 prez Trazymacha w Państie mterprrtu1e Hlppiaszową koncepcję prawa natur jako koncepcję prawa silniejszego
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 151-151 | Added on Wednesday, 20 April 2022 17:24:14
 
 Antyfont z Ramnus jest autorem tych pism filozoficznych, jak też tym samym sofistą, którego w rozmowach z Sokratesem przedstawił Ksenofont42. Antyfont, syn uważanego za sofistę
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 151-151 | Added on Wednesday, 20 April 2022 17:24:26
+
 
 W 4 1 1 roku, oskarżo-
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 152-152 | Added on Wednesday, 20 April 2022 17:24:55
+
 
 został przez demokratów skazany na śmierć Uprawiał zawód sofisty i tzw. logografa, któ­ ry to termin w drugiej połowie V i w IV wieku oznaczał zawodowego układacza mów sądowych. Niechętny demokracji ateńskiej w czasie wojny ,eloponeskiej, jak to potwierdza Tukidydes · , dawał wyraz swym prospartań­ skim sympatiom, wygłaszał też mowy w obronie uciskanych sprzymierzeńców Aten. Zalety charakteru Antyfonta i wielką dociekliwość badawczą podkreśla Tukidydes, zwracając jednocześnie uwagę na jego zaangażowanie w działalność tzw. heterii, czyli tajnych klubowych stowarzyszeń o charakterze antydemokratycznym, które nasiliły swą działalność od momentu wybuchu wojny peloponeskiej
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 152-152 | Added on Wednesday, 20 April 2022 17:25:44
 
 nie zabierał nigdy głosu publcznie, nie stawał na posiedzeniach Zgromadzenia Ludowego, ani w sądzie nie bronił swych klientów czy przyjaciół osobiście, wspomagając ich tylko radami. W procesie, który mu wytoczono, bronił się w zachowanej częściowo mowie O przewrocie (Peri metastaseos), uzasadniając nieprawdopodobieństwo zarzucanego mu czynu przez wykazanie, iż o Jego stosunku do ustroju demokratycznego decydowały nie względy polityczne, lecz osobista korzyść, a w ustroju tym powodziło mu się bardzo dobrze. Argumenty te nie przekonały trybunału, liczący prawie 70 lat Antyfont został skazany na śmierć, stracony, a jego zwłoki pozbawiono grobu i wystawiono steę z hań­ biącym napisem
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 152-152 | Added on Wednesday, 20 April 2022 17:26:17
 
 zachowało się sporo fragmentów
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 153-153 | Added on Wednesday, 20 April 2022 17:27:37
+
 
 traktat Prawda, którego tytuł uważa Aly 44 za wzorowany na traktacie Ptagorasa. Na pismo składały się dwie księ­ gi, a w jego konstrukcji dopatrzyć się można podobieństwa do Paimenidesowego poematu O naturze, którego pierwsza część ukazywała „prawdziwą" strukturę rzeczywistości, druga zaś taką, jaka jawi się „oczom mniemań
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 153-153 | Added on Wednesday, 20 April 2022 17:27:46
 
 tuż przed wojną peloponeską
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 153-153 | Added on Wednesday, 20 April 2022 17:28:57
 
 repliką na akceptujące całokształt zjawisk „z umowy" koncepcje Protagorasa. Antyfont w poglądach ontologicznych przyjął, inaczej niż Protagoras czy Hippiasz, eleacką koncepcję jedności bytu: „Zrozumiawszy, że wszechświat jest jednością, pojmiesz i to, że nie istnieje nic pojedynczego, ani w tym, co postrzegający jak najszerzej ogara wzrokiem, ani w tym, co poznający przez rozum jak najszerzej ogaa rozumem
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 154-154 | Added on Wednesday, 20 April 2022 17:29:24
+
 
 giczną jedność człowieka, jako bytu podległego naturze. Człowiek zdaje sobie z tego sprawę, ponieważ ma rozum, który umożliwia mu poznanie struktury kosmosu, a przez to i własnego miejsca w tej strukturze
 ==========
