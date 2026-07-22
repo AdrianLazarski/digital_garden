@@ -12813,6 +12813,16 @@
             "timeKey": "18:45",
             "w": 8,
             "c": 65
+          },
+          {
+            "timeKey": "19:20",
+            "w": 7,
+            "c": 50
+          },
+          {
+            "timeKey": "19:25",
+            "w": 1,
+            "c": 3
           }
         ],
         "id": 928
@@ -12914,9 +12924,47 @@
             "timeKey": "18:45",
             "w": 20,
             "c": 151
+          },
+          {
+            "timeKey": "19:20",
+            "w": -4,
+            "c": -35
           }
         ],
         "id": 935
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+        "wordCountStart": 146,
+        "charCountStart": 1112,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 6,
+            "c": 40
+          },
+          {
+            "timeKey": "19:25",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 936
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Wstęp do fenomenologii Husserla.md",
+        "wordCountStart": 226,
+        "charCountStart": 1703,
+        "changes": [
+          {
+            "timeKey": "19:25",
+            "w": 21,
+            "c": 166
+          }
+        ],
+        "id": 937
       }
     ]
   }

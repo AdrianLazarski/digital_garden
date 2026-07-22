@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/współczesna
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-22 19:26
+---
 [[Roman Ingarden]], 1967 r.
 
 ## Wykład 4

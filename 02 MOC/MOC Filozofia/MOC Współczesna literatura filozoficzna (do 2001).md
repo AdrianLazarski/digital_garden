@@ -22,6 +22,7 @@ modified date: 2026-07-03 17:38
 [[Camus Albert, Mit Syzyfa]], 1942 r.
 [[de Jouvenel Bertrand, Traktat o władzy]], 1945 r.
 [[Popper Karl, Społeczeństwo otwarte i jego wrogowie]], 1945 r.
+[[Ingarden Roman, Spór o istnienie świata]], 1948 r.
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]], 1949 r.
 [[Hospers John, Wprowadzenie do analizy filozoficznej]], 1953 r.
 [[Bocheński Józef Maria, Współczesne metody myślenia]], 1954 r.

@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Spór o istnienie świata.md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Wstęp do fenomenologii Husserla.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,21 +292,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ingarden Roman, Spór o istnienie świata"
-            }
-          },
-          {
-            "id": "def7006c6e3be6f9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Podgląd grafu"
+              "title": "Ingarden Roman, Wstęp do fenomenologii Husserla"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -442,12 +432,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Wstęp do fenomenologii Husserla.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt"
+              "title": "Konspekt Ingarden Roman, Wstęp do fenomenologii Husserla"
             }
           }
         ],
@@ -523,17 +514,18 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "def7006c6e3be6f9",
+  "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Spór o istnienie świata.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hospers John, Wprowadzenie do analizy filozoficznej.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hoffe Otfried, Immanuel Kant.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
     "04 Źródła/Jasiński Łukasz, Agonia.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Fanon Frantz, Wyklęty lud ziemi.md",
@@ -550,7 +542,6 @@
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, History of formal logic.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Współczesne metody myślenia.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Logika i filozofia.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

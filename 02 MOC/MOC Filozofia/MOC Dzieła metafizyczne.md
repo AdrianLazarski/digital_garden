@@ -22,6 +22,7 @@ modified date: 2026-07-03 17:44
 [[Wittgenstein Ludwig, Tractatus logico-philosophicus]], 1918 r.
 [[Heidegger Martin, Bycie i czas]], 1927 r.
 [[Gilson Etienne, Jedność doświadczenia filozoficznego]], 1937 r.
+[[Ingarden Roman, Spór o istnienie świata]], 1948 r.
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]], 1949 r.
 
 
