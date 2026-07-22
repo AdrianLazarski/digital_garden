@@ -32,6 +32,3 @@ modified date: 2026-07-22 19:26
 	- Nawet przypuszczając coś, uważam to za przypuszczalne , więc akty tetyczne nie odnoszą się tylko do tego, co bytowo autonomiczne.
 
 - Setzung używa początkowo jako uznanie, ale w późniejszych pracach zbliża się do idealizmu i mówi o "ustanawianiu".
-
-
-#filozofia #filozofia/współczesna #fenomenologia #filozofia/polska 

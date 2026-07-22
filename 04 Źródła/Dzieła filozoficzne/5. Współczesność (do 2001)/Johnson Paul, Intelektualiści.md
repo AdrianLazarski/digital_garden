@@ -1,19 +1,30 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - historia
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-22 19:35
+---
 1990 r.
 
 **Spis treści**
 
-1. [Percy Bysshe Shelley](#Percy%20Bysshe%20Shelley)
-2. [Karol Marks 1818-1883](#Karol%20Marks%201818-1883)
-3. [Henryk Ibsen](#Henryk%20Ibsen)
-4. [Lew Tołstoj](#Lew%20To%C5%82stoj)
-5. [Ernest Heimngway](#Ernest%20Heimngway)
-6. [Bertolt Brecht:](#Bertolt%20Brecht:)
-7. [Bertrand Russell:](#Bertrand%20Russell:)
-8. [Sartre:](#Sartre:)
-9. [Edmund Wilson:](#Edmund%20Wilson:)
-10. [Viktor Gollancz:](#Viktor%20Gollancz:)
-11. [Lillian Hellman:](#Lillian%20Hellman:)
-12. [Noam Chomsky:](#Noam%20Chomsky:)
+1. [Jan Jakub Rousseau](#Jan%20Jakub%20Rousseau)
+2. [Percy Bysshe Shelley](#Percy%20Bysshe%20Shelley)
+3. [Karol Marks 1818-1883](#Karol%20Marks%201818-1883)
+4. [Henryk Ibsen](#Henryk%20Ibsen)
+5. [Lew Tołstoj](#Lew%20To%C5%82stoj)
+6. [Ernest Heimngway](#Ernest%20Heimngway)
+7. [Bertolt Brecht:](#Bertolt%20Brecht:)
+8. [Bertrand Russell:](#Bertrand%20Russell:)
+9. [Sartre:](#Sartre:)
+10. [Edmund Wilson:](#Edmund%20Wilson:)
+11. [Viktor Gollancz:](#Viktor%20Gollancz:)
+12. [Lillian Hellman:](#Lillian%20Hellman:)
+13. [Noam Chomsky:](#Noam%20Chomsky:)
 
 
 ## Jan Jakub Rousseau

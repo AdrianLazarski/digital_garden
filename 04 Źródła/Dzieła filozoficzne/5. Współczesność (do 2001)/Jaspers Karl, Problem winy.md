@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/antropologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-22 19:27
+---
 [[Karl Jaspers]], Die Schuldfrag, 1946 r.
 
 - Ideologia, propaganda, manipulacja, terror, strach >>> utrata zdolności rozmawiania, refleksji, krytyczności>>>izolacja, utrata ratio/człowieczeństwa, wrogość, niechęć

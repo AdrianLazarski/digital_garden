@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu logiki"
+              "title": "MOC Dzieła filozoficzne"
+            }
+          },
+          {
+            "id": "7c3580f2950fb755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła z zakresu propedeutyki filozofii"
             }
           },
           {
@@ -277,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Wstęp do fenomenologii Husserla.md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Johnson Paul, Intelektualiści.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,11 +316,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ingarden Roman, Wstęp do fenomenologii Husserla"
+              "title": "Johnson Paul, Intelektualiści"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -432,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Wstęp do fenomenologii Husserla.md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Johnson Paul, Intelektualiści.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Ingarden Roman, Wstęp do fenomenologii Husserla"
+              "title": "Konspekt Johnson Paul, Intelektualiści"
             }
           }
         ],
@@ -516,13 +540,18 @@
   },
   "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Jaspers Karl, Wprowadzenie do filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Jaspers Karl, Problem winy.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Wstęp do fenomenologii Husserla.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Spór o istnienie świata.md",
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hospers John, Wprowadzenie do analizy filozoficznej.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hoffe Otfried, Immanuel Kant.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
@@ -533,15 +562,10 @@
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Davila Nicolas Gomez, Nowe scholia do tekstu implicite.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Davila Nicolas Gomez, Następne scholia do tekstu implicite.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Camus Albert, Upadek.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
     "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Borawska, Górski – Umysłowość średniowiecza.md",
     "02 MOC/MOC Historia.md",
     "02 MOC/MOC Historia/MOC Książki historyczne.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, Zarys historii filozofii.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, History of formal logic.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Współczesne metody myślenia.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Logika i filozofia.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

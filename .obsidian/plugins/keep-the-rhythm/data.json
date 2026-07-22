@@ -12821,8 +12821,13 @@
           },
           {
             "timeKey": "19:25",
-            "w": 1,
-            "c": 3
+            "w": 15,
+            "c": 104
+          },
+          {
+            "timeKey": "19:30",
+            "w": 7,
+            "c": 53
           }
         ],
         "id": 928
@@ -12960,11 +12965,86 @@
         "changes": [
           {
             "timeKey": "19:25",
-            "w": 21,
-            "c": 166
+            "w": 15,
+            "c": 97
           }
         ],
         "id": 937
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Jaspers Karl, Problem winy.md",
+        "wordCountStart": 168,
+        "charCountStart": 1288,
+        "changes": [
+          {
+            "timeKey": "19:25",
+            "w": 23,
+            "c": 193
+          }
+        ],
+        "id": 938
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
+        "wordCountStart": 93,
+        "charCountStart": 670,
+        "changes": [
+          {
+            "timeKey": "19:25",
+            "w": 6,
+            "c": 40
+          }
+        ],
+        "id": 939
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Jaspers Karl, Wprowadzenie do filozofii.md",
+        "wordCountStart": 731,
+        "charCountStart": 5093,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 15,
+            "c": 91
+          }
+        ],
+        "id": 940
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
+        "wordCountStart": 20,
+        "charCountStart": 156,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "19:35",
+            "w": 31,
+            "c": 250
+          }
+        ],
+        "id": 941
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Johnson Paul, Intelektualiści.md",
+        "wordCountStart": 4284,
+        "charCountStart": 29980,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 31,
+            "c": 236
+          }
+        ],
+        "id": 942
       }
     ]
   }

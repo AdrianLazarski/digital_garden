@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 19:31
+---
 [[Karl Jaspers]], 1953 r.
 K. Jaspers, Wprowadzenie do filozofii, Wrocław 2000, s.
 
@@ -42,6 +51,3 @@ K. Jaspers, Wprowadzenie do filozofii, Wrocław 2000, s.
 ## 6. Człowiek
 
 
-
-
-#filozofia #filozofia/współczesna #egzystencjalizm #filozofia/niemiecka 
