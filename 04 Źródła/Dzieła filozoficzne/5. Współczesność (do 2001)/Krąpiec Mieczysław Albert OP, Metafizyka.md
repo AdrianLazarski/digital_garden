@@ -1,11 +1,11 @@
 ---
 created: 2026-02-28 19:46
 tags:
-  - atom
-  - definicja
   - ref
+  - filozofia/metafizyka
+  - filozofia/współczesna
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 20:46
 ---
 [[Mieczysław Albert Krąpiec]], 1984 r.
@@ -42,4 +42,3 @@ Str 106-
 
 
 
-#filozofia #filozofia/współczesna #filozofia/metafizyka #filozofia/polska #tomizm 

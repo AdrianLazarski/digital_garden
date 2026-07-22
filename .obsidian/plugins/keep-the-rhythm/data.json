@@ -12841,8 +12841,13 @@
           },
           {
             "timeKey": "20:45",
-            "w": 6,
-            "c": 54
+            "w": 29,
+            "c": 232
+          },
+          {
+            "timeKey": "20:50",
+            "w": 8,
+            "c": 73
           }
         ],
         "id": 928
@@ -12852,7 +12857,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
         "wordCountStart": 78,
         "charCountStart": 593,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 7,
+            "c": 54
+          }
+        ],
         "id": 929
       },
       {
@@ -13170,6 +13181,11 @@
             "timeKey": "20:40",
             "w": 14,
             "c": 112
+          },
+          {
+            "timeKey": "20:45",
+            "w": 9,
+            "c": 68
           }
         ],
         "id": 948
@@ -13215,8 +13231,8 @@
           },
           {
             "timeKey": "20:45",
-            "w": 10,
-            "c": 66
+            "w": 17,
+            "c": 122
           }
         ],
         "id": 951
@@ -13251,11 +13267,58 @@
         "changes": [
           {
             "timeKey": "20:45",
-            "w": 21,
-            "c": 163
+            "w": 15,
+            "c": 108
           }
         ],
         "id": 954
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kuehnelt-Leddihn von Erik, Demokracja – opium dla ludu.md",
+        "wordCountStart": 532,
+        "charCountStart": 4094,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 23,
+            "c": 188
+          }
+        ],
+        "id": 955
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kuhn Thomas, Struktura rewolucji naukowych.md",
+        "wordCountStart": 2101,
+        "charCountStart": 15522,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 23,
+            "c": 185
+          }
+        ],
+        "id": 956
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Lenartowicz Piotr, Wprowadzenie do zagadnień filozoficznych.md",
+        "wordCountStart": 1468,
+        "charCountStart": 11067,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "20:50",
+            "w": -3,
+            "c": -37
+          }
+        ],
+        "id": 957
       }
     ]
   }

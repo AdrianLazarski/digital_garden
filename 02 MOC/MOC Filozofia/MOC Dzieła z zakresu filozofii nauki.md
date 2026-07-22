@@ -14,5 +14,6 @@ modified date: 2026-07-06 14:05
 
 [[Hayek, Nadużycie rozumu]], 1941 r.
 [[Mises Ludwig von, Teoria a historia]], 1957 r.
+[[Kuhn Thomas, Struktura rewolucji naukowych]], 1962 r.
 [[Krajewski Władysław, Związek przyczynowy]], 1995 r.
 [[Krajewski Władysław, Prawa nauki]], 1998 r.

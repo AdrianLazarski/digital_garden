@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/nauki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 20:49
+---
 [[Thomas Kuhn]], *The Structure of Scientific Revolutions*, 1962 r.
 
 ## Przedmowa

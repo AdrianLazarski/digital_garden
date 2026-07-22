@@ -1,4 +1,13 @@
-1998.
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-22 20:49
+---
+1998 r.
 
 - Dla filozofii chrześcijańskiej najważniejsze są trzy podziały filozofii:
 	- Arystotelesa
@@ -77,8 +86,6 @@ Od odpowiedzi na te dwa pytania zależy rozstrzygnięcie sporu o genezę materii
 
 
 
-## Recenzja
+# Recenzja
+
 Było parę fajnych myśli, ale generalnie większość to kompromitacja człowieka, zajmującego się zawodowo filozofią i chcącego wprowadzać w nią kogokolwiek. Nieznajomość na podstawowym poziomie Kanta i Wittgensteina,  czy powielanie jakichś klisz o nominalizmie nakazuje mi po raz milionowy podejrzewać, że tomiści zupełnie nie orientują się w żadnej filozofii oprócz swojej. Książka absolutnie dla nikogo, bo nawet w swojej kategorii ma lepsze od siebie alternatywy. 
-
-
-#filozofia #filozofia/współczesna #filozofia/polska 

@@ -33,6 +33,7 @@ modified date: 2026-07-03 17:38
 [[Voegelin Eric, Świat Polis]], 1957 r.
 [[Voegelin Eric, Platon]], 1957 r.
 [[Fanon Frantz, Wyklęty lud ziemi]], 1961 r.
+[[Kuhn Thomas, Struktura rewolucji naukowych]], 1962 r.
 [[Adorno Theodor, Nowy prawicowy radykalizm]], 1967 r.
 [[Ingarden Roman, Wstęp do fenomenologii Husserla]], 1967 r.
 [[Berlin Isaiah, Cztery eseje o wolności]], 1969 r.
@@ -42,11 +43,14 @@ modified date: 2026-07-03 17:38
 [[Konkin Samuel Edward, Nowy manifest libertariański]], 1980 r.
 [[Barnes Jonathan, Arystoteles]], 1982 r.
 [[Hoffe Otfried, Immanuel Kant]], 1983 r.
+[[Krąpiec Mieczysław Albert OP, Metafizyka]], 1984 r.
 [[Gajda-Krynicka Janina, Sofiści]], 1989 r.
 [[Davila Nicolas Gomez, Następne scholia do tekstu implicite]], 1992 r.
 [[Bocheński Józef Maria, Logika i filozofia]], 1993 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 [[Borawska, Górski – Umysłowość średniowiecza]], 1993 r.
 [[Krajewski Władysław, Związek przyczynowy]], 1995 r.
+[[Kuehnelt-Leddihn von Erik, Demokracja – opium dla ludu]], 1996 r.
 [[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
 [[Krajewski Władysław, Prawa nauki]], 1998 r.
+[[Lenartowicz Piotr, Wprowadzenie do zagadnień filozoficznych]], 1998 r.

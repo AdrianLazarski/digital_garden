@@ -24,5 +24,6 @@ modified date: 2026-07-06 14:06
 [[Rothbard Murray, Manifest libertariański]], 1973 r.
 [[Kołakowski, Główne nurty marksizmu]], 1976 r.
 [[Konkin Samuel Edward, Nowy manifest libertariański]], 1980 r.
+[[Kuehnelt-Leddihn von Erik, Demokracja – opium dla ludu]], 1996 r.
 [[Juruś Dariusz, Dzieje własności prywatnej]], 2014 r.
 [[Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii]], 2019 r.
