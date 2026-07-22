@@ -25,4 +25,10 @@ modified date: 2026-07-22 14:21
 - Dziwna argumentacja, że większość zgonów wśród młodych w USA to wypadki, a nie choroby. Ale nie podał jak to wygląda poza USA.
 - Wskaźnik oczekiwanej długości życia zmienia się wraz z wiekiem. W 2006 roku USA miały wyższy wskaźnik przeżywalności osób po 80 roku życia, niż Szwecja, Francja, Anglia czy Japonia, więc kraje przodujące w oczekiwanej długości życia w momencie urodzenia.
 - Co do zgonów noworodków, to 75% takich zgonów na świecie jest obliczanych na podstawie niewiarygodnych, pięcioletnich retrospektywnych badań gospodarstw domowych, podczas gdy w USA rejestruje to służba zdrowia. Wiele ludzi unika żmudnego procesu rejestracji takich rzeczy, nie zna procedur, ma obawy religijne i kulturowe, plus nie rozumie terminów, które też mogą się różnić w poszczególnych krajach. Dziecko urodzone w 22. tygodniu w jednym kraju zostanie zarejestrowane jako urodzone żywe i po chwili zmarłe (zgon noworodka), a w innym – jako poronienie. 
-- Niektóre kraje nie ujmują w swoich statystykach zgonów wcześniaków. Tymczasem zgony wcześniaków to 75% wszystkich zgonów noworodków, więc nieuwzgle
+- Niektóre kraje nie ujmują w swoich statystykach zgonów wcześniaków. Tymczasem zgony wcześniaków to 75% wszystkich zgonów noworodków, więc nieuwzględnianie tego mocno zaniża wynik.
+- Zaniżanie liczby wczesnych zgonów noworodków waha się od 10 do 30% w krajach wysoko rozwiniętych.
+- Problemem też jest niejednorodność populacji, bo w populacjach mniejszościowych wskaźniki śmiertelności niemowląt są wyższe, a w USA heterogeniczość rasowo-etniczna jest 4-8 raza większa, niż w Europie Zachodniej. 
+- Istotny jest też wzrost urodzeń mnogich, związanych z wyższym wiekiem zachodzenia w ciąże. A ciąże mnogie są bardziej obciążone zgonami i przedwczesnymi poronieniami.
+- Co ciekawe dzięki rozwojowi medycyny i technologii noworodki o niskiej masie ciała i tak mają większe szanse na przeżycie w USA, niż w Japonii, czy Norwegii.
+- Problem z danymi przy zgonach noworodków jest też kluczowy przy mówienie o Kubie. 
+- 
