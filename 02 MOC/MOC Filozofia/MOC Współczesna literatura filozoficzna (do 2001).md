@@ -33,6 +33,7 @@ modified date: 2026-07-03 17:38
 [[Berlin Isaiah, Cztery eseje o wolności]], 1969 r.
 [[Rothbard Murray, Manifest libertariański]], 1973 r.
 [[Barnes Jonathan, Arystoteles]], 1982 r.
+[[Gajda-Krynicka Janina, Sofiści]], 1889 r.
 [[Davila Nicolas Gomez, Następne scholia do tekstu implicite]], 1992 r.
 [[Bocheński Józef Maria, Logika i filozofia]], 1993 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.

@@ -20,7 +20,7 @@
 	- Do Assos udał się z Ksenokratesem i założył szkołę z platonikami Erastosem i Korikosem, którzy byli doradcami Hermiasza.
 - Przyjaźnił się z lokalnym tyranem Hermiaszem, który był władcą-filozofem i już wcześniej ściągał do siebie wielu członków Akademii. Poślubił jego siostrzenicę Pythias.
 - Najprawdopodobniej z powodu rozruchów politycznych opuszcza Assos i przenosi się do Mityleny na wyspie Lesbos i tam przebywa do 343/342 roku, aż wzywa go Filip Macedoński, by został wychowawcą 13-letniego Aleksandra Macedońskiego. 
-- W Mitylenie poznaje swojego drugiego najsłynniejszego ucznia Teofrasta.
+- W Mitylenie poznaje swojego drugiego najsłynniejszego ucznia Teofrasta. ^97d081
 - Jak Aleksander dorósł i podbił prawie cały świat, to Arystoteles doradzał mu, by nie hellenizować ludzi.
 - Po edukacji Aleksandra pozostał w Macedonii i mieszkał w Stagirze. Gdy Aleksander zaczął pochód na Azję, Arystoteles wrócił do Aten i założył Likejon, wzorowany na Akademii, ale działający w duchu empiryzmu. Przewodził nim od 335 do 323 roku. 
 - Oczywiście rejestruje swoją szkołę jako związek religijny poświęcony kultowi Muz.

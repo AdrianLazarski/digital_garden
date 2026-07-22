@@ -12618,8 +12618,13 @@
           },
           {
             "timeKey": "18:25",
-            "w": -42,
-            "c": -287
+            "w": -966,
+            "c": -6460
+          },
+          {
+            "timeKey": "18:30",
+            "w": -1239,
+            "c": -8166
           }
         ],
         "id": 926
@@ -12782,6 +12787,42 @@
           }
         ],
         "id": 927
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+        "wordCountStart": 240,
+        "charCountStart": 1798,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 5,
+            "c": 44
+          }
+        ],
+        "id": 928
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+        "wordCountStart": 78,
+        "charCountStart": 593,
+        "changes": [],
+        "id": 929
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+        "wordCountStart": 126,
+        "charCountStart": 1041,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 5,
+            "c": 44
+          }
+        ],
+        "id": 930
       }
     ]
   }

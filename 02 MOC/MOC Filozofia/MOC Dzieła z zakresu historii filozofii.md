@@ -13,6 +13,7 @@ modified date: 2026-07-06 14:08
 [[Voegelin Eric, Świat Polis]], 1957 r.
 [[Voegelin Eric, Platon]], 1957 r.
 [[Barnes Jonathan, Arystoteles]], 1982 r.
+[[Gajda-Krynicka Janina, Sofiści]], 1889 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 [[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
 

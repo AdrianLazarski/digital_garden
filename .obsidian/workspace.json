@@ -353,8 +353,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 330.5
   },
   "right": {
     "id": "f90596a187c2ffdf",
@@ -495,8 +494,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -518,11 +516,12 @@
   },
   "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
-    "04 Źródła/Jasiński Łukasz, Agonia.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
+    "04 Źródła/Jasiński Łukasz, Agonia.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Fanon Frantz, Wyklęty lud ziemi.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Davila Nicolas Gomez, Nowe scholia do tekstu implicite.md",
@@ -538,7 +537,6 @@
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Współczesne metody myślenia.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Logika i filozofia.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Berlin Isaiah, Cztery eseje o wolności.md",

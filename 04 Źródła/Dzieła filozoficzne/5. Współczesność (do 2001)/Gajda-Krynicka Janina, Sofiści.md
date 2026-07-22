@@ -4,6 +4,7 @@ tags:
   - atom
   - ref
   - filozofia/historia_filozofii
+  - filozofia/współczesna
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 17:53
@@ -12,12 +13,18 @@ modified date: 2026-07-22 17:53
 
 
 
+
+
+Poniżej są zaznaczone fragmenty z Kindle'a. Niestety formatowanie się rozjechało.
+
+
+
 nastąpiło w drugim pokoleniu sofistów, działających po wojnie peleponeskiej, spowodowało, iż nurt ten uległ degeneracji
 
 Nauczanie retoryki, oparte na usystematyzowanej teorii, nie mogło się obejść bez badań nad językiem
 
 
-Do prawdziwego i skutecznego posługiwania sif słowem konieczna jest wiedza o j<zyku: znajomość gramatyki, właściwe używanie trypów i czasów oraz dokładna znajomość znaczeń poszczególnych wyrazów. Dlatego też sofiści podjęli badania gramatyczne i semantyczne
+Do prawdziwego i skutecznego posługiwania się słowem konieczna jest wiedza o języku: znajomość gramatyki, właściwe używanie tropów i czasów oraz dokładna znajomość znaczeń poszczególnych wyrazów. Dlatego też sofiści podjęli badania gramatyczne i semantyczne
 
 
 Erystyka sofistów miała źródło w ich koncepcjach teoriopoznawczych, była praktycznym zastosowaniem tych koncepcji
@@ -29,10 +36,10 @@ przekonaniu, iż narzędzi formalnych należy używać zawsze w dobrej sprawie
 Pierwsze pokolenie sofistów-filozofów
 
 
-Gorgiasza: „A jeśliby kto, powied7my, został mówcą, a potem by tej sztuki i mocy na złe używał, wówczas nie nauczyciela trzeba nienawidzicć i na wygnanie skazywać. Bo on mu dał na seraw1edliwy użytek, a len na wspak używa
+Gorgiasza: „A jeśliby kto, powied7my, został mówcą, a potem by tej sztuki i mocy na złe używał, wówczas nie nauczyciela trzeba nienawidzić i na wygnanie skazywać. Bo on mu dał na seraw1edliwy użytek, a len na wspak używa
 
 
-Przeniesicnic punktu cięż­ ko�ci wychowania na stron\ formalną, jakie nastąpiło w drugim pokoleniu sofistów
+Przeniesienie punktu cięż­kości wychowania na stron\ formalną, jakie nastąpiło w drugim pokoleniu sofistów
 
 
 Według Platona koncepqom sofistów nie przysługuje miano fozofii ze wzgl�du na brak metafzycznego ll2asadnienia. I drugi problem: jeśli sofista nie zna rzeczywiste) wartości dobra i sprawiedliwości (a znać je] nie może ze wskazanych tu racji), nie ma podstaw do nauczania dzielności
@@ -517,522 +524,285 @@ repliką na akceptujące całokształt zjawisk „z umowy" koncepcje Protagorasa
 
 
 giczną jedność człowieka, jako bytu podległego naturze. Człowiek zdaje sobie z tego sprawę, ponieważ ma rozum, który umożliwia mu poznanie struktury kosmosu, a przez to i własnego miejsca w tej strukturze
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 154-154 | Added on Friday, 22 April 2022 09:06:05
+
 
 podlega naturze, która wyznaczyła korzyść jako siłę napędową wszelkich jego działań, a jednocześnie jako swoiste kryterium ich prawidłowości
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 154-154 | Added on Friday, 22 April 2022 09:06:17
+
 
 Pojęcie bóstwa identyfikuje on z naturą: „Bóg nie potrzebuje niczego, ani też nie przyjmuje niczego od nikogo, ponieważ jest bezkresny i pozbawiony
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 154-154 | Added on Friday, 22 April 2022 09:06:39
 
 Bóg nie potrzebuje niczego, ani też nie przyjmuje niczego od nikogo, ponieważ jest bezkresny i pozbawiony
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 154-154 | Added on Friday, 22 April 2022 09:09:38
 
 Każde, nawet najbardziej podziwiane życie, mój drog, można zganić, ponieważ nie ma w n niczego niezwykłego, wielkiego ani też wzniosłego, a wręcz przeciwnie, wszystko słabe, bezsilne, krótkotrwałe i przepełnione wielkim smutkiem
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 154-154 | Added on Friday, 22 April 2022 09:09:46
+
 
 Zycie jest podobne do jednodniowej warty, a jego długość do długości jed
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 155-155 | Added on Friday, 22 April 2022 09:10:03
+
 
 nego dnia, w którym ujrzawszy światło, przekazutemy. hasło innym, rodzącym się po nas" 0• „Zycia nie można powtórzyć jak ruchu w grze w kamyki
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 155-155 | Added on Friday, 22 April 2022 09:10:34
+
 
 Są ludzie, którzy nie żyją życiem teraźniejszym, lecz z zapałem przygotowują się do jakiegoś innego życia i na t� mija im czas, jaki im jeszcze pozostaje" 5 • Los takich ludzi porównywał Antyfont z losem skąpca, który ukrył
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 155-155 | Added on Friday, 22 April 2022 09:10:53
+
 
 Nie jest rozsądny ten, kto sądzi, iż może postępować źle wobec bliskich nie doznając tego samego" 53
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 155-155 | Added on Friday, 22 April 2022 09:11:11
+
 
 korzyść chwilowa i doraźna nie jest tożsama z korzyścią w ogóle; „kto chce folgować swym przelotnym namiętnościom, dąży do rzeczy złych zamiast dobrych
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 156-156 | Added on Friday, 22 April 2022 09:15:41
+
 
 wiele z tego co w prawo sprzeczności uznaje z za naturąsprawi" 5�:, dliwektóra , jest
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 156-156 | Added on Friday, 22 April 2022 09:16:00
+
 
 PrzyjąJ on także ustalenia pierwszych sofistów były one dotyczące - jak sądził genezy - państwa kształtowane i prawaprzez , i umowę (nomos). Jako takie jednak, tzn. jako twór stanowienia konieczności
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 156-156 | Added on Friday, 22 April 2022 09:16:11
+
 
 nie ludzkiegoregulowały , nie stosunków miały waloru mię­ dzyludzkich opierając się na rozróżnieniu między złem i dobrem
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 156-156 | Added on Friday, 22 April 2022 09:18:43
+
 
 Jeśli ktoś zatem przekraczając prawa stanowione hańby i karypozostanie , zauważony nie zauważonyzaś - nie , uniknieuniknie . Naruszenie natomiast wszystkim praw natury ponad jest miarę złemwspólnych , i to nie mniejszym , i nie większym dlatego, iż przez pozostaje to, iż widzą nie zauważoneje wszyscy ludzie. Zło bowiem wynika z prawdy, nie z mniemania
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 157-157 | Added on Friday, 22 April 2022 09:20:21
 
 sądzie, zakaz wyrządzania krzywd współ­ obywatelom, wyciągnął wniosek, iż nakazy te nie mają zgoła na celu korzyści człowieka. Stosowanie się do nich jest zatem działaniem wbrew prawu natury, zgodnie z którym człowiek zawsze działa dla własnej korzyści
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 157-157 | Added on Friday, 22 April 2022 09:21:01
 
 „A więc to, co jest pożyteczne z natury, przynosi radość, jeśli jednak to, co jako po­ żyteczne, jest uznane przez prawo, przynosi smutek, jest przeciwne naturze, a zatem szkodliwe
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 158-158 | Added on Friday, 22 April 2022 09:23:38
+
 
 Antyfont opowiadał o przejściu ludzi ze stanu dzikości i życia w rozproszeniu do życia spo­ łecznego, które dokonało się dzięki opartemu na zgodzie aktowi niepisanej umowy społecznej. Można wi�c wnioskować, iż sama umowa społeczna jest zgodna z prawem natury, jako że ludzie dokonują jej aktów w dążeniu do korzyści, do życia bezpiecznego, które może realizować się tylko w strukturach społecznych i politycznych
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 158-158 | Added on Friday, 22 April 2022 09:24:07
 
 W sposób najkorzystniejszy dla siebie ustosunkowuje się do sprawiedliwości taki człowiek, który wobec świadków przestrzega praw stanowionych, bez świadków zaś - praw natury
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 159-159 | Added on Friday, 22 April 2022 09:26:56
+
 
 jedność natury powinna być wzoi-em dla jedności państwa, a nawet dla wewnętrznej jedności człowieka, od której uzależniona jest zgoda obywateli. Dlatego Antyfont za zjawisko przynoszące ludziom największą szkodę w ich bycie społecznym uważał anarchię: „Nie ma nic gorszego dla ludzi niż anarchia. Dawniej ludzie wiedząc o t od początku przyzwyczajali dzieci do posłuszeństwa i wypełniania rozkazów, by w wieku dojrzałym, popadając w zmienne
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 159-159 | Added on Friday, 22 April 2022 09:27:03
+
 
 Jawną krytykę współczesnych Antyfontowi stosunków politycznYch odnajdujemy w Traktacie politycznym
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 160-160 | Added on Friday, 22 April 2022 09:27:21
+
 
 przeciwstawiał w nim demoralizacji, cechują­ cej współczesne mu społeczeństwo, ilustrowanej przykładem Alkibiadesa. Przyczyn tego stanu rzeczy szukał w niewłaściwym wychowaniu młodzieży
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 160-160 | Added on Friday, 22 April 2022 17:25:35
 
 Alkidamas, jako uczeń Gorgiasza, przej9ł pp n kierownictwo szkoły retorycznej 6� . Zył w pierwszej połowie IV więku. Był sofistą, retorem, Diogenes Laertios 6� przypisuje mu dzie­ ło Fizyka (Fysika). Z jego dzieł zachowała
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 161-161 | Added on Friday, 22 April 2022 17:26:11
+
 
 {Kata soston), fragment Mowy w obronie Messeńczyków (Messeniakos logos), fragmenty kilku deklamacji popisowych. Stobajos 66 przekazał informację o piśmie Alkidamasa Mouseion, które miało charakter dialogu filozoficznego, zawierało m.in. pochwałę filozofii i wykształcenia. W dialogu tym znajdowała się również cytowana przez Cicerona 67 Pochwała śmierci (To thanatou enkomion), na którą składało się wyliczanie nieszczęść ludzkich, ilustrowane fragmentami wiersz� poetów. Słynna Mowa przeciwko sofistom 8 była udresowana do tych, którzy uważali się za sofistów, a w rzeczywistości nie mieli prawa do tego miana. Ich umiejętności ograniczały się bowiem tylko do pisania mów
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 161-161 | Added on Friday, 22 April 2022 17:26:19
+
 
 są równie dalecy od retoryki jak od filozofii"
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 161-161 | Added on Friday, 22 April 2022 17:32:16
 
 Zachowany fragment Mowy w obronie Messeńczyków, związanej treścią z wyprawami Epaminondasa na Peloponez i uwolnieniem Messeńczyków spod jarzma spartańskiego, pozwala stwierdzić, iż Alkidamas był zwolennikiem naturalnej równości wszystkich ludzi: „Bóg wszystkich ludzi uczynił woln�i, natura nie uczyniła nikogo niewolnikiem
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 161-161 | Added on Friday, 22 April 2022 17:35:22
+
 
 . O tym uczniu Gorgiasza wiemy niewiele. Wspominał o nim Platon w II liście 70. W 364 roku miał przebywać w Syrakuzach na dworze
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 162-162 | Added on Friday, 22 April 2022 17:35:40
+
 
 Dionizjusza II. Jego poglądy teoriopoznawcze charakteryzował posunięty do tego stopnia sceptycyzm, iż nie używał orzeczenia „jest" w zdaniach oznajmujących. Nieco więcej wiemy o jego poglądach społecznych
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 162-162 | Added on Friday, 29 April 2022 09:08:30
+
 
 państwo powstaje w wyniku umowy społecznej gwarantującej jej uczestnikom prawa osobiste. Podstawą umowy jest równość obywateli wobec prawa, równość tę jednak wyznacza prawo natury
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 162-162 | Added on Friday, 29 April 2022 09:08:57
 
 rzekomą wyższość kształtują „puste słowa"
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 162-162 | Added on Friday, 29 April 2022 09:09:53
 
 prawo staje się, jak poświadczył Arystoteles, „rękojmią wzajemnej sprawiedliwości" 73, lecz nie może ono kształtować wśród obywateli rzeczyistej sprawiedliwoś­ ci, świadczą o tym podziały społeczne
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 163-163 | Added on Friday, 29 April 2022 09:11:01
+
 
 przeciwstawianego w swej treści zarówno teorom umowy społecznej stworzonym prez pierwszych sofistów, jak i koncepcji prawa natury tożsamego z prawem równości
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 163-163 | Added on Friday, 29 April 2022 09:11:22
 
 działalność przypadła na lata wyrodnienia i upadku demokracji ateńskiej. Okres ten zaczął się już z chwilą wybuchu wojny peloponeskiej, która zaostrzyła konflikty
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 163-163 | Added on Friday, 29 April 2022 09:11:49
+
 
 Działalność przeciwników demokracji koncentrowała się w klubach politycznych (heteriach), których członkowie, jak to poświadczył Arystoteles 1, składali priysięgę: „[przysięgam], że do ludu wrogo się będę odnosić i ku szkodzie jego doradzać, co zdołam"
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 163-163 | Added on Friday, 29 April 2022 09:12:53
+
 
 Wiele miast-sprzymierzeńców oderwało się od Związku Ateńskiego. Nieudana wyprawa sycylijska i klęska wojska ateńskiego w 413 roku, wtargnięcie wojsk spartańskich na teren
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 164-164 | Added on Friday, 29 April 2022 09:13:15
+
 
 ków, w wyniku którego ustała praca w kopalniach srebra w Laurionie i zamarła działalność produkcyjna, sprawiły, iż Ateny popadły w ruinę gospodarczą. Sytuację tę wykorzysta­ ła partia oligarchiczna, obarczając winą za upadek polityczny i ekonomiczny państwa ustrój demokratyczny. W 411 roku, w wyniku oligarchicznego zamachu stanu, władzę w państwie objęła tzw. Rada Czterystu. Jej rzą­ dy nie trwały długo, nie podporządkowała się jej bowiem flota ateńska. Po roku obalono rządy oligarchiczne, a wielu członków Rady wygnanych z Aten schroniło się w Tessalii
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 164-164 | Added on Friday, 29 April 2022 09:14:23
+
 
 pod ochroną wojsk spartańskich ateńscy oligarchowie na posiedzeniu Zgromadzenia Ludowego powołali Kolegium Trzydziestu - formalnie do opracowania nowej konstytucji. Kolegium to przejęło rządy w Atenach. Były to rządy terroru
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 164-164 | Added on Friday, 29 April 2022 09:14:40
+
 
 Kritiasz, rozprawiwszy się z reprezentantem umiarkowanego odłamu Trzydziestu, Teramenesem, nie cofał się przed żadnym aktem represji wobec przeciwników politycznych, a nawet niezaangażowanych politycznie
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 164-164 | Added on Friday, 29 April 2022 09:15:09
 
 Aigopotamoi w 405 roku przesądziła wynik wojny. W 404 roku Ateny zawarły pokój ze Spartą na podyktowanych przez zwycięzców warunkach: rozwiązania Związku Morskiego, oddania całej floty Sparcie, przystąpienia do Związku Spartańskiego, zburzenia Długich Murów otaczających miasto i amnestii dla wygnanych oligarchów, i wreszcie wprowadzenia w miejsce ustroju demokratycznego
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 165-165 | Added on Friday, 29 April 2022 09:15:48
+
 
 w ciągu roku wykonano ponad 1500 wyroków śmierci 2• Kolegium Trzydziestu odebrało obywatelstwo ateńskie niemal wszystkim Ateńczykom, z wyjątkiem około 3000, usuwając ich następnie z miasta do Pireusu. Pireus stał się w ten sposób ośrodkiem demokratycznej kontrrewolucji. Zgromadzone oddziały demokratów w 403 roku pod dowództwem Trasybulosa pokonały w bitwie pod Munichią wojska oligarchów. W wyn zawartego w tym samym roku pokoju przywrócony został w Atenach ustrój demokratyczny
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 165-165 | Added on Friday, 29 April 2022 09:17:03
 
 W koncepcji tej jej twórcy, podobnie zresztą jak zwolennicy prawa równości, przyznają człowiekowi niezbywalne prawo do życia zgodnego z naturą, które narusza umowa. Prawo
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 165-165 | Added on Friday, 29 April 2022 09:17:19
+
 
 Efektywnej krytyce demokracji sprzyjała wojna, którą Tukidydes określił mianem „nauczyciela przemocy" (biaios didaskalos) 3. Ukazała ona, iż racja jest zawsze po stronie silniejszego
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 166-166 | Added on Friday, 29 April 2022 09:20:04
 
 Twórcy nowej wizji człowieka uważali, że dą­ żenie do korzyści jako cecha naturalna przekształca się w przyrodzony człowiekowi egoizm, dążenie do niezależności i panowania nad innymi, ale cechy te nie są właściwe wszystk ludziom z natury w jedakowym stopniu: jedni są silniejsi, inni słabsi. Zatem prawo do życia zgodnego z naturą polegałoby na urzeczywistnieniu przyrodzonych dążeń bez ograniczeń, jakie nakłada na nie akt umowy społecznej
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 166-166 | Added on Friday, 29 April 2022 09:26:03
+
 
 wszelkie akty umowy społecznej regulujące stosunki międzyludzkie, wymagające od ich sygnatariuszy przekształcania własnej natur w kierunku rezygnacji z części własnej wolości, jak też ograniczenia naturalnych dążeń, są pogwałceniem prawa natury. Ustalenia takie pozostają w ścisłym związku z praktyczną działalnością grupy uczniów sofistów, polityków, dla któ­ rych demokracja ateńska, jako forma ustrojowa, zgodnie z ustaleniami pierwszych sofistów, była tworem umowy
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 167-167 | Added on Friday, 29 April 2022 09:27:10
+
 
 treść pojęć „słabszy" i „silniejszy" jest dla Gorgiasza związana z zespołem cech pozytywnych, które może człowiek uzyskać przez właściwe wychowanie i wykształcenie, a więc mądrość polityczną i umiejętność przekonywania, wykorzystywana zawsze „w dobrej sprawie" . Zwolennicy prawa silniejszego przejmują tezę Gorgiasza, zmieniają jednak zasadniczo jej treść, ustalając dla pojęć „słabszy" i „silniejszy" odmienne znaczenie
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 167-167 | Added on Friday, 29 April 2022 09:27:37
+
 
 Poglądy głównych przedstawicieli koncepcji prawa silniejszego znamy przeważnie z przekazów Platońskich: Kalliklesa z Gorgiasza, Trazymacha - z Państwa. Z bogatej i ró­ żnorodnej twórczości Kritiasza zachowało się sporo fragmentów
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 167-167 | Added on Friday, 29 April 2022 09:27:57
+
 
 konkretnej postaci historycznej. (Nestle 4 przypuszcza, iż pod postacią Kalliklesa, o którym milczy historia, przedstawił Platon Charyklesa, najbardziej po Kritiaszu okrutnego członka Kolegium Trzdziestu
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 168-168 | Added on Friday, 29 April 2022 09:29:10
+
 
 według prawa stanowionego wyrządzanie krzywdy jest czymś gorszym i szpetniejszym niż jej doznawanie, natura zaś mówi zgoła co innego. Zresztą to nawet nie jest stan godny człowieka: tylko niewolnika jakiegoś, któremu lepiej by umrzeć niż żyć [...)". Z takiego stanu rzeczy wynika dlań przeświadczenie, iż prawa są dzie­ łem ludzi słabych, którzy ustanowili je po to, by przeszkodzić jednostkom potężniejszym w gromadzeniu większego majątku. „Słabi mó­ wią, że brzydką i niesprawiedliwą rzeczą jest wyprzedzać drugich własnym majątkiem''. Silnych i potężnych wychowuje się w prze­ świadczeniu, iż sprawiedliwość polega na ró­ wności. „Tymczasem sama natura pokazuje, że sprawiedliwie jest, by jednostka lepsza miała więcej niż gorsza, i potężniejsza więcej
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 168-168 | Added on Friday, 29 April 2022 09:29:44
 
 Jednostka naprawdę silna może odrzucić wszelkie stanowione przez umowę reguły i normy, które Kallikles nazywa „formułkami i kuglarskimi sztuczkami'', może sięgnąć po władzę, bo taki akt realizuje prawo natury
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 168-168 | Added on Friday, 29 April 2022 14:46:51
+
 
 Kallikles podkreślał jednak fakt, iż słabi, którzy w wyniku umowy stanowią prawa, są liczniejsi od silnych, mają więc przewagę liczebną umożliwiającą akty gwałtu na silnych. Za zgodne z prawem natury uważa również czynienie zadość wszelkim pragnieniom i namiętnościom: „człowiek, który ma żyć, Jak należy, powinien żądzom swoim popuścić wodze, niechaj będą jak największe
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 169-169 | Added on Friday, 29 April 2022 14:47:40
+
 
 żeby mieć peło po brzegi wszystkiego, ku czemu się żądza kiedykolwiek ruszy. Tylko tego, uważam, nie potrafią ci, których jest wielu. Dlatego ganią tylko takie typy, bo im wstyd; pokwają nieudolność własną i powiadają, że niepowściągliwość to brzydka rzecz [ ...] ujarzmiają typy co lepsze z natury i sami niezdolni zaspokoić głodu rozkoszy, chwalą niemęskim głosem rozumne panowanie nad sobą i sprawiedliwość (...] Bujne, szerokie życie bez hamulca i bez pana nad sobą, byle było skąd, to jest dzielność i szczęście, a ta reszta to świecidełka, to 1udzkie konwenanse przeciwne naturze, to głupstwa, o któ­ rych i mówić nie warto
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 169-169 | Added on Friday, 29 April 2022 14:48:29
+
 
 Uczył przede wszystkim retoryki, był autorem podręcznika Wielka sztuka (Me�ale techne), o którym wspominał Aystoteles . Według świadectwa Suidasa 8 pisał także mowy polityczne o charakterze symbuleutycznym i mowy popisowe. Znamy du� fragment mowy O państwie (Peri politeias) i fragmenty Mowy w obronie Larysejczyk6w (Hyper Larissaion) 10• Cicero 11 przypisywał mu traktat O naturze
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 170-170 | Added on Friday, 29 April 2022 14:49:30
+
 
 W zachowanym fragmencie Mowy w obronie Laryseiczyków Trazymach stwierdził, i sprawy ludzkie nie są determinowane żadnym siłami nadprzyrodzonymi: „Bogowie nie troszczą się o sprawy ludzkie; nie dali bowiem ludziom największego z dóbr - sprawiedliwości; widzimy, iź ludzie nie są nią obdarzeni
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 170-170 | Added on Friday, 29 April 2022 14:49:52
+
 
 sprawiedliwość nie jest niczym innym, jak tylko tym, co leży w interesie mocniejszego", a prawa tworzy siła. Każdy rząd zatem ustanawia prawa broniące interesów władzy
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 170-170 | Added on Friday, 29 April 2022 14:51:40
+
 
 Takie poglądy ilustrował Trazymach przykładem pasterza i jego trzody - pasterz troszczy się o swoje barany czy woły nie w ich interesie, lecz w swoim. Tak też i ci, którzy rządzą państwem, mają na względzie interesy obywateli o tyle tylko, o ile są one związane z ich interesami
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 170-170 | Added on Friday, 29 April 2022 14:59:18
 
 Takie poglądy ilustrował Trazymach przykładem pasterza i jego trzody - pasterz troszczy się o swoje barany czy woły nie w ich interesie, lecz w swoim. Tak też i ci, którzy rządzą państwem, mają na względzie interesy obywateli o tyle tylko, o ile są one związane z ich interesami. Według Trazymacha zatem w każdej strukturze politycznej urzeczywistnia się prawo siliejszego, nawet jeśli struktura ta zakłada równość obywateli. Równość jest pozora; w każdym państwie są władcy i poddani, pasterze i trzoda
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 171-171 | Added on Friday, 29 April 2022 14:59:57
+
 
 wnikiem ustroju demokratycznego. Dał temu wyraz w powstałej najprawdopodobniej w 413 roku mowie O państwie 14• Była to mowa polityczna o charakterze doradczym (symbouleutikos logos), powstała w szczególnie cięż­ kim dla Aten okresie, po nieudanej wyprawie sycylijskiej, w czasie kolejnego najazdu wojsk spartańskich na Attykę, zakończoną zdobyciem i ufortyfikowaniem Dekelei, w latach poprzedzających rewolucję oligarchiczną, kiedy to krytyka ateńskiej demokracji zdecydowanie przybierała
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 171-171 | Added on Friday, 29 April 2022 15:00:39
+
 
 Głupcem bowiem lub też człowiekiem niepoczytalnym jest ten, kto nadal chce podporządkowywać się tym, któ­ rzy chcą postępować błędnie, ten, który sar bierze na siebie winę za podstępy i zbrodnie innych" 15• Ten fragment mowy jest ciekawym dokumentem niewątpliwie żywych dysput politycznych na temat najlepszego ustroju w okresie poprzedzającym oligarchiczny zamach stanu
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 171-171 | Added on Friday, 29 April 2022 15:01:16
+
 
 Sparta narzuciła Atenom w 404 roku. Trazymach stwierdził, iż „ustrój przodków" był w istocie ustrojem
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 172-172 | Added on Friday, 29 April 2022 15:01:40
+
 
 lepszymdawnych : czasach„Obym, o Ateńczycy, żył w owyd1 milczenie, kiedy ; sytuacja młodym państwa ludziom nie wystarczało wymagała wygłaszania mów polistarsi rządzili nim prawidłowo
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 168-168 | Added on Monday, 2 May 2022 09:52:48
+
 
 Kiedy rodzi się pesymizm? Gdy zetkną się dwa odmienne optymizmy
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 169-169 | Added on Monday, 2 May 2022 09:53:05
+
 
 Prowincja umysłowa — usiłowanie myślenia z dala od mózgu
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 172-172 | Added on Monday, 2 May 2022 11:17:21
+
 
 Kritiasz i Alkibiades, , jak nikt inny dwaj w Atenachmężowie , z chcieli natury sami ambitniwszystkim kierować i zdobyć sobie największą wśród ludzi sławę". Kritiasz był
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 173-173 | Added on Tuesday, 3 May 2022 18:35:17
+
 
 nie było wśród ludzi większego grabieżcy, mordercy i okrutnika niż Kritiasz w czasach oligarchii, a w czasach demokracji nie było większego rozpustnika, warchoła i gwałciciela wolności niż Alkibiades" 19, lecz i Sokates w oczach współ­ czesnych mu uchodzil za sofistę: „Dlatego, Ateńczycy, straciliście Sokratesa sofistę, ponieważ wiadomo było, że wychował Kritiasza, jednego z Trzydziestu Tyranów,
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 173-173 | Added on Tuesday, 3 May 2022 18:38:07
+
 
 Kallikles w Platońskim Gorgiaszu był głosicielem prawa silniejszego, pojmowanego przezeń jako prawo
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 173-173 | Added on Tuesday, 3 May 2022 18:38:52
+
 
 Kallikles nie musiał sam tworzyć określonej koncepcji natury i jej prawa dla uzasadnienia swych działań. Koncepcję taką możemy odtworzyć na podstawie zachowanych fragmentów pism Kritiasza, który ją niewątpliwie stworzył. Kritiasz nie był wprawdzie sofistą „z zawodu", choć miano sofisty nadał mu Filostratos21 nazywając
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 174-174 | Added on Tuesday, 3 May 2022 18:39:29
+
 
 słynęli z przewrotności", lecz w kręgu sofistyki sytuowały go poglądy filozoficzne, zwłaszcza te, które dotyczyły bytu społecznego człowieka, genezy państwa, prawa i religii. W jego bogatej spuściźnie nie znajdujemy wprawdzie wyrażonej explicite apologii prawa silniejszego, lecz z powodzeniem moglibyśmy przypisać mu wypowiedzi Kalliklesa, jako wynikające z ustaleń filozoficznych Kritiasza. Najlepszą zresztą ilustracją stosunku Kritiasza do koncepcji prawa silniejszego jest jego życie i działalność
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 174-174 | Added on Tuesday, 3 May 2022 18:40:13
+
 
 . .ritiasz żył w latach 460/455?/-403. Pochodził ze starego rodu, wywodzącego swój początek od króla ateńskiego Kodrosa; był krewnym Platona 22. W 4 1 5 roku uwięziono go jako jednego
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 174-174 | Added on Tuesday, 3 May 2022 18:40:49
+
 
 , wycinanie świętych drzew, pogwałcenie prawa azylu. W słynnym procesie hermokopidów w stan
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 174-174 | Added on Tuesday, 3 May 2022 18:41:09
+
 
 z oskarżonych w procesie hermokopidów 23. Jego ojciec, Kallaischros, brał czynny udział w przewrocie oligarchicznym w 4 1 1 roku, w którym niebagatelną rolę odgrywać musiał i Kritiasz. W 407 roku, gdy Ateń­ czycy po przegranej bitwie pod Notion odebrali dowództwo floty Alkibiadesowi, wygnany Kritiasz udał się do Tessalii, „tam zaś sprzymierzył się z ludźmi, którzy woleli stosować w działaniu
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 174-174 | Added on Tuesday, 3 May 2022 18:41:24
+
 
 przebywał w kręgu uczniów Gorgiasza i Trazymacha. Na mocy ogłoszonej po upad.u Aten w 404 roku amnestii wrócił do ojczyzny. Wybrany do Kolegium Trzydziestu (nie bez wpływu wodza wojsk spartańsz2
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 175-175 | Added on Tuesday, 3 May 2022 18:43:45
+
 
 które formalnie miało być komisją do opracowania zasad nowej konstytucji dla Aten, przekształcił je szybko w organ nieograniczonej władzy, po zlikwidowaniu przr;:ódcy umiarkowanej frakcji Teramenesa 2 • Kritiasz i Charykles wprowadzili w Atenach rządy tenoru; ich ofiarą padli nie tylko dEmokraci, lecz i bogaci obywatele i metojkowie; ich to dziełem był wydany zakaz nauczania retoryki. W 403 roku w bitwie pod Munichią zginął Kritiasz wraz z Charyklesem i innymi oligarchami. Na ich grobie umieszczono kamień z napisem: „Pomnik ten wzniesiono ku czci mężów, którzy choć na krótki czas okiełznali zuchwałą butę przeklętego ateń­ skiego
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 175-175 | Added on Tuesday, 3 May 2022 18:44:11
+
 
 oparte niewątplwie na badaniach i studiach porównawczych traktaty o ustrojach politycznych Aten, Tessalii i Sparty (Politeia Athenaion, Politeia Thettalon, Politeia Lakedaimonion)27, na uwagę zasługuje fakt, iż tę samą problematykę podejmował w poez1i 28. Zachował się fragment wierszowane�o Ustroju politycznego Lacedemończyków 2 , napisanego w dystychu elegijnym. Zarówno traktat prozaiczny, jak i wierszowany, poświęcony Sparcie, ma charakter pochwały spartańskich obyczajów, trybu życia i mądrości. Z uznaniem wyrażał się Kritiasz i o mądrym przygotowywaniu się rodziców do wydania na świat zdrowego potomstwa 30, o wygodnych
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 176-176 | Added on Tuesday, 3 May 2022 18:44:47
+
 
 tach 31 i sprzętach domowych :2, o wstrzemię­ źliwości i dbałości o zdrowie 33. „Lacedemoń­ czykiem był mędrzec Chilon, który powiedział: «Nic ponad miarę; wszystko jest piękne tylko w odpowiednim momencie)" 34• Aprobatę Kritiasza zyskało utrzymywanie przez Spartan stałej gotowości do walki z helotami, których uważał za niewolników 35. Podkreślał szczególnie to, iż przydomek „dobrzy" (agathoi), będący odzwierciedleniem tych cech człowieka i obywatela , który Kritiasz cem u Lacedemończyków, zyskują oni przez ćwiczenie (melete), a nie z natury
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 176-176 | Added on Tuesday, 3 May 2022 18:45:49
 
 Jao uczeń sofistów i Sokratesa nie mógł pominąć roli i znaczenia rozumu, dlatego w poemacie
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 176-176 | Added on Tuesday, 3 May 2022 18:45:51
+
 
 Jao uczeń sofistów i Sokratesa nie mógł pominąć roli i znaczenia rozumu, dlatego w poemacie
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 176-176 | Added on Tuesday, 3 May 2022 18:45:58
 
 Ponadto odnajdujemy w nich uznanie dla sił, przede wszystkim fizycznej. Jao uczeń sofistów i Sokratesa nie mógł pominąć roli i znaczenia rozumu, dlatego w poemacie przypomniał, iż mędrzec Chilon był Lacedemończykiem; dlatego stwierdził, że dla siebie pragnąłby bogactwa Skopadów, wielkiej mądrości Kimona, a z dokonań Sparty chciał­ by mieć tylko zwycięstwa Lacedemończyka Arkesilaosa 37• Inne pisma prozaiczne Kntiasza to Aforyzmy (Aforismoi) w dwóch księgach, Rozmowy (Homiliai) w dwóch księgach, O naturze namiętności lub dzielności (Peri fyseos eroton e areton), Wstępy do mów polttycznych (Demegorika prooimia) 38. Pisał ponad- 31 Tamże B 34. 32 Tamże B 35. 3 Tamże B 6, 36. 34 Tamże B 7. 35 Tamże B 37. 36 Tamze B 9. 37 Tamże B 8. 38 Tamże A 19. 183
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 176-176 | Added on Tuesday, 3 May 2022 18:46:10
 
 Ponadto odnajdujemy w nich uznanie dla sił, przede wszystkim fizycznej
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 176-176 | Added on Tuesday, 3 May 2022 18:46:25
+
 
 Inne pisma prozaiczne Kntiasza to Aforyzmy (Aforismoi) w dwóch księgach, Rozmowy (Homiliai) w dwóch księgach, O naturze namiętności lub dzielności (Peri fyseos eroton e areton), Wstępy do mów polttycznych (Demegorika prooimia
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 177-177 | Added on Tuesday, 3 May 2022 18:48:35
 
 utwory poetyckie, z którch, oprócz wspomnianych wierszowanych Politeiai, znamy fragmenty heksametryczne i elegijne jako tzw. katalog wynalazków 39, Pochwała Alkibiadesa 40• Pisał także dramaty (Tennes, Radamantys, Peirithoos), które jeszcze w starożytności zostały włączone do tzw. Corpus Euripidaeum i czytywane w okresie Cesarstwa Rzymskiego. Napisał ponadto dramat satyryczny Syzyf. Platon w Timajosie przypisuje Kritiaszowi wszechstronną wiedzę
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 177-177 | Added on Tuesday, 3 May 2022 18:48:48
+
 
 wszechstronne zainteresowania, w których znajdowała się niewątpliwie i filozofia przyrody
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 177-177 | Added on Tuesday, 3 May 2022 18:49:18
+
 
 Kritiaszowa koncepcja człowieka - bytu podległego prawom przyrody, który zgodnie z tymi prawami nie może oczekiwać niczego poza śmiercią i nieszczęściami 41• Wrodzonym popędem człowieka jest egoizm, dzięki któremu może on torować sobie drogę w życiu, może górować nad innymi. Dlatego popędu nie trzeba tłumić, a wręcz przeciwnie, należy go uznać za zasadę życiową. Egoizm jest punktem odniesienia w ocenach działań ludzkich oraz w klasyfikacjach wartości. Zgodnie z tym, rozwa�ą jest dlań pilnowanie własnych interesów 4 , przestrzega więc, by w stosunkach z przyjaciółmi, dla dobra przyjaźni, kierować się egoizmem 43• Egoizm jest źródłem namiętności, te zaś inspirują wszelkie dążenia
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 178-178 | Added on Tuesday, 3 May 2022 18:49:43
+
 
 ludzi: do sławy, bogactwa, dzielności czy władzy44 Właściwego wyboru kierunku swych dążeń dokonuje człowiek dzięki rozumowi. W pismach Aforyzmy i Rozmowy, które miały niewątpliwie charakter filozoficzny, zajmował się problematyką teoriopoznawczą Wszelkiego ·rodzaju działalność poznawcza dokonuje się zarówno dzięki zmysłom, jak i rozumowi, lecz rozum powinien weryfikować dane zmysłów, postrzeżenia bowiem mogą sprowadzić człowieka na manowce. Właściwe posługiwanie się rozumem wymaga ćwiczenia (askesis) 45, sprawność ta nie jest dana człowiekowi z natury. Kritiasz, zafascynowany być może spartańskim kultem siły i zdrowia fizycznego, dla określenia właściwego posługiwania się rozumem używa terminu „być zdrowym
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 178-178 | Added on Tuesday, 3 May 2022 18:50:08
+
 
 Rozum może zapewnić człowiekowi panowanie nad innymi ludźmi -
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 178-178 | Added on Tuesday, 3 May 2022 18:50:17
+
 
 Według Kritiasza społeczeństwo, prawo i religia powstają na określonym etapie rozwoju ludzkości. Przed ich powstaniem ludzie żyli - jak w teorii Protagorasa czy Prodikosa - życiem „podobnym do życia dzikich zwierząt" 48, w którym przewagę mieli silniejsi, tzn. ci, którzy odznaczali się większą siłą
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 179-179 | Added on Tuesday, 3 May 2022 18:51:30
+
 
 Ludzie w stanic natury wyróżniali się szczególnie dwiema cechami: skłonnością do popełniania występków i pychą. Społeczne bytowanie wnożliwiło ustanowienie praw drogą umowy społecznej. Podstawową funkcją praw było karanie za występki; w ten sposób w świadomości ludzi zrodził się strach przed karą jako jedyny czynnik ograniczający wrodzone złe popędy. Strach przed prawem jednak nie powstrzymywał ludzi przed popeł­ nianiem zbrodni potatemnych. Wtedy to „mąż przemyślny i mądry" 9, odkrywszy, iż jedynie strach gwarantuje utrzymanie więzi społecznej, „wynalazł" bogów
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 179-179 | Added on Tuesday, 3 May 2022 18:53:03
 
 Religia była więc, według Kritiasza, tworem ludzkim, ale w przeciwieństwie do Prodikosa (uważającego, że jej źródłem jest wdzięczność ludzi, a kształtuje ją akt umowy społecznej) i w odróżnieniu od Demokryta, który jej źródeł upatruje w strachu ludzi przed żywiołami), Kritiasz przypisywał jej stworzenie wybitnej jednostce górującej nad innymi rozumnością. W koncepcji Prodikosa religia pełniła pozytywną funkcję, zarówno jeśli chodzi o jednostkowego człowieka, jak i o państwo przez
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 179-179 | Added on Tuesday, 3 May 2022 18:53:12
 
 przekształcenie natury ludzkiej jako jeden
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 180-180 | Added on Tuesday, 3 May 2022 18:55:25
+
 
 elementów kultutwórczych
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 180-180 | Added on Tuesday, 3 May 2022 19:16:46
 
 męża przemyślnego", przemyślnością swą górującego nad innymi. Jego wyż­ szość nad innymi przedstawicielami rodzaju ludzkiego polega nie na sile fizycznej. Rozum, większy niż u innych, pozwolił mu na odkrycie istoty natury ludzkiej i jej słabości, na ustalenie, iż człowiek jest skłonny do złego, a powstrzymać go może tylko strach. Nie podporządkowuje się on prawom stanowionym przez siebie i sobie podobnych, ponieważ prawa te nie mogą ogarnąć swym zasięgiem wszelkich dziedzin ludzkiego życia i działalności. Potrzebne jest mu zatem prawo
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 180-180 | Added on Tuesday, 3 May 2022 19:19:30
+
 
 religia jest więc narzędziem, dzięki któremu człowiek może panować nad innymi. I to jest właśnie prawo silniejszego. * * *
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 180-180 | Added on Tuesday, 3 May 2022 19:20:08
+8
 
 Koncepcja prawa silniejszego musiała być popularna w Atenach w okresie burzliwych dysput nad najlepszym ustrojem toczonych przez partie polityczne, jak też wśród szukających dla tego ustroju uzasadnień filozoficznych
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 181-181 | Added on Tuesday, 3 May 2022 19:20:34
+
 
 Zachowany w zbiorze pism Ksenofonta traktat Ustrój polityczny Aten (Athenaion politeia) był przedmiotem badań wielu uczonych usiłujących ustalić imię prawdziwego autora 50. Problem ten do tej pory nie został rozwiązany, niemniej nie ulega wątpliwości fakt, iż autor musiał być uczniem sofistów - zwolenników prawa silniejszego, a przede wszystkim Trazymacha, z jego teorią głoszą­ cą, iż w każdej strukturze politycznej realizuje się prawo silniejszego
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 181-181 | Added on Tuesday, 3 May 2022 19:23:07
+
 
 Autor traktatu zaznaczył we wstępie, że sam z przekonań nie jest zgoła zwolennikiem demokracji, ponieważ ustrój ten przedkłada korzyść „złych" (poneroi, kakoi) nad korzyść „dobrych" (chrestoi, agathoi
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 181-181 | Added on Tuesday, 3 May 2022 19:24:49
 
 Liczebność demokratów stanowi o ich sile, ich prawa zatem, jako prawa większości, są prawami silniejszego. Prawo silniejszego dopuszcza łamanie zaprzysiężonych układów i sojuszy, jeśli sprzyja to interesom rządzących; dopuszcza usuwanie przeciwników politycznych przez pozbawienie ich praw obywatelskich; dopuszcza też prowadzenie intryg politycznych, manipulowanie państwami sprzymierzonymi. Z tych powodów ustrój demokratyczny jest ustrojem obiektywnie złym (kakonomia), dla Ateńczyków jednak z ich punktu widzenia jest ustrojem dobrym (eunomia). Demokracja bowiem zapewniła Atenom panowanie na morzu
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 182-182 | Added on Tuesday, 3 May 2022 19:25:40
+
 
 W całym traktacie pobrzmiewa ton niechętnego podziwu autora dla ustroju, który w tak sprawny sposób zabezpiecza interesy klasy rządzącej. Stąd też wynika przeświadczenie autora, iż wszelkie próby przewrotów politycznych muszą skończyć się fiaskiem
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 182-182 | Added on Tuesday, 3 May 2022 19:26:01
 
 tzw. Anonim. W 1891 roku F. Blass 52 uznał duże fragmenty Protreptyku Jamblicha za pismo sofisty Antyfonta. Dalsze badania nie potwierdziły autorstwa Antyfonta, przeczy mu bowiem zdecydowanie demokratyczne stanowisko autora pisma
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 182-182 | Added on Tuesday, 3 May 2022 19:26:53
+
 
 Przyjmuje się, iż Jamblich w Protreptyku cytował poglądy anonimowego sofisty. Autor zresztą nie musiał być sofistą z zawodu; był najprawdopodobniej obywatelem ateńskim zaniepokojonym zagrożeniem ustroju i włączającym się w tok dyskusji nad najlepszym ustrojem, szukającym uzasadnienia dla poparcia demokracji. Punktem wyjścia ocen koncepcji prawa silniejszego Anonima było ustalenie treści pojęcia arete
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 183-183 | Added on Tuesday, 3 May 2022 19:28:06
+
 
 Składnikami i siła.Autor, jak Gorgiasz, podkreśla szczególnie konieczność składnikami posługiwania dzielności „w się celach wymienionymi zgodnych z prawem
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 183-183 | Added on Tuesday, 3 May 2022 19:29:02
+
 
 Dążenie zgoła do dobra dzielnościtego , k't'>c zjednuje człowiekowi „miano najlep­ -� l'go", urzeczywistnia się przede wszystkim . : działaniach dla dobra innych. Ich podstawą Jl'Stprawu, według , „takie Anonimabowiem , działania podporządkowanie tworz� się wspólnoty ludzkie i polityczne" ·�i . jednoczą pisma występuje ostro i zdecydowanie Autor przeciwko zwolennikom prawa silniejszego
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 183-183 | Added on Tuesday, 3 May 2022 19:29:32
 
 Teoria prawa i annrchii, bowiem ludzie pochwałą niezdolni bezprawia do życia w pojedynkc stworzyli wspólnoty społeczne i Jest to zgodne polityczne z prawem oparte na praworządności. ła ona człowieka w taki naturysposób, ukształtowa­ bytowaniasic , iż tylko podporządkowanie żliwość . prawom Wyłamać zapewnia się spod mu takich mo­ praw mógłby jedynie „człowiek obdarzony przez naturę takimi właściwościami, jak nieuleganie ranom ani też chorobom, nietykal
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 184-184 | Added on Tuesday, 3 May 2022 19:29:48
 
 ność osobista, równa żelazu siła ciała i duszy [„.] 57, lecz i takiego „nadczłowieka", gdyby nawet pojawił się wśród ludzi, pokonałaby większość praworządnych obywateli
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 184-184 | Added on Tuesday, 3 May 2022 19:30:54
 
 prawo ukształtowane przez ludzi drogą umowy społecznej jako prawo ró­ wności jest tożsame z prawem natury, a zatem prawo silniejszego jest naturze przeciwstawne, oraz wykazując, iż prawo takie jest źró­ dłem anarchii i bezprawia, dlatego że w nim właśnie szuka uzasadnienia tyrania
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 184-184 | Added on Tuesday, 3 May 2022 19:31:38
 
 Traktat Anonima jest wielką pochwałą prawa stanowionego przez ludzi. Autor upatruje w nim podstawy spokojnego i bezpiecznego życia obywateli, przeciwstawiając piękną wizję życia w społeczeństwie praworządnym
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 184-184 | Added on Tuesday, 3 May 2022 19:32:19
+
 
 autor próbuje przezwyciężyć uksztatowane w drugim etapie rozwoju sofistyki antynomie między prawem stanowionym a prawem natury, stawiając między nimi znak równości: „Jeśli bowiem natura stworzyła ludzi niezdolnych do życia w pojedynkę, jeśli połą­ czyli się w społeczność, podporządkowując się konieczności, jeśli w tym celu zostały wynalezione wszelkie środki utrzymania i sztuki, jest zgoła niemożliwe, by ludzie żyjąc ze sobą, żyli w stanie bezprawia (wtedy bowiem doznają większych szkód niż w życiu w pojedynkę). Z tej więc konieczności prawo i sprawiedliwość panują wśród ludzi i nigdy nie może być inaczej. Tak ustanowiła mocą swą natura
 
-
-
-#filozofia #filozofia/współczesna #filozofia/starożytna #sofiści #filozofia/historia_filozofii 
