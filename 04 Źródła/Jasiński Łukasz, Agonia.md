@@ -57,4 +57,4 @@ modified date: 2026-07-22 14:21
 - Ograniczenia dotknęły też pielęgniarek, co pokrzyżowało plany Walmarta, których chciał zrobić sieć klinik z samymi pielęgniarkami.
 - Gdy naziści doszli do władzy w Niemczech, był duży napływ zagranicznych lekarzy do USA. Żeby chronić się przed konkurencją, zrobiono bardziej rygorystyczne wymogi dla uzyskania licencji, przez co odsetek lekarzy zagranicznych, którzy nie dostali licencji wzrósł z 5,7% w 1930 r. do 20,7% w 1940.
 - Nawet jak ktoś świadczy usługi niższej jakości, to nie znaczy, że nie powinien tego robić, jeśli jest na niego popyt. Nie każdy musi jeździć cadillaciem. 
-- 
+- Gdy zaczęły się pojawiać problemy z podażą lekarzy, to rząd federalny i stany zaczęły przyznawać personelowi medycznemu bez uprawnień lekarskich przywileje wykonywania zawodu lekarza. 
