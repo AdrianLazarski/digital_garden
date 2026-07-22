@@ -59,4 +59,4 @@ modified date: 2026-07-22 14:21
 - Nawet jak ktoś świadczy usługi niższej jakości, to nie znaczy, że nie powinien tego robić, jeśli jest na niego popyt. Nie każdy musi jeździć cadillaciem. 
 - Gdy zaczęły się pojawiać problemy z podażą lekarzy, to rząd federalny i stany zaczęły przyznawać personelowi medycznemu bez uprawnień lekarskich przywileje wykonywania zawodu lekarza. 
 - AMA za Roosevelta i |Trumana była przeciwna pomysłom publicznych ubezpieczeń zdrowotnych, bo nie chciała utracić swojej autonomii w dziedzinie zapewnienia opieki zdrowotnej. Skutecznie storpedowała wszelkie inicjatywy federalne.
-- 
+- AMA wspierała za to plany przedpłacone, w których pacjent po zapłaceniu stałej kwoty miał dostęp do dowolnego lekarza/szpitala działającego w ramach danego programu. 
