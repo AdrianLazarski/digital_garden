@@ -24,4 +24,5 @@ modified date: 2026-07-22 14:21
 	- tabela str. 15
 - Dziwna argumentacja, że większość zgonów wśród młodych w USA to wypadki, a nie choroby. Ale nie podał jak to wygląda poza USA.
 - Wskaźnik oczekiwanej długości życia zmienia się wraz z wiekiem. W 2006 roku USA miały wyższy wskaźnik przeżywalności osób po 80 roku życia, niż Szwecja, Francja, Anglia czy Japonia, więc kraje przodujące w oczekiwanej długości życia w momencie urodzenia.
-- 
+- Co do zgonów noworodków, to 75% takich zgonów na świecie jest obliczanych na podstawie niewiarygodnych, pięcioletnich retrospektywnych badań gospodarstw domowych, podczas gdy w USA rejestruje to służba zdrowia. Wiele ludzi unika żmudnego procesu rejestracji takich rzeczy, nie zna procedur, ma obawy religijne i kulturowe, plus nie rozumie terminów, które też mogą się różnić w poszczególnych krajach. Dziecko urodzone w 22. tygodniu w jednym kraju zostanie zarejestrowane jako urodzone żywe i po chwili zmarłe (zgon noworodka), a w innym – jako poronienie. 
+- Niektóre kraje nie ujmują w swoich statystykach zgonów wcześniaków. Tymczasem zgony wcześniaków to 75% wszystkich zgonów noworodków, więc nieuwzgle
