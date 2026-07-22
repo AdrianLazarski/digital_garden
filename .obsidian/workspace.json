@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Bremer Józef, Czy wolna wola jest wolna.md",
+                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,11 +316,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bremer Józef, Czy wolna wola jest wolna"
+              "title": "Crisp, Loux, Współczesne wprowadzenie do metafizyki"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -456,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Bremer Józef, Czy wolna wola jest wolna.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Bremer Józef, Czy wolna wola jest wolna"
+              "title": "Konspekt MOC Dzieła metafizyczne"
             }
           }
         ],
@@ -538,12 +538,15 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "d5d6515ed7563f18",
+  "active": "f537f841cbc3c528",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Bremer Józef, Czy wolna wola jest wolna.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Bez nazwy.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Bartyzel Jacek, W gąszczu liberalizmów.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
-    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Annas Julia, Platon.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Andrzejuk Artur, Elementarz filozofii.md",
@@ -553,7 +556,6 @@
     "02 MOC/MOC Filozofia/MOC Dzieła estetyczne.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Wolniewicz Bogusław, Rzeczy i fakty.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Weaver Richard M., Idee mają konsekwencje.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Tischner Józef, Wędrówki w krainę filozofów.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Tatarkiewicz Władysław, Dzieje sześciu pojęć.md",
@@ -564,8 +566,6 @@
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Strauss Leo, Crospey Joseph, Historia filozofii politycznej.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Stachniuk Jan, Człowieczeństwo i kultura.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia kultury.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie kultury.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

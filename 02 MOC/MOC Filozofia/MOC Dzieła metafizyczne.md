@@ -27,6 +27,8 @@ modified date: 2026-07-03 17:44
 [[Wolniewicz Bogusław, Rzeczy i fakty]], 1968 r.
 [[Kahn Charles, Język i ontologia]], 1973 r.
 [[Krajewski Władysław, Związek przyczynowy]], 1995 r.
+[[Bremer Józef, Czy wolna wola jest wolna]], 2013 r.
+[[Crisp, Loux, Współczesne wprowadzenie do metafizyki]], 2017 r.
 
 
 # Zobacz też:

@@ -12,3 +12,5 @@ modified date: 2026-07-03 17:40
 [[Bartyzel Jacek, W gąszczu liberalizmów]], 2004 r.
 [[Andrzejuk Artur, Elementarz filozofii]], 2007 r.
 [[Łażewska Dorota, Filozofia dla pracujących]], 2011 r.
+[[Bremer Józef, Czy wolna wola jest wolna]], 2013 r.
+[[Crisp, Loux, Współczesne wprowadzenie do metafizyki]], 2017 r.
