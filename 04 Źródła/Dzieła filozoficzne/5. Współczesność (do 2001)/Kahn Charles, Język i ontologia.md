@@ -1,9 +1,13 @@
 ---
 created: 2026-02-28 19:46
-tags: [atom, definicja]
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/metafizyka
+  - filozofia/historia_filozofii
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date : 2026-07-22 19:40
+modified date: 2026-07-22 19:40
 ---
 tytułowy esej z 1973 r.
 

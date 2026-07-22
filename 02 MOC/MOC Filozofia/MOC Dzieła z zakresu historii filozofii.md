@@ -12,6 +12,7 @@ modified date: 2026-07-06 14:08
 [[Bocheński Józef, History of formal logic]], 1956 r.
 [[Voegelin Eric, Świat Polis]], 1957 r.
 [[Voegelin Eric, Platon]], 1957 r.
+[[Kahn Charles, Język i ontologia]], 1973 r.
 [[Barnes Jonathan, Arystoteles]], 1982 r.
 [[Gajda-Krynicka Janina, Sofiści]], 1989 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
@@ -28,11 +29,13 @@ modified date: 2026-07-06 14:08
 # Nowożytność
 
 [[Bocheński Józef, History of formal logic]], 1956 r.
+[[Kołakowski, Główne nurty marksizmu]], 1976 r.
 [[Hoffe Otfried, Immanuel Kant]], 1983 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 
 
 # Współczesność
 
+[[Kołakowski, Główne nurty marksizmu]], 1976 r.
 [[Johnson Paul, Intelektualiści]], 1988 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.

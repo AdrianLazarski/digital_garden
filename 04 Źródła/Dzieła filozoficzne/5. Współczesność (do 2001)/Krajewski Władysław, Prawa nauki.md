@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/nauki
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 20:43
+---
 1998 r.
 
 str 12-27
@@ -112,4 +122,3 @@ s 221-
 - Współczesne unaukowianie nauk społecznych sprawia, że mówie się o social science u anglosasów, a u Francuzów o science sociale.
 
 
-#filozofia #filozofia/współczesna #filozofia/nauki #filozofia/polska 

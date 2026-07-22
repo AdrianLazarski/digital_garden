@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/polityki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 20:42
+---
 1980 r.
 
 - Działalność polityczna nie ma sensu.
@@ -7,5 +17,3 @@
 - Należy unikać płacenia podatków oraz nieustannie namawiać do tego innych
 - Gdy społeczność kontrekonomistów rozrośnie się wystarczająco, musi się pojawić konkurencyjna wobec państwa obronność. Prywatne Agencje Ochroniarskie (PAO) powinny być zrzeszone w syndykacie i gdy wystarczająca ilość społeczeństwa będzie przekonana do wolności, to PAO rozmontowałyby państwo i swój syndykat, stając się niezależnymi od siebie, konkurującymi firmami.
 
-
-#filozofia #filozofia/współczesna #libertarianizm #anarchokapitalizm 

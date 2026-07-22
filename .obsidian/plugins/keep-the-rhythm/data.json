@@ -12828,6 +12828,21 @@
             "timeKey": "19:30",
             "w": 7,
             "c": 53
+          },
+          {
+            "timeKey": "20:35",
+            "w": 7,
+            "c": 45
+          },
+          {
+            "timeKey": "20:40",
+            "w": 20,
+            "c": 158
+          },
+          {
+            "timeKey": "20:45",
+            "w": 6,
+            "c": 54
           }
         ],
         "id": 928
@@ -12860,6 +12875,16 @@
             "timeKey": "19:35",
             "w": 5,
             "c": 42
+          },
+          {
+            "timeKey": "20:35",
+            "w": 7,
+            "c": 45
+          },
+          {
+            "timeKey": "20:40",
+            "w": 12,
+            "c": 96
           }
         ],
         "id": 930
@@ -12958,6 +12983,16 @@
             "timeKey": "19:25",
             "w": 2,
             "c": 13
+          },
+          {
+            "timeKey": "20:35",
+            "w": 7,
+            "c": 45
+          },
+          {
+            "timeKey": "20:45",
+            "w": 6,
+            "c": 54
           }
         ],
         "id": 936
@@ -13097,9 +13132,130 @@
             "timeKey": "19:40",
             "w": 20,
             "c": 151
+          },
+          {
+            "timeKey": "20:35",
+            "w": 5,
+            "c": 73
           }
         ],
         "id": 946
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kołakowski, Główne nurty marksizmu.md",
+        "wordCountStart": 67,
+        "charCountStart": 542,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "20:40",
+            "w": -5,
+            "c": -39
+          }
+        ],
+        "id": 947
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+        "wordCountStart": 140,
+        "charCountStart": 1011,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 14,
+            "c": 112
+          }
+        ],
+        "id": 948
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Konkin Samuel Edward, Nowy manifest libertariański.md",
+        "wordCountStart": 120,
+        "charCountStart": 979,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 18,
+            "c": 118
+          }
+        ],
+        "id": 949
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Krajewski Władysław, Prawa nauki.md",
+        "wordCountStart": 1817,
+        "charCountStart": 13982,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 16,
+            "c": 116
+          }
+        ],
+        "id": 950
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
+        "wordCountStart": 50,
+        "charCountStart": 379,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 6,
+            "c": 46
+          },
+          {
+            "timeKey": "20:45",
+            "w": 10,
+            "c": 66
+          }
+        ],
+        "id": 951
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu metafilozofii.md",
+        "wordCountStart": 160,
+        "charCountStart": 1075,
+        "changes": [],
+        "id": 952
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Krajewski Władysław, Związek przyczynowy.md",
+        "wordCountStart": 215,
+        "charCountStart": 1795,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 25,
+            "c": 210
+          }
+        ],
+        "id": 953
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Krąpiec Mieczysław Albert OP, Metafizyka.md",
+        "wordCountStart": 438,
+        "charCountStart": 3465,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 21,
+            "c": 163
+          }
+        ],
+        "id": 954
       }
     ]
   }

@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-22 20:46
+---
 [[Mieczysław Albert Krąpiec]], 1984 r.
 
 ## Cześć I Byt jako byt

@@ -37,6 +37,9 @@ modified date: 2026-07-03 17:38
 [[Ingarden Roman, Wstęp do fenomenologii Husserla]], 1967 r.
 [[Berlin Isaiah, Cztery eseje o wolności]], 1969 r.
 [[Rothbard Murray, Manifest libertariański]], 1973 r.
+[[Kahn Charles, Język i ontologia]], 1973 r.
+[[Kołakowski, Główne nurty marksizmu]], 1976 r.
+[[Konkin Samuel Edward, Nowy manifest libertariański]], 1980 r.
 [[Barnes Jonathan, Arystoteles]], 1982 r.
 [[Hoffe Otfried, Immanuel Kant]], 1983 r.
 [[Gajda-Krynicka Janina, Sofiści]], 1989 r.
@@ -44,4 +47,6 @@ modified date: 2026-07-03 17:38
 [[Bocheński Józef Maria, Logika i filozofia]], 1993 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 [[Borawska, Górski – Umysłowość średniowiecza]], 1993 r.
+[[Krajewski Władysław, Związek przyczynowy]], 1995 r.
 [[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
+[[Krajewski Władysław, Prawa nauki]], 1998 r.
