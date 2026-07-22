@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/polityki
+  - filozofia/prawa
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 21:33
+---
 [[Murray Rothbard]], *The Ethics of Liberty*, 1982
 
 

@@ -7,6 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-03 17:38
 ---
+# Chronologicznie
 
 [[Bierdiajew Mikołaj, Sens twórczości]], 1915 r.
 [[Wittgenstein Ludwig, Tractatus logico-philosophicus]], 1918 r.
@@ -21,8 +22,10 @@ modified date: 2026-07-03 17:38
 [[Hayek, Nadużycie rozumu]], 1941 r.
 [[Camus Albert, Mit Syzyfa]], 1942 r.
 [[de Jouvenel Bertrand, Traktat o władzy]], 1945 r.
-[[Jaspers Karl, Problem winy]], 1946 r.
 [[Popper Karl, Społeczeństwo otwarte i jego wrogowie]], 1945 r.
+[[Jaspers Karl, Problem winy]], 1946 r.
+[[Russell Bertrand, Dzieje filozofii zachodu]],1946 r.
+[[Stachniuk Jan, Człowieczeństwo i kultura]],1946 r.
 [[Ingarden Roman, Spór o istnienie świata]], 1948 r.
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]], 1949 r.
 [[Jaspers Karl, Wprowadzenie do filozofii]], 1953 r.
@@ -35,6 +38,7 @@ modified date: 2026-07-03 17:38
 [[Fanon Frantz, Wyklęty lud ziemi]], 1961 r.
 [[Popkin Richard, Stroll Avrum,  Filozofia]], 1961 r.
 [[Kuhn Thomas, Struktura rewolucji naukowych]], 1962 r.
+[[Strauss Leo, Crospey Joseph, Historia filozofii politycznej]], 1963 r.
 [[Rand Ayn, Cnota egoizmu]], 1964 r.
 [[MacIntyre Alasdair, Krótka historia etyki]], 1966 r.
 [[Rand Ayn, Introduction to the objectivist epistemology]], 1967 r.
@@ -42,14 +46,18 @@ modified date: 2026-07-03 17:38
 [[Ingarden Roman, Wstęp do fenomenologii Husserla]], 1967 r.
 [[Leśniak Kazimierz, Platon]], 1968 r.
 [[Berlin Isaiah, Cztery eseje o wolności]], 1969 r.
+[[Rand Ayn, The Romantic Manifesto]], 1969 r.
 [[Rothbard Murray, Manifest libertariański]], 1973 r.
 [[Kahn Charles, Język i ontologia]], 1973 r.
+[[Reale Giovanni, Historia filozofii starożytnej II]], 1975 r.
 [[Kołakowski, Główne nurty marksizmu]], 1976 r.
 [[Konkin Samuel Edward, Nowy manifest libertariański]], 1980 r.
 [[Barnes Jonathan, Arystoteles]], 1982 r.
 [[Pelc Jerzy, Wstęp do semiotyki]], 1982 r.
+[[Rothbard Murray, Etyka wolności]], 1982 r.
 [[Hoffe Otfried, Immanuel Kant]], 1983 r.
 [[Krąpiec Mieczysław Albert OP, Metafizyka]], 1984 r.
+[[Rand Ayn, The Voice of Reason]], 1988 r.
 [[Gajda-Krynicka Janina, Sofiści]], 1989 r.
 [[Davila Nicolas Gomez, Następne scholia do tekstu implicite]], 1992 r.
 [[Bocheński Józef Maria, Logika i filozofia]], 1993 r.
@@ -58,10 +66,12 @@ modified date: 2026-07-03 17:38
 [[Krajewski Władysław, Związek przyczynowy]], 1995 r.
 [[Kuehnelt-Leddihn von Erik, Demokracja – opium dla ludu]], 1996 r.
 [[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
+[[Scruton Roger, Przewodnik po filozofii dla inteligentnych]], 1996 r.
 [[Krajewski Władysław, Prawa nauki]], 1998 r.
 [[Lenartowicz Piotr, Wprowadzenie do zagadnień filozoficznych]], 1998 r.
 [[Opara Stanisław, Podstawy filozofii]], 1999 r.
-
+[[Swieżawski Stefan, Człowiek średniowieczny]], 1999 r.
+[[Rorty Richard, Filozofia a nadzieja na lepsze społeczeństwo]], 2000 r.
 
 
 

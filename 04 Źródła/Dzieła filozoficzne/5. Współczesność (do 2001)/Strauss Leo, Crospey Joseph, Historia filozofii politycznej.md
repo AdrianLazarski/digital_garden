@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/polityki
+  - ref
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 21:43
+---
 [[Leo Strauss]], *History of Political Philosophy*, 1963 r.
 
 Przedmowa, P. Nowak

@@ -12866,8 +12866,28 @@
           },
           {
             "timeKey": "21:25",
-            "w": 9,
-            "c": 68
+            "w": 16,
+            "c": 114
+          },
+          {
+            "timeKey": "21:30",
+            "w": 32,
+            "c": 223
+          },
+          {
+            "timeKey": "21:35",
+            "w": 17,
+            "c": 144
+          },
+          {
+            "timeKey": "21:40",
+            "w": 16,
+            "c": 126
+          },
+          {
+            "timeKey": "21:45",
+            "w": 6,
+            "c": 56
           }
         ],
         "id": 928
@@ -12926,6 +12946,21 @@
             "timeKey": "21:15",
             "w": 7,
             "c": 55
+          },
+          {
+            "timeKey": "21:30",
+            "w": 8,
+            "c": 63
+          },
+          {
+            "timeKey": "21:35",
+            "w": 28,
+            "c": 220
+          },
+          {
+            "timeKey": "21:45",
+            "w": 48,
+            "c": 404
           }
         ],
         "id": 930
@@ -12973,7 +13008,13 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
         "wordCountStart": 169,
         "charCountStart": 1344,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 6,
+            "c": 43
+          }
+        ],
         "id": 933
       },
       {
@@ -13081,6 +13122,11 @@
             "timeKey": "19:25",
             "w": 6,
             "c": 40
+          },
+          {
+            "timeKey": "21:40",
+            "w": 7,
+            "c": 53
           }
         ],
         "id": 939
@@ -13129,6 +13175,11 @@
             "timeKey": "21:20",
             "w": 7,
             "c": 54
+          },
+          {
+            "timeKey": "21:35",
+            "w": 9,
+            "c": 71
           }
         ],
         "id": 941
@@ -13236,6 +13287,16 @@
             "timeKey": "20:45",
             "w": 9,
             "c": 68
+          },
+          {
+            "timeKey": "21:30",
+            "w": 14,
+            "c": 88
+          },
+          {
+            "timeKey": "21:40",
+            "w": 9,
+            "c": 73
           }
         ],
         "id": 948
@@ -13541,6 +13602,234 @@
           }
         ],
         "id": 969
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rand Ayn, The Romantic Manifesto.md",
+        "wordCountStart": 3845,
+        "charCountStart": 28709,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 15,
+            "c": 84
+          }
+        ],
+        "id": 970
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła estetyczne.md",
+        "wordCountStart": 21,
+        "charCountStart": 163,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 7,
+            "c": 49
+          }
+        ],
+        "id": 971
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rand Ayn, The Voice of Reason.md",
+        "wordCountStart": 773,
+        "charCountStart": 4621,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -54,
+            "c": -402
+          },
+          {
+            "timeKey": "21:30",
+            "w": -12,
+            "c": -126
+          }
+        ],
+        "id": 972
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Reale Giovanni, Historia filozofii starożytnej II.md",
+        "wordCountStart": 4196,
+        "charCountStart": 30171,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -6,
+            "c": -64
+          }
+        ],
+        "id": 973
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rorty Richard, Filozofia a nadzieja na lepsze społeczeństwo.md",
+        "wordCountStart": 129,
+        "charCountStart": 1054,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 16,
+            "c": 111
+          }
+        ],
+        "id": 974
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rothbard Murray, Etyka wolności.md",
+        "wordCountStart": 5229,
+        "charCountStart": 37795,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 25,
+            "c": 208
+          }
+        ],
+        "id": 975
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
+        "wordCountStart": 38,
+        "charCountStart": 309,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 6,
+            "c": 45
+          }
+        ],
+        "id": 976
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Russell Bertrand, Dzieje filozofii zachodu.md",
+        "wordCountStart": 1017,
+        "charCountStart": 7180,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 16,
+            "c": 113
+          }
+        ],
+        "id": 977
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Scruton Roger, Przewodnik po filozofii dla inteligentnych.md",
+        "wordCountStart": 174,
+        "charCountStart": 1367,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 35,
+            "c": 235
+          }
+        ],
+        "id": 978
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Stachniuk Jan, Człowieczeństwo i kultura.md",
+        "wordCountStart": 2154,
+        "charCountStart": 16731,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 20,
+            "c": 158
+          },
+          {
+            "timeKey": "21:40",
+            "w": 5,
+            "c": 64
+          }
+        ],
+        "id": 979
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 28,
+            "c": 220
+          }
+        ],
+        "id": 980
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia kultury.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 30,
+            "c": 236
+          }
+        ],
+        "id": 981
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofowie kultury.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 24,
+            "c": 201
+          }
+        ],
+        "id": 982
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Strauss Leo, Crospey Joseph, Historia filozofii politycznej.md",
+        "wordCountStart": 732,
+        "charCountStart": 5416,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 23,
+            "c": 195
+          }
+        ],
+        "id": 983
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Swieżawski Stefan, Człowiek średniowieczny.md",
+        "wordCountStart": 410,
+        "charCountStart": 3049,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 14,
+            "c": 90
+          }
+        ],
+        "id": 984
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej.md",
+        "wordCountStart": 1464,
+        "charCountStart": 10777,
+        "changes": [],
+        "id": 985
       }
     ]
   }

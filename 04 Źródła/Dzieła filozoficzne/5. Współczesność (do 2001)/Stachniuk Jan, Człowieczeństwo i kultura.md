@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - recenzja
+  - filozofia/współczesna
+  - filozofia/kultury
+  - filozofia/antropologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-07-22 21:39
+---
 [[Jan Stachniuk]], 1946 r.
 
 -Druga Rzeczpospolita to miniatura pierwszej. Nastąpiła recydywa saska.

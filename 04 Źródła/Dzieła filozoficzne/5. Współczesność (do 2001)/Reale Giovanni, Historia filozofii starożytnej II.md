@@ -1,12 +1,9 @@
 ---
 created: 2024-03-16 16:15
 tags:
-  - filozofia/starożytna
   - filozofia/historia_filozofii
-  - filozofia/dzieła
   - ref
-  - filozofia/grecka
-  - filozofia/włoska
+  - filozofia/współczesna
 modified date: 2025-12-03 10:27
 Rok oryginału: "1975"
 Rok wydania: "2001"
@@ -15,7 +12,7 @@ Moja ocena: "7"
 ---
 
 
-## [[Platon]]
+# [[Platon]]
 
 - Centralny tekst Fedona to pierwsze racjonalne przedstawienie i uzasadnienie rzeczywistości ponadzmysłowej i transcendentnej.
 - Platon przyznaje, że w młodości zajmował się filozofią przyrody, ale zauważył, że czysto fizyczne wyjaśnianie rzeczy nie jest adekwatne.
@@ -47,7 +44,7 @@ Moja ocena: "7"
 
 Pitagorejczycy nazywali jedno imieniem Apollo, bo a to zaprzeczenie, a pollon oznacza wiele.
 
-## Arystoteles
+# Arystoteles
 
 - W Akademii Platońskiej wykładał retorykę.
 - Poznał w niej Eudoksosa z Knidos.

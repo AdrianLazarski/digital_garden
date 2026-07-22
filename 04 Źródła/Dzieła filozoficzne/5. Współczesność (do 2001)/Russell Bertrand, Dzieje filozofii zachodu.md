@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/historia_filozofii
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 21:35
+---
 [[Bertrand Russell]], *A History of Western Philosophy*, 1946 r.
 
 Dzieje filozofii kazał mu napisać jakiś milioner za spore pieniądze. W trakcie milioner się rozmyślił i Russell go podał do sądu. Filozof wygrał i sąd mu zagwarantował pełną sumę, o ile skończy książkę. No i z wyrokiem w kieszeni Russellowi już odechciało się skrupulanctwa i resztę książki napisał na kolanie.
@@ -61,4 +71,3 @@ Jednakże choć słownik lub encyklopedia podają coś, co można nazwać oficja
 
 - Napisał, że w polis Platona, że pierwsi rządzący mieli zostać wybrani przez prawodawcę, a później urząd miał być przekazywany dziedzicznie. Wtf.
 
-#filozofia #filozofia/współczesna #filozofia/brytyjska #filozofia/historia_filozofii 

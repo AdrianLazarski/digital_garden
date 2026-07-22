@@ -1,4 +1,14 @@
-[[Ayn Rand]], 1969
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/estetyka
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 21:27
+---
+[[Ayn Rand]], 1969 r.
 
 ## Wstęp
 
@@ -378,4 +388,3 @@ To atrybuty, nie oddzielne części.
 
 
 
-#filozofia #filozofia/współczesna #filozofia/amerykańska #filozofia/estetyka  #libertarianizm #obiektywizm 

@@ -19,11 +19,14 @@ modified date: 2026-07-06 14:06
 [[Voegelin Eric, Świat Polis]], 1957 r.
 [[Voegelin Eric, Platon]], 1957 r.
 [[Fanon Frantz, Wyklęty lud ziemi]], 1961 r.
+[[Strauss Leo, Crospey Joseph, Historia filozofii politycznej]], 1963 r.
 [[Adorno Theodor, Nowy prawicowy radykalizm]], 1967 r.
 [[Berlin Isaiah, Cztery eseje o wolności]], 1969 r.
 [[Rothbard Murray, Manifest libertariański]], 1973 r.
 [[Kołakowski, Główne nurty marksizmu]], 1976 r.
 [[Konkin Samuel Edward, Nowy manifest libertariański]], 1980 r.
+[[Rothbard Murray, Etyka wolności]], 1982 r.
+[[Rand Ayn, The Voice of Reason]], 1988 r.
 [[Kuehnelt-Leddihn von Erik, Demokracja – opium dla ludu]], 1996 r.
 [[Juruś Dariusz, Dzieje własności prywatnej]], 2014 r.
 [[Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii]], 2019 r.

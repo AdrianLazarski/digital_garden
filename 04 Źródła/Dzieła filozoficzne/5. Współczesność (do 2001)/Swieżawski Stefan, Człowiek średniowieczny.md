@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 21:45
+---
 1999 r.
 
 Platon heroldem chrześcijaństwa. Umieszczano go na fasadach gotyckich katedr obok figur proroków. Najbardziej przygotował grunt na przyjęcie Boga osobowego i na zrozumienie porządku nadprzyrodzonego.
@@ -16,4 +26,3 @@ Z ciekawych wątków to jeszcze warto wspomnieć, że Swieżawski kwestionuje hu
 Jakoś specjalnie nie polecam, ale jest to oczywiście poważna pozycja, więc jeśli coś was z tego zainteresowało, to warto po nią sięgnąć.
 
 
-#filozofia #filozofia/średniowieczna #filozofia/historia_filozofii #filozofia/polska #filozofia/współczesna 
