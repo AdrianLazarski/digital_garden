@@ -12848,6 +12848,16 @@
             "timeKey": "20:50",
             "w": 8,
             "c": 73
+          },
+          {
+            "timeKey": "21:10",
+            "w": 10,
+            "c": 88
+          },
+          {
+            "timeKey": "21:15",
+            "w": 13,
+            "c": 104
           }
         ],
         "id": 928
@@ -12896,6 +12906,16 @@
             "timeKey": "20:40",
             "w": 12,
             "c": 96
+          },
+          {
+            "timeKey": "21:10",
+            "w": 5,
+            "c": 39
+          },
+          {
+            "timeKey": "21:15",
+            "w": 7,
+            "c": 55
           }
         ],
         "id": 930
@@ -13079,6 +13099,11 @@
             "timeKey": "19:35",
             "w": 31,
             "c": 250
+          },
+          {
+            "timeKey": "21:10",
+            "w": 15,
+            "c": 129
           }
         ],
         "id": 941
@@ -13319,6 +13344,89 @@
           }
         ],
         "id": 957
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Leśniak Kazimierz, Platon.md",
+        "wordCountStart": 504,
+        "charCountStart": 3637,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 21,
+            "c": 172
+          }
+        ],
+        "id": 958
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Łażewska Dorota, Filozofia dla pracujących.md",
+        "wordCountStart": 1740,
+        "charCountStart": 13021,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 13,
+            "c": 70
+          }
+        ],
+        "id": 959
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/MacIntyre Alasdair, Krótka historia etyki.md",
+        "wordCountStart": 2091,
+        "charCountStart": 14532,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 25,
+            "c": 218
+          },
+          {
+            "timeKey": "21:15",
+            "w": -7,
+            "c": -72
+          }
+        ],
+        "id": 960
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+        "wordCountStart": 71,
+        "charCountStart": 475,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 7,
+            "c": 55
+          }
+        ],
+        "id": 961
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Mises Ludwig von, Mentalność antykapitalistyczna.md",
+        "wordCountStart": 853,
+        "charCountStart": 6262,
+        "changes": [],
+        "id": 962
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Opara Stanisław, Podstawy filozofii.md",
+        "wordCountStart": 6,
+        "charCountStart": 45,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 21,
+            "c": 166
+          }
+        ],
+        "id": 963
       }
     ]
   }

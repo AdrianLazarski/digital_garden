@@ -34,8 +34,10 @@ modified date: 2026-07-03 17:38
 [[Voegelin Eric, Platon]], 1957 r.
 [[Fanon Frantz, Wyklęty lud ziemi]], 1961 r.
 [[Kuhn Thomas, Struktura rewolucji naukowych]], 1962 r.
+[[MacIntyre Alasdair, Krótka historia etyki]], 1966 r.
 [[Adorno Theodor, Nowy prawicowy radykalizm]], 1967 r.
 [[Ingarden Roman, Wstęp do fenomenologii Husserla]], 1967 r.
+[[Leśniak Kazimierz, Platon]], 1968 r.
 [[Berlin Isaiah, Cztery eseje o wolności]], 1969 r.
 [[Rothbard Murray, Manifest libertariański]], 1973 r.
 [[Kahn Charles, Język i ontologia]], 1973 r.
@@ -54,3 +56,11 @@ modified date: 2026-07-03 17:38
 [[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
 [[Krajewski Władysław, Prawa nauki]], 1998 r.
 [[Lenartowicz Piotr, Wprowadzenie do zagadnień filozoficznych]], 1998 r.
+Opara Stanisław, Podstawy filozofii
+
+
+
+
+
+
+[[Łażewska Dorota, Filozofia dla pracujących]], 2011 r.

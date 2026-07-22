@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 21:13
+---
 
 Józefów 2011
 
@@ -150,6 +159,3 @@ wymagają szacunku. W niektórych przypadkach zwierzęta mogą mieć nawet
 większe prawo do życia niż ludzie upośledzeni umysłowo. Nie należy zatem
 uważać, że człowiek jest kimś wyjątkowym oraz traktować jego życia jako cen-
 niejszego od życia zwierząt440.
-
-
-#filozofia #filozofia/historia_filozofii #filozofia/współczesna #filozofia/polska #recenzja 

@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/etyka
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 21:14
+---
 *A Short History of Ethics*, 1966 r.
 PL 1993 r.
 
@@ -116,4 +127,3 @@ Chyba że, znowu, autor chciałby żeby tym rozumieniem dobrych czynów i etyczn
 To wtedy niech pisze do Pelagiusza po wsparcie bo to ten kierunek.
 
 
-#filozofia #filozofia/współczesna #filozofia/etyka #filozofia/brytyjska 

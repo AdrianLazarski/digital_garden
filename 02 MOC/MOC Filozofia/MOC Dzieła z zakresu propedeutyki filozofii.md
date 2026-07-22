@@ -14,3 +14,5 @@ modified date: 2026-07-06 13:55
 [[Jaspers Karl, Wprowadzenie do filozofii]], 1953 r.
 [[Hospers John, Wprowadzenie do analizy filozoficznej]], 1953 r.
 [[Bocheński Józef Maria, Współczesne metody myślenia]], 1954 r.
+[[Lenartowicz Piotr, Wprowadzenie do zagadnień filozoficznych]], 1998 r.
+[[Łażewska Dorota, Filozofia dla pracujących]], 2011 r.

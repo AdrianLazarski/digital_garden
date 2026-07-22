@@ -12,6 +12,8 @@ modified date: 2026-07-06 14:08
 [[Bocheński Józef, History of formal logic]], 1956 r.
 [[Voegelin Eric, Świat Polis]], 1957 r.
 [[Voegelin Eric, Platon]], 1957 r.
+[[MacIntyre Alasdair, Krótka historia etyki]], 1966 r.
+[[Leśniak Kazimierz, Platon]], 1968 r.
 [[Kahn Charles, Język i ontologia]], 1973 r.
 [[Barnes Jonathan, Arystoteles]], 1982 r.
 [[Gajda-Krynicka Janina, Sofiści]], 1989 r.
