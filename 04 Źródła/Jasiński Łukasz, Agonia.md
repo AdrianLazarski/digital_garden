@@ -38,5 +38,10 @@ modified date: 2026-07-22 14:21
 - USA 27 urządzeń do rezonansu magnetycznego/mln, Kanada i UK po 6.
 - Amerykanie mają wysokie wskaźniki przeżywalności różnych nowotworów.
 - W latach 1969-2008 Amerykanie zgarnęli lub podzielili się Noblem w fizjologii medycynie 57 razy, a badacze z UE, Szwajcarii, Kanady, Japonii i Australii łącznie 40 razy.
-- W 2013 roku 76% Amerykanów czekało na wizytę do specjalisty mniej niż 4 tygodnie. Tylko 6% czekało dłużej, niż dwa miesiące.
-	- Z kolei dostęp do lekarza lub pielęgniarki w trakcie choroby
+- W 2013 roku 76% Amerykanów czekało na wizytę do specjalisty mniej niż 4 tygodnie. Tylko 6% czekało dłużej, niż dwa miesiące. (3 miejsce na świecie)
+	- Z kolei dostęp do lekarza lub pielęgniarki w trakcie choroby pierwszego lub następnego dnia ma tylko 48%, zaś 26% czekało 6 dni lub dłużej. (9 miejsce)
+
+
+# 2. Amerykańskie Towarzystwo Medyczne AMA
+
+- 
