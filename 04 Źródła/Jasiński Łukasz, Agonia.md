@@ -31,4 +31,12 @@ modified date: 2026-07-22 14:21
 - Istotny jest też wzrost urodzeń mnogich, związanych z wyższym wiekiem zachodzenia w ciąże. A ciąże mnogie są bardziej obciążone zgonami i przedwczesnymi poronieniami.
 - Co ciekawe dzięki rozwojowi medycyny i technologii noworodki o niskiej masie ciała i tak mają większe szanse na przeżycie w USA, niż w Japonii, czy Norwegii.
 - Problem z danymi przy zgonach noworodków jest też kluczowy przy mówienie o Kubie. 
-- 
+- Przynależność rasowo-etniczna może zniwelować wpływ wielkości środków publicznych. Afroamerykanie dalej mają problem ze zdrowymi dzieci, mimo istnienia od 1972 roku Specjalnego Programu Żywieniowego dla Kobiet, Noworodków i Dzieci (WIC), który miał zwalczać niedożywienie wynikające z niskich dochodów. Okazuje się, że niemowlęta rodziły się z niedowagą głównie przez urodzenia przedwczesne, a te są związane mocno ze stylem życia.
+- 80% wszystkich innowacji medycznych na świecie pochodzi z USA.
+- USA mają 34 skanery tomografii komputerowej na milion mieszkańców, podczas gdy Kanada 12, a Wielka Brytania 8. 
+	- 2010 r.
+- USA 27 urządzeń do rezonansu magnetycznego/mln, Kanada i UK po 6.
+- Amerykanie mają wysokie wskaźniki przeżywalności różnych nowotworów.
+- W latach 1969-2008 Amerykanie zgarnęli lub podzielili się Noblem w fizjologii medycynie 57 razy, a badacze z UE, Szwajcarii, Kanady, Japonii i Australii łącznie 40 razy.
+- W 2013 roku 76% Amerykanów czekało na wizytę do specjalisty mniej niż 4 tygodnie. Tylko 6% czekało dłużej, niż dwa miesiące.
+	- Z kolei dostęp do lekarza lub pielęgniarki w trakcie choroby
