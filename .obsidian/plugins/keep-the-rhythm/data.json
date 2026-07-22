@@ -12580,8 +12580,33 @@
         "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
         "wordCountStart": 16225,
         "charCountStart": 114430,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": -275,
+            "c": -1821
+          },
+          {
+            "timeKey": "14:20",
+            "w": -21,
+            "c": -140
+          }
+        ],
         "id": 926
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Jasiński Łukasz, Agonia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 20,
+            "c": 153
+          }
+        ],
+        "id": 927
       }
     ]
   }

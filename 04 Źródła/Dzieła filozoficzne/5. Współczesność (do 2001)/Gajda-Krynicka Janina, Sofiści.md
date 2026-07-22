@@ -1,72 +1,45 @@
 1989 r.
 
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 41-41 | Added on Saturday, 5 February 2022 23:17:33
 
-nastąpiło w drugim pokoleniu sofistów, dziaIHjących po wojnie pcJopom•skiej, spowodowało, iż nurt ten uległ degeneracji, termin „
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 39-39 | Added on Sunday, 6 February 2022 01:55:41
+
+nastąpiło w drugim pokoleniu sofistów, działających po wojnie peleponeskiej, spowodowało, iż nurt ten uległ degeneracji
 
 Nauczanie retoryki, oparte na usystematyzowanej teorii, nie mogło się obejść bez badań nad językiem
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 40-40 | Added on Sunday, 6 February 2022 01:56:44
+
 
 Do prawdziwego i skutecznego posługiwania sif słowem konieczna jest wiedza o j<zyku: znajomość gramatyki, właściwe używanie trypów i czasów oraz dokładna znajomość znaczeń poszczególnych wyrazów. Dlatego też sofiści podjęli badania gramatyczne i semantyczne
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 40-40 | Added on Sunday, 6 February 2022 02:07:15
+
 
 Erystyka sofistów miała źródło w ich koncepcjach teoriopoznawczych, była praktycznym zastosowaniem tych koncepcji
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 40-40 | Added on Sunday, 6 February 2022 02:08:47
+
 
 przekonaniu, iż narzędzi formalnych należy używać zawsze w dobrej sprawie
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 40-40 | Added on Sunday, 6 February 2022 02:08:52
+
 
 Pierwsze pokolenie sofistów-filozofów
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 41-41 | Added on Sunday, 6 February 2022 02:10:21
+
 
 Gorgiasza: „A jeśliby kto, powied7my, został mówcą, a potem by tej sztuki i mocy na złe używał, wówczas nie nauczyciela trzeba nienawidzicć i na wygnanie skazywać. Bo on mu dał na seraw1edliwy użytek, a len na wspak używa
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 41-41 | Added on Sunday, 6 February 2022 02:10:38
+
 
 Przeniesicnic punktu cięż­ ko�ci wychowania na stron\ formalną, jakie nastąpiło w drugim pokoleniu sofistów
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 42-42 | Added on Sunday, 6 February 2022 02:17:18
+
 
 Według Platona koncepqom sofistów nie przysługuje miano fozofii ze wzgl�du na brak metafzycznego ll2asadnienia. I drugi problem: jeśli sofista nie zna rzeczywiste) wartości dobra i sprawiedliwości (a znać je] nie może ze wskazanych tu racji), nie ma podstaw do nauczania dzielności
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 42-42 | Added on Sunday, 6 February 2022 02:20:11
+
 
 Uważał on, że jest ona „filozofią pozorną", wiedzą ogramczającą sic do rzeczy nieistotnych, nauką o zjawiskach. Dlatego też nic ma dla sofistów miejsca w pierwszym zarysie historu filozofii, który p:rzedstawil w I księdze Metafizyki. Szukanie przyczyn tego pominięcia sofistów prowadzi do wniosku, iż wynikało ono z określone) dyrektywy badawczej Arystotelesa, zgodme z którą za punkt wyjścia analizy poglądów filozoficznych poszczególnych myślicieli przedsokratejskich przyjął on konkretne ich ustaltnia w filozofii przyrody
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 43-43 | Added on Sunday, 6 February 2022 02:21:04
+
 
 w merytorycznej ocenie sofistyki u Platona i Arystotelesa na pierwszy plan niewątpliwie wysuwa się zarzut braku metafizycznego uzasadnienia koncepcji sofistów. Inne zarzuty, a jest ich wiele, bezpośrednio wynikają z podstawowego zarzutu, jak np. podważanie uczuć religijnych społeczeństwa, relatywizm moralno-e�czny, utylitaryzm, demoralizacja młodzieży
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 43-43 | Added on Sunday, 6 February 2022 02:21:50
+
 
 zróżnicowanego stosunku Platona do poszczególnych sofistów: niewątpliwie szanował on i cenił Protagorasa i Gorgiasza, mniej Prodikosa, nie darzył szacunkiem Hippiasza, gardził Eutydemem czy Dionisodorosem
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 47-47 | Added on Sunday, 6 February 2022 14:16:50
+
 
 sofistyki i filozofii pozwaln na stwierdzenie, iż w całokształcie poglądów sofistów dopatruje się Platon określonej jedności, wyrażającej się w uznawaniu za byt rzeczywisty tego, co on uważa za niebyt
-==========
-Janina Gajda-Krynicka - Sofiści, wybór pism sofistów  
-- Your Highlight on page 48-48 | Added on Sunday, 6 February 2022 14:20:59
+
+
 
 mimo że sofistyka nie jest dlań filozofią, sytuuje ją w określonym kręgu badań „na temat bytu i niebytu", w obozie filozoficznym, wśród tych, którzy „z nieba i ze świata niewidzialnego wszystko na ;dcmię ściągają, po prostu rękami skały i drzewa obe1mując
 ==========
