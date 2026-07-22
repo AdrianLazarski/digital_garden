@@ -19,4 +19,5 @@ modified date: 2026-07-22 14:21
 - W latach 2000-2013 r. CPI wzrosło o 38%, podczas gdy ceny usług medycznych o 76%, zaś usług szpitalnych o nawet 130%. 
 - Prywatne wydatki nie oznaczają, że państwo nie ma wpływu na nie.
 - Podczas gdy na zwykłym rynku producenci stale poszukują sposobów na obniżenie kosztów, lekarze i szpitale często mogą zwiększać swoje dochody poprzez zwiększenie kosztów, bo bardziej sugerują się spełnianiem wymogów, koniecznych do otrzymania refundacji od płatników zewnętrznych (rządowych i prywatnych), niż świadczeniem dobrych usług.
-- Pacjenci rzadko mieli świadomość kosztów usług, bo te nie były transparentne, a ich ubezpieczenia zdrowotne pokrywały m
+- Pacjenci rzadko mieli świadomość kosztów usług, bo te nie były transparentne, a ich ubezpieczenia zdrowotne pokrywały większość świadczeń. W związku z tą osłabioną wrażliwością cenową zgłaszali większy popyt na usługi, bo problem rosnących kosztów nie dotyczył ich bezpośrednio – pokrywają je ubezpieczyciele i podatnicy.
+- 
