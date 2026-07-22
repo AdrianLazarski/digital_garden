@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła filozoficzne"
+              "title": "MOC Dzieła z zakresu historii filozofii"
             }
           },
           {
@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Johnson Paul, Intelektualiści.md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kahn Charles, Język i ontologia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,7 +316,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Johnson Paul, Intelektualiści"
+              "title": "Kahn Charles, Język i ontologia"
             }
           }
         ],
@@ -456,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Johnson Paul, Intelektualiści.md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kahn Charles, Język i ontologia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Johnson Paul, Intelektualiści"
+              "title": "Konspekt Kahn Charles, Język i ontologia"
             }
           }
         ],
@@ -540,9 +540,14 @@
   },
   "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Johnson Paul, Intelektualiści.md",
+    "02 MOC/MOC Historia/MOC Biografie.md",
+    "02 MOC/MOC Historia/MOC Książki historyczne.md",
+    "02 MOC/MOC Historia.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Jaspers Karl, Wprowadzenie do filozofii.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Jaspers Karl, Problem winy.md",
@@ -552,7 +557,6 @@
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hospers John, Wprowadzenie do analizy filozoficznej.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hoffe Otfried, Immanuel Kant.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
     "04 Źródła/Jasiński Łukasz, Agonia.md",
@@ -562,10 +566,6 @@
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Davila Nicolas Gomez, Nowe scholia do tekstu implicite.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Davila Nicolas Gomez, Następne scholia do tekstu implicite.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Camus Albert, Upadek.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Borawska, Górski – Umysłowość średniowiecza.md",
-    "02 MOC/MOC Historia.md",
-    "02 MOC/MOC Historia/MOC Książki historyczne.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

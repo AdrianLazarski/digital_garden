@@ -7,7 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-21 21:39
 ---
-
+[[MOC Biografie]]
 
 
 # O średniowieczu

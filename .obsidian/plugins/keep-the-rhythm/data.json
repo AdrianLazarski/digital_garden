@@ -12855,6 +12855,11 @@
             "timeKey": "18:40",
             "w": 6,
             "c": 42
+          },
+          {
+            "timeKey": "19:35",
+            "w": 5,
+            "c": 42
           }
         ],
         "id": 930
@@ -13040,11 +13045,61 @@
         "changes": [
           {
             "timeKey": "19:35",
-            "w": 31,
-            "c": 236
+            "w": 1250,
+            "c": 8810
           }
         ],
         "id": 942
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Historia.md",
+        "wordCountStart": 29,
+        "charCountStart": 237,
+        "changes": [],
+        "id": 943
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Historia/MOC Książki historyczne.md",
+        "wordCountStart": 28,
+        "charCountStart": 233,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 2,
+            "c": 17
+          }
+        ],
+        "id": 944
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Historia/MOC Biografie.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 25,
+            "c": 199
+          }
+        ],
+        "id": 945
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kahn Charles, Język i ontologia.md",
+        "wordCountStart": 343,
+        "charCountStart": 2578,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 20,
+            "c": 151
+          }
+        ],
+        "id": 946
       }
     ]
   }

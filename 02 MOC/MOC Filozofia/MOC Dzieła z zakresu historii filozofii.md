@@ -34,5 +34,5 @@ modified date: 2026-07-06 14:08
 
 # Współczesność
 
-
+[[Johnson Paul, Intelektualiści]], 1988 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
