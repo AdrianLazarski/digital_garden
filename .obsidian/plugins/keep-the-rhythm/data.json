@@ -12881,6 +12881,42 @@
           }
         ],
         "id": 932
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+        "wordCountStart": 169,
+        "charCountStart": 1344,
+        "changes": [],
+        "id": 933
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+        "wordCountStart": 44,
+        "charCountStart": 327,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 8,
+            "c": 64
+          }
+        ],
+        "id": 934
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Spór o istnienie świata.md",
+        "wordCountStart": 20,
+        "charCountStart": 182,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 20,
+            "c": 151
+          }
+        ],
+        "id": 935
       }
     ]
   }
