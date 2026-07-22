@@ -58,5 +58,8 @@ modified date: 2026-07-22 14:21
 - Gdy naziści doszli do władzy w Niemczech, był duży napływ zagranicznych lekarzy do USA. Żeby chronić się przed konkurencją, zrobiono bardziej rygorystyczne wymogi dla uzyskania licencji, przez co odsetek lekarzy zagranicznych, którzy nie dostali licencji wzrósł z 5,7% w 1930 r. do 20,7% w 1940.
 - Nawet jak ktoś świadczy usługi niższej jakości, to nie znaczy, że nie powinien tego robić, jeśli jest na niego popyt. Nie każdy musi jeździć cadillaciem. 
 - Gdy zaczęły się pojawiać problemy z podażą lekarzy, to rząd federalny i stany zaczęły przyznawać personelowi medycznemu bez uprawnień lekarskich przywileje wykonywania zawodu lekarza. 
-- AMA za Roosevelta i |Trumana była przeciwna pomysłom publicznych ubezpieczeń zdrowotnych, bo nie chciała utracić swojej autonomii w dziedzinie zapewnienia opieki zdrowotnej. Skutecznie storpedowała wszelkie inicjatywy federalne.
-- AMA wspierała za to plany przedpłacone, w których pacjent po zapłaceniu stałej kwoty miał dostęp do dowolnego lekarza/szpitala działającego w ramach danego programu. 
+- AMA za Roosevelta i Trumana była przeciwna pomysłom publicznych ubezpieczeń zdrowotnych, bo nie chciała utracić swojej autonomii w dziedzinie zapewnienia opieki zdrowotnej. Skutecznie storpedowała wszelkie inicjatywy federalne.
+- AMA wspierała za to plany przedpłacone Blue Shield i Blue Cross, w których pacjent po zapłaceniu stałej kwoty miał dostęp do dowolnego lekarza/szpitala działającego w ramach danego programu. Pacjenci nie płacili bezpośrednio za usługi, a lekarze, nie podlegając szczegółowemu nadzorowi firm ubezpieczeniowych, mogli świadczyć więcej usług i uzyskiwać większe przychody. Firmy te uzyskały dzięki wsparciu AMA wiele przywilejów od władz stanowych, dzięki czemu uzyskiwały większy udział w rynku. 
+
+# 3. Agencja ds. żywności i leków
+
