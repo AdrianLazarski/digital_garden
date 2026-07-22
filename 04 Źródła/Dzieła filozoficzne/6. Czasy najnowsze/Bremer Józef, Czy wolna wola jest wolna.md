@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/metafizyka
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-22 22:02
+---
 2013 r.
 
 str. 73-77
@@ -28,4 +38,3 @@ str. 103-106
 - Mikołaj z Autrecourt (1299-1369) nazwany średniowiecznym Humem. Uważał, że materia, czas i przestrzeń składają się z niepodzielnych atomów
 
 
-#filozofia #filozofia/historia_filozofii #filozofia/metafizyka #filozofia/antropologia #filozofia/polska #filozofia/współczesna #filozofia/historia_filozofii 

@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - "#filozofia/współczesna"
+  - "#filozofia/historia_filozofii"
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-22 21:58
+---
 Plato: A Very Short Introduction, 2003
 PL: PWN 2022
 
@@ -9,5 +20,3 @@ Annas stwierdza też, że na podstawie samych dywagacji o sztuce w Prawach, nie 
 
 Przedstawienie teorii idei żenująco słabe i z użyciem wprowadzającego w błąd słownictwa. Bardzo słaba książka, nie polecam.
 
-
-#filozofia #filozofia/historia_filozofii #filozofia/starożytna #filozofia/współczesna #filozofia/amerykańska 

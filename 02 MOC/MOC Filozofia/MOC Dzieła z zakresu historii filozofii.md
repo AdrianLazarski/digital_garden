@@ -24,6 +24,7 @@ modified date: 2026-07-06 14:08
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 [[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
 [[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]], 2000 r.
+[[Annas Julia, Platon]], 2003 r.
 
 # Średniowiecze
 

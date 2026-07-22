@@ -1,3 +1,18 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/polityki
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 21:59
+---
+2004 r.
+
+# Notatki
+
 
 - Les idees liberales - pierwsze użycie słowa. Dokonał go Napoleon w proklamacji wydanej dzień po przewrocie z 18 brumaire'a. Idee te znalazły się na ostatnim miejscu i były jednym tchem wymienione z ideami konserwatywnymi i opiekuńczymi (tutelaires).
 - Pierwsze ugrupowanie polityczne, które nazwało się liberałami, to hiszpańscy liberales tj. autorzy konstytucji uchwalonej w 1812 r. Była ona przesiąknięta russoizmem i wzorowana na francuskim republikanizmie.
@@ -42,7 +57,7 @@
 	- Pierre Bayle, filozof
 	- Bernard Le Bovier de Fontenelle 1657-1757, popularyzator filozofii
 
-### Liberalizm klasyczny XVIII-XIX wiek
+## Liberalizm klasyczny XVIII-XIX wiek
 
 - Pierwszym liberałem par excellence (choć nieznającym tego określenia) był John Locke
 - Dualizm liberalizmu
@@ -51,7 +66,7 @@
 - "Pasem transmisyjnym" liberalizmu były loże masońskie, takie jak Wielka Loża Anglii
 - Paramasoński związek illuminatów głosił zniesienie religii i porządku społecznego. Jak zaczęli planować zamachy terrorystyczne, to nawet przychylne masonom władze, musiały ich zdelegalizować. W 1785 przenieśli się z Bawarii do Francji, gdzie pomagali przygotować rewolucję.
 
-### XX-XXI w.
+## XX-XXI w.
 - Od lat 20 liberalizm jest w defensywie, Wielki kryzys jeszcze pogarsza jego sytuację. Rozpoczyna się półwiecze dominacji etatyzmu.
 - W liberalizmie wzmagają się pierwiastki progresywne i socjalne. Powstaje nieodróżnialny od reformistycznego socjalizmu socjalliberalizm. Niszczy się resztki przeddemokratycznych instytucji w kulturze, w ramach szeroko rozumianych działań emancypacyjnych.
 - Neoliberałowie to wg niego zwolennicy państwa minimum, którzy doszli do głosu po kryzysie z 1973 r. Wcześniej ze swoim liberalizmem gospodarczym i politycznym byli postrzegani jako anachroniczni. Symboliczną datą może być Nobel dla Hayeka z 1974 r.
@@ -444,3 +459,32 @@
 	    - Nieobecny u Heglistów i wielu liberałów konserwatywnych.
 	- Stopniowe godzenie się z demokracją polityczną
 	- Światopoglądowa harmonią z umysłowymi prądami oświecenia (z licznymi wyjątkami).
+
+
+# Recenzja
+
+Co konserwatysta i monarchista mogą powiedzieć nam o wolności? Jak autor książki odnalazł się w tytułowym gąszczu liberalizmów? Prof. Jacek Bartyzel w myśl łacińskiej sentencji Sapientis est ordinare (Człowiek mądry porządkuje) postanowił wymienić, opisać i odróżnić od siebie najróżniejsze odmiany liberalizmu.  
+  
+Książka „W gąszczu liberalizmów” roi się od najróżniejszych podziałów na nurty i podnurty i każdy, choćby najkrótszy podrozdział, zawiera przynajmniej kilka nazwisk domniemanych liberałów.  
+  
+Profesor zasadnie rozróżnił, liberalizm moralno-obyczajowy, polityczny i ekonomiczny, gdyż faktycznie poglądy wolnorynkowe może mieć osoba o konserwatywnej moralności i niebędąca fanem parlamentaryzmu. Niestety już mniej zasadne jest twierdzenie, że należy wymienić także osobno liberalizm filozoficzny i religijny.  
+  
+Jako przejawy tego pierwszego wymienia: nominalizm, empiryzm, racjonalizm, materializm, idealizm, neopozytywizm, pragmatyzm, psychologizm i socjologizm. Tymczasem stanowisko w sporze czy pojęcia ogólne istnieją niezależnie od ludzkiego umysłu (nominaliści twierdzą, że nie) nie ma większego znaczenia dla tego, czy ktoś jest liberałem, konserwatystą, czy socjalistą. Bartyzel wymienia te hasła na zasadzie „Locke był nominalistą, więc nominalizm jest liberalny”, co jest absurdalne, tym bardziej, że wymienia też stanowiska, które potrafiły być ze sobą całkowicie sprzeczne.  
+  
+Podobnie ma się rzecz z liberalizmem religijnym. Bartyzel wymienia protestantyzm, ateizm, deizm tylko dlatego, że istnieli protestanci, ateiści i deiści o liberalnych poglądach. Aż dziwne, że nie zrobił sekcji „liberalne napoje” i nie wymienił tam herbaty, kawy i energetyków, bo przecież liberałowie je piją.  
+  
+Autor wyjaśnia także czym jest liberalizm w teologii chrześcijańskiej i faktycznie w toku historii wielu jego reprezentantów miało równocześnie liberalne poglądy polityczne, ale nie jest to zależność niezbędna i należy to jasno rozdzielić, tak jak się rozdziela metafizyczny libertarianizm jako pogląd na temat istnienia wolnej woli i libertarianizm polityczny. Wielu politycznych libertarian będzie libertarianami metafizycznymi, ale raz, że nie jest to konieczne, a dwa – nie zachodzi tu odwrotna zależność. Większość metafizycznych libertarian nie będzie libertarianami politycznymi. Podobnie większość liberałów politycznych nie będzie liberałami teologicznymi.  
+  
+Zastanawiająca jest też niekonsekwencja Bartyzela, który w środku książki bezzasadnie pisze, że melioryzm (przekonanie, że ludzie są dobrzy z natury) jest czymś typowo liberalnym, a na końcu książki przyznaje, że istnieli liberałowie niepodzielający tego przekonania i że to nie jest cecha istotowa liberalizmu. Tak jakby na chwilę zdobył się na uczciwość intelektualną, po czym natychmiast wyrzucił ten fakt z głowy, bo wciąż chodzi i powtarza te bajki o meliorystycznym liberalizmie, a za nim cała tradycjonalistyczna konserwatywna prawica.  
+  
+Z innych defektów tej książki, to powielane różne klisze na temat historii filozofii. Autor zwyczajnie pisze nieprawdę o monolityczności przekonań sofistów i ich relatywizmie, o heglizmie jako oficjalnej filozofii absolutystycznego państwa pruskiego, czy inspiracji Ayn Rand nietzscheańską koncepcją człowieka. Oprócz tego myli tolerancję represywną z tolerancją wyzwalającą u Herberta Marcuse’a, czy dość odważnie określa Herberta Spencera anarchokapitalistą (byłoby to może do obronienia, ale wymagałoby to jakiegokolwiek komentarza, którego zabrakło).  
+  
+Czy to znaczy, że książki tej nie warto czytać? Otóż przeciwnie!  
+  
+Po pierwsze tak szerokie nakreślenie tematu z taką ilością nazwisk jest świetnym punktem wyjścia do dalszych lektur na temat liberalizmu. Pomaga uporządkować sobie pewne kwestie i pozwala zrozumieć różne sprzeczności pomiędzy poszczególnymi nurtami tej filozofii, a także jej obrzeżami, bo osobne rozdziały otrzymały też libertarianizm i ordoliberalizm. Na końcu autor dokonuje przeglądu ustaleń innych badaczy, którzy starali się na podstawie tej mnogości odmian liberalizmu wydestylować jakąś wspólną im definicję i sam dokonuje podobnej próby. Jak udanej, pozostawię wam do oceny.  
+  
+Po drugie Bartyzel koryguje pewne uproszczenia, którego dokonują niektórzy liberałowie np. na liberalizm francuski i anglosaski. Ten podział jest zdecydowanie niewystarczający i przede wszystkim niekonsekwentny.  
+  
+Po trzecie książka oprowadza nas po krytyce liberalizmu ze strony konserwatyzmu, nacjonalizmu, katolicyzmu, a także lewicy i samego liberalizmu. Jeśli ktoś chce skutecznie bronić liberalizmu, to warto w ramach przygotowań zajrzeć do tej sekcji.  
+  
+No i po czwarte wymieniałem błędy, czy dziwne decyzje redakcyjne, bo te najbardziej rzucają się w oczy, ale wciąż treść jest przyzwoitej jakości, a książka jest dość krótka, przyjemnie napisana i mimo wszystko autor swoich ideologicznych uprzedzeń, podjął starania, by podejść do tematu jak najuczciwiej. W związku z tym „W gąszczu liberalizmów” mogę polecić każdemu zainteresowanemu tą tematyką, niezależnie od poziomu zaawansowania.

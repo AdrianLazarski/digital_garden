@@ -3,12 +3,15 @@ created: 2026-02-28 19:46
 tags:
   - ref
   - filozofia/najnowsza
+  - recenzja
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 21:56
 ---
 A. Andrzejuk, Elementarz filozofii, Warszawa 2007, s.
 [[Artur Andrzejuk]] 
+
+# Notatki
 
 8-18 str.
 
@@ -130,4 +133,6 @@ s 58-62
 
 
 
+# Recenzja
 
+Jedno z lepszych wprowadzeń do filozofii, jakie czytałem, a znam ich sporo. Na zaledwie 100 stronach profesor Andrzejuk wyjaśnia czym jest filozofia, co ją odróżnia od innych dziedzin ludzkiej kultury i jakie są jej główne działy. Robi to bardzo lekkim i przystępnym językiem, wplatając w to bardzo cenne uwagi. Nie spodziewałem się tego, bo miałem wrażenie, że ciężko mnie zaskoczyć w tych podstawowych zagadnieniach i czytałem głównie pod scenariusze na mój kanał na YT, ale sporo się nauczyłem z tego dzieła.

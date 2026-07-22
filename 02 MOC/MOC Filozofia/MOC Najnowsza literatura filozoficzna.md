@@ -8,5 +8,7 @@ status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-03 17:40
 ---
 
-
+[[Annas Julia, Platon]], 2003 r.
+[[Bartyzel Jacek, W gąszczu liberalizmów]], 2004 r.
+[[Andrzejuk Artur, Elementarz filozofii]], 2007 r.
 [[Łażewska Dorota, Filozofia dla pracujących]], 2011 r.
