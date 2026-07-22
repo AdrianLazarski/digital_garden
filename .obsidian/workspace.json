@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hospers John, Wprowadzenie do analizy filozoficznej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,11 +292,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gajda-Krynicka Janina, Sofiści"
+              "title": "Hospers John, Wprowadzenie do analizy filozoficznej"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -432,13 +432,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
+                "file": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Gajda-Krynicka Janina, Sofiści"
+              "title": "Konspekt MOC Współczesna literatura filozoficzna (do 2001)"
             }
           }
         ],
@@ -514,12 +514,14 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "d5d6515ed7563f18",
+  "active": "ae10988248c7cfb7",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hospers John, Wprowadzenie do analizy filozoficznej.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hoffe Otfried, Immanuel Kant.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
     "04 Źródła/Jasiński Łukasz, Agonia.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Fanon Frantz, Wyklęty lud ziemi.md",
@@ -540,8 +542,6 @@
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Logika i filozofia.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Berlin Isaiah, Cztery eseje o wolności.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Barnes Jonathan, Arystoteles.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

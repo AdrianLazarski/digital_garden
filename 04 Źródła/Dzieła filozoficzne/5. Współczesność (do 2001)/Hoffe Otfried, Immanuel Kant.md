@@ -1,7 +1,24 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 18:39
+---
+wyd. niemieckie 1983
 Wydanie: Otfried Höffe, Immanuel Kant, Warszawa 1995.
 
-  
+
+**Spis treści**
+
+1. [Notatki](#Notatki)
+2. [Recenzja](#Recenzja)
+
+# Notatki
+
 48-63 str
 
 - "Dopóki rozum trzyma się doświadczenia, natrafia jedynie na bardziej odległe warunki, ale nie na coś nieuwarunkowanego."
@@ -308,5 +325,7 @@ Wydanie: Otfried Höffe, Immanuel Kant, Warszawa 1995.
 - Kant zainspirował też Hayeka w kwestii organizacji ponadnarodowej.
 
 
+# Recenzja
 
-#filozofia #filozofia/współczesna #filozofia/nowożytna #kantyzm #filozofia/historia_filozofii 
+
+"Immanuel Kant" Hoffego to stosunkowo krótkie i treściwe opracowanie całej myśli filozoficznej słynnego królewczanina, ale średnio się spisuje w tej roli. Nie chodzi mi o jakieś błędy – wierzę, że kantyzm tu został wyłożony zgodnie z faktycznym stanem rzeczy, a powielanie mitu, że Kant nigdy się nie ruszał poza najbliższą okolicę nie jest aż tak istotne. Chodzi o to, że opracowanie powinno być łatwiejsze w odbiorze, niż oryginalna treść, podczas gdy często czułem się jakbym czytał bezpośrednio Kanta. Przebrnąć przebrnąłem, ale momentami było naprawdę ciężko. Jak patrzę teraz na swoje notatki, to jestem przekonany, że dałoby się wyłożyć Kanta w przystępniejszej formie. W każdym razie w środku dzieła Hoffego znajdziemy biografię królewieckiego filozofa, szczegółowe omówienie "Krytyk" i innych pomniejszych dzieł Kanta, pokazujących jego myśl od epistemologii poprzez estetykę aż po filozofię polityczną. Na końcu jest dość ciekawy rozdział o recepcji tych idei i opozycji do niej, więc można się też trochę dowiedzieć czegoś o idealizmie niemieckim, neokantyzmie, fenomenologii, neoscholastyce, filozofii analitycznej.

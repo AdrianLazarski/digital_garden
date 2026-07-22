@@ -23,6 +23,7 @@ modified date: 2026-07-03 17:38
 [[de Jouvenel Bertrand, Traktat o władzy]], 1945 r.
 [[Popper Karl, Społeczeństwo otwarte i jego wrogowie]], 1945 r.
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]], 1949 r.
+[[Hospers John, Wprowadzenie do analizy filozoficznej]], 1953 r.
 [[Bocheński Józef Maria, Współczesne metody myślenia]], 1954 r.
 [[Bocheński Józef, History of formal logic]], 1956 r.
 [[Camus Albert, Upadek]], 1956 r.
@@ -33,7 +34,8 @@ modified date: 2026-07-03 17:38
 [[Berlin Isaiah, Cztery eseje o wolności]], 1969 r.
 [[Rothbard Murray, Manifest libertariański]], 1973 r.
 [[Barnes Jonathan, Arystoteles]], 1982 r.
-[[Gajda-Krynicka Janina, Sofiści]], 1889 r.
+[[Hoffe Otfried, Immanuel Kant]], 1983 r.
+[[Gajda-Krynicka Janina, Sofiści]], 1989 r.
 [[Davila Nicolas Gomez, Następne scholia do tekstu implicite]], 1992 r.
 [[Bocheński Józef Maria, Logika i filozofia]], 1993 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.

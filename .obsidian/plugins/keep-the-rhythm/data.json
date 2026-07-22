@@ -12625,6 +12625,11 @@
             "timeKey": "18:30",
             "w": -1239,
             "c": -8166
+          },
+          {
+            "timeKey": "18:35",
+            "w": 232,
+            "c": 1871
           }
         ],
         "id": 926
@@ -12798,6 +12803,16 @@
             "timeKey": "18:35",
             "w": 5,
             "c": 44
+          },
+          {
+            "timeKey": "18:40",
+            "w": 6,
+            "c": 42
+          },
+          {
+            "timeKey": "18:45",
+            "w": 8,
+            "c": 65
           }
         ],
         "id": 928
@@ -12820,9 +12835,52 @@
             "timeKey": "18:35",
             "w": 5,
             "c": 44
+          },
+          {
+            "timeKey": "18:40",
+            "w": 6,
+            "c": 42
           }
         ],
         "id": 930
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hoffe Otfried, Immanuel Kant.md",
+        "wordCountStart": 3999,
+        "charCountStart": 30478,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 23,
+            "c": 198
+          },
+          {
+            "timeKey": "18:40",
+            "w": 165,
+            "c": 1140
+          }
+        ],
+        "id": 931
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hospers John, Wprowadzenie do analizy filozoficznej.md",
+        "wordCountStart": 223,
+        "charCountStart": 1473,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 21,
+            "c": 166
+          },
+          {
+            "timeKey": "18:45",
+            "w": -6,
+            "c": -67
+          }
+        ],
+        "id": 932
       }
     ]
   }

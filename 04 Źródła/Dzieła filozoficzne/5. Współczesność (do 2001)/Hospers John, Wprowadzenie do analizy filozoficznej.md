@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - logika
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-22 18:44
+---
 [[John Hospers]], 1953 r.
 
 ZACZĄĆ OD POCZĄTKU, SPORZĄDZIĆ NOTATKĘ O STRUKTURZE KSIĄŻKI, BO TO INTERESUJĄCE
@@ -18,8 +28,3 @@ Klasa centaurów jest klasą pustą. Kierując się tym, nie mówmy jednak, "że
 - Ten sam pociąg (inny dzień, ten sam rozkład i numer pojazdu) to coś innego, niż "ten sam stół" po pomalowaniu go.
 - Str. 21 robienie z Heraklita filozofa języka to trochę beka.
 - Cechy istnieją w świecie, ale klasyfikacje tworzymy sami. To nasza decyzja czy pierwiastek posiadający wszystkie cechy kojarzone z daną nazwą, ale mający inny ciężar atomowy, nazwiemy innym pierwiastkiem, czy izotopem tego pierwszego. Oczywiście użycie tej samej nazwy grozi utratą z pola widzenia być może istotnych różnic. 
-
-
-
-
-#filozofia #filozofia/współczesna #filozofia/dzieła #filozofia/analityczna

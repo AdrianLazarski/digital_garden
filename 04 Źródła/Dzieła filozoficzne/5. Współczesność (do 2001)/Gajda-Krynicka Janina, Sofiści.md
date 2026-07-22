@@ -11,13 +11,16 @@ modified date: 2026-07-22 17:53
 ---
 1989 r.
 
+**Spis treści**
 
+1. [Fragmenty](#Fragmenty)
+2. [Recenzja](#Recenzja)
 
 
 
 Poniżej są zaznaczone fragmenty z Kindle'a. Niestety formatowanie się rozjechało.
 
-
+# Fragmenty
 
 nastąpiło w drugim pokoleniu sofistów, działających po wojnie peleponeskiej, spowodowało, iż nurt ten uległ degeneracji
 
@@ -806,3 +809,11 @@ Traktat Anonima jest wielką pochwałą prawa stanowionego przez ludzi. Autor up
 
 autor próbuje przezwyciężyć uksztatowane w drugim etapie rozwoju sofistyki antynomie między prawem stanowionym a prawem natury, stawiając między nimi znak równości: „Jeśli bowiem natura stworzyła ludzi niezdolnych do życia w pojedynkę, jeśli połą­ czyli się w społeczność, podporządkowując się konieczności, jeśli w tym celu zostały wynalezione wszelkie środki utrzymania i sztuki, jest zgoła niemożliwe, by ludzie żyjąc ze sobą, żyli w stanie bezprawia (wtedy bowiem doznają większych szkód niż w życiu w pojedynkę). Z tej więc konieczności prawo i sprawiedliwość panują wśród ludzi i nigdy nie może być inaczej. Tak ustanowiła mocą swą natura
 
+# Recenzja
+
+Dobre omówienie całego sofistycznego okresu filozofii w starożytnej Grecji. Autorka nakreśla bardzo bogaty kontekst historyczny, zwracając uwagę, że pojawienie się sofistów było swojego rodzaju koniecznością dziejową (hegliści zacierają rączki) w świecie demokratycznym, który wymagał od obywateli (czyli dobrze usytuowanych mężczyzn) współodpowiedzialności za rządzenie – a że niektórzy faktycznie się do tej współodpowiedzialności poczuwali, to starali się posiąść jak najbardziej wszechstronne wykształcenie typu encyklopedycznego, a także umiejętności praktyczne, które pozwoliłyby im odnosić sukcesy retoryczne na zgromadzeniach. Dodajmy do tego kontakty z obcymi kulturami i wyczerpanie się – może nie problematyki, bo ta w jakiś sposób jest aktualna do dziś, ale – formy dotychczas uprawianej filozofii przyrody, a w efekcie otrzymamy niesamowity ferment intelektualny, powszechne ciągoty relatywistyczne i widoczny w nauce i kulturze antropocentryzm.  
+  
+Praca Gajdy-Krynickiej nie tylko dostarcza czytelnikowi kontekstu pojawienia się sofistyki, ale również przedstawia wyniki wnikliwych badań i to nie tylko badań na Protagorasem i ewentualnie Gorgiaszem, do czego ogranicza się większość książek do historii filozofii, ale również nad najróżniejszymi przedstawicielami młodszego pokolenia sofistów, a nawet nad postaciami anonimowymi, które zostawiły po sobie sofistyczne pisma.  
+  
+  
+Niestety jakość pracy obniżają warunki historyczne jej powstania, ponieważ widoczna jest chamska, komunistyczna propaganda przy opisywaniu wielu problemów. Trzeba jednak przyznać, że nie wpływają one jakoś bardzo na odbiór samej filozofii poszczególnych sofistów, ponieważ zostali potraktowani nietypowo uczciwie – ani potępiająco i z naginaniem faktów, ani hurraoptymistycznie.
