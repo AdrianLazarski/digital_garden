@@ -14,6 +14,7 @@ modified date: 2026-07-06 14:08
 [[Voegelin Eric, Platon]], 1957 r.
 [[Barnes Jonathan, Arystoteles]], 1982 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
+[[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
 
 # Średniowiecze
 
@@ -21,6 +22,7 @@ modified date: 2026-07-06 14:08
 [[Bocheński Józef, History of formal logic]], 1956 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 [[Borawska, Górski – Umysłowość średniowiecza]], 1993 r.
+[[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
 
 # Nowożytność
 

@@ -11108,6 +11108,11 @@
             "timeKey": "21:10",
             "w": 8,
             "c": 52
+          },
+          {
+            "timeKey": "21:45",
+            "w": 7,
+            "c": 45
           }
         ],
         "id": 842
@@ -11878,8 +11883,13 @@
           },
           {
             "timeKey": "21:45",
-            "w": 15,
-            "c": 108
+            "w": 17,
+            "c": 117
+          },
+          {
+            "timeKey": "21:50",
+            "w": 10,
+            "c": 87
           }
         ],
         "id": 883
@@ -12163,6 +12173,11 @@
             "timeKey": "21:35",
             "w": 6,
             "c": 57
+          },
+          {
+            "timeKey": "21:50",
+            "w": 20,
+            "c": 174
           }
         ],
         "id": 900
@@ -12532,6 +12547,41 @@
           }
         ],
         "id": 923
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej.md",
+        "wordCountStart": 183,
+        "charCountStart": 1442,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 19,
+            "c": 140
+          },
+          {
+            "timeKey": "21:50",
+            "w": 0,
+            "c": -36
+          }
+        ],
+        "id": 924
+      },
+      {
+        "date": "2026-07-21",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
+        "wordCountStart": 16225,
+        "charCountStart": 114430,
+        "changes": [],
+        "id": 925
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
+        "wordCountStart": 16225,
+        "charCountStart": 114430,
+        "changes": [],
+        "id": 926
       }
     ]
   }

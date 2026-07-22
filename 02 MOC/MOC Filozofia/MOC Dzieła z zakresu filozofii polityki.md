@@ -18,6 +18,7 @@ modified date: 2026-07-06 14:06
 [[Popper Karl, Społeczeństwo otwarte i jego wrogowie]], 1945 r.
 [[Voegelin Eric, Świat Polis]], 1957 r.
 [[Voegelin Eric, Platon]], 1957 r.
+[[Fanon Frantz, Wyklęty lud ziemi]], 1961 r.
 [[Adorno Theodor, Nowy prawicowy radykalizm]], 1967 r.
 [[Berlin Isaiah, Cztery eseje o wolności]], 1969 r.
 [[Rothbard Murray, Manifest libertariański]], 1973 r.

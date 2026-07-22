@@ -1,4 +1,15 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/historia_filozofii
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-21 21:49
+---
+1996 r.
+pol 2000 r.
 
 - Trzy stanowiska w sprawie filozofia-historia filozofii
 	1. Historia nie ma znaczenia, rzeczywistość inteligibilna nie ma związku z ziemskim czasem. Uprawiamy ją w celach dydaktycznych i dla anegdotek.
@@ -13,6 +24,3 @@
 	- Rzeczywiste oddziaływanie filozofa nie zawsze pokrywa się z momentem jego aktywności intelektualnej.
 	- W każdej epoce wiszą w powietrzu pewne idee w dziedzinach innych, niż filozofia, a które mają dla niej znaczenie: literatura, religia, nauka itd.
 
-
-
-#filozofia #filozofia/współczesna #filozofia/starożytna #filozofia/średniowieczna #filozofia/historia_filozofii 

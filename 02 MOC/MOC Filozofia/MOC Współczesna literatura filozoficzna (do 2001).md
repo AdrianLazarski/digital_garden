@@ -37,3 +37,4 @@ modified date: 2026-07-03 17:38
 [[Bocheński Józef Maria, Logika i filozofia]], 1993 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 [[Borawska, Górski – Umysłowość średniowiecza]], 1993 r.
+[[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
