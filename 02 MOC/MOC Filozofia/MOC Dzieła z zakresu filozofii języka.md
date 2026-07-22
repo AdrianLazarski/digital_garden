@@ -9,3 +9,4 @@ modified date: 2026-07-04 23:09
 ---
 
 [[Wittgenstein Ludwig, Tractatus logico-philosophicus]], 1918 r.
+[[Pelc Jerzy, Wstęp do semiotyki]], 1982 r.

@@ -12856,8 +12856,18 @@
           },
           {
             "timeKey": "21:15",
+            "w": 22,
+            "c": 160
+          },
+          {
+            "timeKey": "21:20",
             "w": 13,
-            "c": 104
+            "c": 92
+          },
+          {
+            "timeKey": "21:25",
+            "w": 9,
+            "c": 68
           }
         ],
         "id": 928
@@ -12976,6 +12986,11 @@
             "timeKey": "18:45",
             "w": 8,
             "c": 64
+          },
+          {
+            "timeKey": "21:15",
+            "w": 7,
+            "c": 44
           }
         ],
         "id": 934
@@ -13104,6 +13119,16 @@
             "timeKey": "21:10",
             "w": 15,
             "c": 129
+          },
+          {
+            "timeKey": "21:15",
+            "w": 6,
+            "c": 49
+          },
+          {
+            "timeKey": "21:20",
+            "w": 7,
+            "c": 54
           }
         ],
         "id": 941
@@ -13402,6 +13427,11 @@
             "timeKey": "21:15",
             "w": 7,
             "c": 55
+          },
+          {
+            "timeKey": "21:20",
+            "w": 6,
+            "c": 37
           }
         ],
         "id": 961
@@ -13427,6 +13457,90 @@
           }
         ],
         "id": 963
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Paluch Andrzej, Mistrzowie antropologii społecznej.md",
+        "wordCountStart": 65,
+        "charCountStart": 552,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 18,
+            "c": 132
+          }
+        ],
+        "id": 964
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Pelc Jerzy, Wstęp do semiotyki.md",
+        "wordCountStart": 344,
+        "charCountStart": 2548,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 15,
+            "c": 103
+          }
+        ],
+        "id": 965
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
+        "wordCountStart": 27,
+        "charCountStart": 228,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 7,
+            "c": 44
+          }
+        ],
+        "id": 966
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Popkin Richard, Stroll Avrum,  Filozofia.md",
+        "wordCountStart": 562,
+        "charCountStart": 4701,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 18,
+            "c": 132
+          }
+        ],
+        "id": 967
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rand Ayn, Cnota egoizmu.md",
+        "wordCountStart": 3825,
+        "charCountStart": 26109,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 14,
+            "c": 82
+          }
+        ],
+        "id": 968
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rand Ayn, Introduction to the objectivist epistemology.md",
+        "wordCountStart": 2541,
+        "charCountStart": 18344,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 24,
+            "c": 196
+          }
+        ],
+        "id": 969
       }
     ]
   }

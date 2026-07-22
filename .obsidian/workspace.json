@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu historii filozofii"
+              "title": "MOC Dzieła z zakresu logiki"
             }
           },
           {
@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Opara Stanisław, Podstawy filozofii.md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rand Ayn, Introduction to the objectivist epistemology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,11 +316,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Opara Stanisław, Podstawy filozofii"
+              "title": "Rand Ayn, Introduction to the objectivist epistemology"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -456,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rand Ayn, Introduction to the objectivist epistemology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Współczesna literatura filozoficzna (do 2001)"
+              "title": "Konspekt Rand Ayn, Introduction to the objectivist epistemology"
             }
           }
         ],
@@ -538,16 +538,24 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "ae10988248c7cfb7",
+  "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rand Ayn, Introduction to the objectivist epistemology.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rand Ayn, Cnota egoizmu.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Popkin Richard, Stroll Avrum,  Filozofia.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Pelc Jerzy, Wstęp do semiotyki.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Paluch Andrzej, Mistrzowie antropologii społecznej.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Opara Stanisław, Podstawy filozofii.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Mises Ludwig von, Mentalność antykapitalistyczna.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/MacIntyre Alasdair, Krótka historia etyki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Łażewska Dorota, Filozofia dla pracujących.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Leśniak Kazimierz, Platon.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Lenartowicz Piotr, Wprowadzenie do zagadnień filozoficznych.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kuhn Thomas, Struktura rewolucji naukowych.md",
@@ -558,14 +566,6 @@
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Krąpiec Mieczysław Albert OP, Metafizyka.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Krajewski Władysław, Związek przyczynowy.md",
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Krajewski Władysław, Prawa nauki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu metafilozofii.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Konkin Samuel Edward, Nowy manifest libertariański.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kołakowski, Główne nurty marksizmu.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kahn Charles, Język i ontologia.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Johnson Paul, Intelektualiści.md",
-    "02 MOC/MOC Historia/MOC Biografie.md",
-    "02 MOC/MOC Historia/MOC Książki historyczne.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

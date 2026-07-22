@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - logika/semiotyka
+  - filozofia/języka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-22 21:17
+---
 1982 r.
 
 ## Rozdział 1
@@ -40,5 +50,3 @@
 -
 
 
-
-#filozofia #filozofia/współczesna #filozofia/polska #logika #logika/semiotyka 

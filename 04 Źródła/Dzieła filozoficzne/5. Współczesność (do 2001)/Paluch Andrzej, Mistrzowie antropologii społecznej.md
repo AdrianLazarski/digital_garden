@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - socjologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-22 21:17
+---
 1990 r.
 
 ## Słowo wstępne
@@ -10,4 +19,3 @@
 	- Synonim antropologii kulturowej (nie wszyscy się zgadzają, ale autor tak). Różnią się tylko perspektywami i stanowiskami teoretycznymi (cokolwiek to znaczy).
 
 
-#filozofia #socjologia 

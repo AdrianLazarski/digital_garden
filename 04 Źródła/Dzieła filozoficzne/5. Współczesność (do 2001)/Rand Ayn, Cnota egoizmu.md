@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/etyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 21:22
+---
 [[Ayn Rand]], 1964
 
 
@@ -336,4 +346,3 @@ KJG -Cnota egoizmu, wybrane fragmenty
 enact a cause without assuming full responsibility for its effects—that one must never act like a zombie, i.e. , without knowing one’s own purposes and motives—that one must never make any decisions, form any convictions or seek any values out of context, i.e. , apart from or against the total, integrated sum of one’s knowledge—and, above all, that one must never seek to get away with contradictions. It means the rejection of any form of mysticism, i.e. , any claim to some nonsensory, nonrational, nondefinable, supernatural source of knowledge. It means a commitment to reason, not in sporadic fits or on selected issues or in special emergencies, but as a permanent way of life. The virtue of Productiveness is the recognition of the fact that productive work is the process by which man’s mind sustains his life, the process that22
 
 
-#filozofia #filozofia/współczesna #filozofia/amerykańska #filozofia/etyka #libertarianizm #obiektywizm 

@@ -33,8 +33,11 @@ modified date: 2026-07-03 17:38
 [[Voegelin Eric, Świat Polis]], 1957 r.
 [[Voegelin Eric, Platon]], 1957 r.
 [[Fanon Frantz, Wyklęty lud ziemi]], 1961 r.
+[[Popkin Richard, Stroll Avrum,  Filozofia]], 1961 r.
 [[Kuhn Thomas, Struktura rewolucji naukowych]], 1962 r.
+[[Rand Ayn, Cnota egoizmu]], 1964 r.
 [[MacIntyre Alasdair, Krótka historia etyki]], 1966 r.
+[[Rand Ayn, Introduction to the objectivist epistemology]], 1967 r.
 [[Adorno Theodor, Nowy prawicowy radykalizm]], 1967 r.
 [[Ingarden Roman, Wstęp do fenomenologii Husserla]], 1967 r.
 [[Leśniak Kazimierz, Platon]], 1968 r.
@@ -44,6 +47,7 @@ modified date: 2026-07-03 17:38
 [[Kołakowski, Główne nurty marksizmu]], 1976 r.
 [[Konkin Samuel Edward, Nowy manifest libertariański]], 1980 r.
 [[Barnes Jonathan, Arystoteles]], 1982 r.
+[[Pelc Jerzy, Wstęp do semiotyki]], 1982 r.
 [[Hoffe Otfried, Immanuel Kant]], 1983 r.
 [[Krąpiec Mieczysław Albert OP, Metafizyka]], 1984 r.
 [[Gajda-Krynicka Janina, Sofiści]], 1989 r.
@@ -56,7 +60,7 @@ modified date: 2026-07-03 17:38
 [[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
 [[Krajewski Władysław, Prawa nauki]], 1998 r.
 [[Lenartowicz Piotr, Wprowadzenie do zagadnień filozoficznych]], 1998 r.
-Opara Stanisław, Podstawy filozofii
+[[Opara Stanisław, Podstawy filozofii]], 1999 r.
 
 
 

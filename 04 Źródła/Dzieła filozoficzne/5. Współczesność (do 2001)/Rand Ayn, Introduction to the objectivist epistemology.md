@@ -1,4 +1,14 @@
-[[Ayn Rand]], 1967
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/epistemologia
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 21:24
+---
+[[Ayn Rand]], 1967 r.
 
 ## Rozdział 1
 
