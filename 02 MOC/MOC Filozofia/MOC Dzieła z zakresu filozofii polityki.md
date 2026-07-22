@@ -16,6 +16,7 @@ modified date: 2026-07-06 14:06
 [[Ortega y Gasset Jose, Bunt mas]], 1929 r.
 [[de Jouvenel Bertrand, Traktat o władzy]], 1945 r.
 [[Popper Karl, Społeczeństwo otwarte i jego wrogowie]], 1945 r.
+[[Weaver Richard M., Idee mają konsekwencje]], 1948 r.
 [[Voegelin Eric, Świat Polis]], 1957 r.
 [[Voegelin Eric, Platon]], 1957 r.
 [[Fanon Frantz, Wyklęty lud ziemi]], 1961 r.

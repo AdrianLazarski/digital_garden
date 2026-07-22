@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 21:50
+---
 [[Józef Tischner]]
 
 Zapis audycji radiowych z udziałem księdza Józefa Tischnera emitowanych w latach 1989–1991 w Programie 3 Polskiego Radia, a następnie w Polskim Radiu Kraków.
@@ -25,5 +34,3 @@ Chce się to coś Innego niż chcieć. Pierwsze jest bierne i związane z popęd
 Człowiek okrutny wobec siebie staje się okrutny wobec innych. Mimowolne obwinianie się przypominające samobiczowanie nie ma nic wspólnego z prawidłowym żalem za grzechy
 
 
-
-#filozofia #filozofia/współczesna #filozofia/polska 

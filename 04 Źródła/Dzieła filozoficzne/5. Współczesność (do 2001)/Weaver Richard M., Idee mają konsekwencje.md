@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/polityki
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 21:51
+---
 *Ideas Have Consequences*, 1948 r.
 
 - <span style="background:#ff4d4f">Odrzucenie realizmu przez Okchama sprawiło, że zapanował nominalizm, który autor definiuje jako zaprzeczenie, że uniwersalia istnieją rzeczywistą egzystencją. Rzekomo rezultatem jest odrzucenie rzeczywistości poznawanej przez umysł i umieszczenie na jej miejscu tego, co jest poznawane jest przez zmysły.</span>

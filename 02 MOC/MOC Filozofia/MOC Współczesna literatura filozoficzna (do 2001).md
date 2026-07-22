@@ -4,7 +4,7 @@ tags:
   - moc
   - filozofia/współczesna
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-03 17:38
 ---
 # Chronologicznie
@@ -27,6 +27,7 @@ modified date: 2026-07-03 17:38
 [[Russell Bertrand, Dzieje filozofii zachodu]],1946 r.
 [[Stachniuk Jan, Człowieczeństwo i kultura]],1946 r.
 [[Ingarden Roman, Spór o istnienie świata]], 1948 r.
+[[Weaver Richard M., Idee mają konsekwencje]], 1948 r.
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]], 1949 r.
 [[Jaspers Karl, Wprowadzenie do filozofii]], 1953 r.
 [[Hospers John, Wprowadzenie do analizy filozoficznej]], 1953 r.
@@ -45,11 +46,13 @@ modified date: 2026-07-03 17:38
 [[Adorno Theodor, Nowy prawicowy radykalizm]], 1967 r.
 [[Ingarden Roman, Wstęp do fenomenologii Husserla]], 1967 r.
 [[Leśniak Kazimierz, Platon]], 1968 r.
+[[Wolniewicz Bogusław, Rzeczy i fakty]], 1968 r.
 [[Berlin Isaiah, Cztery eseje o wolności]], 1969 r.
 [[Rand Ayn, The Romantic Manifesto]], 1969 r.
 [[Rothbard Murray, Manifest libertariański]], 1973 r.
 [[Kahn Charles, Język i ontologia]], 1973 r.
 [[Reale Giovanni, Historia filozofii starożytnej II]], 1975 r.
+[[Tatarkiewicz Władysław, Dzieje sześciu pojęć]], 1975 r.
 [[Kołakowski, Główne nurty marksizmu]], 1976 r.
 [[Konkin Samuel Edward, Nowy manifest libertariański]], 1980 r.
 [[Barnes Jonathan, Arystoteles]], 1982 r.
@@ -59,6 +62,7 @@ modified date: 2026-07-03 17:38
 [[Krąpiec Mieczysław Albert OP, Metafizyka]], 1984 r.
 [[Rand Ayn, The Voice of Reason]], 1988 r.
 [[Gajda-Krynicka Janina, Sofiści]], 1989 r.
+[[Tischner Józef, Wędrówki w krainę filozofów]], 1991 r.
 [[Davila Nicolas Gomez, Następne scholia do tekstu implicite]], 1992 r.
 [[Bocheński Józef Maria, Logika i filozofia]], 1993 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
@@ -72,9 +76,7 @@ modified date: 2026-07-03 17:38
 [[Opara Stanisław, Podstawy filozofii]], 1999 r.
 [[Swieżawski Stefan, Człowiek średniowieczny]], 1999 r.
 [[Rorty Richard, Filozofia a nadzieja na lepsze społeczeństwo]], 2000 r.
+[[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]], 2000 r.
+[[Szyszkowska Maria, Zarys filozofii prawa]], 2000 r.
 
 
-
-
-
-[[Łażewska Dorota, Filozofia dla pracujących]], 2011 r.

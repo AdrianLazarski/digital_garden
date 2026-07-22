@@ -272,12 +272,12 @@
             }
           },
           {
-            "id": "ae10988248c7cfb7",
+            "id": "b9b2d089fd0c761d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+                "file": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Współczesna literatura filozoficzna (do 2001)"
+              "title": "MOC Najnowsza literatura filozoficzna"
             }
           },
           {
@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej.md",
+                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Andrzejuk Artur, Elementarz filozofii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,7 +316,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej"
+              "title": "Andrzejuk Artur, Elementarz filozofii"
             }
           }
         ],
@@ -456,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej.md",
+                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Andrzejuk Artur, Elementarz filozofii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej"
+              "title": "Konspekt Andrzejuk Artur, Elementarz filozofii"
             }
           }
         ],
@@ -540,12 +540,23 @@
   },
   "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Swieżawski Stefan, Człowiek średniowieczny.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Strauss Leo, Crospey Joseph, Historia filozofii politycznej.md",
+    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła estetyczne.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Andrzejuk Artur, Elementarz filozofii.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Wolniewicz Bogusław, Rzeczy i fakty.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Weaver Richard M., Idee mają konsekwencje.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Tischner Józef, Wędrówki w krainę filozofów.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Tatarkiewicz Władysław, Dzieje sześciu pojęć.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Szyszkowska Maria, Zarys filozofii prawa.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Swieżawski Stefan, Człowiek średniowieczny.md",
+    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Strauss Leo, Crospey Joseph, Historia filozofii politycznej.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Stachniuk Jan, Człowieczeństwo i kultura.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
     "02 MOC/MOC Filozofia/MOC Filozofia kultury.md",
@@ -554,18 +565,7 @@
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Scruton Roger, Przewodnik po filozofii dla inteligentnych.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Russell Bertrand, Dzieje filozofii zachodu.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii prawa.md",
     "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rothbard Murray, Etyka wolności.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rorty Richard, Filozofia a nadzieja na lepsze społeczeństwo.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Reale Giovanni, Historia filozofii starożytnej II.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła estetyczne.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rand Ayn, The Voice of Reason.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rand Ayn, The Romantic Manifesto.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rand Ayn, Introduction to the objectivist epistemology.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Rand Ayn, Cnota egoizmu.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Popkin Richard, Stroll Avrum,  Filozofia.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

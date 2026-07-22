@@ -2,23 +2,9 @@
 created: 2025-12-03 12:16
 tags:
   - filozofia/historia_filozofii
-  - filozofia/starożytna
-  - filozofia/średniowieczna
-  - filozofia/grecka
-  - "#filozofia/rzymska"
-  - filozofia/polska
-  - filozofia/francuska
-  - filozofia/brytyjska
-  - filozofia/arabska
-  - filozofia/żydowska
-  - filozofia/bizantyjska
-  - filozofia/renesansowa
-  - filozofia/włoska
-  - filozofia/niemiecka
-  - religia
   - historia/chrześcijaństwa
-  - filozofia/dzieła
   - ref
+  - filozofia/współczesna
 modified date: 2025-12-03 12:16
 Rok wydania: "2000"
 Miejsce wydania: Warszawa-Wrocław

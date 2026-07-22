@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/najnowsza
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-22 21:56
+---
 A. Andrzejuk, Elementarz filozofii, Warszawa 2007, s.
 [[Artur Andrzejuk]] 
 
@@ -122,5 +131,3 @@ s 58-62
 
 
 
-
-#filozofia #neotomizm #filozofia/polska #filozofia/współczesna #tomizm 

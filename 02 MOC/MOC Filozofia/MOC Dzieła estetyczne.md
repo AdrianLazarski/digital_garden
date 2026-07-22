@@ -10,3 +10,4 @@ modified date: 2026-07-03 17:45
 
 
 [[Rand Ayn, The Romantic Manifesto]], 1969 r.
+[[Tatarkiewicz Władysław, Dzieje sześciu pojęć]], 1975 r.

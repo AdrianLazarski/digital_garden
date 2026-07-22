@@ -12886,8 +12886,18 @@
           },
           {
             "timeKey": "21:45",
-            "w": 6,
-            "c": 56
+            "w": 28,
+            "c": 241
+          },
+          {
+            "timeKey": "21:50",
+            "w": 23,
+            "c": 161
+          },
+          {
+            "timeKey": "21:55",
+            "w": -7,
+            "c": -56
           }
         ],
         "id": 928
@@ -12959,8 +12969,13 @@
           },
           {
             "timeKey": "21:45",
-            "w": 48,
-            "c": 404
+            "w": 72,
+            "c": 623
+          },
+          {
+            "timeKey": "21:50",
+            "w": 21,
+            "c": 174
           }
         ],
         "id": 930
@@ -13080,6 +13095,11 @@
             "timeKey": "20:45",
             "w": 6,
             "c": 54
+          },
+          {
+            "timeKey": "21:50",
+            "w": 7,
+            "c": 49
           }
         ],
         "id": 936
@@ -13297,6 +13317,11 @@
             "timeKey": "21:40",
             "w": 9,
             "c": 73
+          },
+          {
+            "timeKey": "21:50",
+            "w": 8,
+            "c": 55
           }
         ],
         "id": 948
@@ -13627,6 +13652,11 @@
             "timeKey": "21:25",
             "w": 7,
             "c": 49
+          },
+          {
+            "timeKey": "21:50",
+            "w": 7,
+            "c": 58
           }
         ],
         "id": 971
@@ -13702,6 +13732,11 @@
             "timeKey": "21:30",
             "w": 6,
             "c": 45
+          },
+          {
+            "timeKey": "21:45",
+            "w": 7,
+            "c": 54
           }
         ],
         "id": 976
@@ -13828,8 +13863,126 @@
         "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej.md",
         "wordCountStart": 1464,
         "charCountStart": 10777,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": -27,
+            "c": -318
+          }
+        ],
         "id": 985
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Szyszkowska Maria, Zarys filozofii prawa.md",
+        "wordCountStart": 449,
+        "charCountStart": 3413,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 23,
+            "c": 185
+          }
+        ],
+        "id": 986
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Tatarkiewicz Władysław, Dzieje sześciu pojęć.md",
+        "wordCountStart": 3632,
+        "charCountStart": 25926,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 25,
+            "c": 221
+          }
+        ],
+        "id": 987
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Tischner Józef, Wędrówki w krainę filozofów.md",
+        "wordCountStart": 183,
+        "charCountStart": 1288,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 16,
+            "c": 112
+          }
+        ],
+        "id": 988
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Weaver Richard M., Idee mają konsekwencje.md",
+        "wordCountStart": 1548,
+        "charCountStart": 11682,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 23,
+            "c": 188
+          }
+        ],
+        "id": 989
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Weaver Richard M., Idee mają konsekwencje.md",
+        "wordCountStart": 1548,
+        "charCountStart": 11682,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 23,
+            "c": 188
+          }
+        ],
+        "id": 990
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Wolniewicz Bogusław, Rzeczy i fakty.md",
+        "wordCountStart": 96,
+        "charCountStart": 866,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 10,
+            "c": 38
+          }
+        ],
+        "id": 991
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Andrzejuk Artur, Elementarz filozofii.md",
+        "wordCountStart": 2326,
+        "charCountStart": 17813,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 14,
+            "c": 91
+          }
+        ],
+        "id": 992
+      },
+      {
+        "date": "2026-07-22",
+        "filePath": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+        "wordCountStart": 21,
+        "charCountStart": 166,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 7,
+            "c": 54
+          }
+        ],
+        "id": 993
       }
     ]
   }

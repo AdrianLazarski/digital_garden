@@ -18,10 +18,12 @@ modified date: 2026-07-06 14:08
 [[Leśniak Kazimierz, Platon]], 1968 r.
 [[Kahn Charles, Język i ontologia]], 1973 r.
 [[Reale Giovanni, Historia filozofii starożytnej II]], 1975 r.
+[[Tatarkiewicz Władysław, Dzieje sześciu pojęć]], 1975 r.
 [[Barnes Jonathan, Arystoteles]], 1982 r.
 [[Gajda-Krynicka Janina, Sofiści]], 1989 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 [[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
+[[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]], 2000 r.
 
 # Średniowiecze
 
@@ -29,20 +31,24 @@ modified date: 2026-07-06 14:08
 [[Russell Bertrand, Dzieje filozofii zachodu]],1946 r.
 [[Bocheński Józef, History of formal logic]], 1956 r.
 [[Strauss Leo, Crospey Joseph, Historia filozofii politycznej]], 1963 r.
+[[Tatarkiewicz Władysław, Dzieje sześciu pojęć]], 1975 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 [[Borawska, Górski – Umysłowość średniowiecza]], 1993 r.
 [[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
 [[Swieżawski Stefan, Człowiek średniowieczny]], 1999 r.
+[[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]], 2000 r.
 
 # Nowożytność
 
 [[Russell Bertrand, Dzieje filozofii zachodu]],1946 r.
 [[Bocheński Józef, History of formal logic]], 1956 r.
 [[Strauss Leo, Crospey Joseph, Historia filozofii politycznej]], 1963 r.
+[[Tatarkiewicz Władysław, Dzieje sześciu pojęć]], 1975 r.
 [[Kołakowski, Główne nurty marksizmu]], 1976 r.
 [[Hoffe Otfried, Immanuel Kant]], 1983 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 [[Swieżawski Stefan, Człowiek średniowieczny]], 1999 r.
+[[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]], 2000 r.
 
 
 # Współczesność
