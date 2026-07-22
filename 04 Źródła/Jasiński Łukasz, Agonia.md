@@ -15,4 +15,5 @@ modified date: 2026-07-22 14:21
 	- Udział wydatków rządowych w całości to 48%, czyli faktycznie mniej, niż średnia w OECD - 73%.
 - Jeśli chodzi o procent budżetu, to USA miały go najwyższy na świecie - 22,3%. Więcej nawet, niż wydają na opiekę społeczną, bo 20,7%.
 	- Dla porównania Australia na drugim miejscu przeznaczała na to 18,8% budżetu.
+- Nakłady na Medicare i Medicaid systematycznie rosły od połowy lat 60. Od samego 2000 roku do 2013 wzrosły z 389 mld do 955 mld, czyli o 145%.
 - 
