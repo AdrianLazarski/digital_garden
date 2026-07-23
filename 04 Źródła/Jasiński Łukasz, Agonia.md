@@ -85,6 +85,8 @@ Wrocław 2024 r.
 - Produkt wycofano nie przez jego toksyczność, a przez wprowadzającą w błąd nazwę Elixir of Sulfanilamide – Elixir było zarezerwowane dla produktów z alkoholem w składzie. Gdyby nie to, rząd federalny nie mógłby wycofać go z rynku xD
 - Właściciel firmy Massengil, która wyprodukowała tę truciznę, w ogóle nie czuł się odpowiedzialny za tragedię i odnosił sukcesy kolejne 30 lat, aż do momentu jej sprzedaży.
 - Jasiński twierdzi, że interwencja państwa nie była potrzebna, bo takie rzeczy nie działy się notorycznie i ten wypadek sprawił, że firmy zaczęły same zabiegać o przeprowadzanie testów przez niezależne instytucje. 
+- W 1938 uchwalono Food, Drug, and Cosmetic Act, który nałożył obowiązek potwierdzenia bezpieczeństwa produktów przed wprowadzeniem na rynek oraz wprowadzono nadzór nad reklamą i nazwami leków. FDA miało 180 dni na zatwierdzenie nowego leku.
+- 
 
 
 # 4. Ubezpieczenia społeczne
