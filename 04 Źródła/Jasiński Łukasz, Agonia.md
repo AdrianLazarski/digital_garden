@@ -79,8 +79,12 @@ Wrocław 2024 r.
 - W 1906 r. uchwalono Pure Food and Drug Act, by zmniejszyć niepokój społeczny wywołany przez rzekomo fatalne warunki w chicagowskich rzeźniach, opisanych w wyssanej z palca powieści "Grzęzawisko" Uptona Sinclaira, po którym spadł eksport amerykańskiego mięsa. Producenci sami zaczęli zabiegać o więcej państwowej kontroli, by uspokoić klientów i ograniczyć konkurencję ze strony mniejszych krajowych producentów.
 - Skupiano się głównie na żywności i kontrolą zajmował się Departament Rolnictwa.
 - W 1930 r. Pojawiła się Food and Drug Administration. 
-- W 1938 rozszerzono uprawnienia FDA, bo rok wcześniej umarło ponad sto osób przez sulfanilamid w syropie (Europa stosowała ten lek w tabletkach i był bezpieczny).
-- 
+- W 1938 rozszerzono uprawnienia FDA, bo rok wcześniej umarło ponad sto osób przez sulfanilamid w syropie (Europa stosowała ten lek w tabletkach i był bezpieczny), który okazał się toksyczny. 
+	- Nie przeprowadzono żadnych obiektywnych testów przed wprowadzeniem produktu na rynek, mimo istnienia wielu niezależnych instytucji i inicjatyw, oceniających leki. AMA też robiła swoje testy.
+	- Co istotne w 1937 r. nie było zakazu wprowadzania na rynek leku nieprzebadanego.
+- Produkt wycofano nie przez jego toksyczność, a przez wprowadzającą w błąd nazwę Elixir of Sulfanilamide – Elixir było zarezerwowane dla produktów z alkoholem w składzie. Gdyby nie to, rząd federalny nie mógłby wycofać go z rynku xD
+- Właściciel firmy Massengil, która wyprodukowała tę truciznę, w ogóle nie czuł się odpowiedzialny za tragedię i odnosił sukcesy kolejne 30 lat, aż do momentu jej sprzedaży.
+- Jasiński twierdzi, że interwencja państwa nie była potrzebna, bo takie rzeczy nie działy się notorycznie i ten wypadek sprawił, że firmy zaczęły same zabiegać o przeprowadzanie testów przez niezależne instytucje. 
 
 
 # 4. Ubezpieczenia społeczne
