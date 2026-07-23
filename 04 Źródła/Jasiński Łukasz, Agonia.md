@@ -87,6 +87,7 @@ Wrocław 2024 r.
 - Jasiński twierdzi, że interwencja państwa nie była potrzebna, bo takie rzeczy nie działy się notorycznie i ten wypadek sprawił, że firmy zaczęły same zabiegać o przeprowadzanie testów przez niezależne instytucje. 
 - W 1938 uchwalono Food, Drug, and Cosmetic Act, który nałożył obowiązek potwierdzenia bezpieczeństwa produktów przed wprowadzeniem na rynek oraz wprowadzono nadzór nad reklamą i nazwami leków. FDA miało 180 dni na zatwierdzenie nowego leku.
 - W 1962 r. wprowadzono Poprawki Kafauvera-Harrisa, ale nie wiadomo dlaczego, bo FDA skutecznie zablokowało wprowadzenie szkodliwego talidomidu na rynek. Mimo to wprowadzono dodatkowy obowiązek wykazania skuteczności leku i zniesiono limit czasu na decyzję FDA o sprzedaży.
+- FDA oderwane od normalnych bodźców rynkowych woli nie wprowadzić bezpiecznego i skutecznego leku do obiegu, bo nic mu za to nie grozi, podczas gdy jeśli wprowadzi jakiś szkodliwy lek, to będzie afera. Kosztem alternatywnym są wszyscy chorzy, którzy nie otrzymają skutecznej terapii.
 - 
 
 
