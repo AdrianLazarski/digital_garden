@@ -83,7 +83,8 @@
       "2026-07-10",
       "2026-07-13",
       "2026-07-20",
-      "2026-07-21"
+      "2026-07-21",
+      "2026-07-23"
     ],
     "dailyActivity": [
       {
@@ -14231,7 +14232,18 @@
         "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Grzybowski ks. Jacek, Uciec z krainy zapomnienia.md",
         "wordCountStart": 670,
         "charCountStart": 4845,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 12,
+            "c": 74
+          },
+          {
+            "timeKey": "20:40",
+            "w": 6,
+            "c": 56
+          }
+        ],
         "id": 1005
       },
       {
@@ -14303,6 +14315,560 @@
         "charCountStart": 11592,
         "changes": [],
         "id": 1008
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Skróty klawiszowe.md",
+        "wordCountStart": 204,
+        "charCountStart": 1888,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1009
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "robocza.md",
+        "wordCountStart": 1514,
+        "charCountStart": 11775,
+        "changes": [],
+        "id": 1010
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "O stronie.md",
+        "wordCountStart": 71,
+        "charCountStart": 514,
+        "changes": [],
+        "id": 1011
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "ZZZ To do.md",
+        "wordCountStart": 64,
+        "charCountStart": 447,
+        "changes": [],
+        "id": 1012
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "ZZZ To do 2.md",
+        "wordCountStart": 37,
+        "charCountStart": 296,
+        "changes": [],
+        "id": 1013
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "Aktualnie opracowywane.md",
+        "wordCountStart": 91,
+        "charCountStart": 878,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 8,
+            "c": 62
+          },
+          {
+            "timeKey": "21:30",
+            "w": 5,
+            "c": 55
+          }
+        ],
+        "id": 1014
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+        "wordCountStart": 83,
+        "charCountStart": 611,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 9,
+            "c": 62
+          },
+          {
+            "timeKey": "20:45",
+            "w": 7,
+            "c": 44
+          },
+          {
+            "timeKey": "21:05",
+            "w": 6,
+            "c": 44
+          },
+          {
+            "timeKey": "21:10",
+            "w": 9,
+            "c": 64
+          },
+          {
+            "timeKey": "21:15",
+            "w": 23,
+            "c": 173
+          },
+          {
+            "timeKey": "21:20",
+            "w": 22,
+            "c": 163
+          },
+          {
+            "timeKey": "21:25",
+            "w": 19,
+            "c": 122
+          },
+          {
+            "timeKey": "21:30",
+            "w": 19,
+            "c": 172
+          }
+        ],
+        "id": 1015
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+        "wordCountStart": 85,
+        "charCountStart": 647,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 9,
+            "c": 63
+          }
+        ],
+        "id": 1016
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
+        "wordCountStart": 116,
+        "charCountStart": 819,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 9,
+            "c": 62
+          }
+        ],
+        "id": 1017
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+        "wordCountStart": 175,
+        "charCountStart": 1387,
+        "changes": [],
+        "id": 1018
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
+        "wordCountStart": 28,
+        "charCountStart": 220,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 9,
+            "c": 61
+          },
+          {
+            "timeKey": "21:25",
+            "w": 6,
+            "c": 52
+          }
+        ],
+        "id": 1019
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Heller Michał, Jak być uczonym.md",
+        "wordCountStart": 378,
+        "charCountStart": 2814,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 20,
+            "c": 154
+          },
+          {
+            "timeKey": "20:45",
+            "w": -3,
+            "c": -44
+          }
+        ],
+        "id": 1020
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Holloway Chas, Koniec polityki.md",
+        "wordCountStart": 306,
+        "charCountStart": 2207,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 6,
+            "c": 82
+          },
+          {
+            "timeKey": "21:05",
+            "w": 2,
+            "c": 7
+          }
+        ],
+        "id": 1021
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+        "wordCountStart": 211,
+        "charCountStart": 1515,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 6,
+            "c": 48
+          },
+          {
+            "timeKey": "21:10",
+            "w": 9,
+            "c": 64
+          },
+          {
+            "timeKey": "21:15",
+            "w": 18,
+            "c": 127
+          }
+        ],
+        "id": 1022
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Hoppe Hans Herman, Demokracja - bóg, który zawiódł.md",
+        "wordCountStart": 2801,
+        "charCountStart": 20573,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 23,
+            "c": 189
+          },
+          {
+            "timeKey": "21:10",
+            "w": -9,
+            "c": -114
+          }
+        ],
+        "id": 1023
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Hoppe Hans Herman, Wielka fikcja, Państwo w epoce schyłku.md",
+        "wordCountStart": 1646,
+        "charCountStart": 12395,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 25,
+            "c": 197
+          },
+          {
+            "timeKey": "21:15",
+            "w": -7,
+            "c": -75
+          }
+        ],
+        "id": 1024
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia przyrody.md",
+        "wordCountStart": 51,
+        "charCountStart": 454,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 0,
+            "c": 6
+          }
+        ],
+        "id": 1025
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
+        "wordCountStart": 73,
+        "charCountStart": 547,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 11,
+            "c": 71
+          },
+          {
+            "timeKey": "21:20",
+            "w": 13,
+            "c": 93
+          }
+        ],
+        "id": 1026
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+        "wordCountStart": 201,
+        "charCountStart": 1487,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 7,
+            "c": 54
+          },
+          {
+            "timeKey": "21:20",
+            "w": 13,
+            "c": 93
+          }
+        ],
+        "id": 1027
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Huemer Michael, Problem władzy politycznej.md",
+        "wordCountStart": 169,
+        "charCountStart": 1298,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 15,
+            "c": 84
+          }
+        ],
+        "id": 1028
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+        "wordCountStart": 84,
+        "charCountStart": 567,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 7,
+            "c": 56
+          },
+          {
+            "timeKey": "21:20",
+            "w": 9,
+            "c": 70
+          }
+        ],
+        "id": 1029
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Judycki Stanisław, Epistemologia.md",
+        "wordCountStart": 117,
+        "charCountStart": 859,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 18,
+            "c": 131
+          }
+        ],
+        "id": 1030
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Kawelec Paweł, Przyczyna i wyjaśnianie. Studium z filozofii i metodologii nauki.md",
+        "wordCountStart": 462,
+        "charCountStart": 3742,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 17,
+            "c": 124
+          }
+        ],
+        "id": 1031
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
+        "wordCountStart": 27,
+        "charCountStart": 199,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 13,
+            "c": 94
+          }
+        ],
+        "id": 1032
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Łażewska Dorota, Współczesne koncepcje filozofii i etyki.md",
+        "wordCountStart": 1005,
+        "charCountStart": 7471,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 18,
+            "c": 115
+          }
+        ],
+        "id": 1033
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Magyar Balint i Madlovics Balint, Krótki przewodnik po systemach postkomunistycznych.md",
+        "wordCountStart": 433,
+        "charCountStart": 3394,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 20,
+            "c": 155
+          },
+          {
+            "timeKey": "21:25",
+            "w": 540,
+            "c": 4264
+          }
+        ],
+        "id": 1034
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md",
+        "wordCountStart": 1288,
+        "charCountStart": 8424,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 1,
+            "c": 10
+          }
+        ],
+        "id": 1035
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+        "wordCountStart": 59,
+        "charCountStart": 435,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 13,
+            "c": 69
+          },
+          {
+            "timeKey": "21:30",
+            "w": 7,
+            "c": 64
+          }
+        ],
+        "id": 1036
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Mazurkiewicz Piotr, Europeizacja Europy.md",
+        "wordCountStart": 105,
+        "charCountStart": 929,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 19,
+            "c": 133
+          }
+        ],
+        "id": 1037
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Socjologia.md",
+        "wordCountStart": 27,
+        "charCountStart": 233,
+        "changes": [],
+        "id": 1038
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
+        "wordCountStart": 54,
+        "charCountStart": 460,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 11,
+            "c": 68
+          }
+        ],
+        "id": 1039
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Molyneux Stephan, Elementarz filozofii.md",
+        "wordCountStart": 2469,
+        "charCountStart": 17846,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 17,
+            "c": 105
+          }
+        ],
+        "id": 1040
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
+        "wordCountStart": 94,
+        "charCountStart": 763,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 26,
+            "c": 185
+          }
+        ],
+        "id": 1041
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nieznański Edward, Elementy filozofii teoretycznej.md",
+        "wordCountStart": 1811,
+        "charCountStart": 14306,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 24,
+            "c": 189
+          }
+        ],
+        "id": 1042
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Noras, Kubalica, Geneza współczesnej filozofii wartości.md",
+        "wordCountStart": 2387,
+        "charCountStart": 18800,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -1,
+            "c": -9
+          }
+        ],
+        "id": 1043
       }
     ]
   }

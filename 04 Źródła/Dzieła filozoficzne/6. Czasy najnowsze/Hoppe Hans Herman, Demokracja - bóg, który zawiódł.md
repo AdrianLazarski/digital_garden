@@ -1,4 +1,15 @@
-[[Hans Herman Hoppe]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/polityki
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-23 21:09
+year: "2001"
+---
+[[Hans Herman Hoppe]], 
 
 
 -I wojna światowa nabrała w pewnym momencie wymiaru ideologicznego. Wilson niósł demokrację i był "dobrem" w walce ze "złą" cesarską Austrią. To ona została zniszczona, nie Niemcy.
@@ -164,7 +175,6 @@ Czynniki nań wpływające:
 
 -Państwa nie są uzależnione żadnymi kontraktami z obywatelami, więc arbitralnie definiują takie pojęcia jak agresja, kara, zadośćuczynienie.
 
--Secesja lekarstwem na etatyzm, ale nie na jednym wielkim płacie ziemi, a w wielu miejscach na raz przy gwarancji nienaruszalności własności knagi w postaci państwowych budynków.
+-Secesja lekarstwem na etatyzm, ale nie na jednym wielkim płacie ziemi, a w wielu miejscach na raz przy gwarancji nienaruszalności własności państwa w postaci państwowych budynków.
 
 
-#filozofia #filozofia/współczesna #filozofia/polityki #demokracja #monarchizm #libertarianizm #anarchokapitalizm #filozofia/prawa 

@@ -1,12 +1,16 @@
 ---
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
 created: 2025-11-22 10:54
 tags:
-  - filozofia/dzieła
-  - libertarianizm
+  - recenzja
+  - filozofia/współczesna
+  - filozofia/polityki
 modified date: 2025-11-22 11:21
 Moja ocena: "2"
 okładka: https://ecsmedia.pl/c/koniec-polityki-czyli-panstwo-bez-przymusu-b-iext188827522.jpg
 ---
+2018 r.
 
 Chyba jedna z najgłupszych książek, jakie czytałem. Festiwal chłopskiego rozumu naukowego i filozoficznego samouka, który nie za wiele rozumie z obu tych dziedzin i nieironicznie nazwał siebie "wolnomyślicielem" (xD). Wisienką na torcie jest nieukrywany amerykanocentryzm, który idealnie podkreśla ignorancję autora w niezliczonej liczbie kwestii.
 

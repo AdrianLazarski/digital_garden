@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - socjologia
+  - filozofia/współczesna
+  - filozofia/kultury
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-23 21:28
+year: "2001"
+---
 2001 r.
 
 ## Rozdział 3 Logos
@@ -31,4 +43,3 @@
 
 
 
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/historia_filozofii 

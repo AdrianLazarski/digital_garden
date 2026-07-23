@@ -1,4 +1,16 @@
-[[Hans Herman Hoppe]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/polityki
+  - filozofia/współczesna
+  - filozofia/nauki
+  - filozofia/epistemologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-23 21:12
+---
+[[Hans Herman Hoppe]], 2012 r.
 
 Bardzo ciekawy zbiór esejów. Dość szybko się brnie przez teksty o pseudointelektualistach, ludziach pierwotnych, pochodzeniu własności i rodziny, o kontroli migracji, czy o polityce monetarnej, ale to wszystko stanowi raptem połowę książki. Potem tempo zwalnia, ale zaczynamy wgryzać się w solidniejsze i dużo bardziej wymagające treści z szeroko rozumianych okolic filozofii nauki - prakseologia, epistemologia, statystyka. Hoppe skutecznie broni kantyzmu, prakseologii i dualizmu metodologicznego oraz bezlitośnie masakruje pozytywistów i hermeneutów.
 
@@ -132,4 +144,3 @@ W hermeneutyce: badanie zawiera się w rutynowej konwersacji
 -„wyłączny nacisk na bezpośrednią, fizyczną napaść nie ma analogii w teorii zawłaszczania”
 
 
-#filozofia #filozofia/współczesna #filozofia/polityki #libertarianizm #anarchokapitalizm #filozofia/prawa #filozofia/etyka 

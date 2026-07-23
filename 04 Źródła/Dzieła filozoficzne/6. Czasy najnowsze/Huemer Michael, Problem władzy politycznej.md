@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/polityki
+  - filozofia/etyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-23 21:17
+year: "2012"
+---
 [[Michael Huemer]]
 
 
@@ -18,4 +30,3 @@
 
 
 
-#filozofia #filozofia/współczesna #filozofia/polityki #libertarianizm #anarchokapitalizm #filozofia/prawa #filozofia/etyka #intuicjonizm 

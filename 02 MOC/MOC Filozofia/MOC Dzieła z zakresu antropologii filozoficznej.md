@@ -18,4 +18,5 @@ modified date: 2026-07-03 17:59
 [[Jaspers Karl, Problem winy]], 1946 r.
 [[Stachniuk Jan, Człowieczeństwo i kultura]],1946 r.
 [[Camus Albert, Upadek]], 1956 r.
+[[Grzybowski ks. Jacek, Uciec z krainy zapomnienia]], 2016 r.
 [[Górecki, Wolność człowieka i jej granice 1]], 2019 r.

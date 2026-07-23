@@ -1,4 +1,13 @@
-[[Michał Heller]]
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-23 20:44
+---
+[[Michał Heller]], 2009 r.
 
 Bardzo krótka i ciekawie napisana książka. Zachęcam każdego, komu tytuł wydał się choć trochę intrygujący.  
   
@@ -37,4 +46,3 @@ Notatki:
 -Filozofia powinna wyprzedzać życie o pół kroku
 
 
-#filozofia #filozofia/polska #filozofia/współczesna 

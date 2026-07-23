@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/etyka
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-23 21:22
+year: "2009"
+---
 2009
 Dorota Łażewska - Współczesne koncepcje filozofii i etyki
 
@@ -118,5 +129,3 @@ mieć nawet większe prawo do życia niż ludzie upośledzeni umysłowo. Nie
 należy zatem uważać, że człowiek jest kimś wyjątkowym oraz traktować
 jego życia jako cenniejszego od życia zwierząt.135
 
-
-#filozofia #filozofia/historia_filozofii #filozofia/współczesna #filozofia/polska 

@@ -23,12 +23,13 @@ recenzje wkleić
 [[McCloskey Deirdre, Burżuazyjna godność]]
 [[Stróżewski Władysław, Ontologia]]
 [[Hayek, Nadużycie rozumu]] końcowe rozdziały doczytać
-
+[[Grzybowski ks. Jacek, Uciec z krainy zapomnienia]] dokończyć
 
 ## Uporządkuj notatki
 
 [[Metodologia i statystyka Tom 1 Przewodnik naukowego turysty]]
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
+[[Nieznański Edward, Elementy filozofii teoretycznej]]
 
 [[robocza]]
 [[MOC IT]]

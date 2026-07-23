@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/epistemologia
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-07-23 21:18
+year: "2020"
+---
 
 
 # Tom I
@@ -16,5 +27,3 @@
 - Rozum to zdolność do ujmowania związków pomiędzy różnorakimi treściami oraz zdolnością do analizy siebie samego, a więc zdolnością do krytyki wydawanych 
 
 
-
-#filozofia #filozofia/epistemologia #filozofia/współczesna #filozofia/polska 

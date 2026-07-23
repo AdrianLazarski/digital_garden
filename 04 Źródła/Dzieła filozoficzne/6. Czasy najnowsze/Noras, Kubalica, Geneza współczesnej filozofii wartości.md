@@ -4,9 +4,8 @@ tags:
   - ref
   - filozofia/aksjologia
   - filozofia/współczesna
-  - filozofia/polska
   - filozofia/historia_filozofii
-dojrzalosc:
+dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-02-08 16:49
 Miejsce wydania: Katowice

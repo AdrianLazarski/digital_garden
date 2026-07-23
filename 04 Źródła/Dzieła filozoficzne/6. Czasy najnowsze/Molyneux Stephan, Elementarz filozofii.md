@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-23 21:30
+year: "2017"
+---
 
 
 Lecz jeśli samopoświęcenie jest uniwersalnym moralnym ideałem, nie może w ogóle być uniwersalnie zastosowany. Jeśli Bob poświęca się dla Douga, to Doug nie może jednocześnie poświęcić się dla Boba. Mamy tych, którzy się poświęcają, oraz tych, którzy zbierają owoce tego poświęcenia – tych, którzy płacą, oraz tych, którzy inkasują. Jeśli samopoświęcenie jest uniwersalnym moralnym ideałem, to ci, którzy raczej zbierają owoce tego poświęcenia aniżeli sami się poświęcają, sami muszą być niemoralni, skoro czerpią zyski z cudzego samopoświęcenia, samemu raczej się nie poświęcając. Lecz jeśli najwyższy moralny ideał wymaga, by inni ludzie byli niemoralni, jak może uchodzić to za coś uniwersalnie dobrego?
@@ -153,5 +163,3 @@ To pułapka!"
 
 Amen.
 
-
-#filozofia #filozofia/współczesna #libertarianizm #filozofia/metafizyka 

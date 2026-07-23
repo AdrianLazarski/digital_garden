@@ -3,8 +3,9 @@ created: 2026-03-16 15:11
 tags:
   - ref
   - filozofia/współczesna
+  - logika
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-03-16 15:11
 oryginalny-tytul: There are two errors in the the title of this book
 Rok oryginału: "2002"

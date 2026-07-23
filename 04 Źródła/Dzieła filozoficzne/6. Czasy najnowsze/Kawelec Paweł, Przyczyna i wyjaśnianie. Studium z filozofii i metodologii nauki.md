@@ -1,3 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/nauki
+  - filozofia/metafizyka
+  - filozofia/współczesna
+  - filozofia/przyrody
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-23 21:20
+year: "2006"
+---
 2006 r.
 
 Kawalec przyczynowość
@@ -29,7 +42,3 @@ Kawalec przyczynowość
 - Chce zastąpić pojęcie prawa naukowego pojęciem uogólnienia projekcyjnego, które posiada najistotniejsze walory praw, ale nie narzuca zbyt restryktywnych ograniczeń na badania naukowe.
 
 
-
-
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/metafizyka #filozofia/nauki #logika #logika/metodologia 

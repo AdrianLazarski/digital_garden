@@ -75,4 +75,4 @@ Bardzo mi miło że swoją próbą obalenia mojego stanowiska jednocześnie je p
 
 
 
-#filozofia/etyka #bioetyka #filozofia/polityki #filozofia/polityka
+#filozofia/etyka #bioetyka #filozofia/polityki #filozofia/polityki

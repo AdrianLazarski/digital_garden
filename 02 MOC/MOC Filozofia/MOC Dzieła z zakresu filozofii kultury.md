@@ -10,4 +10,5 @@ modified date: 2026-07-22 21:41
 
 [[Stachniuk Jan, Człowieczeństwo i kultura]],1946 r.
 
-
+[[Mazurkiewicz Piotr, Europeizacja Europy]], 2001 r.
+[[Grzybowski ks. Jacek, Uciec z krainy zapomnienia]], 2016 r.

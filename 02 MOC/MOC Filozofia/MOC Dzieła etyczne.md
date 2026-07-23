@@ -18,3 +18,5 @@ modified date: 2026-07-03 17:59
 [[Camus Albert, Upadek]], 1956 r.
 [[Rand Ayn, Cnota egoizmu]], 1964 r.
 [[MacIntyre Alasdair, Krótka historia etyki]], 1966 r.
+[[Łażewska Dorota, Współczesne koncepcje filozofii i etyki]], 2009 r.
+[[Huemer Michael, Problem władzy politycznej]], 2012 r.

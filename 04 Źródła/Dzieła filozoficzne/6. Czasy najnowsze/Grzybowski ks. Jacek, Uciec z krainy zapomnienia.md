@@ -1,4 +1,15 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/antropologia
+  - filozofia/kultury
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-23 20:35
+---
+2016 r.
   
 Rozdział V
 
@@ -47,4 +58,3 @@ Rozdział V
 - Godność osoby wynika z jej samoistnego istnienia + władz rozumu i woli.
 
 
-#filozofia #filozofia/polska #filozofia/współczesna #filozofia/kultury #filozofia/polityki 
