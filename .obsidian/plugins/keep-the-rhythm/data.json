@@ -14233,6 +14233,20 @@
         "charCountStart": 4845,
         "changes": [],
         "id": 1005
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "04 Źródła/Jasiński Łukasz, Agonia.md",
+        "wordCountStart": 1205,
+        "charCountStart": 8313,
+        "changes": [
+          {
+            "timeKey": "11:35",
+            "w": 110,
+            "c": 581
+          }
+        ],
+        "id": 1006
       }
     ]
   }

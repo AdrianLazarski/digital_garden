@@ -4,9 +4,22 @@ tags:
   - ekonomia
   - ref
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 14:21
 ---
+Wrocław 2024 r.
+
+**Spis treści**
+
+1. [1. System ochrony zdrowia w USA do 2013 r.](#1.%20System%20ochrony%20zdrowia%20w%20USA%20do%202013%20r.)
+2. [2. Amerykańskie Towarzystwo Medyczne AMA](#2.%20Ameryka%C5%84skie%20Towarzystwo%20Medyczne%20AMA)
+3. [3. Agencja ds. żywności i leków](#3.%20Agencja%20ds.%20%C5%BCywno%C5%9Bci%20i%20lek%C3%B3w)
+4. [4. Ubezpieczenia społeczne](#4.%20Ubezpieczenia%20spo%C5%82eczne)
+5. [5. Prywatne ubezpieczenia zdrowotne](#5.%20Prywatne%20ubezpieczenia%20zdrowotne)
+6. [6. Szpitalnictwo](#6.%20Szpitalnictwo)
+7. [7. Podsumowanie](#7.%20Podsumowanie)
+
+
 
 # 1. System ochrony zdrowia w USA do 2013 r.
 
