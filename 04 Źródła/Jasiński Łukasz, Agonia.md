@@ -76,7 +76,7 @@ Wrocław 2024 r.
 
 # 3. Agencja ds. żywności i leków
 
-
+FDA
 
 
 # 4. Ubezpieczenia społeczne

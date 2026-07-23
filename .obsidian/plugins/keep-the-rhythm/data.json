@@ -14244,9 +14244,30 @@
             "timeKey": "11:35",
             "w": 110,
             "c": 581
+          },
+          {
+            "timeKey": "12:15",
+            "w": 1,
+            "c": 3
           }
         ],
         "id": 1006
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+        "wordCountStart": 290,
+        "charCountStart": 2329,
+        "changes": [],
+        "id": 1007
+      },
+      {
+        "date": "2026-07-23",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci.md",
+        "wordCountStart": 1694,
+        "charCountStart": 11592,
+        "changes": [],
+        "id": 1008
       }
     ]
   }
