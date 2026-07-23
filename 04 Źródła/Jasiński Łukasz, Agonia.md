@@ -76,7 +76,11 @@ Wrocław 2024 r.
 
 # 3. Agencja ds. żywności i leków
 
-FDA
+- W 1906 r. uchwalono Pure Food and Drug Act, by zmniejszyć niepokój społeczny wywołany przez rzekomo fatalne warunki w chicagowskich rzeźniach, opisanych w wyssanej z palca powieści "Grzęzawisko" Uptona Sinclaira, po którym spadł eksport amerykańskiego mięsa. Producenci sami zaczęli zabiegać o więcej państwowej kontroli, by uspokoić klientów i ograniczyć konkurencję ze strony mniejszych krajowych producentów.
+- Skupiano się głównie na żywności i kontrolą zajmował się Departament Rolnictwa.
+- W 1930 r. Pojawiła się Food and Drug Administration. 
+- W 1938 rozszerzono uprawnienia FDA, bo rok wcześniej umarło ponad sto osób przez sulfanilamid w syropie (Europa stosowała ten lek w tabletkach i był bezpieczny).
+- 
 
 
 # 4. Ubezpieczenia społeczne
