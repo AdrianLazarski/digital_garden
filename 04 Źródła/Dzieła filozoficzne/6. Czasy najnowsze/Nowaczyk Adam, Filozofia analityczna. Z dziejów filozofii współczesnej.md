@@ -1,12 +1,23 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-23 21:40
+year: 2008 r.
+---
 2008 r.
 
-W istocie ci, którzy posługują się określeniem „filozofia kontynentalna” mają na myśli filozofię, która wyrasta z pewnej części tradycji nowo­ żytnej filozofii europejskiej (głównie niemieckiej), na którą składają się dzieła Hegla, Marksa, Nietzschego, Freuda, Husserla i Heideggera
+W istocie ci, którzy posługują się określeniem „filozofia kontynentalna” mają na myśli filozofię, która wyrasta z pewnej części tradycji nowo­żytnej filozofii europejskiej (głównie niemieckiej), na którą składają się dzieła Hegla, Marksa, Nietzschego, Freuda, Husserla i Heideggera
 
 mają głównie jedną prostą bardzo przyczynę; wynikają one mianowicie z tego, iż uczeni próbują od razu rozwiązywać zagadnienia, nie ustaliwszy uprzednio, jaka jest, biorąc dokładnie, treść zagadnienia, które mają rozstrzygnąć
 
 Za takim poglądem przemawia niezmiernie ścisły związek zachodzący między myślą a mową, związek tym ściślejszy, im bardziej abstrakcyjną myśl mowa wyraża3
 
-Narzędziem mającym zapewnić intersubiektywną komunikowalność wypowiedzi i - w miarę możności - rozstrzygalność zagadnień filozoficznych ma być analiza. Analizie poddaje się pojęcia, zagadnienia i twierdzenia, a ponieważ pojmowane są one na ogól jako znaczenia wyrażeń językowych, w centrum uwagi staje język filozofii
+Narzędziem mającym zapewnić intersubiektywną komunikowalność wypowiedzi i - w miarę możności - rozstrzygalność zagadnień filozoficznych ma być analiza. Analizie poddaje się pojęcia, zagadnienia i twierdzenia, a ponieważ pojmowane są one na ogół jako znaczenia wyrażeń językowych, w centrum uwagi staje język filozofii
 
 zwrot lingwistyczny
 

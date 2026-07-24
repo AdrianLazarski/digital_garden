@@ -29,4 +29,4 @@ modified date: 2026-07-03 17:40
 [[Górecki, Wolność człowieka i jej granice 1]], 2019 r.
 [[Judycki Stanisław, Epistemologia]], 2020 r.
 [[Gadacz, Dybel, Sady, Środa, Krótka historia filozofii współczesnej]], 2023 r.
-[[Noras, Kubalica, Geneza współczesnej filozofii wartości]]`
+[[Noras, Kubalica, Geneza współczesnej filozofii wartości]], 2023 r.

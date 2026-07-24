@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu logiki"
+              "title": "MOC Dzieła filozoficzne"
             }
           },
           {
@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Noras, Kubalica, Geneza współczesnej filozofii wartości.md",
+                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,11 +316,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Noras, Kubalica, Geneza współczesnej filozofii wartości"
+              "title": "Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej"
+            }
+          },
+          {
+            "id": "e7efe9bf123b411d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -352,7 +362,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "platon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -373,7 +383,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -456,13 +467,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Najnowsza literatura filozoficzna"
+              "title": "Konspekt"
             }
           }
         ],
@@ -538,14 +548,18 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "b9b2d089fd0c761d",
+  "active": "37df71b7afbc0aa3",
   "lastOpenFiles": [
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Noras, Kubalica, Geneza współczesnej filozofii wartości.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii wartości.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia wartości.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie wartości.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
     "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nieznański Edward, Elementy filozofii teoretycznej.md",
     "Aktualnie opracowywane.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Molyneux Stephan, Elementarz filozofii.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Mazurkiewicz Piotr, Europeizacja Europy.md",
@@ -562,10 +576,6 @@
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Judycki Stanisław, Epistemologia.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Huemer Michael, Problem władzy politycznej.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Hoppe Hans Herman, Wielka fikcja, Państwo w epoce schyłku.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia przyrody.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"
