@@ -1,15 +1,18 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/współczesna
+  - filozofia/nauki
+  - ref
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 16:48
+year: "2010"
+---
 *Nonsense on Stilts: How to Tell Science from Bunk*, 2010
 2019, Warszawa
 
-**Spis treści**
-
-1. [Rozdział 1](#Rozdzia%C5%82%201)
-2. [Rozdział 3](#Rozdzia%C5%82%203)
-3. [Rozdział 4](#Rozdzia%C5%82%204)
-4. [Rozdział 5](#Rozdzia%C5%82%205)
-5. [Rozdział 6](#Rozdzia%C5%82%206)
-6. [Rozdział 7](#Rozdzia%C5%82%207)
-7. [Recenzja](#Recenzja)
 
 ## Rozdział 1
 
@@ -165,5 +168,3 @@ Autor pokusił się też o skrótowe przedstawienie historii nauki od myślenia 
 Mimo różnych potknięć, Bujda na resorach to książka godna polecenia każdemu, kto ceni racjonalizm i rozumie potrzebę obrony przed fałszem oraz kontroli nawet naszych autorytetów poznawczych, jakimi są naukowcy. Dla liberała to przede wszystkim ostrzeżenie przed cyniczną instrumentalizacją nauki na potrzeby propagandy politycznej i zachęta do krytycznego podejścia do „naukowych” argumentów w debacie publicznej.
 
 
-
-#filozofia #filozofia/współczesna #filozofia/włoska #filozofia/nauki #recenzja 

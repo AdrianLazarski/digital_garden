@@ -50,7 +50,7 @@ modified date: 2026-07-06 14:08
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 [[Swieżawski Stefan, Człowiek średniowieczny]], 1999 r.
 [[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]], 2000 r.
-
+[[Sękowski Stefan, W walce z Wujem Samem]], 2010 r.
 
 # Współczesność
 
@@ -60,4 +60,8 @@ modified date: 2026-07-06 14:08
 [[Johnson Paul, Intelektualiści]], 1988 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 [[Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej]], 2008 r.
+[[Sękowski Stefan, W walce z Wujem Samem]], 2010 r.
+[[Sady Wojciech, Wielcy filozofowie współczesności]], 2012 r.
+[[Sepczyńska Dorota, Libertarianizm]], 2013 r.
+[[Scruton Roger – Głupcy, oszuści i podżegacze]], 2015 r.
 [[Gadacz, Dybel, Sady, Środa, Krótka historia filozofii współczesnej]], 2023 r.

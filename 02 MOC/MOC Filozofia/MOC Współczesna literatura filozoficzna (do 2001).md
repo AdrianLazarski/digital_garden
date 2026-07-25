@@ -75,6 +75,7 @@ modified date: 2026-07-03 17:38
 [[Lenartowicz Piotr, Wprowadzenie do zagadnień filozoficznych]], 1998 r.
 [[Opara Stanisław, Podstawy filozofii]], 1999 r.
 [[Swieżawski Stefan, Człowiek średniowieczny]], 1999 r.
+[[Peterson Jordan, Mapy sensu]], 1999 r.
 [[Rorty Richard, Filozofia a nadzieja na lepsze społeczeństwo]], 2000 r.
 [[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]], 2000 r.
 [[Szyszkowska Maria, Zarys filozofii prawa]], 2000 r.

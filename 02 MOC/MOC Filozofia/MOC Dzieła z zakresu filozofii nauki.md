@@ -18,4 +18,5 @@ modified date: 2026-07-06 14:05
 [[Krajewski Władysław, Związek przyczynowy]], 1995 r.
 [[Krajewski Władysław, Prawa nauki]], 1998 r.
 [[Kawelec Paweł, Przyczyna i wyjaśnianie. Studium z filozofii i metodologii nauki]], 2006 r.
+Pigliucci Massimo, Bujda na resorach
 [[Hoppe Hans Herman, Wielka fikcja, Państwo w epoce schyłku]], 2012 r.

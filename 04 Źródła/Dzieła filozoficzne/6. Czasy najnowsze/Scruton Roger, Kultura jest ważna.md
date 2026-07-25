@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/kultury
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-07-25 17:06
+year: "2007"
+---
 *Culture Counts*, 2007 r.
 
 Scruton zaczyna książkę od zdefiniowania kultury. Jest ona u niego wartością, której nie musi podzielać każdy członek społeczności, i która otwiera serca i umysły jej posiadaczy na spuściznę intelektualną i artystyczną. Jest ona wytworem i wytwórcą elit, ale jej sens tkwi w uczuciach i aspiracjach wspólnych dla wszystkich.

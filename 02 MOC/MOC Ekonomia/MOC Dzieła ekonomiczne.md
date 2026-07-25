@@ -56,4 +56,5 @@ modified date: 2026-07-10 14:09
 [[Epstein Alex, Przyszłość paliw kopalnych]], 2022
 [[Kaiser Axel, Uliczny ekonomista]], 2022
 [[Tupy, Pooley, Superobfitość]], 2022
+[[Palmer Tom, Rozwój i godność człowieka]], 2022 r.
 [[Mueller, Od IOU do inflacji - realistyczne ograniczenia Magicznej Teorii Monetarnej]], 2025

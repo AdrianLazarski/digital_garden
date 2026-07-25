@@ -1,4 +1,16 @@
-2010 r.
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/historia_filozofii
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 17:10
+year: "2010"
+---
+
+# Notatki
 
 - Za Grinbergiem dla anarchizmu używa synonimu "myśl libertarna".
 
@@ -398,4 +410,3 @@
 
 
 
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/historia_filozofii #anarchizm #anarchoindywidualizm

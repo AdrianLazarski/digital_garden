@@ -1,10 +1,12 @@
 ---
-created: 2026-07-03 15:58
+created: 2026-07-25 16:42
 tags:
   - moc
   - psychologia
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
-modified date: 2026-07-03 15:59
+modified date: 2026-07-25 16:42
 ---
-[[MOC Dzieła psychologiczne]]
+
+
+[[Peterson Jordan, Mapy sensu]], 1999 r.

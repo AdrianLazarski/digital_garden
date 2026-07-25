@@ -20,3 +20,4 @@ modified date: 2026-07-03 17:59
 [[MacIntyre Alasdair, Krótka historia etyki]], 1966 r.
 [[Łażewska Dorota, Współczesne koncepcje filozofii i etyki]], 2009 r.
 [[Huemer Michael, Problem władzy politycznej]], 2012 r.
+[[Powell, Babcock, Arguments for Liberty]], 2016 r.

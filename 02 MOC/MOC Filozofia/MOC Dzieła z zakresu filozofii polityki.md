@@ -31,9 +31,13 @@ modified date: 2026-07-06 14:06
 [[Kuehnelt-Leddihn von Erik, Demokracja – opium dla ludu]], 1996 r.
 [[Hoppe Hans Herman, Demokracja - bóg, który zawiódł]], 2001 r.
 [[Bartyzel Jacek, W gąszczu liberalizmów]], 2004 r.
+[[Sękowski Stefan, W walce z Wujem Samem]], 2010 r.
 [[Hoppe Hans Herman, Wielka fikcja, Państwo w epoce schyłku]], 2012 r.
 [[Huemer Michael, Problem władzy politycznej]], 2012 r.
+[[Sepczyńska Dorota, Libertarianizm]], 2013 r.
 [[Juruś Dariusz, Dzieje własności prywatnej]], 2014 r.
+[[Scruton Roger – Głupcy, oszuści i podżegacze]], 2015 r.
+[[Powell, Babcock, Arguments for Liberty]], 2016 r.
 [[Holloway Chas, Koniec polityki]], 2018 r.
 [[Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii]], 2019 r.
 [[Górecki, Wolność człowieka i jej granice 1]], 2019 r.

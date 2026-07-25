@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła filozoficzne"
+              "title": "MOC Dzieła z zakresu filozofii kultury"
             }
           },
           {
@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+                "file": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Współczesna literatura filozoficzna (do 2001)"
+              "title": "MOC Najnowsza literatura filozoficzna"
             }
           },
           {
@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Palmer Tom, Rozwój z godnością.md",
+                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Siemek Marek, Wykłady z nowożytnej filozofii niemieckiej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,11 +316,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Palmer Tom, Rozwój z godnością"
+              "title": "Siemek Marek, Wykłady z nowożytnej filozofii niemieckiej"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -386,7 +386,7 @@
       {
         "id": "9bba5f3f490372be",
         "type": "tabs",
-        "dimension": 14.285714285714285,
+        "dimension": 26.285714285714285,
         "children": [
           {
             "id": "86fd6bfbedd99844",
@@ -456,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Palmer Tom, Rozwój z godnością.md",
+                "file": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Palmer Tom, Rozwój z godnością"
+              "title": "Konspekt MOC Najnowsza literatura filozoficzna"
             }
           }
         ],
@@ -471,7 +471,7 @@
       {
         "id": "333cae531fcc7b0a",
         "type": "tabs",
-        "dimension": 54.50000000000001,
+        "dimension": 42.5,
         "children": [
           {
             "id": "63e680f82b5c5120",
@@ -518,7 +518,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -538,35 +538,35 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "5fafb9c9f0fbedb5",
+  "active": "b9b2d089fd0c761d",
   "lastOpenFiles": [
-    "O stronie.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Palmer Tom, Rozwój z godnością.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej.md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Siemek Marek, Wykłady z nowożytnej filozofii niemieckiej.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Sękowski Stefan, W walce z Wujem Samem.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
-    "01 Input przejściowy/Neoliberalism The Genesis of a Political Swearword.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia polityki/Neoliberalizm.md",
-    "01 Input przejściowy/Realny PKB per capita w Polsce.md",
-    "01 Input przejściowy/załączniki/Realny PKB per capita w Polsce.webp",
-    "02 MOC/MOC Filozofia/MOC Dzieła Platona.md",
-    "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Protagoras.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Noras, Kubalica, Geneza współczesnej filozofii wartości.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii wartości.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia wartości.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie wartości.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nieznański Edward, Elementy filozofii teoretycznej.md",
+    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Sepczyńska Dorota, Libertarianizm.md",
     "Aktualnie opracowywane.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Molyneux Stephan, Elementarz filozofii.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Mazurkiewicz Piotr, Europeizacja Europy.md",
-    "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
-    "02 MOC/MOC Socjologia.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Scruton Roger, Kultura jest ważna.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Scruton Roger – Głupcy, oszuści i podżegacze.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Sady Wojciech, Wielcy filozofowie współczesności.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Powell, Babcock, Arguments for Liberty.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Podsiad Antoni, Słownik terminów i pojęć filozoficznych.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Pigliucci Massimo, Bujda na resorach.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Palmer Tom, Rozwój i godność człowieka.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Peterson Jordan, Mapy sensu.md",
+    "02 MOC/MOC Dzieła psychologiczne.md",
+    "02 MOC/MOC Psychologia.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "02 MOC/MOC Ekonomia.md",
+    "01 Input przejściowy/załączniki/Realny PKB per capita w Polsce.webp",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

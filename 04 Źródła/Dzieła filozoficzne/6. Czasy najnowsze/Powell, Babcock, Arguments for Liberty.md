@@ -1,5 +1,23 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/etyka
+  - filozofia/polityki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-25 16:54
+year: "2016"
+---
 
-## Kantianism, Jason Kuznicki
+utilitarianismm Christopher Freiman 
+natural rights, Eric Mack 
+
+
+
+
+# Kantianism, Jason Kuznicki
 
 - Myśl Kanta jest przykładną myślą oświeceniową i za razem głęboką krytyką oświecenia
 - W kilku obszarach uważał Kant, że rozum powinien milczeć, ale wszędzie indziej niezwykle go afirmował.
@@ -14,5 +32,9 @@
 
 
 
-
-#filozofia #filozofia/współczesna #filozofia/amerykańska  #libertarianizm 
+contractarianism, Jan Narveson 
+rawlsianism, Kevin Vallier
+Virtue ethics, Mark LeBar
+objectivism, Neera K. Badhwar
+ethical intuitionism, Michael Huemer
+moral Pluralism, Jason Brennan

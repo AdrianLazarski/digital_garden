@@ -18,6 +18,7 @@ modified date: 2026-07-06 13:55
 [[Scruton Roger, Przewodnik po filozofii dla inteligentnych]], 1996 r.
 [[Lenartowicz Piotr, Wprowadzenie do zagadnień filozoficznych]], 1998 r.
 [[Opara Stanisław, Podstawy filozofii]], 1999 r.
+[[Podsiad Antoni, Słownik terminów i pojęć filozoficznych]], 2001 r.
 [[Martin, Robert M., W tytule tej książki są są dwa błędy]], 2002 r.
 [[Nieznański Edward, Elementy filozofii teoretycznej]], 2004 r.
 [[Andrzejuk Artur, Elementarz filozofii]], 2007 r.

@@ -1,4 +1,16 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/kultury
+  - psychologia
+  - ref
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 16:40
+year: "1999"
+---
+Wrocław 2021
 
 
 ## Wstęp
@@ -66,4 +78,3 @@
 
 
 
-#filozofia #filozofia/współczesna #psychologia #filozofia/kultury

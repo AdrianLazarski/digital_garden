@@ -15024,6 +15024,36 @@
             "timeKey": "16:15",
             "w": 18,
             "c": 155
+          },
+          {
+            "timeKey": "16:45",
+            "w": 7,
+            "c": 50
+          },
+          {
+            "timeKey": "16:50",
+            "w": 9,
+            "c": 68
+          },
+          {
+            "timeKey": "16:55",
+            "w": 7,
+            "c": 52
+          },
+          {
+            "timeKey": "17:00",
+            "w": 15,
+            "c": 120
+          },
+          {
+            "timeKey": "17:05",
+            "w": 12,
+            "c": 94
+          },
+          {
+            "timeKey": "17:15",
+            "w": 18,
+            "c": 122
           }
         ],
         "id": 1056
@@ -15046,6 +15076,21 @@
             "timeKey": "16:15",
             "w": 10,
             "c": 84
+          },
+          {
+            "timeKey": "17:00",
+            "w": 15,
+            "c": 120
+          },
+          {
+            "timeKey": "17:05",
+            "w": 5,
+            "c": 47
+          },
+          {
+            "timeKey": "17:15",
+            "w": 18,
+            "c": 103
           }
         ],
         "id": 1058
@@ -15060,6 +15105,11 @@
             "timeKey": "16:15",
             "w": 5,
             "c": 56
+          },
+          {
+            "timeKey": "16:40",
+            "w": 6,
+            "c": 42
           }
         ],
         "id": 1059
@@ -15082,7 +15132,7 @@
       },
       {
         "date": "2026-07-25",
-        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Palmer Tom, Rozwój z godnością.md",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Palmer Tom, Rozwój i godność człowieka.md",
         "wordCountStart": 3266,
         "charCountStart": 24484,
         "changes": [
@@ -15095,6 +15145,11 @@
             "timeKey": "16:30",
             "w": 1257,
             "c": 9613
+          },
+          {
+            "timeKey": "16:35",
+            "w": 2,
+            "c": 17
           }
         ],
         "id": 1062
@@ -15106,6 +15161,337 @@
         "charCountStart": 514,
         "changes": [],
         "id": 1063
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Politologia.md",
+        "wordCountStart": 23,
+        "charCountStart": 189,
+        "changes": [],
+        "id": 1064
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md",
+        "wordCountStart": 45,
+        "charCountStart": 346,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 8,
+            "c": 52
+          }
+        ],
+        "id": 1065
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Ekonomia.md",
+        "wordCountStart": 48,
+        "charCountStart": 414,
+        "changes": [],
+        "id": 1066
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+        "wordCountStart": 290,
+        "charCountStart": 2329,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 8,
+            "c": 52
+          }
+        ],
+        "id": 1067
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Peterson Jordan, Mapy sensu.md",
+        "wordCountStart": 988,
+        "charCountStart": 7417,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 22,
+            "c": 163
+          }
+        ],
+        "id": 1068
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
+        "wordCountStart": 43,
+        "charCountStart": 333,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 6,
+            "c": 40
+          },
+          {
+            "timeKey": "17:05",
+            "w": 7,
+            "c": 47
+          }
+        ],
+        "id": 1069
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Psychologia.md",
+        "wordCountStart": 19,
+        "charCountStart": 140,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 4,
+            "c": 48
+          }
+        ],
+        "id": 1070
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Dzieła psychologiczne.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 26,
+            "c": 200
+          }
+        ],
+        "id": 1071
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Pigliucci Massimo, Bujda na resorach.md",
+        "wordCountStart": 2960,
+        "charCountStart": 21172,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": -35,
+            "c": -128
+          }
+        ],
+        "id": 1072
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
+        "wordCountStart": 97,
+        "charCountStart": 711,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": 5,
+            "c": 37
+          }
+        ],
+        "id": 1073
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Podsiad Antoni, Słownik terminów i pojęć filozoficznych.md",
+        "wordCountStart": 116,
+        "charCountStart": 918,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": 18,
+            "c": 127
+          }
+        ],
+        "id": 1074
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
+        "wordCountStart": 120,
+        "charCountStart": 948,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": 9,
+            "c": 69
+          }
+        ],
+        "id": 1075
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Powell, Babcock, Arguments for Liberty.md",
+        "wordCountStart": 154,
+        "charCountStart": 1151,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": 20,
+            "c": 150
+          },
+          {
+            "timeKey": "16:55",
+            "w": 30,
+            "c": 246
+          }
+        ],
+        "id": 1076
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+        "wordCountStart": 100,
+        "charCountStart": 693,
+        "changes": [
+          {
+            "timeKey": "16:55",
+            "w": 7,
+            "c": 52
+          }
+        ],
+        "id": 1077
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+        "wordCountStart": 244,
+        "charCountStart": 1754,
+        "changes": [
+          {
+            "timeKey": "16:55",
+            "w": 7,
+            "c": 52
+          },
+          {
+            "timeKey": "17:00",
+            "w": 8,
+            "c": 58
+          },
+          {
+            "timeKey": "17:05",
+            "w": 5,
+            "c": 47
+          },
+          {
+            "timeKey": "17:15",
+            "w": 9,
+            "c": 52
+          }
+        ],
+        "id": 1078
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Sady Wojciech, Wielcy filozofowie współczesności.md",
+        "wordCountStart": 676,
+        "charCountStart": 4741,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 25,
+            "c": 211
+          }
+        ],
+        "id": 1079
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Scruton Roger – Głupcy, oszuści i podżegacze.md",
+        "wordCountStart": 6753,
+        "charCountStart": 50133,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 1708,
+            "c": 12235
+          },
+          {
+            "timeKey": "17:05",
+            "w": 2,
+            "c": 16
+          }
+        ],
+        "id": 1080
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Scruton Roger, Kultura jest ważna.md",
+        "wordCountStart": 647,
+        "charCountStart": 4779,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 25,
+            "c": 203
+          }
+        ],
+        "id": 1081
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Sepczyńska Dorota, Libertarianizm.md",
+        "wordCountStart": 252,
+        "charCountStart": 2309,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 17,
+            "c": 128
+          }
+        ],
+        "id": 1082
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "Aktualnie opracowywane.md",
+        "wordCountStart": 104,
+        "charCountStart": 995,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": 5,
+            "c": 47
+          }
+        ],
+        "id": 1083
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Sękowski Stefan, W walce z Wujem Samem.md",
+        "wordCountStart": 6544,
+        "charCountStart": 48157,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": 16,
+            "c": 112
+          },
+          {
+            "timeKey": "17:15",
+            "w": -1,
+            "c": -12
+          }
+        ],
+        "id": 1084
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Siemek Marek, Wykłady z nowożytnej filozofii niemieckiej.md",
+        "wordCountStart": 20,
+        "charCountStart": 175,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 19,
+            "c": 150
+          }
+        ],
+        "id": 1085
       }
     ]
   }

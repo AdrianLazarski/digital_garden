@@ -1,4 +1,16 @@
-2013 r.
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/polityki
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 17:08
+year: "2013"
+---
+
 
 ## Brytyjczycy
 
@@ -74,5 +86,3 @@
 	- W takim ujęciu nie jest to nazwa teorii radykalniejszej od liberalizmu; jest to pojęcie szersze od niego, obejmujące różne filozofie społeczne (polityki, ekonomii, kultury, dziejów, prawa, wychowania)
 
 
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/historia_filozofii #libertarianizm 

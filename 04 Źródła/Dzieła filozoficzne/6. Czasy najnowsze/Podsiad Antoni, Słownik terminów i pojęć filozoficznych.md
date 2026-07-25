@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/współczesna
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-25 16:50
+year: "2001"
+---
 A. Podsiad, Słownik terminów i pojęć filozoficznych Warszawa 2001
 
 Ponad 1000 słownikowych stron (500 normalnych) 
@@ -11,9 +21,7 @@ Ponad 1000 słownikowych stron (500 normalnych)
 
 ## Wybrane hasła
 
-Absurdalny podział empiryzmów na genetyczny, epistemologiczny, metodologiczny i logiczny. Z opis epistemologicznego wynika, że to po prostu jeszcze raz wymieniony genetyczny, zaś empiryzm logiczny to zupełnie nie ten porządek.
+Absurdalny podział empiryzmów na genetyczny, epistemologiczny, metodologiczny i logiczny. Z opisu epistemologicznego wynika, że to po prostu jeszcze raz wymieniony genetyczny, zaś empiryzm logiczny to zupełnie nie ten porządek.
 
 
 
-
-#filozofia #filozofia/polska #filozofia/współczesna 

@@ -24,6 +24,7 @@ recenzje wkleić
 [[Stróżewski Władysław, Ontologia]]
 [[Hayek, Nadużycie rozumu]] końcowe rozdziały doczytać
 [[Grzybowski ks. Jacek, Uciec z krainy zapomnienia]] dokończyć
+[[Sepczyńska Dorota, Libertarianizm]], 2013 r.
 
 ## Uporządkuj notatki
 

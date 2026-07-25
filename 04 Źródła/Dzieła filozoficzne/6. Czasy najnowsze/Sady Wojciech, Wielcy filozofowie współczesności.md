@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 17:00
+year: "2012"
+---
 z Katarzyną Gurczyńską-Sady
 
 
