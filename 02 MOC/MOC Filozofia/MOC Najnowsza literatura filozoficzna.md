@@ -16,6 +16,7 @@ modified date: 2026-07-03 17:40
 [[Nieznański Edward, Elementy filozofii teoretycznej]], 2004 r.
 [[Kawelec Paweł, Przyczyna i wyjaśnianie. Studium z filozofii i metodologii nauki]], 2006 r.
 [[Andrzejuk Artur, Elementarz filozofii]], 2007 r.
+[[Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej]], 2008 r.
 [[Heller Michał, Jak być uczonym]], 2009 r.
 [[Łażewska Dorota, Współczesne koncepcje filozofii i etyki]], 2009 r.
 [[Łażewska Dorota, Filozofia dla pracujących]], 2011 r.
@@ -30,3 +31,7 @@ modified date: 2026-07-03 17:40
 [[Judycki Stanisław, Epistemologia]], 2020 r.
 [[Gadacz, Dybel, Sady, Środa, Krótka historia filozofii współczesnej]], 2023 r.
 [[Noras, Kubalica, Geneza współczesnej filozofii wartości]], 2023 r.
+
+
+
+$\leftarrow$ [[MOC Współczesna literatura filozoficzna (do 2001)]]

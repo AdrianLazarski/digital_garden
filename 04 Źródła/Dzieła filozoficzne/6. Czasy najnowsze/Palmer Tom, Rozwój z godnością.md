@@ -1,4 +1,21 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - politologia
+  - ekonomia
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 16:27
+year: "2022"
+publish:
+---
+Warszawa 2024
+https://wolnagospodarka.pl/wp-content/uploads/2024/10/Tom-Palmer-Matt-Warner-Rozwoj-i-godnosc-czlowieka.pdf
 
+
+# Notatki
 
 Pomoc zagraniczna karmi korupcję. Ogromna część środków pomocowych zaginęła. Nierzadko jest to 30 procent, a istnieją udokumentowane przypadki, w których _100 procent_ środków pomocowych nigdy nie dotarło do miejsca przeznaczenia. Pomoc wzmaga pogoń za rentą w krajach odbiorców i zachęca do destrukcyjnych machinacji. Wzrost gospodarczy nie rekompensuje korupcji, której sprzyja pomoc rozwojowa. Związek pomocy zagranicznej ze wzrostem gospodarczym jest w najlepszym razie nieuchwytny.
 
@@ -121,7 +138,6 @@ Jak argumentował nagrodzony Nagrodą Nobla ekonomista Angus Deaton: „To, co n
 [^4]: A. Deaton, dz. cyt., s. 334.
 
 
-#filozofia/dzieła #filozofia #ekonomia #liberalizm #pomoc_zagraniczna #postkolonializm #dekolonizacja #libertarianizm #filozofia/polityki #filozofia/etyka #filozofia/współczesna
 
 
 
@@ -149,6 +165,42 @@ Według University of Pennsylvania’s Think Tank and Civil Societies Program, n
 
 [[1]](file:///C:/Users/Bibliotekarz/Downloads/Palmer.docx#_ftnref1) D. Lewis, N. Kanji, N. Themudo, Nongovernment Organizations and Development, wyd. drugie, Routledge, Londyn 2021, ss. 1–2.
 
-Jak argumentował nagrodzony Nagrodą Nobla ekonomista Angus Deaton: „To, co na pewno powinno się stać, to dokładnie to, co stało się w tej części świata, która dziś jest zamożna, a w której poszczególne państwa rozwijały się po swojemu, we własnym tempie, w ramach własnych struktur politycznych i ekonomicznych”[[1]](file:///C:/Users/Bibliotekarz/Downloads/Palmer.docx#_ftn1). Jeśli nie możemy znaleźć dla siebie pomocnej roli jako eksperci zewnętrzni, ludzka godność wymaga, byśmy ustąpili.
+Jak argumentował nagrodzony Nagrodą Nobla ekonomista Angus Deaton: „To, co na pewno powinno się stać, to dokładnie to, co stało się w tej części świata, która dziś jest zamożna, a w której poszczególne państwa rozwijały się po swojemu, we własnym tempie, w ramach własnych struktur politycznych i ekonomicznych”[^5]. Jeśli nie możemy znaleźć dla siebie pomocnej roli jako eksperci zewnętrzni, ludzka godność wymaga, byśmy ustąpili.
 
-[[1]](file:///C:/Users/Bibliotekarz/Downloads/Palmer.docx#_ftnref1) A. Deaton, dz. cyt., s. 334.
+
+[^5]: A. Deaton, dz. cyt., s. 334.
+
+
+# Recenzja
+
+Rozwój i Godność Człowieka: Czyli Jak Walczyć z Ubóstwem Toma Palmera i Matta Warnera to nie tylko interesująca, ale przede wszystkim potrzebna książka. Autorzy od lat angażują się w działalność trzeciego sektora w ramach Atlas Network, które jako organizacja „parasolowa”, wspiera finansowo i merytorycznie wolnorynkowe organizacje pozarządowe na całym świecie.  
+  
+Dzięki tak rozbudowanej sieci kontaktów autorzy mają dobry wgląd w to, jak wygląda pomoc zagraniczna dla najuboższych państw świata i wyciągają wnioski ważne nie tylko dla takiej działalności charytatywnej, ale w ogóle dla jakiegokolwiek przyznawania grantów na różne cele społeczne.  
+  
+**Problemy pomocy zagranicznej**  
+Przede wszystkim pomoc zagraniczna za pośrednictwem struktur państwowych napędza korupcję w państwie będącym stroną wspieraną. Istnieją udokumentowane przypadki, gdy nawet 100 procent środków pomocowych nie dotarło do miejsca przeznaczenia. Ponadto, pomoc zagraniczna nie napędza najpilniejszych inwestycji na zasadach rynkowych, więc często sprowadza się do wypierania kapitału krajowego i zwiększania konsumpcji towarów zagranicznych – w szczególności tych pochodzących z kraju przekazującego pieniądze.  
+  
+Oprócz tego pomoc zagraniczna może zwiększać ryzyko przemocy. Według jednego z badań „w roku następującym po zwiększeniu amerykańskiej pomocy zagranicznej dla danego kraju następuje wzrost liczby zabójstw, represji i tortur ze strony państwa”. Lokalni watażkowie potrafią nawet sprzedać pomoc żywnościową, by zwiększyć siłę swoich wojsk.  
+  
+Kolejnym problemem jest to, że pomoc zagraniczna w rozwijających się demokracjach osłabia odpowiedzialność rządów przed swoimi obywatelami. Rządzący i podlegli im urzędnicy stają wobec wypaczonych bodźców, ponieważ zamiast realizować wolę narodu, który ich wybrał na stanowiska, skupiają się na spełnianiu wymagań innych państw. I nie chodzi tu o jakieś polityczne neokolonialne podporządkowanie, ale po prostu muszą spełniać różne wymogi administracyjne związane z poszczególnymi programami pomocowymi.  
+  
+Należy także wspomnieć o wyuczonej bezradności, którą utrwala się w krajach objętych pomocą zagraniczną. Przykładowo w ostatniej dekadzie w Tanzanii pomoc ta wynosiła od 30 do nawet 70% budżetu państwa. Z kolei w Sierra Leone urzędnicy zorganizowali kiedyś imprezę, aby uczcić fakt, że po raz kolejny znaleźli się na samym dole listy Programu Rozwoju ONZ przedstawiającej kraje o najgorszej sytuacji na świecie, bo oznaczało to dla nich kolejny rok pomocy zagranicznej.  
+  
+Problematyczne jest też nieuwzględnianie wiedzy lokalnej, co jest najbardziej jaskrawym przykładem motywu przewodniego książki, jakim jest nieposzanowanie ludzkiej godności strony obdarowywanej pieniędzmi w ramach pomocy. Autorzy przytaczają sytuację, gdy w Ugandzie planiści MVP (Millenium Village Project – kompleksowy projekt pomocy z lat 2005-2015 pod kierownictwem Jeffreya Sachsa znanego w Polsce przede wszystkim z dyskusji nt. naszej transformacji ustrojowej),przekonali mieszkańców lokalnej wioski Ruhiira, liczącej 7000 osób, do przejścia z uprawy matoke, rośliny podobnej do bananów, na kukurydzę w celu zwiększenia plonów. Faktycznie zbiory były obfite. Niestety zbyt obfite. Do tego stopnia, że nie było możliwości sprzedania nadwyżek, ani lokalnie, ani nigdzie indziej, bo złe drogi sprawiały, że transport był bardzo kosztowny. Nie było też gdzie przechować plonów. W efekcie kukurydza gniła po prostu pod gołym niebem i przyciągała szkodniki. Ludzie mieli kukurydzę i szczury w każdym zakamarku swoich domów.  
+  
+To może przekazywanie umiejętności bezpośrednio obywatelom jest lepszym rozwiązaniem? Teoretycznie może i tak, ale okazuje się, że nawet to można zrobić nieudolnie. Ciekawa jest historia z Nepalu, gdzie zachodni eksperci przybyli pomóc kobietom w uzyskaniu niezależności ekonomicznej. Uznali, że świetnym pomysłem będzie nauczenie dużej liczby kobiet szycia, bo biznes krawiecki mogą prowadzić niskimi kosztami w domu, dzięki czemu poprawią swoją sytuację ekonomiczną i uniezależnią się choć trochę od mężów. Jeśli przedtem istniał jakiś rynek krawiecki, to przestał on istnieć, bo nie było wystarczająco dużego popytu na tego typu usługi, a podaż wzrosła radykalnie. Program, jak wiele innych, zakończył się niepowodzeniem. Jak zwracają uwagę autorzy, rzadko kiedy takie porażki zewnętrznych ekspertów wychodzą na jaw. Nawet nie dlatego, że osoby odpowiedzialne za takie interwencje są nieuczciwe, ale dlatego, że zazwyczaj nie wiedzą w ogóle, że zawiodły. Większość programów mierzy sukces na podstawie ich bezpośrednich rezultatów (np. liczba kobiet nauczonych szycia),rzadko na podstawie ich faktycznych, najbardziej pożądanych efektów (liczba kobiet uniezależnionych finansowo dzięki danemu programowi).  
+  
+  
+**Rozwiązanie**  
+W 2020 r. organizacja Peace Direct zebrała 158 uczonych i aktywistów, aby omówić stan zdominowania agendy rozwojowej przez darczyńców zaangażowanych w pomoc zagraniczną. Ustalono, że wiele praktyk i postaw w tego typu współpracy pochodzi z czasów kolonialnych i umacnia pozostałości kolonialnego myślenia, takie jak mit białego zbawcy. Pomimo najlepszych intencji, eksperci traktują biednych protekcjonalnie, upokarzają ich i utrwalają ich ubóstwo, ponieważ ignorują rolę godności jednostki w odkrywaniu rozwiązań adekwatnych do czasu i miejsca. Zamiast działać na rzecz uwolnienia ludzi od rzekomego „przystosowania do ubóstwa”, traktuje się ich jak pozbawionych kontroli, sprawczości i odpowiedzialności za własny rozwój „pacjentów”, którzy muszą być doglądani przez zachodnich „lekarzy”. Taki stan rzecz jest upokarzający, błędny i prędzej doprowadzi do autorytaryzmu oraz utrwalenia ubóstwa niż do rozwoju gospodarczego i umocnieniu demokracji, tym bardziej że nie istnieje jeden uniwersalny sposób budowy trwałych instytucji we wszystkich ludzkich społecznościach. Można oczywiście skopiować zachodnie konstytucje, ustawy i przepisy administracyjne, ale towarzyszą im określone koncepcje etyczne, normy moralne czy prawa zwyczajowe, których nie sposób tak łatwo skopiować i przenieść na drugi koniec świata, gdzie zakorzenione są ich lokalne i radykalnie inne odpowiedniki.  
+  
+Biedne kraje nie mogą „być rozwijane” z zewnątrz. Muszą same się rozwijać na swoich zasadach, z uwzględnieniem wiedzy lokalnej i z przekonaniem o własnej sprawczości i godności. Są podmiotami, a nie pacjentami. Priorytetem dla nich powinny być nie prezenty w postaci zagranicznych pieniędzy, a bardziej wydolny system ściągania podatków, zgodny z liberalno-demokratycznymi zasadami niskich stawek i szerokiej bazy, co wzmocniłby odpowiedzialność rządu przed obywatelami i zapewniłoby stabilność i przewidywalność dochodów.  
+  
+Zdaniem autorów konieczne też jest zmniejszenie rozmiarów szarej strefy w krajach rozwijających się. Ludzie znajdujący się ze swoją działalnością gospodarczą poza prawem, mają problem z pokojowym egzekwowaniem umów, ściąganiem długów, dochodzeniem swoich praw, przenoszeniem tytułów własności, czy uzyskaniem dostępu do „oficjalnego” systemu finansowego i niższych stóp procentowych. W takich warunkach nie sposób rozwinąć poważnego biznesu, ale warto też wspomnieć, że nie bez powodu ludzie się decydują na działalność w szarej strefie. Często rejestracja firmy wiąże się z korupcją zwiększającą jej koszty i z bardzo uciążliwą biurokracją.  
+  
+**Lekcja dla organizacji pozarządowych**  
+To co właściwie ta problematyka krążąca wokół biednych państw ma wspólnego z trzecim sektorem? Gdzie obiecana lekcja dla całego trzeciego sektora, płynąca z książki? Najogólniej rzecz ujmując, społeczeństwo, które daje swoim obywatelom swobodę eksperymentowania na rynku i chroni owoce ich wysiłków, widzi, że energia przedsiębiorców jest przeznaczana na tworzenie wartości dla tej wspólnoty politycznej. Z kolei społeczeństwo, które ogranicza eksperymentowanie, jest nieprzychylne wobec działalności gospodarczej i nagradza polityczne koneksje, a nie tworzenie wartości, jest skazane na przyglądanie się, jak energia przedsiębiorców jest marnowana na omijanie tego systemu.  
+  
+Nie tylko kraje rozwijające się, ale i względnie rozwinięte i zamożne europejskie kraje postkomunistyczne, czy nawet poszczególne mniejszości i miejscowości w bogatych krajach Zachodu mogą odznaczać się swoją specyfiką, niezrozumiałą dla ludzi z zewnątrz. Jeśli danej organizacji zależy na realnej pomocy jakiejś sprawie, nie może wychodzić z założenia, że wie wszystko i może sterować całym procesem, bo to podobna pycha, którą odznaczają się urzędnicy państwowi, wyobrażający sobie, że mogą sterować gospodarką. Współpraca powinna opierać się na wzajemnym szacunku i domniemaniu kompetencji.  
+  
+Oczywiście darczyńcy mogą podchodzić z szacunkiem do priorytetów grantobiorców, jednocześnie zachowując rozsądek, jeśli chodzi o ocenę jakości przyjętej przez grantobiorcę strategii działania, wybranych wskaźników i ogólnej wartości proponowanych rezultatów. Nie należy jednak oczekiwać od think-tanków posiadania zdolności przepowiadania przyszłości i każde odstępstwo od planu traktować jako porażkę. Palmer i Warner podkreślają, że prawdziwa użyteczność ram, w których odbiorcy ambitnie definiują sukces, a darczyńcy ich rozliczają, polega na tym, że zapewniają one strukturę sygnalizacyjno-motywacyjną dla organizacji, w ramach której są one bardziej skłonne do innowacji i pracy nad osiągnięciem możliwych do udokumentowania, mierzalnych rezultatów.

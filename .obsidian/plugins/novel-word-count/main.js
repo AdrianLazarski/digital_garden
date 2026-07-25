@@ -418,11 +418,12 @@ var DEFAULT_SETTINGS = {
 
 // logic/parser.ts
 var cjkRegex = /[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hangul}]/gu;
-var allDashes = /[\p{Pd}]+/gu;
+var allHyphens = /[-‐‑־]+/gu;
+var allDashes = /[\p{Pd}]/gu;
 var allSymbolsRegex = /[\p{S}\p{P}]/gu;
 function countMarkdown(content, config) {
   content = removeNonCountedContent(content, config);
-  let wordSequences = content.replace(cjkRegex, " ").replace(allDashes, " ").replace(allSymbolsRegex, "").trim().split(/\s+/);
+  let wordSequences = content.replace(cjkRegex, " ").replace(allHyphens, "").replace(allDashes, " ").replace(allSymbolsRegex, "").trim().split(/\s+/);
   if (wordSequences.length === 1 && wordSequences[0] === "") {
     wordSequences = [];
   }
@@ -1175,7 +1176,7 @@ function migrateSavedData(saved) {
 var overwriteInvalidCountTypes = (saved) => {
   var _a;
   if (!((_a = saved == null ? void 0 : saved.settings) == null ? void 0 : _a.countType)) {
-    return;
+    return saved;
   }
   const fieldsToCheck = [
     "countType",
@@ -2079,6 +2080,5 @@ var NovelWordCountPlugin = class extends import_obsidian5.Plugin {
     container.toggleClass(folderPrefix + folderAlignment, true);
   }
 };
-
 
 /* nosourcemap */

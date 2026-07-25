@@ -80,3 +80,5 @@ modified date: 2026-07-03 17:38
 [[Szyszkowska Maria, Zarys filozofii prawa]], 2000 r.
 
 
+
+$\rightarrow$ [[MOC Najnowsza literatura filozoficzna]]

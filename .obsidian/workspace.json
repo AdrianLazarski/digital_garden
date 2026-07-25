@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+                "file": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Najnowsza literatura filozoficzna"
+              "title": "MOC Współczesna literatura filozoficzna (do 2001)"
             }
           },
           {
@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej.md",
+                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Palmer Tom, Rozwój z godnością.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,7 +316,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej"
+              "title": "Palmer Tom, Rozwój z godnością"
             }
           }
         ],
@@ -456,17 +456,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej.md",
+                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Palmer Tom, Rozwój z godnością.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej"
+              "title": "Konspekt Palmer Tom, Rozwój z godnością"
+            }
+          },
+          {
+            "id": "3a74b374ae954f01",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "333cae531fcc7b0a",
@@ -523,11 +533,11 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Otwórz okno szybkiego wyboru": false,
+      "command-palette:Otwórz listę poleceń": false,
       "graph:Otwórz podgląd grafu": false,
       "canvas:Stwórz nową tablicę": false,
       "daily-notes:Otwórz dzisiejszy dziennik": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz listę poleceń": false,
       "bases:Stwórz nową bazę danych": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
@@ -540,20 +550,25 @@
   },
   "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
-    "01 Input przejściowy/Neoliberalism The Genesis of a Political Swearword.md",
+    "O stronie.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Palmer Tom, Rozwój z godnością.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+    "01 Input przejściowy/Neoliberalism The Genesis of a Political Swearword.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia polityki/Neoliberalizm.md",
     "01 Input przejściowy/Realny PKB per capita w Polsce.md",
     "01 Input przejściowy/załączniki/Realny PKB per capita w Polsce.webp",
     "02 MOC/MOC Filozofia/MOC Dzieła Platona.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Protagoras.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Noras, Kubalica, Geneza współczesnej filozofii wartości.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii wartości.md",
     "02 MOC/MOC Filozofia/MOC Filozofia wartości.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie wartości.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
-    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nieznański Edward, Elementy filozofii teoretycznej.md",
     "Aktualnie opracowywane.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
@@ -562,11 +577,6 @@
     "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
     "02 MOC/MOC Socjologia.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Magyar Balint i Madlovics Balint, Krótki przewodnik po systemach postkomunistycznych.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Łażewska Dorota, Współczesne koncepcje filozofii i etyki.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

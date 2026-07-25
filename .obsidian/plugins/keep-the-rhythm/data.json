@@ -15013,6 +15013,99 @@
           }
         ],
         "id": 1055
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+        "wordCountStart": 199,
+        "charCountStart": 1468,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 18,
+            "c": 155
+          }
+        ],
+        "id": 1056
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+        "wordCountStart": 94,
+        "charCountStart": 710,
+        "changes": [],
+        "id": 1057
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+        "wordCountStart": 317,
+        "charCountStart": 2596,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 10,
+            "c": 84
+          }
+        ],
+        "id": 1058
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+        "wordCountStart": 522,
+        "charCountStart": 3957,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 5,
+            "c": 56
+          }
+        ],
+        "id": 1059
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+        "wordCountStart": 181,
+        "charCountStart": 1431,
+        "changes": [],
+        "id": 1060
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+        "wordCountStart": 181,
+        "charCountStart": 1431,
+        "changes": [],
+        "id": 1061
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Palmer Tom, Rozwój z godnością.md",
+        "wordCountStart": 3266,
+        "charCountStart": 24484,
+        "changes": [
+          {
+            "timeKey": "16:25",
+            "w": -10,
+            "c": -126
+          },
+          {
+            "timeKey": "16:30",
+            "w": 1256,
+            "c": 9608
+          }
+        ],
+        "id": 1062
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "O stronie.md",
+        "wordCountStart": 71,
+        "charCountStart": 514,
+        "changes": [],
+        "id": 1063
       }
     ]
   }

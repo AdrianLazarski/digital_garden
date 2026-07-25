@@ -13,6 +13,7 @@ modified date: 2026-07-03 16:16
 [[MOC Średniowieczna literatura filozoficzna]]
 [[MOC Renesansowa literatura filozoficzna]]
 [[MOC Nowożytna literatura filozoficzna (do 1900)]]
+
 [[MOC Współczesna literatura filozoficzna (do 2001)]]
 [[MOC Najnowsza literatura filozoficzna]]
 
