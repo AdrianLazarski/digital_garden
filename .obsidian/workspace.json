@@ -376,7 +376,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MOC Platon dzieła",
+                "query": "neoliberalizm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -397,7 +397,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -562,7 +563,7 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "ad4ec3a166edf0dd",
+  "active": "37df71b7afbc0aa3",
   "lastOpenFiles": [
     "01 Input przejściowy/załączniki/Realny PKB per capita w Polsce.webp",
     "01 Input przejściowy/Realny PKB per capita w Polsce.md",
