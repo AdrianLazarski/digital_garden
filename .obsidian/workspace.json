@@ -318,33 +318,9 @@
               "icon": "lucide-file",
               "title": "Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej"
             }
-          },
-          {
-            "id": "ad4ec3a166edf0dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Realny PKB per capita w Polsce.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Realny PKB per capita w Polsce"
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -397,8 +373,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -481,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Realny PKB per capita w Polsce.md",
+                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Realny PKB per capita w Polsce"
+              "title": "Konspekt Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej"
             }
           }
         ],
@@ -563,11 +538,13 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "37df71b7afbc0aa3",
+  "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
-    "01 Input przejściowy/załączniki/Realny PKB per capita w Polsce.webp",
-    "01 Input przejściowy/Realny PKB per capita w Polsce.md",
+    "01 Input przejściowy/Neoliberalism The Genesis of a Political Swearword.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia polityki/Neoliberalizm.md",
+    "01 Input przejściowy/Realny PKB per capita w Polsce.md",
+    "01 Input przejściowy/załączniki/Realny PKB per capita w Polsce.webp",
     "02 MOC/MOC Filozofia/MOC Dzieła Platona.md",
     "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Protagoras.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Noras, Kubalica, Geneza współczesnej filozofii wartości.md",
@@ -590,7 +567,6 @@
     "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Magyar Balint i Madlovics Balint, Krótki przewodnik po systemach postkomunistycznych.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Łażewska Dorota, Współczesne koncepcje filozofii i etyki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",
     "01 Input przejściowy/Ekonomia/Dzieła/załączniki/Hülsmann Jörg Guido, Etyka produkcji pieniądza.webp"

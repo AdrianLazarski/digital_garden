@@ -84,7 +84,8 @@
       "2026-07-13",
       "2026-07-20",
       "2026-07-21",
-      "2026-07-23"
+      "2026-07-23",
+      "2026-07-25"
     ],
     "dailyActivity": [
       {
@@ -14982,6 +14983,36 @@
         "charCountStart": 41,
         "changes": [],
         "id": 1052
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia polityki/Neoliberalizm.md",
+        "wordCountStart": 794,
+        "charCountStart": 6188,
+        "changes": [],
+        "id": 1053
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej.md",
+        "wordCountStart": 4180,
+        "charCountStart": 30107,
+        "changes": [],
+        "id": 1054
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "01 Input przejściowy/Neoliberalism The Genesis of a Political Swearword.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": 1675,
+            "c": 13593
+          }
+        ],
+        "id": 1055
       }
     ]
   }
