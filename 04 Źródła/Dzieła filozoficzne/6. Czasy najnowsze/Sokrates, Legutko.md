@@ -1,3 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/historia_filozofii
+  - filozofia/współczesna
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 17:26
+year: "2013"
+---
+# Notatki
 
 
 sofistów nie zbudowała wyłącznie wartość ich tekstów oraz wyłożonych lub zrekonstruowanych argumentów. I nie ma znaczenia, czy wpływ sofistów ocenimy finalnie jako zgubny dla Aten, czy jako potwierdzający twórczą potęgę tego państwa.
@@ -239,5 +252,6 @@ jedność pionową, w znaczeniu struktury hierarchicznej podległości, pozwalaj
 realizacja spotykała się z oporem tych sił tkwiących w człowieku, które uruchomili, czy raczej usankcjonowali, sofiści. Kłóciła się ona z potocznymi odruchami i z tą wiedzą o człowieku, jaka była najbardziej rozpowszechniona, a przeto uznana za niepodważalną
 
 
+# Recenzja
 
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/historia_filozofii 
+Spodziewałem się więcej po tej książce. Troszeczkę przegadana, ale przynajmniej idzie to w parze z dużą liczbą szczegółowych informacji. Na pewno dobre do czytania wybranych rozdziałów, całość może być nużąca.

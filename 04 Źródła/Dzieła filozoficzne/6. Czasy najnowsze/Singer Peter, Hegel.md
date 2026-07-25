@@ -1,4 +1,18 @@
-2001 r.
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/historia_filozofii
+  - filozofia/współczesna
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 17:18
+year: "2001"
+---
+
+# Notatki
+## Rozdział 1
 
 - Urodzony w Stuggarcie
 - Ojciec urzędnik na dworze księcia Wirtembergii
@@ -135,5 +149,6 @@ Rozdział 4
 
 
 
+# Recenzja
 
-#filozofia #filozofia/współczesna #filozofia/australijska #filozofia/historia_filozofii 
+Świetne opracowanie filozofii Hegla wraz z krótkim szkicem biograficznym. Singer obala mity, jakoby Hegel był nadwornym filozofem króla Prus, zamordystą i wrogiem popperowskiego społeczeństwa otwartego. Następnie omawia najważniejsze koncepcje z "Filozofii dziejów", "Zasad filozofii prawa", "Encyklopedii nauk filozoficznych", "Fenomenologii Ducha" i "Nauki logiki". Daje to całościowy obraz jego filozofii bez nonsensownych skrótów, wykrzywiając Hegla w duchu jakiejś innej filozofii i omawiając tylko jego daleką od zdrowego rozsądku metafizykę. Idealista absolutny w portrecie Singera to filozof liberalny i niezwykle racjonalny, wyciągający konsekwencje z ustaleń Kanta, Fichtego i Schellinga. Nawet jak nie cenimy heglowskich rozważań ontologicznych i historiozoficznych i nawet jeśli nie lubimy go za jego wpływ na różnej maści wariatów, to trzeba przyznać, że "ma rozmach".

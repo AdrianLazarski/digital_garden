@@ -1,9 +1,9 @@
 ---
 created: 2024-06-04 18:39
 tags:
-  - filozofia/słoweńska
-  - psychoanaliza
   - filozofia/współczesna
+  - ref
+  - filozofia/historia_filozofii
 modified date: 2025-12-18 21:36
 oryginalny-tytul: How to Read Lacan
 Rok oryginału: "2006"

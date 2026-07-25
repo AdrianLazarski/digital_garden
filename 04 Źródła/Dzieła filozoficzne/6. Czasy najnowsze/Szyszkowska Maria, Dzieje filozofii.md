@@ -1,4 +1,14 @@
-2009 r.
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 17:36
+year: "2009"
+---
 
 - Trzy podstawowe stanowiska metafizyczne według Szyszkowskiej to: materializm, idealizm oraz spirytualizm. Przecież to jest pomieszanie zupełnie różnych rozróżnień. To tak jakby napisać, że moje ulubione dania to burito, śniadanie i dieta nisko węglowodanowa.
 - Twierdzi, że heteronomiczne etyki tj. takie, w których wartości i normy nie wskazują konkretnego człowieka, a coś poza nim, to etyki religijne. Tymczasem heteronomiczna etyka może wskazać na więcej różnych źródeł norm: prawo naturalne, czy tradycję.
@@ -83,5 +93,3 @@ Idealizm socjologiczny/teoria interesu społecznego: Roscoe Pound
 
 
 
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/prawa 

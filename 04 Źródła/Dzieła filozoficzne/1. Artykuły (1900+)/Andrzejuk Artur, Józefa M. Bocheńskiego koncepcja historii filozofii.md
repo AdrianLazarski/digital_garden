@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/historia_filozofii
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 18:13
+year: "2020"
+---
 - jego koncepcja historii filozofii nie doznała jakiegoś szczególnego przełamania po „nawróceniu się” na filozofię analityczną
 - historia w znaczeniu podmiotowym odnosi się do samych przeszłych wydarzeń (czyli tego, co dziś określamy jako „dzieje”); historia w znaczeniu podmiotowym jest opisem tych wydarzeń (czyli właściwie „historiografia”). Bocheński ponadto wyróżnia stopnie rozwoju historiografii od prostego kronikarstwa, charakteryzującego się zbieranie opisów, przez „historię pragmatyczną”, która jest usiłowaniem wykrycia i opisania związków przyczynowych pomiędzy różnymi wydarzeniami do „nauki o społeczeństwie, zwanej socjologią” i to dopiero ona – zdaniem Bocheńskiego – może być nauka w sensie ścisłym.
 -  „tkwimy w historii i żaden bunt z naszej strony nie potrafi tej prawdy przekreślić”

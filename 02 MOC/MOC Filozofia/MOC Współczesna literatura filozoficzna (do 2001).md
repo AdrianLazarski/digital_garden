@@ -7,7 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-03 17:38
 ---
-# Chronologicznie
+# Książki chronologicznie
 
 [[Bierdiajew Mikołaj, Sens twórczości]], 1915 r.
 [[Wittgenstein Ludwig, Tractatus logico-philosophicus]], 1918 r.
@@ -29,6 +29,7 @@ modified date: 2026-07-03 17:38
 [[Ingarden Roman, Spór o istnienie świata]], 1948 r.
 [[Weaver Richard M., Idee mają konsekwencje]], 1948 r.
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]], 1949 r.
+[[Stachniuk Jan, Chrześcijaństwo a ludzkość]], 1949 r.
 [[Jaspers Karl, Wprowadzenie do filozofii]], 1953 r.
 [[Hospers John, Wprowadzenie do analizy filozoficznej]], 1953 r.
 [[Bocheński Józef Maria, Współczesne metody myślenia]], 1954 r.
@@ -79,6 +80,14 @@ modified date: 2026-07-03 17:38
 [[Rorty Richard, Filozofia a nadzieja na lepsze społeczeństwo]], 2000 r.
 [[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]], 2000 r.
 [[Szyszkowska Maria, Zarys filozofii prawa]], 2000 r.
+
+# Artykuły chronologicznie
+
+[[Ajdukiewicz Kazimierz, O spójności syntaktycznej]], 1935 r.
+[[Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu]], 2010 r.
+[[Andrzejuk Artur, Etyka w ujęciu Bocheńskiego]], 2020 r.
+[[Andrzejuk Artur, Józefa M. Bocheńskiego koncepcja historii filozofii]], 2020 r.
+[[Andrzejuk, Jerzy Niepsuj, Józefa M. Bocheńskiego elementarz etyki wojskowej]], 2020 r.
 
 
 

@@ -1,4 +1,15 @@
-2005 r.
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/epistemologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 17:39
+year: "2005"
+---
+
 
 "bronię klasycznej definicji prawdy, empiryzmu genetycznego i metodologicznego, realizmu bezpośredniego (naturalnego), antyirracjonalizmu i realizmu epistemologicznego"
 
@@ -163,5 +174,3 @@
 
 
 
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/epistemologia 

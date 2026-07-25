@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii kultury"
+              "title": "MOC Dzieła z zakresu logiki"
             }
           },
           {
@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+                "file": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Najnowsza literatura filozoficzna"
+              "title": "MOC Współczesna literatura filozoficzna (do 2001)"
             }
           },
           {
@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Siemek Marek, Wykłady z nowożytnej filozofii niemieckiej.md",
+                "file": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,7 +316,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Siemek Marek, Wykłady z nowożytnej filozofii niemieckiej"
+              "title": "Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu"
             }
           }
         ],
@@ -456,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+                "file": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Najnowsza literatura filozoficzna"
+              "title": "Konspekt MOC Współczesna literatura filozoficzna (do 2001)"
             }
           }
         ],
@@ -540,32 +540,32 @@
   },
   "active": "b9b2d089fd0c761d",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Siemek Marek, Wykłady z nowożytnej filozofii niemieckiej.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Sękowski Stefan, W walce z Wujem Samem.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Andrzejuk, Jerzy Niepsuj, Józefa M. Bocheńskiego elementarz etyki wojskowej.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Sepczyńska Dorota, Libertarianizm.md",
-    "Aktualnie opracowywane.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Scruton Roger, Kultura jest ważna.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Scruton Roger – Głupcy, oszuści i podżegacze.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Sady Wojciech, Wielcy filozofowie współczesności.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Powell, Babcock, Arguments for Liberty.md",
     "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Podsiad Antoni, Słownik terminów i pojęć filozoficznych.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Pigliucci Massimo, Bujda na resorach.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Palmer Tom, Rozwój i godność człowieka.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Peterson Jordan, Mapy sensu.md",
-    "02 MOC/MOC Dzieła psychologiczne.md",
-    "02 MOC/MOC Psychologia.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Andrzejuk Artur, Józefa M. Bocheńskiego koncepcja historii filozofii.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Andrzejuk Artur, Etyka w ujęciu Bocheńskiego.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Ajdukiewicz Kazimierz, O spójności syntaktycznej.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Žižek Slavoj, Lacan.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Ziemińska, Przewodnik po epistemologii, WAM.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Zahavi Dan, Fenomenologia Husserla.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Wozinski Jakub, To nie musi być państwowe.md",
+    "02 MOC/MOC Historia/MOC Książki historyczne.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "02 MOC/MOC Ekonomia.md",
+    "02 MOC/MOC Ekonomia/MOC Historia gospodarcza.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Wozinski Jakub, Liberalizm to nie wolność.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Woleński Jan, Epistemologia.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szyszkowska Maria, Dzieje filozofii.md",
+    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szymanek, Wieczorek, Wójcik - Sztuka argumentacji.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
     "01 Input przejściowy/załączniki/Realny PKB per capita w Polsce.webp",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",

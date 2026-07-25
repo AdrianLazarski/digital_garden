@@ -7,6 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-03 17:59
 ---
+# Książki
 
 [[Platon, Eutyfron]], 399–387 p.n.e.
 [[Platon, Kriton]], 399–387 p.n.e.
@@ -21,3 +22,9 @@ modified date: 2026-07-03 17:59
 [[Łażewska Dorota, Współczesne koncepcje filozofii i etyki]], 2009 r.
 [[Huemer Michael, Problem władzy politycznej]], 2012 r.
 [[Powell, Babcock, Arguments for Liberty]], 2016 r.
+
+
+# Artykuły
+
+[[Andrzejuk Artur, Etyka w ujęciu Bocheńskiego]], 2020 r.
+[[Andrzejuk, Jerzy Niepsuj, Józefa M. Bocheńskiego elementarz etyki wojskowej]], 2020 r.

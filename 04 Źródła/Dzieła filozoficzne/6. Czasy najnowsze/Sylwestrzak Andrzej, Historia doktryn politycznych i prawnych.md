@@ -1,4 +1,17 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - prawo
+  - filozofia/polityki
+  - filozofia/prawa
+  - filozofia/historia_filozofii
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-07-25 17:31
+year: "2009"
+---
 
 
 

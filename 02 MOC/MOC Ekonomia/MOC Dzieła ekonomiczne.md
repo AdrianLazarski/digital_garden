@@ -42,6 +42,7 @@ modified date: 2026-07-10 14:09
 [[Murphy Robert P., Niepoprawny politycznie przewodnik po kapitalizmie]], 2006
 [[Caplan Bryan, Mit racjonalnego wyborcy]], 2007
 [[Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci]], 2011
+[[Wozinski Jakub, To nie musi być państwowe]], 2014 r.
 [[Instytut Misesa - Polska mitologia kapitału. Czy jesteśmy kolonią zachodu]], 2015
 [[Reed Lawrence W., 52 mity o kapitalizmie]], 2015
 [[Wstęp do ASE]], zbiór z 2017 

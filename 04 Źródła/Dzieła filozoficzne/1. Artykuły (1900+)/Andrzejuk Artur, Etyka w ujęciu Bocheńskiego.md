@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/etyka
+  - filozofia/współczesna
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 18:04
+year: "2020"
+---
 Tom z 1995 r. przynosi inne jeszcze (poza już wymienionymi) teksty, np.: O etyce, Moralność, etyka, mądrość, O charakterze. Chcąc omówić wszystkie te teksty natrafia się na niemałe trudności interpretacyjne: Podręcznik mądrości jest napisany w celach „prowokacyjnych”, jak informuje Autor w Przedmowie i nie odzwierciedla jego prawdziwych poglądów, jednakże wykład O etyce w Dziełach zebranych zawiera podobne wskazania, co Podręcznik2. Także w Posłowiu do De virtute militari odsyła Bocheński do Podręcznika. Z kolei zawarte w tomie wykłady O charakterze, O patriotyzmie, Cnota ambicji prezentują znowuż tomistyczną fazę poglądów Bocheńskiego.
 
 Dodaje jednak, iż zajmuje dziś inne stanowisko w sprawie niektórych teoretycznych zagadnień i kieruje czytelnika do Podręcznika mądrości (który miał być przecież swoistym filozoficznym żartem). Dużą trudność interpretacyjną stanowią te rozmaite opinie Bocheńskiego wyrażane przy różnych okazjach, zwłaszcza, gdy dotyczą one wcześniejszych prac jego samego i są często dość rozbieżne.
@@ -61,6 +73,3 @@ możemy mówić o etykach specjalnych. Zakładają one ogólną etykę, a szerze
 zasady dotyczące pewnych określonych dziedzin. Stąd może istnieć etyka handlowa,
 naukowa, stanu duchownego, polityczna, wojskowa
 
-
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/metafilozofia #filozofia/metaetyka #filozofia/etyka 

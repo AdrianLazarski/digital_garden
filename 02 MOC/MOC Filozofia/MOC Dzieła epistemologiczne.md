@@ -17,5 +17,8 @@ modified date: 2026-07-03 17:46
 [[Kant Immanuel, Krytyka czystego rozumu]], 1781 r.
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]], 1949 r.
 [[Bocheński Józef Maria, Współczesne metody myślenia]], 1954 r.
+[[Zahavi Dan, Fenomenologia Husserla]], 2003 r.
+[[Woleński Jan, Epistemologia]], 2005 r.
 [[Hoppe Hans Herman, Wielka fikcja, Państwo w epoce schyłku]], 2012 r.
+[[Ziemińska, Przewodnik po epistemologii, WAM]], 2013 r.
 [[Judycki Stanisław, Epistemologia]], 2020 r.

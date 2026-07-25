@@ -15054,6 +15054,41 @@
             "timeKey": "17:15",
             "w": 18,
             "c": 122
+          },
+          {
+            "timeKey": "17:20",
+            "w": 5,
+            "c": 33
+          },
+          {
+            "timeKey": "17:25",
+            "w": 12,
+            "c": 88
+          },
+          {
+            "timeKey": "17:30",
+            "w": 21,
+            "c": 174
+          },
+          {
+            "timeKey": "17:35",
+            "w": 13,
+            "c": 112
+          },
+          {
+            "timeKey": "17:40",
+            "w": 22,
+            "c": 151
+          },
+          {
+            "timeKey": "17:55",
+            "w": 6,
+            "c": 48
+          },
+          {
+            "timeKey": "18:00",
+            "w": 12,
+            "c": 90
           }
         ],
         "id": 1056
@@ -15063,7 +15098,23 @@
         "filePath": "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
         "wordCountStart": 94,
         "charCountStart": 710,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 5,
+            "c": 41
+          },
+          {
+            "timeKey": "17:55",
+            "w": 6,
+            "c": 48
+          },
+          {
+            "timeKey": "18:00",
+            "w": 7,
+            "c": 57
+          }
+        ],
         "id": 1057
       },
       {
@@ -15089,8 +15140,43 @@
           },
           {
             "timeKey": "17:15",
-            "w": 18,
-            "c": 103
+            "w": 27,
+            "c": 173
+          },
+          {
+            "timeKey": "17:20",
+            "w": 5,
+            "c": 33
+          },
+          {
+            "timeKey": "17:25",
+            "w": 4,
+            "c": 31
+          },
+          {
+            "timeKey": "17:35",
+            "w": 24,
+            "c": 196
+          },
+          {
+            "timeKey": "18:00",
+            "w": 11,
+            "c": 81
+          },
+          {
+            "timeKey": "18:05",
+            "w": 14,
+            "c": 119
+          },
+          {
+            "timeKey": "18:10",
+            "w": 28,
+            "c": 253
+          },
+          {
+            "timeKey": "18:15",
+            "w": 11,
+            "c": 89
           }
         ],
         "id": 1058
@@ -15110,6 +15196,31 @@
             "timeKey": "16:40",
             "w": 6,
             "c": 42
+          },
+          {
+            "timeKey": "17:25",
+            "w": 7,
+            "c": 55
+          },
+          {
+            "timeKey": "18:00",
+            "w": 7,
+            "c": 62
+          },
+          {
+            "timeKey": "18:05",
+            "w": 11,
+            "c": 96
+          },
+          {
+            "timeKey": "18:10",
+            "w": 10,
+            "c": 81
+          },
+          {
+            "timeKey": "18:15",
+            "w": 22,
+            "c": 177
           }
         ],
         "id": 1059
@@ -15202,6 +15313,11 @@
             "timeKey": "16:35",
             "w": 8,
             "c": 52
+          },
+          {
+            "timeKey": "17:40",
+            "w": 9,
+            "c": 55
           }
         ],
         "id": 1067
@@ -15235,6 +15351,16 @@
             "timeKey": "17:05",
             "w": 7,
             "c": 47
+          },
+          {
+            "timeKey": "17:25",
+            "w": 7,
+            "c": 55
+          },
+          {
+            "timeKey": "17:30",
+            "w": 7,
+            "c": 54
           }
         ],
         "id": 1069
@@ -15255,7 +15381,7 @@
       },
       {
         "date": "2026-07-25",
-        "filePath": "02 MOC/MOC Dzieła psychologiczne.md",
+        "filePath": "02 MOC/MOC Psychologia/MOC Dzieła psychologiczne.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -15352,6 +15478,16 @@
             "timeKey": "16:55",
             "w": 7,
             "c": 52
+          },
+          {
+            "timeKey": "18:05",
+            "w": 10,
+            "c": 82
+          },
+          {
+            "timeKey": "18:15",
+            "w": 11,
+            "c": 89
           }
         ],
         "id": 1077
@@ -15381,6 +15517,16 @@
             "timeKey": "17:15",
             "w": 9,
             "c": 52
+          },
+          {
+            "timeKey": "17:30",
+            "w": 9,
+            "c": 75
+          },
+          {
+            "timeKey": "17:40",
+            "w": 17,
+            "c": 109
           }
         ],
         "id": 1078
@@ -15488,10 +15634,407 @@
           {
             "timeKey": "17:15",
             "w": 19,
-            "c": 150
+            "c": 149
           }
         ],
         "id": 1085
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Singer Peter, Hegel.md",
+        "wordCountStart": 3209,
+        "charCountStart": 23051,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 27,
+            "c": 242
+          },
+          {
+            "timeKey": "17:20",
+            "w": 109,
+            "c": 803
+          }
+        ],
+        "id": 1086
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Sloterdijk Peter, Musisz życie swe odmienić.md",
+        "wordCountStart": 45,
+        "charCountStart": 368,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 21,
+            "c": 166
+          },
+          {
+            "timeKey": "17:25",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1087
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Sokrates, Legutko.md",
+        "wordCountStart": 5282,
+        "charCountStart": 39080,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 51,
+            "c": 372
+          }
+        ],
+        "id": 1088
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Stachniuk Jan, Chrześcijaństwo a ludzkość.md",
+        "wordCountStart": 97,
+        "charCountStart": 725,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 16,
+            "c": 122
+          }
+        ],
+        "id": 1089
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Stróżewski Władysław, Ontologia.md",
+        "wordCountStart": 1379,
+        "charCountStart": 10589,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 18,
+            "c": 137
+          },
+          {
+            "timeKey": "17:30",
+            "w": 6,
+            "c": 75
+          }
+        ],
+        "id": 1090
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+        "wordCountStart": 221,
+        "charCountStart": 1634,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 5,
+            "c": 45
+          }
+        ],
+        "id": 1091
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Sylwestrzak Andrzej, Historia doktryn politycznych i prawnych.md",
+        "wordCountStart": 204,
+        "charCountStart": 1557,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 30,
+            "c": 266
+          }
+        ],
+        "id": 1092
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szahaj Andrzej, Zniewalająca moc kultury.md",
+        "wordCountStart": 24,
+        "charCountStart": 209,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 3,
+            "c": 17
+          }
+        ],
+        "id": 1093
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Socjologia.md",
+        "wordCountStart": 27,
+        "charCountStart": 233,
+        "changes": [],
+        "id": 1094
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md",
+        "wordCountStart": 65,
+        "charCountStart": 528,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 7,
+            "c": 54
+          }
+        ],
+        "id": 1095
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szymanek, Wieczorek, Wójcik - Sztuka argumentacji.md",
+        "wordCountStart": 14,
+        "charCountStart": 143,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 18,
+            "c": 127
+          }
+        ],
+        "id": 1096
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+        "wordCountStart": 79,
+        "charCountStart": 568,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 7,
+            "c": 63
+          },
+          {
+            "timeKey": "18:00",
+            "w": 7,
+            "c": 61
+          },
+          {
+            "timeKey": "18:10",
+            "w": 2,
+            "c": 26
+          }
+        ],
+        "id": 1097
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szyszkowska Maria, Dzieje filozofii.md",
+        "wordCountStart": 1277,
+        "charCountStart": 9794,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 16,
+            "c": 133
+          }
+        ],
+        "id": 1098
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Woleński Jan, Epistemologia.md",
+        "wordCountStart": 2095,
+        "charCountStart": 16288,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "17:40",
+            "w": -4,
+            "c": -30
+          }
+        ],
+        "id": 1099
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Wozinski Jakub, Liberalizm to nie wolność.md",
+        "wordCountStart": 2947,
+        "charCountStart": 20643,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 27,
+            "c": 223
+          }
+        ],
+        "id": 1100
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Wozinski Jakub, To nie musi być państwowe.md",
+        "wordCountStart": 155,
+        "charCountStart": 1176,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 18,
+            "c": 123
+          }
+        ],
+        "id": 1101
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Historia gospodarcza.md",
+        "wordCountStart": 20,
+        "charCountStart": 155,
+        "changes": [],
+        "id": 1102
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Historia/MOC Książki historyczne.md",
+        "wordCountStart": 30,
+        "charCountStart": 250,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 9,
+            "c": 55
+          }
+        ],
+        "id": 1103
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Zahavi Dan, Fenomenologia Husserla.md",
+        "wordCountStart": 150,
+        "charCountStart": 1136,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 17,
+            "c": 132
+          },
+          {
+            "timeKey": "18:00",
+            "w": 2,
+            "c": 33
+          }
+        ],
+        "id": 1104
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Ziemińska, Przewodnik po epistemologii, WAM.md",
+        "wordCountStart": 254,
+        "charCountStart": 1952,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 18,
+            "c": 128
+          }
+        ],
+        "id": 1105
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Žižek Slavoj, Lacan.md",
+        "wordCountStart": 2157,
+        "charCountStart": 15241,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 1106
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Ajdukiewicz Kazimierz, O spójności syntaktycznej.md",
+        "wordCountStart": 20,
+        "charCountStart": 193,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 24,
+            "c": 189
+          }
+        ],
+        "id": 1107
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Andrzejuk Artur, Etyka w ujęciu Bocheńskiego.md",
+        "wordCountStart": 1043,
+        "charCountStart": 7852,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 15,
+            "c": 107
+          },
+          {
+            "timeKey": "18:05",
+            "w": 1,
+            "c": 7
+          }
+        ],
+        "id": 1108
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Andrzejuk Artur, Józefa M. Bocheńskiego koncepcja historii filozofii.md",
+        "wordCountStart": 3882,
+        "charCountStart": 29412,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 25,
+            "c": 211
+          }
+        ],
+        "id": 1109
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Andrzejuk, Jerzy Niepsuj, Józefa M. Bocheńskiego elementarz etyki wojskowej.md",
+        "wordCountStart": 819,
+        "charCountStart": 6001,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "18:15",
+            "w": 5,
+            "c": 61
+          }
+        ],
+        "id": 1110
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu.md",
+        "wordCountStart": 2186,
+        "charCountStart": 17286,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 25,
+            "c": 202
+          }
+        ],
+        "id": 1111
       }
     ]
   }

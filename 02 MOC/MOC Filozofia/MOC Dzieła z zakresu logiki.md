@@ -7,6 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-04 23:09
 ---
+# Książki 
 
 [[Hospers John, Wprowadzenie do analizy filozoficznej]], 1953 r.
 [[Bocheński Józef Maria, Współczesne metody myślenia]], 1954 r.
@@ -15,3 +16,9 @@ modified date: 2026-07-04 23:09
 [[Bocheński Józef Maria, Logika i filozofia]], 1993 r.
 [[Martin, Robert M., W tytule tej książki są są dwa błędy]], 2002 r.
 [[Nieznański Edward, Elementy filozofii teoretycznej]], 2004 r.
+[[Szymanek, Wieczorek, Wójcik - Sztuka argumentacji]], 2004 r.
+
+
+# Artykuły
+
+[[Ajdukiewicz Kazimierz, O spójności syntaktycznej]], 1935 r.

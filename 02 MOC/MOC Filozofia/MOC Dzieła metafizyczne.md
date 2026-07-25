@@ -28,6 +28,7 @@ modified date: 2026-07-03 17:44
 [[Kahn Charles, Język i ontologia]], 1973 r.
 [[Krąpiec Mieczysław Albert OP, Metafizyka]], 1984 r.
 [[Krajewski Władysław, Związek przyczynowy]], 1995 r.
+[[Stróżewski Władysław, Ontologia]], 2004 r.
 [[Kawelec Paweł, Przyczyna i wyjaśnianie. Studium z filozofii i metodologii nauki]], 2006 r.
 [[Bremer Józef, Czy wolna wola jest wolna]], 2013 r.
 [[Crisp, Loux, Współczesne wprowadzenie do metafizyki]], 2017 r.

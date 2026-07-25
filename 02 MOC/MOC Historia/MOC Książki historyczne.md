@@ -13,3 +13,4 @@ modified date: 2026-07-21 21:39
 # O średniowieczu
 
 [[Borawska, Górski – Umysłowość średniowiecza]], 1993 r.
+[[Wozinski Jakub, To nie musi być państwowe]], 2014 r.

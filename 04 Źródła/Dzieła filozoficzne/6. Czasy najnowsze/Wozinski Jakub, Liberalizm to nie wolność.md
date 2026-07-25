@@ -1,4 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/polityki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 17:41
+year: "2019"
+---
 
+# Notatki
 
 - Oświeceniowi i postoświeceniowi liberałowie wystąpili przeciwko zdechrystianizowanym państwom, ale to nie oni są pierwszymi i głównymi wolnościowcami, a chrześcijanie, którzy wystąpili przeciwko plemiennemu i rodowemu kolektywizmowi, niewolnictwu i instrumentalizacji kobiet. Abolicjonizm nie jest niczym nowym.
 - Czarny rynek dotyczy przedmiotów łatwych do ukrycia. Przewozów kolejowych albo elektrowni się nie da ukryć, czego Konkin nie zauważył.
@@ -30,6 +42,8 @@
 - Kosmopolityczną masą bez tożsamości łatwiej kierować, niż narodem. W akapie będą narody.
 - Słusznie zauważa konieczność walki politycznej przez libertarian. To, że wymaga ona przygotowań w trzecim sektorze, to zupełnie oddzielna sprawa.
 - <span style="background:#ff4d4f">Ahistoryczne bzdury o Szwecji, która miała bogacić się ze złą Anglią, a nie w XX wieku dzięki wolnemu rynkowi.</span>
+
+# Recenzja
 
 Bardzo dziękuję wydawcy za przekazanie mi książki do recenzji. Podjąłem się tego zadania z radością, bo interesowało mnie czy książka ta będzie tak słaba, jak poprzednia pozycja tego autora, czy też okaże się tak dobra, jak dwa jeszcze wcześniejsze tytuły Wozinskiego, które Prohibita wydała. Nadzieję na wartościową lekturę wzbudził we mnie fakt, że tytuł wskazywał na kontrowersję i na tematykę filozoficzną, w której autor jest bieglejszy, niż w historii gospodarczej, za którą z dość marnym skutkiem brał się w „Dziejach kapitalizmu". I o ile mogę powiedzieć, że książkę czyta się bardzo przyjemnie, pobudza do myślenia i ja miałem wielką frajdę, brnąc przez kolejne strony, tak niestety nie mogę jej z czystym sumieniem nazwać książką dobrą, bo unosi się nad nią duch poprzedniego dzieła, które było całkowitą porażką (porażki tej autor niestety do wiadomości nie przyjął). Z tego powodu najpierw skupię na najważniejszym, czyli na wadach, a potem przejdę do tego, co mi się podobało.
 

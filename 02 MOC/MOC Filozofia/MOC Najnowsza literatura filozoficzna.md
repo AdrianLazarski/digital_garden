@@ -10,16 +10,25 @@ modified date: 2026-07-03 17:40
 [[Podsiad Antoni, Słownik terminów i pojęć filozoficznych]], 2001 r.
 [[Hoppe Hans Herman, Demokracja - bóg, który zawiódł]], 2001 r.
 [[Mazurkiewicz Piotr, Europeizacja Europy]], 2001 r.
+[[Singer Peter, Hegel]], 2001 r.
 [[Martin, Robert M., W tytule tej książki są są dwa błędy]], 2002 r.
 [[Annas Julia, Platon]], 2003 r.
+[[Zahavi Dan, Fenomenologia Husserla]], 2003 r.
 [[Bartyzel Jacek, W gąszczu liberalizmów]], 2004 r.
 [[Nieznański Edward, Elementy filozofii teoretycznej]], 2004 r.
+[[Stróżewski Władysław, Ontologia]], 2004 r.
+[[Szahaj Andrzej, Zniewalająca moc kultury]], 2004 r.
+[[Szymanek, Wieczorek, Wójcik - Sztuka argumentacji]], 2004 r.
+[[Woleński Jan, Epistemologia]], 2005 r.
 [[Kawelec Paweł, Przyczyna i wyjaśnianie. Studium z filozofii i metodologii nauki]], 2006 r.
+[[Žižek Slavoj, Lacan]], 2006 r.
 [[Andrzejuk Artur, Elementarz filozofii]], 2007 r.
 [[Scruton Roger, Kultura jest ważna]], 2007 r.
 [[Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej]], 2008 r.
 [[Heller Michał, Jak być uczonym]], 2009 r.
 [[Łażewska Dorota, Współczesne koncepcje filozofii i etyki]], 2009 r.
+[[Sylwestrzak Andrzej, Historia doktryn politycznych i prawnych]], 2009 r.
+[[Szyszkowska Maria, Dzieje filozofii]], 2009 r.
 [[Pigliucci Massimo, Bujda na resorach]], 2010 r.
 [[Sękowski Stefan, W walce z Wujem Samem]], 2010 r.
 [[Łażewska Dorota, Filozofia dla pracujących]], 2011 r.
@@ -29,6 +38,10 @@ modified date: 2026-07-03 17:40
 [[Siemek Marek, Wykłady z nowożytnej filozofii niemieckiej]], 2012 r.
 [[Bremer Józef, Czy wolna wola jest wolna]], 2013 r.
 [[Sepczyńska Dorota, Libertarianizm]], 2013 r.
+[[Sokrates, Legutko]], 2013 r.
+[[Ziemińska, Przewodnik po epistemologii, WAM]], 2013 r.
+[[Sloterdijk Peter, Musisz życie swe odmienić]], 2014 r.
+[[Wozinski Jakub, To nie musi być państwowe]], 2014 r.
 [[Scruton Roger – Głupcy, oszuści i podżegacze]], 2015 r.
 [[Grzybowski ks. Jacek, Uciec z krainy zapomnienia]], 2016 r.
 [[Powell, Babcock, Arguments for Liberty]], 2016 r.
@@ -36,6 +49,7 @@ modified date: 2026-07-03 17:40
 [[Molyneux Stephan, Elementarz filozofii]], 2017 r.
 [[Holloway Chas, Koniec polityki]], 2018 r.
 [[Górecki, Wolność człowieka i jej granice 1]], 2019 r.
+[[Wozinski Jakub, Liberalizm to nie wolność]], 2019 r.
 [[Judycki Stanisław, Epistemologia]], 2020 r.
 [[Gadacz, Dybel, Sady, Środa, Krótka historia filozofii współczesnej]], 2023 r.
 [[Noras, Kubalica, Geneza współczesnej filozofii wartości]], 2023 r.

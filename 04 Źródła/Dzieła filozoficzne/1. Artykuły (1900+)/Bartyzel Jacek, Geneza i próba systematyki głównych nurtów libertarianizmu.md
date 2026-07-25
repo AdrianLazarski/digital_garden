@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/polityki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-25 18:16
+year: "2010"
+---
 Bartyzel J., Geneza i próba systematyki głównych nurtów libertarianizmu, [w:] Libertarianizm – teoria, praktyka, interpretacje, red. W. Bulira, W. Gogłoza, Lublin 2010, s. 15-46.
 
 - Bardziej po polsku byłoby libertaryzm, ale przyjęło się już libertarianizm.

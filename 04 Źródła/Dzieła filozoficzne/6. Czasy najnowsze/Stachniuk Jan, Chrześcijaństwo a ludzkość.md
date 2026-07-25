@@ -1,4 +1,14 @@
-1949 r.
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/kultury
+  - filozofia/współczesna
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-25 17:28
+year: "1949"
+---
 
 ## Wstęp Wacyka
 
@@ -16,4 +26,3 @@
 
 
 
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/kultury 

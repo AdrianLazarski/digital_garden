@@ -1,4 +1,16 @@
-2003 r.
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/epistemologia
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-25 17:58
+year: "2003"
+---
+
 
 s 54-59
 
@@ -12,5 +24,3 @@ s 54-59
 	3. Bardzo źle. Metafizyka jest ważna i potrzebna, a fenomenologia powinna do niej wnosić nowe treści.
 
 
-
-#filozofia #filozofia/współczesna #filozofia/duńska #fenomenologia 

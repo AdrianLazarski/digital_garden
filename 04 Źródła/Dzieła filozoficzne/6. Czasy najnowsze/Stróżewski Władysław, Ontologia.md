@@ -1,7 +1,18 @@
-2004 r.
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/metafizyka
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 17:29
+year: "2004"
+---
 
 Podoba mi się analityczny spis treści.
+
+# Notatki
 
 ## Ontologia, metafizyka, filozofia pierwsza
 

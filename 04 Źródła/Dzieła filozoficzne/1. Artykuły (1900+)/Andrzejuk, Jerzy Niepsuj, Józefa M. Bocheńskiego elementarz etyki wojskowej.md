@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/historia_filozofii
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-25 18:14
+year: "2020"
+---
 Wydana po raz pierwszy w 1993 roku przez krakowską oficynę „Philed" książka Józefa Bocheńskiego De virtute militari i objaśniona podtytułem Zarys etyki wojskowej napisana została tuż przed wybuchem II wojny światowej. Kolejom wojennego kataklizmu należy przypisać ponad pięćdziesięcioletnie opóźnienie w jej edycji.
 
 Autor w posłowiu ujawnia, że wszystko, co w książce jest istotne pochodzi od Tomasza z Akwinu. W 1992 roku Tomasz już od dawna nie był — używając wyrażenia z innej książki Bocheńskiego — jego guru. Zdecydował się jednak na publikację książki w niezmienionym kształcie. Oznacza to, iż Bocheński, wybitny logik i zwolennik filozofii analitycznej, świadomie proponuje żołnierzom III Rzeczypospolitej klasyczną etykę,

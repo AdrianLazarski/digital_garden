@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/epistemologia
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 18:00
+year: "2013"
+---
 Woleński, Historia pojęcia prawdy [w:] Red. R. Ziemińksa, Przewodnik po epistemologii, Kraków, 2013, s. 53-85
 
 - Instrumentalizm - niekwalifikowanie teorii w kategoriach prawdy i fałszu.
@@ -22,5 +33,3 @@ Ziemińska, Historia sceptycyzmu i sceptycyzm współczesny, s. 151-183
 
 
 
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/epistemologia 

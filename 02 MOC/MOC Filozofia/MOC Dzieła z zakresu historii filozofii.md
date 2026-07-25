@@ -7,7 +7,10 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 14:08
 ---
+
 # Starożytność
+
+## Książki o starożytności
 
 [[Russell Bertrand, Dzieje filozofii zachodu]],1946 r.
 [[Bocheński Józef, History of formal logic]], 1956 r.
@@ -25,8 +28,15 @@ modified date: 2026-07-06 14:08
 [[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
 [[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]], 2000 r.
 [[Annas Julia, Platon]], 2003 r.
+[[Szyszkowska Maria, Dzieje filozofii]], 2009 r.
+[[Sokrates, Legutko]], 2013 r.
+
+## Artykuły o starożytności
+
 
 # Średniowiecze
+
+## Książki o średniowieczu
 
 [[Gilson Etienne, Jedność doświadczenia filozoficznego]], 1937 r.
 [[Russell Bertrand, Dzieje filozofii zachodu]],1946 r.
@@ -38,8 +48,14 @@ modified date: 2026-07-06 14:08
 [[Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej]], 1996 r.
 [[Swieżawski Stefan, Człowiek średniowieczny]], 1999 r.
 [[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]], 2000 r.
+[[Szyszkowska Maria, Dzieje filozofii]], 2009 r.
+
+## Artykuły o średniowieczu
+
 
 # Nowożytność
+
+## Książki o nowożytności
 
 [[Russell Bertrand, Dzieje filozofii zachodu]],1946 r.
 [[Bocheński Józef, History of formal logic]], 1956 r.
@@ -50,18 +66,34 @@ modified date: 2026-07-06 14:08
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
 [[Swieżawski Stefan, Człowiek średniowieczny]], 1999 r.
 [[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]], 2000 r.
+[[Singer Peter, Hegel]], 2001 r.
+[[Zahavi Dan, Fenomenologia Husserla]], 2003 r.
+[[Szyszkowska Maria, Dzieje filozofii]], 2009 r.
 [[Sękowski Stefan, W walce z Wujem Samem]], 2010 r.
+[[Siemek Marek, Wykłady z nowożytnej filozofii niemieckiej]], 2012 r.
+
+## Artykuły o nowożytności
 
 # Współczesność
+
+## Książki o współczesności
 
 [[Russell Bertrand, Dzieje filozofii zachodu]],1946 r.
 [[Strauss Leo, Crospey Joseph, Historia filozofii politycznej]], 1963 r.
 [[Kołakowski, Główne nurty marksizmu]], 1976 r.
 [[Johnson Paul, Intelektualiści]], 1988 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
+[[Žižek Slavoj, Lacan]], 2006 r.
 [[Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej]], 2008 r.
+[[Szyszkowska Maria, Dzieje filozofii]], 2009 r.
 [[Sękowski Stefan, W walce z Wujem Samem]], 2010 r.
 [[Sady Wojciech, Wielcy filozofowie współczesności]], 2012 r.
 [[Sepczyńska Dorota, Libertarianizm]], 2013 r.
 [[Scruton Roger – Głupcy, oszuści i podżegacze]], 2015 r.
 [[Gadacz, Dybel, Sady, Środa, Krótka historia filozofii współczesnej]], 2023 r.
+
+## Artykuły o współczesności
+
+[[Andrzejuk Artur, Etyka w ujęciu Bocheńskiego]], 2020 r.
+[[Andrzejuk Artur, Józefa M. Bocheńskiego koncepcja historii filozofii]], 2020 r.
+[[Andrzejuk, Jerzy Niepsuj, Józefa M. Bocheńskiego elementarz etyki wojskowej]], 2020 r.
