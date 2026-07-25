@@ -9,7 +9,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-25 16:27
 year: "2022"
-publish:
+publish: true
 ---
 Warszawa 2024
 https://wolnagospodarka.pl/wp-content/uploads/2024/10/Tom-Palmer-Matt-Warner-Rozwoj-i-godnosc-czlowieka.pdf

@@ -464,19 +464,9 @@
               "icon": "lucide-list",
               "title": "Konspekt Palmer Tom, Rozwój z godnością"
             }
-          },
-          {
-            "id": "3a74b374ae954f01",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "333cae531fcc7b0a",
@@ -548,7 +538,7 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "d5d6515ed7563f18",
+  "active": "5fafb9c9f0fbedb5",
   "lastOpenFiles": [
     "O stronie.md",
     "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Palmer Tom, Rozwój z godnością.md",
