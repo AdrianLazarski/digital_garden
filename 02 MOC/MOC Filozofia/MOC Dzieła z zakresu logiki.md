@@ -22,3 +22,4 @@ modified date: 2026-07-04 23:09
 # Artykuły
 
 [[Ajdukiewicz Kazimierz, O spójności syntaktycznej]], 1935 r.
+[[Nowak Maciej, O stosowaniu logiki przez o. Józefa Marię Bocheńskiego]], 2020 r.

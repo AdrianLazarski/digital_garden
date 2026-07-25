@@ -7,6 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 14:05
 ---
+# Książki
 
 [[Bonawentura, O sprowadzaniu sztuk do filozofii]], 1257 r.
 [[Bacon Roger, Opus Maius]], 1267 r.
@@ -20,3 +21,10 @@ modified date: 2026-07-06 14:05
 [[Kawelec Paweł, Przyczyna i wyjaśnianie. Studium z filozofii i metodologii nauki]], 2006 r.
 Pigliucci Massimo, Bujda na resorach
 [[Hoppe Hans Herman, Wielka fikcja, Państwo w epoce schyłku]], 2012 r.
+
+# Artykuły
+
+[[Łukasiewicz Jan, O twórczości w nauce]], 1912 r.
+[[Jung-Palczewska, Rodowód nauki nowożytnej]], 1998 r.
+[[Lemańska Anna, Wyjaśnianie w nauce]], 2019 r.
+[[Jung-Palczewska, Natura more geometrico]], 2020 r.

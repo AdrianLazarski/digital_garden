@@ -52,6 +52,8 @@ modified date: 2026-07-06 14:08
 
 ## Artykuły o średniowieczu
 
+[[Jung-Palczewska, Rodowód nauki nowożytnej]], 1998 r.
+[[Jung-Palczewska, Natura more geometrico]], 2020 r.
 
 # Nowożytność
 
@@ -74,6 +76,8 @@ modified date: 2026-07-06 14:08
 
 ## Artykuły o nowożytności
 
+[[Jung-Palczewska, Rodowód nauki nowożytnej]], 1998 r.
+
 # Współczesność
 
 ## Książki o współczesności
@@ -94,6 +98,11 @@ modified date: 2026-07-06 14:08
 
 ## Artykuły o współczesności
 
+[[Judycki Jacek, Epistemologia XX w.]], 1999 r.
 [[Andrzejuk Artur, Etyka w ujęciu Bocheńskiego]], 2020 r.
 [[Andrzejuk Artur, Józefa M. Bocheńskiego koncepcja historii filozofii]], 2020 r.
 [[Andrzejuk, Jerzy Niepsuj, Józefa M. Bocheńskiego elementarz etyki wojskowej]], 2020 r.
+[[Grzybowski Jacek, Kategorie społeczne i ich znaczenie w myśli i. Józefa Marii Bocheńskiego]], 2020 r.
+[[Herold Natalia, Filozoficzna koncepcja zabobonu w ujęciu o. Józefa Marii Bocheńskiego OP]], 2020 r.
+[[Nowak Maciej, O stosowaniu logiki przez o. Józefa Marię Bocheńskiego]], 2020 r.
+[[Pawlikowski Tomasz, Metafizyka w marksizmie]], 2020 r.

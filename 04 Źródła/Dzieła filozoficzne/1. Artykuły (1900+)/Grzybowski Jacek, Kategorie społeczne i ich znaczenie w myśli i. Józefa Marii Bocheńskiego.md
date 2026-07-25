@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/metafizyka
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 18:33
+year: "2020"
+---
 
 
 - najważniejszą przestrzenią ludzkiego życia jest społeczeństwo. Od tego, jak definiujemy i kształtujemy życie społeczne, zależy w ogóle jakość ludzkiego życia, a także definiowanie narodu, państwa, a nawet cywilizacji.
@@ -94,4 +106,3 @@ Cztery najważniejsze grupy, które łącznie składają się na tzw. „cywiliz
 - Pisał o tym i mówił w latach osiemdziesiątych i dziewięćdziesiątych XX wieku, warto zatem odnieść się do tych rozważań. Po pierwsze, w wymienionych przez niego umierających cywilizacjach – indyjska, arabska, rosyjska – nie widać mocnego upadku religijności
 
 
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/historia_filozofii 

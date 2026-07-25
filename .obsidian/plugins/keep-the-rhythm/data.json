@@ -15089,6 +15089,41 @@
             "timeKey": "18:00",
             "w": 12,
             "c": 90
+          },
+          {
+            "timeKey": "18:20",
+            "w": 43,
+            "c": 360
+          },
+          {
+            "timeKey": "18:30",
+            "w": 32,
+            "c": 233
+          },
+          {
+            "timeKey": "18:35",
+            "w": 14,
+            "c": 101
+          },
+          {
+            "timeKey": "18:45",
+            "w": 10,
+            "c": 83
+          },
+          {
+            "timeKey": "18:50",
+            "w": 8,
+            "c": 63
+          },
+          {
+            "timeKey": "18:55",
+            "w": 7,
+            "c": 48
+          },
+          {
+            "timeKey": "19:10",
+            "w": 19,
+            "c": 139
           }
         ],
         "id": 1056
@@ -15113,6 +15148,26 @@
             "timeKey": "18:00",
             "w": 7,
             "c": 57
+          },
+          {
+            "timeKey": "18:25",
+            "w": 13,
+            "c": 104
+          },
+          {
+            "timeKey": "18:35",
+            "w": 24,
+            "c": 174
+          },
+          {
+            "timeKey": "18:40",
+            "w": 8,
+            "c": 48
+          },
+          {
+            "timeKey": "18:55",
+            "w": 8,
+            "c": 54
           }
         ],
         "id": 1057
@@ -15177,6 +15232,36 @@
             "timeKey": "18:15",
             "w": 11,
             "c": 89
+          },
+          {
+            "timeKey": "18:30",
+            "w": 15,
+            "c": 104
+          },
+          {
+            "timeKey": "18:35",
+            "w": 14,
+            "c": 102
+          },
+          {
+            "timeKey": "18:40",
+            "w": 8,
+            "c": 48
+          },
+          {
+            "timeKey": "18:45",
+            "w": 6,
+            "c": 53
+          },
+          {
+            "timeKey": "18:50",
+            "w": 12,
+            "c": 111
+          },
+          {
+            "timeKey": "19:10",
+            "w": 19,
+            "c": 139
           }
         ],
         "id": 1058
@@ -15221,6 +15306,46 @@
             "timeKey": "18:15",
             "w": 22,
             "c": 177
+          },
+          {
+            "timeKey": "18:20",
+            "w": 6,
+            "c": 48
+          },
+          {
+            "timeKey": "18:25",
+            "w": -29,
+            "c": -235
+          },
+          {
+            "timeKey": "18:35",
+            "w": 10,
+            "c": 72
+          },
+          {
+            "timeKey": "18:40",
+            "w": 8,
+            "c": 47
+          },
+          {
+            "timeKey": "18:45",
+            "w": 6,
+            "c": 53
+          },
+          {
+            "timeKey": "18:50",
+            "w": 6,
+            "c": 55
+          },
+          {
+            "timeKey": "18:55",
+            "w": 8,
+            "c": 54
+          },
+          {
+            "timeKey": "19:05",
+            "w": 8,
+            "c": 51
           }
         ],
         "id": 1059
@@ -15417,6 +15542,26 @@
             "timeKey": "16:45",
             "w": 5,
             "c": 37
+          },
+          {
+            "timeKey": "18:45",
+            "w": 8,
+            "c": 76
+          },
+          {
+            "timeKey": "18:50",
+            "w": 6,
+            "c": 55
+          },
+          {
+            "timeKey": "18:55",
+            "w": 7,
+            "c": 48
+          },
+          {
+            "timeKey": "19:05",
+            "w": 8,
+            "c": 51
           }
         ],
         "id": 1073
@@ -15488,6 +15633,11 @@
             "timeKey": "18:15",
             "w": 11,
             "c": 89
+          },
+          {
+            "timeKey": "18:50",
+            "w": 8,
+            "c": 63
           }
         ],
         "id": 1077
@@ -15526,6 +15676,11 @@
           {
             "timeKey": "17:40",
             "w": 17,
+            "c": 109
+          },
+          {
+            "timeKey": "18:15",
+            "w": 13,
             "c": 109
           }
         ],
@@ -15602,6 +15757,11 @@
             "timeKey": "17:10",
             "w": 5,
             "c": 47
+          },
+          {
+            "timeKey": "18:20",
+            "w": 13,
+            "c": 110
           }
         ],
         "id": 1083
@@ -15734,6 +15894,16 @@
             "timeKey": "17:30",
             "w": 5,
             "c": 45
+          },
+          {
+            "timeKey": "18:30",
+            "w": 34,
+            "c": 259
+          },
+          {
+            "timeKey": "19:10",
+            "w": 7,
+            "c": 57
           }
         ],
         "id": 1091
@@ -15822,6 +15992,11 @@
             "timeKey": "18:10",
             "w": 2,
             "c": 26
+          },
+          {
+            "timeKey": "19:10",
+            "w": 12,
+            "c": 82
           }
         ],
         "id": 1097
@@ -16035,6 +16210,297 @@
           }
         ],
         "id": 1111
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Clark, Chalmers, Umysł rozszerzony.md",
+        "wordCountStart": 497,
+        "charCountStart": 3660,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": -167,
+            "c": -1204
+          }
+        ],
+        "id": 1112
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii umysłu.md",
+        "wordCountStart": 21,
+        "charCountStart": 163,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 8,
+            "c": 72
+          }
+        ],
+        "id": 1113
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Gettier Edmund, Czy uzasadnione i prawdziwe przekonanie jest wiedzą.md",
+        "wordCountStart": 448,
+        "charCountStart": 2797,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 18,
+            "c": 122
+          }
+        ],
+        "id": 1114
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Grzybowski Jacek, Czy relacja–najsłabszy rodzaj bytowości w metafizyce może stanowić fundament realnego bytu narodu.md",
+        "wordCountStart": 1446,
+        "charCountStart": 10205,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": -566,
+            "c": -3723
+          },
+          {
+            "timeKey": "18:30",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1115
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Grzybowski Jacek, Kategorie społeczne i ich znaczenie w myśli i. Józefa Marii Bocheńskiego.md",
+        "wordCountStart": 3657,
+        "charCountStart": 27347,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 20,
+            "c": 154
+          }
+        ],
+        "id": 1116
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Hempel Carl Gustaw, O teorii prawdy logicznej pozytywistów.md",
+        "wordCountStart": 539,
+        "charCountStart": 4110,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "18:35",
+            "w": -6,
+            "c": -59
+          }
+        ],
+        "id": 1117
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Herold Natalia, Filozoficzna koncepcja zabobonu w ujęciu o. Józefa Marii Bocheńskiego OP.md",
+        "wordCountStart": 1577,
+        "charCountStart": 11160,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 27,
+            "c": 239
+          }
+        ],
+        "id": 1118
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Judycki Jacek, Epistemologia XX w..md",
+        "wordCountStart": 1111,
+        "charCountStart": 8601,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": -12,
+            "c": -50
+          }
+        ],
+        "id": 1119
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Jung-Palczewska, Natura more geometrico.md",
+        "wordCountStart": 450,
+        "charCountStart": 3415,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 18,
+            "c": 118
+          },
+          {
+            "timeKey": "18:45",
+            "w": 2,
+            "c": 33
+          }
+        ],
+        "id": 1120
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Kmieciuk Andrzej, O filozofii przedsiębiorstwa Józefa M. Bocheńskiego.md",
+        "wordCountStart": 73,
+        "charCountStart": 569,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 16,
+            "c": 113
+          }
+        ],
+        "id": 1121
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
+        "wordCountStart": 47,
+        "charCountStart": 356,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 15,
+            "c": 117
+          }
+        ],
+        "id": 1122
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Duchliński, Kobyliński, Etyka a problem nihilizmu.md",
+        "wordCountStart": 836,
+        "charCountStart": 6307,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 25,
+            "c": 199
+          },
+          {
+            "timeKey": "18:50",
+            "w": -2,
+            "c": -24
+          }
+        ],
+        "id": 1123
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Jung-Palczewska, Rodowód nauki nowożytnej.md",
+        "wordCountStart": 1287,
+        "charCountStart": 9302,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 20,
+            "c": 151
+          }
+        ],
+        "id": 1124
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Krokos Jan, W poszukiwaniu istoty prawdy.md",
+        "wordCountStart": 632,
+        "charCountStart": 4699,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 25,
+            "c": 206
+          }
+        ],
+        "id": 1125
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Lemańska Anna, Wyjaśnianie w nauce.md",
+        "wordCountStart": 973,
+        "charCountStart": 7543,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 25,
+            "c": 196
+          }
+        ],
+        "id": 1126
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Łukasiewicz Jan, O twórczości w nauce.md",
+        "wordCountStart": 259,
+        "charCountStart": 1821,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 19,
+            "c": 140
+          }
+        ],
+        "id": 1127
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Nowak Maciej, O stosowaniu logiki przez o. Józefa Marię Bocheńskiego.md",
+        "wordCountStart": 2150,
+        "charCountStart": 15386,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 22,
+            "c": 168
+          },
+          {
+            "timeKey": "19:10",
+            "w": 4,
+            "c": 54
+          }
+        ],
+        "id": 1128
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Pawlikowski Tomasz, Metafizyka w marksizmie.md",
+        "wordCountStart": 1610,
+        "charCountStart": 12051,
+        "changes": [
+          {
+            "timeKey": "19:10",
+            "w": 27,
+            "c": 236
+          }
+        ],
+        "id": 1129
+      },
+      {
+        "date": "2026-07-25",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Porwolik Marek, Józefa Marii Bocheńskiego program studiów o Bogu.md",
+        "wordCountStart": 2043,
+        "charCountStart": 14981,
+        "changes": [
+          {
+            "timeKey": "19:10",
+            "w": 22,
+            "c": 168
+          }
+        ],
+        "id": 1130
       }
     ]
   }

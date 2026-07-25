@@ -7,7 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-03 17:46
 ---
-
+# Książki
 
 [[Abelard Piotr, Rozprawa o pojęciach ogólnych]], 1120/1130 r.
 [[Ryszard ze św. Wiktora, Beniamin maior]], 1162 r.
@@ -22,3 +22,12 @@ modified date: 2026-07-03 17:46
 [[Hoppe Hans Herman, Wielka fikcja, Państwo w epoce schyłku]], 2012 r.
 [[Ziemińska, Przewodnik po epistemologii, WAM]], 2013 r.
 [[Judycki Stanisław, Epistemologia]], 2020 r.
+
+
+# Artykuły
+
+[[Hempel Carl Gustaw, O teorii prawdy logicznej pozytywistów]], 1935 r.
+[[Gettier Edmund, Czy uzasadnione i prawdziwe przekonanie jest wiedzą]], 1963 r.
+[[Krokos Jan, W poszukiwaniu istoty prawdy]], 1998 r.
+[[Judycki Jacek, Epistemologia XX w.]], 1999 r.
+[[Herold Natalia, Filozoficzna koncepcja zabobonu w ujęciu o. Józefa Marii Bocheńskiego OP]], 2020 r.

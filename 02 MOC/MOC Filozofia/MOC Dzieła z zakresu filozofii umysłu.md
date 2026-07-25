@@ -7,3 +7,10 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 14:03
 ---
+# Książki
+
+
+
+# Artykuły
+
+[[Clark, Chalmers, Umysł rozszerzony]], 1998 r.

@@ -1,5 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/nauki
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 18:56
+year: "2019"
+---
 
-- 
+
 - "w życiu codziennym przyjęcie, że coś jest wyjaśnieniem, jest zawsze wyjaśnieniem dla kogoś, dlatego jest subiektywne i nie istnieją obiektywne kryteria pozwalające stwierdzić, że dana odpowiedź jest wyjaśnieniem".
 - "W codziennym życiu zatem można mówić o wyjaśnianiu w sensie psychologicznym 7 , mającym na celu nie tylko zaspokojenie ciekawości, ale również rozproszenie lęków czy niepokoju, uzyskanie kontroli nad zachodzącymi zjawiskami bądź zrozumienie motywacji działań innych ludzi."
 - Inferencja nie musi wchodzić w skład procesu wyjaśniania, jak mówi Ajdukiewicz o wyjaśnianiu potocznym.

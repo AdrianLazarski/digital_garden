@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "202b7c48bb9433c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu antropologii filozoficznej.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu antropologii filozoficznej"
-            }
-          },
-          {
             "id": "7413a04c6f403248",
             "type": "leaf",
             "state": {
@@ -296,12 +272,12 @@
             }
           },
           {
-            "id": "d5d6515ed7563f18",
+            "id": "42e3aaa4d05ffffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu.md",
+                "file": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,11 +292,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu"
+              "title": "MOC Najnowsza literatura filozoficzna"
+            }
+          },
+          {
+            "id": "d5d6515ed7563f18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Porwolik Marek, Józefa Marii Bocheńskiego program studiów o Bogu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Porwolik Marek, Józefa Marii Bocheńskiego program studiów o Bogu"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -352,7 +352,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neoliberalizm",
+                "query": "tag:definicja",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -456,13 +456,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+                "file": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Porwolik Marek, Józefa Marii Bocheńskiego program studiów o Bogu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt MOC Współczesna literatura filozoficzna (do 2001)"
+              "title": "Konspekt Porwolik Marek, Józefa Marii Bocheńskiego program studiów o Bogu"
             }
           }
         ],
@@ -538,34 +538,34 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "b9b2d089fd0c761d",
+  "active": "d5d6515ed7563f18",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu.md",
-    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Andrzejuk, Jerzy Niepsuj, Józefa M. Bocheńskiego elementarz etyki wojskowej.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Pawlikowski Tomasz, Metafizyka w marksizmie.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
-    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Andrzejuk Artur, Józefa M. Bocheńskiego koncepcja historii filozofii.md",
-    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Andrzejuk Artur, Etyka w ujęciu Bocheńskiego.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
-    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Ajdukiewicz Kazimierz, O spójności syntaktycznej.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Žižek Slavoj, Lacan.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Ziemińska, Przewodnik po epistemologii, WAM.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Nowak Maciej, O stosowaniu logiki przez o. Józefa Marię Bocheńskiego.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii nauki.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Łukasiewicz Jan, O twórczości w nauce.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Lemańska Anna, Wyjaśnianie w nauce.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Krokos Jan, W poszukiwaniu istoty prawdy.md",
     "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Zahavi Dan, Fenomenologia Husserla.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Wozinski Jakub, To nie musi być państwowe.md",
-    "02 MOC/MOC Historia/MOC Książki historyczne.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
-    "02 MOC/MOC Ekonomia.md",
-    "02 MOC/MOC Ekonomia/MOC Historia gospodarcza.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Wozinski Jakub, Liberalizm to nie wolność.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Woleński Jan, Epistemologia.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szyszkowska Maria, Dzieje filozofii.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Szymanek, Wieczorek, Wójcik - Sztuka argumentacji.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Kmieciuk Andrzej, O filozofii przedsiębiorstwa Józefa M. Bocheńskiego.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Jung-Palczewska, Rodowód nauki nowożytnej.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu filozofii ekonomii.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Gettier Edmund, Czy uzasadnione i prawdziwe przekonanie jest wiedzą.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Duchliński, Kobyliński, Etyka a problem nihilizmu.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Jung-Palczewska, Natura more geometrico.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii umysłu.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Judycki Jacek, Epistemologia XX w..md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Herold Natalia, Filozoficzna koncepcja zabobonu w ujęciu o. Józefa Marii Bocheńskiego OP.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Hempel Carl Gustaw, O teorii prawdy logicznej pozytywistów.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Grzybowski Jacek, Czy relacja–najsłabszy rodzaj bytowości w metafizyce może stanowić fundament realnego bytu narodu.md",
+    "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Grzybowski Jacek, Kategorie społeczne i ich znaczenie w myśli i. Józefa Marii Bocheńskiego.md",
     "01 Input przejściowy/załączniki/Realny PKB per capita w Polsce.webp",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",

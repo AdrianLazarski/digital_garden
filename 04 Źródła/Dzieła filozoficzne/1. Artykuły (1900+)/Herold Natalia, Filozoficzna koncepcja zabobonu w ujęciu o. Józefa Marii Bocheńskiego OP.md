@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/historia_filozofii
+  - filozofia/epistemologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 18:36
+year: "2020"
+---
 
 
 Pierwszą recenzję książki Bocheńskiego zamówił Jerzy Giedroyć u Leszka Kołakowskiego: „Mam wielką prośbę̨: czy nie zechciałby Pan omówić́ dla «Kultury» wydanej przez nas ostatnio książeczki Ojca Bocheńskiego? Bardzo się̨ będę̨ cieszył, jeśli wyrazi Pan na to zgodę̨1” napisał w liście. Recenzja, która po jakiś czasie wyszła spod pióra Leszka Kołakowskiego bynajmniej nie była przychylna. Zresztą ani Kołakowski przesyłając ją do Giedroyca nie silił się na ukrycie tego faktu („Spodziewam się, że doceni Pan kurtuazyjny ton mojego tekściku, jest to bowiem bardzo niedobra książeczka”2), ani Giedroyć reagując na recenzję i liścik Kołakowskiego („Rzeczywiście, trudno z większą elegancją zniszczyć autora”3).

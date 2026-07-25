@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/nauki
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-07-25 19:08
+year: "1912"
+---
 w tomie: Księga pamiątkowa ku uczczeniu 250-tej rocznicy założenia Uniwersytetu Lwowskiego przez króla Jana Kazimierza r. 1661 t.1, Lwów (1912) s.1-15
 
 - Nie wszystkie sądy prawdziwe są prawdami naukowymi.
@@ -15,5 +26,3 @@ w tomie: Księga pamiątkowa ku uczczeniu 250-tej rocznicy założenia Uniwersyt
 - Rekonstrukcyjne sądy prawdziwe o faktach (których jest mniejszość w nauce np. tu teraz są dwie sosny) raczej wzbudzają, niż zaspokajają potrzeby intelektualne.
 
 
-
-#filozofia #filozofia/współczesna #filozofia/polska #logika 

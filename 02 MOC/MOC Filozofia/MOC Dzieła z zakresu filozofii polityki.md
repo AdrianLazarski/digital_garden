@@ -7,8 +7,9 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 14:06
 ---
-[[Platon, Kriton]], 399–387 p.n.e.
+# Książka
 
+[[Platon, Kriton]], 399–387 p.n.e.
 [[Machiavelli Nicollo, Książę]], 1513 r.
 [[Smith Adam, Teoria uczuć moralnych]], 1759 r.
 [[Thoreau Henry David, O obywatelskim nieposłuszeństwie]], 1849 r.
@@ -46,3 +47,6 @@ modified date: 2026-07-06 14:06
 [[Wozinski Jakub, Liberalizm to nie wolność]], 2019 r.
 
 
+# Artykuły
+
+[[Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu]], 2010 r.

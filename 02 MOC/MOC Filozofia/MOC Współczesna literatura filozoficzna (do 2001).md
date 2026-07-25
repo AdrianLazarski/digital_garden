@@ -83,11 +83,15 @@ modified date: 2026-07-03 17:38
 
 # Artykuły chronologicznie
 
+[[Łukasiewicz Jan, O twórczości w nauce]], 1912 r.
 [[Ajdukiewicz Kazimierz, O spójności syntaktycznej]], 1935 r.
-[[Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu]], 2010 r.
-[[Andrzejuk Artur, Etyka w ujęciu Bocheńskiego]], 2020 r.
-[[Andrzejuk Artur, Józefa M. Bocheńskiego koncepcja historii filozofii]], 2020 r.
-[[Andrzejuk, Jerzy Niepsuj, Józefa M. Bocheńskiego elementarz etyki wojskowej]], 2020 r.
+[[Hempel Carl Gustaw, O teorii prawdy logicznej pozytywistów]], 1935 r.
+[[Gettier Edmund, Czy uzasadnione i prawdziwe przekonanie jest wiedzą]], 1963 r.
+[[Clark, Chalmers, Umysł rozszerzony]], 1998 r.
+[[Jung-Palczewska, Rodowód nauki nowożytnej]], 1998 r.
+[[Krokos Jan, W poszukiwaniu istoty prawdy]], 1998 r.
+[[Judycki Jacek, Epistemologia XX w.]], 1999 r.
+[[Jung-Palczewska, Natura more geometrico]], 2020 r.
 
 
 

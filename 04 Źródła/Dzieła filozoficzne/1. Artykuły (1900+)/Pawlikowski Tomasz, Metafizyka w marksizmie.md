@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/metafizyka
+  - filozofia/współczesna
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 19:11
+year: "2020"
+---
 
 
 Stalin: opisywał tę formację, zwaną w literaturze marksizmem-leninizmem, jako naukę „o prawach rozwoju przyrody i społeczeństwa, [... ] o rewolucji uciskanych i wyzyskiwanych mas, [... ] o zwycięstwie socjalizmu we wszystkich krajach, [... ] o budowie społeczeństwa komunistycznego”8. Był to więc projekt nie tylko teoretyczny, ale także praktyczny i wyraźnie ideologiczny.

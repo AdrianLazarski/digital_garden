@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/epistemologia
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 18:55
+year: "1998"
+---
 Studia Philosophiae Christianae 34/1, 1998, s. 25-41.
 https://bazhum.muzhp.pl/media/files/Studia_Philosophiae_Christianae/Studia_Philosophiae_Christianae-r1998-t34-n1/Studia_Philosophiae_Christianae-r1998-t34-n1-s25-41/Studia_Philosophiae_Christianae-r1998-t34-n1-s25-41.pdf
 

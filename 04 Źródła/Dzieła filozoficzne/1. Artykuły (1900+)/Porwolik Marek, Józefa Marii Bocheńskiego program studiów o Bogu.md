@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-25 19:12
+year: "2020"
+---
 
 
 Koło Krakowskie za cel swych działań obrało asymilację współczesnych mu osiągnięć z zakresu logiki na terenie filozofii i teologii katolickiej. Tworzyli je o. Józef Maria Bocheński (1902-1995), ks. Jan Salamucha (1903-1944), Jan F. Drewnowski (1896-1978) oraz Bolesław Sobociński (1906-1980). Działalność Koła przypada na lata 30. ubiegłego wieku. Szczególnym wydarzeniem w jego historii był III Polski Zjazd Filozoficzny, który odbył się w Krakowie, w roku 1936. W trakcie jego obrad zorganizowano specjalne zebranie przedstawicieli filozofii chrześcijańskiej, którego tematem był stosunek myśli katolickiej do współczesnej logiki1. Działalność tej grupy kończy się wraz z wybuchem II Wojny Światowej.

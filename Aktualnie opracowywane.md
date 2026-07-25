@@ -20,12 +20,12 @@ recenzje wkleić
 [[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]]
 
 
-[[McCloskey Deirdre, Burżuazyjna godność]]
-[[Stróżewski Władysław, Ontologia]]
+[[McCloskey Deirdre, Burżuazyjna godność]] dokończ
+[[Stróżewski Władysław, Ontologia]] opracuj
 [[Hayek, Nadużycie rozumu]] końcowe rozdziały doczytać
 [[Grzybowski ks. Jacek, Uciec z krainy zapomnienia]] dokończyć
-[[Sepczyńska Dorota, Libertarianizm]], 2013 r.
-
+[[Sepczyńska Dorota, Libertarianizm]], 2013 r. opracuj
+[[Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu]] dokończ
 ## Uporządkuj notatki
 
 [[Metodologia i statystyka Tom 1 Przewodnik naukowego turysty]]

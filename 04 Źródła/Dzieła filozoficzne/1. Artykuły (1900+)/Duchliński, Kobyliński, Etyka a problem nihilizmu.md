@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/etyka
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-25 18:49
+year: "2019"
+---
 Praca zbiorowa
 
 ## Wstęp:
@@ -6,7 +17,7 @@ Praca zbiorowa
 - str 18 nihilizm to rdzeń filozofii Nietzschego. Rzekomo nazywa siebie pierwszym doskonałym nihilistą Eruopy, ale brak tu przypisu.
 - Guardini: nihilizm to rezultat żądania całkowitej autonomii człowieka nowożytnego.
 
-## Rozdział 4 Kobyliński
+## Rozdział 4 Kobyliński, Etyka w kontekście nihilizmu egzystencjalnego
 
 - <span style="background:#ff4d4f">Na stronie 195 przeczy temu co było we wstępie, mówiąc, że nihilizm to niemożność metafizyki. To w końcu Nietzsche był nihilistą czy metafizykiem?</span>
 - Habermans: myślenie postmetafizyczne to odpowiedź na kryzys metafizyki po Heglu oraz uwzględnienie zmian technologicznych z ostatnich 200 lat. Po Heglu został podważony "przywilej poznawczy filozofii", jej podstawowe pojęcia zostały zdetranscendentalizowane oraz zakwestionowano pierwszeństwo teorii wobec praktyki.
@@ -47,8 +58,6 @@ Praca zbiorowa
 - Prawda jest istotna dla życia nie dlatego, że czemuś służy, a ze względu na samą siebie. Decydujące dla życia jest nie to, co służebne, a to, czemu życie musi służyć ze względu na sa majestat.
 - Wola musi podporządkować się prawdziwe. Musi być prymat Logosu nad etosem. Normy moralne powinny być oczywiste. Dziś tę oczywistość tracą.
 - Wola bez Logosu jest ślepa.
-- Czystam etyka filozoficzna nie jest w stanie przezwyciężyć współczesnego nihilizmu moralnego. Dlatego proponuje etykę teologiczną, łączącą prawo naturalnę i etykę cnót.
+- Czysta etyka filozoficzna nie jest w stanie przezwyciężyć współczesnego nihilizmu moralnego. Dlatego proponuje etykę teologiczną, łączącą prawo naturalne i etykę cnót.
 
 
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/etyka 

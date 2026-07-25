@@ -1,3 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/nauki
+  - historia/nauki
+  - filozofia/współczesna
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 18:43
+year: "2000"
+---
 E. Jung-Palczewska, "Natura more geometrico": Średniowiecze jako pośrednik w recepcji matematyki greckiej dla potrzeb fizyki, [w:] Studia Warmińskie 37/1, s. 129-139.
 
 - U Platona świat materialny jest o tyle przedmiotem nauki, o ile jest odbiciem niezmiennych idei i zachowuje matematyczne proporcje.
@@ -17,5 +30,3 @@ E. Jung-Palczewska, "Natura more geometrico": Średniowiecze jako pośrednik w r
 - Leibniz uważał kalkulatora Ryszarda Swinesheada za najwybitniejszego filozofa i matematyka średniowiecznego.
 - Kalkulatorzy doszli do wniosku, że trzeba używać matematyki do opisu całej fizyki, a nie jej części. Opisywali więc też matematycznie ciała w ruchu, co doprowadziło do konceptualizacji fizyki i prowadzenia spekulatywnych rozważań na bazie hipotez, co było zerwaniem z dogmatem Arystotelesa, że fizyka musi opisywać obserwowalny świat obiektów materialnych.
 
-
-#filozofia #filozofia/współczesna #filozofia/polska #historia/nauki #filozofia/historia_filozofii 

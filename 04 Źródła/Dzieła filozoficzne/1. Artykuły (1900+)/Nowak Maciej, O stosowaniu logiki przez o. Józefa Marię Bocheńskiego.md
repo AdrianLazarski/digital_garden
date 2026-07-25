@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - logika
+  - filozofia/współczesna
+  - ref
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 19:09
+year: "2020"
+---
 
 
 Bocheński poznał logikę we Fryburgu. Był samoukiem – pierwszą przeczytaną i jednocześnie tą, o której najczęściej wspomina pracą, była Principia Mathematica. W 1934 roku został docentem logiki w Angelicum. Atmosfera niesprzyjająca jego zainteresowaniom skłoniła go do podjęcia badań dotyczących historii logiki

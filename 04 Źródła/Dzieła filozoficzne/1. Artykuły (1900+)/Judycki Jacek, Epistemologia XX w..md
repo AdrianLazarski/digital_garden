@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/epistemologia
+  - filozofia/współczesna
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 18:38
+year: "1999"
+---
 - Uprawomocnienie epistemiczne należy odróżnić od pragmatycznego, moralnego i religijnego; te kolejne je zakładają.
 - Jego celem jest prawda.
 - Platon: wiedza to prawdziwe i uprawomocnione przekonanie.
@@ -61,16 +73,11 @@
 
 
 
-Epistemologia-XX-wieku  
-- Your Highlight on page 41-41 | Added on Monday, 17 February 2020 08:41:16
 
 Fenomenologowie, w odróżnieniu od neokantystów, twierdzili, że wiedza konieczna (syntetyczna a priori) jest możliwa sensie niezrelatywizowanym do ludzkiej natury i jej kognitywnego uposażenia. Dotyczy ona koniecznych związków między tzw. prostymi jakościami na poziomie doświadczenia bezpośredniego (poziomie morfologicznym) i wyraża konieczności przedmiotowe po prostu
-==========
-Epistemologia-XX-wieku  
-- Your Highlight on page 41-41 | Added on Monday, 17 February 2020 08:41:38
+
 
 Elementem opozycyjnym między fenomenologią a neoscholastyką w tym względzie było to, że fenomenologiczna teoria poznania eidetycznego rozumiała rezultaty tego poznania po platońsku, tzn. dotyczyło ono idei (bytu idealnego), który dopiero pośrednio ‘determinował’ konieczności realne (empiryczne)
 
 
 
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/epistemologia 

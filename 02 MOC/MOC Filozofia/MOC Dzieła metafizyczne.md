@@ -7,9 +7,10 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-03 17:44
 ---
+# Książki
+
 [[Arystoteles, Fizyka]], 322 przed Chr.
 [[Arystoteles, Metafizyka]], 322 przed Chr.
-
 [[Marek Aureliusz, Rozmyślania]], 180 po Chr.
 [[Fredegizjusz z Tours, List o nicości i ciemnościach]], 800 r.
 [[Damiani Piotr, O wszechmocy Bożej]], 1067 r.
@@ -33,6 +34,15 @@ modified date: 2026-07-03 17:44
 [[Bremer Józef, Czy wolna wola jest wolna]], 2013 r.
 [[Crisp, Loux, Współczesne wprowadzenie do metafizyki]], 2017 r.
 [[Górecki, Wolność człowieka i jej granice 1]], 2019 r.
+
+
+# Artykuły
+
+[[Grzybowski Jacek, Czy relacja–najsłabszy rodzaj bytowości w metafizyce może stanowić fundament realnego bytu narodu]], 2016 r.
+[[Grzybowski Jacek, Kategorie społeczne i ich znaczenie w myśli i. Józefa Marii Bocheńskiego]], 2020 r.
+[[Pawlikowski Tomasz, Metafizyka w marksizmie]], 2020 r.
+
+
 
 
 # Zobacz też:

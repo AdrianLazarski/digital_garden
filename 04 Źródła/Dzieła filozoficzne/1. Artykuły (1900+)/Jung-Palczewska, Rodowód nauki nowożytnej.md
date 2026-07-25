@@ -1,3 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - historia/nauki
+  - filozofia/historia_filozofii
+  - filozofia/nauki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 18:52
+year: "1998"
+---
 E. Jung-Palczewska, Rodowód nauki nowożytnej, [w:] Acta Universitatis Lodziensis. Folia Philosophica nr 12, s. 29-48.
 
 - Nowożytna postawa badawcza, która doprowadziła do ustalenia właściwych praw przyrody, została wypracowana w XVII i XVIII w.
@@ -52,5 +65,3 @@ E. Jung-Palczewska, Rodowód nauki nowożytnej, [w:] Acta Universitatis Lodziens
 - Galen (129-200) opisał budowę anatomiczną człowieka i funkcjonowanie głównych organów i niewiele do tego dodanu przez wieki. Od XII w. zaczęto normalnie praktykować sekcję zwłok na wydziałach lekarskich
 
 
-
-#filozofia #filozofia/współczesna #filozofia/polska #historia/nauki #filozofia/historia_filozofii 

@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/epistemologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-25 18:34
+year: "1935"
+---
 Hempel Carl Gustav, O teorii prawdy logicznych pozytywistów, [w] Spór o zdania protokolarne 'Erkenntnis' i 'Analysis' 1932-1940, red. zbior., Warszawa 2000, ss. 165-174
 
 
@@ -36,5 +47,3 @@ Krok 2 teorii prawdy Neuratha i Carnapa.
 - Ten fakt historyczny wyjaśnia warunkowanie. Na uniwersytetach studenci są uczeni jakich słów używać w danej nauce.
 
 
-
-#filozofia #filozofia/współczesna #filozofia/austriacka #neopozytywizm #filozofia/nauki #filozofia/logiki #logika 

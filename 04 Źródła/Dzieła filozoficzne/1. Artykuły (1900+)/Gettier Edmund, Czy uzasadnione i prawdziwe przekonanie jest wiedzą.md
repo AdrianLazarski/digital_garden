@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/epistemologia
+  - filozofia/współczesna
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-25 18:26
+year: "1963"
+---
 [[Edmund Gettier]] „Analisys", vol 23, No.6, 1463, ss.121-123.
 Tłum. Jan Hartman i Jacek Rabus na [http://filozofiauw.wikidot.com/](http://filozofiauw.wikidot.com/)
 
@@ -57,5 +68,3 @@ W dodatku Smith nie miał o tym pojęcia, ale tak się złożyło, że Brown fak
 Smith w uzasadniony sposób wie, że (d) jest prawdziwe, chociaż nie wie, że Brown jest w Brześciu a tylko dzięki temu to zdanie jest prawdziwe.
 
 
-
-#filozofia #filozofia/współczesna #filozofia/amerykańska  #filozofia/epistemologia 
