@@ -9,6 +9,10 @@ modified date: 2026-07-21 21:39
 ---
 [[MOC Biografie]]
 
+# O starożytności
+
+[[Jeager Werner, Paideia t. 1]], 1934 r.
+[[Jeager Werner, Paideia t. 2]], 1934 r.
 
 # O średniowieczu
 

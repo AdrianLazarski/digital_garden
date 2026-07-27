@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 20:17
+year: "1932"
 ---
 *Les Deux Sources de la morale et de la religion*, 1932 r.
 H. Bergson, Dwa źródła moralności i religii, Kraków 1993

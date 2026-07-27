@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 21:22
+year: "1964"
 ---
 [[Ayn Rand]], 1964
 

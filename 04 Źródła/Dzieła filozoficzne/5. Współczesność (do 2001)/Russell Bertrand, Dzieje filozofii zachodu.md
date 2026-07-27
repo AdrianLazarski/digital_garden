@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 21:35
+year: "1946"
 ---
 [[Bertrand Russell]], *A History of Western Philosophy*, 1946 r.
 

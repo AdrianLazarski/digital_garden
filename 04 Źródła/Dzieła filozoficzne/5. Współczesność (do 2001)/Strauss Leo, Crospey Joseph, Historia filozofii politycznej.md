@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 21:43
+year: "1963"
 ---
 [[Leo Strauss]], *History of Political Philosophy*, 1963 r.
 

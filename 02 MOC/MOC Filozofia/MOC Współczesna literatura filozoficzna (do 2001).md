@@ -9,6 +9,7 @@ modified date: 2026-07-03 17:38
 ---
 # Książki chronologicznie
 
+[[Husserl Edmund, Idee czystej fenomenologii i fenomenologicznej filozofii]], 1913 r.
 [[Bierdiajew Mikołaj, Sens twórczości]], 1915 r.
 [[Wittgenstein Ludwig, Tractatus logico-philosophicus]], 1918 r.
 [[Heidegger Martin, Bycie i czas]], 1927 r.
@@ -17,7 +18,10 @@ modified date: 2026-07-03 17:38
 [[Bergson Henri, Dwa źródła moralności i religii]], 1932 r.
 [[Cioran Emil, Na szczytach rozpaczy]], 1934 r.
 [[Toynbee Arnold, Studium historii]], 1934 r.
+[[Jeager Werner, Paideia t. 1]], 1934 r.
+[[Jeager Werner, Paideia t. 2]], 1934 r.
 [[Gilson Etienne, Jedność doświadczenia filozoficznego]], 1937 r.
+[[Koneczny Feliks, Teksty z Myśli narodowej]], 1937 r.
 [[Marcuse Herbert, Rozum i rewolucja. Hegel a powstanie teorii społecznej]], 1941 r.
 [[Hayek, Nadużycie rozumu]], 1941 r.
 [[Camus Albert, Mit Syzyfa]], 1942 r.

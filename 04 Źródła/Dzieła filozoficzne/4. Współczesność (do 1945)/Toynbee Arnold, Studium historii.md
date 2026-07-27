@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 20:43
+year: "1934"
 ---
 Oryginalne 12 tomów 1934 r.
 *A Study of History. Abridgement by D.C.Somervell*, 1957 r.

@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-22 21:16
+year: "1999"
 ---
 S. Opara, Podstawy filozofii, Olsztyn 1999
 

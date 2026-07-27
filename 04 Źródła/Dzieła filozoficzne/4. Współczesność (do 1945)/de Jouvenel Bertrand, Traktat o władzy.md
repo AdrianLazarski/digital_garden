@@ -6,8 +6,9 @@ tags:
   - filozofia/polityki
   - recenzja
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 20:28
+year: "1945"
 ---
 Książka powstała w 1945 roku.
 

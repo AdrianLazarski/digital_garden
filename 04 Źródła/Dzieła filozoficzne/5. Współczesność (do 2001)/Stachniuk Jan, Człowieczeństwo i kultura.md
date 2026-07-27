@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-07-22 21:39
+year: "1946"
 ---
 [[Jan Stachniuk]], 1946 r.
 

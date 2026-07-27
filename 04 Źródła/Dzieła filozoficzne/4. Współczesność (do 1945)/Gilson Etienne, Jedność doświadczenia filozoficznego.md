@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 20:31
+year: "1937"
 ---
 [[Étienne Gilson]], 1937 r.
 

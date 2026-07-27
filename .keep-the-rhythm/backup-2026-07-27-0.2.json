@@ -18392,28 +18392,9 @@
             "timeKey": "17:10",
             "w": 2,
             "c": 13
-          },
-          {
-            "timeKey": "17:40",
-            "w": 0,
-            "c": 0
           }
         ],
         "id": 1269
-      },
-      {
-        "date": "2026-07-27",
-        "filePath": "Skróty klawiszowe.md",
-        "wordCountStart": 204,
-        "charCountStart": 1888,
-        "changes": [
-          {
-            "timeKey": "17:40",
-            "w": 0,
-            "c": 0
-          }
-        ],
-        "id": 1270
       }
     ]
   }

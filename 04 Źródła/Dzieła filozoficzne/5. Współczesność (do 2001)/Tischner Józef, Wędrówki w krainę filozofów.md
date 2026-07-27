@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 21:50
+year: "1991"
 ---
 [[Józef Tischner]]
 

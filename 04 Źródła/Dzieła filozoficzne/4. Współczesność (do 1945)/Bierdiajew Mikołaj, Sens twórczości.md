@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 20:18
+year: "1915"
 ---
 Смысл творчества. Опыт оправдания человека, 1915 r.
 tłum. Henryk Paprocki

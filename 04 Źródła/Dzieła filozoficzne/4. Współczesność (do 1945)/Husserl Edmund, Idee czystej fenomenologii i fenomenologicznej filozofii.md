@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-27 16:54
+year: "1913"
+---
 [[Edmund Husserl]],  *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie*, 1913 r.
 
 
@@ -15,6 +25,3 @@
 - Irrealne - umieszczona poza wszelkim włączeniem w realny świat.
 - Fenomenologia powinna używać sformułowań a priori i aposteriori przez ich bagaż historyczny i używać ich co najwyżej jako tylko równoważników innych, dodanych do nich terminów.
 
-
-
-#filozofia #filozofia/współczesna #fenomenologia #filozofia/niemiecka 

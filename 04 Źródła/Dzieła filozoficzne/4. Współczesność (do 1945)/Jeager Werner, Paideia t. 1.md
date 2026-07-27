@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/historia_filozofii
+  - filozofia/współczesna
+  - historia/starożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-27 16:55
+year: "1934"
+---
 1934 r.
 
 - Dopiero u Greków wychowanie było świadomie ukierunkowane na uniwersalny ideał człowieka, a nie tylko na przygotowanie do zawodu czy do życia w konkretnej warstwie społecznej konkretnego państwa.

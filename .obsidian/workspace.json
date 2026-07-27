@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kołakowski, Główne nurty marksizmu.md",
+                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/de Maistre Joseph, Wieczory petersburskie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,79 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kołakowski, Główne nurty marksizmu"
+              "title": "de Maistre Joseph, Wieczory petersburskie"
+            }
+          },
+          {
+            "id": "fa2b460c88b47c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła z zakresu historii filozofii"
+            }
+          },
+          {
+            "id": "5089f815cf2ab9f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Współczesna literatura filozoficzna (do 2001)"
+            }
+          },
+          {
+            "id": "d316b24597a94fb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Historia/MOC Książki historyczne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Książki historyczne"
             }
           }
         ]
@@ -167,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kołakowski, Główne nurty marksizmu.md",
+                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/de Maistre Joseph, Wieczory petersburskie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Kołakowski, Główne nurty marksizmu"
+              "title": "Konspekt de Maistre Joseph, Wieczory petersburskie"
             }
           }
         ],
@@ -251,32 +323,32 @@
   },
   "active": "3bf5591752cd795b",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kahn Charles, Język i ontologia.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Johnson Paul, Intelektualiści.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Jaspers Karl, Wprowadzenie do filozofii.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Jaspers Karl, Problem winy.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md",
-    "Zettelkasten.md",
-    "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Holloway Chas, Koniec polityki.md",
-    "Książki/Hare, Woods, Przetrwają najżyczliwsi.md",
-    "Filmy/Seriale/Twin Peaks 2017.md",
-    "Filmy/Seriale/Twin Peaks.md",
-    "Filmy/Amerykańska fikcja 2023.md",
-    "Filmy/Glass 2019.md",
-    "Filmy/Hannibal 2001.md",
-    "Filmy/Polowanie 2012.md",
-    "Filmy/Split 2016.md",
-    "Filmy/Śnieżne bractwo 2023.md",
-    "Filmy/Malena 2000.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Modernizm katolicki.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Wstęp do fenomenologii Husserla.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Spór o istnienie świata.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hospers John, Wprowadzenie do analizy filozoficznej.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hoffe Otfried, Immanuel Kant.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej.md",
-    "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Fanon Frantz, Wyklęty lud ziemi.md",
+    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Kurs filozofii pozytywnej t. 1.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Bergson Henri, Dwa źródła moralności i religii.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Voegelin Eric, Świat Polis.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Wittgenstein Ludwig, Tractatus logico-philosophicus.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Voegelin Eric, Platon.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Toynbee Arnold, Studium historii.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Rothbard Murray, Manifest libertariański.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Popper Karl, Społeczeństwo otwarte i jego wrogowie.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Ortega y Gasset Jose, Bunt mas.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Mises Ludwig von, Liberalizm w tradycji klasycznej.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Marcuse Herbert, Rozum i rewolucja. Hegel a powstanie teorii społecznej.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Koneczny Feliks, Teksty z Myśli narodowej.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Jeager Werner, Paideia t. 1.md",
+    "02 MOC/MOC Historia/MOC Książki historyczne.md",
+    "02 MOC/MOC Historia.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Jeager Werner, Paideia t. 2.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Heidegger Martin, Bycie i czas.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Husserl Edmund, Idee czystej fenomenologii i fenomenologicznej filozofii.md",
+    "02 MOC/MOC Filozofia.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Gilson Etienne, Jedność doświadczenia filozoficznego.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/de Jouvenel Bertrand, Traktat o władzy.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Cioran Emil, Na szczytach rozpaczy.md",
+    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Camus Albert, Mit Syzyfa.md",
     "01 Input przejściowy/załączniki/Realny PKB per capita w Polsce.webp",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",

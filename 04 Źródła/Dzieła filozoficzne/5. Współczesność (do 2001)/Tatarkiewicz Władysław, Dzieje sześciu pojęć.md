@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 21:49
+Rok oryginału: "1975"
 ---
 [[Władysław Tatarkiewicz]], 1975 r.
 

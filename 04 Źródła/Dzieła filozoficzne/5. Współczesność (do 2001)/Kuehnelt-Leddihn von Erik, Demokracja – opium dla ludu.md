@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 20:47
+year: "1996"
 ---
 *Demokratie. Eine Analyse*, 1996 r.
 

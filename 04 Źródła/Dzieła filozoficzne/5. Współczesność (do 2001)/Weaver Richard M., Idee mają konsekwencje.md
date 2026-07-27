@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 21:51
+year: "1948"
 ---
 *Ideas Have Consequences*, 1948 r.
 

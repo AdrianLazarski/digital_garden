@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 20:49
+year: "1957"
 ---
 [[Eric Voegelin]], _Plato and Aristotle. Vol. III of Order and History_, 1957 r.
 PL Platon, 2009 r.

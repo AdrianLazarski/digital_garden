@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-22 21:32
+year: "2000"
 ---
 [[Richard Rorty]], 2000 r.
 

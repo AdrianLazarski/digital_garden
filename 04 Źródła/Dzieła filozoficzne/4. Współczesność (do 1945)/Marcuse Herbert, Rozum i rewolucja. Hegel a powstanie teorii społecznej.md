@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 20:34
+year: "1941"
 ---
 [[Herbert Marcuse]] 1941r.
 

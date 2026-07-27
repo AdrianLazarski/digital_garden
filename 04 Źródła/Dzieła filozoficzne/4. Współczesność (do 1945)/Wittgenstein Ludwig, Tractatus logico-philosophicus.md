@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 20:54
+year: "1921"
 ---
 [[Ludwig Wittgenstein]]
 

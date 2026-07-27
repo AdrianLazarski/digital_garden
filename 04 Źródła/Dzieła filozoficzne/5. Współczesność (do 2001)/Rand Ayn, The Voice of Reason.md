@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-22 21:28
+year: "1988"
 ---
 [[Ayn Rand]], 1988
 

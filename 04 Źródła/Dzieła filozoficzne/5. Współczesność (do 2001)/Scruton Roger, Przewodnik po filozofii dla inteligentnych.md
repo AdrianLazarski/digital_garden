@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 21:37
+year: "1996"
 ---
 An Intelligent Person's Guide to Philosophy, 1996
 Warszawa 2000

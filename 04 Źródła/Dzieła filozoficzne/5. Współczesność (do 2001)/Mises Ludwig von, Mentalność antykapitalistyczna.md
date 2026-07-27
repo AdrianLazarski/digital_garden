@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 22:09
+year: "1956"
 ---
 [[Ludwig von Mises]], 1956 r.
 

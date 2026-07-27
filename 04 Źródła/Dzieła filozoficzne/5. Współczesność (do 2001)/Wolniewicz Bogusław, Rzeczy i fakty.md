@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 21:53
+year: "1968"
 ---
 [[Bogusław Wolniewicz]], 1968 r.
 

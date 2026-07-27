@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 20:52
+year: "1957"
 ---
 [[Eric Voegelin]], The World of the Polis. Vol. II of Order and History, 1957
 PL 2014 r.

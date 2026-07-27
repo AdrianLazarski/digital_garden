@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 20:33
+year: "1927"
 ---
 [[Martin Heidegger]], 1927 r.
 - 

@@ -7,8 +7,9 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-22 21:17
+year: "1982"
 ---
-1982 r.
+
 
 ## Rozdział 1
 

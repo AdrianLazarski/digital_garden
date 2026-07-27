@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 20:21
+year: "1942"
 ---
 [[Albert Camus]], 1942 r.
 

@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 20:40
+year: "1973"
 ---
 [[Murray Rothbard]], *For a New Liberty: The Libertarian Manifesto*, 1973 r.
 

@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 20:49
+year: "1962"
 ---
 [[Thomas Kuhn]], *The Structure of Scientific Revolutions*, 1962 r.
 

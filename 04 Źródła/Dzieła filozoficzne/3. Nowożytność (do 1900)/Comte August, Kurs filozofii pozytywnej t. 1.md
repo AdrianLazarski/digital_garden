@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 19:14
+year: "1830"
 ---
 [[Auguste Comte]], 1830 r.
 

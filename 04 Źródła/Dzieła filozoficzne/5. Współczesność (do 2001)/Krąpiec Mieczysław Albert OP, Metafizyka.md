@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 20:46
+year: "1984"
 ---
 [[Mieczysław Albert Krąpiec]], 1984 r.
 

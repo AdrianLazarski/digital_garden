@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 20:39
+year: "1929"
 ---
 [[Jose Ortega y Gasset]], 1929 r.
 

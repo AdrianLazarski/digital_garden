@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-22 20:39
+year: "1976"
 ---
 [[Leszek Kołakowski]], 1976 r.
 

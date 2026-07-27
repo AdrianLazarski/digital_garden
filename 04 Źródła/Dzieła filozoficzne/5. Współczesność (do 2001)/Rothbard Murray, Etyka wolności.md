@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 21:33
+year: "1982"
 ---
 [[Murray Rothbard]], *The Ethics of Liberty*, 1982
 

@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 20:37
+year: "1927"
 ---
 [[Ludwig von Mises]], *Liberalismus*, 1927 r.
 

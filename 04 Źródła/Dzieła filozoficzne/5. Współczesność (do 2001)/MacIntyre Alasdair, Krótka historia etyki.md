@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 21:14
+year: "1966"
 ---
 *A Short History of Ethics*, 1966 r.
 PL 1993 r.

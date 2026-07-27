@@ -12,6 +12,8 @@ modified date: 2026-07-06 14:08
 
 ## Książki o starożytności
 
+[[Jeager Werner, Paideia t. 1]], 1934 r.
+[[Jeager Werner, Paideia t. 2]], 1934 r.
 [[Russell Bertrand, Dzieje filozofii zachodu]],1946 r.
 [[Bocheński Józef, History of formal logic]], 1956 r.
 [[Voegelin Eric, Świat Polis]], 1957 r.
