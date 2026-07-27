@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Szkoła [[Neokantyzm|neokantyzmu]] dominująca w latach 70' XIX wieku.

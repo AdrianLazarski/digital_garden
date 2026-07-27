@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Założycielem [[Epikur]]. Kupił dom z ogrodem i założył tam szkołę filozoficzną, nazywała się *Kepos*, czyli "Ogród".
 - Z czasem epikureizm ze szkoły filozoficznej przekształcił się w elitarną, ezoteryczną sektę.

@@ -3,7 +3,6 @@ tags:
   - "#fizyka"
   - historia/nauki
   - "#moc"
-creation date: 2025-11-20T16:50:00
 ---
 
 ## Starożytni

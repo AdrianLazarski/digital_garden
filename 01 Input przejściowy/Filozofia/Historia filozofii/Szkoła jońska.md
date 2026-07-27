@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Nurt w filozofii przedsokratejskiej, przypadający na VI i V w. przed Chr. 
 - Pierwsze niemitologiczne próby wyjaśniania *physis* świata. Głównym przedmiotem zainteresowania było [[arché]].

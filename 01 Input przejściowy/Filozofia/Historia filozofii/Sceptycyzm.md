@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 • Założony przez Pyrrona z Elidy.
 • Nie ma kryterium prawdy, nie wiemy czy rzeczywistość jest poznawalna. Należy zawiesić sąd.

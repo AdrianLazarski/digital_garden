@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Wielonurtowy ruch w Niemczech po I wojnie światowej. Odpowiedź na klęskę Niemiec w roku 1918 i ład wersalski.

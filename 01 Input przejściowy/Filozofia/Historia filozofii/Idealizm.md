@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 Najogólniej idealizm  uważa, że przedmiotem filozofii są idee. - dr Płotka

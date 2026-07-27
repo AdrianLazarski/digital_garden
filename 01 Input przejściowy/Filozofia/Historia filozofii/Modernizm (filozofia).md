@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Młoda Polska w filozofii - filozofia, która powstawała w czasie tej epoki literackiej. Nazwa od cyklu artykułów [Artura Górskiego](onenote:Filozofowie\Polscy.one#Artur%20Górski%20(1870%20–%201959)&section-id={B37AE8D3-199B-4093-A04E-A790015A2D4F}&page-id={B3F33C6F-9906-4AC3-AAC4-2732003D994A}&end&base-path=https://d.docs.live.net/6bf6dec507fdeafe/Dokumenty/Filozofia).

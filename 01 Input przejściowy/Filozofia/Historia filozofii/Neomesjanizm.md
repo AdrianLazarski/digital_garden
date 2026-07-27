@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Przełom XIX i XX wieku.  

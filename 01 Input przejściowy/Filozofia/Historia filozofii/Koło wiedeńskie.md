@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Koło filozoficzno-logiczne o charakterze [[Neopozytywizm|neopozytywistycznym]].
 - Poprzedzone [[Empiriokrytycyzm|empiriokrytycyzmem]].

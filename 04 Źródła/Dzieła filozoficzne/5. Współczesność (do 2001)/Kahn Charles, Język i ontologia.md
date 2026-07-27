@@ -6,8 +6,9 @@ tags:
   - filozofia/metafizyka
   - filozofia/historia_filozofii
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 19:40
+year: "1973"
 ---
 tytułowy esej z 1973 r.
 

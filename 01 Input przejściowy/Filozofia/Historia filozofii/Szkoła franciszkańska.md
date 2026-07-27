@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Szkoła Franciszkańska = Szkoła braci mniejszych.
 - Szkoła mocno augustyńska. Dopiero "nowa szkoła franciszkańska" stała się bardziej przychylna Arystotelesowi.

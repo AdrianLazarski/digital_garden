@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-22 18:48
+year: "1948"
 ---
 [[Roman Ingarden]], 1948 r.
 

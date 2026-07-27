@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Założycielem [[Zenon z Kition]].

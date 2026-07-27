@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-22 19:27
+year: "1946"
 ---
 [[Karl Jaspers]], Die Schuldfrag, 1946 r.
 

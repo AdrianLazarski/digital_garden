@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Grupa filozofów-teologów z pierwszej połowy XVII w. uczęszczająca na uniwersytet w Cambridge.

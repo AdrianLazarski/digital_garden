@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Feminizm nie jest zwartym kierunkiem filozoficznym, dlatego bardziej odpowiednie jest mówienie o myśli feministycznej.
 - Dwa znaczenia:

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 Główny kierunek [[Neoscholastyka|neoscholastyki]] zapoczątkowany w 1879 r. przez papieża Leona III encykliką *Aeterni patris*.

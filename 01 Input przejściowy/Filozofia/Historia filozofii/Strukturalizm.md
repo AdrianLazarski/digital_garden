@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Strukturalizm jest kierunkiem badawczym, w którym podkreśla się syntaktyczny (formalny) aspekt przedmiotu/zjawiska.

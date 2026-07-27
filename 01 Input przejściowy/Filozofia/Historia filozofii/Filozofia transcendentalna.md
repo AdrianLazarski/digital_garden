@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 Dyscyplina filozoficzna, kierunek filozofii lub filozofia w ogóle.

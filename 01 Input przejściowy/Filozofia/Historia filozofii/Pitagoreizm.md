@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Koniec VI w. do początku IV w. BC.

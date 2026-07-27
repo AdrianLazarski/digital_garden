@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Klasztor zakonników regularnych św. Augustyna związanych z podparyskim opactwem św. Wiktora.

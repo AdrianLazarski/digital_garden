@@ -7,7 +7,6 @@ tags:
   - filozofia/współczesna
   - filozofia/polityki
 Moja ocena: "2"
-okładka: https://ecsmedia.pl/c/koniec-polityki-czyli-panstwo-bez-przymusu-b-iext188827522.jpg
 year: "2018"
 modified date: 2025-11-22 11:21
 ---

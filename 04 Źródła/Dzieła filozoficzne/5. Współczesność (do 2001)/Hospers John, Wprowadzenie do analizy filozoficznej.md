@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-22 18:44
+year: "1953"
 ---
 [[John Hospers]], 1953 r.
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Początek pod koniec XIX w. w Niemczech. Rozwijała się we Francji, Hiszpanii i w Polsce.
 - Reakcja na [[pozytywizm]], materializm i lewicę heglowską.

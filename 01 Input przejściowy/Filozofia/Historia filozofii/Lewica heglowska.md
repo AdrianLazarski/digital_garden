@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Kontynuatorzy [[Georg Wilhelm Friedrich Hegel|Hegla]], którzy nie cenili chrześcijaństwa.

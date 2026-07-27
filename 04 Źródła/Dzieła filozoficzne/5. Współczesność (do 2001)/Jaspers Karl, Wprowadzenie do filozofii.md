@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 19:31
+year: "1953"
 ---
 [[Karl Jaspers]], 1953 r.
 K. Jaspers, Wprowadzenie do filozofii, Wrocław 2000, s.

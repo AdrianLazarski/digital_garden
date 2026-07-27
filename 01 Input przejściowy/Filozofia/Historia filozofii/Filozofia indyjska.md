@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 > [!J. M. Bocheński, Zarys historii filozofii]

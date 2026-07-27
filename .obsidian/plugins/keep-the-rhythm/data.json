@@ -17280,8 +17280,290 @@
         "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
         "wordCountStart": 10587,
         "charCountStart": 77111,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": -2,
+            "c": -9
+          }
+        ],
         "id": 1185
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hoffe Otfried, Immanuel Kant.md",
+        "wordCountStart": 4187,
+        "charCountStart": 31816,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1186
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Hospers John, Wprowadzenie do analizy filozoficznej.md",
+        "wordCountStart": 238,
+        "charCountStart": 1572,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1187
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Spór o istnienie świata.md",
+        "wordCountStart": 36,
+        "charCountStart": 298,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1188
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ingarden Roman, Wstęp do fenomenologii Husserla.md",
+        "wordCountStart": 241,
+        "charCountStart": 1800,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1189
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Jaspers Karl, Problem winy.md",
+        "wordCountStart": 191,
+        "charCountStart": 1481,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1190
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "copilot/copilot-custom-prompts/Emojify.md",
+        "wordCountStart": 55,
+        "charCountStart": 468,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": -55,
+            "c": -468
+          }
+        ],
+        "id": 1191
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Historia filozofii/Modernizm katolicki.md",
+        "wordCountStart": 22,
+        "charCountStart": 239,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": -2,
+            "c": -25
+          }
+        ],
+        "id": 1192
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Filmy/Amerykańska fikcja 2023.md",
+        "wordCountStart": 108,
+        "charCountStart": 892,
+        "changes": [],
+        "id": 1193
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Filmy/Malena 2000.md",
+        "wordCountStart": 470,
+        "charCountStart": 3341,
+        "changes": [],
+        "id": 1194
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Filmy/Śnieżne bractwo 2023.md",
+        "wordCountStart": 276,
+        "charCountStart": 1862,
+        "changes": [],
+        "id": 1195
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Filmy/Split 2016.md",
+        "wordCountStart": 369,
+        "charCountStart": 2868,
+        "changes": [],
+        "id": 1196
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Filmy/Polowanie 2012.md",
+        "wordCountStart": 126,
+        "charCountStart": 1044,
+        "changes": [],
+        "id": 1197
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Filmy/Hannibal 2001.md",
+        "wordCountStart": 152,
+        "charCountStart": 989,
+        "changes": [],
+        "id": 1198
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Filmy/Glass 2019.md",
+        "wordCountStart": 247,
+        "charCountStart": 1862,
+        "changes": [],
+        "id": 1199
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Filmy/Seriale/Twin Peaks.md",
+        "wordCountStart": 171,
+        "charCountStart": 1232,
+        "changes": [],
+        "id": 1200
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Filmy/Seriale/Twin Peaks 2017.md",
+        "wordCountStart": 144,
+        "charCountStart": 998,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": -39,
+            "c": -279
+          }
+        ],
+        "id": 1201
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Książki/Hare, Woods, Przetrwają najżyczliwsi.md",
+        "wordCountStart": 3679,
+        "charCountStart": 26599,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": -19,
+            "c": -137
+          }
+        ],
+        "id": 1202
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Holloway Chas, Koniec polityki.md",
+        "wordCountStart": 316,
+        "charCountStart": 2309,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": -7,
+            "c": -94
+          }
+        ],
+        "id": 1203
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Zettelkasten.md",
+        "wordCountStart": 3620,
+        "charCountStart": 34582,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": -2,
+            "c": -26
+          }
+        ],
+        "id": 1204
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Martin, Robert M., W tytule tej książki są są dwa błędy.md",
+        "wordCountStart": 1289,
+        "charCountStart": 8434,
+        "changes": [],
+        "id": 1205
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Jaspers Karl, Wprowadzenie do filozofii.md",
+        "wordCountStart": 746,
+        "charCountStart": 5184,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1206
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Johnson Paul, Intelektualiści.md",
+        "wordCountStart": 5534,
+        "charCountStart": 38790,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1207
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kahn Charles, Język i ontologia.md",
+        "wordCountStart": 368,
+        "charCountStart": 2802,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 1208
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Kołakowski, Główne nurty marksizmu.md",
+        "wordCountStart": 83,
+        "charCountStart": 662,
+        "changes": [],
+        "id": 1209
       }
     ]
   }

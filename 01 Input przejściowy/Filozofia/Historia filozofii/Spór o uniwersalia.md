@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Dyskusja pod koniec XI wieku i w pierwszej połowie XII w. w północnej Francji.
 - Problem ten się pojawił w średniowieczu w kształcie nadanym mu przez *Isagogę* [[Porfiriusz|Porfiriusza]] oraz *Kategorie* i *Hermeneutykę* [[Arystoteles|Arystotelesa]].

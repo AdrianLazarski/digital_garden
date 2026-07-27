@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Dość szeroki nurt/ruch filozoficzny, który zrodził się jako reakcja na neokantyzm, neoheglizm i przeciwny temu ostatniemu neoarystotelizm. Pod silnym wpływem neopozytiwizmu.
 - Nie jest to szkoła ani system.

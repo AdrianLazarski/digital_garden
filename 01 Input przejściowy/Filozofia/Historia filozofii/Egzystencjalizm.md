@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Historycznie:
 - Kierkegaard prekursor.

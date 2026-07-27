@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - [[Achille Mbembe]] (ur. 1957) jest głównym przedstawicielem współczesnego postkolonializmu.
 - Teoria postkolonialna jest obecna w Afryce, Indiach, UK, Australii i USA.

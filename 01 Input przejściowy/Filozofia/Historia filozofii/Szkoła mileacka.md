@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Wzgl. milezyjska.
 
 

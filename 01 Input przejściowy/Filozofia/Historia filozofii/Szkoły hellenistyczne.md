@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Od V w. p. Chr. do końca starożytności.

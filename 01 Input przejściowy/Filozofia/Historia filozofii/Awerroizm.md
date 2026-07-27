@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - A dokładniej awerroizm łaciński.
 - Istniał już przed 1270, o czym świadczy jego potępienie przez papieża.

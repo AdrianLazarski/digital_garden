@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Pierwsza wiosna intelektualna Europy, jako reakcja źle przyjętego chrześcijaństwa, pozbawionego sprawnych obrońców, na powracające pogaństwo.

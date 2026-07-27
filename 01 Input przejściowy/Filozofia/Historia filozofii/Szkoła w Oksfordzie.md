@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Do XII w. funkcjonowały tam szkoły. Od 1200 r. do dziś korporacja college'ów.
 - W 1167 r. Henryk II wydał zakaz studiowania w Paryżu, bo zbyt wielu Anglików było związanych z [[Szkoła w Chartres|Chartres]].

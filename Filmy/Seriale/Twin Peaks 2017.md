@@ -1,21 +1,3 @@
----
-poster: "https://m.media-amazon.com/images/M/MV5BZGU5OTQ2YzctZmE4Zi00OWI0LWJmMDQtNDcxYjJmODBjN2U1XkEyXkFqcGc@._V1_SX300.jpg"
-scoreImdb: "8.5"
-imdbVotes: "78,749"
-Metascore: "N/A"
-length: "60 min"
-year: "2017"
-cast: "Kyle MacLachlan, Sheryl Lee, Michael Horse"
-director: "N/A"
-writer: "Mark Frost, David Lynch"
-Country: "United States"
-genre: "Crime, Drama, Horror"
-Language: "English, French"
-Moja ocena: 
-tags:
-  - film
-originaltitle: "Twin Peaks"
----
 Największy akcent na wątki komediowe. Fabuła całkiem ciekawa, ale męczyły mnie psychodeliczne wstawki i wciskanie długich fragmentów muzycznych na koniec prawie każdego odcinka. 
 
 Tu też zbędne wątki, jak ten z Audrey, jej synem, czy jej starym. Jak się poprzewija największe gówno, to można pooglądać. 

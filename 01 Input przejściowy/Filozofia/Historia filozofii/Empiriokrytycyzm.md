@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Pozytywistyczny nurt filozoficzny z przełomu XIX i XX w. 
 - Zwany drugim [[Pozytywizm|pozytywizmem]].

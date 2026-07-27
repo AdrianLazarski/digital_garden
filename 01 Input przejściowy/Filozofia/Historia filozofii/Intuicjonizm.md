@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 Prąd epistemologiczny, przyjmujący [[Filozofia💭/Działy filozofii 🗃️/Intuicja|intuicję]] (moralna, intelektualna, metafizyczna) jako podstawę poznania.

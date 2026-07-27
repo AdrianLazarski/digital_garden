@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 Zob. [[Szkoła megarejska]]
 

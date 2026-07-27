@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 • Kierunek w filozofii, który powstał w I połowie XX wieku.

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Nauka o istocie czystej świadomości.
 - 2 rozumienia:

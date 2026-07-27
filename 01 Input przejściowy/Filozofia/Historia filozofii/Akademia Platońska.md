@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Założył ją [[Platon]] w gaju Akademosa. Przewodził nią 40 lat.
 - Głównie wykładano ustnie, ale Platon napisał trochę "podręczników".

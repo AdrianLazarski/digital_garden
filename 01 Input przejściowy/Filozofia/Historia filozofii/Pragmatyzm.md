@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Nurt filozofii amerykańskiej.
 - Odpowiedź na różne zjawiska w filozofii europejskiej: heglizm, kantyzm, romantyzm oraz na amerykański transcendentalizm.

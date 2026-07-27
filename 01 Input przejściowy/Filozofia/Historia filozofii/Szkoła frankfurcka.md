@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Ideologiczny paradygmat z elementami naukowości dla Nowej Lewicy przygotowała założona po I wojnie światowej Szkoła Frankfurcka. 

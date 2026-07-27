@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Wielki spór XI wieku.

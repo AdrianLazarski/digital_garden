@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Założona przez [[Fulbert z Chartres|Fulberta]], ucznia Gilberta z Aurillac, który inspirował się Arabami, stąd profil przyrodniczy szkoły szartryjskiej.

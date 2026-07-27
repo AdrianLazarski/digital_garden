@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Szkoła etyczna, działająca od V w. przed Chr. do V wieku po Chr.
 - Założycielem [[Antystenes]].

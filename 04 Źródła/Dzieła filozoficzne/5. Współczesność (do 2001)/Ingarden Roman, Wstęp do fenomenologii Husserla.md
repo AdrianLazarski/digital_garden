@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-22 19:26
+year: "1967"
 ---
 [[Roman Ingarden]], 1967 r.
 

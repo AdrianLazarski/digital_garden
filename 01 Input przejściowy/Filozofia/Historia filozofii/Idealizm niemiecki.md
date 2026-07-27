@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Idea jako skutek/przejaw wew. różnicowania się absolutu na ducha i materię (podmiot i przedmiot).  zob. [[Idealizm]].

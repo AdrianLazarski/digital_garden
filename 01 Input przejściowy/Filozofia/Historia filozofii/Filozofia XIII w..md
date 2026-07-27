@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Dzięki powstawaniu uniwersytetów i tekstom [[Arystoteles|Arystotelesa]] tworzy się nowy paradygmat nauki: sylogistyka.

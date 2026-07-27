@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Arabowie przed Mahometem - okres niewiedzy.
 - Kalifowie z arabskiej dynastii Ommajadów - stolica w Damaszku - okres dużej tolerancji i otwartości: na dworze kalifa działa św. Jan z Damaszku.

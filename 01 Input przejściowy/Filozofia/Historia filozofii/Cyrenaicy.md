@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Hedoniści.
 - Szkoła filozoficzna, której założycielem był [[Arystyp z Cyreny]].

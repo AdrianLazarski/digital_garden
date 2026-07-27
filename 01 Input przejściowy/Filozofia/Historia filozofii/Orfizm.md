@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Panteistyczny ruch religijno-misteryjny, noszący nazwę na cześć rzekomego, mistycznego założyciela.

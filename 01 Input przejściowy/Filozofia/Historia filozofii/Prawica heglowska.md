@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 - Chcieli pogodzić system [[Georg Wilhelm Friedrich Hegel|Hegla]] z teologią chrześcijańską.

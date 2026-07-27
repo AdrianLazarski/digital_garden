@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 1. [[Empiryzm (epistemologia)|Stanowisko epistemologiczne]].
 2. Kierunek w historii filozofii.

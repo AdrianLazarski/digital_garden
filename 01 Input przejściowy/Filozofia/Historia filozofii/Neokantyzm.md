@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 
 • Nurt filozoficzny zapoczątkowany w XIX wieku, wyrażający sprzeciw wobec heglizmu i materializmu.

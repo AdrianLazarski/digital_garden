@@ -1,7 +1,3 @@
----
-okładka: https://publio.pl/files/product/big/87/19/0e/1176772-przetrwaja-najzyczliwsi-vanessa-woods-1.webp?v=3309724
-Ocena: 8/10
----
 
 
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Sokratycy mniejsi.
 - V w. przed Chr.

@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 18:39
+year: "1983"
 ---
 wyd. niemieckie 1983
 Wydanie: Otfried Höffe, Immanuel Kant, Warszawa 1995.

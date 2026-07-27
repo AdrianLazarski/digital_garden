@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 - Próba „ominięcia” aporii wynikającej ze stanowisk [[Heraklit z Efezu|Heraklita]] i [[Szkoła eleacka|eleatów]] poprzez powrót do pomysłów [[Szkoła mileacka|szkoły mileackiej]].
 - Wynika z niezrozumienia wagi propozycji Heraklita i [[Parmenides z Elei|Parmenidesa]].

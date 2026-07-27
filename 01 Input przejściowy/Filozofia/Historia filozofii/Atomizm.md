@@ -1,6 +1,3 @@
----
-dg-publish: false
----
 
 - Teoria o ziarnistej, nieciągłej strukturze [[Materia|materii]].
 - Inicjatorami [[Leucyp z Miletu]] i [[Demokryt z Abdery]]

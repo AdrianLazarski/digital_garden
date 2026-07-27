@@ -1,7 +1,3 @@
----
-okładka:
-updated:
----
 
 
 ## 💡 Zettelkasten: System Zarządzania Wiedzą i Myślenia
