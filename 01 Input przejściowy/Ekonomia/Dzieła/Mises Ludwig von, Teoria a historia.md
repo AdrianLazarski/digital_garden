@@ -11,6 +11,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 21:59
+year: "1957"
 ---
   Theory and History. An Interpretation of Social and Economic Evolution, 1957
   [[Ludwig von Mises]]

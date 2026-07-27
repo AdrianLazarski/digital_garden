@@ -10,6 +10,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 19:35
+year: "1878"
 ---
 [[Friedrich Nietzsche]], 1878 r.
 

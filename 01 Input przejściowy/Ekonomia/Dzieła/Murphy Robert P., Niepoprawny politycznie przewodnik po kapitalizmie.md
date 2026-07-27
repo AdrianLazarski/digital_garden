@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 22:12
+year: "2006"
 ---
 Politically Incorrect Guide to Capitalism, 2006
 

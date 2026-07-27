@@ -9,6 +9,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 18:20
+year: "-380"
 ---
 [[Platon]], 380 przed Chr.
 

@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 18:27
+year: "1162"
 ---
 [[Ryszard ze św. Wiktora]], 1153-1162 r.
 

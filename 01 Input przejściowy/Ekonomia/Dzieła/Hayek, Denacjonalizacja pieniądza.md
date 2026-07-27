@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 20:35
+year: "1976"
 ---
   The Denationalization of Money, 1976
 

@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 18:29
+year: "1277"
 ---
 [[Siger z Brabantu]], 1277 r.
 

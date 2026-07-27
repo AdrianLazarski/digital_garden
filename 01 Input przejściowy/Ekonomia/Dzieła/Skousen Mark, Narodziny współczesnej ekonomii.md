@@ -7,34 +7,9 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 21:12
+year: "2001"
 ---
 The Making of Modern Economics, 2001
-
-**Spis treści**
-
-[Rozdział 1](#Rozdzia%C5%82%201)
-	[Preadamici](#Preadamici)
-[Rozdział 2](#Rozdzia%C5%82%202)
-	[Jean Baptiste-Say](#Jean%20Baptiste-Say)
-	[Frederic Bastiat](#Frederic%20Bastiat)
-[Rozdział 3](#Rozdzia%C5%82%203)
-[Rozdział 4 Ricardo](#Rozdzia%C5%82%204%20Ricardo)
-[Rozdział 5 JSMill](#Rozdzia%C5%82%205%20JSMill)
-[Rozdział 6 Marks](#Rozdzia%C5%82%206%20Marks)
-[Rozdział 7 Austriacy](#Rozdzia%C5%82%207%20Austriacy)
-[Rozdział 8 Marshall](#Rozdzia%C5%82%208%20Marshall)
-[Rozdział 9 Ekonomia amerykańska](#Rozdzia%C5%82%209%20Ekonomia%20ameryka%C5%84ska)
-[Rozdział 10 Veblen](#Rozdzia%C5%82%2010%20Veblen)
-[Rozdział 11 Fisher](#Rozdzia%C5%82%2011%20Fisher)
-[Rozdział 12 Mises i Wicksell](#Rozdzia%C5%82%2012%20Mises%20i%20Wicksell)
-[Rozdział 13 Keynes](#Rozdzia%C5%82%2013%20Keynes)
-[Rozdział 14 Samuelson](#Rozdzia%C5%82%2014%20Samuelson)
-[Rozdział 15 Friedman](#Rozdzia%C5%82%2015%20Friedman)
-[Rozdział 16 Schumpeter](#Rozdzia%C5%82%2016%20Schumpeter)
-[Rozdział 17 Triumf ekonomii wolnego rynku](#Rozdzia%C5%82%2017%20Triumf%20ekonomii%20wolnego%20rynku)
-[Recenzja](#Recenzja)
-
-
 
 ## Rozdział 1
 

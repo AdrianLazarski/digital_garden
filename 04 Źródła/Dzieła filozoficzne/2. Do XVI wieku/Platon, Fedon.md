@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 18:09
+year: "-367"
 ---
 [[Platon]], 387–367 przed Chr.
 

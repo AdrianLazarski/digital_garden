@@ -1,4 +1,14 @@
-1935 r.
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - chrześcijaństwo
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-27 18:27
+year: "1935"
+---
+
 
 Próbowałem – dość nieporadnie, niestety – przekazać, że pojawiła się zupełnie nowa groźba związana z koteriami, polegająca na tym, że koteria nie jest już zaledwie kliką, ale wzięła na siebie obowiązki tłumacza. Objaśnia sens dzieła, tłumacząc na ludzki język coś, co z założenia musi być niezrozumiałe. Już samo istnienie takiej koterii zachęca artystów do tworzenia niezrozumiałych dzieł, mimo że cała funkcja dzieła sztuki opiera się właśnie na tym, żeby odbiorcy je rozumieli.
 
@@ -22,5 +32,3 @@ Spirytyzm wymaga duchowej arystokracji, dużo bardziej eksluzywnej i uprzywilejo
 
 Kult witalności i kultury fizycznej to pogański bożek, powodujący zaniedbywanie innych sfer czy dyskryminację. Bożek miłości fizycznej zmienia się nienawiść czy zawiść/zazdrość. System bożków upadł i znowu upadnie, ponieważ potrzebny jest jeden Bóg spinający całą rzeczywistość w sposób równomierny.
 
-
-#chrześcijaństwo 

@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 19:56
+year: "1840"
 ---
 *Qu’est-ce que la propriété?*, [[Pierre-Joseph Proudhon]], 1840 r.
 

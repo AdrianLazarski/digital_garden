@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-20 18:53
+year: 330 BC
 ---
 [[Arystoteles]] 347-330 r. p.n.e.
 

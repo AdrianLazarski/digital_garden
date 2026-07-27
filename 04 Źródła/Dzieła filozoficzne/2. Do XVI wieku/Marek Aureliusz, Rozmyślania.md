@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 17:57
+year: "180"
 ---
 [[Marek Aureliusz]], 170–180 po Chr.
 

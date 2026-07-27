@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 20:08
+year: "2018"
 ---
 _The Case Against Education_, 2018
 

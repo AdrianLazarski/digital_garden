@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 20:33
+year: "2012"
 ---
   *Organizing Entrepreneurial Judgement: A New Approach to the Firm*, 2012
 

@@ -58,4 +58,6 @@ modified date: 2026-07-10 14:09
 [[Kaiser Axel, Uliczny ekonomista]], 2022
 [[Tupy, Pooley, Superobfitość]], 2022
 [[Palmer Tom, Rozwój i godność człowieka]], 2022 r.
-[[Mueller, Od IOU do inflacji - realistyczne ograniczenia Magicznej Teorii Monetarnej]], 2025
+[[Norberg Johan, Manifest kapitalistyczny]], 2023 r.
+[[Bagus Phliip, Era Mileia]], 2025 r.
+[[Mueller, Od IOU do inflacji - realistyczne ograniczenia Magicznej Teorii Monetarnej]], 2025 r.

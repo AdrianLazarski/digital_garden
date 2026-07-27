@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 21:18
+year: "2022"
 ---
   El economista callajero. 15 lecciones, 2022
 

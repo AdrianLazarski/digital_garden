@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-14 19:16
+year: "2017"
 ---
 https://mises.pl/artykul/wstep-austriackiej-szkoly-ekonomii-lista-30-tekstow-wybranych-redakcje-mises-pl
 

@@ -2,7 +2,7 @@
 created: 2024-06-09 14:27
 tags:
   - chrześcijaństwo
-  - teologia
+year: "1933"
 modified date: 2025-11-22 21:17
 ---
 *Manual of Christian Doctrine*, 1933 r.

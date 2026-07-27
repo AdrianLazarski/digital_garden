@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-14 18:52
+year: "2015"
 ---
 Excuse Me, Professor: Challenging the Myths of Progressivism, 2015
 

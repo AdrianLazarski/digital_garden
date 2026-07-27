@@ -1,10 +1,22 @@
-##### Wstęp
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-27 18:00
+year: "2023"
+---
+
+# Notatki
+## Wstęp
 - Na 11 stronie przytacza głośne przykłady ludzi i organizacji, którzy zmienili swoje nastawienie do kapitalizmu i handlu.
 - Margaret Thatcher znienawidzono za zamknięcie 115 deficytowych, niszczących środowisko kopalni węgla. Tymczasem jej dwaj poprzednicy na stanowisku premiera James Callaghan i Harold Wilson z Partii Pracy zamknęli łącznie aż 257 kopalni. s.17
 - "To partie socjalistyczne rozpoczęły procesy "odsocjalistyczniania" gospodarek Indii, Australii i Nowej Zelandii. To partie protekcjonistyczne otwierały gospodarki Brazylii i Meksyku. W Chinach, Wietnamie i Chile natomiast wolności gospodarcze wprowadzali dyktatorzy". Oni wiedzieli, że socjalizm jest po prostu niewykonalny. s. 17
 - W ciągu ostatnich 20 lat 138 tysięcy osób dziennie wydobywało się ze skrajnej biedy.
 
-##### Rozdział 1
+## Rozdział 1
 - W 1999 roku Bank Światowy stwierdził, że "globalny poziom ubóstwa wzrósł, a perspektywy na wzrost gospodarczy dla krajów rozwijających się zanikły". Jednocześnie ten sam bank zebrał dane z lat 90., w których skrajne ubóstwo w skali globalnej spadło z 38 do 29%. Do 2015 roku spadło do 10%, a do 2022 roku do 8,4%. s. 23-24
 	- I nie był to wzrost tylko Chin. Jeśli usuniemy dane dotyczące Chin, to do 2019 roku globalne ubóstwo spadło do 10%.
 - Poziom skrajnego ubóstwa w Azji Wschodniej, Południowej, Ameryce Łacińskiej i na Bliskim Wschodzie jest obecnie realnie niższy niż w Europie Zachodniej w 1960 roku, czyli w okresie, który wspominany jest jak czas powojennego boomu. Nie poprawiło się jedynie w Afryce Subsaharyjskiej. s. 25
@@ -57,7 +69,7 @@
 - Populiści z Wenezueli, Nikaragui i Boliwii sprawili, że ich państwa stały się przeciętnie o 20% biedniejsze, niż porównywalne państwa. 
 - Z badania populistycznych rządów z 50 państw w latach 1900-2018 wynika, że 15 lat po przejęciu kontroli zarządzane przez nich rynki są średnio o ponad jedną dziesiątą mniejsze, niż inne, pierwotnie do nich porównywalne. s. 49
 
-##### Rozdział 2
+## Rozdział 2
 - Powiększenie sektora publicznego o 10 pp. powoduje obniżenie rocznej stopy wzrostu o 0,5-1 procent.
 - Wśród 25% krajów o najmniejszych swobodach najbiedniejsi otrzymują do podziału 2,7% dochodów, a w gronie 25% państw o największych swobodach średnio 2,9%. Przy czym ci drudzy dzielą większy tort. W efekcie mają dochody ponad osiem razy większe. 
 - Prywatne przedsiębiorstwa nie prowadziły dyskryminacji rasowej do końca XIX wieku.. Prawa Jima Crowa to odpowiedź stanów. Przedsiębiorstwa lobbowały przeciwko takim prawom, podważały je w sądach, opóźniały ich wprowadzanie lub go zupełnie odmawiały, na co stany odpowiadały aresztowaniami i grzywnami. s. 62
@@ -69,7 +81,7 @@
 - Przeanalizowano 389 kryzysów ekonomicznych, które wystąpiły od 1993 r. W państwach o niskim poziomie wolności gospodarczej przeciętny spadek PKB w czasie kryzysu wynosi 12%, a w tych o wysokim poziomie 8%.
 - Nie minęły dwa miesiące od wybuchu covida, a liczba europejskich firm produkujących maseczki wzrosła z 12 do 500. W USA 95% przedsiębiorstw z branży tekstylnej po raz pierwszy w swej historii zajęło się produkcją odzieży ochronnej.
 
-##### Rozdział 3
+## Rozdział 3
 - Wszystkie uprzemysłowione kraje od pewnego poziomu się deindustrializują. Japonia i Niemcy zaczęły w latach 70. XX wieku, Singapur w 80., Korea Południowa w 90. Aktualnie robią to Chiny.
 - Odsetek chińczyków zatrudnionych w fabrykach był najwyższy w 2013 roku. Od tego czasu liczba miejsc w przemyśle wytwórczym spada o 5 milionów rocznie. 
 - Udział miejsc pracy w segmencie produkcyjnym wzrasta aktualnie tylko w Afryce Subsaharyjskiej.
@@ -91,7 +103,7 @@
 - W latach 1967-2018 w USA odsetek osób otrzymujących średnią pensję (35-100 tys. dolarów, skorygowane o inflację) spadł z 54 do 42%. Odsetek osób zarabiających poniżej 35 tys. spadł z 36 do 28%. Kogo przybyło? Osób zarabiających powyżej 100 rocznie z 10% do 30%. s. 88
 - 
 
-##### Rozdział 9
+## Rozdział 9
 - To, że w biednych krajach są wspólnoty o głębszych relacjach, niż w państwach zurbanizowanych, to gadają głównie ludzie w bogatych regionach, nigdy w biednych. 
 - W sondażu Gallup World Poll spytano ludzi z całego świata: "Czy masz krewnych lub przyjaciół, na których pomoc możesz liczyć zawsze, gdy jesteś w kłopotach?" W krajach afrykańskich 25% odpowiadało, że nie. W Ameryce Południowej i Azji 20%, w Japonii i na Tajwanie 10%, zaś w Europie, USA, Kanadzie, Australii i Nowej Zelandii poniżej 10%. 
 - Prowadzone od 1977 roku badania pokazują, że odsetek studentów twierdzących, że nie mają przyjaciół i czują się wykluczeni spadł. s. 232
@@ -124,17 +136,38 @@
 
 
 
-
-
-
-
-
-
 odsetek amerykańskich pracowników zarabiających płacę minimalną lub mniej spadł z 15% w 1980 roku do 1,5% w 2020 roku. Od 1990 roku wynagrodzenia w 10% najgorzej płatnych zawodów wzrosły o 36%, zaś dochody 20% najbiedniejszych gospodarstw domowych o 66%, podczas gdy mediana wzrosła o 44% – oznacza to, że sytuacja najuboższych bardziej ulegała poprawie, niż zamożniejszych rodzin. Należy też wspomnieć, że rzadko w dyskusjach o rzekomej stagnacji podnoszenia wynagrodzeń uwzględnia się benefity pozapłacowe w postaci ubezpieczeń zdrowotnych, czy funduszy emerytalnych. Z nimi średnia stawka za godzinę pracy wzrosła w Stanach Zjednoczonych od 1980 roku o 60%.
 
 wzrost zautomatyzowania danej fabryki o 1% zwiększa zatrudnienie w niej o 0,25% w ciągu dwóch lat i o 0,4% w ciągu dziesięciu, przy czym nie jest to oczywiście ta sama praca.
 
 
 
+# Recenzja
 
-#ekonomia #liberalizm #ase 
+Jak stwierdza sam autor, Johan Norberg, książka Manifest kapitalistyczny. Jak wolny rynek uratuje świat to „próba odwrócenia uwagi od wojny kulturowej i zachęta do ponownego zajęcia się sprawami decydującymi o naszej przyszłości”.  
+  
+Ponownego, bo stanowi ona swoiste echo jego przetłumaczonego na 25 języków Sporu o globalizację z 2001 roku. Autor wspominał wtedy, że wskaźnik światowego ubóstwa może spaść do 2015 roku z 29% światowej populacji o połowę. Spadł do 10%, co pokazuje, że nawet najbardziej zaangażowani i optymistyczni orędownicy wolnego rynku mają problemy z uzmysłowieniem sobie dobrodziejstw płynących ze swobody działania i dobrowolności wymiany.  
+  
+Manifest kapitalistyczny nie jest o wróżeniu z fusów i szklanej kuli, lecz jest przyjrzeniem się przede wszystkim teraźniejszości i przeszłości. Zwraca uwagę na największe problemy współczesnego świata, wobec których kapitalizm nawet niektórym liberałom wydaje się bezradny, czy mało skuteczny albo o które jest obwiniany. W pierwszym rozdziale czytelnik zostaje zasypany danymi na temat wychodzenia z ubóstwa, wzroście oczekiwanej długości życia oraz spadku liczby analfabetów. Przedstawione są też historie sukcesów państw o najróżniejszej powierzchni, populacji czy bogactwach naturalnych, by pokazać, że uwolnienie rynków nie tylko działa, ale działa wszędzie, a nie tylko w wybranej cywilizacji, czy szerokości geograficznej. Aczkolwiek to działanie nie będzie oczywiście wiecznie, jeśli nie zadba się o konkurencyjne rynki i ochronę praw własności.  
+  
+Dane o sukcesach gospodarki rynkowej przedstawiają najróżniejsi autorzy i nawet przeciwnicy kapitalizmu nie spierają się z nimi szczególnie, więc dużo ciekawsze jest moim zdaniem to, co Norberg pisze dalej. Przykładowo omawia często poruszany temat przenoszenia fabryk z krajów Zachodnich do Chin i innych słabo rozwiniętych państw z tanią siłą roboczą, co przynosi oszczędności firmom i konsumentom, ale dotyka najsłabiej wykształconych Europejczyków i Amerykanów, którzy tracą przez to pracę. Problemem ma też być rzekomo większy stopień uzależnienia od handlu międzynarodowego i niektórzy czuliby się bezpieczniej, gdyby produkcja przynajmniej części dóbr odbywała się w ich ojczyźnie.  
+  
+Przede wszystkim przyjęto tu fałszywe założenie, że te miejsca praca by nie zniknęły, gdyby ich nie przeniesiono do Chin. Tymczasem deindustrializacja to naturalny proces dla państw na pewnym etapie rozwoju, który aktualnie ma miejsce również w Chinach – rocznie ubywa tam 5 milionów miejsc pracy w przemyśle rocznie, za to wykorzystuje się 16 razy więcej robotów przemysłowych, niż w 2010 roku. Gdzie zatem teraz produkuje się odzież, obuwie czy meble? W Afryce, czyli jednym kontynencie, gdzie udział prac w przemyśle rośnie.  
+  
+Druga sprawa, że spadek liczby miejsc pracy w przemyśle nie oznacza, że na Zachodzie produkuje się mniej – wręcz przeciwnie. W USA produkcja przemysłowa wzrosła od 1980 roku dwukrotnie. Ponadto badania pokazują, że wzrost zautomatyzowania danej fabryki o 1% zwiększa zatrudnienie w niej o 0,25% w ciągu dwóch lat i o 0,4% w ciągu dziesięciu, przy czym nie jest to oczywiście ta sama praca.  
+  
+Problemem też nie jest chińska konkurencja, bo na każdego pracownika, który stracił pracę na skutek importu towarów z Chin, przypada aż 150, którzy stracili ją z innego powodu. Z kolei firmy, które konkurują z tym importem, zwiększają zatrudnienie o 2% więcej, niż inne przedsiębiorstwa. Próby obronienia jednego miejsca pracy protekcjonizmem powodują utratę takiej siły nabywczej, która mogłaby stworzyć pracę dla sześciu innych osób.  
+  
+Autor porusza też problem rosnących nierówności społecznych. Nikt nie neguje faktu, że w skali świata nierówności spadają, ale w krajach zachodnich zwiększa się ponoć przepaść między najuboższymi a najbogatszymi. Tymczasem odsetek amerykańskich pracowników zarabiających płacę minimalną lub mniej spadł z 15% w 1980 roku do 1,5% w 2020 roku. Od 1990 roku wynagrodzenia w 10% najgorzej płatnych zawodów wzrosły o 36%, zaś dochody 20% najbiedniejszych gospodarstw domowych o 66%, podczas gdy mediana wzrosła o 44% – oznacza to, że sytuacja najuboższych rodzin ulegała bardziej poprawie, niż tych zamożniejszych. Należy też wspomnieć, że rzadko w dyskusjach o rzekomej stagnacji podnoszenia wynagrodzeń uwzględnia się benefity pozapłacowe w postaci ubezpieczeń zdrowotnych, czy funduszy emerytalnych. Z nimi średnia stawka za godzinę pracy wzrosła w Stanach Zjednoczonych od 1980 roku o 60%.  
+  
+Niektórzy mogą się zastanawiać, czemu millenialsi mają problem z zakupem mieszkania, skoro zarabiają więcej niż ich rodzice i dziadkowie. Autor zwraca uwagę, że dziadek dzisiejszego Amerykanina oddawał państwu znacznie mniejszą część swojego dochodu, mógł budować niemal wszędzie, co obniżało koszty oraz że niskie płace sprawiały, że pracochłonne przedsięwzięcia, takie jak budowa domy, były tańsze. Norberg proponuje jednak, by spytać starszych ludzi, co mogli zrobić, gdy chcieli zjeść na obiad mięso albo gdy potrzebowali nowej kurtki, książki, telefonu, radia, transportu czy protezy. Błyskawicznie opowieść o starych dobrych czasach zmieni się w skecz Monty Pythona o mieszkaniu w jeziorze.  
+  
+Oczywiście wzrost bogactwa to nie wszystko. Co komu po pieniądzach, skoro płaci za to zdrowiem psychicznym? Autor przytacza badanie próbek śliny, pobieranej sześć razy dziennie od mieszkańców średniej wielkości miasta. Okazało się, że najsilniejszego stresu doświadczali w domu. W innym badaniu, tyle że ankietowym, okazało się, że odsetek ludzi całkowicie usatysfakcjonowanych swoją pracą wzrósł z 35 do 56%. Po dodaniu „w miarę usatysfakcjonowanych” robi się aż 90%. Dostaje się tu przy okazji lewicowemu antropologowi Davidowi Graeberowi i jego głośnej książce „Praca bez sensu”, opartej się na błędnej metodologii badań, w której próbuje dowodzić, że mnóstwo ludzi nienawidzi swoich obowiązków zawodowych.  
+  
+Ludzie są szczęśliwi lub zadowoleni? No tak, bo są większymi egoistami! Okazuje się, że i to nie jest prawdą. W 152 krajach zmierzono, jak często występują następujące formy hojności: oddawanie krwi, organów, szpiku kostnego, datki na cele charytatywne, wolontariat, spontaniczna pomoc obcym i dobre traktowanie zwierząt. Są one najpowszechniejsze w krajach indywidualistycznych. Co ciekawe, po wprowadzeniu możliwości płatnego oddawania osocza w Kanadzie i USA, liczba osób oddających krew za darmo nie tylko nie zmalała, ale wzrosła.  
+  
+Norberg poświęca też wiele uwagi zmianom klimatycznym. Jego zdaniem najlepszym rozwiązaniem jest powiązanie eksploatacji przyrody i emisji dwutlenku węgla z kosztami, co sprowadza się do postulatów prywatyzacji środowiska naturalnego oraz, co może nie spodobać się niektórym liberalnym i libertariańskim czytelnikom, opodatkowania emisji CO2. Trzeba jednak przyznać, że robi to przekonująco, dzięki czemu ma szansę zmusić do myślenia zarówno zwolenników gospodarki rynkowej, jak i jej przeciwników.  
+  
+Autor pogłębia też rozważania na temat transformacji energetycznej, poczucia szczęścia, korzyści z globalizacji, problemu monopoli czy kondycji gospodarczej Chin. Szczególnie to jest interesujące, bo ludzie mówiący o sukcesie Chin, często nie mają świadomości, że współcześnie to nie jest to samo państwo, co dwie-trzy dekady temu i że od Xi Jinpinga nie można oczekiwać takich samych postaw, jak od dawnego kierownictwa partyjnego.  
+  
+Różnorodność i mnogość poruszonych w książce wątków nie pozwala ich tu wszystkich poruszyć, ani nawet jakoś łatwo i zgrabnie ich ze sobą powiązać, ale Norbergowi się to jakoś udało. Ten rozstrzał tematyczny nie tylko ma sens, ale został wykonany po prostu dobrze i świetnie się to czyta.

@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-13 20:26
+year: "1951"
 ---
   Ethics of redistribution, 1951
 

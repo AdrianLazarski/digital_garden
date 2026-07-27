@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 19:32
+year: "1799"
 ---
 [[Georg Christoph Lichtenberg]], 1799 r. 
 

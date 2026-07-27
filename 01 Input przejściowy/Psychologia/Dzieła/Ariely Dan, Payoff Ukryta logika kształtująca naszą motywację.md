@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - psychologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-27 18:11
+year: "2016"
+---
 
 - Dano ludzi do składania Bionicle. Wszyscy badani wiedzieli, że po zakończeniu ich pracy Bionicle będą rozmontowane, by kolejne grupy mogły budować.
 	- W pierwszej grupie za pierwszego dostawali 2 dolary. Za kolejnego 11 centów mniej itd. Ich Bionicle wsadzano do pudła pod stołem, by rozmontować je "później". Budowali średnio 11 bionicli.
@@ -10,5 +20,3 @@
 	- Założono, że ignorowani i niszczeni będą oszukiwać i maksymalizować zysk, ale kończyli na stawce 29 i 27,5 centa. Docenieni schodzili do 15 centów.
 - Nowicjusze robili origami. Na końcu mogli je zabrać jeśli zaoferują jakąś kwotę i zapłacą za to dzieło badaczom. Osobno była grupa kupców, która nie robiła origami. Twórcy cenili swoje brzydkie dzieła 5 razy bardziej od kupców.****
 
-
-#psychologia 

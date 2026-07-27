@@ -6,12 +6,13 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 21:51
+year: "1920"
 ---
 
 
 ## Wprowadzenie prof. Jacek Kochanowicz:
 
-- Brak prywatnej własności środków produkcji – nie podlegają wymianie rynkowej, więc nie kształtują się ceny, które odzwierciedlałyby warunki gospodarowania. Skoro nie ma cen to nie ma sposobu określenia najefektywniejszej kombinacji czynników produkcji, a to prowadzi do marnotrwastwa.
+- Brak prywatnej własności środków produkcji – nie podlegają wymianie rynkowej, więc nie kształtują się ceny, które odzwierciedlałyby warunki gospodarowania. Skoro nie ma cen to nie ma sposobu określenia najefektywniejszej kombinacji czynników produkcji, a to prowadzi do marnotrawstwa.
 - Esej z 1920. W 1936 Lange z nim polemizował, twierdząc, że problem kalkulacji można rozwiązać metodą prób i błędów, próbując zrównoważyć podaż i popyt na czynniki produkcji. Zaproponował model: wolny rynek dóbr konsumpcyjnych + Centralny Urząd Planowania, określający stopę inwestycji i ceny czynników produkcji.
 - Metodę tę miał praktykować nie tylko CUP, ale wszyscy kierownicy przedsiębiorstw, którzy zrównywaliby koszty krańcowe z cenami.
 - Zalety wg Langego: 1. Egalitarny rozkład dochodów - nie ma zysków z kapitału, więc ludzie są wynagradzani z wkład pracy 2. Socjalizm pozwala na długofalowe planowanie, podczas gdy w kapitalizmie decyzje inwestycyjne są podyktowane krótkofalowymi wahaniami, więc to w socjalizmie będzie mniej marnotrawstwa.

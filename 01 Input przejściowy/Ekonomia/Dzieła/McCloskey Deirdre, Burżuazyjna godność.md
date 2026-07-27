@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 21:23
+year: "2011"
 ---
   Bourgeois Dignity: Why Economics Can’t Explain the Modern World, 2011
 

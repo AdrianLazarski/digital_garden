@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 19:31
+year: "1781"
 ---
 [[Immanuel Kant]], 1781 r.
 

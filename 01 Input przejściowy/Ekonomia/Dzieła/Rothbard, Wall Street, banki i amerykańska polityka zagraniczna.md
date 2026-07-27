@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-14 19:05
+year: "1984"
 ---
 Wall Street, Banks, and American Foreign Policy, 1984
 

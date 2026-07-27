@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 20:03
+year: "1759"
 ---
 [[Adam Smith]], 1759 r.
 

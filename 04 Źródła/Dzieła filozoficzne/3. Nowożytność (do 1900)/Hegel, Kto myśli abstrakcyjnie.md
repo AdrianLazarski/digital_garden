@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 19:30
+year: "1807"
 ---
 [[Georg Wilhelm Friedrich Hegel]], 1807 r.
 

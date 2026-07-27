@@ -9,6 +9,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 17:45
+year: "1067"
 ---
 [[Piotr Damiani]] 1067 r.
 

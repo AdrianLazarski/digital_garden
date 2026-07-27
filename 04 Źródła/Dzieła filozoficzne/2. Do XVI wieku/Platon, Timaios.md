@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 18:23
+year: "-360"
 ---
 [[Platon]], 360 przed Chr.
 

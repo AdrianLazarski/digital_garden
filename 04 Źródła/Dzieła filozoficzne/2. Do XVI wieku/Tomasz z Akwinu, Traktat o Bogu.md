@@ -9,6 +9,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 18:33
+year: "1268"
 ---
 [[Tomasz z Akwinu]], 1265–1268 r. 
 Cześć Summy teologicznej.

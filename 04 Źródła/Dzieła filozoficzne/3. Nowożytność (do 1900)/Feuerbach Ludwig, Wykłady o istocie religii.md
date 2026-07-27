@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 19:22
+year: "1851"
 ---
 [[Ludwig Feuerbach]], 1851 r.
 

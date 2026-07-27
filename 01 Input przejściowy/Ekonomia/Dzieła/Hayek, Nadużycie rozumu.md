@@ -10,13 +10,10 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 20:49
+year: "1951"
 ---
-
-
-| Warszawa 2013 | ![[Pasted image 20241130193151.png\|right\|166]] |
-| ------------- | ------------------------------------------------ |
-| Oryg.         | Studies on the Abuse and Decline of Reason       |
-
+Studies on the Abuse and Decline of Reason
+Warszawa 2013
 
 ### Przedmowa do wydania niemieckiego
 

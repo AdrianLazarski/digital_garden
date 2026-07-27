@@ -1,107 +1,19 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - psychologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-27 18:12
+year: "2012"
+---
 org.  *The Righteous Mind*, 2012
 wyd. pol. 2014
 
-**Spis treści**
-
-1. [Recenzja z 2018 roku](#Recenzja%20z%202018%20roku)
-2. [Wstęp](#Wst%C4%99p)
-3. [1 Geneza moralności](#1%20Geneza%20moralno%C5%9Bci)
-	1. [1. Trzy klasyczne odpowiedzi na pytanie o źródła moralności](#1.%20Trzy%20klasyczne%20odpowiedzi%20na%20pytanie%20o%20%C5%BAr%C3%B3d%C5%82a%20moralno%C5%9Bci)
-	2. [2. Badania międzykulturowe i ograniczenia racjonalizmu](#2.%20Badania%20mi%C4%99dzykulturowe%20i%20ograniczenia%20racjonalizmu)
-	3. [3. Eksperymenty z „niekrzywdzącymi naruszeniami tabu”](#3.%20Eksperymenty%20z%20%E2%80%9Eniekrzywdz%C4%85cymi%20naruszeniami%20tabu%E2%80%9D)
-	4. [4. Rola emocji: wstręt i brak szacunku](#4.%20Rola%20emocji:%20wstr%C4%99t%20i%20brak%20szacunku)
-	5. [5. Zmyślone ofiary i racjonalizacje](#5.%20Zmy%C5%9Blone%20ofiary%20i%20racjonalizacje)
-	6. [6. Podsumowanie: Moralność to nie tylko krzywda](#6.%20Podsumowanie:%20Moralno%C5%9B%C4%87%20to%20nie%20tylko%20krzywda)
-4. [2 Pies z intuicją i jego racjonalny ogon](#2%20Pies%20z%20intuicj%C4%85%20i%20jego%20racjonalny%20ogon)
-	1. [1 Proroctwo Wilsona](#1%20Proroctwo%20Wilsona)
-	2. [2 Emocjonalne lata dziewięćdziesiąte](#2%20Emocjonalne%20lata%20dziewi%C4%99%C4%87dziesi%C4%85te)
-	3. [3 Dlaczego ateiści nie chcą sprzedać swojej duszy?](#3%20Dlaczego%20atei%C5%9Bci%20nie%20chc%C4%85%20sprzeda%C4%87%20swojej%20duszy?)
-	4. [4 „Widzę, że” a „wyjaśniam, dlaczego”](#4%20%E2%80%9EWidz%C4%99,%20%C5%BCe%E2%80%9D%20a%20%E2%80%9Ewyja%C5%9Bniam,%20dlaczego%E2%80%9D)
-	5. [5 Jeździec i słoń](#5%20Je%C5%BAdziec%20i%20s%C5%82o%C5%84)
-	6. [6 Jak wygrać spór?](#6%20Jak%20wygra%C4%87%20sp%C3%B3r?)
-	7. [Podsumowanie](#Podsumowanie)
-5. [3 Słonie rządzą](#3%20S%C5%82onie%20rz%C4%85dz%C4%85)
-	1. [1. Mózg ocenia natychmiast i nieustannie](#1.%20M%C3%B3zg%20ocenia%20natychmiast%20i%20nieustannie)
-	2. [2. Oceny społeczne i polityczne są w szczególnym stopniu intuicyjne](#2.%20Oceny%20spo%C5%82eczne%20i%20polityczne%20s%C4%85%20w%20szczeg%C3%B3lnym%20stopniu%20intuicyjne)
-	3. [3. Nasze ciało wpływa na nasze oceny](#3.%20Nasze%20cia%C5%82o%20wp%C5%82ywa%20na%20nasze%20oceny)
-	4. [4. Psychopaci rozumują, ale nie czują](#4.%20Psychopaci%20rozumuj%C4%85,%20ale%20nie%20czuj%C4%85)
-	5. [5. Niemowlęta czują, ale nie rozumują](#5.%20Niemowl%C4%99ta%20czuj%C4%85,%20ale%20nie%20rozumuj%C4%85)
-	6. [7. Czasami słonie słuchają rozumu](#7.%20Czasami%20s%C5%82onie%20s%C5%82uchaj%C4%85%20rozumu)
-6. [4 Głosujcie na mnie](#4%20G%C5%82osujcie%20na%20mnie)
-	1. [1. Wszyscy jesteśmy intuicyjnymi politykami](#1.%20Wszyscy%20jeste%C5%9Bmy%20intuicyjnymi%20politykami)
-	2. [2. Wszyscy mamy obsesję na punkcie sondaży](#2.%20Wszyscy%20mamy%20obsesj%C4%99%20na%20punkcie%20sonda%C5%BCy)
-	3. [3. Nasz rzecznik prasowy automatycznie szuka uzasadnień](#3.%20Nasz%20rzecznik%20prasowy%20automatycznie%20szuka%20uzasadnie%C5%84)
-	4. [4. Kłamiemy, oszukujemy i usprawiedliwiamy tak przekonująco, że sami szczerze wierzymy we własną uczciwość](#4.%20K%C5%82amiemy,%20oszukujemy%20i%20usprawiedliwiamy%20tak%20przekonuj%C4%85co,%20%C5%BCe%20sami%20szczerze%20wierzymy%20we%20w%C5%82asn%C4%85%20uczciwo%C5%9B%C4%87)
-	5. [5. Rozumowanie (i Google) mogą cię zaprowadzić, dokąd tylko chcesz](#5.%20Rozumowanie%20(i%20Google)%20mog%C4%85%20ci%C4%99%20zaprowadzi%C4%87,%20dok%C4%85d%20tylko%20chcesz)
-	6. [6. Jesteśmy gotowi uwierzyć niemal we wszystko, co przemawia za słusznością naszej grupy](#6.%20Jeste%C5%9Bmy%20gotowi%20uwierzy%C4%87%20niemal%20we%20wszystko,%20co%20przemawia%20za%20s%C5%82uszno%C5%9Bci%C4%85%20naszej%20grupy)
-	7. [7. Złudzenie racjonalistyczne](#7.%20Z%C5%82udzenie%20racjonalistyczne)
-7. [5 Poza osobliwą moralnością WEIRD](#5%20Poza%20osobliw%C4%85%20moralno%C5%9Bci%C4%85%20WEIRD)
-8. [6 Kubki smakowe moralizującego umysłu](#6%20Kubki%20smakowe%20moralizuj%C4%85cego%20umys%C5%82u)
-9. [Rozdział 7 Fundamenty moralne polityki](#Rozdzia%C5%82%207%20Fundamenty%20moralne%20polityki)
-10. [8 Przewaga konserwatystów](#8%20Przewaga%20konserwatyst%C3%B3w)
-11. [9 Dlaczego jesteśmy tak bardzo grupolubni?](#9%20Dlaczego%20jeste%C5%9Bmy%20tak%20bardzo%20grupolubni?)
-	1. [Za doborem grupowym stoją 4 grupy argumentów:](#Za%20doborem%20grupowym%20stoj%C4%85%204%20grupy%20argument%C3%B3w:)
-		1. [a)](#a))
-		2. [b)](#b))
-		3. [c) Koewolucja genów i kultury](#c)
-		4. [d) Szybkość ewolucji](#d)
-12. [Nowa recenzja 13.05.2025](#Nowa%20recenzja%2013.05.2025)
 
 
-## Recenzja z 2018 roku
-
-Zazwyczaj jak coś przeczytam, to staram się to skomentować jak najszybciej, ale w przypadku tego tytułu było to niemożliwe, ponieważ zupełne pozbawił mnie sił i postanowiłem ruszyć jego temat dopiero po paru tygodniach. Nie będzie żadną przesadą stwierdzenie, że to najgorsza książka, jaką czytałem w przeciągu ostatnich kilku lat. I nie pomaga wcale fakt, że było w niej trochę ciekawych informacji, skoro poza tymi momentami wytchnienia była wyłącznie cierpieniem. Dlatego też, mimo posiadania ponad 100 zaznaczonych fragmentów, wartych skomentowania, postanowiłem sobie odpuścić długi wywód na ich temat i pod niezbędnymi informacjami przedstawię tylko kilka z nich.  
-  
-"Prawy umysł" jest z dziedziny psychologii ewolucyjnej i stara się opowiedzieć o przyczynach zróżnicowania ludzkich moralności, by odpowiedzieć na pytanie nurtujące wiele osób: dlaczego ludzie się spierają o religię i politykę? Brzmi dobrze, prawda? Tylko brzmi. Nie będę się nawet znęcał nad rozwlekłością tej książki i na fakcie, że autor poświęca dużo czasu przedstawieniu historycznego rozwoju swoich poglądów na temat omawianych kwestii. To, że Haidta przykro się czyta ze względu na jego styl, nie będzie wystarczają odpowiedzią dla ludzi zachwycających się meritum jego wywodów. Przejdę zatem do konkretów.  
-  
-Autor chce nas przekonać, że „Intuicje moralne pojawiają się automatycznie i niemal natychmiast, na długo przed rozpoczęciem rozumowania moralnego.” W tym celu przywołuje liczne badania, czasem samodzielnie przeprowadzone i to w sposób niezbyt poprawny np. sugerował badanym odpowiedzi albo arbitralnie ustalał jakie zachowanie jest moralne, a jakie nie i na tej podstawie np. stwierdzał, że etycy nie są wcale bardziej moralnymi ludźmi, bo nie głosują w wyborach. Stałym punktem programu jest też wyciąganie absurdalnych wniosków z owych eksperymentów. Wszystkie te sprytne zabiegi mają prowadzić do czytelnika do poczucia, że nie warto się spierać, pluralizm poglądowy jest dobry, a jak jeszcze pod koniec książki się dorzuci temat doboru grupowego (i to całkiem dobrze omówiony – do tej koncepcji się zupełnie dałem przekonać),to już w ogóle okaże się, że rozemocjonowany, demoliberalny motłoch nie stanowi zagrożenia dla cywilizowanych ludzi. Nie kłóć się i nie oceniaj! Jezus zabronił oceniać (tak, pojawia się ta poplaicka biedainterpretacja Biblii) Szkoda tylko, że Haidt nie rozróżnia etyki od moralności i obyczajowości, co obok nieomówienia kwestii poczucia własnej wartości ludzi, dopasowujących odpowiedzi do swoich emocji, definitywnie skreśla go jako poważny głos w dyskusji.  
-  
-Wartym wspomnienia jest też pomijanie w swoich wywodach kwestii ludzi, skłonnych zmieniać swoje opinie pod wpływem racjonalnej refleksji. Wstawienie w jednym miejscu uwagi, że filozofowie są bardziej skłonni do zmieniania zdania, po czym zupełne marginalizowanie tego i kontynuowanie swojej bzdurnej narracji miało tylko i wyłącznie charakter zachowawczy. Autor zabezpieczył się przed wytknięciem mu, że fakty nie przystają do jego teorii, po czym po Heglowsku uznał, że tym gorzej dla faktów.  
-A propos Hegla, to autor dość często wyciera sobie gębę różnymi filozofami, by przywoływać ich poglądy, których zupełnie nie rozumie i by pokazać, że ich racjonalne podejście do etyki nie jest potwierdzane przez jego badania na temat moralności (sic!). Przy okazji bardzo dobrze się bawi opowiadając o niekorzystnej pozycji Kanta, czy jakichś utylitarystów na spektrum autyzmu. Czytelników też oczywiście nie omijają obelgi. Każdy, kto sięgnie po ten tytuł, dowie się np. że jest hipokrytą, bo autor tak arbitralnie stwierdził, albo że jest kłamcą, bo autor też czasem nim jest.  
-
-Z innych rzeczy zapamiętałem jeszcze niezrozumienie egoistycznej natury altruizmu, którą próbował odeprzeć tym, że ludzie dają napiwki. Rozumiem, że by ustalić dlaczego ludzie dają napiwki trzeba wykonać dodatkowy proces myślowy, ale chyba można by takowego wymagać od autora książek i pracownika akademickiego, co nie? Zdecydowanie odradzam lekturę. Powinno być 2/10, ale przytłaczająca liczba pozytywnych recenzji motywuje mnie do ogłoszenia oceny 1/10.  
-
-Poniżej dodatkowy content dla dociekliwych:  
-  
-"BADACZ: Tato, co by się stało, gdybym zrobił tutaj kupkę [do pisuaru]?  
-BADANY: To byłoby obrzydliwe. No, dalej, spłucz wodę. A teraz umyjemy ręce.  
-[Para przeszła do umywalek]  
-BADACZ: Tato, a co by się stało, gdybym zrobił kupkę do umywalki?  
-BADANY: Ludzie, którzy tu pracują, bardzo by się na ciebie gniewali.  
-BADACZ: A co by się stało, gdybym zrobił kupkę do umywalki w domu?  
-BADANY: Wtedy ja byłbym na ciebie bardzo zły.  
-BADACZ: A co by się stało, gdybyś to ty zrobił kupkę do umywalki w domu?  
-BADANY: Mama byłaby na mnie bardzo zła.  
-BADACZ: A gdybyśmy wszyscy zrobili w domu kupkę do umywalki?  
-BADANY: [po chwili milczenia] Chyba wszyscy mielibyśmy kłopoty.  
-BADACZ: [śmiejąc się] Tak, wszyscy mielibyśmy kłopoty!  
-BADANY: Chodź, wysuszymy ręce. Musimy już iść."  
-	Ojciec na samym wstępie mówi, że byłoby to obrzydliwe, ale dla Haidta ojciec nie ma żadnego racjonalnego wytłumaczenia, bo nie zmienia na końcu swojego stanowiska po „usunięciu osoby wymierzającej karę”. Ręce opadają.  
-  
-"Odbycie stosunku płciowego z martwym kurczakiem, a potem upieczenie go i zjedzenie nie czyni nikomu krzywdy."  
-	To moja parafraza dłuższego fragmentu, ale sens jest zachowany. Przecież ten mężczyzna sam sobie robi krzywdę, oddalając od swojej świadomości jakieś negatywne emocje absurdalnym zachowaniem.  
-  
-„Margolis pomógł mi się uwolnić od dychotomii emocje–poznanie. Dzięki jego pracom zrozumiałem, że formułowanie ocen moralnych jest procesem poznawczym, podobnie jak dokonywanie wszelkich innych ocen. Tak naprawdę ważne jest rozróżnienie między dwoma rodzajami poznania: intuicją i rozumowaniem. Emocje moralne są jednym z rodzajów intuicji moralnych, ale większość intuicji moralnych jest bardziej subtelna – nie osiąga poziomu emocji. Kiedy następnym razem będziesz czytać gazetę lub prowadzić samochód, zwróć uwagę na liczne drobne przypływy potępienia przemykające przez Twoją świadomość. Czy każdy z nich jest emocją? Albo zadaj sobie pytanie: czy lepiej uratować życie pięciorga nieznajomych, czy jednego (zakładając, że wszystkie pozostałe warunki są jednakowe). Czy potrzebujesz emocji, aby Ci podpowiedziała, że należy wybrać pięcioro? Czy potrzebujesz do tego rozumowania? Nie, po prostu wiesz – w ułamku sekundy – że lepiej ocalić pięć osób niż jedną.”  
-Serio?  
-  
-„Greene miał przeczucie, że formułując sądy deontologiczne, ludzie często kierują się instynktownymi odczuciami, podczas gdy oceny utylitarne są bardziej chłodne i wyrachowane.”  
-Wybaczcie, ale no sami rozumiecie XD  
-  
-"Ludzie bardziej dbają o pozory posiadania racji, niż o jej posiadanie."  
-No np. autor. Przytacza chętnie dużo badań, ale interpretuje je w tak durny sposób, że aż boli. Np. Perkins kazał ludziom napisać swoją opinię na określony temat, po czym kazał im ją przemyśleć i napisać wszystkie możliwe argumenty, istotne dla sformułowania ostatecznej opinii – te za, jak i te przeciw. Oczywistym jest, że ludzie zapisali więcej argumentów popierających ich opinie, bo ludzie mają opinie i je kształtują poprzez lektury, dyskusje tj. po prostu przez życie. Dla tych błyskotliwych naukowców to argument za tym, że ludzie racjonalizują wcześniej przyjęte stanowiska, a nie naprawdę myślą...  
-  
-„Nikt nie zdoła wymyślić lekcji etyki, dzięki której ludzie zaczną się zachowywać bardziej etycznie.”  
-Ale w drugą stronę to już działa i totalniakom wychodziło to całkiem nieźle.  
-  
-"Widzisz, jak malec leży nieprzytomny na stole operacyjnym. Zaraz potem widzisz, jak chirurg rozcina skalpelem jego brzuch. Czy czujesz przypływ ulgi, wiedząc, że Twój synek nareszcie został poddany operacji, która uratuje mu życie? A może odczuwasz tak silny ból, że musisz odwrócić wzrok? Jeśli cierpienia (dolors) przeważają u Ciebie nad przyjemnościami (hedons), to Twoja reakcja jest irracjonalna z utylitarnego punktu widzenia, ale całkowicie sensowna jako wynik działania jednego z modułów."  
-Nie, nie jest irracjonalna z utylitarnego punktu widzenia. Nie podjęła się umyślnie odczuwania cierpienia, nie jest to w ogóle kwestia etyczna, a utylitaryzm to etyka.  
-  
-"„Liberałowie preferują zwierzęta, które są łagodne (czyli pasują 
-do wartości związanych z fundamentem Troska) i odnoszą się do swoich właścicieli jak do równych sobie (Sprawiedliwość rozumiana jako równość). Konserwatyści natomiast chcą mieć psy, które są wierne (Lojalność) i posłuszne (Autorytet). Spostrzegana atrakcyjność cechy związanej z fundamentem Świętość nie różnicowała zwolenników odmiennych poglądów politycznych – obie strony preferowały psy dbające o czystość”"  
-Nie przeszkadzało to autorowi uważać, że świętość jest przeciwieństwem wstrętu, co w świetle innych fragmentów o świętości, zawartych w książce, wydaje mi się zupełnie nieudowodnione.  
-  
-Dla rozluźnienia atmosfery na koniec podam dobry żart, którym nasz psycholog rzucił: "kraje europejskie mające rozbudowany system ubezpieczeń społecznych nie są (...) socjocentryczne; po prostu dobrze chronią jednostki przed kaprysami losu)”
-
+# Notatki
 
 ## Wstęp
 
@@ -523,7 +435,7 @@ dla spójności grup.
 - Ewolucja naszego gatunku nie zatrzymała się ani nie zwolniła 50 000 lat temu. Przeciwnie – przyspieszyła. Koewolucja genetyczno-kulturowa osiągnęła apogeum w ciągu ostatnich 12 000 lat. Nie możemy przyglądać się współczesnym łowcom-zbieraczom i zakładać, że reprezentują oni uniwersalną naturę ludzką, która zastygła w miejscu przed 50 000 lat. 
 
 
-## Nowa recenzja 13.05.2025
+# Nowa recenzja 13.05.2025
 
 **Zastanawialiście się kiedyś, dlaczego polityka i religia tak bardzo dzielą ludzi? Bo tak się składa, że autor tej książki nie tylko się nad tym zastanawiał, ale też całkiem nieźle to wyjaśnił.**
 
@@ -569,4 +481,57 @@ Autor, mimo że przyznaje się do bycia liberałem (w amerykańskim sensie tego 
 
 Ponieważ sam Haidt przyznaje, że różnice między WEIRD a resztą świata są mniejsze, niż między ludźmi z wysokim i niskim wykształceniem w obrębie pojedynczych państw, ciężko uniknąć wniosku, że ludzie z mniejszą liczbą fundamentów moralnych lepiej rozróżniają realną krzywdę od subiektywnych naruszeń konwencji i bliżsi się sformułowania potencjalnie uniwersalistycznej etyki tj. prawdziwej zawsze i wszędzie. Tego typu etykę trudno jest odseparować od równości wobec prawa, więc jak najbardziej możemy wyjść poza poziom czysto opisowy i infantylny relatywizm. Fakt występowania różnych moralności nie oznacza, że są one równie dobre. I choć taki wniosek może napełniać pychą i podsycać wojny kulturowe, to nie sposób go ignorować. Pozostaje mieć nadzieję, że metafora jeźdźca i słonia pomoże nam ucywilizować debatę publiczną, która powinna jak najczęściej odbywać się przede wszystkim twarzą w twarz, a nie za pośrednictwem X-a (dawnego Twittera).
 
-#recenzja #psychologia #liberalizm #konserwatyzm #religia 
+
+# Recenzja z 2018 roku
+
+Zazwyczaj jak coś przeczytam, to staram się to skomentować jak najszybciej, ale w przypadku tego tytułu było to niemożliwe, ponieważ zupełne pozbawił mnie sił i postanowiłem ruszyć jego temat dopiero po paru tygodniach. Nie będzie żadną przesadą stwierdzenie, że to najgorsza książka, jaką czytałem w przeciągu ostatnich kilku lat. I nie pomaga wcale fakt, że było w niej trochę ciekawych informacji, skoro poza tymi momentami wytchnienia była wyłącznie cierpieniem. Dlatego też, mimo posiadania ponad 100 zaznaczonych fragmentów, wartych skomentowania, postanowiłem sobie odpuścić długi wywód na ich temat i pod niezbędnymi informacjami przedstawię tylko kilka z nich.  
+  
+"Prawy umysł" jest z dziedziny psychologii ewolucyjnej i stara się opowiedzieć o przyczynach zróżnicowania ludzkich moralności, by odpowiedzieć na pytanie nurtujące wiele osób: dlaczego ludzie się spierają o religię i politykę? Brzmi dobrze, prawda? Tylko brzmi. Nie będę się nawet znęcał nad rozwlekłością tej książki i na fakcie, że autor poświęca dużo czasu przedstawieniu historycznego rozwoju swoich poglądów na temat omawianych kwestii. To, że Haidta przykro się czyta ze względu na jego styl, nie będzie wystarczają odpowiedzią dla ludzi zachwycających się meritum jego wywodów. Przejdę zatem do konkretów.  
+  
+Autor chce nas przekonać, że „Intuicje moralne pojawiają się automatycznie i niemal natychmiast, na długo przed rozpoczęciem rozumowania moralnego.” W tym celu przywołuje liczne badania, czasem samodzielnie przeprowadzone i to w sposób niezbyt poprawny np. sugerował badanym odpowiedzi albo arbitralnie ustalał jakie zachowanie jest moralne, a jakie nie i na tej podstawie np. stwierdzał, że etycy nie są wcale bardziej moralnymi ludźmi, bo nie głosują w wyborach. Stałym punktem programu jest też wyciąganie absurdalnych wniosków z owych eksperymentów. Wszystkie te sprytne zabiegi mają prowadzić do czytelnika do poczucia, że nie warto się spierać, pluralizm poglądowy jest dobry, a jak jeszcze pod koniec książki się dorzuci temat doboru grupowego (i to całkiem dobrze omówiony – do tej koncepcji się zupełnie dałem przekonać),to już w ogóle okaże się, że rozemocjonowany, demoliberalny motłoch nie stanowi zagrożenia dla cywilizowanych ludzi. Nie kłóć się i nie oceniaj! Jezus zabronił oceniać (tak, pojawia się ta poplaicka biedainterpretacja Biblii) Szkoda tylko, że Haidt nie rozróżnia etyki od moralności i obyczajowości, co obok nieomówienia kwestii poczucia własnej wartości ludzi, dopasowujących odpowiedzi do swoich emocji, definitywnie skreśla go jako poważny głos w dyskusji.  
+  
+Wartym wspomnienia jest też pomijanie w swoich wywodach kwestii ludzi, skłonnych zmieniać swoje opinie pod wpływem racjonalnej refleksji. Wstawienie w jednym miejscu uwagi, że filozofowie są bardziej skłonni do zmieniania zdania, po czym zupełne marginalizowanie tego i kontynuowanie swojej bzdurnej narracji miało tylko i wyłącznie charakter zachowawczy. Autor zabezpieczył się przed wytknięciem mu, że fakty nie przystają do jego teorii, po czym po Heglowsku uznał, że tym gorzej dla faktów.  
+A propos Hegla, to autor dość często wyciera sobie gębę różnymi filozofami, by przywoływać ich poglądy, których zupełnie nie rozumie i by pokazać, że ich racjonalne podejście do etyki nie jest potwierdzane przez jego badania na temat moralności (sic!). Przy okazji bardzo dobrze się bawi opowiadając o niekorzystnej pozycji Kanta, czy jakichś utylitarystów na spektrum autyzmu. Czytelników też oczywiście nie omijają obelgi. Każdy, kto sięgnie po ten tytuł, dowie się np. że jest hipokrytą, bo autor tak arbitralnie stwierdził, albo że jest kłamcą, bo autor też czasem nim jest.  
+
+Z innych rzeczy zapamiętałem jeszcze niezrozumienie egoistycznej natury altruizmu, którą próbował odeprzeć tym, że ludzie dają napiwki. Rozumiem, że by ustalić dlaczego ludzie dają napiwki trzeba wykonać dodatkowy proces myślowy, ale chyba można by takowego wymagać od autora książek i pracownika akademickiego, co nie? Zdecydowanie odradzam lekturę. Powinno być 2/10, ale przytłaczająca liczba pozytywnych recenzji motywuje mnie do ogłoszenia oceny 1/10.  
+
+Poniżej dodatkowy content dla dociekliwych:  
+  
+"BADACZ: Tato, co by się stało, gdybym zrobił tutaj kupkę [do pisuaru]?  
+BADANY: To byłoby obrzydliwe. No, dalej, spłucz wodę. A teraz umyjemy ręce.  
+[Para przeszła do umywalek]  
+BADACZ: Tato, a co by się stało, gdybym zrobił kupkę do umywalki?  
+BADANY: Ludzie, którzy tu pracują, bardzo by się na ciebie gniewali.  
+BADACZ: A co by się stało, gdybym zrobił kupkę do umywalki w domu?  
+BADANY: Wtedy ja byłbym na ciebie bardzo zły.  
+BADACZ: A co by się stało, gdybyś to ty zrobił kupkę do umywalki w domu?  
+BADANY: Mama byłaby na mnie bardzo zła.  
+BADACZ: A gdybyśmy wszyscy zrobili w domu kupkę do umywalki?  
+BADANY: [po chwili milczenia] Chyba wszyscy mielibyśmy kłopoty.  
+BADACZ: [śmiejąc się] Tak, wszyscy mielibyśmy kłopoty!  
+BADANY: Chodź, wysuszymy ręce. Musimy już iść."  
+	Ojciec na samym wstępie mówi, że byłoby to obrzydliwe, ale dla Haidta ojciec nie ma żadnego racjonalnego wytłumaczenia, bo nie zmienia na końcu swojego stanowiska po „usunięciu osoby wymierzającej karę”. Ręce opadają.  
+  
+"Odbycie stosunku płciowego z martwym kurczakiem, a potem upieczenie go i zjedzenie nie czyni nikomu krzywdy."  
+	To moja parafraza dłuższego fragmentu, ale sens jest zachowany. Przecież ten mężczyzna sam sobie robi krzywdę, oddalając od swojej świadomości jakieś negatywne emocje absurdalnym zachowaniem.  
+  
+„Margolis pomógł mi się uwolnić od dychotomii emocje–poznanie. Dzięki jego pracom zrozumiałem, że formułowanie ocen moralnych jest procesem poznawczym, podobnie jak dokonywanie wszelkich innych ocen. Tak naprawdę ważne jest rozróżnienie między dwoma rodzajami poznania: intuicją i rozumowaniem. Emocje moralne są jednym z rodzajów intuicji moralnych, ale większość intuicji moralnych jest bardziej subtelna – nie osiąga poziomu emocji. Kiedy następnym razem będziesz czytać gazetę lub prowadzić samochód, zwróć uwagę na liczne drobne przypływy potępienia przemykające przez Twoją świadomość. Czy każdy z nich jest emocją? Albo zadaj sobie pytanie: czy lepiej uratować życie pięciorga nieznajomych, czy jednego (zakładając, że wszystkie pozostałe warunki są jednakowe). Czy potrzebujesz emocji, aby Ci podpowiedziała, że należy wybrać pięcioro? Czy potrzebujesz do tego rozumowania? Nie, po prostu wiesz – w ułamku sekundy – że lepiej ocalić pięć osób niż jedną.”  
+Serio?  
+  
+„Greene miał przeczucie, że formułując sądy deontologiczne, ludzie często kierują się instynktownymi odczuciami, podczas gdy oceny utylitarne są bardziej chłodne i wyrachowane.”  
+Wybaczcie, ale no sami rozumiecie XD  
+  
+"Ludzie bardziej dbają o pozory posiadania racji, niż o jej posiadanie."  
+No np. autor. Przytacza chętnie dużo badań, ale interpretuje je w tak durny sposób, że aż boli. Np. Perkins kazał ludziom napisać swoją opinię na określony temat, po czym kazał im ją przemyśleć i napisać wszystkie możliwe argumenty, istotne dla sformułowania ostatecznej opinii – te za, jak i te przeciw. Oczywistym jest, że ludzie zapisali więcej argumentów popierających ich opinie, bo ludzie mają opinie i je kształtują poprzez lektury, dyskusje tj. po prostu przez życie. Dla tych błyskotliwych naukowców to argument za tym, że ludzie racjonalizują wcześniej przyjęte stanowiska, a nie naprawdę myślą...  
+  
+„Nikt nie zdoła wymyślić lekcji etyki, dzięki której ludzie zaczną się zachowywać bardziej etycznie.”  
+Ale w drugą stronę to już działa i totalniakom wychodziło to całkiem nieźle.  
+  
+"Widzisz, jak malec leży nieprzytomny na stole operacyjnym. Zaraz potem widzisz, jak chirurg rozcina skalpelem jego brzuch. Czy czujesz przypływ ulgi, wiedząc, że Twój synek nareszcie został poddany operacji, która uratuje mu życie? A może odczuwasz tak silny ból, że musisz odwrócić wzrok? Jeśli cierpienia (dolors) przeważają u Ciebie nad przyjemnościami (hedons), to Twoja reakcja jest irracjonalna z utylitarnego punktu widzenia, ale całkowicie sensowna jako wynik działania jednego z modułów."  
+Nie, nie jest irracjonalna z utylitarnego punktu widzenia. Nie podjęła się umyślnie odczuwania cierpienia, nie jest to w ogóle kwestia etyczna, a utylitaryzm to etyka.  
+  
+"„Liberałowie preferują zwierzęta, które są łagodne (czyli pasują 
+do wartości związanych z fundamentem Troska) i odnoszą się do swoich właścicieli jak do równych sobie (Sprawiedliwość rozumiana jako równość). Konserwatyści natomiast chcą mieć psy, które są wierne (Lojalność) i posłuszne (Autorytet). Spostrzegana atrakcyjność cechy związanej z fundamentem Świętość nie różnicowała zwolenników odmiennych poglądów politycznych – obie strony preferowały psy dbające o czystość”"  
+Nie przeszkadzało to autorowi uważać, że świętość jest przeciwieństwem wstrętu, co w świetle innych fragmentów o świętości, zawartych w książce, wydaje mi się zupełnie nieudowodnione.  
+  
+Dla rozluźnienia atmosfery na koniec podam dobry żart, którym nasz psycholog rzucił: "kraje europejskie mające rozbudowany system ubezpieczeń społecznych nie są (...) socjocentryczne; po prostu dobrze chronią jednostki przed kaprysami losu)”

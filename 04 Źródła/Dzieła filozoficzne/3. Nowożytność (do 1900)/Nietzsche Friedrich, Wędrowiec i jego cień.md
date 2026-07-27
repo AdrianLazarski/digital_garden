@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-07-21 19:54
+year: "1880"
 ---
 [[Friedrich Nietzsche]], 1880 r.
 

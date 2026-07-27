@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 18:30
+year: "1141"
 ---
 [[Teodoryk z Chartres]], 1141 r.
 

@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 21:50
+year: "1944"
 ---
 [[Ludwig von Mises]], Bureaucracy, 1944
 tłum. Jan Kłos, Warszawa 2013 (Pafere)

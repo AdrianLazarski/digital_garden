@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-17 19:29
+year: "2021"
 ---
 2021 r.
 
@@ -191,6 +192,3 @@ modified date: 2026-07-17 19:29
 - Prywatyzacja religii spowodowała powstanie heretyków "na własną rękę". Dawniej heretycy gromadzili się raczej we wspólnotach.
 - Teologia postmodernistyczna potrafi obejść się bez Boga.
 
-
-
-#socjologia #filozofia #filozofia/współczesna #filozofia/polska 

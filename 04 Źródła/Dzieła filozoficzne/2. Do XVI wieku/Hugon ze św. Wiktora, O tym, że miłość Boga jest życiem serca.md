@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 17:51
+year: "1130"
 ---
 [[Hugon ze św. Wiktora]], 1125-1130 r.
 

@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 21:01
+year: "2019"
 ---
   Commercial Society: A Primer on Ethics and Economics, 2019
 **Spis treści**

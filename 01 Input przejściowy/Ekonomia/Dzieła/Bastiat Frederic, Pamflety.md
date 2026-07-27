@@ -8,18 +8,10 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 19:53
+year: "1850"
 ---
 [[Frédéric Bastiat]]
 
-**Spis treści**
-
-1. [Eseje](#Eseje)
-	1. [Rabunek a prawo, 1850](#Rabunek%20a%20prawo,%201850)
-	2. [Matura i socjalizm, 1850](#Matura%20i%20socjalizm,%201850)
-	3. [Własność a prawo stanowione, 1848](#W%C5%82asno%C5%9B%C4%87%20a%20prawo%20stanowione,%201848)
-	4. [Sprawiedliwość a braterstwo, 1848](#Sprawiedliwo%C5%9B%C4%87%20a%20braterstwo,%201848)
-	5. [Własność a rabunek, 1850](#W%C5%82asno%C5%9B%C4%87%20a%20rabunek,%201850)
-2. [Recenzja](#Recenzja)
 
 
 # Eseje

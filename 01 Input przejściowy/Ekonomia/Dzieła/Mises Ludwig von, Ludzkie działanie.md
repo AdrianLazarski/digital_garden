@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 21:54
+year: "1940"
 ---
 1940 niemieckie, 1963 angielskie, 2011 polskie wydanie
 

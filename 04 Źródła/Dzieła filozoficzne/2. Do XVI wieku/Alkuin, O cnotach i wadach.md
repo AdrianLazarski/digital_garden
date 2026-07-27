@@ -9,6 +9,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-20 18:39
+year: "800"
 ---
 Autorem [[Alkuin z Yorku]], 799/800 r.
 

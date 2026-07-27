@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 20:16
+year: "2007"
 ---
   The Myth of the Rational Voter, 2007
 

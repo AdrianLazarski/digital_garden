@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 19:58
+year: "1851"
 ---
 Aphorismen zur Lebensweisheit, 1851
 

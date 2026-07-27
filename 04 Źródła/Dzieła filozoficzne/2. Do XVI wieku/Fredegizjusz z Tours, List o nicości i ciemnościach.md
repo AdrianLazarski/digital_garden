@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 17:49
+year: "800"
 ---
 [[Fredegizjusz z Tours]], 800 r.
 

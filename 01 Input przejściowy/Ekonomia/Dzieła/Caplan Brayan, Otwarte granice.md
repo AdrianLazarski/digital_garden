@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 20:06
+year: "2019"
 ---
 Open Borders: The Science and Ethics of Immigration, 2019
 

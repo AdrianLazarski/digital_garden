@@ -1,10 +1,11 @@
 ---
-created: 2026-07-03 15:58
+created: 2026-07-27 18:17
 tags:
   - moc
   - religia
+  - chrześcijaństwo
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-27 18:17
 ---
-[[MOC Chrześcijaństwo]]
+[[MOC Literatura chrześcijańska]]

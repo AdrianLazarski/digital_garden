@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 20:05
+year: "1849"
 ---
 [[Henry David Thoreau]], 1849 r.
 

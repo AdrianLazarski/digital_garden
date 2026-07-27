@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 15:08
+year: "1620"
 ---
 [[Franciszek Bacon]], 1620 r.
 

@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 17:54
+year: "1513"
 ---
 [[Niccolò Machiavelli]], 1513 r.
   

@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 20:57
+year: "2015"
 ---
 
   https://www.youtube.com/watch?v=3PQ7WsjdNgA, 2015

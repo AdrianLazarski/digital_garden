@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bf5591752cd795b",
+            "id": "6a0cdff69826adcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/de Maistre Joseph, Wieczory petersburskie.md",
+                "file": "01 Input przejściowy/Chrześcijaństwo/Książki/Chesterton Gilbert Keith, Źródła i mielizny.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "de Maistre Joseph, Wieczory petersburskie"
+              "title": "Chesterton Gilbert Keith, Źródła i mielizny"
             }
           },
           {
-            "id": "fa2b460c88b47c84",
+            "id": "96ad3db4b0b41e8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+                "file": "01 Input przejściowy/Chrześcijaństwo/Książki/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,58 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu historii filozofii"
-            }
-          },
-          {
-            "id": "5089f815cf2ab9f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Współczesna literatura filozoficzna (do 2001)"
-            }
-          },
-          {
-            "id": "d316b24597a94fb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Historia/MOC Książki historyczne.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Książki historyczne"
+              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/de Maistre Joseph, Wieczory petersburskie.md",
+                "file": "01 Input przejściowy/Chrześcijaństwo/Książki/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt de Maistre Joseph, Wieczory petersburskie"
+              "title": "Konspekt Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
             }
           }
         ],
@@ -321,34 +274,34 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "3bf5591752cd795b",
+  "active": "96ad3db4b0b41e8e",
   "lastOpenFiles": [
-    "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Comte August, Kurs filozofii pozytywnej t. 1.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Bergson Henri, Dwa źródła moralności i religii.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Voegelin Eric, Świat Polis.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Wittgenstein Ludwig, Tractatus logico-philosophicus.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Voegelin Eric, Platon.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Toynbee Arnold, Studium historii.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Rothbard Murray, Manifest libertariański.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Popper Karl, Społeczeństwo otwarte i jego wrogowie.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Ortega y Gasset Jose, Bunt mas.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Mises Ludwig von, Liberalizm w tradycji klasycznej.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Marcuse Herbert, Rozum i rewolucja. Hegel a powstanie teorii społecznej.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Koneczny Feliks, Teksty z Myśli narodowej.md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Jeager Werner, Paideia t. 1.md",
-    "02 MOC/MOC Historia/MOC Książki historyczne.md",
-    "02 MOC/MOC Historia.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Jeager Werner, Paideia t. 2.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Heidegger Martin, Bycie i czas.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Husserl Edmund, Idee czystej fenomenologii i fenomenologicznej filozofii.md",
-    "02 MOC/MOC Filozofia.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Gilson Etienne, Jedność doświadczenia filozoficznego.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/de Jouvenel Bertrand, Traktat o władzy.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Cioran Emil, Na szczytach rozpaczy.md",
-    "04 Źródła/Dzieła filozoficzne/4. Współczesność (do 1945)/Camus Albert, Mit Syzyfa.md",
+    "02 MOC/MOC Religia/MOC Literatura chrześcijańska.md",
+    "01 Input przejściowy/Chrześcijaństwo/Książki/Chesterton Gilbert Keith, Źródła i mielizny.md",
+    "01 Input przejściowy/Chrześcijaństwo/Książki/Caroll Warren, Historia chrześcijaństwa 1.md",
+    "01 Input przejściowy/Chrześcijaństwo/Książki/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+    "01 Input przejściowy/Chrześcijaństwo/Książki/Benedykt z Nursji, Reguła świętego Benedykta.md",
+    "02 MOC/MOC Religia/MOC Chrześcijaństwo.md",
+    "02 MOC/MOC Religia.md",
+    "01 Input przejściowy/Matematyka/Książki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
+    "02 MOC/MOC Psychologia/MOC Dzieła psychologiczne.md",
+    "01 Input przejściowy/Psychologia/Dzieła/Haidt Jonathan, Prawy umysł.md",
+    "01 Input przejściowy/Psychologia/Dzieła/Ariely Dan, Payoff Ukryta logika kształtująca naszą motywację.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "01 Input przejściowy/Socjologia/Dzieła socjologiczne/Szahaj Andrzej, Ponowoczesność i postmodernizm dla średniozaawansowanych.md",
+    "01 Input przejściowy/Socjologia/Dzieła socjologiczne/Szacki Jerzy, Historia myśli socjologicznej.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Zitelmann Rainer, Wzlot orła białego.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Wstęp do ASE.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Woods Thomas E., Kościół a wolny rynek.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Smith Adam, Badania nad naturą i przyczynami bogactwa narodów.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Rothbard, Wall Street, banki i amerykańska polityka zagraniczna.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Rothbard Murray, Ekonomiczny punkt widzenia.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Rothbard Murray, Economic Thought Before Adam Smith.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/Reed Lawrence W., 52 mity o kapitalizmie.md",
+    "01 Input przejściowy/Piketty, Thomas.md",
+    "01 Input przejściowy/Ekonomia/Dzieła/PAWS, Średniowieczne korzenie wolnego rynku.md",
     "01 Input przejściowy/załączniki/Realny PKB per capita w Polsce.webp",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",

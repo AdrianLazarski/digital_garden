@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-20 18:43
+year: "1078"
 ---
 [[Anzelm z Canterbury]], 1078 r.
 

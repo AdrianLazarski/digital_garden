@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 19:24
+year: "1821"
 ---
 [[Joseph de Maistre]], 1821 r.
 

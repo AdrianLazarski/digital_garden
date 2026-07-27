@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 19:27
+year: "1807"
 ---
 - Oryginalny tytuł: Die Phänomenologie des Geistes, 1807 r.
 - Autorem [[Georg Wilhelm Friedrich Hegel]]

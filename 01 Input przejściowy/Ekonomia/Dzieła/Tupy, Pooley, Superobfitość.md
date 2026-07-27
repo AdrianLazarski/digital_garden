@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-14 19:07
+year: "2022"
 ---
 Superabundance, 2022
 Wrocław 2024

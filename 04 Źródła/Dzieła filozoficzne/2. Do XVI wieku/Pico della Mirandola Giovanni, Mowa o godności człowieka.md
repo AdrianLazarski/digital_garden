@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 18:00
+year: "1496"
 ---
 De hominis dignitate, [[Giovanni Pico della Mirandola]], 1496
 

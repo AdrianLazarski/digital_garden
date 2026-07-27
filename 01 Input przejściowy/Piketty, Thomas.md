@@ -1,3 +1,10 @@
+---
+created: 2026-02-28 19:46
+tags: [atom, definicja]
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date : 2026-07-27 18:03
+---
 
 
 Błędami rzeczowymi możnaby obdzielić z 10 książek. Takie wyimki:
@@ -13,5 +20,3 @@ Słowem, ja rozumiem, że można być jednocześnie i lewicowcem, i dobrym ekono
 Najbardziej ironiczne jest to jak gdzieś na początku ciśnie Kuznetsowi i jego następcom, że wyciągali zbyt daleko idące wnioski ze swoich badań i że dobry badacz tak nie robi - a pod koniec jeb, propozycje globalnego podatku od majątku.
 
 
-
-#ekonomia 

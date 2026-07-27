@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-14 19:10
+year: "2023"
 ---
 wyd. niemieckie 2023
 Wrocław 2024, tłum. Katarzyna Jopek

@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 20:10
+year: "2011"
 ---
   
 Selfish Reasons To Have More Kids, 2011

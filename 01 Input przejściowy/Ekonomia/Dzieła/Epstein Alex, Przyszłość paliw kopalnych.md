@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-13 20:30
+year: "2022"
 ---
   Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas-Not Less, 2022
 
