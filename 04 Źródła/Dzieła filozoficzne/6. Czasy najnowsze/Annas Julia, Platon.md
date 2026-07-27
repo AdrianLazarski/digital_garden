@@ -6,8 +6,9 @@ tags:
   - "#filozofia/historia_filozofii"
   - recenzja
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 21:58
+year: "2003"
 ---
 Plato: A Very Short Introduction, 2003
 PL: PWN 2022

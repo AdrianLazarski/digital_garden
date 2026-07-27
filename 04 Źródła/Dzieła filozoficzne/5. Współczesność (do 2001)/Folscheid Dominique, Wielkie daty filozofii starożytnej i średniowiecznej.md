@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 21:49
+year: "1996"
 ---
 1996 r.
 pol 2000 r.

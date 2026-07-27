@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+year: "1959"
+modified date: 2026-07-26 14:51
+---
 [[Józef Bocheński]]
 ## Prawo
 - Prawa: badane przez naukę oparcie dla każdego rozumnego działania.

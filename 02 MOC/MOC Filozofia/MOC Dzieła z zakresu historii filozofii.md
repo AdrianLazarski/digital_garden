@@ -106,3 +106,4 @@ modified date: 2026-07-06 14:08
 [[Herold Natalia, Filozoficzna koncepcja zabobonu w ujęciu o. Józefa Marii Bocheńskiego OP]], 2020 r.
 [[Nowak Maciej, O stosowaniu logiki przez o. Józefa Marię Bocheńskiego]], 2020 r.
 [[Pawlikowski Tomasz, Metafizyka w marksizmie]], 2020 r.
+[[Pylat Joanna, Związki Józefa Bocheńskiego ze środowiskiem naukowym w UK]], 2020 r.

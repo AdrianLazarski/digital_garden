@@ -6,7 +6,8 @@ tags:
   - logika/metodologia
   - filozofia/epistemologia
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Uzasadniony ✅
+year: "1954"
 modified date: 2026-07-21 21:15
 ---
 Die zeitgenössischen Denkementhoden, 1954

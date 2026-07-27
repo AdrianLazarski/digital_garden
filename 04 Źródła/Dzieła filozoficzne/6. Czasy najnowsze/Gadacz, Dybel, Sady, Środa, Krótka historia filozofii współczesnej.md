@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 tytuł: Gadacz, Dybel, Sady, Środa, Krótka historia filozofii współczesnej
+year: "2023"
 modified date: 2026-07-22 22:20
 ---
 2023 r.

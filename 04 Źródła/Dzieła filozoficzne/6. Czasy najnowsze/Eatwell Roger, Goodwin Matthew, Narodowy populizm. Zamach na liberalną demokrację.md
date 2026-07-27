@@ -6,6 +6,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 22:19
+year: "2018"
 ---
 National Populism: Revolt Against Liberal Democracy, 2018
 PL: Sonia Draga, Katowice 2020

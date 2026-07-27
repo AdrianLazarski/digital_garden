@@ -6,8 +6,8 @@ tags:
   - filozofia/współczesna
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
-modified date: 2026-07-23 21:22
 year: "2009"
+modified date: 2026-07-23 21:22
 ---
 2009
 Dorota Łażewska - Współczesne koncepcje filozofii i etyki

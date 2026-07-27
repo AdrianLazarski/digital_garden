@@ -8,6 +8,7 @@ tags:
   - filozofia/epistemologia
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
+year: "2012"
 modified date: 2026-07-23 21:12
 ---
 [[Hans Herman Hoppe]], 2012 r.

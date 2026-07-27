@@ -7,8 +7,8 @@ tags:
   - filozofia/etyka
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
-modified date: 2026-07-23 21:17
 year: "2012"
+modified date: 2026-07-23 21:17
 ---
 [[Michael Huemer]]
 

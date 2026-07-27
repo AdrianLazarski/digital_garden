@@ -7,6 +7,7 @@ tags:
   - filozofia/kultury
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
+year: "2016"
 modified date: 2026-07-23 20:35
 ---
 2016 r.

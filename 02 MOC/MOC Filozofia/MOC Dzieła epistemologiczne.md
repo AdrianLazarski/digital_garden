@@ -30,4 +30,6 @@ modified date: 2026-07-03 17:46
 [[Gettier Edmund, Czy uzasadnione i prawdziwe przekonanie jest wiedzą]], 1963 r.
 [[Krokos Jan, W poszukiwaniu istoty prawdy]], 1998 r.
 [[Judycki Jacek, Epistemologia XX w.]], 1999 r.
+[[Ziemińska Renata, Spor relatywizmu z absolutyzmem na temat pojęcia prawdy]], 2009 r.
+[[Ziemińska Renata, Współczesne koncepcje prawdy]], 2011 r.
 [[Herold Natalia, Filozoficzna koncepcja zabobonu w ujęciu o. Józefa Marii Bocheńskiego OP]], 2020 r.

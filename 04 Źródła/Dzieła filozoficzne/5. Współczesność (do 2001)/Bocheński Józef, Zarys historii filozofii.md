@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 21:23
+year: "1993"
 ---
 [[Józef Bocheński]], 1993 r.
 

@@ -30,6 +30,7 @@ modified date: 2026-07-03 17:38
 [[Weaver Richard M., Idee mają konsekwencje]], 1948 r.
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]], 1949 r.
 [[Stachniuk Jan, Chrześcijaństwo a ludzkość]], 1949 r.
+[[Bocheński Józef Maria, Ku filozoficznemu myśleniu]], 1951 r.
 [[Jaspers Karl, Wprowadzenie do filozofii]], 1953 r.
 [[Hospers John, Wprowadzenie do analizy filozoficznej]], 1953 r.
 [[Bocheński Józef Maria, Współczesne metody myślenia]], 1954 r.
@@ -64,6 +65,7 @@ modified date: 2026-07-03 17:38
 [[Rand Ayn, The Voice of Reason]], 1988 r.
 [[Gajda-Krynicka Janina, Sofiści]], 1989 r.
 [[Tischner Józef, Wędrówki w krainę filozofów]], 1991 r.
+[[Davila Nicolas Gomez, Nowe scholia do tekstu implicite]], 1992 r.
 [[Davila Nicolas Gomez, Następne scholia do tekstu implicite]], 1992 r.
 [[Bocheński Józef Maria, Logika i filozofia]], 1993 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
@@ -86,6 +88,7 @@ modified date: 2026-07-03 17:38
 [[Łukasiewicz Jan, O twórczości w nauce]], 1912 r.
 [[Ajdukiewicz Kazimierz, O spójności syntaktycznej]], 1935 r.
 [[Hempel Carl Gustaw, O teorii prawdy logicznej pozytywistów]], 1935 r.
+[[Quine W. V. O., Dwa dogmaty empiryzmu]], 1951 r.
 [[Gettier Edmund, Czy uzasadnione i prawdziwe przekonanie jest wiedzą]], 1963 r.
 [[Clark, Chalmers, Umysł rozszerzony]], 1998 r.
 [[Jung-Palczewska, Rodowód nauki nowożytnej]], 1998 r.

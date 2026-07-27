@@ -9,6 +9,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 21:17
+year: "1956"
 ---
 [[Józef Bocheński]], 1956 r.
 

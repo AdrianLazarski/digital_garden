@@ -1,4 +1,16 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+  - filozofia/epistemologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-26 14:20
+year: "2009"
+---
+ROCZNIKI FILOZOFICZNE Tom LVII, numer 1 – 2009
+https://www.kul.pl/files/57/roczniki_filozoficzne/2009_57_1/299_zieminska.pdf
 
 - Relatywizm aletyczny - prawdziwość sądu zależy od podmiotu, czasu i miejsca jego stwierdzenia, a w konsekwencji dwa sądy 1 sprzeczne mogą być zarazem prawdziwe (np. dla rożnych podmiotów).
 - Absolutyzm aletyczny - prawdziwość sądu jest niestopniowalna, niezmienna i niezależna od podmiotu i okoliczności jego stwierdzenia.
@@ -52,7 +64,3 @@
 	- To relatywizm pojęciowy nie pozwala na absolutyzm. "Zdanie o liczbie przedmiotów w świecie nie jest więc prawdą absolutną, niezależną od decyzji pojęciowych. Mimo to jest prawdą obiektywną w tym sensie, że przy ustalonym układzie pojęciowym zależy tylko od świata” (GROBLER 2000, s. 40).
 - Ziemińska:  Absolutyzm w wersji Groblera to absolutyzm absolutny. Skoro obiektywna prawda zależy od świata, to nie można powiedzieć, że nie zależy od niczego.
 - C. Wright głosił pluralizm aletyczny: porzucenie jednego pojęcia prawdy groziłoby utratą racjonalnego dyskursu, ale to jedno pojęcie prawdy może być realizowane w różny sposób w różnych dyskursach.  Np. można mówić w dyskursie prawniczym o prawdziwe sądowej, która zostanie odwołana w wyższej instancji, ale i tam się zakłada, że prawda jest jedna, więc to bezużyteczne.
-
-
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/epistemologia 

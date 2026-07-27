@@ -6,8 +6,8 @@ tags:
   - filozofia/współczesna
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
-modified date: 2026-07-23 21:09
 year: "2001"
+modified date: 2026-07-23 21:09
 ---
 [[Hans Herman Hoppe]], 
 

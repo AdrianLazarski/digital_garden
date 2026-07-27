@@ -6,8 +6,9 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 21:03
+year: "1971"
 ---
-1971 r/
+1971 r.
 
 
 

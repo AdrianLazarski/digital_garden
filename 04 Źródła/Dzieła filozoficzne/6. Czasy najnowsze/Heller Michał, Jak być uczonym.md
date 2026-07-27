@@ -5,6 +5,7 @@ tags:
   - filozofia
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
+year: "2009"
 modified date: 2026-07-23 20:44
 ---
 [[Michał Heller]], 2009 r.

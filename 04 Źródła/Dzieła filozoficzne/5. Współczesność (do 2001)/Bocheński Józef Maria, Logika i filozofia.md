@@ -7,6 +7,7 @@ tags:
   - filozofia/współczesna
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
+year: "1993"
 modified date: 2026-07-21 21:10
 ---
 Pisał w latach 1930-1985

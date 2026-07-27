@@ -1,4 +1,17 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - historia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-26 14:27
+---
 [[Tadeusz Kotarbiński]]
+
+
+Sprawdzić na kindle'u o co chodzi
+
 
 Wyjaśnianie  
 - Your Highlight on page 2-2 | Added on Saturday, 23 May 2020 11:52:37
@@ -72,4 +85,3 @@ nie wyczerpuje wszystkich sposobów wyjaśniania występujących w naukach przyr
 
 
 
-#filozofia #filozofia/polska #filozofia/współczesna #logika #szkoła_lwowsko_warszawska

@@ -8,8 +8,8 @@ tags:
   - filozofia/przyrody
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
-modified date: 2026-07-23 21:20
 year: "2006"
+modified date: 2026-07-23 21:20
 ---
 2006 r.
 

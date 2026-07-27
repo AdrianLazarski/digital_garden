@@ -1,5 +1,18 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/etyka
+  - filozofia/współczesna
+  - filozofia/języka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-26 14:17
+year: "2016"
+---
+Slenzok Norbert, Od transcendentalnej pragmatyki języka do libertariańskiej etyki argumentacyjnej, „Eryda” 1(3)/2016.
 
-- „(...) Każda prawdziwa teza, teza związana z jakimkolwiek twierdzeniem, które jest prawdziwe,obiektywne lub słuszne (…), jest i musi być postawiona i rozsądzona w toku argumentacji. Ponieważ nie można z tym dyskutować (nie można komunikować i argumentować, że nie można komunikować i argumentować), ten właśnie fakt został stosownie nazwany «a priori komunikacji i argumentacji»”
+- „(...) Każda prawdziwa teza, teza związana z jakimkolwiek twierdzeniem, które jest prawdziwe, obiektywne lub słuszne (…), jest i musi być postawiona i rozsądzona w toku argumentacji. Ponieważ nie można z tym dyskutować (nie można komunikować i argumentować, że nie można komunikować i argumentować), ten właśnie fakt został stosownie nazwany «a priori komunikacji i argumentacji»”
 - transcendentalnym warunkiem możliwości argumentacji jest przyjęcie określonych norm etycznych
 - Apel powołuje się na Kanta, Peirce'a i Austina.
 	- Od Kanta bierze transcendentalizm
@@ -43,5 +56,3 @@
 - Libertarianizm Hoppego to forma intelektualizmu etycznego, bo jego teoria praw własności zyskuje uprawomocnienie jako normatywny warunek wstępny argumentacji.
 
 
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/prawa #filozofia/polityki #libertarianizm 

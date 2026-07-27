@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-21 21:47
+year: "1992"
 ---
 Współczesnemu człowiekowi nawet najbardziej subtelna prawda wydaje się nieznośnym zuchwalstwem.
 

@@ -6,6 +6,7 @@ tags:
   - filozofia/polityki
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
+year: "1967"
 modified date: 2026-07-21 20:59
 ---
 [[Theodor Adorno]]

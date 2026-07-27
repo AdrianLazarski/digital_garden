@@ -8,6 +8,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-21 21:08
+year: "1969"
 ---
 [[Isaiah Berlin]], *Four Essays on Liberty*, 1969 r.
 

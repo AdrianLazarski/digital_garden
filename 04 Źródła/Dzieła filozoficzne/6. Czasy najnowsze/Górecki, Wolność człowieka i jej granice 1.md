@@ -9,6 +9,7 @@ tags:
   - filozofia/polityki
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
+year: "2019"
 modified date: 2026-07-22 22:24
 ---
 Wydawnictwo Uniwersytetu Łódzkiego, 2019

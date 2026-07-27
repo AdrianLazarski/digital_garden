@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/historia_filozofii
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-26 14:14
+year: "2020"
+---
 
 
 Po II wojnie zdecydował się pozostać na wychodźstwie wierząc, że przebywając w „wolnym świecie” będzie mógł „służyć ojczyźnie” – krytykując komunizm.
@@ -58,4 +69,3 @@ Wypowiedź ojca Józefa Marii Bocheńskiego – filozofa, profesora i rektora un
  Człowiek jest jedynym stworzeniem, które szanuje myśl, gdy jej nie szanuje, gdy próbuje ją zgnębić fizyczną siłą postępuje jak nie człowiek, po zwierzęcemu, po bestialsku…”98
 
 
-#filozofia #filozofia/współczesna #filozofia/polska #historia #filozofia/historia_filozofii 

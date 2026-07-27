@@ -61,9 +61,13 @@ modified date: 2026-07-03 17:40
 
 # Artykuły chronologicznie
 
+[[Rosiak Marek, Filozofia pierwsza, metafizyka, ontologia]], 2001 r.
+[[Ziemińska Renata, Spor relatywizmu z absolutyzmem na temat pojęcia prawdy]], 2009 r.
 [[Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu]], 2010 r.
+[[Ziemińska Renata, Współczesne koncepcje prawdy]], 2011 r.
 [[Kmieciuk Andrzej, O filozofii przedsiębiorstwa Józefa M. Bocheńskiego]], 2013 r.
 [[Grzybowski Jacek, Czy relacja–najsłabszy rodzaj bytowości w metafizyce może stanowić fundament realnego bytu narodu]], 2016 r.
+[[Slenzok Norbert, Od transcendentalnej pragmatyki języka do libertariańskiej etyki argumentacyjnej]], 2016 r.
 [[Lemańska Anna, Wyjaśnianie w nauce]], 2019 r.
 [[Andrzejuk Artur, Etyka w ujęciu Bocheńskiego]], 2020 r.
 [[Andrzejuk Artur, Józefa M. Bocheńskiego koncepcja historii filozofii]], 2020 r.
@@ -72,6 +76,8 @@ modified date: 2026-07-03 17:40
 [[Herold Natalia, Filozoficzna koncepcja zabobonu w ujęciu o. Józefa Marii Bocheńskiego OP]], 2020 r.
 [[Nowak Maciej, O stosowaniu logiki przez o. Józefa Marię Bocheńskiego]], 2020 r.
 [[Pawlikowski Tomasz, Metafizyka w marksizmie]], 2020 r.
+[[Porwolik Marek, Józefa Marii Bocheńskiego program studiów o Bogu]], 2020 r.
+[[Pylat Joanna, Związki Józefa Bocheńskiego ze środowiskiem naukowym w UK]], 2020 r.
 
 
 

@@ -1,4 +1,15 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/epistemologia
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-26 14:15
+year: "1951"
+---
+[[W.V.O. Quine]]
 
 
 - Współczesny empiryzm jest oparty na dwóch dogmatach:

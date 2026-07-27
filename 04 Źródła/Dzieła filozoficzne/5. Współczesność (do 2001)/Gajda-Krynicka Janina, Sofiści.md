@@ -8,13 +8,10 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 17:53
+year: "1989"
 ---
 1989 r.
 
-**Spis treści**
-
-1. [Fragmenty](#Fragmenty)
-2. [Recenzja](#Recenzja)
 
 
 

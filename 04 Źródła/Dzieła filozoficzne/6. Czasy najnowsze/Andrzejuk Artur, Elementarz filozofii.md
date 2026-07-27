@@ -7,6 +7,7 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 21:56
+year: "2007"
 ---
 A. Andrzejuk, Elementarz filozofii, Warszawa 2007, s.
 [[Artur Andrzejuk]] 

@@ -41,6 +41,7 @@ modified date: 2026-07-06 14:06
 [[Wozinski Jakub, To nie musi być państwowe]], 2014 r.
 [[Scruton Roger – Głupcy, oszuści i podżegacze]], 2015 r.
 [[Powell, Babcock, Arguments for Liberty]], 2016 r.
+[[Slenzok Norbert, Od transcendentalnej pragmatyki języka do libertariańskiej etyki argumentacyjnej]], 2016 r.
 [[Holloway Chas, Koniec polityki]], 2018 r.
 [[Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii]], 2019 r.
 [[Górecki, Wolność człowieka i jej granice 1]], 2019 r.

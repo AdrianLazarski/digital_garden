@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/epistemologia
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-07-26 14:21
+year: "2011"
+---
 
 - Mocny obiektywizm co do prawdy jest nazywany przez anglosasów realizmem aletycznym.
 - Trudności teorii korespondencji:
@@ -70,5 +81,3 @@
 	- Odrzuca oba w imię antyrealizmu semantycznego - prawdziwe są tylko zdania, których wartość potrafimy efektywnie rozstrzygnąć.
 	- Krytykuje też konwencję Tarskiego, która jest kłopotliwa, gdy zdanie nie jest ani prawdziwe ani fałszywe. Dotyczy to zdań z pustą nazwą własną, zdań o przyszłości, zdań warunkowych, zdań matematyki, zdań zawierających wyrażenia nieostre.
 
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/epistemologia 

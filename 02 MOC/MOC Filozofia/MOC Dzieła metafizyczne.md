@@ -38,6 +38,7 @@ modified date: 2026-07-03 17:44
 
 # Artykuły
 
+[[Rosiak Marek, Filozofia pierwsza, metafizyka, ontologia]], 2001 r.
 [[Grzybowski Jacek, Czy relacja–najsłabszy rodzaj bytowości w metafizyce może stanowić fundament realnego bytu narodu]], 2016 r.
 [[Grzybowski Jacek, Kategorie społeczne i ich znaczenie w myśli i. Józefa Marii Bocheńskiego]], 2020 r.
 [[Pawlikowski Tomasz, Metafizyka w marksizmie]], 2020 r.

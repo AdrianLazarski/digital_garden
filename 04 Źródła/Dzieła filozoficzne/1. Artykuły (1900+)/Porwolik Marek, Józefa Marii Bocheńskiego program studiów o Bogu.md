@@ -1,10 +1,12 @@
 ---
 created: 2026-02-28 19:46
 tags:
-  - atom
-  - definicja
+  - ref
+  - filozofia/boga
+  - logika
+  - filozofia/współczesna
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-25 19:12
 year: "2020"
 ---
@@ -90,4 +92,3 @@ O. Bocheński przyznaje, że ogromny wpływ na program filozoficzny Koła miał 
 - Zatem również na płaszczyźnie celów badawczych zrealizowanych w poszczególnych pracach, program studiów o Bogu jest kontynuacją i uszczegółowieniem celów badawczych Koła.
 
 
-#filozofia #filozofia/współczesna #filozofia/polska #logika #filozofia/boga 

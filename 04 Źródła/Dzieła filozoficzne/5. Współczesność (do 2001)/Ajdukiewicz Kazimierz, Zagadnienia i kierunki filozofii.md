@@ -7,6 +7,7 @@ tags:
   - filozofia/epistemologia
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Uzasadniony ✅
+year: "1949"
 modified date: 2026-07-21 21:01
 ---
 [[Kazimierz Ajdukiewicz]], 1949 r.

@@ -16507,8 +16507,781 @@
         "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Porwolik Marek, Józefa Marii Bocheńskiego program studiów o Bogu.md",
         "wordCountStart": 2065,
         "charCountStart": 15149,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": -4,
+            "c": -36
+          }
+        ],
         "id": 1131
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+        "wordCountStart": 509,
+        "charCountStart": 3852,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 23,
+            "c": 163
+          },
+          {
+            "timeKey": "14:15",
+            "w": 20,
+            "c": 180
+          },
+          {
+            "timeKey": "14:20",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1132
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii Boga.md",
+        "wordCountStart": 47,
+        "charCountStart": 344,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 13,
+            "c": 101
+          }
+        ],
+        "id": 1133
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
+        "wordCountStart": 107,
+        "charCountStart": 800,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 11,
+            "c": 78
+          }
+        ],
+        "id": 1134
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Pylat Joanna, Związki Józefa Bocheńskiego ze środowiskiem naukowym w UK.md",
+        "wordCountStart": 1254,
+        "charCountStart": 9317,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 17,
+            "c": 119
+          }
+        ],
+        "id": 1135
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
+        "wordCountStart": 545,
+        "charCountStart": 4379,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 12,
+            "c": 85
+          }
+        ],
+        "id": 1136
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Quine W. V. O., Dwa dogmaty empiryzmu.md",
+        "wordCountStart": 978,
+        "charCountStart": 7463,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 29,
+            "c": 222
+          }
+        ],
+        "id": 1137
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+        "wordCountStart": 613,
+        "charCountStart": 4671,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 9,
+            "c": 51
+          },
+          {
+            "timeKey": "14:50",
+            "w": 8,
+            "c": 63
+          },
+          {
+            "timeKey": "14:55",
+            "w": 10,
+            "c": 68
+          }
+        ],
+        "id": 1138
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Rosiak Marek, Filozofia pierwsza, metafizyka, ontologia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 45,
+            "c": 437
+          }
+        ],
+        "id": 1139
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+        "wordCountStart": 267,
+        "charCountStart": 1995,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 8,
+            "c": 69
+          }
+        ],
+        "id": 1140
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Slenzok Norbert, Od transcendentalnej pragmatyki języka do libertariańskiej etyki argumentacyjnej.md",
+        "wordCountStart": 781,
+        "charCountStart": 6400,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 31,
+            "c": 232
+          }
+        ],
+        "id": 1141
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+        "wordCountStart": 312,
+        "charCountStart": 2256,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 12,
+            "c": 111
+          }
+        ],
+        "id": 1142
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+        "wordCountStart": 181,
+        "charCountStart": 1432,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 1143
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
+        "wordCountStart": 34,
+        "charCountStart": 272,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 13,
+            "c": 126
+          },
+          {
+            "timeKey": "14:20",
+            "w": 1,
+            "c": 12
+          }
+        ],
+        "id": 1144
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Ziemińska Renata, Spor relatywizmu z absolutyzmem na temat pojęcia prawdy.md",
+        "wordCountStart": 1331,
+        "charCountStart": 9672,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 37,
+            "c": 249
+          }
+        ],
+        "id": 1145
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
+        "wordCountStart": 165,
+        "charCountStart": 1236,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1146
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Ziemińska Renata, Współczesne koncepcje prawdy.md",
+        "wordCountStart": 904,
+        "charCountStart": 7095,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 18,
+            "c": 128
+          }
+        ],
+        "id": 1147
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "01 Input przejściowy/Wyjaśnianie.md",
+        "wordCountStart": 629,
+        "charCountStart": 4481,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 21,
+            "c": 116
+          }
+        ],
+        "id": 1148
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu propedeutyki filozofii.md",
+        "wordCountStart": 129,
+        "charCountStart": 1017,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 8,
+            "c": 63
+          }
+        ],
+        "id": 1149
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Andrzejuk Artur, Elementarz filozofii.md",
+        "wordCountStart": 2424,
+        "charCountStart": 18452,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1150
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Annas Julia, Platon.md",
+        "wordCountStart": 196,
+        "charCountStart": 1407,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 1151
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Bartyzel Jacek, W gąszczu liberalizmów.md",
+        "wordCountStart": 5948,
+        "charCountStart": 48288,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1152
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Bremer Józef, Czy wolna wola jest wolna.md",
+        "wordCountStart": 353,
+        "charCountStart": 2596,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1153
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
+        "wordCountStart": 361,
+        "charCountStart": 2867,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1154
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Eatwell Roger, Goodwin Matthew, Narodowy populizm. Zamach na liberalną demokrację.md",
+        "wordCountStart": 746,
+        "charCountStart": 5496,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1155
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Gadacz, Dybel, Sady, Środa, Krótka historia filozofii współczesnej.md",
+        "wordCountStart": 725,
+        "charCountStart": 5707,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1156
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Górecki, Wolność człowieka i jej granice 1.md",
+        "wordCountStart": 987,
+        "charCountStart": 7331,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1157
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Grzybowski ks. Jacek, Uciec z krainy zapomnienia.md",
+        "wordCountStart": 688,
+        "charCountStart": 4975,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1158
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Heller Michał, Jak być uczonym.md",
+        "wordCountStart": 395,
+        "charCountStart": 2924,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1159
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Holloway Chas, Koniec polityki.md",
+        "wordCountStart": 314,
+        "charCountStart": 2296,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1160
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Hoppe Hans Herman, Demokracja - bóg, który zawiódł.md",
+        "wordCountStart": 2815,
+        "charCountStart": 20648,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1161
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Hoppe Hans Herman, Wielka fikcja, Państwo w epoce schyłku.md",
+        "wordCountStart": 1664,
+        "charCountStart": 12517,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "14:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1162
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Huemer Michael, Problem władzy politycznej.md",
+        "wordCountStart": 184,
+        "charCountStart": 1382,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1163
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Judycki Stanisław, Epistemologia.md",
+        "wordCountStart": 135,
+        "charCountStart": 990,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1164
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Kawelec Paweł, Przyczyna i wyjaśnianie. Studium z filozofii i metodologii nauki.md",
+        "wordCountStart": 479,
+        "charCountStart": 3866,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1165
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/6. Czasy najnowsze/Łażewska Dorota, Współczesne koncepcje filozofii i etyki.md",
+        "wordCountStart": 1023,
+        "charCountStart": 7586,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1166
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Adorno Theodor, Nowy prawicowy radykalizm.md",
+        "wordCountStart": 604,
+        "charCountStart": 4587,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1167
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
+        "wordCountStart": 8236,
+        "charCountStart": 60957,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1168
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Alinsky Saul, Roots of radicals.md",
+        "wordCountStart": 48,
+        "charCountStart": 346,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1169
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Barnes Jonathan, Arystoteles.md",
+        "wordCountStart": 192,
+        "charCountStart": 1420,
+        "changes": [],
+        "id": 1170
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Berlin Isaiah, Cztery eseje o wolności.md",
+        "wordCountStart": 4222,
+        "charCountStart": 31169,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1171
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Ku filozoficznemu myśleniu.md",
+        "wordCountStart": 2364,
+        "charCountStart": 16566,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 23,
+            "c": 178
+          }
+        ],
+        "id": 1172
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "02 MOC/MOC Filozofia.md",
+        "wordCountStart": 33,
+        "charCountStart": 278,
+        "changes": [],
+        "id": 1173
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Logika i filozofia.md",
+        "wordCountStart": 1386,
+        "charCountStart": 10729,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1174
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef Maria, Współczesne metody myślenia.md",
+        "wordCountStart": 1055,
+        "charCountStart": 7866,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 1175
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, History of formal logic.md",
+        "wordCountStart": 697,
+        "charCountStart": 4370,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1176
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Bocheński Józef, Zarys historii filozofii.md",
+        "wordCountStart": 351,
+        "charCountStart": 2601,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1177
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Borawska, Górski – Umysłowość średniowiecza.md",
+        "wordCountStart": 444,
+        "charCountStart": 3369,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1178
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Camus Albert, Upadek.md",
+        "wordCountStart": 272,
+        "charCountStart": 1948,
+        "changes": [],
+        "id": 1179
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Davila Nicolas Gomez, Następne scholia do tekstu implicite.md",
+        "wordCountStart": 382,
+        "charCountStart": 2822,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 1,
+            "c": 6
+          },
+          {
+            "timeKey": "14:55",
+            "w": 1,
+            "c": 7
+          }
+        ],
+        "id": 1180
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Davila Nicolas Gomez, Nowe scholia do tekstu implicite.md",
+        "wordCountStart": 974,
+        "charCountStart": 7353,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1181
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Fanon Frantz, Wyklęty lud ziemi.md",
+        "wordCountStart": 76,
+        "charCountStart": 625,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1182
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Folscheid Dominique, Wielkie daty filozofii starożytnej i średniowiecznej.md",
+        "wordCountStart": 202,
+        "charCountStart": 1546,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1183
+      },
+      {
+        "date": "2026-07-26",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
+        "wordCountStart": 10593,
+        "charCountStart": 77167,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": -6,
+            "c": -56
+          }
+        ],
+        "id": 1184
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/5. Współczesność (do 2001)/Gajda-Krynicka Janina, Sofiści.md",
+        "wordCountStart": 10587,
+        "charCountStart": 77111,
+        "changes": [],
+        "id": 1185
       }
     ]
   }
