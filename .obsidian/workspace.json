@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Pożądanie.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Praca.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pożądanie"
+              "title": "Praca"
             }
           },
           {
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Pożądanie.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Praca.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Pożądanie"
+              "title": "Konspekt Praca"
             }
           }
         ],
@@ -275,6 +275,7 @@
   },
   "active": "6a0cdff69826adcc",
   "lastOpenFiles": [
+    "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Pożądanie.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Pamięć.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Osoba.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Natura człowieka.md",
@@ -300,7 +301,6 @@
     "01 Input przejściowy/Psychologia/Psychologowie/Jean Piaget.md",
     "01 Input przejściowy/Psychologia/Psychologowie/Sigmund Freud.md",
     "01 Input przejściowy/Psychologia/Psychologowie/Viktor Frankl.md",
-    "02 MOC/MOC Psychologia.md",
     "05 Ludzie",
     "02 MOC/MOC Chrześcijaństwo",
     "01 Input przejściowy/załączniki/Realny PKB per capita w Polsce.webp",

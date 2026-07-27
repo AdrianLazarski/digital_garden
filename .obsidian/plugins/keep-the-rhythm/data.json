@@ -20599,6 +20599,20 @@
           }
         ],
         "id": 1419
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Praca.md",
+        "wordCountStart": 127,
+        "charCountStart": 851,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 19,
+            "c": 150
+          }
+        ],
+        "id": 1420
       }
     ]
   }
