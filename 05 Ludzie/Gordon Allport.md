@@ -1,14 +1,13 @@
 ---
 created: 2026-02-28 19:46
 tags:
-  - atom
-  - definicja
-  - "#filozofia/antropologia"
+  - osoba
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date: 2026-07-27 20:45
+modified date: 2026-07-27 20:05
 ---
 
-Zob. [[Dążenie]] 
+1897-1967
 
 
+#psychologia #psycholog 

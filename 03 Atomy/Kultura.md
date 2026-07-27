@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - socjologia
+  - filozofia/kultury
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-27 19:53
+---
 Kultura to zbiorowe programowanie umysłu.
 	Geert Hofstede, Gert Jan Hofstede, Michael Minkov „Cultures and Organizations: Software of the Mind”, 2010
 

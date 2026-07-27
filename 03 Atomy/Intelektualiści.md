@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - socjologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-27 19:53
+---
 
 
 - Dla Nowej Lewicy charakterystyczna jest świadomość niemożności jednorazowego skoku do wolności i skupienie się na wiecznym liberacjonizmie.
@@ -14,4 +23,3 @@
 
 
 
-#socjologia 

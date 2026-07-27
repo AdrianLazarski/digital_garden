@@ -4,8 +4,15 @@ tags:
   - ai-generated
   - historia/nowożytna
   - historia/współczesna
-modified date: 2026-01-02 15:52
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-27 20:16
+year: "2021"
 ---
+Wydane pośmiertnie w 2021. Pisane do 1990.
+
+# Notatki
 
 ## Rozdział 1
 

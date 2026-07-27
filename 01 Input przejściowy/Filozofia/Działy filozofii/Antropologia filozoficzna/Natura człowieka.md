@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/antropologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-27 20:40
+---
 
 
 - Argumenty przeciw użyciu normatywnemu pojęcia „natury”:
@@ -5,5 +15,3 @@
 	2. pojęcie „natury” jest niewystarczalne, aby odróżnić to, co jest moralnie dobre od tego, co jest moralnie złe; można wyprowadzić jedynie normy bardzo ogólne, np. zasadę, że człowiek powinien ulepszać świat.
 	3. uznanie normatywności pojęcia „natury” prowadziłoby do pomieszania praw fizycznych czy biologicznych właściwych dla świata zdominowanego przez konieczność, z prawami moralności będącej królestwem wolności i ducha.
 
-
-#filozofia #filozofia/antropologia 

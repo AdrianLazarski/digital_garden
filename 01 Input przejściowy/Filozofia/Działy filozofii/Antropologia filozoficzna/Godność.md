@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/antropologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-27 20:39
+---
 
 - Perspektywa biblijna:
 	- Człowiek posiada godność, ponieważ został stworzony na obraz i podobieństwo Boga. Godność otrzymana od Bytu Najwyższego uczyniła człowieka kimś wyjątkowym i stała się źródłem jego odpowiedzialności i panowania nad światem.
@@ -40,5 +50,3 @@
 	- Godność scala porządek moralny z osobą, jej doskonałością, sprawczością i sumieniem
 	- godność jako wartość osobowa stanowi wzór, miarę i kryterium tego, co osobę doskonali, co jest dla niej dobre i nakazane przez imperatywy moralne
 
-
-#filozofia #filozofia/antropologia 

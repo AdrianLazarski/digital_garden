@@ -18,3 +18,12 @@ modified date: 2026-07-21 21:39
 
 [[Borawska, Górski – Umysłowość średniowiecza]], 1993 r.
 [[Wozinski Jakub, To nie musi być państwowe]], 2014 r.
+
+# O nowożytności
+
+[[Zamoyski Adam, Urojone widmo rewolucji]], 2016 r.
+[[Hobsbawm Eric, O nacjonalizmie]], 2021 r.
+
+# O współczesności
+
+[[Hobsbawm Eric, O nacjonalizmie]], 2021 r.

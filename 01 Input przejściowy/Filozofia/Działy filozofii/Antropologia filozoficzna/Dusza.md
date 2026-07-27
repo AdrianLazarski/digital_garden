@@ -1,6 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/antropologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-27 20:38
+---
 
 
-Dusza ludzka to niezłożona substancja, stanowiąca część psychiki człowieka, w której funkcjonuje jako "ja"."Ja" jest niezmienne i przekracza strumień świadomości. Jest podmiotem niematerialnych aktów poznania intelektualnego oraz decyzji i miłości.
+Dusza ludzka to niezłożona substancja, stanowiąca część psychiki człowieka, w której funkcjonuje jako "ja". "Ja" jest niezmienne i przekracza strumień świadomości. Jest podmiotem niematerialnych aktów poznania intelektualnego oraz decyzji i miłości.
 
 - Dusza nie powstaje dzięki ilościowym zmianom materii, jej przyczyną jest Absolut.
 

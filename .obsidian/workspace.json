@@ -11,19 +11,9 @@
             "id": "6a0cdff69826adcc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nowa karta"
-            }
-          },
-          {
-            "id": "96ad3db4b0b41e8e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Chrześcijaństwo/MOC Literatura chrześcijańska.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Pożądanie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Literatura chrześcijańska"
+              "title": "Pożądanie"
+            }
+          },
+          {
+            "id": "84d994d4ce5f5d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Antropologia filozoficzna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Antropologia filozoficzna"
             }
           }
         ]
@@ -177,12 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Pożądanie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt"
+              "title": "Konspekt Pożądanie"
             }
           }
         ],
@@ -260,34 +275,34 @@
   },
   "active": "6a0cdff69826adcc",
   "lastOpenFiles": [
-    "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Marek Ewangelista.md",
-    "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Łukasz Ewangelista.md",
-    "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Jan Ewangelista.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Literatura chrześcijańska.md",
-    "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Marka.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Nowy testament.md",
-    "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Mateusza.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Stary testament.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Pamięć.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Osoba.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Natura człowieka.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Intelekt.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Instynkt naturalny.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Godność.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Dusza.md",
+    "02 MOC/MOC Filozofia/MOC Antropologia filozoficzna.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Dążenie.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Człowiek.md",
+    "02 MOC/MOC Historia/MOC Książki historyczne.md",
+    "01 Input przejściowy/Historia/06 Państwa/Historia Austrii.md",
+    "01 Input przejściowy/Historia/03 Nowożytna/Wielkie odkrycia geograficzne.md",
+    "01 Input przejściowy/Historia/02 Średniowieczna/Awarowie.md",
+    "04 Źródła/Zamoyski Adam, Urojone widmo rewolucji.md",
+    "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
+    "02 MOC/MOC Historia.md",
+    "01 Input przejściowy/Psychologia/Psychologowie/Alfred Adler.md",
+    "02 MOC/MOC Psychologia/MOC Psycholodzy.md",
+    "01 Input przejściowy/Psychologia/Psychologowie/Carl Gustav Jung.md",
+    "01 Input przejściowy/Psychologia/Psychologowie/Erich Fromm.md",
+    "01 Input przejściowy/Psychologia/Psychologowie/Gordon Allport.md",
+    "01 Input przejściowy/Psychologia/Psychologowie/Jean Piaget.md",
+    "01 Input przejściowy/Psychologia/Psychologowie/Sigmund Freud.md",
+    "01 Input przejściowy/Psychologia/Psychologowie/Viktor Frankl.md",
+    "02 MOC/MOC Psychologia.md",
     "05 Ludzie",
-    "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Łukasza.md",
-    "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Jana.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
-    "02 MOC/MOC Religia.md",
-    "01 Input przejściowy/Chrześcijaństwo/Książki/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "02 MOC/MOC Chrześcijaństwo",
-    "01 Input przejściowy/Chrześcijaństwo/Książki/Benedykt z Nursji, Reguła świętego Benedykta.md",
-    "01 Input przejściowy/Chrześcijaństwo/Książki/Caroll Warren, Historia chrześcijaństwa 1.md",
-    "01 Input przejściowy/Chrześcijaństwo/Książki/Chesterton Gilbert Keith, Źródła i mielizny.md",
-    "01 Input przejściowy/Matematyka/Książki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
-    "02 MOC/MOC Psychologia/MOC Dzieła psychologiczne.md",
-    "01 Input przejściowy/Psychologia/Dzieła/Haidt Jonathan, Prawy umysł.md",
-    "01 Input przejściowy/Psychologia/Dzieła/Ariely Dan, Payoff Ukryta logika kształtująca naszą motywację.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
-    "01 Input przejściowy/Socjologia/Dzieła socjologiczne/Szahaj Andrzej, Ponowoczesność i postmodernizm dla średniozaawansowanych.md",
-    "01 Input przejściowy/Socjologia/Dzieła socjologiczne/Szacki Jerzy, Historia myśli socjologicznej.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Zitelmann Rainer, Wzlot orła białego.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Wstęp do ASE.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Woods Thomas E., Kościół a wolny rynek.md",
     "01 Input przejściowy/załączniki/Realny PKB per capita w Polsce.webp",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",

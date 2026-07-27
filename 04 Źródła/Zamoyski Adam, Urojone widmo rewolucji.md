@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - historia
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-27 20:26
+year: "2016"
+---
 
 
 Car Aleksander, który zaorał Napoleona, był bardzo religijny i wyobrażał sobie, że jest istnym paladynem walczącym ze złem rewolucji.

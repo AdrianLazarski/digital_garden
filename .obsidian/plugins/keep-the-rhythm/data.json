@@ -18239,6 +18239,11 @@
             "timeKey": "17:05",
             "w": 18,
             "c": 101
+          },
+          {
+            "timeKey": "20:25",
+            "w": 23,
+            "c": 180
           }
         ],
         "id": 1258
@@ -18420,6 +18425,21 @@
           },
           {
             "timeKey": "19:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:45",
             "w": 0,
             "c": 0
           }
@@ -20069,6 +20089,516 @@
           }
         ],
         "id": 1383
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "05 Ludzie/Jan Kalwin.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 21,
+            "c": 171
+          }
+        ],
+        "id": 1384
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Socjologia/Koncepcje/Akumulacja przewag i upośledzenia.md",
+        "wordCountStart": 41,
+        "charCountStart": 312,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 19,
+            "c": 143
+          }
+        ],
+        "id": 1385
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Socjologia/Koncepcje/Innowacja negatywna.md",
+        "wordCountStart": 13,
+        "charCountStart": 119,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 23,
+            "c": 185
+          }
+        ],
+        "id": 1386
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Socjologia/Koncepcje/Intelektualiści.md",
+        "wordCountStart": 131,
+        "charCountStart": 1047,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 19,
+            "c": 144
+          }
+        ],
+        "id": 1387
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Socjologia/Koncepcje/Kultura.md",
+        "wordCountStart": 187,
+        "charCountStart": 1419,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 23,
+            "c": 192
+          }
+        ],
+        "id": 1388
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Socjologia.md",
+        "wordCountStart": 27,
+        "charCountStart": 233,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 7,
+            "c": 82
+          },
+          {
+            "timeKey": "19:55",
+            "w": 6,
+            "c": 64
+          }
+        ],
+        "id": 1389
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Socjologia/Koncepcje/Rozwój zależny.md",
+        "wordCountStart": 85,
+        "charCountStart": 702,
+        "changes": [
+          {
+            "timeKey": "19:55",
+            "w": 21,
+            "c": 166
+          }
+        ],
+        "id": 1390
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Socjologia/Koncepcje/Rozwój zależny.md",
+        "wordCountStart": 85,
+        "charCountStart": 702,
+        "changes": [
+          {
+            "timeKey": "19:55",
+            "w": 21,
+            "c": 166
+          }
+        ],
+        "id": 1391
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Socjologia/Koncepcje/Sieć społeczna.md",
+        "wordCountStart": 27,
+        "charCountStart": 206,
+        "changes": [
+          {
+            "timeKey": "19:55",
+            "w": 21,
+            "c": 170
+          }
+        ],
+        "id": 1392
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Socjologia/Koncepcje/Wspólnota.md",
+        "wordCountStart": 35,
+        "charCountStart": 297,
+        "changes": [
+          {
+            "timeKey": "19:55",
+            "w": 21,
+            "c": 170
+          }
+        ],
+        "id": 1393
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Psychologia/Psychologowie/Alfred Adler.md",
+        "wordCountStart": 4,
+        "charCountStart": 37,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 18,
+            "c": 133
+          }
+        ],
+        "id": 1394
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Psychologia/Psychologowie/Carl Gustav Jung.md",
+        "wordCountStart": 26,
+        "charCountStart": 208,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": -4,
+            "c": -38
+          }
+        ],
+        "id": 1395
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Psychologia/Psychologowie/Erich Fromm.md",
+        "wordCountStart": 90,
+        "charCountStart": 488,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": -62,
+            "c": -222
+          }
+        ],
+        "id": 1396
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Psychologia/Psychologowie/Gordon Allport.md",
+        "wordCountStart": 4,
+        "charCountStart": 37,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 18,
+            "c": 134
+          }
+        ],
+        "id": 1397
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Psychologia/Psychologowie/Jean Piaget.md",
+        "wordCountStart": 90,
+        "charCountStart": 488,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": -62,
+            "c": -222
+          }
+        ],
+        "id": 1398
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Psychologia/Psychologowie/Sigmund Freud.md",
+        "wordCountStart": 374,
+        "charCountStart": 2886,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": -5,
+            "c": -53
+          },
+          {
+            "timeKey": "20:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1399
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Psychologia/Psychologowie/Viktor Frankl.md",
+        "wordCountStart": 4,
+        "charCountStart": 38,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 18,
+            "c": 133
+          }
+        ],
+        "id": 1400
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Psychologia.md",
+        "wordCountStart": 23,
+        "charCountStart": 188,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 2,
+            "c": 21
+          }
+        ],
+        "id": 1401
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Psychologia/MOC Psycholodzy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 35,
+            "c": 281
+          },
+          {
+            "timeKey": "20:10",
+            "w": 10,
+            "c": 49
+          },
+          {
+            "timeKey": "20:15",
+            "w": 4,
+            "c": 20
+          }
+        ],
+        "id": 1402
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
+        "wordCountStart": 5154,
+        "charCountStart": 41054,
+        "changes": [
+          {
+            "timeKey": "20:15",
+            "w": 15,
+            "c": 135
+          }
+        ],
+        "id": 1403
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Zamoyski Adam, Urojone widmo rewolucji.md",
+        "wordCountStart": 518,
+        "charCountStart": 3863,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 1,
+            "c": -2
+          }
+        ],
+        "id": 1404
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Zamoyski Adam, Urojone widmo rewolucji.md",
+        "wordCountStart": 518,
+        "charCountStart": 3863,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 1,
+            "c": -2
+          }
+        ],
+        "id": 1405
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Historia/02 Średniowieczna/Awarowie.md",
+        "wordCountStart": 156,
+        "charCountStart": 1164,
+        "changes": [],
+        "id": 1406
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Historia/03 Nowożytna/Wielkie odkrycia geograficzne.md",
+        "wordCountStart": 33,
+        "charCountStart": 242,
+        "changes": [],
+        "id": 1407
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Historia/06 Państwa/Historia Austrii.md",
+        "wordCountStart": 466,
+        "charCountStart": 22686,
+        "changes": [],
+        "id": 1408
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Człowiek.md",
+        "wordCountStart": 48,
+        "charCountStart": 411,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 18,
+            "c": 135
+          }
+        ],
+        "id": 1409
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Antropologia filozoficzna.md",
+        "wordCountStart": 40,
+        "charCountStart": 397,
+        "changes": [],
+        "id": 1410
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Dążenie.md",
+        "wordCountStart": 16,
+        "charCountStart": 108,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 19,
+            "c": 150
+          },
+          {
+            "timeKey": "20:35",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 1411
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Dusza.md",
+        "wordCountStart": 70,
+        "charCountStart": 510,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 22,
+            "c": 183
+          }
+        ],
+        "id": 1412
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Godność.md",
+        "wordCountStart": 748,
+        "charCountStart": 5631,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 19,
+            "c": 146
+          }
+        ],
+        "id": 1413
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Instynkt naturalny.md",
+        "wordCountStart": 20,
+        "charCountStart": 145,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 18,
+            "c": 133
+          }
+        ],
+        "id": 1414
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Intelekt.md",
+        "wordCountStart": 20,
+        "charCountStart": 148,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1415
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Natura człowieka.md",
+        "wordCountStart": 93,
+        "charCountStart": 704,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 19,
+            "c": 146
+          }
+        ],
+        "id": 1416
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Osoba.md",
+        "wordCountStart": 116,
+        "charCountStart": 836,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 22,
+            "c": 182
+          }
+        ],
+        "id": 1417
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Pamięć.md",
+        "wordCountStart": 104,
+        "charCountStart": 787,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 22,
+            "c": 182
+          },
+          {
+            "timeKey": "20:45",
+            "w": -3,
+            "c": -37
+          }
+        ],
+        "id": 1418
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Pożądanie.md",
+        "wordCountStart": 5,
+        "charCountStart": 56,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 19,
+            "c": 150
+          }
+        ],
+        "id": 1419
       }
     ]
   }
