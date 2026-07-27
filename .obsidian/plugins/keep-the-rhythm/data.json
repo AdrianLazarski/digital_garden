@@ -85,7 +85,8 @@
       "2026-07-20",
       "2026-07-21",
       "2026-07-23",
-      "2026-07-25"
+      "2026-07-25",
+      "2026-07-27"
     ],
     "dailyActivity": [
       {
@@ -573,7 +574,7 @@
       },
       {
         "date": "2026-04-24",
-        "filePath": "06 Language lab/02 Atomy angielski/Present Perfect Continious.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Present Perfect Continious.md",
         "wordCountStart": 252,
         "charCountStart": 1601,
         "changes": [],
@@ -2042,7 +2043,7 @@
       },
       {
         "date": "2026-06-20",
-        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/1. Ewangelia św. Mateusza.md",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Mateusza.md",
         "wordCountStart": 126,
         "charCountStart": 796,
         "changes": [],
@@ -2050,7 +2051,7 @@
       },
       {
         "date": "2026-06-20",
-        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/2. Ewangelia św. Marka.md",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Marka.md",
         "wordCountStart": 70,
         "charCountStart": 537,
         "changes": [],
@@ -2058,7 +2059,7 @@
       },
       {
         "date": "2026-06-20",
-        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/4. Ewangelia św. Jana.md",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Jana.md",
         "wordCountStart": 53,
         "charCountStart": 443,
         "changes": [],
@@ -2160,7 +2161,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/01 MOC Angielski/MOC Czasy angielskie.md",
+        "filePath": "07 Language lab/01 MOC Angielski/MOC Czasy angielskie.md",
         "wordCountStart": 51,
         "charCountStart": 474,
         "changes": [],
@@ -2168,7 +2169,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Past Perfect.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Past Perfect.md",
         "wordCountStart": 204,
         "charCountStart": 1284,
         "changes": [],
@@ -2176,7 +2177,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Past Simple vs Past Perfect.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Past Simple vs Past Perfect.md",
         "wordCountStart": 28,
         "charCountStart": 201,
         "changes": [],
@@ -2184,7 +2185,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Present Perfect Continious.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Present Perfect Continious.md",
         "wordCountStart": 252,
         "charCountStart": 1601,
         "changes": [],
@@ -2192,7 +2193,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Present Continious vs Present Perfect Continios.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Present Continious vs Present Perfect Continios.md",
         "wordCountStart": 48,
         "charCountStart": 358,
         "changes": [],
@@ -2200,7 +2201,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Past Perfect Continious.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Past Perfect Continious.md",
         "wordCountStart": 89,
         "charCountStart": 587,
         "changes": [],
@@ -2208,7 +2209,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Past Simple.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Past Simple.md",
         "wordCountStart": 298,
         "charCountStart": 1821,
         "changes": [
@@ -2222,7 +2223,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Past Continious.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Past Continious.md",
         "wordCountStart": 238,
         "charCountStart": 1453,
         "changes": [],
@@ -2230,7 +2231,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Future Perfect.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Future Perfect.md",
         "wordCountStart": 88,
         "charCountStart": 612,
         "changes": [
@@ -2244,7 +2245,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Future Simple.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Future Simple.md",
         "wordCountStart": 161,
         "charCountStart": 1119,
         "changes": [],
@@ -2252,7 +2253,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Future Simple.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Future Simple.md",
         "wordCountStart": 161,
         "charCountStart": 1119,
         "changes": [],
@@ -2260,7 +2261,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Future Continious.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Future Continious.md",
         "wordCountStart": 106,
         "charCountStart": 737,
         "changes": [],
@@ -2268,7 +2269,7 @@
       },
       {
         "date": "2026-06-22",
-        "filePath": "06 Language lab/02 Atomy angielski/Future Continious.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Future Continious.md",
         "wordCountStart": 106,
         "charCountStart": 737,
         "changes": [],
@@ -2276,7 +2277,7 @@
       },
       {
         "date": "2026-06-22",
-        "filePath": "06 Language lab/02 Atomy angielski/Future Simple.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Future Simple.md",
         "wordCountStart": 161,
         "charCountStart": 1119,
         "changes": [],
@@ -5938,7 +5939,7 @@
       },
       {
         "date": "2026-07-08",
-        "filePath": "06 Language lab/English grammar.md",
+        "filePath": "07 Language lab/English grammar.md",
         "wordCountStart": 242,
         "charCountStart": 962,
         "changes": [],
@@ -18411,6 +18412,16 @@
             "timeKey": "17:40",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "18:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:50",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 1270
@@ -19742,6 +19753,11 @@
             "timeKey": "18:15",
             "w": 22,
             "c": 171
+          },
+          {
+            "timeKey": "18:45",
+            "w": 1,
+            "c": 9
           }
         ],
         "id": 1366
@@ -19762,7 +19778,7 @@
       },
       {
         "date": "2026-07-27",
-        "filePath": "02 MOC/MOC Religia/MOC Chrześcijaństwo.md",
+        "filePath": "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -19770,13 +19786,18 @@
             "timeKey": "18:15",
             "w": 24,
             "c": 208
+          },
+          {
+            "timeKey": "18:50",
+            "w": -1,
+            "c": -12
           }
         ],
         "id": 1368
       },
       {
         "date": "2026-07-27",
-        "filePath": "02 MOC/MOC Religia/MOC Literatura chrześcijańska.md",
+        "filePath": "02 MOC/MOC Chrześcijaństwo/MOC Literatura chrześcijańska.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -19789,6 +19810,11 @@
             "timeKey": "18:25",
             "w": 24,
             "c": 180
+          },
+          {
+            "timeKey": "18:50",
+            "w": 10,
+            "c": 99
           }
         ],
         "id": 1369
@@ -19813,6 +19839,11 @@
             "timeKey": "18:40",
             "w": -1,
             "c": -8
+          },
+          {
+            "timeKey": "18:45",
+            "w": 2,
+            "c": 17
           }
         ],
         "id": 1370
@@ -19827,6 +19858,11 @@
             "timeKey": "18:25",
             "w": 21,
             "c": 152
+          },
+          {
+            "timeKey": "18:45",
+            "w": 3,
+            "c": 33
           }
         ],
         "id": 1371
@@ -19841,6 +19877,11 @@
             "timeKey": "18:25",
             "w": 19,
             "c": 148
+          },
+          {
+            "timeKey": "18:45",
+            "w": 1,
+            "c": 11
           }
         ],
         "id": 1372
@@ -19855,9 +19896,179 @@
             "timeKey": "18:25",
             "w": 19,
             "c": 148
+          },
+          {
+            "timeKey": "18:45",
+            "w": 1,
+            "c": 11
           }
         ],
         "id": 1373
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Mateusza.md",
+        "wordCountStart": 126,
+        "charCountStart": 796,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 20,
+            "c": 267
+          },
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1374
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Chrześcijaństwo/MOC Nowy testament.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 26,
+            "c": 203
+          },
+          {
+            "timeKey": "18:55",
+            "w": 8,
+            "c": 57
+          },
+          {
+            "timeKey": "19:30",
+            "w": 4,
+            "c": 29
+          }
+        ],
+        "id": 1375
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Jana.md",
+        "wordCountStart": 53,
+        "charCountStart": 443,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 21,
+            "c": 148
+          }
+        ],
+        "id": 1376
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Łukasza.md",
+        "wordCountStart": 103,
+        "charCountStart": 630,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 21,
+            "c": 149
+          }
+        ],
+        "id": 1377
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Marka.md",
+        "wordCountStart": 70,
+        "charCountStart": 537,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 21,
+            "c": 150
+          }
+        ],
+        "id": 1378
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Jan Ewangelista.md",
+        "wordCountStart": 1,
+        "charCountStart": 23,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 20,
+            "c": 162
+          },
+          {
+            "timeKey": "19:40",
+            "w": 1,
+            "c": -8
+          }
+        ],
+        "id": 1379
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Łukasz Ewangelista.md",
+        "wordCountStart": 1,
+        "charCountStart": 22,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 20,
+            "c": 154
+          },
+          {
+            "timeKey": "19:40",
+            "w": 1,
+            "c": 1
+          }
+        ],
+        "id": 1380
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Chrześcijaństwo/MOC Stary testament.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 22,
+            "c": 172
+          }
+        ],
+        "id": 1381
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Marek Ewangelista.md",
+        "wordCountStart": 1,
+        "charCountStart": 23,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 21,
+            "c": 155
+          }
+        ],
+        "id": 1382
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Mateusz Ewangelista.md",
+        "wordCountStart": 19,
+        "charCountStart": 157,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 3,
+            "c": 22
+          }
+        ],
+        "id": 1383
       }
     ]
   }

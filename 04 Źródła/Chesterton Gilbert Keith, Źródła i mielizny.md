@@ -2,9 +2,9 @@
 created: 2026-02-28 19:46
 tags:
   - ref
-  - chrześcijaństwo
+  - chrześcijaństwo/apologetyka
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-27 18:27
 year: "1935"
 ---

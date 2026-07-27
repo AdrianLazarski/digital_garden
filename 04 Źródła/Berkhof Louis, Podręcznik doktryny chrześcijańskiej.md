@@ -1,7 +1,8 @@
 ---
 created: 2024-06-09 14:27
 tags:
-  - chrześcijaństwo
+  - chrześcijaństwo/teologia
+  - ref
 year: "1933"
 modified date: 2025-11-22 21:17
 ---

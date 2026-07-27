@@ -85,7 +85,8 @@
       "2026-07-20",
       "2026-07-21",
       "2026-07-23",
-      "2026-07-25"
+      "2026-07-25",
+      "2026-07-27"
     ],
     "dailyActivity": [
       {
@@ -573,7 +574,7 @@
       },
       {
         "date": "2026-04-24",
-        "filePath": "06 Language lab/02 Atomy angielski/Present Perfect Continious.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Present Perfect Continious.md",
         "wordCountStart": 252,
         "charCountStart": 1601,
         "changes": [],
@@ -2042,7 +2043,7 @@
       },
       {
         "date": "2026-06-20",
-        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/1. Ewangelia św. Mateusza.md",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Mateusza.md",
         "wordCountStart": 126,
         "charCountStart": 796,
         "changes": [],
@@ -2050,7 +2051,7 @@
       },
       {
         "date": "2026-06-20",
-        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/2. Ewangelia św. Marka.md",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Marka.md",
         "wordCountStart": 70,
         "charCountStart": 537,
         "changes": [],
@@ -2058,7 +2059,7 @@
       },
       {
         "date": "2026-06-20",
-        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/4. Ewangelia św. Jana.md",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Jana.md",
         "wordCountStart": 53,
         "charCountStart": 443,
         "changes": [],
@@ -2160,7 +2161,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/01 MOC Angielski/MOC Czasy angielskie.md",
+        "filePath": "07 Language lab/01 MOC Angielski/MOC Czasy angielskie.md",
         "wordCountStart": 51,
         "charCountStart": 474,
         "changes": [],
@@ -2168,7 +2169,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Past Perfect.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Past Perfect.md",
         "wordCountStart": 204,
         "charCountStart": 1284,
         "changes": [],
@@ -2176,7 +2177,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Past Simple vs Past Perfect.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Past Simple vs Past Perfect.md",
         "wordCountStart": 28,
         "charCountStart": 201,
         "changes": [],
@@ -2184,7 +2185,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Present Perfect Continious.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Present Perfect Continious.md",
         "wordCountStart": 252,
         "charCountStart": 1601,
         "changes": [],
@@ -2192,7 +2193,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Present Continious vs Present Perfect Continios.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Present Continious vs Present Perfect Continios.md",
         "wordCountStart": 48,
         "charCountStart": 358,
         "changes": [],
@@ -2200,7 +2201,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Past Perfect Continious.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Past Perfect Continious.md",
         "wordCountStart": 89,
         "charCountStart": 587,
         "changes": [],
@@ -2208,7 +2209,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Past Simple.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Past Simple.md",
         "wordCountStart": 298,
         "charCountStart": 1821,
         "changes": [
@@ -2222,7 +2223,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Past Continious.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Past Continious.md",
         "wordCountStart": 238,
         "charCountStart": 1453,
         "changes": [],
@@ -2230,7 +2231,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Future Perfect.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Future Perfect.md",
         "wordCountStart": 88,
         "charCountStart": 612,
         "changes": [
@@ -2244,7 +2245,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Future Simple.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Future Simple.md",
         "wordCountStart": 161,
         "charCountStart": 1119,
         "changes": [],
@@ -2252,7 +2253,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Future Simple.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Future Simple.md",
         "wordCountStart": 161,
         "charCountStart": 1119,
         "changes": [],
@@ -2260,7 +2261,7 @@
       },
       {
         "date": "2026-06-21",
-        "filePath": "06 Language lab/02 Atomy angielski/Future Continious.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Future Continious.md",
         "wordCountStart": 106,
         "charCountStart": 737,
         "changes": [],
@@ -2268,7 +2269,7 @@
       },
       {
         "date": "2026-06-22",
-        "filePath": "06 Language lab/02 Atomy angielski/Future Continious.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Future Continious.md",
         "wordCountStart": 106,
         "charCountStart": 737,
         "changes": [],
@@ -2276,7 +2277,7 @@
       },
       {
         "date": "2026-06-22",
-        "filePath": "06 Language lab/02 Atomy angielski/Future Simple.md",
+        "filePath": "07 Language lab/02 Atomy angielski/Future Simple.md",
         "wordCountStart": 161,
         "charCountStart": 1119,
         "changes": [],
@@ -5938,7 +5939,7 @@
       },
       {
         "date": "2026-07-08",
-        "filePath": "06 Language lab/English grammar.md",
+        "filePath": "07 Language lab/English grammar.md",
         "wordCountStart": 242,
         "charCountStart": 962,
         "changes": [],
@@ -18392,9 +18393,1677 @@
             "timeKey": "17:10",
             "w": 2,
             "c": 13
+          },
+          {
+            "timeKey": "17:40",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 1269
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "Skróty klawiszowe.md",
+        "wordCountStart": 204,
+        "charCountStart": 1888,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1270
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/de Maistre Joseph, Wieczory petersburskie.md",
+        "wordCountStart": 1049,
+        "charCountStart": 7128,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1271
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Feuerbach Ludwig, Wykłady o istocie religii.md",
+        "wordCountStart": 15563,
+        "charCountStart": 107258,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1272
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
+        "wordCountStart": 175,
+        "charCountStart": 1434,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1273
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Hegel, Kto myśli abstrakcyjnie.md",
+        "wordCountStart": 164,
+        "charCountStart": 1169,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1274
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Kant Immanuel, Krytyka czystego rozumu.md",
+        "wordCountStart": 61,
+        "charCountStart": 459,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1275
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Lichtenberg Georg Christoph, Aforyzmy.md",
+        "wordCountStart": 257,
+        "charCountStart": 1739,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1276
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Ludzkie arcyludzkie.md",
+        "wordCountStart": 4305,
+        "charCountStart": 29399,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1277
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Narodziny tragedii albo Grecy i pesymizm.md",
+        "wordCountStart": 2650,
+        "charCountStart": 19092,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1278
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Nietzsche Friedrich, Wędrowiec i jego cień.md",
+        "wordCountStart": 375,
+        "charCountStart": 2553,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1279
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Proudhon Pierre-Joseph, Co to jest własność.md",
+        "wordCountStart": 748,
+        "charCountStart": 5119,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1280
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Schopenhauer Arthur, Aforyzmy o mądrości życia.md",
+        "wordCountStart": 66,
+        "charCountStart": 469,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1281
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Schopenhauer Arthur, Chwyty erystyczne.md",
+        "wordCountStart": 1225,
+        "charCountStart": 8795,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1282
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Schopenhauer Arthur, Świat jako wola i przedstawienie.md",
+        "wordCountStart": 46,
+        "charCountStart": 363,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1283
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Smith Adam, Teoria uczuć moralnych.md",
+        "wordCountStart": 72,
+        "charCountStart": 554,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1284
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/3. Nowożytność (do 1900)/Thoreau Henry David, O obywatelskim nieposłuszeństwie.md",
+        "wordCountStart": 465,
+        "charCountStart": 3378,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1285
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Abelard Piotr, Rozprawa o pojęciach ogólnych.md",
+        "wordCountStart": 431,
+        "charCountStart": 3104,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1286
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Alkuin, O cnotach i wadach.md",
+        "wordCountStart": 230,
+        "charCountStart": 1607,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 1287
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Anzelm z Canterbury, Proslogion.md",
+        "wordCountStart": 260,
+        "charCountStart": 1799,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1288
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Etyka nikomachejska.md",
+        "wordCountStart": 172,
+        "charCountStart": 1207,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 3,
+            "c": 13
+          }
+        ],
+        "id": 1289
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Fizyka.md",
+        "wordCountStart": 33,
+        "charCountStart": 273,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1290
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Arystoteles, Metafizyka.md",
+        "wordCountStart": 555,
+        "charCountStart": 3809,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1291
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bacon Franciszek, Novum organum.md",
+        "wordCountStart": 346,
+        "charCountStart": 2509,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1292
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bacon Roger, Opus Maius.md",
+        "wordCountStart": 175,
+        "charCountStart": 1280,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1293
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bernard z Clairvaux, O 12 stopniach pokory i pychy.md",
+        "wordCountStart": 800,
+        "charCountStart": 5293,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1294
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Bonawentura, O sprowadzaniu sztuk do filozofii.md",
+        "wordCountStart": 210,
+        "charCountStart": 1655,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1295
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Damiani Piotr, O wszechmocy Bożej.md",
+        "wordCountStart": 169,
+        "charCountStart": 1206,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1296
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Fredegizjusz z Tours, List o nicości i ciemnościach.md",
+        "wordCountStart": 128,
+        "charCountStart": 904,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 1297
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Hugon ze św. Wiktora, O tym, że miłość Boga jest życiem serca.md",
+        "wordCountStart": 107,
+        "charCountStart": 764,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1298
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Machiavelli Nicollo, Książę.md",
+        "wordCountStart": 1392,
+        "charCountStart": 9331,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1299
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Marek Aureliusz, Rozmyślania.md",
+        "wordCountStart": 1133,
+        "charCountStart": 7183,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 1300
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Pico della Mirandola Giovanni, Mowa o godności człowieka.md",
+        "wordCountStart": 451,
+        "charCountStart": 3260,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1301
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Eutyfron.md",
+        "wordCountStart": 522,
+        "charCountStart": 3357,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1302
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fajdros.md",
+        "wordCountStart": 93,
+        "charCountStart": 614,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1303
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Fedon.md",
+        "wordCountStart": 32,
+        "charCountStart": 244,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1304
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Gorgiasz.md",
+        "wordCountStart": 25,
+        "charCountStart": 194,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1305
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Kriton.md",
+        "wordCountStart": 310,
+        "charCountStart": 2167,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1306
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Obrona Sokratesa.md",
+        "wordCountStart": 166,
+        "charCountStart": 1115,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1307
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Państwo.md",
+        "wordCountStart": 6505,
+        "charCountStart": 43817,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1308
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Protagoras.md",
+        "wordCountStart": 40,
+        "charCountStart": 304,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1309
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Timaios.md",
+        "wordCountStart": 25,
+        "charCountStart": 198,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1310
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Platon, Uczta.md",
+        "wordCountStart": 27,
+        "charCountStart": 204,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1311
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Ryszard ze św. Wiktora, Beniamin maior.md",
+        "wordCountStart": 338,
+        "charCountStart": 2460,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1312
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Siger z Brabantu, Zagadnienia moralne.md",
+        "wordCountStart": 126,
+        "charCountStart": 915,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1313
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Teodoryk z Chartres, Traktat o dziełach sześciu dni.md",
+        "wordCountStart": 331,
+        "charCountStart": 2342,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1314
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/2. Do XVI wieku/Tomasz z Akwinu, Traktat o Bogu.md",
+        "wordCountStart": 167,
+        "charCountStart": 1104,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1315
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "04 Źródła/Dzieła filozoficzne/1. Artykuły (1900+)/Andrzejuk Artur, Józefa M. Bocheńskiego koncepcja historii filozofii.md",
+        "wordCountStart": 3907,
+        "charCountStart": 29623,
+        "changes": [],
+        "id": 1316
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Bagus Phliip, Era Mileia.md",
+        "wordCountStart": 0,
+        "charCountStart": 1,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 23,
+            "c": 182
+          }
+        ],
+        "id": 1317
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Ballve Faustino, Elementarz ekonomii.md",
+        "wordCountStart": 619,
+        "charCountStart": 4788,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1318
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+        "wordCountStart": 307,
+        "charCountStart": 2436,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 6,
+            "c": 38
+          },
+          {
+            "timeKey": "18:00",
+            "w": 7,
+            "c": 56
+          }
+        ],
+        "id": 1319
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Bastiat Frederic, Pamflety.md",
+        "wordCountStart": 2425,
+        "charCountStart": 17389,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": -90,
+            "c": -440
+          }
+        ],
+        "id": 1320
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Brayan, Otwarte granice.md",
+        "wordCountStart": 1307,
+        "charCountStart": 9163,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1321
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Edukacja pod lupą.md",
+        "wordCountStart": 977,
+        "charCountStart": 6915,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1322
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci.md",
+        "wordCountStart": 1694,
+        "charCountStart": 11592,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1323
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Caplan Bryan, Mit racjonalnego wyborcy.md",
+        "wordCountStart": 5007,
+        "charCountStart": 37043,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1324
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/de Jouvenel Bertrand, Redystrybucja. Grabież czy ignorancja.md",
+        "wordCountStart": 540,
+        "charCountStart": 3955,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1325
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Epstein Alex, Przyszłość paliw kopalnych.md",
+        "wordCountStart": 321,
+        "charCountStart": 2357,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1326
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Foss, Klein, Organizowanie działania przedsiębiorczego.md",
+        "wordCountStart": 1133,
+        "charCountStart": 9006,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1327
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Hayek, Denacjonalizacja pieniądza.md",
+        "wordCountStart": 1883,
+        "charCountStart": 13687,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1328
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Hayek, Denacjonalizacja pieniądza.md",
+        "wordCountStart": 1883,
+        "charCountStart": 13687,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1329
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Hayek, Nadużycie rozumu.md",
+        "wordCountStart": 5130,
+        "charCountStart": 38343,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": -6,
+            "c": -140
+          }
+        ],
+        "id": 1330
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Hülsmann Jörg Guido, Etyka produkcji pieniądza.md",
+        "wordCountStart": 294,
+        "charCountStart": 2242,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1331
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Instytut Misesa - Polska mitologia kapitału. Czy jesteśmy kolonią zachodu.md",
+        "wordCountStart": 873,
+        "charCountStart": 5839,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1332
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii.md",
+        "wordCountStart": 5381,
+        "charCountStart": 38055,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1333
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Juruś Dariusz, Dzieje własności prywatnej.md",
+        "wordCountStart": 1799,
+        "charCountStart": 13005,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1334
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Kaiser Axel, Uliczny ekonomista.md",
+        "wordCountStart": 824,
+        "charCountStart": 5803,
+        "changes": [],
+        "id": 1335
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Majcherek Janusz, Źródła bogactwa i biedy ludzi oraz ich zbiorowości.md",
+        "wordCountStart": 1153,
+        "charCountStart": 8836,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1336
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Burżuazyjna godność.md",
+        "wordCountStart": 189,
+        "charCountStart": 1400,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1337
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+        "wordCountStart": 1688,
+        "charCountStart": 12789,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1338
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Menger Carl, Zasady ekonomii.md",
+        "wordCountStart": 34,
+        "charCountStart": 255,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 1339
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Biurokracja.md",
+        "wordCountStart": 2732,
+        "charCountStart": 20242,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1340
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Kalkulacja ekonomiczna w socjalizmie.md",
+        "wordCountStart": 900,
+        "charCountStart": 6787,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1341
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Ludzkie działanie.md",
+        "wordCountStart": 8682,
+        "charCountStart": 65569,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 1,
+            "c": 6
+          }
+        ],
+        "id": 1342
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Planowany Chaos.md",
+        "wordCountStart": 2703,
+        "charCountStart": 20310,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1343
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Mises Ludwig von, Teoria a historia.md",
+        "wordCountStart": 5033,
+        "charCountStart": 37618,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1344
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Murphy Robert P., Niepoprawny politycznie przewodnik po kapitalizmie.md",
+        "wordCountStart": 1496,
+        "charCountStart": 11022,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1345
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Norberg Johan, Manifest kapitalistyczny.md",
+        "wordCountStart": 4025,
+        "charCountStart": 27932,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 1102,
+            "c": 7817
+          }
+        ],
+        "id": 1346
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/PAWS, Średniowieczne korzenie wolnego rynku.md",
+        "wordCountStart": 337,
+        "charCountStart": 2429,
+        "changes": [],
+        "id": 1347
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Piketty, Thomas.md",
+        "wordCountStart": 327,
+        "charCountStart": 2313,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 19,
+            "c": 140
+          }
+        ],
+        "id": 1348
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Reed Lawrence W., 52 mity o kapitalizmie.md",
+        "wordCountStart": 2168,
+        "charCountStart": 15499,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1349
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Rothbard Murray, Economic Thought Before Adam Smith.md",
+        "wordCountStart": 317,
+        "charCountStart": 2459,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1350
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Rothbard Murray, Ekonomiczny punkt widzenia.md",
+        "wordCountStart": 473,
+        "charCountStart": 3396,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1351
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Rothbard, Wall Street, banki i amerykańska polityka zagraniczna.md",
+        "wordCountStart": 250,
+        "charCountStart": 1840,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1352
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
+        "wordCountStart": 17868,
+        "charCountStart": 129198,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": -182,
+            "c": -1080
+          }
+        ],
+        "id": 1353
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Smith Adam, Badania nad naturą i przyczynami bogactwa narodów.md",
+        "wordCountStart": 74,
+        "charCountStart": 550,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1354
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
+        "wordCountStart": 3867,
+        "charCountStart": 27363,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1355
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Woods Thomas E., Kościół a wolny rynek.md",
+        "wordCountStart": 1243,
+        "charCountStart": 8924,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1356
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Wstęp do ASE.md",
+        "wordCountStart": 4925,
+        "charCountStart": 37160,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1357
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Wstęp do ASE.md",
+        "wordCountStart": 4925,
+        "charCountStart": 37160,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1358
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Ekonomia/Dzieła/Zitelmann Rainer, Wzlot orła białego.md",
+        "wordCountStart": 716,
+        "charCountStart": 5023,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 1,
+            "c": 6
+          }
+        ],
+        "id": 1359
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Socjologia/Dzieła socjologiczne/Szacki Jerzy, Historia myśli socjologicznej.md",
+        "wordCountStart": 842,
+        "charCountStart": 6352,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 1360
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Socjologia/Dzieła socjologiczne/Szahaj Andrzej, Ponowoczesność i postmodernizm dla średniozaawansowanych.md",
+        "wordCountStart": 2131,
+        "charCountStart": 21391,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": -4,
+            "c": -53
+          }
+        ],
+        "id": 1361
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Psychologia/Dzieła/Ariely Dan, Payoff Ukryta logika kształtująca naszą motywację.md",
+        "wordCountStart": 220,
+        "charCountStart": 1473,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 21,
+            "c": 154
+          }
+        ],
+        "id": 1362
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Psychologia/MOC Dzieła psychologiczne.md",
+        "wordCountStart": 26,
+        "charCountStart": 200,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 16,
+            "c": 116
+          }
+        ],
+        "id": 1363
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Psychologia/Dzieła/Haidt Jonathan, Prawy umysł.md",
+        "wordCountStart": 8927,
+        "charCountStart": 64443,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": -892,
+            "c": -4219
+          }
+        ],
+        "id": 1364
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Matematyka/Książki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
+        "wordCountStart": 302,
+        "charCountStart": 1512,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 18,
+            "c": 132
+          }
+        ],
+        "id": 1365
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Książki/Benedykt z Nursji, Reguła świętego Benedykta.md",
+        "wordCountStart": 1376,
+        "charCountStart": 9139,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 22,
+            "c": 171
+          },
+          {
+            "timeKey": "18:45",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 1366
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Religia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 22,
+            "c": 178
+          }
+        ],
+        "id": 1367
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 24,
+            "c": 208
+          },
+          {
+            "timeKey": "18:50",
+            "w": -1,
+            "c": -12
+          }
+        ],
+        "id": 1368
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Chrześcijaństwo/MOC Literatura chrześcijańska.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 27,
+            "c": 215
+          },
+          {
+            "timeKey": "18:25",
+            "w": 24,
+            "c": 180
+          },
+          {
+            "timeKey": "18:50",
+            "w": 10,
+            "c": 99
+          }
+        ],
+        "id": 1369
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Książki/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+        "wordCountStart": 1431,
+        "charCountStart": 8605,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 2,
+            "c": 8
+          },
+          {
+            "timeKey": "18:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:40",
+            "w": -1,
+            "c": -8
+          },
+          {
+            "timeKey": "18:45",
+            "w": 2,
+            "c": 17
+          }
+        ],
+        "id": 1370
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Książki/Caroll Warren, Historia chrześcijaństwa 1.md",
+        "wordCountStart": 12895,
+        "charCountStart": 87715,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 21,
+            "c": 152
+          },
+          {
+            "timeKey": "18:45",
+            "w": 3,
+            "c": 33
+          }
+        ],
+        "id": 1371
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Książki/Chesterton Gilbert Keith, Źródła i mielizny.md",
+        "wordCountStart": 304,
+        "charCountStart": 2238,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 19,
+            "c": 148
+          },
+          {
+            "timeKey": "18:45",
+            "w": 1,
+            "c": 11
+          }
+        ],
+        "id": 1372
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Książki/Chesterton Gilbert Keith, Źródła i mielizny.md",
+        "wordCountStart": 304,
+        "charCountStart": 2238,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 19,
+            "c": 148
+          },
+          {
+            "timeKey": "18:45",
+            "w": 1,
+            "c": 11
+          }
+        ],
+        "id": 1373
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Mateusza.md",
+        "wordCountStart": 126,
+        "charCountStart": 796,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 20,
+            "c": 267
+          },
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1374
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Chrześcijaństwo/MOC Nowy testament.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 26,
+            "c": 203
+          },
+          {
+            "timeKey": "18:55",
+            "w": 8,
+            "c": 57
+          },
+          {
+            "timeKey": "19:30",
+            "w": 4,
+            "c": 29
+          }
+        ],
+        "id": 1375
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Jana.md",
+        "wordCountStart": 53,
+        "charCountStart": 443,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 21,
+            "c": 148
+          }
+        ],
+        "id": 1376
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Łukasza.md",
+        "wordCountStart": 103,
+        "charCountStart": 630,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 21,
+            "c": 149
+          }
+        ],
+        "id": 1377
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Marka.md",
+        "wordCountStart": 70,
+        "charCountStart": 537,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 21,
+            "c": 150
+          }
+        ],
+        "id": 1378
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Jan Ewangelista.md",
+        "wordCountStart": 1,
+        "charCountStart": 23,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 20,
+            "c": 162
+          },
+          {
+            "timeKey": "19:40",
+            "w": 1,
+            "c": -8
+          }
+        ],
+        "id": 1379
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Łukasz Ewangelista.md",
+        "wordCountStart": 1,
+        "charCountStart": 22,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 20,
+            "c": 154
+          },
+          {
+            "timeKey": "19:40",
+            "w": 1,
+            "c": 1
+          }
+        ],
+        "id": 1380
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Chrześcijaństwo/MOC Stary testament.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 22,
+            "c": 172
+          }
+        ],
+        "id": 1381
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Marek Ewangelista.md",
+        "wordCountStart": 1,
+        "charCountStart": 23,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 21,
+            "c": 155
+          }
+        ],
+        "id": 1382
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Mateusz Ewangelista.md",
+        "wordCountStart": 19,
+        "charCountStart": 157,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 3,
+            "c": 22
+          }
+        ],
+        "id": 1383
       }
     ]
   }

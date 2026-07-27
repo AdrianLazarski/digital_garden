@@ -11,24 +11,10 @@
             "id": "6a0cdff69826adcc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Chrześcijaństwo/Książki/Chesterton Gilbert Keith, Źródła i mielizny.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chesterton Gilbert Keith, Źródła i mielizny"
+              "title": "Nowa karta"
             }
           },
           {
@@ -37,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Chrześcijaństwo/Książki/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "file": "02 MOC/MOC Chrześcijaństwo/MOC Literatura chrześcijańska.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +38,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
+              "title": "MOC Literatura chrześcijańska"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,13 +177,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Chrześcijaństwo/Książki/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
+              "title": "Konspekt"
             }
           }
         ],
@@ -274,15 +258,26 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "96ad3db4b0b41e8e",
+  "active": "6a0cdff69826adcc",
   "lastOpenFiles": [
-    "02 MOC/MOC Religia/MOC Literatura chrześcijańska.md",
-    "01 Input przejściowy/Chrześcijaństwo/Książki/Chesterton Gilbert Keith, Źródła i mielizny.md",
-    "01 Input przejściowy/Chrześcijaństwo/Książki/Caroll Warren, Historia chrześcijaństwa 1.md",
-    "01 Input przejściowy/Chrześcijaństwo/Książki/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-    "01 Input przejściowy/Chrześcijaństwo/Książki/Benedykt z Nursji, Reguła świętego Benedykta.md",
-    "02 MOC/MOC Religia/MOC Chrześcijaństwo.md",
+    "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Marek Ewangelista.md",
+    "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Łukasz Ewangelista.md",
+    "01 Input przejściowy/Chrześcijaństwo/Biblia/Postacie biblijne i historyczne/Jan Ewangelista.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Literatura chrześcijańska.md",
+    "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Marka.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Nowy testament.md",
+    "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Mateusza.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Stary testament.md",
+    "05 Ludzie",
+    "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Łukasza.md",
+    "01 Input przejściowy/Chrześcijaństwo/Biblia/Księgi biblijne/MOC Ewangelia św. Jana.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
     "02 MOC/MOC Religia.md",
+    "01 Input przejściowy/Chrześcijaństwo/Książki/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+    "02 MOC/MOC Chrześcijaństwo",
+    "01 Input przejściowy/Chrześcijaństwo/Książki/Benedykt z Nursji, Reguła świętego Benedykta.md",
+    "01 Input przejściowy/Chrześcijaństwo/Książki/Caroll Warren, Historia chrześcijaństwa 1.md",
+    "01 Input przejściowy/Chrześcijaństwo/Książki/Chesterton Gilbert Keith, Źródła i mielizny.md",
     "01 Input przejściowy/Matematyka/Książki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "02 MOC/MOC Psychologia/MOC Dzieła psychologiczne.md",
     "01 Input przejściowy/Psychologia/Dzieła/Haidt Jonathan, Prawy umysł.md",
@@ -293,15 +288,6 @@
     "01 Input przejściowy/Ekonomia/Dzieła/Zitelmann Rainer, Wzlot orła białego.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Wstęp do ASE.md",
     "01 Input przejściowy/Ekonomia/Dzieła/Woods Thomas E., Kościół a wolny rynek.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Tupy, Pooley, Superobfitość.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Smith Adam, Badania nad naturą i przyczynami bogactwa narodów.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Skousen Mark, Narodziny współczesnej ekonomii.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Rothbard, Wall Street, banki i amerykańska polityka zagraniczna.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Rothbard Murray, Ekonomiczny punkt widzenia.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Rothbard Murray, Economic Thought Before Adam Smith.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/Reed Lawrence W., 52 mity o kapitalizmie.md",
-    "01 Input przejściowy/Piketty, Thomas.md",
-    "01 Input przejściowy/Ekonomia/Dzieła/PAWS, Średniowieczne korzenie wolnego rynku.md",
     "01 Input przejściowy/załączniki/Realny PKB per capita w Polsce.webp",
     "04 Źródła/załączniki/Lacalle, MMT to ekonomia kłamstw.webp",
     "04 Źródła/załączniki",

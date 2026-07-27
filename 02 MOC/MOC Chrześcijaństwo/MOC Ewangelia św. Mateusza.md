@@ -1,20 +1,28 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - chrześcijaństwo/biblia
+  - moc
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-07-27 18:48
+---
 
-| Czas powstania: | 40-80 AD |
-| ---- | ---- |
-| Siglum protestanckie | Mat. |
-| Siglum katolickie | Mt |
-| Typ księgi: | Historyczna |
-| Autor (oficjalny): | [[Mateusz Ewangelista]] |
+| Czas powstania:      | 40-80 AD                |
+| -------------------- | ----------------------- |
+| Siglum protestanckie | Mat.                    |
+| Siglum katolickie    | Mt                      |
+| Typ księgi:          | Historyczna             |
+| Autor (oficjalny):   | [[Mateusz Ewangelista]] |
 
-#### Ogólne informacje
+# Ogólne informacje
 
 - Ewangelia [synoptyczna](obsidian://open?vault=Obsidian%20Vault&file=Chrze%C5%9Bcija%C5%84stwo%E2%9C%9D%EF%B8%8F%2FEwangelie%20synoptyczne)
 - Prawdopodobnie pisana dla Żydów. Najczęściej nawiązuje do ST oraz zwyczajów żydowskich.
 - Tradycyjnie uważano, że to pierwsza ewangelia jaka powstała, ale współcześnie sądzi się, że Mateusz napisał ją na podstawie [ewangelii Marka](obsidian://open?vault=Obsidian%20Vault&file=Chrze%C5%9Bcija%C5%84stwo%E2%9C%9D%EF%B8%8F%2FKsi%C4%99gi%20biblijne%2F2.%20Ewangelia%20%C5%9Bw.%20Marka) i źródła Q. 
 
 
-#### Najważniejsze wątki
+# Najważniejsze wątki
 
 
 
-#chrześcijaństwo 
