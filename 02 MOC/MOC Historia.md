@@ -13,3 +13,5 @@ modified date: 2026-07-03 16:00
 [[MOC Historie narodów]]
 
 [[MOC Książki historyczne]]
+
+[[MOC Historia nauki]]

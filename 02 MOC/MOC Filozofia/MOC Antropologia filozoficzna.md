@@ -19,7 +19,7 @@ modified date: 2026-07-06 20:14
 [[Pożądanie]]
 [[Praca]]
 [[Psychologia filozoficzna]]
-[[Sumienie]]
+[[MOC Sumienie]]
 [[Szczęście]]
 [[Twórczość]]
 [[Wola]]

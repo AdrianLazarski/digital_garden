@@ -3,6 +3,7 @@ created: 2024-06-15 18:59
 tags:
   - logika/matematyczna
   - atom
+  - logika/formalna
 modified date: 2025-11-23 21:03
 ---
 

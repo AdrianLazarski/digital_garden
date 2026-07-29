@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - logika/formalna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-29 21:15
+---
 
 
 - Przez długi czas myślano, że sylogistyka to cała logika (właściwie do początku XX wieku tj. +-1920 r.) i że logika to skończony zbiór reguł wnioskowania.
@@ -63,4 +73,3 @@ IV Prawa sprzeczności
 
 
 
-#logika #filozofia 

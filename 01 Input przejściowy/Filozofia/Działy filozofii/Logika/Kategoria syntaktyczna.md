@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - logika/semiotyka/składnia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-29 22:02
+---
 
 Pojęcie wprowadzone przez [[Edmund Husserl|Edmunda Husserla]].
 
@@ -21,4 +31,3 @@ Spójniki - funktory zdaniotwórcze od wyłącznie zdań
 Spójnik prawdziwościowy – taki, że wartość logiczna zdania, które ono tworzy, jest zależna od wyłącznie wartości logicznych jego argumentów (a nie od ich treści).
 Nie ma więcej niż 4 jednoargumentowych spójników prawdziwościowych.
 
-#logika #filozofia #logika/semiotyka 

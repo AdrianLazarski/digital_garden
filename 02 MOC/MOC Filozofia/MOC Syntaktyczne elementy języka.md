@@ -2,7 +2,7 @@
 created: 2026-07-13 12:07
 tags:
   - moc
-  - logika
+  - logika/formalna
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-13 12:07
@@ -14,3 +14,4 @@ modified date: 2026-07-13 12:07
 [[Operator]] 
 [[Zdanie]] 
 [[Term]] 
+[[Język]]

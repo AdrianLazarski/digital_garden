@@ -18,4 +18,5 @@ modified date: 2026-07-03 15:59
 [[Kultura]]
 [[Rozwój zależny]]
 [[Sieć społeczna]]
+[[Utopia]]
 [[Wspólnota]]

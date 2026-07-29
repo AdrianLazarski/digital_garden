@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - logika/formalna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-29 22:01
+---
 
 Dedukcja to rozumowanie, którego istotą jest dziedziczenie prawdziwości.
 Indukcja - przynajmniej jedna przesłanka jest szczegółowa, a wniosek jest ogólny. 
@@ -30,4 +40,3 @@ Rozumowanie redukcyjne - dane następstwo, kierunek wynikania przeciwny kierunko
 [[Błędy w rozumowaniu]]
 
 
-#filozofia #logika 

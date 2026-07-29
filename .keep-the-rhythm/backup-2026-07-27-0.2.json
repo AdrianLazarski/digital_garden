@@ -18437,6 +18437,26 @@
             "timeKey": "20:35",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "20:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:50",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 1270
@@ -20343,6 +20363,11 @@
             "timeKey": "20:05",
             "w": 2,
             "c": 21
+          },
+          {
+            "timeKey": "21:00",
+            "w": 4,
+            "c": 48
           }
         ],
         "id": 1401
@@ -20586,8 +20611,1378 @@
         "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Pożądanie.md",
         "wordCountStart": 5,
         "charCountStart": 56,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 19,
+            "c": 150
+          }
+        ],
         "id": 1419
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Praca.md",
+        "wordCountStart": 127,
+        "charCountStart": 851,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 19,
+            "c": 150
+          }
+        ],
+        "id": 1420
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Psychologia filozoficzna.md",
+        "wordCountStart": 99,
+        "charCountStart": 853,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 19,
+            "c": 154
+          }
+        ],
+        "id": 1421
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Psychologia/MOC Sumienie.md",
+        "wordCountStart": 938,
+        "charCountStart": 7278,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 22,
+            "c": 185
+          },
+          {
+            "timeKey": "21:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1422
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Szczęście.md",
+        "wordCountStart": 112,
+        "charCountStart": 1001,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1423
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Twórczość.md",
+        "wordCountStart": 182,
+        "charCountStart": 1263,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 19,
+            "c": 146
+          }
+        ],
+        "id": 1424
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Wola.md",
+        "wordCountStart": 362,
+        "charCountStart": 2581,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1425
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Abstrakcja.md",
+        "wordCountStart": 121,
+        "charCountStart": 989,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1426
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
+        "wordCountStart": 54,
+        "charCountStart": 456,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 6,
+            "c": 50
+          },
+          {
+            "timeKey": "21:50",
+            "w": 0,
+            "c": 6
+          }
+        ],
+        "id": 1427
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Epistemologia.md",
+        "wordCountStart": 75,
+        "charCountStart": 829,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 1,
+            "c": 14
+          }
+        ],
+        "id": 1428
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Autonomiczna teoria poznania.md",
+        "wordCountStart": 294,
+        "charCountStart": 2368,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 16,
+            "c": 107
+          }
+        ],
+        "id": 1429
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Doświadczenie.md",
+        "wordCountStart": 47,
+        "charCountStart": 404,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1430
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Doświadczenie wewnętrzne.md",
+        "wordCountStart": 30,
+        "charCountStart": 240,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1431
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Empiryzm (epistemologia).md",
+        "wordCountStart": 340,
+        "charCountStart": 2783,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1432
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Empiryzm genetyczny.md",
+        "wordCountStart": 149,
+        "charCountStart": 1090,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 18,
+            "c": 136
+          }
+        ],
+        "id": 1433
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Epifenomenalizm.md",
+        "wordCountStart": 15,
+        "charCountStart": 157,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 19,
+            "c": 146
+          }
+        ],
+        "id": 1434
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Epistemologia.md",
+        "wordCountStart": 721,
+        "charCountStart": 5965,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": -5,
+            "c": -62
+          }
+        ],
+        "id": 1435
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Intuicja.md",
+        "wordCountStart": 395,
+        "charCountStart": 3450,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1436
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Irracjonalizm.md",
+        "wordCountStart": 32,
+        "charCountStart": 317,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1437
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Klasyczna definicja prawdy.md",
+        "wordCountStart": 499,
+        "charCountStart": 3303,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1438
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Koherencyjna teoria prawdy.md",
+        "wordCountStart": 480,
+        "charCountStart": 3498,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1439
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Konwencja.md",
+        "wordCountStart": 51,
+        "charCountStart": 453,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1440
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Metaprzedmiotowa teoria poznania.md",
+        "wordCountStart": 9,
+        "charCountStart": 102,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 17,
+            "c": 122
+          }
+        ],
+        "id": 1441
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Metateoria poznania.md",
+        "wordCountStart": 23,
+        "charCountStart": 216,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 19,
+            "c": 150
+          }
+        ],
+        "id": 1442
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Poznanie.md",
+        "wordCountStart": 323,
+        "charCountStart": 2713,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 19,
+            "c": 146
+          }
+        ],
+        "id": 1443
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Pragmatyczna teoria prawdy.md",
+        "wordCountStart": 43,
+        "charCountStart": 358,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 22,
+            "c": 183
+          }
+        ],
+        "id": 1444
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Prawda.md",
+        "wordCountStart": 176,
+        "charCountStart": 1469,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 19,
+            "c": 146
+          }
+        ],
+        "id": 1445
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Pytanie.md",
+        "wordCountStart": 160,
+        "charCountStart": 1322,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 22,
+            "c": 183
+          },
+          {
+            "timeKey": "21:25",
+            "w": -3,
+            "c": -34
+          }
+        ],
+        "id": 1446
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Racjonalizm genetyczny.md",
+        "wordCountStart": 50,
+        "charCountStart": 439,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1447
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Refleksja.md",
+        "wordCountStart": 19,
+        "charCountStart": 159,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 19,
+            "c": 146
+          }
+        ],
+        "id": 1448
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Światopogląd.md",
+        "wordCountStart": 238,
+        "charCountStart": 1839,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 19,
+            "c": 150
+          }
+        ],
+        "id": 1449
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Teoria poznania.md",
+        "wordCountStart": 7,
+        "charCountStart": 87,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 17,
+            "c": 122
+          }
+        ],
+        "id": 1450
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Transcendencja wobec świadomości.md",
+        "wordCountStart": 145,
+        "charCountStart": 1063,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1451
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Wiedza.md",
+        "wordCountStart": 76,
+        "charCountStart": 545,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 19,
+            "c": 146
+          }
+        ],
+        "id": 1452
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Zależność wiedzy.md",
+        "wordCountStart": 91,
+        "charCountStart": 686,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1453
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Założenie.md",
+        "wordCountStart": 41,
+        "charCountStart": 319,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 22,
+            "c": 183
+          },
+          {
+            "timeKey": "21:30",
+            "w": -3,
+            "c": -37
+          }
+        ],
+        "id": 1454
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Epistemologia/Zdrowy rozsądek.md",
+        "wordCountStart": 52,
+        "charCountStart": 488,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 19,
+            "c": 146
+          }
+        ],
+        "id": 1455
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Cel.md",
+        "wordCountStart": 15,
+        "charCountStart": 119,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 21,
+            "c": 172
+          }
+        ],
+        "id": 1456
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Etyka.md",
+        "wordCountStart": 47,
+        "charCountStart": 442,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 1457
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+        "wordCountStart": 95,
+        "charCountStart": 976,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 1458
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Cnota.md",
+        "wordCountStart": 56,
+        "charCountStart": 355,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 19,
+            "c": 140
+          }
+        ],
+        "id": 1459
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Dobro.md",
+        "wordCountStart": 55,
+        "charCountStart": 385,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 22,
+            "c": 171
+          }
+        ],
+        "id": 1460
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Dobroć.md",
+        "wordCountStart": 36,
+        "charCountStart": 259,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 18,
+            "c": 134
+          }
+        ],
+        "id": 1461
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Egoizm.md",
+        "wordCountStart": 29,
+        "charCountStart": 225,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 19,
+            "c": 148
+          }
+        ],
+        "id": 1462
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Fronesis.md",
+        "wordCountStart": 233,
+        "charCountStart": 1738,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1463
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Grzech.md",
+        "wordCountStart": 28,
+        "charCountStart": 200,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1464
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Mądrość.md",
+        "wordCountStart": 92,
+        "charCountStart": 665,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 19,
+            "c": 148
+          }
+        ],
+        "id": 1465
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Męstwo.md",
+        "wordCountStart": 38,
+        "charCountStart": 313,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 19,
+            "c": 148
+          }
+        ],
+        "id": 1466
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Miłosierdzie.md",
+        "wordCountStart": 84,
+        "charCountStart": 556,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 19,
+            "c": 148
+          }
+        ],
+        "id": 1467
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Miłość.md",
+        "wordCountStart": 64,
+        "charCountStart": 420,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 22,
+            "c": 175
+          }
+        ],
+        "id": 1468
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Naturalne działanie.md",
+        "wordCountStart": 46,
+        "charCountStart": 339,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1469
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Pokora.md",
+        "wordCountStart": 35,
+        "charCountStart": 242,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 22,
+            "c": 175
+          }
+        ],
+        "id": 1470
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Przebaczenie.md",
+        "wordCountStart": 80,
+        "charCountStart": 623,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 19,
+            "c": 148
+          }
+        ],
+        "id": 1471
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Przyjaźń.md",
+        "wordCountStart": 736,
+        "charCountStart": 4953,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 19,
+            "c": 148
+          }
+        ],
+        "id": 1472
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Utylitaryzm.md",
+        "wordCountStart": 139,
+        "charCountStart": 1138,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 18,
+            "c": 129
+          }
+        ],
+        "id": 1473
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia języka/Język.md",
+        "wordCountStart": 110,
+        "charCountStart": 837,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 23,
+            "c": 187
+          },
+          {
+            "timeKey": "21:45",
+            "w": -4,
+            "c": -37
+          }
+        ],
+        "id": 1474
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia języka/Język.md",
+        "wordCountStart": 110,
+        "charCountStart": 837,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 23,
+            "c": 187
+          },
+          {
+            "timeKey": "21:45",
+            "w": -4,
+            "c": -37
+          }
+        ],
+        "id": 1475
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Logika.md",
+        "wordCountStart": 38,
+        "charCountStart": 314,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 3,
+            "c": 26
+          }
+        ],
+        "id": 1476
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Logika formalna.md",
+        "wordCountStart": 36,
+        "charCountStart": 280,
+        "changes": [],
+        "id": 1477
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Syntaktyczne elementy języka.md",
+        "wordCountStart": 32,
+        "charCountStart": 288,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 1,
+            "c": 10
+          }
+        ],
+        "id": 1478
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia języka.md",
+        "wordCountStart": 37,
+        "charCountStart": 310,
+        "changes": [],
+        "id": 1479
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia języka/Pojęcie.md",
+        "wordCountStart": 112,
+        "charCountStart": 874,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 19,
+            "c": 150
+          }
+        ],
+        "id": 1480
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia języka/Teoria deskrypcji Russella.md",
+        "wordCountStart": 100,
+        "charCountStart": 774,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 22,
+            "c": 181
+          }
+        ],
+        "id": 1481
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Semiotyka.md",
+        "wordCountStart": 29,
+        "charCountStart": 249,
+        "changes": [],
+        "id": 1482
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Semantyka.md",
+        "wordCountStart": 105,
+        "charCountStart": 905,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 3,
+            "c": 30
+          }
+        ],
+        "id": 1483
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia języka/Znaczenie.md",
+        "wordCountStart": 45,
+        "charCountStart": 420,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 19,
+            "c": 150
+          }
+        ],
+        "id": 1484
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia matematyki/Formalizm.md",
+        "wordCountStart": 3,
+        "charCountStart": 36,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 19,
+            "c": 151
+          }
+        ],
+        "id": 1485
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia matematyki.md",
+        "wordCountStart": 37,
+        "charCountStart": 342,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 3,
+            "c": 40
+          }
+        ],
+        "id": 1486
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia matematyki/Intuicjonizm.md",
+        "wordCountStart": 7,
+        "charCountStart": 76,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 20,
+            "c": 162
+          }
+        ],
+        "id": 1487
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia matematyki/Logicyzm.md",
+        "wordCountStart": 3,
+        "charCountStart": 36,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 20,
+            "c": 162
+          }
+        ],
+        "id": 1488
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia matematyki/Matematyka czysta.md",
+        "wordCountStart": 62,
+        "charCountStart": 484,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 19,
+            "c": 150
+          }
+        ],
+        "id": 1489
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia matematyki/Matematyka stosowana.md",
+        "wordCountStart": 67,
+        "charCountStart": 533,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 20,
+            "c": 162
+          }
+        ],
+        "id": 1490
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Fizykalizm.md",
+        "wordCountStart": 39,
+        "charCountStart": 284,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 18,
+            "c": 154
+          }
+        ],
+        "id": 1491
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia nauki.md",
+        "wordCountStart": 53,
+        "charCountStart": 489,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": -1,
+            "c": -14
+          }
+        ],
+        "id": 1492
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia logiki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 23,
+            "c": 189
+          }
+        ],
+        "id": 1493
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Ideologia.md",
+        "wordCountStart": 336,
+        "charCountStart": 2787,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 19,
+            "c": 158
+          }
+        ],
+        "id": 1494
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Metafilozofia.md",
+        "wordCountStart": 366,
+        "charCountStart": 2880,
+        "changes": [],
+        "id": 1495
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Konwencjonalizm.md",
+        "wordCountStart": 23,
+        "charCountStart": 216,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1496
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Metodologia nauk.md",
+        "wordCountStart": 231,
+        "charCountStart": 1975,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "22:05",
+            "w": 1,
+            "c": 19
+          }
+        ],
+        "id": 1497
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Nauka.md",
+        "wordCountStart": 654,
+        "charCountStart": 5130,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 19,
+            "c": 148
+          }
+        ],
+        "id": 1498
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Nauki aprioryczne.md",
+        "wordCountStart": 37,
+        "charCountStart": 321,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 19,
+            "c": 148
+          }
+        ],
+        "id": 1499
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Nauki dedukcyjne.md",
+        "wordCountStart": 280,
+        "charCountStart": 2202,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 19,
+            "c": 148
+          }
+        ],
+        "id": 1500
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Nauki empiryczne.md",
+        "wordCountStart": 41,
+        "charCountStart": 354,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1501
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Nauki formalne.md",
+        "wordCountStart": 235,
+        "charCountStart": 1845,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 19,
+            "c": 148
+          }
+        ],
+        "id": 1502
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Nauki indukcyjne.md",
+        "wordCountStart": 152,
+        "charCountStart": 1211,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 19,
+            "c": 151
+          }
+        ],
+        "id": 1503
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Paradygmat.md",
+        "wordCountStart": 372,
+        "charCountStart": 2725,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 22,
+            "c": 175
+          }
+        ],
+        "id": 1504
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Punkt wyjścia nauki.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 22,
+            "c": 175
+          }
+        ],
+        "id": 1505
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Rewolucja naukowa.md",
+        "wordCountStart": 1011,
+        "charCountStart": 7765,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": -1,
+            "c": -4
+          }
+        ],
+        "id": 1506
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia nauki/Scjentyzm.md",
+        "wordCountStart": 51,
+        "charCountStart": 430,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 19,
+            "c": 147
+          }
+        ],
+        "id": 1507
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia polityki/Doktryna.md",
+        "wordCountStart": 266,
+        "charCountStart": 2017,
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": 20,
+            "c": 151
+          },
+          {
+            "timeKey": "22:40",
+            "w": 2,
+            "c": 27
+          }
+        ],
+        "id": 1508
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
+        "wordCountStart": 59,
+        "charCountStart": 620,
+        "changes": [],
+        "id": 1509
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia polityki/Edukacja.md",
+        "wordCountStart": 196,
+        "charCountStart": 1399,
+        "changes": [
+          {
+            "timeKey": "22:45",
+            "w": 19,
+            "c": 153
+          }
+        ],
+        "id": 1510
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia polityki/Geopolityka.md",
+        "wordCountStart": 31,
+        "charCountStart": 250,
+        "changes": [
+          {
+            "timeKey": "22:45",
+            "w": 20,
+            "c": 167
+          }
+        ],
+        "id": 1511
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC.md",
+        "wordCountStart": 43,
+        "charCountStart": 368,
+        "changes": [
+          {
+            "timeKey": "22:45",
+            "w": 2,
+            "c": 23
+          }
+        ],
+        "id": 1512
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "02 MOC/MOC Politologia.md",
+        "wordCountStart": 23,
+        "charCountStart": 189,
+        "changes": [
+          {
+            "timeKey": "22:45",
+            "w": 3,
+            "c": 33
+          },
+          {
+            "timeKey": "22:50",
+            "w": 4,
+            "c": 48
+          }
+        ],
+        "id": 1513
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia polityki/Islam.md",
+        "wordCountStart": 483,
+        "charCountStart": 3677,
+        "changes": [
+          {
+            "timeKey": "22:50",
+            "w": 22,
+            "c": 180
+          }
+        ],
+        "id": 1514
+      },
+      {
+        "date": "2026-07-27",
+        "filePath": "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia polityki/Kolonializm.md",
+        "wordCountStart": 143,
+        "charCountStart": 1053,
+        "changes": [
+          {
+            "timeKey": "22:50",
+            "w": 21,
+            "c": 177
+          }
+        ],
+        "id": 1515
       }
     ]
   }

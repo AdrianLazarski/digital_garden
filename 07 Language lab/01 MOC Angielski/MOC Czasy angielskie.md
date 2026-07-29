@@ -7,7 +7,7 @@ dojrzalosc: Krzak 🌿
 status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-02-18 12:37
 ---
-Zaprzeszłe
+Zaprzeszłe (przed innymi przeszłymi)
 [[Past Perfect]]
 [[Past Perfect Continious]]
 

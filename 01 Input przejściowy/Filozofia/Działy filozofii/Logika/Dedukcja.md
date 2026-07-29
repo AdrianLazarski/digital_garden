@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - logika/formalna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-29 21:59
+---
 
 - [[Arystoteles]] uważał, że dedukcja to rozumowanie od ogółu do szczegółu, zaś [[Indukcja]] odwrotnie. [[Jan Łukasiewicz]] wykazał, że to nieadekwatne. 
 - Dedukcja to rozumowanie, którego istotą jest dziedziczenie prawdziwości, a nie zaś budowa rozumowania. Oba poniższe rozumowania są dedukcyjne.
@@ -13,5 +23,3 @@ Rozumowanie proste - występuje w nim tylko jeden raz inferencja (1 funktor infe
 Rozumowa dedukcyjne to rozumowanie, w którym relacja inferencji pokrywa się z relacją wynikania logicznego.
 
 
-
-#filozofia #logika 

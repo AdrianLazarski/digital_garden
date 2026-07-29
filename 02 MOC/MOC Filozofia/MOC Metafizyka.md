@@ -13,6 +13,7 @@ modified date: 2026-07-06 20:06
 [[Arché]]
 [[Atomizm]]
 [[Byt]]
+[[Cel]]
 [[Dobro ontyczne]]
 [[Dynamizm]]
 [[Forma]]

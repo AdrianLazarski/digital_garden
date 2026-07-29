@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/etyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-29 20:37
+---
 
 - twórcą eugeniki był brytyjski podróżnik, przyrodnik i antropolog Francis Galton (1822–1911), który wprowadził to pojęcie do języka na określenie dyscypliny naukowej zajmującej się poprawianiem ludzkich cech dziedzicznych
 
@@ -9,4 +19,3 @@
 - Eugenika liberalna: „nie uznaje granicy między ingerencjami terapeutycznymi a ulepszającymi, lecz decyzje, w jakim celu można dokonać genetycznej modyfikacji cech, pozostawia indywidualnym preferencjom uczestników gry rynkowej”.
 
 
-#filozofia/etyka #bioetyka #filozofia 

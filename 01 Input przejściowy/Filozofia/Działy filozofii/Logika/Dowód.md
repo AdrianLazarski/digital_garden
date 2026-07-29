@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - logika/formalna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-29 20:59
+---
 
 Przeprowadzenie procesu dowodzenia lub owoc tej procesu. Przyjmuje kształt ciągu formuł.
 
@@ -19,5 +29,3 @@ Metoda dowodu to metoda syntaktyczna. Jest uniwersalna, w przeciwieństwie do [[
   
 Dowodzenie jest dedukcją regresywną, czyli prostą konwersją wnioskowania.
 
-
-#logika #filozofia 

@@ -9,16 +9,6 @@ modified date: 2026-07-22 14:21
 ---
 Wrocław 2024 r.
 
-**Spis treści**
-
-1. [1. System ochrony zdrowia w USA do 2013 r.](#1.%20System%20ochrony%20zdrowia%20w%20USA%20do%202013%20r.)
-2. [2. Amerykańskie Towarzystwo Medyczne AMA](#2.%20Ameryka%C5%84skie%20Towarzystwo%20Medyczne%20AMA)
-3. [3. Agencja ds. żywności i leków](#3.%20Agencja%20ds.%20%C5%BCywno%C5%9Bci%20i%20lek%C3%B3w)
-4. [4. Ubezpieczenia społeczne](#4.%20Ubezpieczenia%20spo%C5%82eczne)
-5. [5. Prywatne ubezpieczenia zdrowotne](#5.%20Prywatne%20ubezpieczenia%20zdrowotne)
-6. [6. Szpitalnictwo](#6.%20Szpitalnictwo)
-7. [7. Podsumowanie](#7.%20Podsumowanie)
-
 
 
 # 1. System ochrony zdrowia w USA do 2013 r.
@@ -88,10 +78,49 @@ Wrocław 2024 r.
 - W 1938 uchwalono Food, Drug, and Cosmetic Act, który nałożył obowiązek potwierdzenia bezpieczeństwa produktów przed wprowadzeniem na rynek oraz wprowadzono nadzór nad reklamą i nazwami leków. FDA miało 180 dni na zatwierdzenie nowego leku.
 - W 1962 r. wprowadzono Poprawki Kafauvera-Harrisa, ale nie wiadomo dlaczego, bo FDA skutecznie zablokowało wprowadzenie szkodliwego talidomidu na rynek. Mimo to wprowadzono dodatkowy obowiązek wykazania skuteczności leku i zniesiono limit czasu na decyzję FDA o sprzedaży.
 - FDA oderwane od normalnych bodźców rynkowych woli nie wprowadzić bezpiecznego i skutecznego leku do obiegu, bo nic mu za to nie grozi, podczas gdy jeśli wprowadzi jakiś szkodliwy lek, to będzie afera. Kosztem alternatywnym są wszyscy chorzy, którzy nie otrzymają skutecznej terapii.
-- 
+- W ciągu niecałych 20 lat liczba nowych leków wprowadzanych corocznie na rynek spadła o 50%.
+- Wydłużył się też czas i koszt. Na początku lat 60. opracowanie i wprowadzenie na rynek nowego leku trwało około 25 miesięcy i kosztowało pół miliona dolarów. Po uwzględnieniu inflacji wartości te w 1978 roku wyniosły już 54 miliony i 8 lat. Czterokrotne wydłużenie w czasie i stukrotny wzrost kosztów wobec zaledwie dwukrotnego podwojenia wskaźnika cen w tym okresie.
+- Średni czas między złożeniem wniosku a zatwierdzeniem przez FDA to 7 miesięcy w 1962 r., 36 miesięcy w 1967, potem przez kolejne 5 lat średnio 27 miesięcy.
+- W latach 1955-1962 98% najmniejszych amerykańskich farmaceutycznych firm wprowadziło na rynek 12% leków. Przez pierwsze trzy lata po Poprawce Kafauvera-Harrisa nie wprowadziły ani jednego. Do 1968 liczba firm wprowadzające nowe leki na rynek spadła o 44%. Doprowadziło to do kartelizacji przemysłu farmaceutycznego.
+- W latach 1949-1961 ceny leków skorygowane o inflację spadły o 32%. 10 lat po wejściu Poprawek, ceny spadły już tylko o 2%, a potem zaczęły rosnąć.
+- W latach 2000-2012 firmy farmaceutyczne przeznaczały na badania i rozwój średnio 18% przychodów ze sprzedaży. Niestety większość tych kosztów szło na zaspokajanie wymagań regulacyjnych, a nie na odkrywanie nowych leków. 
+	- Dla porównania przemysł półprzewodników 15%, przemysł komputerowy i elektroniczny 12%. 
+- Stale rosnące koszty i niepewność instytucjonalna spowodowały spadek liczby opłacalnych leków. Po 1992 r. tylko 1 na 8 testowanych na ludziach leków trafi na rynek, a jedynie 20-30% zarobi wystarczająco dużo, by odzyskać koszty badań i rozwoju.
+- W razie odrzucenia lub wydłużenia analizy ich wniosków, firmy nie chcą wchodzić na drogę prawną, bo boją się odwetu ze strony FDA. W 1991 roku 84% firm zadeklarowało, że nie składało skarg z obawy przed działaniami agencji w przyszłości.
+- W latach przed Poprawkami 10% urzędników FDA, którzy odeszli z agencji, pracowało potem w firmach farmaceutycznych. W 1969 roku to już 76%.
+- W okolicach 2013 proces od odkrycia leku do jego zatwierdzenia przez FDA zajmuje 10-15 lat, a same badania kliniczne trwają 6-7 lat. Tylko jeden na 12 testowanych leków jest ostatecznie zatwierdzany, a całkowite skumulowane koszty wprowadzenia leku na rynek to 1,5-1,8 miliarda dolarów.
+- Procedura zatwierdzania leku:
+	- W fazie I podaje się lek 20-100 zdrowym ochotnikom w co raz większych dawkach, by ustalić bezpieczny poziom ekspozycji.
+	- W fazie II jakieś 100-500 chorych dostaje lek w celu dalszej oceny bezpieczeństwa i dawkowania.
+	- W fazie III 1000-5000 pacjentów jest losowo przydzielanych do grupy eksperymentalnej lub kontrolnej z placebo/standardowym lekiem na dane schorzenie. 
+- Wymaganie randomizowanych badań klinicznych jest kontrowersyjne, bo nie dostarcza to narzędzi do wykrywania i testowania subtelnych różnic występujących w małych subpopulacjach pacjentów. 
+- Jest to też krzywdzące wobec pacjentów, którzy chcieliby zażyć eksperymentalny lek, a dostają placebo. O przesuwaniu terminów i zabijaniu ludzi nie wspominając.
+- Nie trzeba rezygnować z randomizowanych badań klinicznych, ale oprócz tego powinno funkcjonować Free To Choose Medicine, które dopuszczałoby pacjentów do leków będących w fazie II i zbierałoby ich dane. Japonia to wprowadziła.
+
+- W latach 70. 2/3 leków odkrytych w USA i wprowadzonych na rynek w UK, nie było dostępnych w USA. 
+- Podobnie z nowymi jednostkami biologicznymi (New Biological Entitles - NBE), takimi jak białka rekombinowane, szczepionki i przeciwciała monoklonalne. 82% z nich pochodzi z USA a tylko 25% wprowadzono na tamtejszy rynek.
+- Okres ochrony patentowej jest liczony od momentu złożenia wniosku, a nie od uzyskania zgody FDA, więc okres ochrony został skrócony, co odbija się na wzroście cen.
+- W 1976 efektywna ochrona patentowa wynosiła 11,4 roku, a w 1981 r. już 6,8 roku.
+- Congressional Budget Office obliczyło, że producent oryginalnych leków może utrzymać swój udział na rynku na poziomie ponad 20% po wprowadzeniu konkurencyjnych generyków.
+- Ankieta przeprowadzona wśród laboratoriów badawczo-rozwojowych  i menedżerów firm wykazała, że 23-35% badanych uważa patent za skuteczny środek uzyskania zwrotu z inwestycji., Jednocześnie 51% uważa, że tajemnice handlowe też są skuteczne.
+- Spośród 15 największych odkryć medycznych tylko 2 były opatentowane. str. 65
+- Producenci leków mają marże na poziomie 25 a nawet 35%. W innych branżach to około 15%.
+- W latach 1984-2000 54% wniosków zatwierdzonych przez FDA dotyczyło leków zawierających substancje czynne już dostępne na rynku. Firmy zgłaszają patenty na imitacje swoje leków z innym dawkowaniem, składnikami czy drogą podawania. 
+- W latach 1981-1992 ponad 30% programów badawczych zamknięto z powodów ekonomicznych.
+- Firma Genzyne, produkująca Fabrazyme - lek na chorobę Fabry'ego nie nadążał z produkcją, więc zwrócił się z petycją do Narodowych Instytutów Zdrowia o umożliwienie innym firmom produkcji w zamian za opłatę dla Genzyne. Co ciekawe badania na tym lekiem były finansowane przez NIH, ale odrzucili petycję.
+- Lekarze i naukowcy i tak monitorują użycie różnych leków i jest wiele udokumentowanych przypadków, gdzie ostrzegali przed danym lekiem nawet 12 lat wcześniej, zanim FDA go wycofało. 
+- Leki ze skutkami ubocznymi w wybranych sytuacjach i tak mogą być lepszą opcją od cierpienia na nieleczoną chorobę. 
+- W 2008 r. 55% zgonów spowodowanych przedawkowaniem było związanych z lekami przepisanymi przez lekarza. 
+- W 2009 r. 1,2 miliona ludzi było na ostrym dyżurze z powodu przedawkowania leków na receptę. Z kolei 1 milion był z powodu używania (niekoniecznie przedawkowania) nielegalnych narkotyków.
+- FDA nie ponosi żadnej finansowej odpowiedzialności za swoje błędy, podczas gdy firmom nakłada kary. A samo zachęca konsumentów do ryzyka, bo nie ma rynku wyłącznie bezpiecznych leków.
+- FDA zabrania reklamowania i informowania o nowych zastosowaniach leków bez przejścia ich całej formalnej drogi. Nikt nie będzie chciał brnąć przez procedury dla zgłoszenia nowego zastosowania leku, na którego nie będzie mieć patentu - przypadek aspiryny, która okazało się, że zmniejsza ryzyku zawało serca. Minimalnie zwiększa prawdopodobieństwo udary mózgu, ale zdecydowanie więcej ludzi ma problem z tym pierwszym.
+- Nie można nawet wysyłać lekarzom przedruków artykułów naukowych na temat nowych zastosowań leków.
+- Sam opóźnienia związane z wejściem w życie Poprawek z 1962 r. doprowadziły do 2009 r. do śmierci 15 milionów Amerykanów. To 10 razy więcej Amerykanów, niż ginęło na wszystkich wojnach od powstania USA do 2017 roku.
 
 
 # 4. Ubezpieczenia społeczne
+
+- Jeśli ludzie płacą bezpośrednio, to racjonalizują wydatki. Jeśli płacą tylko ułamek kosztów, to kierują się czynnikami pozacenowymi, takimi jak jakość, czy dostępność świadczeń i konsumują ich więcej, przez strona trzecia płacąca za te usługi (np. ubezpieczyciel), musi podnosić ceny. 
 
 
 # 5. Prywatne ubezpieczenia zdrowotne

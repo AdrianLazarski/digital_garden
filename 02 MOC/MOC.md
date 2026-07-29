@@ -15,6 +15,8 @@ modified date: 2026-07-02 20:42
 [[MOC IT]] 🤖
 [[MOC Logika]] 0️⃣1️⃣
 [[MOC Matematyka]] 🧮
+[[MOC Politologia]] 🤴
+[[MOC Prawo]]
 [[MOC Psychologia]] 🛋️
 [[MOC Religia]] ✝️
 [[MOC Socjologia]] 👪

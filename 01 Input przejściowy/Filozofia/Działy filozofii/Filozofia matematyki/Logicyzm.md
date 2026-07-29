@@ -1,5 +1,0 @@
-
-
-
-
-#filozofia #filozofia/matematyki

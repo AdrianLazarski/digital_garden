@@ -19,3 +19,5 @@ modified date: 2026-07-03 16:00
 [[MOC Logicy]]
 
 [[Logika matematyczna]]
+
+[[MOC Filozofia logiki]]

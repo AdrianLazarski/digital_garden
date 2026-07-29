@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - logika/formalna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-29 21:14
+---
 
 Rozszerzenie dla [[Klasyczny rachunek predykatów]].
   
@@ -43,4 +53,3 @@ Def: x≠y ↔ ~x=y
 Def. $∃!$x ↔ ∃xφ(x) ˄ ∀x∀y(φ(x) ˄ φ(y)→ x=y)
 
 
-#logika #filozofia

@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - logika/formalna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-29 21:14
+---
 
 Termin wieloznaczny.
 
@@ -17,5 +27,3 @@ Słowa: musi, może, świadczą o odrębności filozofii od nauki.
 	- S5: ◇A $\rightarrow$ □◇A Tu robi się dowody na istnienie Boga najczęściej.
 	- Triv: A $\rightarrow$ □A (to rozszerzenie jest trywialne i równe CLS, stąd nazwa)
 
-
-#logika #filozofia #logika/modalna 

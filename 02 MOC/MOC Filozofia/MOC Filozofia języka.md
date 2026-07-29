@@ -8,7 +8,7 @@ status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 20:10
 ---
 [[Język]]
-[[Pojęcie]]
+[[01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Pojęcie]]
 [[Sens]]
 [[Teoria deskrypcji Russella]]
 [[Znaczenie]]
