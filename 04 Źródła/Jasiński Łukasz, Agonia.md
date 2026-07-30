@@ -132,6 +132,10 @@ Wrocław 2024 r.
 - Zamiast gromadzić składki w rosnących rezerwach Bluesy pobierały składki tylko na spodziewane koszty w przyszłym roku. Jeśli w krótkim czasie chorowało dużo ludzi, trzeba było podnosić składki wszystkim.
 - Inni ubezpieczyciele, by móc rywalizować musieli choć częściowo upodobnić swoje oferty.
 - Problem rosnących kosztów rozwiązano utworzeniem Medicare i przeniesieniem ludzi 65+ z Bluesów. 
+- str. 93 jak finansowany jest Medicare
+- Ponieważ w systemie większość kosztów pokrywa płatnik (Medicare), to dostawcy mogli podnosić ceny. W ciągu 5 lat działania programu koszty wzrosły o 72%, podczas gdy liczba uczestników programu tylko 6%.
+- W 1970 r. rząd szacował koszt Medicare'u na 2,9 mld rocznie. W rzeczywistości pochłonęło 5,3 mld (niedoszacowanie 79%). W 1980 roku rząd prognozował koszty ubezpieczenia szpitalnego na 5,5 mld rocznie. Wyniosły 25,6 mld. W ciągu pierwszych 30 lat istnienia programu rząd musiał wprowadzić 23 nowe podatki.
+- 
 
 
 # 5. Prywatne ubezpieczenia zdrowotne
