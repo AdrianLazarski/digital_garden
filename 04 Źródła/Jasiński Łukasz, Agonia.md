@@ -145,10 +145,26 @@ Wrocław 2024 r.
 - W rzeczywistości koszty administracyjne Medicare przypadające na jednego beneficjenta są o kilkadziesiąt procent wyższe, niż w prywatnych ubezpieczeniach. 
 - Część kosztów administracyjnych Medicare nie trzeba uwzględniać, bo pojawiają się w budżetach innych agencji. Social Security Administration (SSA) zarządza składkami Medicare, a IRS pobiera podatki. 
 - Oprócz tego istotnym problem w Medicare są oszustwa. Niezwalczanie ich generuje większe koszty medyczne i niższe administracyjne. Tymczasem prywatni ubezpieczyciele rzadziej się dają oszukiwać, więc struktura wydatków się różni.
-- Na rynku chirurgii kosmetycznej nie ograniczo
+- Na rynku chirurgii kosmetycznej nie ograniczono sztucznie podaży i ceny maleją.
+	- W latach 1998-2016 średni wzrost cen 20 najpopularniejszych zabiegów wyniósł 32%, podczas gdy ceny usług opieki medycznej wzrosły o 100,5%, ceny usług szpitalnych o 176,6%, a wskaźnik CPI o 47,2%.
+	- W przypadku 10 najpopularniejszych zabiegów żaden nie zwiększył ceny o więcej, niż 47,2%.
+	- Łączna liczba zbiegów wzrosła z 2,1 mln do 8,56 mln.
+- W 2008 r. wydatki na Medicare to 452 mld. W 2018 731 mld. Wzrost o 58% (inflacja wzrosła o 16%).
+- Prognozowany przez Kongresowe Biuro Budżetowe wzrost z 2019 do 2029 to 103%
+	- Już w 2025 osiągnęły 1,2 BLN, czyli tyle, co zakładano, że będzie w 2029 r.
+- Między 2008 a 2017 wydatki na Medicaid wzrosły o 71%.
+- Liberty HealthShare to wspólnota religijna działająca na zasadach towarzystwa pomocy wzajemnej, ale niebędąca ubezpieczycielem. Członkowie wnoszą określony miesięczny wkład (mają trzy opcje do wyboru), dostosowany do bieżących potrzeb medycznych w grupie. Wszystko jest transparentne i można ustalić na co poszły twoje pieniądze. Osoby chore też ponoszą część kosztów, więc mają motywację do szybszego wyjścia z choroby. 
+	- Co ciekawe osoby chore też przyjmują, ale przez pierwszy rok nie pokrywają kosztów ich leczenia. Za to wypłacają health truck na zmianę stylu życia. 
+	- To największa typu organizacja, która zrzesza 250 tys. osób. 
+	- Łącznie do tego typu organizacji należy 1,7 miliona osób.
+- Nakłady na Medicare, Medicaid, CHIP i ObamaCare wynosiły w 2018 największą część budżetu federalnego - 26%. W 2019 r. to 5,2% PKB, w 2049 ma być 9,3% PKB.
 
 
 # 5. Prywatne ubezpieczenia zdrowotne
+
+- W 1919 roku utracone zarobki na skutek choroby pracownika były czterokrotnie wyższe niż wydatki medyczne związane z leczeniem choroby.
+- Bardziej więc zainteresowaniem cieszyły się ubezpieczenia chorobowe, a nie zdrowotne, bo usługi medyczne były relatywnie tanie.
+- 
 
 
 # 6. Szpitalnictwo

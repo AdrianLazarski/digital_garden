@@ -1,0 +1,31 @@
+/* Kolorowanie i zmiana rozmiaru nagłówków w edytorze i trybie podglądu */
+
+.cm-header-1, .markdown-rendered h1 {
+    color: #e46876 !important;
+    font-size: 1.8em !important;
+}
+
+.cm-header-2, .markdown-rendered h2 {
+    color: #87a987 !important;
+    font-size: 1.5em !important;
+}
+
+.cm-header-3, .markdown-rendered h3 {
+    color: #e6c384 !important;
+    font-size: 1.3em !important;
+}
+
+.cm-header-4, .markdown-rendered h4 {
+    color: #7fb4ca !important;
+    font-size: 1.1em !important;
+}
+
+.cm-header-5, .markdown-rendered h5 {
+    color: #938aa9 !important;
+    font-size: 1.0em !important;
+}
+
+.cm-header-6, .markdown-rendered h6 {
+    color: #7aa89f !important;
+    font-size: 0.9em !important;
+}

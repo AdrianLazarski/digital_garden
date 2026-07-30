@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
+                "file": "02 MOC/MOC Filozofia/MOC Semantyka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Jasiński Łukasz, Agonia"
+              "title": "Konspekt MOC Semantyka"
             }
           },
           {
@@ -304,11 +304,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "898b6a9c53898e39",
+  "active": "b469543585e1dba6",
   "lastOpenFiles": [
+    "04 Źródła/Jasiński Łukasz, Agonia.md",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "Skróty klawiszowe.md",
-    "04 Źródła/Jasiński Łukasz, Agonia.md",
     "02 MOC/MOC Filozofia/MOC Epistemologia.md",
     "07 Language lab/English grammar.md",
     "02 MOC/MOC Filozofia/MOC Filozofia umysłu.md",

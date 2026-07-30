@@ -1,4 +1,12 @@
 {
   "cssTheme": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "big-math",
+    "image-align",
+    "image-grid",
+    "white-numbers-bullets"
+  ]
 }
