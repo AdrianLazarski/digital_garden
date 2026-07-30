@@ -121,6 +121,10 @@ Wrocław 2024 r.
 # 4. Ubezpieczenia społeczne
 
 - Jeśli ludzie płacą bezpośrednio, to racjonalizują wydatki. Jeśli płacą tylko ułamek kosztów, to kierują się czynnikami pozacenowymi, takimi jak jakość, czy dostępność świadczeń i konsumują ich więcej, przez strona trzecia płacąca za te usługi (np. ubezpieczyciel), musi podnosić ceny. 
+- Na przełomie XIX i XX wieku 25% dorosłych Amerykanów należało do stowarzyszeń braterskich, które w zamian za miesięczne opłaty wypłacały świadczenia po śmierci lub nabyciu kalectwa przez członka rodziny, oraz zawierało umowy z lekarzami, leczącymi członków stowarzyszenia (tzw. praktyki lożowe). Koszt wynosił 1-2 dolary rocznie za osobę, czyli tyle, co rynkowy koszt pojedynczej wizyty i tyle, co dniówka robotnika.
+- Lekarze też zakładali swoje instytucje, tzw. praktyki grupowe. AMA próbowała ograniczać oba rodzaje praktyk, bo były bardzo konkurencyjne cenowo.
+- Zdaniem Johna C. Herberta Emery'ego wysoki dochody i oszczędności amerykańskich robotników były główną przyczyną, dla której nie wprowadzono ustawy o ubezpieczeniu społecznym w 1935 r. (obowiązkowe ubezpieczenia). Stany z niższą stopą oszczędności bardziej popierały ustawę.
+- Od lat 30 rozwijały się plany zdrowotne Blue Shield i Blue Cross, które nie były ubezpieczeniami! Powstały jako odpowiedź na ubezpieczenia, które zdaniem twórców ograniczały pacjentom dostęp do usług medycznych. 
 
 
 # 5. Prywatne ubezpieczenia zdrowotne

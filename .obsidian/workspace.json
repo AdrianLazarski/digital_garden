@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "86a03dae6fcaa4e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofia umysłu.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Filozofia umysłu"
-            }
-          },
-          {
             "id": "47af148886ce514d",
             "type": "leaf",
             "state": {
@@ -104,12 +80,12 @@
             }
           },
           {
-            "id": "4656733c7dfbc93b",
+            "id": "5fbbe94dede67170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Matematyka/Działy/Algebra/Kombinacja liniowa.md",
+                "file": "07 Language lab/English grammar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kombinacja liniowa"
+              "title": "English grammar"
             }
           },
           {
-            "id": "ef7c9ad1f3838d8c",
+            "id": "898b6a9c53898e39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Mises Ludwig von, Ludzkie działanie.md",
+                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mises Ludwig von, Ludzkie działanie"
+              "title": "Jasiński Łukasz, Agonia"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ludzkie działanie",
+                "query": "jasi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Mises Ludwig von, Ludzkie działanie.md",
+                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Mises Ludwig von, Ludzkie działanie"
+              "title": "Konspekt Jasiński Łukasz, Agonia"
             }
           },
           {
@@ -353,10 +329,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef7c9ad1f3838d8c",
+  "active": "898b6a9c53898e39",
   "lastOpenFiles": [
-    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "02 MOC/MOC Filozofia/MOC Epistemologia.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia umysłu.md",
+    "07 Language lab/English grammar.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Nazwa.md",
+    "02 MOC/MOC Filozofia/MOC Semantyka.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Kombinacja liniowa.md",
+    "04 Źródła/Mises Ludwig von, Ludzkie działanie.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Kierunek.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Moduł.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Wersor.md",
@@ -366,9 +348,7 @@
     "01 Input przejściowy/Matematyka/Działy/Algebra/Pierścień.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Grupa.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Ciało.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Nazwa.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Deskrypcja.md",
-    "02 MOC/MOC Filozofia/MOC Semantyka.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Desygnat.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Spójność syntaktyczna.md",
     "02 MOC/MOC Filozofia/MOC Semiotyka.md",
@@ -377,10 +357,6 @@
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wnioskowanie entymematyczne.md",
     "02 MOC/MOC Logika.md",
     "02 MOC/MOC Filozofia/MOC Logika formalna.md",
-    "02 MOC/MOC Filozofia/MOC Rodzaje rozumowań.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Rozumowanie.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Inherencja.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Inferencja.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",
     "03 Atomy/załączniki/Matryca hohfeldowska.png",
     "02 MOC/MOC Prawo"

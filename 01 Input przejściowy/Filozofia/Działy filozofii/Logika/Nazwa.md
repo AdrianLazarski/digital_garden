@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - logika/semiotyka/semantyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-30 12:50
+---
 
 
 Nazwy są wtórne względem zdań. Dziecko krzyczy "mama", ale to nie nazwa.
@@ -27,4 +37,3 @@ Ekstensją danej nazwy jest jej zakres; zbiór rzeczy, do których ta nazwa się
 [[Tomasz z Akwinu]] "Nazwy - są znakami ujęć intelektualnych." Nomina - sunt signa intellectualium conceptuum. Super Metaphisicorum 5, 5
 
 
-#logika #filozofia #filozofia/języka 
