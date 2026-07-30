@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "5fbbe94dede67170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 Language lab/English grammar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "English grammar"
-            }
-          },
-          {
             "id": "898b6a9c53898e39",
             "type": "leaf",
             "state": {
@@ -128,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jasi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,8 +157,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -331,9 +306,10 @@
   },
   "active": "898b6a9c53898e39",
   "lastOpenFiles": [
+    "07 Language lab/English grammar.md",
+    "04 Źródła/Jasiński Łukasz, Agonia.md",
     "02 MOC/MOC Filozofia/MOC Epistemologia.md",
     "02 MOC/MOC Filozofia/MOC Filozofia umysłu.md",
-    "07 Language lab/English grammar.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Nazwa.md",
     "02 MOC/MOC Filozofia/MOC Semantyka.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Kombinacja liniowa.md",
@@ -356,7 +332,6 @@
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Kategoria syntaktyczna.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wnioskowanie entymematyczne.md",
     "02 MOC/MOC Logika.md",
-    "02 MOC/MOC Filozofia/MOC Logika formalna.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",
     "03 Atomy/załączniki/Matryca hohfeldowska.png",
     "02 MOC/MOC Prawo"

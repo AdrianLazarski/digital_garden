@@ -124,7 +124,14 @@ Wrocław 2024 r.
 - Na przełomie XIX i XX wieku 25% dorosłych Amerykanów należało do stowarzyszeń braterskich, które w zamian za miesięczne opłaty wypłacały świadczenia po śmierci lub nabyciu kalectwa przez członka rodziny, oraz zawierało umowy z lekarzami, leczącymi członków stowarzyszenia (tzw. praktyki lożowe). Koszt wynosił 1-2 dolary rocznie za osobę, czyli tyle, co rynkowy koszt pojedynczej wizyty i tyle, co dniówka robotnika.
 - Lekarze też zakładali swoje instytucje, tzw. praktyki grupowe. AMA próbowała ograniczać oba rodzaje praktyk, bo były bardzo konkurencyjne cenowo.
 - Zdaniem Johna C. Herberta Emery'ego wysoki dochody i oszczędności amerykańskich robotników były główną przyczyną, dla której nie wprowadzono ustawy o ubezpieczeniu społecznym w 1935 r. (obowiązkowe ubezpieczenia). Stany z niższą stopą oszczędności bardziej popierały ustawę.
-- Od lat 30 rozwijały się plany zdrowotne Blue Shield i Blue Cross, które nie były ubezpieczeniami! Powstały jako odpowiedź na ubezpieczenia, które zdaniem twórców ograniczały pacjentom dostęp do usług medycznych. 
+- Od lat 30 rozwijały się plany zdrowotne Blue Shield i Blue Cross, które nie były do końca ubezpieczeniami! Powstały jako odpowiedź na ubezpieczenia, które zdaniem twórców ograniczały pacjentom dostęp do usług medycznych. 
+- Otrzymały zwolnienia podatkowe od pozyskiwanych składek i niższe wymagania co do utrzymywanych rezerw do spłacania zobowiązań. Za te przywileje władze stanowe wymagały kalkulacji wysokości składek nie na podstawie ryzyka ubezpieczeniowego. Wszyscy mieli płacić tyle samo. 
+- Szybko zdominowały rynki ubezpieczeń medycznych i szpitalnych i w 1982 r. się połączyły. Na początku XXI w. 1/3 Amerykanów korzystała z ich usług.
+- Ubezpieczenie nawet rutynowych zabiegów to nie ubezpieczenie, tylko przedpłacona konsumpcja, zachęcająca do nadmiernego korzystania z usług medycznych.
+- Młodzi i starzy płacili tyle samo, choć korzystali z inną intensywnością. 
+- Zamiast gromadzić składki w rosnących rezerwach Bluesy pobierały składki tylko na spodziewane koszty w przyszłym roku. Jeśli w krótkim czasie chorowało dużo ludzi, trzeba było podnosić składki wszystkim.
+- Inni ubezpieczyciele, by móc rywalizować musieli choć częściowo upodobnić swoje oferty.
+- Problem rosnących kosztów rozwiązano utworzeniem Medicare i przeniesieniem ludzi 65+ z Bluesów. 
 
 
 # 5. Prywatne ubezpieczenia zdrowotne
