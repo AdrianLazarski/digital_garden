@@ -126,9 +126,19 @@
               "icon": "lucide-file",
               "title": "Kombinacja liniowa"
             }
+          },
+          {
+            "id": "ef7c9ad1f3838d8c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -202,13 +212,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Matematyka/Działy/Algebra/Kombinacja liniowa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Kombinacja liniowa"
+              "title": "Konspekt"
             }
           },
           {
@@ -314,6 +323,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Otwórz okno szybkiego wyboru": false,
       "command-palette:Otwórz listę poleceń": false,
       "graph:Otwórz podgląd grafu": false,
@@ -327,11 +337,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4656733c7dfbc93b",
+  "active": "ef7c9ad1f3838d8c",
   "lastOpenFiles": [
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Kombinacja liniowa.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Kierunek.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Moduł.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Kombinacja liniowa.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Wersor.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Układ równań liniowych.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Przestrzeń liniowa.md",
