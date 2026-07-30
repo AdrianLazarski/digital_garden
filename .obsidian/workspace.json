@@ -131,10 +131,24 @@
             "id": "ef7c9ad1f3838d8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Mises Ludwig von, Ludzkie działanie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "Mises Ludwig von, Ludzkie działanie"
             }
           }
         ],
@@ -170,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ludzkie działanie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +205,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,12 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 Źródła/Mises Ludwig von, Ludzkie działanie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt"
+              "title": "Konspekt Mises Ludwig von, Ludzkie działanie"
             }
           },
           {
@@ -339,6 +355,7 @@
   },
   "active": "ef7c9ad1f3838d8c",
   "lastOpenFiles": [
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Kombinacja liniowa.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Kierunek.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Moduł.md",
@@ -364,7 +381,6 @@
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Rozumowanie.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Inherencja.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Inferencja.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Indukcja.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",
     "03 Atomy/załączniki/Matryca hohfeldowska.png",
     "02 MOC/MOC Prawo"
