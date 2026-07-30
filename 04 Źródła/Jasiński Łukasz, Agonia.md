@@ -140,7 +140,12 @@ Wrocław 2024 r.
 - W 1983 r. wprowadzono finansowanie leczenia w oparciu o jednorodne grupy pacjentów (Diagnostically Related Grouping), żeby ustandaryzować usługi i koszty w przypadku podobnych chorób. Dostawcy, których podaż w związku z poprzednimi interwencjami była ograniczona, nie chcieli rezygnować z nadmiarowych zysków, więc zaczęli przerzucać koszty na innych płatników: prywatnych ubezpieczycieli i ich klientów.
 - Na początku lat 90. pojawił się regulacje opieki ambulatoryjnej Evaluation and Management (E&M). Podobnie do DRG, płatność za wykonane usługi uzależniono od ustalonych wcześniej wytycznych. Przy okazji wprowadzono tak skomplikowany system rozliczeń, że od 1975 do 2010 r. liczba lekarzy wzrosła o 150%, a pracowników administracyjnych o 3200%. 
 ![[Jasiński Łukasz, Agonia.webp]]
-- 
+- Niektórzy są przekonani, że Medicare ma niższe koszty administracyjne w porównaniu do prywatnych ubezpieczeń zdrowotnych. Tyle, że beneficjentami Medicare są osoby starsze i niepełnosprawne, które generują o wiele wyższe koszty świadczeń na osobę niż beneficjenci prywatnych ubezpieczeń. W związku z tym koszty administracyjne wyrażone jako procent kosztów całkowitych są niższe.
+- Prywatni ubezpieczyciele płacą też podatki od składek, których się nie wypłaca. 
+- W rzeczywistości koszty administracyjne Medicare przypadające na jednego beneficjenta są o kilkadziesiąt procent wyższe, niż w prywatnych ubezpieczeniach. 
+- Część kosztów administracyjnych Medicare nie trzeba uwzględniać, bo pojawiają się w budżetach innych agencji. Social Security Administration (SSA) zarządza składkami Medicare, a IRS pobiera podatki. 
+- Oprócz tego istotnym problem w Medicare są oszustwa. Niezwalczanie ich generuje większe koszty medyczne i niższe administracyjne. Tymczasem prywatni ubezpieczyciele rzadziej się dają oszukiwać, więc struktura wydatków się różni.
+- Na rynku chirurgii kosmetycznej nie ograniczo
 
 
 # 5. Prywatne ubezpieczenia zdrowotne
