@@ -1,0 +1,16 @@
+{
+  "things-style@@mobile-black-background": false,
+  "things-style@@fancy-highlight": false,
+  "things-style@@default-font-color": false,
+  "things-style@@heading-underline-color": false,
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-sapphire",
+  "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-block",
+  "anuppuccin-theme-settings@@anp-callout-color-toggle": false,
+  "anuppuccin-theme-settings@@anp-active-line": "anp-no-highlight",
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": false,
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "none",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-preview": "none",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "none",
+  "anuppuccin-theme-settings@@anp-code-bg-color@@light": "#372E2E"
+}

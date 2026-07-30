@@ -1,12 +1,15 @@
 {
-  "cssTheme": "",
+  "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "showViewHeader": true,
   "showRibbon": true,
   "enabledCssSnippets": [
     "big-math",
-    "image-align",
-    "image-grid",
-    "white-numbers-bullets"
-  ]
+    "white-numbers-bullets",
+    "kolorowe headingi",
+    "colorful folders"
+  ],
+  "baseFontSize": 17,
+  "textFontFamily": "",
+  "monospaceFontFamily": ""
 }

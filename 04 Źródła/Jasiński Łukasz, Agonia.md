@@ -11,8 +11,8 @@ modified date: 2026-07-22 14:21
 Wrocław 2024 r.
 
 
-
-# 1. System ochrony zdrowia w USA do 2013 r.
+# Notatki
+## 1. System ochrony zdrowia w USA do 2013 r.
 
 - Sam całkowity poziom wydatków (prywatnych i państwowych) na zdrowie nie musi oznaczać nic dobrego ani złego. Wydajny system może mieć duże wydatki, bo po prostu zajmuje się większą liczbą chorób.
 - W 2013 r. USA była na trzecim miejscu pod względem rządowych wydatków na ochronę zdrowia per capita. Wyżej były tylko Norwegia i Holandia.
@@ -46,7 +46,7 @@ Wrocław 2024 r.
 	- Z kolei dostęp do lekarza lub pielęgniarki w trakcie choroby pierwszego lub następnego dnia ma tylko 48%, zaś 26% czekało 6 dni lub dłużej. (9 miejsce)
 
 
-# 2. Amerykańskie Towarzystwo Medyczne AMA
+## 2. Amerykańskie Towarzystwo Medyczne AMA
 
 - W 1847 roku utworzono American Medical Association, by:
 	1. Wprowadzić stanowe licencje, by poprawić pozycję lekarzy
@@ -65,7 +65,7 @@ Wrocław 2024 r.
 - AMA za Roosevelta i Trumana była przeciwna pomysłom publicznych ubezpieczeń zdrowotnych, bo nie chciała utracić swojej autonomii w dziedzinie zapewnienia opieki zdrowotnej. Skutecznie storpedowała wszelkie inicjatywy federalne.
 - AMA wspierała za to plany przedpłacone Blue Shield i Blue Cross, w których pacjent po zapłaceniu stałej kwoty miał dostęp do dowolnego lekarza/szpitala działającego w ramach danego programu. Pacjenci nie płacili bezpośrednio za usługi, a lekarze, nie podlegając szczegółowemu nadzorowi firm ubezpieczeniowych, mogli świadczyć więcej usług i uzyskiwać większe przychody. Firmy te uzyskały dzięki wsparciu AMA wiele przywilejów od władz stanowych, dzięki czemu uzyskiwały większy udział w rynku. 
 
-# 3. Agencja ds. żywności i leków
+## 3. Agencja ds. żywności i leków
 
 - W 1906 r. uchwalono Pure Food and Drug Act, by zmniejszyć niepokój społeczny wywołany przez rzekomo fatalne warunki w chicagowskich rzeźniach, opisanych w wyssanej z palca powieści "Grzęzawisko" Uptona Sinclaira, po którym spadł eksport amerykańskiego mięsa. Producenci sami zaczęli zabiegać o więcej państwowej kontroli, by uspokoić klientów i ograniczyć konkurencję ze strony mniejszych krajowych producentów.
 - Skupiano się głównie na żywności i kontrolą zajmował się Departament Rolnictwa.
@@ -119,7 +119,7 @@ Wrocław 2024 r.
 - Sam opóźnienia związane z wejściem w życie Poprawek z 1962 r. doprowadziły do 2009 r. do śmierci 15 milionów Amerykanów. To 10 razy więcej Amerykanów, niż ginęło na wszystkich wojnach od powstania USA do 2017 roku.
 
 
-# 4. Ubezpieczenia społeczne
+## 4. Ubezpieczenia społeczne
 
 - Jeśli ludzie płacą bezpośrednio, to racjonalizują wydatki. Jeśli płacą tylko ułamek kosztów, to kierują się czynnikami pozacenowymi, takimi jak jakość, czy dostępność świadczeń i konsumują ich więcej, przez strona trzecia płacąca za te usługi (np. ubezpieczyciel), musi podnosić ceny. 
 - Na przełomie XIX i XX wieku 25% dorosłych Amerykanów należało do stowarzyszeń braterskich, które w zamian za miesięczne opłaty wypłacały świadczenia po śmierci lub nabyciu kalectwa przez członka rodziny, oraz zawierało umowy z lekarzami, leczącymi członków stowarzyszenia (tzw. praktyki lożowe). Koszt wynosił 1-2 dolary rocznie za osobę, czyli tyle, co rynkowy koszt pojedynczej wizyty i tyle, co dniówka robotnika.
@@ -160,15 +160,15 @@ Wrocław 2024 r.
 - Nakłady na Medicare, Medicaid, CHIP i ObamaCare wynosiły w 2018 największą część budżetu federalnego - 26%. W 2019 r. to 5,2% PKB, w 2049 ma być 9,3% PKB.
 
 
-# 5. Prywatne ubezpieczenia zdrowotne
+## 5. Prywatne ubezpieczenia zdrowotne
 
 - W 1919 roku utracone zarobki na skutek choroby pracownika były czterokrotnie wyższe niż wydatki medyczne związane z leczeniem choroby.
 - Bardziej więc zainteresowaniem cieszyły się ubezpieczenia chorobowe, a nie zdrowotne, bo usługi medyczne były relatywnie tanie.
 - 
 
 
-# 6. Szpitalnictwo
+## 6. Szpitalnictwo
 
 
-# 7. Podsumowanie
+## 7. Podsumowanie
 

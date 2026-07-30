@@ -1,0 +1,91 @@
+/* 00 Daily log */
+.nav-folder-title[data-path="00 Daily log"],
+.nav-folder-title[data-path="00 Daily log"] .nav-folder-title-content,
+.nav-folder-title[data-path^="00 Daily log/"],
+.nav-folder-title[data-path^="00 Daily log/"] .nav-folder-title-content,
+.nav-file-title[data-path^="00 Daily log/"],
+.nav-file-title[data-path^="00 Daily log/"] .nav-file-title-content {
+    color: #46b5be !important;
+}
+
+/* 01 Input & 01 Input przejściowy */
+.nav-folder-title[data-path="01 Input"],
+.nav-folder-title[data-path="01 Input"] .nav-folder-title-content,
+.nav-folder-title[data-path^="01 Input/"],
+.nav-folder-title[data-path^="01 Input/"] .nav-folder-title-content,
+.nav-file-title[data-path^="01 Input/"],
+.nav-file-title[data-path^="01 Input/"] .nav-file-title-content,
+.nav-folder-title[data-path="01 Input przej\15bciowy"],
+.nav-folder-title[data-path="01 Input przejściowy"],
+.nav-folder-title[data-path="01 Input przejściowy"] .nav-folder-title-content,
+.nav-folder-title[data-path^="01 Input przej\15bciowy/"],
+.nav-folder-title[data-path^="01 Input przejściowy/"],
+.nav-folder-title[data-path^="01 Input przejściowy/"] .nav-folder-title-content,
+.nav-file-title[data-path^="01 Input przej\15bciowy/"],
+.nav-file-title[data-path^="01 Input przejściowy/"],
+.nav-file-title[data-path^="01 Input przejściowy/"] .nav-file-title-content {
+    color: #e05555 !important;
+}
+
+/* 02 MOC */
+.nav-folder-title[data-path="02 MOC"],
+.nav-folder-title[data-path="02 MOC"] .nav-folder-title-content,
+.nav-folder-title[data-path^="02 MOC/"],
+.nav-folder-title[data-path^="02 MOC/"] .nav-folder-title-content,
+.nav-file-title[data-path^="02 MOC/"],
+.nav-file-title[data-path^="02 MOC/"] .nav-file-title-content {
+    color: #9d65c9 !important;
+}
+
+/* 03 Atomy */
+.nav-folder-title[data-path="03 Atomy"],
+.nav-folder-title[data-path="03 Atomy"] .nav-folder-title-content,
+.nav-folder-title[data-path^="03 Atomy/"],
+.nav-folder-title[data-path^="03 Atomy/"] .nav-folder-title-content,
+.nav-file-title[data-path^="03 Atomy/"],
+.nav-file-title[data-path^="03 Atomy/"] .nav-file-title-content {
+    color: #52b788 !important;
+}
+
+/* 04 Źródła */
+.nav-folder-title[data-path="04 \179\142\131d\142a"],
+.nav-folder-title[data-path="04 Źródła"],
+.nav-folder-title[data-path="04 Źródła"] .nav-folder-title-content,
+.nav-folder-title[data-path^="04 \179\142\131d\142a/"],
+.nav-folder-title[data-path^="04 Źródła/"],
+.nav-folder-title[data-path^="04 Źródła/"] .nav-folder-title-content,
+.nav-file-title[data-path^="04 \179\142\131d\142a/"],
+.nav-file-title[data-path^="04 Źródła/"],
+.nav-file-title[data-path^="04 Źródła/"] .nav-file-title-content {
+    color: #e08b45 !important;
+}
+
+/* 05 Ludzie */
+.nav-folder-title[data-path="05 Ludzie"],
+.nav-folder-title[data-path="05 Ludzie"] .nav-folder-title-content,
+.nav-folder-title[data-path^="05 Ludzie/"],
+.nav-folder-title[data-path^="05 Ludzie/"] .nav-folder-title-content,
+.nav-file-title[data-path^="05 Ludzie/"],
+.nav-file-title[data-path^="05 Ludzie/"] .nav-file-title-content {
+    color: #e3b04b !important;
+}
+
+/* 06 Bazy danych */
+.nav-folder-title[data-path="06 Bazy danych"],
+.nav-folder-title[data-path="06 Bazy danych"] .nav-folder-title-content,
+.nav-folder-title[data-path^="06 Bazy danych/"],
+.nav-folder-title[data-path^="06 Bazy danych/"] .nav-folder-title-content,
+.nav-file-title[data-path^="06 Bazy danych/"],
+.nav-file-title[data-path^="06 Bazy danych/"] .nav-file-title-content {
+    color: #5b9bd5 !important;
+}
+
+/* 07 Language lab */
+.nav-folder-title[data-path="07 Language lab"],
+.nav-folder-title[data-path="07 Language lab"] .nav-folder-title-content,
+.nav-folder-title[data-path^="07 Language lab/"],
+.nav-folder-title[data-path^="07 Language lab/"] .nav-folder-title-content,
+.nav-file-title[data-path^="07 Language lab/"],
+.nav-file-title[data-path^="07 Language lab/"] .nav-file-title-content {
+    color: #d46a95 !important;
+}
