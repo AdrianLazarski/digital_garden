@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 22:41
+---
 
 1. [[Empiryzm (epistemologia)|Stanowisko epistemologiczne]].
 2. Kierunek w historii filozofii.
@@ -50,11 +60,6 @@
 - [[Auguste Comte]]: pozytywizm
 - [[John Stuart Mill]]: empiryzm, ale już nie taki naiwny, bo stwierdził, że prawa nauki są hipotezami w stosunku do wyników doświadczenia, a nie ich wnioskami. Teoretyk indukcji.
 - [[Immanuel Kant]]
-
-
-#filozofia #empiryzm #filozofia/epistemologia #filozofia/historia_filozofii 
-
-
 
 
 

@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 22:45
+---
 
 - Nauka o istocie czystej świadomości.
 - 2 rozumienia:
@@ -182,7 +193,3 @@ Front-loading
 - Fenomenologię pojmuje się jako dziedzinę wspierającą interpretację i projektowanie eksperymentów, które miałyby służyć weryfikacji tez fenomenologicznych.
 - Podobną metodę stosował Merleau-Ponty w Fenomenologii percepcji, gdzie przeprowadzał fenomenologiczną interpretację badań psychologicznych i przypadków psychopatologicznych.
 - Zdaniem Gallaghera, metoda jest znacznie bardziej efektywna, gdy fenomenolog jest obecny od samego początku przy projektowaniu eksperymentu.
-
-
-
-#filozofia #filozofia/historia_filozofii 

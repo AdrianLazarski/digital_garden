@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Egzystencjalizm.md",
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Empiryzm (historia).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Egzystencjalizm"
+              "title": "Empiryzm (historia)"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Etyka.md",
+                "file": "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Etyka"
+              "title": "MOC Starożytne szkoły filozoficzne"
+            }
+          },
+          {
+            "id": "7515cce8f7b0f65b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Filozofowie starożytni"
             }
           },
           {
@@ -79,7 +103,8 @@
               "title": "Jasiński Łukasz, Agonia"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Egzystencjalizm.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,8 +224,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
-                "collapseAll": false,
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -209,7 +234,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do Jasiński Łukasz, Agonia"
+              "title": "Linki zwrotne"
             }
           },
           {
@@ -218,12 +243,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące od Jasiński Łukasz, Agonia"
+              "title": "Łącza wychodzące"
             }
           }
         ],
@@ -282,34 +307,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b469543585e1dba6",
+  "active": "26ffc829ba46e1d8",
   "lastOpenFiles": [
-    "01 Input przejściowy/Filozofia/Historia filozofii/Eklektycy (Jonia i Elea).md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "02 MOC/MOC Filozofia.md",
+    "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md",
+    "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Empiryzm (historia).md",
+    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Etyka.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Epikureizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Feminizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Fenomenologia.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Egzystencjalizm.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Cyrenaicy.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Cynicy.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Awerroizm.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Atomizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Eklektycy (Jonia i Elea).md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Empiriokrytycyzm.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Akademia Platońska.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Atomizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Awerroizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Cynicy.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Cyrenaicy.md",
     "03 Atomy/Eugenika.md",
     "03 Atomy/Biotechnologia.md",
     "03 Atomy/Aborcja.md",
     "03 Atomy/Akt.md",
-    "02 MOC/MOC Filozofia/MOC Etyka.md",
-    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
-    "03 Atomy/Ruch.md",
-    "03 Atomy/Rzecz.md",
-    "03 Atomy/Separacja.md",
-    "03 Atomy/Zasada przyczynowości sprawczej.md",
-    "03 Atomy/Zasada przyczynowości celowej.md",
-    "03 Atomy/Wariabilizm.md",
-    "03 Atomy/Transcendencja.md",
-    "03 Atomy/Teoria substancji i przypadłości.md",
-    "03 Atomy/Teoria istoty i istnienia.md",
-    "03 Atomy/Teoria aktu i możności.md",
-    "03 Atomy/Teoria formy i materii.md",
-    "03 Atomy/Substancja.md",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",

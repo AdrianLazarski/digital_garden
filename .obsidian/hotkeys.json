@@ -166,5 +166,11 @@
       ],
       "key": "U"
     }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
   ]
 }

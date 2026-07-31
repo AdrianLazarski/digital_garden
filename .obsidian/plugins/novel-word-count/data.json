@@ -101478,20 +101478,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 533,
+      "wordCount": 529,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.7766666666666666,
-      "characterCount": 4487,
-      "nonWhitespaceCharacterCount": 3863,
-      "newlineCount": 77,
-      "readingTimeInMinutes": 2.0113207547169814,
+      "pageCount": 1.7633333333333334,
+      "characterCount": 4407,
+      "nonWhitespaceCharacterCount": 3791,
+      "newlineCount": 73,
+      "readingTimeInMinutes": 1.9962264150943396,
       "linkCount": 35,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397076,
-      "modifiedDate": 1785156964945,
-      "sizeInBytes": 4656,
+      "modifiedDate": 1785530538914,
+      "sizeInBytes": 4759,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.7766666666666666,
@@ -101499,6 +101499,17 @@
         "characterCount": 4487,
         "nonWhitespaceCharacterCount": 3863,
         "newlineCount": 77
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/nowożytna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 22:41"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Empiriokrytycyzm.md.edtz": {
@@ -101532,20 +101543,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 43,
+      "wordCount": 39,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.14333333333333334,
-      "characterCount": 469,
-      "nonWhitespaceCharacterCount": 406,
-      "newlineCount": 16,
-      "readingTimeInMinutes": 0.16226415094339622,
+      "pageCount": 0.13,
+      "characterCount": 402,
+      "nonWhitespaceCharacterCount": 341,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.1471698113207547,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397064,
-      "modifiedDate": 1785156964859,
-      "sizeInBytes": 484,
+      "modifiedDate": 1785530488704,
+      "sizeInBytes": 600,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.14333333333333334,
@@ -101553,6 +101564,17 @@
         "characterCount": 469,
         "nonWhitespaceCharacterCount": 406,
         "newlineCount": 16
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/nowożytna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 22:41"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Eklektycy (Jonia i Elea).md.edtz": {
@@ -101598,8 +101620,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397052,
-      "modifiedDate": 1785528513715,
-      "sizeInBytes": 1401,
+      "modifiedDate": 1785530343008,
+      "sizeInBytes": 1394,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5333333333333333,
@@ -101613,7 +101635,7 @@
         "tags": [
           "atom",
           "definicja",
-          "filozofia/historia_filozofii"
+          "filozofia/starożytna"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
@@ -101663,8 +101685,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397040,
-      "modifiedDate": 1785528505905,
-      "sizeInBytes": 1722,
+      "modifiedDate": 1785530364483,
+      "sizeInBytes": 1742,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.6233333333333333,
@@ -101678,7 +101700,8 @@
         "tags": [
           "atom",
           "definicja",
-          "filozofia/historia_filozofii"
+          "filozofia/nowożytna",
+          "filozofia/współczesna"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
@@ -101728,8 +101751,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397028,
-      "modifiedDate": 1785528490226,
-      "sizeInBytes": 350,
+      "modifiedDate": 1785530375079,
+      "sizeInBytes": 343,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.06666666666666667,
@@ -101743,7 +101766,7 @@
         "tags": [
           "atom",
           "definicja",
-          "filozofia/historia_filozofii"
+          "filozofia/starożytna"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
@@ -101793,8 +101816,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397012,
-      "modifiedDate": 1785528164910,
-      "sizeInBytes": 1583,
+      "modifiedDate": 1785530384940,
+      "sizeInBytes": 1576,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5866666666666667,
@@ -101808,7 +101831,7 @@
         "tags": [
           "atom",
           "definicja",
-          "filozofia/historia_filozofii"
+          "filozofia/starożytna"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
@@ -101858,8 +101881,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397000,
-      "modifiedDate": 1785528142477,
-      "sizeInBytes": 1488,
+      "modifiedDate": 1785530400440,
+      "sizeInBytes": 1485,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.48,
@@ -101873,7 +101896,7 @@
         "tags": [
           "atom",
           "definicja",
-          "filozofia/historia_filozofii"
+          "filozofia/średniowieczna"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
@@ -101923,8 +101946,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304396987,
-      "modifiedDate": 1785528119570,
-      "sizeInBytes": 6535,
+      "modifiedDate": 1785530457848,
+      "sizeInBytes": 6582,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.5833333333333335,
@@ -101939,7 +101962,9 @@
           "atom",
           "definicja",
           "filozofia/metafizyka",
-          "filozofia/historia_filozofii"
+          "filozofia/starożytna",
+          "filozofia/nowożytna",
+          "historia/średniowieczna"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
@@ -101989,8 +102014,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304396973,
-      "modifiedDate": 1785527787707,
-      "sizeInBytes": 1196,
+      "modifiedDate": 1785530467018,
+      "sizeInBytes": 1189,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.45666666666666667,
@@ -102004,7 +102029,7 @@
         "tags": [
           "atom",
           "definicja",
-          "filozofia/historia_filozofii"
+          "filozofia/starożytna"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",

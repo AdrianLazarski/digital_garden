@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/starożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 22:45
+---
 
 - Założycielem [[Epikur]]. Kupił dom z ogrodem i założył tam szkołę filozoficzną, nazywała się *Kepos*, czyli "Ogród".
 - Z czasem epikureizm ze szkoły filozoficznej przekształcił się w elitarną, ezoteryczną sektę.
@@ -38,4 +48,3 @@
 - [[Lukrecjusz]] – szkoła młodsza/epikureizm rzymski.
 
 
-#filozofia #filozofia/starożytna #filozofia/grecka #filozofia/rzymska #filozofia/etyka #filozofia/metafizyka #filozofia/historia_filozofii 
