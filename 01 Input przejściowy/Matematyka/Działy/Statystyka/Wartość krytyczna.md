@@ -22,6 +22,6 @@ Im wyższy poziom ufności, tym większa wartość krytyczna, ponieważ chcemy, 
 Wartość krytyczna **1,96** odpowiada poziomowi ufności **95%** w rozkładzie normalnym. Oznacza to, że jeśli przesuniemy się **1,96 odchyleń standardowych** w prawo i w lewo od średniej, to te przesunięcia obejmą 95% całego rozkładu. Innymi słowy, 95% przypadków znajdzie się w przedziale wyznaczonym przez średnią plus i minus 1,96×błąd standardowy.
 
 
-#statystyka #matematyka 
+#matematyka/stosowana/statystyka #matematyka 
 
 

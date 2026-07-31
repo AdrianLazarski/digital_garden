@@ -7,4 +7,4 @@ Inaczej populacja generalna. Zbiór dowolnych elementów ([[Jednostka statystycz
 
 
 
-#statystyka #matematyka 
+#matematyka/stosowana/statystyka #matematyka 

@@ -7,4 +7,4 @@ np. temperatura w kelwinach, napięcie elektryczne, inflacja, bezrobocie.
 
 - Ma własności słabszych skal ([[Skala nominalna]], [[Skala pomiarowa]], [[Skala przedziałowa]]) + można też liczby w tej skali dzielić
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

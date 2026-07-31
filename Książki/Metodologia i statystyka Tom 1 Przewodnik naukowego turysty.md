@@ -378,4 +378,4 @@ b.	„uznać wyniki za istotny” s. 178
 Jakby poprawili te błędy, to bym podniósł ocenę o 1.
 
 
-#statystyka #logika/metodologia #recenzja 
+#matematyka/stosowana/statystyka #logika/metodologia #recenzja 

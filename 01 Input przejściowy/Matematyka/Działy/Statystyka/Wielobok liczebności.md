@@ -15,4 +15,4 @@ Linia łamana powstała z połączenia punktów, których współrzędnymi są �
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

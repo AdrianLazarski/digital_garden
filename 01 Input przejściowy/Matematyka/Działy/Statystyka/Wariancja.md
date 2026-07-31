@@ -23,4 +23,4 @@ Dodatni pierwiastek z wariancji to [[Odchylenie standardowe]].
 ![[Pasted image 20241109150848.png]]
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

@@ -15,4 +15,4 @@ Wiąże się z nim [[Reguła trzech sigm]].
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

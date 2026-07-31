@@ -5,4 +5,4 @@ Połowa różnicy między trzecim i pierwszym kwartylem.
 
 Jedna z [[Miary zmienności|miar zmienności]].
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

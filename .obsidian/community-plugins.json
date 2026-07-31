@@ -5,13 +5,12 @@
   "obsidian-bible-reference",
   "obisidian-note-linker",
   "obsidian-emoji-toolbar",
-  "better-word-count",
-  "novel-word-count",
   "obsidian-latex-suite",
   "templater-obsidian",
   "obsidian-linter",
   "image-converter",
   "obsidian-better-command-palette",
   "obsidian-git",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "novel-word-count"
 ]

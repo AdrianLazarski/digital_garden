@@ -4,4 +4,4 @@ Inaczej obserwacja. Element składowy badanej [[Zbiorowość statystyczna|zbioro
 Jednostki różnią się wartościami badanej [[Cechy statystyczne|cechy statystycznej]].
 
 
-#statystyka #matematyka 
+#matematyka/stosowana/statystyka #matematyka 

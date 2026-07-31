@@ -10,4 +10,4 @@ Inaczej skala rangowa.
 	- przechodniość
 - Podlega rangowaniu, czyli określeniu miejsca danego pomiaru w ustalonym porządku. Rangi określają tylko porządek, a nie różnicę.
 
-#statystyka #matematyka 
+#matematyka/stosowana/statystyka #matematyka 

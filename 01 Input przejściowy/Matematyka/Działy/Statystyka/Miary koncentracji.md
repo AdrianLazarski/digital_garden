@@ -8,4 +8,4 @@ Służą do badania stopnia nierównomierności rozkładu ogólnej sumy wartośc
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

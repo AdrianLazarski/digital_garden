@@ -30,4 +30,4 @@ gdzie
 Dla rozkładów symetrycznych lub o niskiej skośności:
 3Me=D+2M
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

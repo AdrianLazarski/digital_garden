@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/metafizyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 20:53
+---
 
 - Dwa ujęcia natury:
 	1. w sensie biologiczno-kosmologicznym przeciwstawia się temu wszystkiemu, co duchowe i wolne, sztuczne i będące wytworem kultury. Natura w takim rozumieniu nie ma nic wspólnego z życiem moralnym człowieka. Niedokładny, ale bliski synonim to przyroda. 
@@ -14,6 +24,3 @@
 
 [[Tomasz z Akwinu]]: "Natura - stanowi [[Istota|istotę]] rzeczy ujętą ze względu na to, że jest przyporządkowana do właściwych bytowi działań." De ente et essentia 4.
 
-
-
-#filozofia #filozofia/metafizyka 

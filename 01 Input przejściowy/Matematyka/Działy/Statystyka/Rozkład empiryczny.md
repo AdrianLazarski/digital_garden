@@ -34,4 +34,4 @@ Rozkład siodłowy - szczególny przypadek rozkładu wielomodalnego/bimodalngo. 
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

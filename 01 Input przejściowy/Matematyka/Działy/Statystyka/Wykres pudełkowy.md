@@ -12,4 +12,4 @@ ang. *Box-plot (box and whisker plot)*
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

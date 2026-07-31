@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/metafizyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 20:54
+---
 
 Relacja zgodności pomiędzy bytem, a intelektem, który ten byt zaprojektował.
 
@@ -25,4 +35,3 @@ Prawda koherencyjna - relacja zgodności pomiędzy poznaniem, a poznaniem
 Prawda pragmatyczna - relacja zgodności pomiędzy poznaniem, a działaniem
 
 
-#filozofia #filozofia/metafizyka #tomizm 

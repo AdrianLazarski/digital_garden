@@ -16,11 +16,11 @@ np. "uznanie obu zdań A i A-->B jest warunkiem wystarczającym do uznania zdani
 Dział [[Filozofia/Działy filozofii/Logika/Semiotyka|semiotyki]].
 
 
-
+[[Asercja]]
 [[Błędy w rozumowaniu]]
 [[Erystyka]]
 [[Supozycja]]
-
+[[Kwalifikacja pragmatyczna]]
 
 
 

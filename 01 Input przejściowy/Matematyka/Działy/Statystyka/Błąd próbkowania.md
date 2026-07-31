@@ -9,4 +9,4 @@ Rodzaj błędu metodologicznego.
 - **Przykład**: Badanie skuteczności leku tylko na młodych pacjentach.
 
 
-#statystyka 
+#matematyka/stosowana/statystyka 

@@ -18,4 +18,4 @@ D ~~ 3 Me - 2 śr. ar.
 Dla rozkładów symetrycznych lub o niskiej skośności:
 3Me=D+2M
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

@@ -15,4 +15,4 @@ Częstość względna = odestek = frakcja
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

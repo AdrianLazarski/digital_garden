@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/metafizyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 20:51
+---
 
 - *Meros* – część, *morfe* – forma
 - Współczesna próba zmodyfikowania teorii [[Hylemorfizm|hylemorfizmu]].
@@ -10,4 +20,3 @@
 - Konstytucje ciał można więc tłumaczyć ich złożeniem z wielu pokładów substancjalnych i jednej formy gatunkowej.
 
 
-#filozofia #filozofia/metafizyka 

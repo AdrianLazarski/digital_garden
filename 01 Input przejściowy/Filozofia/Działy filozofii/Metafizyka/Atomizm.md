@@ -1,6 +1,0 @@
-
-
-
-
-
-#filozofia/metafizyka #filozofia

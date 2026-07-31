@@ -3,4 +3,4 @@ Zob. [[Miary asymetrii]]
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

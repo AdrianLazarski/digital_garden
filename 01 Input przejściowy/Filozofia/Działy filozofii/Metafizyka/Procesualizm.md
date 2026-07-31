@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/metafizyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 20:55
+---
 
 
 - Filozofia procesu [[Alfred North Whitehead|Whiteheada]] - zmiana jest podstawowym przejawem bytowania rzeczywistości.
@@ -7,5 +17,3 @@
 - Świat składa się ze zdarzeń. Każde z nich wchodzi w relację z innymi zdarzeniami i te relacje tworzą bytowość, istotę świata. W tym ujęciu zmienność jest istotą rzeczywistości, a to trwałość jest czymś wymagającym wyjaśnienia. 
 - Całość jest pierwotniejsza od części. Istotą bytu jest jego „kreatywność” – wejście w relacje z innymi bytami; wszystko zależy od wszystkiego – całość warunkuje istnienie swoich części.
 
-
-#filozofia #filozofia/metafizyka 

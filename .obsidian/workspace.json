@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "011feabf12d1c9d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Semiotyka.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Semiotyka"
-            }
-          },
-          {
             "id": "b469543585e1dba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Semiotyka.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Przyczyna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Semiotyka"
+              "title": "Przyczyna"
             }
           },
           {
-            "id": "410bff8e49045979",
+            "id": "ef903653377c4890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Składnia.md",
+                "file": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Składnia"
-            }
-          },
-          {
-            "id": "47af148886ce514d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Epistemologia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Epistemologia"
+              "title": "MOC Metafizyka"
             }
           },
           {
@@ -161,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:atom",
+                "query": "atomizm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Semiotyka.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Przyczyna.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -274,7 +226,8 @@
               "title": "Łącza wychodzące od Jasiński Łukasz, Agonia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d265702fc91191e6",
@@ -316,7 +269,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "command-palette:Otwórz paletę poleceń": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Otwórz okno szybkiego wyboru": false,
       "graph:Otwórz podgląd grafu": false,
       "canvas:Stwórz nową tablicę": false,
@@ -326,37 +278,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
       "obisidian-note-linker:Note Linker": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "011feabf12d1c9d1",
+  "active": "b469543585e1dba6",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Semiotyka.md",
-    "02 MOC/MOC Logika.md",
-    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Semiotyka.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Spójność syntaktyczna.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Składnia.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Supozycja.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Tautologia.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Systemy dedukcji naturalnej.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Twierdzenie Gödla.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Uniwersum.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wartość logiczna.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Antynomia.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Arytmetyka liczb naturalnych.md",
-    "02 MOC/MOC Filozofia.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia logiki.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Erystyka.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Logika.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dowód zwykły.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dowód trzyczęściowy.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dowód niezałożeniowy.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dowód.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Desygnat.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Deskrypcja.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dedukcja.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Definicja.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Przedmiot.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Procesualizm.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Prawda ontyczna.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Pojęcie.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Piękno ontyczne.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Ontologia.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Odrębność.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Nominalizm.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Natura.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Niebyt.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Możność.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Monizm.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Meromorfizm.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Metafizyka.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Metafizyka klasyczna.md",
+    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Materia.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Jedność.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Istota.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Istnienie.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Idea.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Forma.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Hylozoizm.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Hylemorfizm.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Gatunek.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Dynamizm.md",
+    "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",
     "03 Atomy/załączniki/Matryca hohfeldowska.png",

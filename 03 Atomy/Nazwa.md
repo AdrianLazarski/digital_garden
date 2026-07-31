@@ -15,7 +15,7 @@ Nazwy są wtórne względem zdań. Dziecko krzyczy "mama", ale to nie nazwa.
   
 Nazwa prosta - tylko nazwa.
 Nazwa złożona - zawiera co najmniej 1 funktor.
-Nazwa generalna - ma treść (intensję). Inaczej [[deskrypcja]].
+Nazwa generalna - ma treść (intensję). Inaczej [[Deskrypcja]].
 
   
  

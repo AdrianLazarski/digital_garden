@@ -22,4 +22,4 @@ Szeregi statystyczne
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

@@ -21,4 +21,4 @@ h<sub>Q1</sub>,n<sub>Q1</sub>,w<sub>Q1</sub> rozpiętość, liczebność i częs
 
 ![[Pasted image 20241123152517.png]]
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

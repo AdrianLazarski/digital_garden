@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - matematyka/podstawy/metalogika
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 20:26
+---
 
 Uproszczona wersja języka CLS:
 	Słownik: p1, p2, p3, ˄, ˅, ~
@@ -28,4 +38,3 @@ Wyrażenia sensowne: Z1, Z1∩Z2, Z1∪Z2, Z1-Z2, Z1=Z2
 	3. (pi˄pj)°=:(Xi)∩(Xj)
 	4. (pi˅pj)°=:(Xi)∪(Xj)
 
-#filozofia #logika 

@@ -14,4 +14,4 @@ c - rozpiętość przedziału klasowego
 R - obszar zmienności cechy (różnica między największą i najmniejszą wartością cechy)
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

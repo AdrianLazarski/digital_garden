@@ -4,4 +4,4 @@
 - Wśród skal nominalnych wyróżnia się czasem skale dychotomiczne, przyjmujące tylko dwie wartości, np. tak/nie.
 
 
-#statystyka #matematyka 
+#matematyka/stosowana/statystyka #matematyka 

@@ -5,4 +5,4 @@ zmieniającymi się skokami, bez wartości pośrednich.
 Jej przeciwieństwo to [[Zmienna ciągła]].
 
 
-#statystyka #matematyka 
+#matematyka/stosowana/statystyka #matematyka 

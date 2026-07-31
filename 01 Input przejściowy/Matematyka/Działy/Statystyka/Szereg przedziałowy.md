@@ -14,4 +14,4 @@
 Górna granica + dolna granica
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

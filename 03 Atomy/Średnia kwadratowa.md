@@ -1,7 +1,7 @@
 ---
 created: 2026-01-05 17:11
 tags:
-  - statystyka
+  - matematyka/stosowana/statystyka
   - atom
   - definicja
 modified date: 2026-01-05 17:13

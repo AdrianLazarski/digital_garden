@@ -17,4 +17,4 @@ Me - Q < x<sub>typ</sub> < Me+ Q
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

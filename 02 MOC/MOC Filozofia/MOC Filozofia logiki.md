@@ -24,3 +24,6 @@ Zastosowania logiki: Filozofowie logiki zastanawiają się nad różnymi obszara
 Logika nieformalna: jest ważna w kontekście codziennego myślenia i argumentacji, gdzie formalne struktury logiczne mogą być mniej wyraźne, ale istnieje potrzeba analizy zwykłego, naturalnego sposobu myślenia i przekonywania.
 
 Związki z innymi dyscyplinami filozoficznymi: Filozofia logiki bada związki między logiką a matematyką, zwłaszcza w kontekście pytania o fundamenty matematyki.
+
+
+[[Fizykalizm]]

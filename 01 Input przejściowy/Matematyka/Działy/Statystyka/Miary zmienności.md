@@ -6,4 +6,4 @@ zob. [[Miary rozproszenia]]
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

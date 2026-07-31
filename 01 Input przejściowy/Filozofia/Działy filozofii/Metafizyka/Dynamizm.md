@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/metafizyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 20:48
+---
 
 - *Dynamis* - siła, moc, źródło działania
 - Działanie sił (ruch, zmienność, stawanie się etc.) jako pierwotna zasada istnienia bytów materialnych.
@@ -21,4 +31,3 @@
 	- Rzeczywistość to nieustanne stawanie się, ewolucja. Pęd życiowy (*elan vital*), siła motoryczna, przyczyną aktywności organizmów żywych.
 
 
-#filozofia #filozofia/metafizyka 

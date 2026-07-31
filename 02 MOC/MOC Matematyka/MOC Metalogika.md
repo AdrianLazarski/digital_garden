@@ -17,3 +17,7 @@ modified date: 2026-07-13 17:49
 [[MOC Teoria modeli]]
 [[MOC Teoria dowodu]]
 
+
+
+Zagadnienia:
+[[Przekłady]]

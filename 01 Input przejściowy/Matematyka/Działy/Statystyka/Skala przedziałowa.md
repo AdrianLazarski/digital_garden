@@ -1,4 +1,4 @@
 Zob. [[Skala równomierna]]
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

@@ -6,4 +6,4 @@ Szereg powstały z [[Szereg rozdzielczy|szeregu rozdzielczego]] przez kolejne do
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

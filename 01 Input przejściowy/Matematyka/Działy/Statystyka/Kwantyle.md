@@ -8,4 +8,4 @@ Wartości badanej cechy w zbiorowości, które dzielą ją na określone częśc
 • [[Centyle]] – na 100 części
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

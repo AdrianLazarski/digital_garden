@@ -15,4 +15,4 @@ N = n<sub>1</sub> + n<sub>2</sub> + ... + n<sub>k</sub>
 ![[Pasted image 20241004123556.png]]
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

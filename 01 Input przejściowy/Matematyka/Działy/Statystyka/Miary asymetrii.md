@@ -42,4 +42,4 @@ Stosujemy gdy rozkład empiryczny uniemożliwia obliczenie dominanty czy średni
 
 W odniesieniu do szeregów wyliczających, dobrym narzędziem jest [[Wykres pudełkowy]].
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

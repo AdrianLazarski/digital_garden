@@ -28,4 +28,4 @@ Inaczej szereg strukturalny.
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

@@ -8,4 +8,4 @@ Stosuje się do badania średniego tempa zmian zjawisk.
 ![[Pasted image 20241004124056.png]]
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

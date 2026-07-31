@@ -6,4 +6,4 @@ W każdym rozkładzie normalnym:
 ![[Pasted image 20241005114055.png]]
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

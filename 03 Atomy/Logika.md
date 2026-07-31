@@ -5,7 +5,7 @@
 
 
 - Bada czy obserwacje pokrywają się z wynikaniem logicznym.   
-    Przedmiotem logiki jest [[Wynikanie logiczne|wynikanie logiczne]] i [[prawda logiczna]]. Nieznański
+    Przedmiotem logiki jest [[Wynikanie logiczne|wynikanie logiczne]] i [[Prawda logiczna]]. Nieznański
 - Logika to teoria wynikania logicznego. 
 - "Logika to zespół nauk dotyczących poznania i języka". Stępień
 

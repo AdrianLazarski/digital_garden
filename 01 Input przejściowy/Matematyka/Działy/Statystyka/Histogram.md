@@ -4,4 +4,4 @@ Używa się szczególnie dla zmiennych dyskretnych.
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

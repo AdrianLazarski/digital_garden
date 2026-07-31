@@ -16,4 +16,4 @@ Q - [[Rozstęp kwartylowy]]
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

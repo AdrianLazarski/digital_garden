@@ -1,3 +1,3 @@
 Zob. [[Kurtoza]]
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

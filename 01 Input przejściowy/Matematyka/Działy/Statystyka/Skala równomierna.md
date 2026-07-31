@@ -11,4 +11,4 @@ Inaczej skala przedziałowa/interwałowa.
 - Można na nich wykonywać te operacje, co na skalach słabych ([[Skala nominalna]], [[Skala porządkowa]]) + obliczanie średnich i miar zróżnicowania jednostek
 - Nie można wykonywać dzielenia na liczbach w tej skali.
 
-#statystyka #matematyka 
+#matematyka/stosowana/statystyka #matematyka 

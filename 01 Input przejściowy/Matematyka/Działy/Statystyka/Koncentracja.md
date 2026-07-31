@@ -16,4 +16,4 @@ Rozkład ogólnej sumy wartości badanej cechy pomiędzy poszczególne [[Jednost
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

@@ -9,4 +9,4 @@ Inaczej wartość środkowa. Drugi [[Kwartyle|kwartyl]]. Dzieli zbiór obserwacj
 Dla rozkładów symetrycznych lub o niskiej skośności:
 3Me=D+2M
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

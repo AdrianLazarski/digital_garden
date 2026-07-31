@@ -26,4 +26,4 @@ Dzielą się na:
 
 
 
-#statystyka #matematyka 
+#matematyka/stosowana/statystyka #matematyka 

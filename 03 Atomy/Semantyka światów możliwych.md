@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - logika/formalna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 20:25
+---
 
 
 Autorem [[Saul Kripke]].
@@ -30,5 +40,3 @@ Semantyka:
 - Zbiór φ formuł prawdziwy w ⊫ jest logiką klasy F.
 - F=<w1, Id= > ⊫{F} - logika klasyczna
 
-
-#logika #filozofia 

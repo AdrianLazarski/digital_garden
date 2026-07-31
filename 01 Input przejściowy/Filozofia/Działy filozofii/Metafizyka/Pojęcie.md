@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/metafizyka
+  - filozofia/języka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 20:53
+---
 
 
 Pojęcie (gr. *ennoia*, *idea*, *logos*; łac. *notio*, *conceptus*, *ratio*, *idea*) - akt czysto myślowego, nienaocznego przedstawienia czegoś lub wytwór tego aktu. 
@@ -22,5 +33,3 @@ Jest ich 7: 
 6. [[Dobro|Dobro ontyczne]] - *bonum*
 7. [[Piękno ontyczne|Piękno]]- *pulchrum*
 
-
-#filozofia #filozofia/metafizyka #tomizm #filozofia/języka 

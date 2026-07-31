@@ -6,4 +6,4 @@ Jej przeciwieństwo to [[Zmienna skokowa]].
 
 
 
-#statystyka #matematyka 
+#matematyka/stosowana/statystyka #matematyka 

@@ -1,4 +1,4 @@
 Zob. [[Miary średnie]]
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

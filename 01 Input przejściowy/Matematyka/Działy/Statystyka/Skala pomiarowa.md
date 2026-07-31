@@ -13,4 +13,4 @@ System symboli kodujących wyniki pomiaru. Symbole te charakteryzują mierzone
 
 
 
-#statystyka #matematyka 
+#matematyka/stosowana/statystyka #matematyka 

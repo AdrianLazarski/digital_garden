@@ -77,5 +77,12 @@
   "shimmering-focus@@show-outline-buttons": false,
   "shimmering-focus@@notices-at-bottom-right": false,
   "shimmering-focus@@show-close-buttons": false,
-  "shimmering-focus@@show-sidebar-toggle-buttons": false
+  "shimmering-focus@@show-sidebar-toggle-buttons": false,
+  "shimmering-focus@@hide-properties-in-statusbar": true,
+  "shimmering-focus@@hide-backlinks-status-bar": true,
+  "shimmering-focus@@hide-pane-relief-focus-lock-status-bar": false,
+  "shimmering-focus@@hide-languagetool-status-bar": false,
+  "shimmering-focus@@hide-pandoc-reference-list-status-bar": false,
+  "shimmering-focus@@hide-harper-status-bar": false,
+  "shimmering-focus@@active-line-highlight": "no-active-line-highlight"
 }

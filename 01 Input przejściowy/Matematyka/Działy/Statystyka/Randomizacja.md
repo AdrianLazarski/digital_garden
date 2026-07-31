@@ -4,4 +4,4 @@ Losowanie przynależności do poszczególnych grup wśród osób już włączony
 
 Nie mylić z [[Dobór losowy|doborem losowym]].
 
-#statystyka
+#matematyka/stosowana/statystyka

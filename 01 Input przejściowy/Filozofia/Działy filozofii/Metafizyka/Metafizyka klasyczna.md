@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/metafizyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 20:51
+---
 U tomistów to synonim ich metafizyki.
 
 
@@ -39,4 +49,3 @@ Prawa poznania i prawa językowe wywodzą się z praw bytowania.
 4. Metoda: Separacja
 
 
-#filozofia #filozofia/metafizyka #tomizm 

@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/metafizyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 20:52
+---
 
 
 - Źródło (zasada) przemiany bytu drugiego jako drugiego.
@@ -31,4 +41,3 @@
 
 "Dwojaka [jest] możność w stworzeniu, to jest [odnosząca się] do bytowania oraz do działania: pierwsza pochodzi ze strony materii, druga zaś ze strony formy." Potentia creaturae duplex, scilicet ad esse, et ad agere: prima se tenet ex parte materiae, secunda vero ex parte formae. S.Th I-II, 55, 2c.
 
-#filozofia #filozofia/metafizyka #tomizm #arystotelizm 

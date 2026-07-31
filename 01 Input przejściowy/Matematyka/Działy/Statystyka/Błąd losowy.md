@@ -12,4 +12,4 @@ ang. *random error*
 
 
 
-#statystyka 
+#matematyka/stosowana/statystyka 

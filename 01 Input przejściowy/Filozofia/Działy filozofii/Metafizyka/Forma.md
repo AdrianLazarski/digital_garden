@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/metafizyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 20:48
+---
 
 U Platona eidos.
 
@@ -15,5 +25,3 @@ Forma substancjalna – akt, który determinuje materię pierwszą i wyznacza je
 [[Tomasz z Akwinu]]: "Forma - [zarówno] substancjalna jak i przypadłościowa są aktami i czynią coś [czymś] aktualnym."  Quodl. 11, 5c. Forma jest aktem decydującym o tym, czym byt jest.
 
 
-
-#filozofia #filozofia/metafizyka #tomizm #arystotelizm #idealizm

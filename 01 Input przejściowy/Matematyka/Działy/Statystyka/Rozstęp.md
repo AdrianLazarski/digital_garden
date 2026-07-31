@@ -10,4 +10,4 @@ Pozycyjna [[Miary rozproszenia|miara rozproszenia]] (zmienności).
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

@@ -15,7 +15,7 @@ modified date: 2026-07-06 19:57
 [[MOC Filozofia ekonomii]]
 [[MOC Filozofia języka]]
 [[MOC Filozofia kultury]]
-[[MOC Filozofia logiki 1|MOC Filozofia logiki 1]]
+[[MOC Filozofia logiki]]
 [[MOC Filozofia matematyki]]
 [[MOC Filozofia nauki]]
 [[MOC Filozofia polityki]]

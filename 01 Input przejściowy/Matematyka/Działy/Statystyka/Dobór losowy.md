@@ -4,4 +4,4 @@ Losowe dobranie osób do badania z całej populacji.
 
 Nie mylić z [[Randomizacja|randomizacją]].
 
-#statystyka 
+#matematyka/stosowana/statystyka 

@@ -20,4 +20,4 @@ Pozycyjne:
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

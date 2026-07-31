@@ -20,4 +20,4 @@ Bezwzględne miary zmienności - wielkości mianowane, posiadające miano badane
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 

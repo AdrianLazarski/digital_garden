@@ -8,4 +8,4 @@ Inaczej: opisowe parametry struktury rozkładów.
 
 
 
-#matematyka #statystyka 
+#matematyka #matematyka/stosowana/statystyka 
