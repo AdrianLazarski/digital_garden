@@ -98471,20 +98471,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 6,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 127,
-      "nonWhitespaceCharacterCount": 113,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.033962264150943396,
+      "pageCount": 0.02,
+      "characterCount": 61,
+      "nonWhitespaceCharacterCount": 49,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.022641509433962263,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397846,
-      "modifiedDate": 1785157000091,
-      "sizeInBytes": 128,
+      "modifiedDate": 1785532781984,
+      "sizeInBytes": 249,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03,
@@ -98492,6 +98492,17 @@
         "characterCount": 127,
         "nonWhitespaceCharacterCount": 113,
         "newlineCount": 9
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/średniowieczna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 23:19"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła badeńska.md.edtz": {
@@ -98525,20 +98536,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 144,
+      "wordCount": 139,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.48,
-      "characterCount": 1388,
-      "nonWhitespaceCharacterCount": 1210,
+      "pageCount": 0.4633333333333333,
+      "characterCount": 1305,
+      "nonWhitespaceCharacterCount": 1132,
       "newlineCount": 28,
-      "readingTimeInMinutes": 0.5433962264150943,
+      "readingTimeInMinutes": 0.5245283018867924,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397833,
-      "modifiedDate": 1785156998987,
-      "sizeInBytes": 1463,
+      "modifiedDate": 1785532771828,
+      "sizeInBytes": 1562,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.48,
@@ -98546,6 +98557,17 @@
         "characterCount": 1388,
         "nonWhitespaceCharacterCount": 1210,
         "newlineCount": 28
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/nowożytna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 23:19"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Strukturalizm.md.edtz": {
@@ -98579,20 +98601,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 49,
+      "wordCount": 46,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.16333333333333333,
-      "characterCount": 467,
-      "nonWhitespaceCharacterCount": 409,
+      "pageCount": 0.15333333333333332,
+      "characterCount": 419,
+      "nonWhitespaceCharacterCount": 363,
       "newlineCount": 11,
-      "readingTimeInMinutes": 0.18490566037735848,
+      "readingTimeInMinutes": 0.17358490566037735,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397817,
-      "modifiedDate": 1785156998980,
-      "sizeInBytes": 485,
+      "modifiedDate": 1785532763924,
+      "sizeInBytes": 621,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.16333333333333333,
@@ -98600,6 +98622,17 @@
         "characterCount": 467,
         "nonWhitespaceCharacterCount": 409,
         "newlineCount": 11
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/współczesna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 23:19"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Stoicyzm.md.edtz": {
@@ -98637,16 +98670,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.5866666666666667,
-      "characterCount": 1438,
+      "characterCount": 1439,
       "nonWhitespaceCharacterCount": 1214,
-      "newlineCount": 34,
+      "newlineCount": 35,
       "readingTimeInMinutes": 0.6641509433962264,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397804,
-      "modifiedDate": 1785156997554,
-      "sizeInBytes": 1520,
+      "modifiedDate": 1785532752848,
+      "sizeInBytes": 1705,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5866666666666667,
@@ -98654,6 +98687,17 @@
         "characterCount": 1438,
         "nonWhitespaceCharacterCount": 1214,
         "newlineCount": 34
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/starożytna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 23:19"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Spór pomiędzy dialektykami i antydialektykami.md.edtz": {
@@ -98691,16 +98735,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.5533333333333333,
-      "characterCount": 1389,
+      "characterCount": 1390,
       "nonWhitespaceCharacterCount": 1183,
-      "newlineCount": 31,
+      "newlineCount": 32,
       "readingTimeInMinutes": 0.6264150943396226,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397791,
-      "modifiedDate": 1785156997547,
-      "sizeInBytes": 1452,
+      "modifiedDate": 1785532747674,
+      "sizeInBytes": 1641,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5533333333333333,
@@ -98708,6 +98752,17 @@
         "characterCount": 1389,
         "nonWhitespaceCharacterCount": 1183,
         "newlineCount": 31
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/średniowieczna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 23:19"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Spór o uniwersalia.md.edtz": {
@@ -98745,16 +98800,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 3.723333333333333,
-      "characterCount": 8296,
+      "characterCount": 8297,
       "nonWhitespaceCharacterCount": 7018,
-      "newlineCount": 86,
+      "newlineCount": 87,
       "readingTimeInMinutes": 4.215094339622642,
       "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397777,
-      "modifiedDate": 1785156997367,
-      "sizeInBytes": 8684,
+      "modifiedDate": 1785532742447,
+      "sizeInBytes": 8873,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.723333333333333,
@@ -98762,6 +98817,17 @@
         "characterCount": 8296,
         "nonWhitespaceCharacterCount": 7018,
         "newlineCount": 86
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/średniowieczna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 23:18"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Sokratycy mniejsi.md.edtz": {
@@ -98799,16 +98865,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397762,
-      "modifiedDate": 1785156997273,
-      "sizeInBytes": 0,
+      "modifiedDate": 1785532732430,
+      "sizeInBytes": 185,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -98816,6 +98882,17 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/starożytna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 23:18"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Sofiści.md.edtz": {
