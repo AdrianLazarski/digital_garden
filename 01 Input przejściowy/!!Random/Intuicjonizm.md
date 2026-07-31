@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:05
+---
 
 
 Prąd epistemologiczny, przyjmujący [[Filozofia💭/Działy filozofii 🗃️/Intuicja|intuicję]] (moralna, intelektualna, metafizyczna) jako podstawę poznania.
@@ -12,4 +23,3 @@ Różne znaczenia intuicjonizmu:
 5. W filozofii matematyki: przedmioty matematyczne istnieją wyłącznie w umyśle jako jego konstrukty.
 
 
-#filozofia #filozofia/historia_filozofii 

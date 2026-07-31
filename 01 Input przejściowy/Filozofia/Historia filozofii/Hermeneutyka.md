@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:04
+---
 
 
 - Wszelka teoria interpretacji.
@@ -14,5 +25,3 @@
 [[Paul Ricœur]] 1913-2005
 [[Gianni Vattimo]] 1936
 
-
-#filozofia #filozofia/historia_filozofii #filozofia/nowożytna #filozofia/współczesna 

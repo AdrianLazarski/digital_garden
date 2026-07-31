@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:08
+---
 
 
 • Nurt filozoficzny zapoczątkowany w XIX wieku, wyrażający sprzeciw wobec heglizmu i materializmu.
@@ -36,4 +46,3 @@ Skutki:
 - Po śmierci neokantyzmu popularna stała się ontologiczna interpretacja Kanta, do czego przyczynił się znacznie Heidegger.
 - Kontynuacja w postaci neoneokantyzmu i postneokantyzmu.
 
-#filozofia #neokantyzm #kantyzm #filozofia/historia_filozofii 

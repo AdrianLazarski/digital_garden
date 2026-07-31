@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:09
+---
 
 
 - Przełom XIX i XX wieku.  
@@ -15,4 +25,3 @@
 
 
 
-#filozofia #filozofia/polska #filozofia/historia_filozofii 

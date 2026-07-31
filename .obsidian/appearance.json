@@ -3,7 +3,10 @@
   "theme": "moonstone",
   "showViewHeader": true,
   "showRibbon": true,
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "colorful folders",
+    "kolorowe headingi"
+  ],
   "baseFontSize": 17,
   "textFontFamily": "Segoe UI",
   "monospaceFontFamily": "",

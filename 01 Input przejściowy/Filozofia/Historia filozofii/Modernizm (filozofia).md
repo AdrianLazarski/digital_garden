@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:08
+---
 
 
 - Młoda Polska w filozofii - filozofia, która powstawała w czasie tej epoki literackiej. Nazwa od cyklu artykułów [Artura Górskiego](onenote:Filozofowie\Polscy.one#Artur%20Górski%20(1870%20–%201959)&section-id={B37AE8D3-199B-4093-A04E-A790015A2D4F}&page-id={B3F33C6F-9906-4AC3-AAC4-2732003D994A}&end&base-path=https://d.docs.live.net/6bf6dec507fdeafe/Dokumenty/Filozofia).
@@ -45,4 +55,3 @@ Ogólna charakterystyka i tendencje:
 - Wacław Berent - Poddał krytyce młodopolski dekadentyzm (np. Przybyszewskiego), przeciwstawił mu wolę życia i wiarę w twórcze możliwości człowieka. Współpracował z Przesmyckim w Chimerze.
 
 
-#filozofia #filozofia/polska #filozofia/współczesna 

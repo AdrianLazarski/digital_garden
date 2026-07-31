@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:06
+---
 
 
 - Wielonurtowy ruch w Niemczech po I wojnie światowej. Odpowiedź na klęskę Niemiec w roku 1918 i ład wersalski.
@@ -19,5 +29,3 @@
 
 - Filip Memches, Naziści byli dla niego za mało radykalni, [https://tygodnik.tvp.pl/47253385/nazisci-byli-dla-niego-za-malo-radykalni-w-iii-rzeszy-udal-sie-na-wewnetrzna-emigracje](https://tygodnik.tvp.pl/47253385/nazisci-byli-dla-niego-za-malo-radykalni-w-iii-rzeszy-udal-sie-na-wewnetrzna-emigracje), dostęp 18.08.2020
 
-
-#filozofia #filozofia/niemiecka #filozofia/współczesna #filozofia/polityki #konserwatyzm #filozofia/historia_filozofii 

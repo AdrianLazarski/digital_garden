@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:03
+---
 
 - Początek pod koniec XIX w. w Niemczech. Rozwijała się we Francji, Hiszpanii i w Polsce.
 - Reakcja na [[pozytywizm]], materializm i lewicę heglowską.

@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/starożytna
+  - filozofia/nowożytna
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:04
+---
 
 
 Najogólniej idealizm  uważa, że przedmiotem filozofii są idee. - dr Płotka
@@ -27,4 +39,3 @@ Najogólniej idealizm  uważa, że przedmiotem filozofii są idee. - dr Płotka
 - Neoheglizm francuski, ukierunkowany antropologicznie - [[Jean Hyppolite]], [[Alexandre Kojève]]
 
 
-#idealizm #filozofia #filozofia/historia_filozofii 

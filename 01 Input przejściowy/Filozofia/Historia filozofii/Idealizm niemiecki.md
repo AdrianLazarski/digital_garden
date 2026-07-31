@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:04
+---
 
 
 - Idea jako skutek/przejaw wew. różnicowania się absolutu na ducha i materię (podmiot i przedmiot).  zob. [[Idealizm]].
@@ -16,5 +26,3 @@
 - [[Georg Wilhelm Friedrich Hegel]] 1770-1831
 - [[Friedrich Schelling]] 1775 - 1854
 
-
-#filozofia #filozofia/niemiecka #filozofia/nowożytna #idealizm 

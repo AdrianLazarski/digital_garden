@@ -17,7 +17,7 @@ modified date: 2026-07-13 18:09
 
 [[Fizykalizm]]
 [[Formalizm]]
-[[01 Input przejściowy/Filozofia/Historia filozofii/Intuicjonizm]]
+[[01 Input przejściowy/!!Random/Intuicjonizm]]
 [[Logicyzm]]
 [[Matematyka czysta]]
 [[Matematyka stosowana]]

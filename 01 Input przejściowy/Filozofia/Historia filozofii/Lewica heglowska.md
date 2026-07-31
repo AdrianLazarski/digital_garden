@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:07
+---
 
 
 - Kontynuatorzy [[Georg Wilhelm Friedrich Hegel|Hegla]], którzy nie cenili chrześcijaństwa.
@@ -20,5 +30,3 @@ Bauer
 [[Søren Kierkegaard]] 1813-1855
 [[Karol Marks]] 1818-1883
 [[Friedrich Nietzsche]] 1844-1900
-
-#filozofia #filozofia/nowożytna #filozofia/historia_filozofii 
