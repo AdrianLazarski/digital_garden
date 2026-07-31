@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Przyczyna.md",
+                "file": "03 Atomy/Eugenika.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Przyczyna"
+              "title": "Eugenika"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+                "file": "02 MOC/MOC Filozofia/MOC Etyka.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Metafizyka"
+              "title": "MOC Etyka"
             }
           },
           {
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Przyczyna.md",
+                "file": "03 Atomy/Eugenika.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,34 +282,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b469543585e1dba6",
+  "active": "40fde4cd44744f35",
   "lastOpenFiles": [
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Przedmiot.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Procesualizm.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Prawda ontyczna.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Pojęcie.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Piękno ontyczne.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Ontologia.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Odrębność.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Nominalizm.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Natura.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Niebyt.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Możność.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Monizm.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Meromorfizm.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Metafizyka.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Metafizyka klasyczna.md",
+    "03 Atomy/Biotechnologia.md",
+    "03 Atomy/Aborcja.md",
+    "03 Atomy/Akt.md",
+    "02 MOC/MOC Filozofia/MOC Etyka.md",
+    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Materia.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Jedność.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Istota.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Istnienie.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Idea.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Forma.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Hylozoizm.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Hylemorfizm.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Gatunek.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Dynamizm.md",
+    "03 Atomy/Ruch.md",
+    "03 Atomy/Rzecz.md",
+    "03 Atomy/Separacja.md",
+    "03 Atomy/Zasada przyczynowości sprawczej.md",
+    "03 Atomy/Zasada przyczynowości celowej.md",
+    "03 Atomy/Wariabilizm.md",
+    "03 Atomy/Transcendencja.md",
+    "03 Atomy/Teoria substancji i przypadłości.md",
+    "03 Atomy/Teoria istoty i istnienia.md",
+    "03 Atomy/Teoria aktu i możności.md",
+    "03 Atomy/Teoria formy i materii.md",
+    "03 Atomy/Substancja.md",
+    "03 Atomy/Przypadłość.md",
+    "03 Atomy/Przyczyna.md",
+    "03 Atomy/Przedmiot.md",
+    "03 Atomy/Procesualizm.md",
+    "03 Atomy/Prawda ontyczna.md",
+    "03 Atomy/Pojęcie 1.md",
+    "03 Atomy/Piękno ontyczne.md",
+    "03 Atomy/Ontologia.md",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",

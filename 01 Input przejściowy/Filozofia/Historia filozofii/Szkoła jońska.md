@@ -1,12 +1,12 @@
 
 - Nurt w filozofii przedsokratejskiej, przypadający na VI i V w. przed Chr. 
-- Pierwsze niemitologiczne próby wyjaśniania *physis* świata. Głównym przedmiotem zainteresowania było [[arché]].
+- Pierwsze niemitologiczne próby wyjaśniania *physis* świata. Głównym przedmiotem zainteresowania było [[Arché]].
 - Rozpoczęta przez trzech filozofów z Miletu, tzw. [[Szkoła mileacka|szkołę mileacką]]
 - Jonia czyli greckie kolonie w dzisiejszej Turcji.
 - [[Arystoteles]] nazywał ich fizjologami, czyli teoretykami przyrody.
 - Działali przed rozróżnieniem na materię i ducha, więc nie można się dopatrywać u nich ani materializmu, ani spirytualizmu.
 
-## Reprezentanci i ich [[arché]]:
+## Reprezentanci i ich [[Arché]]:
 
 [[Tales z Miletu]] (ok. 625-545 r. przed Chr.) - woda
 [[Anaksymander]] (ok. 610-546 r. przed Chr.) - *apeiron* (bezkres, nieokreśloność)

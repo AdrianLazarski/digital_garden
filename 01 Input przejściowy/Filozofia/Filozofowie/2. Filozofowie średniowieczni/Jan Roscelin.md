@@ -21,7 +21,7 @@
 
 Brał udział w [[Spór o uniwersalia|sporze o uniwersalia]].
 	- pojęcia ogólne to tylko "słowa".
-	- Skrajny [[nominalizm]]. Słowom po stronie rzeczywistości odpowiada wydanie głosu – flatus vocis – czyli po prostu dźwięk. Wokalizm albo słowizm (Gilson)
+	- Skrajny [[Nominalizm]]. Słowom po stronie rzeczywistości odpowiada wydanie głosu – flatus vocis – czyli po prostu dźwięk. Wokalizm albo słowizm (Gilson)
 	- Doprowadziło go to do tryteizmu. Skoro istnieją tylko rzeczy jednostkowe, to nazwa "Trójca" stanowi jedynie pojęcie. Faktycznie są tylko osoby boskie – trzech Bogów.
 
 # Wpływy ⛓️

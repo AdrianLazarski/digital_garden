@@ -37,7 +37,7 @@ modified date: 2026-07-06 20:06
 [[Odrębność]]
 [[Ontologia]]
 [[Piękno ontyczne]]
-[[01 Input przejściowy/Filozofia/Działy filozofii/Metafizyka/Pojęcie|Pojęcie]] ???
+[[Pojęcie 1|Pojęcie 1]] ???
 [[Prawda ontyczna]]
 [[Procesualizm]]
 [[Przedmiot]]

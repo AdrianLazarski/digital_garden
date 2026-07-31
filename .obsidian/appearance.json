@@ -3,12 +3,7 @@
   "theme": "moonstone",
   "showViewHeader": true,
   "showRibbon": true,
-  "enabledCssSnippets": [
-    "big-math",
-    "white-numbers-bullets",
-    "colorful folders",
-    "kolorowe headingi"
-  ],
+  "enabledCssSnippets": [],
   "baseFontSize": 17,
   "textFontFamily": "Segoe UI",
   "monospaceFontFamily": "",

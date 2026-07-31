@@ -30,7 +30,7 @@
 
 # Poglądy 🔍
 
-- Krytykuje [[Heraklit z Efezu|Heraklita]] i [[nominalizm]].
+- Krytykuje [[Heraklit z Efezu|Heraklita]] i [[Nominalizm]].
 - Szuka symboli w minerałach, roślinach, zwierzętach i ciele. Typowy symbolizm średniowieczny.
 - Reprezentuje zmodyfikowany [[Stoicyzm|stoicyzm]] i uważa, że wszystko poza Bogiem jest cielesne.
 
