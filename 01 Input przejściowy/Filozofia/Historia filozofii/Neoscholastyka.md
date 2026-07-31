@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:10
+---
 
 
 - Nurt filozoficzny zapoczątkowany w 1879 r. przez papieża Leona III encykliką *Aeterni patris*.

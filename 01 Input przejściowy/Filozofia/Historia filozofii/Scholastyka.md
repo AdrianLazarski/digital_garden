@@ -1,7 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/starożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:18
+---
 
 
 W XVI i XVII wieku królowała scholastyka w wydaniu Suareza, która była prawie czystym szkotyzmem z wątpliwej jakości domieszkami tomizmu.
-
-
-
-#filozofia #filozofia/historia_filozofii 

@@ -1,3 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/starożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:15
+---
+
+[[Lykeion]]
+
 
 [[Arystoteles]] ustanowił swym następcą Teofrasta z Eresos (lata 362-287
 przed Chrystusem), który przez trzydzieści pięć lat był głową szkoły. 
@@ -22,5 +35,3 @@ Uczniem Stratona był słynny astronom Arystarch z Samos, twórca hipo­tezy hel
 
 S. Swieżawski, *Dzieje europejskiej filozofii klasycznej*, Warszawa 2000, s. 152-153.
 
-
-#filozofia/starożytna #filozofia/grecka #filozofia/historia_filozofii #filozofia 

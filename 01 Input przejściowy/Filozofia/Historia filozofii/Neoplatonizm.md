@@ -4,6 +4,8 @@ tags:
   - atom
   - definicja
   - filozofia/starożytna
+  - filozofia/średniowieczna
+  - filozofia/nowożytna
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-31 23:09

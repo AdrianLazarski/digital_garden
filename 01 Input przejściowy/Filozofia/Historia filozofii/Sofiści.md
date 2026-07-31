@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/starożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:18
+---
 
 
 - V-IV w. przed Chr.
@@ -218,6 +228,3 @@ R. Legutko, Sokrates, Warszawa 2013, s. 111-185.
 [Sophists | Internet Encyclopedia of Philosophy (utm.edu)](https://iep.utm.edu/sophists/)
 
 
-
-
-#filozofia #filozofia/starożytna #filozofia/grecka #sofiści 

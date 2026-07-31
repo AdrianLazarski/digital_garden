@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:17
+---
 
 - Nurt filozofii amerykańskiej.
 - Odpowiedź na różne zjawiska w filozofii europejskiej: heglizm, kantyzm, romantyzm oraz na amerykański transcendentalizm.
@@ -10,5 +20,5 @@
 - Wyróżniono takie kategorie jak: fakt, doświadczenie, konkret.
 
 
-#filozofia #filozofia/historia_filozofii #filozofia/amerykańska  #filozofia/nowożytna 
+
 

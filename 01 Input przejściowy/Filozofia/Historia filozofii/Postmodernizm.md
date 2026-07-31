@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:17
+---
 
 
 Poststrukturalizm i postmodernizm. Załamanie się „wielkich” narracji oraz pojęcia dekonstrukcji i dyskursu
@@ -61,6 +71,3 @@ Habermasa krytyka postmoderny
 	o Tylko taki ruch pozwala zrozumieć, że modernizm przekracza dogmatyczność
 	o Istotą modernizmu jest wolność
 
-
-
-#filozofia #postmodernizm #filozofia/współczesna 

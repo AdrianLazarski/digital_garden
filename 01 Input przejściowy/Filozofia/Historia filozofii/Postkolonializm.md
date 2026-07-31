@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:16
+---
 
 - [[Achille Mbembe]] (ur. 1957) jest głównym przedstawicielem współczesnego postkolonializmu.
 - Teoria postkolonialna jest obecna w Afryce, Indiach, UK, Australii i USA.
@@ -31,4 +41,3 @@ Jest to ogólna struktura ujmowania rzeczywistości:
 
 
 
-#filozofia #postkolonializm #filozofia/współczesna 

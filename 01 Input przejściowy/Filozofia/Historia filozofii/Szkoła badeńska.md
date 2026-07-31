@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:19
+---
 
 
 - Szkoła [[Neokantyzm|neokantyzmu]] dominująca w latach 70' XIX wieku.
@@ -24,5 +34,3 @@
 - [[Heinrich Rickert]] 1863-1936
 - [[Emil Lask]] 1875-1915
 
-
-#filozofia #filozofia/nowożytna #kantyzm #neokantyzm #filozofia/historia_filozofii 

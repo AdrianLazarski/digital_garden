@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Neoplatonizm.md",
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła dominikańska.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Neoplatonizm"
+              "title": "Szkoła dominikańska"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
+                "file": "02 MOC/MOC Filozofia/MOC Nurty filozofii współczesnej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Starożytne szkoły filozoficzne"
+              "title": "MOC Nurty filozofii współczesnej"
             }
           },
           {
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Neoplatonizm.md",
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła dominikańska.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -247,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Neoplatonizm.md",
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła dominikańska.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Neoplatonizm.md",
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła dominikańska.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -331,32 +331,32 @@
   },
   "active": "b469543585e1dba6",
   "lastOpenFiles": [
-    "01 Input przejściowy/Filozofia/Historia filozofii/Neomesjanizm.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Neokantyzm.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Neoarystotelizm.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Modernizm (filozofia).md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Modernizm katolicki.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła badeńska.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Strukturalizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Stoicyzm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Spór pomiędzy dialektykami i antydialektykami.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Spór o uniwersalia.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Sokratycy mniejsi.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Sofiści.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Scholastyka.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Sceptycyzm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Renesans karoliński.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Racjonalizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Prawica heglowska.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Pragmatyzm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Pozytywizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Postmodernizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Postkolonializm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Platonicy z Cambridge.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Pitagoreizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Perypat.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Orfizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Neotomizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Neopragmatyzm.md",
     "02 MOC/MOC Filozofia/MOC Nurty filozofii współczesnej.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Megaryjczycy.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Lykeion.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Lewica heglowska.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Konserwatywna rewolucja.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Koło berlińskie.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Koło wiedeńskie.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Kalkulatorzy.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Idealizm niemiecki.md",
-    "01 Input przejściowy/!!Random/Intuicjonizm.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Idealizm.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Hermeneutyka.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia XIII w..md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia życia.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia XII w..md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia transcendentalna.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia indyjska.md",
-    "O stronie.md",
-    "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
-    "04 Źródła/Jasiński Łukasz, Agonia.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia współczesna.md",
+    "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",

@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:17
+---
 
 Wieloznaczne pojęcie.
 
@@ -62,5 +72,3 @@ K. Ajdukiewicz, Zagadnienia i kierunki filozofii, 2008, s. 32-37, 43-51.
 
 - [[Christian Wolff]] 1679 - 1754
 
-
-#filozofia #filozofia/nowożytna #filozofia/oświeceniowa #filozofia/historia_filozofii 

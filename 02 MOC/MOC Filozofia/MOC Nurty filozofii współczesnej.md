@@ -34,3 +34,4 @@ Socjalizm (filozofia)
 [[Postkolonializm]]
 [[Postmodernizm]]
 [[Strukturalizm]]
+[[Neopragmatyzm]]

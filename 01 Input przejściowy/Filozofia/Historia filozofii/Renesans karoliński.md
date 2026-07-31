@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:17
+---
 
 
 - Pierwsza wiosna intelektualna Europy, jako reakcja źle przyjętego chrześcijaństwa, pozbawionego sprawnych obrońców, na powracające pogaństwo.
@@ -30,5 +40,3 @@ Trzystopniowa reforma edukacji Alkuina:
 - Za czasów Karola II Łysego (823-877) działał:
 	[[Jan Szkot Eriugena]] (od ok. 845 r.)
 
-
-#filozofia #filozofia/średniowieczna #filozofia/historia_filozofii 

@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 23:17
+---
 
 
 • Nauka jedyną prawomocną wiedzą.
@@ -29,5 +39,3 @@ Pierwszy pozytywizm:
 	• "Politykę pozytywna". W miejsce Boga - Ludzkość, bo Ludzkość istnieje naprawdę.
 	• Tylko ci, którzy wnoszą coś do społeczeństwa, są wartościowi. Pozostali to zbędny balast. Należy dążyć do postępu za kosztem jednostek. Polityka służy tylko rozwojowi Ludzkości.
 
-
-#filozofia #filozofia/nowożytna #filozofia/historia_filozofii #pozytywizm 
