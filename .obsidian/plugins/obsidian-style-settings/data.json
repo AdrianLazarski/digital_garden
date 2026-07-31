@@ -12,5 +12,6 @@
   "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "none",
   "anuppuccin-theme-settings@@anp-codeblock-wrap-preview": "none",
   "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "none",
-  "anuppuccin-theme-settings@@anp-code-bg-color@@light": "#372E2E"
+  "anuppuccin-theme-settings@@anp-code-bg-color@@light": "#372E2E",
+  "anuppuccin-theme-settings@@anp-code-bg-color@@dark": "#2A2B3D"
 }

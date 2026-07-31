@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Składnia języka C Sharp.md",
+                "file": "O stronie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,10 +354,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "61d324070f6359c3",
+  "active": "b2cd8862ca25cb33",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Epistemologia.md",
     "03 Atomy/Składnia języka C Sharp.md",
+    "02 MOC/MOC Filozofia/MOC Epistemologia.md",
     "O stronie.md",
     "04 Źródła/Jasiński Łukasz, Agonia.md",
     "02 MOC/MOC Filozofia/MOC Semantyka.md",

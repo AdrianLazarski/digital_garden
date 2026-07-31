@@ -932,33 +932,6 @@
         "newlineCount": 0
       }
     },
-    "załączniki/robocza2-1.webp": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304416129,
-      "modifiedDate": 1768046243890,
-      "sizeInBytes": 26378,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "załączniki/robocza 3.webp": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -977,6 +950,33 @@
       "createdDate": 1781014047535,
       "modifiedDate": 1781014047537,
       "sizeInBytes": 22376,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "załączniki/robocza2-1.webp": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304416129,
+      "modifiedDate": 1768046243890,
+      "sizeInBytes": 26378,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6362,28 +6362,36 @@
     "O stronie.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 45,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 0.15,
+      "characterCount": 400,
+      "nonWhitespaceCharacterCount": 322,
+      "newlineCount": 43,
+      "readingTimeInMinutes": 0.16981132075471697,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": null,
       "createdDate": 1772712972446,
       "modifiedDate": 1785430599111,
       "sizeInBytes": 529,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 0.15,
+        "wordCount": 45,
+        "characterCount": 400,
+        "nonWhitespaceCharacterCount": 322,
+        "newlineCount": 43
+      },
+      "frontmatter": {
+        "created": "2026-03-05 13:16",
+        "tags": null,
+        "dojrzalosc": null,
+        "status_epistemiczny": null,
+        "modified date": "2026-03-05 13:16",
+        "publish": true
       }
     },
     "Modelarstwo/Tereny/Żywopłot.md.edtz": {
@@ -9059,33 +9067,6 @@
         "newlineCount": 0
       }
     },
-    "Gotowanie/Bigos z cukinii.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1776264416506,
-      "modifiedDate": 1776264619951,
-      "sizeInBytes": 1028,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "Gotowanie/Bigos z cukinii.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -9104,6 +9085,33 @@
       "createdDate": 1776264408021,
       "modifiedDate": 1776264619587,
       "sizeInBytes": 1543,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Gotowanie/Bigos z cukinii.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1776264416506,
+      "modifiedDate": 1776264619951,
+      "sizeInBytes": 1028,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10490,33 +10498,6 @@
         "newlineCount": 0
       }
     },
-    "07 Language lab/02 Atomy angielski/Present Perfect vs Past Perfect.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304413818,
-      "modifiedDate": 1771585462309,
-      "sizeInBytes": 170,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "07 Language lab/02 Atomy angielski/Present Perfect Continious.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -10535,6 +10516,33 @@
       "createdDate": 1772304413812,
       "modifiedDate": 1771432284022,
       "sizeInBytes": 1072,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "07 Language lab/02 Atomy angielski/Present Perfect vs Past Perfect.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304413818,
+      "modifiedDate": 1771585462309,
+      "sizeInBytes": 170,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -10841,6 +10849,33 @@
         "newlineCount": 0
       }
     },
+    "07 Language lab/02 Atomy angielski/Past Continious.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304413720,
+      "modifiedDate": 1770120253486,
+      "sizeInBytes": 1522,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "07 Language lab/02 Atomy angielski/Past Perfect Continious.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -10886,33 +10921,6 @@
       "createdDate": 1772304413727,
       "modifiedDate": 1770145643515,
       "sizeInBytes": 610,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "07 Language lab/02 Atomy angielski/Past Continious.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304413720,
-      "modifiedDate": 1770120253486,
-      "sizeInBytes": 1522,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -11219,33 +11227,6 @@
         "newlineCount": 0
       }
     },
-    "07 Language lab/02 Atomy angielski/Future Continious.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304413638,
-      "modifiedDate": 1770122383888,
-      "sizeInBytes": 1182,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "07 Language lab/02 Atomy angielski/Future Continious.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -11291,6 +11272,33 @@
       "createdDate": 1772304413625,
       "modifiedDate": 1771511127948,
       "sizeInBytes": 870,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "07 Language lab/02 Atomy angielski/Future Continious.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304413638,
+      "modifiedDate": 1770122383888,
+      "sizeInBytes": 1182,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -15782,33 +15790,6 @@
         "newlineCount": 0
       }
     },
-    "04 Źródła/Wozinski Jakub, To nie musi być państwowe.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304412737,
-      "modifiedDate": 1722162714442,
-      "sizeInBytes": 836,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "04 Źródła/Wstęp do ASE.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -15854,6 +15835,33 @@
       "createdDate": 1772304384181,
       "modifiedDate": 1785168603293,
       "sizeInBytes": 39914,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "04 Źródła/Wozinski Jakub, To nie musi być państwowe.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304412737,
+      "modifiedDate": 1722162714442,
+      "sizeInBytes": 836,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -23966,39 +23974,28 @@
     "04 Źródła/Jasiński Łukasz, Agonia.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3422,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 11.406666666666666,
-      "characterCount": 24059,
-      "nonWhitespaceCharacterCount": 20412,
-      "newlineCount": 166,
-      "readingTimeInMinutes": 12.913207547169812,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
+      "embedCount": 0,
+      "aliases": [],
       "createdDate": 1784722853230,
       "modifiedDate": 1785430391474,
       "sizeInBytes": 25448,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 11.406666666666666,
-        "wordCount": 3422,
-        "characterCount": 24059,
-        "nonWhitespaceCharacterCount": 20412,
-        "newlineCount": 166
-      },
-      "frontmatter": {
-        "created": "2026-07-22 14:20",
-        "tags": [
-          "ekonomia",
-          "ref",
-          "historia/gospodarcza"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Uzasadniony ✅",
-        "modified date": "2026-07-22 14:21"
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "04 Źródła/Instytut Misesa - Polska mitologia kapitału. Czy jesteśmy kolonią zachodu.md.edtz": {
@@ -29941,6 +29938,33 @@
         "newlineCount": 0
       }
     },
+    "03 Atomy/Zbiór.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304406629,
+      "modifiedDate": 1782999254823,
+      "sizeInBytes": 677,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "03 Atomy/Zenon z Elei.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -30013,33 +30037,6 @@
       "createdDate": 1772304385943,
       "modifiedDate": 1785180667891,
       "sizeInBytes": 665,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "03 Atomy/Zbiór.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304406629,
-      "modifiedDate": 1782999254823,
-      "sizeInBytes": 677,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -33208,33 +33205,6 @@
         "newlineCount": 0
       }
     },
-    "03 Atomy/załączniki/Szereg funkcyjny-31.webp": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304408454,
-      "modifiedDate": 1769014202967,
-      "sizeInBytes": 11748,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "03 Atomy/załączniki/Szereg funkcyjny-30.webp": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -33253,6 +33223,33 @@
       "createdDate": 1772304408446,
       "modifiedDate": 1769014192688,
       "sizeInBytes": 34732,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/załączniki/Szereg funkcyjny-31.webp": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304408454,
+      "modifiedDate": 1769014202967,
+      "sizeInBytes": 11748,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -34477,6 +34474,33 @@
         "newlineCount": 0
       }
     },
+    "03 Atomy/załączniki/Sygnał analogowy.webp": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1774615063832,
+      "modifiedDate": 1774615063833,
+      "sizeInBytes": 3920,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "03 Atomy/załączniki/Sygnał dyskretny.webp": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -34522,33 +34546,6 @@
       "createdDate": 1774616394549,
       "modifiedDate": 1774616394550,
       "sizeInBytes": 3006,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "03 Atomy/załączniki/Sygnał analogowy.webp": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1774615063832,
-      "modifiedDate": 1774615063833,
-      "sizeInBytes": 3920,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -43117,33 +43114,6 @@
         "newlineCount": 0
       }
     },
-    "03 Atomy/Szereg funkcyjny.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304406114,
-      "modifiedDate": 1769092029062,
-      "sizeInBytes": 2818,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "03 Atomy/Szczęście.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -43162,6 +43132,33 @@
       "createdDate": 1772304385591,
       "modifiedDate": 1785179701601,
       "sizeInBytes": 1225,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Szereg funkcyjny.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304406114,
+      "modifiedDate": 1769092029062,
+      "sizeInBytes": 2818,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -46087,33 +46084,6 @@
         "newlineCount": 0
       }
     },
-    "03 Atomy/Prąd sinusoidalny.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304405744,
-      "modifiedDate": 1767624671436,
-      "sizeInBytes": 769,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "03 Atomy/Prąd przemienny.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -46132,6 +46102,33 @@
       "createdDate": 1772304405738,
       "modifiedDate": 1767539393053,
       "sizeInBytes": 399,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Prąd sinusoidalny.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304405744,
+      "modifiedDate": 1767624671436,
+      "sizeInBytes": 769,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -59236,33 +59233,6 @@
         "newlineCount": 0
       }
     },
-    "03 Atomy/Euklides z Megary.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304389635,
-      "modifiedDate": 1720207854770,
-      "sizeInBytes": 1837,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "03 Atomy/Farad.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -59308,6 +59278,33 @@
       "createdDate": 1772304386971,
       "modifiedDate": 1785189029990,
       "sizeInBytes": 2795,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Euklides z Megary.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304389635,
+      "modifiedDate": 1720207854770,
+      "sizeInBytes": 1837,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -60991,33 +60988,6 @@
         "newlineCount": 0
       }
     },
-    "03 Atomy/Delta Kroneckera.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304404371,
-      "modifiedDate": 1772044358484,
-      "sizeInBytes": 1126,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "03 Atomy/Delta Kroneckera.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -61036,6 +61006,33 @@
       "createdDate": 1772304404365,
       "modifiedDate": 1772044406435,
       "sizeInBytes": 807,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Delta Kroneckera.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304404371,
+      "modifiedDate": 1772044358484,
+      "sizeInBytes": 1126,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -62773,6 +62770,33 @@
         "newlineCount": 0
       }
     },
+    "03 Atomy/Automatyzacja.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304384780,
+      "modifiedDate": 1718549400862,
+      "sizeInBytes": 115,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "03 Atomy/Automatyzacja.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -62818,33 +62842,6 @@
       "createdDate": 1772304389402,
       "modifiedDate": 1720202316784,
       "sizeInBytes": 3343,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "03 Atomy/Automatyzacja.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304384780,
-      "modifiedDate": 1718549400862,
-      "sizeInBytes": 115,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -64231,33 +64228,6 @@
         "newlineCount": 0
       }
     },
-    "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1783966504762,
-      "modifiedDate": 1784993695600,
-      "sizeInBytes": 595,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -64276,6 +64246,33 @@
       "createdDate": 1783967127211,
       "modifiedDate": 1784990324227,
       "sizeInBytes": 408,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC Socjologia/MOC Dzieła socjologiczne.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1783966504762,
+      "modifiedDate": 1784993695600,
+      "sizeInBytes": 595,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -65203,33 +65200,6 @@
         "newlineCount": 0
       }
     },
-    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304403962,
-      "modifiedDate": 1782999255796,
-      "sizeInBytes": 430,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -65248,6 +65218,33 @@
       "createdDate": 1772304403954,
       "modifiedDate": 1783958848337,
       "sizeInBytes": 453,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304403962,
+      "modifiedDate": 1782999255796,
+      "sizeInBytes": 430,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -70090,7 +70087,7 @@
         "newlineCount": 0
       }
     },
-    "02 MOC/MOC Ekonomia/MOC Tezy MMT.md": {
+    "02 MOC/MOC Ekonomia/MOC Teorie keynesistowskie.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -70105,8 +70102,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1783692502951,
-      "modifiedDate": 1783692533126,
+      "createdDate": 1783690985352,
+      "modifiedDate": 1783691015927,
       "sizeInBytes": 165,
       "sessionStart": {
         "noteCount": 0,
@@ -70144,7 +70141,7 @@
         "newlineCount": 0
       }
     },
-    "02 MOC/MOC Ekonomia/MOC Teorie keynesistowskie.md": {
+    "02 MOC/MOC Ekonomia/MOC Tezy MMT.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -70159,8 +70156,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1783690985352,
-      "modifiedDate": 1783691015927,
+      "createdDate": 1783692502951,
+      "modifiedDate": 1783692533126,
       "sizeInBytes": 165,
       "sessionStart": {
         "noteCount": 0,
@@ -72871,6 +72868,33 @@
         "newlineCount": 0
       }
     },
+    "01 Input przejściowy/Matematyka/Działy/Statystyka/załączniki/Pasted image 20241109135625.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304402668,
+      "modifiedDate": 1731156985480,
+      "sizeInBytes": 93314,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "01 Input przejściowy/Matematyka/Działy/Statystyka/załączniki/Pasted image 20241109150848.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -72943,33 +72967,6 @@
       "createdDate": 1772304402677,
       "modifiedDate": 1731157076576,
       "sizeInBytes": 62203,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/Matematyka/Działy/Statystyka/załączniki/Pasted image 20241109135625.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304402668,
-      "modifiedDate": 1731156985480,
-      "sizeInBytes": 93314,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -78595,33 +78592,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Matematyka/Działy/Algebra/załączniki/Pasted image 20240328225015.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304400669,
-      "modifiedDate": 1711662615037,
-      "sizeInBytes": 64075,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "01 Input przejściowy/Matematyka/Działy/Algebra/załączniki/Pasted image 20240328225040.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -78640,6 +78610,33 @@
       "createdDate": 1772304400677,
       "modifiedDate": 1711662640493,
       "sizeInBytes": 12514,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "01 Input przejściowy/Matematyka/Działy/Algebra/załączniki/Pasted image 20240328225015.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304400669,
+      "modifiedDate": 1711662615037,
+      "sizeInBytes": 64075,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -87235,7 +87232,7 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła lwowsko-warszawska.md": {
+    "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła jońska.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -87250,9 +87247,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1772304397911,
-      "modifiedDate": 1785157001255,
-      "sizeInBytes": 1317,
+      "createdDate": 1772304397899,
+      "modifiedDate": 1785157000303,
+      "sizeInBytes": 1139,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -87289,7 +87286,7 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła jońska.md": {
+    "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła lwowsko-warszawska.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -87304,9 +87301,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1772304397899,
-      "modifiedDate": 1785157000303,
-      "sizeInBytes": 1139,
+      "createdDate": 1772304397911,
+      "modifiedDate": 1785157001255,
+      "sizeInBytes": 1317,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -87928,6 +87925,33 @@
       "createdDate": 1772304397740,
       "modifiedDate": 1763638908099,
       "sizeInBytes": 281,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "01 Input przejściowy/Filozofia/Historia filozofii/Neomesjanizm.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304397475,
+      "modifiedDate": 1785156980738,
+      "sizeInBytes": 447,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -88936,33 +88960,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Historia filozofii/Neomesjanizm.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304397475,
-      "modifiedDate": 1785156980738,
-      "sizeInBytes": 447,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "01 Input przejściowy/Filozofia/Historia filozofii/Neomesjanizm.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -89179,33 +89176,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Historia filozofii/Modernizm (filozofia).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304397413,
-      "modifiedDate": 1785156979488,
-      "sizeInBytes": 2609,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "01 Input przejściowy/Filozofia/Historia filozofii/MOC Nurty filozofii współczesnej.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -89224,6 +89194,33 @@
       "createdDate": 1783092865641,
       "modifiedDate": 1783092896420,
       "sizeInBytes": 742,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "01 Input przejściowy/Filozofia/Historia filozofii/Modernizm (filozofia).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304397413,
+      "modifiedDate": 1785156979488,
+      "sizeInBytes": 2609,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -89395,33 +89392,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Historia filozofii/Koło wiedeńskie.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304397359,
-      "modifiedDate": 1763641992000,
-      "sizeInBytes": 2395,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "01 Input przejściowy/Filozofia/Historia filozofii/Koło wiedeńskie.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -89440,6 +89410,33 @@
       "createdDate": 1772304397353,
       "modifiedDate": 1785156976671,
       "sizeInBytes": 4516,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "01 Input przejściowy/Filozofia/Historia filozofii/Koło wiedeńskie.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304397359,
+      "modifiedDate": 1763641992000,
+      "sizeInBytes": 2395,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -89503,33 +89500,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Historia filozofii/Konserwatywna rewolucja.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304397325,
-      "modifiedDate": 1785156976313,
-      "sizeInBytes": 1405,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "01 Input przejściowy/Filozofia/Historia filozofii/Konserwatywna rewolucja.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -89548,6 +89518,33 @@
       "createdDate": 1772304397331,
       "modifiedDate": 1763641256887,
       "sizeInBytes": 943,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "01 Input przejściowy/Filozofia/Historia filozofii/Konserwatywna rewolucja.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304397325,
+      "modifiedDate": 1785156976313,
+      "sizeInBytes": 1405,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -89611,33 +89608,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Historia filozofii/Intuicjonizm.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304397303,
-      "modifiedDate": 1763638897293,
-      "sizeInBytes": 871,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "01 Input przejściowy/Filozofia/Historia filozofii/Intuicjonizm.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -89665,7 +89635,7 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Historia filozofii/Idealizm.md.edtz": {
+    "01 Input przejściowy/Filozofia/Historia filozofii/Intuicjonizm.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -89680,9 +89650,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1772304397291,
-      "modifiedDate": 1763638896978,
-      "sizeInBytes": 787,
+      "createdDate": 1772304397303,
+      "modifiedDate": 1763638897293,
+      "sizeInBytes": 871,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -89710,6 +89680,33 @@
       "createdDate": 1772304397285,
       "modifiedDate": 1785156973771,
       "sizeInBytes": 1129,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "01 Input przejściowy/Filozofia/Historia filozofii/Idealizm.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304397291,
+      "modifiedDate": 1763638896978,
+      "sizeInBytes": 787,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -89800,7 +89797,7 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia XIII w..md": {
+    "01 Input przejściowy/Filozofia/Historia filozofii/Hermeneutyka.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -89815,9 +89812,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1772304397221,
-      "modifiedDate": 1785156968771,
-      "sizeInBytes": 313,
+      "createdDate": 1772304397256,
+      "modifiedDate": 1785156971956,
+      "sizeInBytes": 721,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -89845,33 +89842,6 @@
       "createdDate": 1772304397248,
       "modifiedDate": 1736108294442,
       "sizeInBytes": 1763,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/Filozofia/Historia filozofii/Hermeneutyka.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304397256,
-      "modifiedDate": 1785156971956,
-      "sizeInBytes": 721,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -89926,6 +89896,33 @@
       "createdDate": 1772304397229,
       "modifiedDate": 1763638889897,
       "sizeInBytes": 344,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia XIII w..md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304397221,
+      "modifiedDate": 1785156968771,
+      "sizeInBytes": 313,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -98656,33 +98653,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Alvin Plantinga.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304394258,
-      "modifiedDate": 1718115417831,
-      "sizeInBytes": 499,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Antoni B. Stępień.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -98728,6 +98698,33 @@
       "createdDate": 1772304394268,
       "modifiedDate": 1718115374554,
       "sizeInBytes": 115,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Alvin Plantinga.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304394258,
+      "modifiedDate": 1718115417831,
+      "sizeInBytes": 499,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -99061,33 +99058,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Albert Camus.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304394105,
-      "modifiedDate": 1720359498479,
-      "sizeInBytes": 2131,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Albert Camus.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -99106,6 +99076,33 @@
       "createdDate": 1772304394097,
       "modifiedDate": 1720359505704,
       "sizeInBytes": 3104,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Albert Camus.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304394105,
+      "modifiedDate": 1720359498479,
+      "sizeInBytes": 2131,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -99358,6 +99355,33 @@
         "newlineCount": 0
       }
     },
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Wilhelm Dilthey.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304393955,
+      "modifiedDate": 1720215742413,
+      "sizeInBytes": 393,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Wilhelm Windelband.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -99403,33 +99427,6 @@
       "createdDate": 1772304393965,
       "modifiedDate": 1720216314571,
       "sizeInBytes": 1649,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Wilhelm Dilthey.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304393955,
-      "modifiedDate": 1720215742413,
-      "sizeInBytes": 393,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -118015,33 +118012,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Bioetyka/Aborcja.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304386219,
-      "modifiedDate": 1784834002249,
-      "sizeInBytes": 5360,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Bioetyka/Aborcja.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -118060,6 +118030,33 @@
       "createdDate": 1772304386226,
       "modifiedDate": 1763641189807,
       "sizeInBytes": 2807,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "01 Input przejściowy/Filozofia/Działy filozofii/Etyka/Bioetyka/Aborcja.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304386219,
+      "modifiedDate": 1784834002249,
+      "sizeInBytes": 5360,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -119203,33 +119200,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Człowiek.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304385432,
-      "modifiedDate": 1763641360120,
-      "sizeInBytes": 410,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Dusza.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -119248,6 +119218,33 @@
       "createdDate": 1772304385447,
       "modifiedDate": 1718138498396,
       "sizeInBytes": 549,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "01 Input przejściowy/Filozofia/Działy filozofii/Antropologia filozoficzna/Człowiek.md.edtz": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1772304385432,
+      "modifiedDate": 1763641360120,
+      "sizeInBytes": 410,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
