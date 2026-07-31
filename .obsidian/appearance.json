@@ -6,10 +6,11 @@
   "enabledCssSnippets": [
     "big-math",
     "white-numbers-bullets",
-    "kolorowe headingi",
-    "colorful folders"
+    "kolorowe headingi"
   ],
   "baseFontSize": 17,
-  "textFontFamily": "",
-  "monospaceFontFamily": ""
+  "textFontFamily": "Segoe UI",
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": "",
+  "accentColor": "#9570eb"
 }
