@@ -21,7 +21,7 @@ $\rightarrow$ [[Składnia języka C Sharp]]
 
 
 
-### Cheatsheet
+## Cheatsheet
 
 ```C#
 

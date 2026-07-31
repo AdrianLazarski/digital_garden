@@ -1,11 +1,12 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "theme": "obsidian",
+  "cssTheme": "Shimmering Focus",
+  "theme": "moonstone",
   "showViewHeader": true,
   "showRibbon": true,
   "enabledCssSnippets": [
     "big-math",
     "white-numbers-bullets",
+    "colorful folders",
     "kolorowe headingi"
   ],
   "baseFontSize": 17,

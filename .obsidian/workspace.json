@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O stronie.md",
+                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,7 +354,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88e6b40a6287a32b",
+  "active": "898b6a9c53898e39",
   "lastOpenFiles": [
     "03 Atomy/C Sharp.md",
     "O stronie.md",
