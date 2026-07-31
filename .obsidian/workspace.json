@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Eugenika.md",
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Egzystencjalizm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Eugenika"
+              "title": "Egzystencjalizm"
             }
           },
           {
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Eugenika.md",
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Egzystencjalizm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,8 +282,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40fde4cd44744f35",
+  "active": "b469543585e1dba6",
   "lastOpenFiles": [
+    "01 Input przejściowy/Filozofia/Historia filozofii/Eklektycy (Jonia i Elea).md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Egzystencjalizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Cyrenaicy.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Cynicy.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Awerroizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Atomizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Akademia Platońska.md",
+    "03 Atomy/Eugenika.md",
     "03 Atomy/Biotechnologia.md",
     "03 Atomy/Aborcja.md",
     "03 Atomy/Akt.md",
@@ -302,14 +310,6 @@
     "03 Atomy/Teoria aktu i możności.md",
     "03 Atomy/Teoria formy i materii.md",
     "03 Atomy/Substancja.md",
-    "03 Atomy/Przypadłość.md",
-    "03 Atomy/Przyczyna.md",
-    "03 Atomy/Przedmiot.md",
-    "03 Atomy/Procesualizm.md",
-    "03 Atomy/Prawda ontyczna.md",
-    "03 Atomy/Pojęcie 1.md",
-    "03 Atomy/Piękno ontyczne.md",
-    "03 Atomy/Ontologia.md",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",

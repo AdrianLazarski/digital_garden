@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/metafizyka
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 22:01
+---
 
 - Teoria o ziarnistej, nieciągłej strukturze [[Materia|materii]].
 - Inicjatorami [[Leucyp z Miletu]] i [[Demokryt z Abdery]]
@@ -70,6 +81,3 @@
 ## Źródła
 
 
-
-
-#filozofia #filozofia/starożytna #fizyka #filozofia/historia_filozofii #historia/nauki #filozofia/nowożytna #filozofia/średniowieczna #filozofia/grecka 

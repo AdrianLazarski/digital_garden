@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 22:02
+---
 
 - A dokładniej awerroizm łaciński.
 - Istniał już przed 1270, o czym świadczy jego potępienie przez papieża.
@@ -26,4 +36,3 @@
 - Opozycja szkoły franciszkańskiej, Alberta, Tomasza, Idziego Rzymianina, Gerarda z Abbatisvilla oraz Henryka z Gandawy doprowadziła do potępienia z 1270 r. Biskup Paryża Stefan Tempier potępił szereg tez, w tym awerroistyczne: monopsychizm, zaprzecznie Opatrzności, odwieczność świata, zaprzeczenie jednostkowej nieśmiertelności, determinizm.
 
 
-#filozofia #filozofia/średniowieczna #filozofia/arabska #filozofia/metafizyka #arystotelizm #filozofia/historia_filozofii 

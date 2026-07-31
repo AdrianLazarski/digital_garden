@@ -101586,20 +101586,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 160,
+      "wordCount": 156,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5333333333333333,
-      "characterCount": 1253,
-      "nonWhitespaceCharacterCount": 1075,
+      "pageCount": 0.52,
+      "characterCount": 1161,
+      "nonWhitespaceCharacterCount": 987,
       "newlineCount": 20,
-      "readingTimeInMinutes": 0.6037735849056604,
+      "readingTimeInMinutes": 0.5886792452830188,
       "linkCount": 11,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397052,
-      "modifiedDate": 1785156963644,
-      "sizeInBytes": 1303,
+      "modifiedDate": 1785528513715,
+      "sizeInBytes": 1401,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5333333333333333,
@@ -101607,6 +101607,17 @@
         "characterCount": 1253,
         "nonWhitespaceCharacterCount": 1075,
         "newlineCount": 20
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 22:08"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Egzystencjalizm.md.edtz": {
@@ -101640,20 +101651,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 187,
+      "wordCount": 183,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.6233333333333333,
-      "characterCount": 1543,
-      "nonWhitespaceCharacterCount": 1323,
+      "pageCount": 0.61,
+      "characterCount": 1462,
+      "nonWhitespaceCharacterCount": 1246,
       "newlineCount": 34,
-      "readingTimeInMinutes": 0.7056603773584905,
+      "readingTimeInMinutes": 0.690566037735849,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397040,
-      "modifiedDate": 1785156962878,
-      "sizeInBytes": 1614,
+      "modifiedDate": 1785528505905,
+      "sizeInBytes": 1722,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.6233333333333333,
@@ -101661,6 +101672,17 @@
         "characterCount": 1543,
         "nonWhitespaceCharacterCount": 1323,
         "newlineCount": 34
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 22:08"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Cyrenaicy.md.edtz": {
@@ -101694,20 +101716,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 20,
+      "wordCount": 15,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 251,
-      "nonWhitespaceCharacterCount": 220,
+      "pageCount": 0.05,
+      "characterCount": 153,
+      "nonWhitespaceCharacterCount": 127,
       "newlineCount": 13,
-      "readingTimeInMinutes": 0.07547169811320754,
+      "readingTimeInMinutes": 0.05660377358490566,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397028,
-      "modifiedDate": 1785156962151,
-      "sizeInBytes": 258,
+      "modifiedDate": 1785528490226,
+      "sizeInBytes": 350,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.06666666666666667,
@@ -101715,6 +101737,17 @@
         "characterCount": 251,
         "nonWhitespaceCharacterCount": 220,
         "newlineCount": 13
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 22:08"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Cynicy.md.edtz": {
@@ -101748,20 +101781,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 176,
+      "wordCount": 170,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5866666666666667,
-      "characterCount": 1428,
-      "nonWhitespaceCharacterCount": 1223,
-      "newlineCount": 28,
-      "readingTimeInMinutes": 0.6641509433962264,
+      "pageCount": 0.5666666666666667,
+      "characterCount": 1310,
+      "nonWhitespaceCharacterCount": 1112,
+      "newlineCount": 27,
+      "readingTimeInMinutes": 0.6415094339622641,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397012,
-      "modifiedDate": 1785156962143,
-      "sizeInBytes": 1511,
+      "modifiedDate": 1785528164910,
+      "sizeInBytes": 1583,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5866666666666667,
@@ -101769,6 +101802,17 @@
         "characterCount": 1428,
         "nonWhitespaceCharacterCount": 1223,
         "newlineCount": 28
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 22:02"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Awerroizm.md.edtz": {
@@ -101802,20 +101846,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 144,
+      "wordCount": 138,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.48,
-      "characterCount": 1364,
-      "nonWhitespaceCharacterCount": 1192,
-      "newlineCount": 29,
-      "readingTimeInMinutes": 0.5433962264150943,
+      "pageCount": 0.46,
+      "characterCount": 1243,
+      "nonWhitespaceCharacterCount": 1076,
+      "newlineCount": 30,
+      "readingTimeInMinutes": 0.5207547169811321,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397000,
-      "modifiedDate": 1785156962136,
-      "sizeInBytes": 1419,
+      "modifiedDate": 1785528142477,
+      "sizeInBytes": 1488,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.48,
@@ -101823,6 +101867,17 @@
         "characterCount": 1364,
         "nonWhitespaceCharacterCount": 1192,
         "newlineCount": 29
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 22:02"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Atomizm.md.edtz": {
@@ -101856,20 +101911,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 775,
+      "wordCount": 767,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.5833333333333335,
-      "characterCount": 6135,
-      "nonWhitespaceCharacterCount": 5229,
-      "newlineCount": 75,
-      "readingTimeInMinutes": 2.9245283018867925,
+      "pageCount": 2.5566666666666666,
+      "characterCount": 5982,
+      "nonWhitespaceCharacterCount": 5085,
+      "newlineCount": 74,
+      "readingTimeInMinutes": 2.8943396226415095,
       "linkCount": 31,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304396987,
-      "modifiedDate": 1785156961804,
-      "sizeInBytes": 6475,
+      "modifiedDate": 1785528119570,
+      "sizeInBytes": 6535,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.5833333333333335,
@@ -101877,6 +101932,18 @@
         "characterCount": 6135,
         "nonWhitespaceCharacterCount": 5229,
         "newlineCount": 75
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/metafizyka",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 22:01"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Akademia Platońska.md.edtz": {
@@ -101910,20 +101977,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 137,
+      "wordCount": 132,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.45666666666666667,
-      "characterCount": 1047,
-      "nonWhitespaceCharacterCount": 896,
+      "pageCount": 0.44,
+      "characterCount": 947,
+      "nonWhitespaceCharacterCount": 801,
       "newlineCount": 13,
-      "readingTimeInMinutes": 0.5169811320754717,
+      "readingTimeInMinutes": 0.4981132075471698,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304396973,
-      "modifiedDate": 1785156961733,
-      "sizeInBytes": 1106,
+      "modifiedDate": 1785527787707,
+      "sizeInBytes": 1196,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.45666666666666667,
@@ -101931,6 +101998,17 @@
         "characterCount": 1047,
         "nonWhitespaceCharacterCount": 896,
         "newlineCount": 13
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/historia_filozofii"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-07-31 21:56"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/06 Filozofia współczesna.md.edtz": {

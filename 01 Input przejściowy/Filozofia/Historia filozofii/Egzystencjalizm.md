@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 22:08
+---
 
 Historycznie:
 - Kierkegaard prekursor.
@@ -30,5 +40,3 @@ Historycznie:
 [[Jean-Paul Sartre]]
 [[Albert Camus]]
 
-
-#filozofia #filozofia/współczesna #egzystencjalizm #filozofia/historia_filozofii 

@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 22:02
+---
 
 - Szkoła etyczna, działająca od V w. przed Chr. do V wieku po Chr.
 - Założycielem [[Antystenes]].
@@ -22,6 +32,4 @@
 - Pod ich wpływem wytworzyło się poźnostarożytne pojęcie filozofa: ubogi i szczęśliwy.
 - Inspirowali pierwszych chrześcijan np. [[Grzegorz z Nazjanzu|Grzegorza z Nazjanu]] ale również ich wrogów np. Juliana Apostatę.
 
-
-#filozofia/starożytna #filozofia #filozofia/grecka #filozofia/rzymska #filozofia/etyka #filozofia/historia_filozofii 
 

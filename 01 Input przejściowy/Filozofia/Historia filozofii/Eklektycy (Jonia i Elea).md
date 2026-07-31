@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 22:08
+---
 
 - Próba „ominięcia” aporii wynikającej ze stanowisk [[Heraklit z Efezu|Heraklita]] i [[Szkoła eleacka|eleatów]] poprzez powrót do pomysłów [[Szkoła mileacka|szkoły mileackiej]].
 - Wynika z niezrozumienia wagi propozycji Heraklita i [[Parmenides z Elei|Parmenidesa]].
@@ -16,5 +26,3 @@
 Idaios z Himery
 [[Diogenes z Apolonii]] V w. przed Chr.
 [[Archelaos z Aten]] V w. przed Chr.
-
-#filozofia/starożytna #filozofia/grecka #filozofia/metafizyka #filozofia/historia_filozofii 
