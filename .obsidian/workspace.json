@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Nazwa.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Semiotyka.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nazwa"
+              "title": "Semiotyka"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Semantyka.md",
+                "file": "02 MOC/MOC Filozofia/MOC Semiotyka.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Semantyka"
+              "title": "MOC Semiotyka"
+            }
+          },
+          {
+            "id": "410bff8e49045979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Składnia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Składnia"
             }
           },
           {
@@ -103,8 +127,7 @@
               "title": "Jasiński Łukasz, Agonia"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:atom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
+                "file": "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Semiotyka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -306,35 +329,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "898b6a9c53898e39",
+  "active": "011feabf12d1c9d1",
   "lastOpenFiles": [
-    "03 Atomy/C Sharp.md",
-    "O stronie.md",
-    "robocza.md",
-    "04 Źródła/Bez nazwy.md",
-    "04 Źródła/Jasiński Łukasz, Agonia.md",
-    "03 Atomy/Składnia języka C Sharp.md",
-    "02 MOC/MOC Filozofia/MOC Epistemologia.md",
-    "02 MOC/MOC Filozofia/MOC Semantyka.md",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Nazwa.md",
-    "Sofiofilia/Słowniki filozofii/Bunnin, Yu, The Blackwell Dictionary of Western Philosophy.md",
-    "02 MOC/MOC Religia.md",
+    "02 MOC/MOC Filozofia/MOC Semiotyka.md",
+    "02 MOC/MOC Logika.md",
+    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Semiotyka.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Spójność syntaktyczna.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Składnia.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Supozycja.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Tautologia.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Systemy dedukcji naturalnej.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Twierdzenie Gödla.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Uniwersum.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Wartość logiczna.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Antynomia.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Arytmetyka liczb naturalnych.md",
+    "02 MOC/MOC Filozofia.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia logiki.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Erystyka.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Logika.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dowód zwykły.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dowód trzyczęściowy.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dowód niezałożeniowy.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dowód.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Desygnat.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Deskrypcja.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Dedukcja.md",
+    "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Definicja.md",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
-    "Skróty klawiszowe.md",
-    "07 Language lab/English grammar.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia umysłu.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Kombinacja liniowa.md",
-    "04 Źródła/Mises Ludwig von, Ludzkie działanie.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Kierunek.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Moduł.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Wersor.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Układ równań liniowych.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Przestrzeń liniowa.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Skalar.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Pierścień.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Grupa.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Ciało.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",
     "03 Atomy/załączniki/Matryca hohfeldowska.png",
     "02 MOC/MOC Prawo"

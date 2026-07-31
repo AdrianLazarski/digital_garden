@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - logika/semiotyka/pragmatyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 19:43
+---
 
 
 - **Błąd materialny** (merytoryczny) - fałszywa przesłanka. Ma charakter pozalogiczny, jego wykazanie jest sprawą odpowiedniej dziedziny wiedzy. 

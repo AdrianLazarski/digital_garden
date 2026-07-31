@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - matematyka/teoria_liczb
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 19:36
+---
 
 - Twórcą Giuseppe Peano.
 - Fragment [[MOC Teoria mnogości|teorii mnogości]].
@@ -19,4 +29,3 @@
 4. ∀x(x * 0=0)
 5. ∀x(x+0=x)
 
-#logika #matematyka #matematyka/podstawy/teoria_mnogości 

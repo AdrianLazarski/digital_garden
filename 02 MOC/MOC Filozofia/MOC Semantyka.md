@@ -33,6 +33,5 @@ Dział [[Filozofia/Działy filozofii/Logika/Semiotyka|semiotyki]].
 [[Supozycja formalna]]
 [[Supozycja materialna]]
 [[Supozycja prosta]]
-[[Wyrażenie sensowne]]
 [[Wyrażenie stałe]]
 [[Teoria deskrypcji Russella]]

@@ -41,7 +41,7 @@ Ontologia języka - najogólniejsza teoria rzeczywistości, objęta systemem zna
 
 ## Metanauki logiczne
 
-[[Filozofia logiki]] to szeroki obszar, obejmujący pytania o naturę logiki, jej zastosowania, oraz relacje z innymi dziedzinami filozofii. 
+[[02 MOC/MOC Filozofia/MOC Filozofia logiki]] to szeroki obszar, obejmujący pytania o naturę logiki, jej zastosowania, oraz relacje z innymi dziedzinami filozofii. 
 [[Metalogika]] natomiast skupia się na analizie samych zasad logiki, tworząc podstawy formalnej teorii dowodzenia i teorii modeli.
 
 ## Logika a matematyka

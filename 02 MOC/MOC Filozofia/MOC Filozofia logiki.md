@@ -1,6 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/logiki
+  - definicja
+  - moc
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Aksjomatyczny 💎
+modified date: 2026-07-31 19:44
+---
 
 Filozofia logiki to szeroki obszar, obejmujący pytania o naturę logiki, jej zastosowania, oraz relacje z innymi dziedzinami filozofii. 
-	[[Metalogika]] natomiast skupia się na analizie samych zasad logiki, tworząc podstawy formalnej teorii dowodzenia i teorii modeli.
+	[[MOC Metalogika]] natomiast skupia się na analizie samych zasad logiki, tworząc podstawy formalnej teorii dowodzenia i teorii modeli.
 
 
 ## Najważniejsze zagadnienia:

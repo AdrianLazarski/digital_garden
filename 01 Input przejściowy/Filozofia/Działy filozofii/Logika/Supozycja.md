@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - logika/semiotyka/semantyka
+  - logika/semiotyka/pragmatyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 19:26
+---
 
 
 1.Zdanie możliwe logicznie [możliwe, że tak jest, ale nie mamy pewności]
@@ -11,5 +22,3 @@ Wyróżnia się 3 supozycje:
 3. [[Supozycja materialna]]
 
 
-
-#logika #filozofia #logika/semiotyka/pragmatyka 

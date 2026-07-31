@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - logika/formalna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 19:33
+---
 
 Sprzeczność. - Świętorzecka
 
@@ -10,4 +20,3 @@ Antynomie dzielą się na:
 2. Semantyczne - nadużywanie stopni języka
 
 
-#logika #filozofia

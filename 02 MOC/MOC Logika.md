@@ -20,4 +20,4 @@ modified date: 2026-07-03 16:00
 
 [[Logika matematyczna]]
 
-[[MOC Filozofia logiki]]
+[[MOC Filozofia logiki 1]]

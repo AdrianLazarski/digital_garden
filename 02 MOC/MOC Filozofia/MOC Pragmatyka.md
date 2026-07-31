@@ -19,6 +19,7 @@ Dział [[Filozofia/Działy filozofii/Logika/Semiotyka|semiotyki]].
 
 [[Błędy w rozumowaniu]]
 [[Erystyka]]
+[[Supozycja]]
 
 
 

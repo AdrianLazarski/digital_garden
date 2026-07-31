@@ -38,5 +38,3 @@ Działy te zostały zaproponowane przez Charlesa W. Morrisa w *Foundations of Th
 3. [[Ferdinand de Saussure]] (Szwajcarki językoznawca) – twórca nurtu strukturalistycznego w językoznawstwie.
 
 
-
-#filozofia #logika #semiotyka 

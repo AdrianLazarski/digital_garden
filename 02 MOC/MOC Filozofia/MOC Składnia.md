@@ -13,3 +13,4 @@ modified date: 2026-07-13 12:16
 
 [[Kategoria syntaktyczna]]
 [[Spójność syntaktyczna]]
+[[Wyrażenie sensowne]]

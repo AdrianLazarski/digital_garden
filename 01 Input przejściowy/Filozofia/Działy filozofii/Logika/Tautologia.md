@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - logika/formalna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 19:40
+---
 
 
 Relacja pomiędzy zdaniami, która polega na dowodzeniu prawdziwości.
@@ -11,5 +21,3 @@ Dana [[Funkcja zdaniowa|funkcja zdaniowa]] wypowiedziana w języku j jest tautol
   
 Tautologie są zawsze zrelatywizowane do danej logiki.
 
-
-#logika #filozofia 
