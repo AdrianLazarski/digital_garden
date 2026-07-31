@@ -73,5 +73,9 @@
   "anuppuccin-theme-settings@@callout-radius": 4,
   "shimmering-focus@@no-alternating-header-colors": true,
   "shimmering-focus@@no-heading-background": true,
-  "shimmering-focus@@no-lp-heading-level-indicator": true
+  "shimmering-focus@@no-lp-heading-level-indicator": true,
+  "shimmering-focus@@show-outline-buttons": false,
+  "shimmering-focus@@notices-at-bottom-right": false,
+  "shimmering-focus@@show-close-buttons": false,
+  "shimmering-focus@@show-sidebar-toggle-buttons": false
 }
