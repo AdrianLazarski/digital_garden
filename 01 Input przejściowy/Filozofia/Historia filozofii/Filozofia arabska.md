@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 22:50
+---
 
 - Arabowie przed Mahometem - okres niewiedzy.
 - Kalifowie z arabskiej dynastii Ommajadów - stolica w Damaszku - okres dużej tolerancji i otwartości: na dworze kalifa działa św. Jan z Damaszku.
@@ -68,6 +78,3 @@ Abu al-Hassan Ali al-Aszari 873-935
 [[Abubacer]] †1185
 [[Awerroes]] 1126-1198
 [[Ibn Haldun]] 1332-1406
-
-
-#filozofia #filozofia/średniowieczna #filozofia/arabska #filozofia/historia_filozofii 

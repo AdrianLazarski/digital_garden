@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Empiryzm (historia).md",
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia transcendentalna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Empiryzm (historia)"
+              "title": "Filozofia transcendentalna"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofowie starożytni"
+              "title": "MOC Filozofowie"
             }
           },
           {
@@ -103,8 +103,7 @@
               "title": "Jasiński Łukasz, Agonia"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia transcendentalna.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia transcendentalna.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia transcendentalna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -251,8 +250,7 @@
               "title": "Łącza wychodzące"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d265702fc91191e6",
@@ -307,21 +305,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26ffc829ba46e1d8",
+  "active": "b469543585e1dba6",
   "lastOpenFiles": [
+    "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia indyjska.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia dialogu.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia bizantyjska.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia arabska.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Fenomenologia.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Filozofia analityczna.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Feminizm.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Empiryzm (historia).md",
+    "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
     "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
     "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
     "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md",
-    "02 MOC/MOC Filozofia/MOC Starożytne szkoły filozoficzne.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Empiryzm (historia).md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia/MOC Etyka.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Epikureizm.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Feminizm.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Fenomenologia.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Egzystencjalizm.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Eklektycy (Jonia i Elea).md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Empiriokrytycyzm.md",
@@ -329,12 +333,6 @@
     "01 Input przejściowy/Filozofia/Historia filozofii/Atomizm.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Awerroizm.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Cynicy.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Cyrenaicy.md",
-    "03 Atomy/Eugenika.md",
-    "03 Atomy/Biotechnologia.md",
-    "03 Atomy/Aborcja.md",
-    "03 Atomy/Akt.md",
-    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",

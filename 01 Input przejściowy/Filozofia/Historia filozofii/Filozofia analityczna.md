@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 22:50
+---
 
 - Dość szeroki nurt/ruch filozoficzny, który zrodził się jako reakcja na neokantyzm, neoheglizm i przeciwny temu ostatniemu neoarystotelizm. Pod silnym wpływem neopozytiwizmu.
 - Nie jest to szkoła ani system.
@@ -54,5 +64,3 @@
 	1. [[Kazimierz Twardowski]]
 	2. [[Kazimierz Ajdukiewicz]]
 
-
-#filozofia #filozofia/współczesna #filozofia/historia_filozofii #filozofia/analityczna 

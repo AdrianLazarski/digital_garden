@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-07-31 22:55
+---
 
 
 Dyscyplina filozoficzna, kierunek filozofii lub filozofia w ogóle.
@@ -33,4 +44,3 @@ Transcendentalizm:
 	- [[Henry David Thoreau]] ekonomia wykorzystywaniem człowieka, dla każdy powinien być twórcą i żyć z tego, co sam zrobi.
 
 
-#filozofia #filozofia/historia_filozofii #filozofia/niemiecka #filozofia/nowożytna #filozofia/amerykańska #filozofia/metafizyka #kantyzm 

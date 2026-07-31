@@ -169,8 +169,10 @@
   ],
   "outline:open": [
     {
-      "modifiers": [],
-      "key": "F12"
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
     }
   ]
 }

@@ -9,10 +9,7 @@ dojrzalosc: Krzak 🌿
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-02 22:28
 ---
-**Spis treści**
 
-1. [Chronologicznie](#Chronologicznie)
-2. [Alfabetycznie](#Alfabetycznie)
 
 $\leftarrow$ [[MOC Filozofia starożytna]]
 
