@@ -102,57 +102,9 @@
               "icon": "lucide-file",
               "title": "Jasiński Łukasz, Agonia"
             }
-          },
-          {
-            "id": "b2cd8862ca25cb33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O stronie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "O stronie"
-            }
-          },
-          {
-            "id": "61d324070f6359c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Składnia języka C Sharp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Składnia języka C Sharp"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O stronie.md",
+                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,11 +306,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2cd8862ca25cb33",
+  "active": "898b6a9c53898e39",
   "lastOpenFiles": [
     "03 Atomy/Składnia języka C Sharp.md",
-    "02 MOC/MOC Filozofia/MOC Epistemologia.md",
     "O stronie.md",
+    "02 MOC/MOC Filozofia/MOC Epistemologia.md",
     "04 Źródła/Jasiński Łukasz, Agonia.md",
     "02 MOC/MOC Filozofia/MOC Semantyka.md",
     "01 Input przejściowy/Filozofia/Działy filozofii/Logika/Nazwa.md",
