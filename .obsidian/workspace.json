@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "Jasiński Łukasz, Agonia"
             }
-          },
-          {
-            "id": "8e33f4fe9f61b387",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 Language lab/English grammar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "English grammar"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Language lab/English grammar.md",
+                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -330,8 +306,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e33f4fe9f61b387",
+  "active": "898b6a9c53898e39",
   "lastOpenFiles": [
+    "07 Language lab/English grammar.md",
     "O stronie.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła dominikańska.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła badeńska.md",
@@ -357,7 +334,6 @@
     "01 Input przejściowy/Filozofia/Historia filozofii/Neotomizm.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Neopragmatyzm.md",
     "02 MOC/MOC Filozofia/MOC Nurty filozofii współczesnej.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia współczesna.md",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",
