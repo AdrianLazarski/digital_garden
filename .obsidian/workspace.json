@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O stronie.md",
+                "file": "07 Language lab/English grammar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,10 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "O stronie"
+              "title": "English grammar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła dominikańska.md",
+                "file": "07 Language lab/English grammar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -329,8 +330,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b469543585e1dba6",
+  "active": "8e33f4fe9f61b387",
   "lastOpenFiles": [
+    "O stronie.md",
+    "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła dominikańska.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła badeńska.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Strukturalizm.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Stoicyzm.md",
@@ -355,8 +358,6 @@
     "01 Input przejściowy/Filozofia/Historia filozofii/Neopragmatyzm.md",
     "02 MOC/MOC Filozofia/MOC Nurty filozofii współczesnej.md",
     "02 MOC/MOC Filozofia/MOC Filozofia współczesna.md",
-    "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",
