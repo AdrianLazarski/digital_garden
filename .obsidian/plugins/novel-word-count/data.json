@@ -89516,16 +89516,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 3,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 4,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304399828,
-      "modifiedDate": 1714812930932,
-      "sizeInBytes": 0,
+      "modifiedDate": 1785699885819,
+      "sizeInBytes": 173,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -89533,6 +89533,16 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "osoba",
+          "historia/starożytna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-02 21:44"
       }
     },
     "01 Input przejściowy/Historia/Historiozofia.md.edtz": {
