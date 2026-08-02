@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 18:39
+---
 
 
 - Ideologiczny paradygmat z elementami naukowości dla Nowej Lewicy przygotowała założona po I wojnie światowej Szkoła Frankfurcka. 
@@ -64,4 +74,3 @@ Podsumowanie szkoły frankfurckiej
 	Taką teorią ma być tytułowa teoria działania komunikacyjnego
 
 
-#filozofia #filozofia/współczesna #neomarksizm 

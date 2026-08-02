@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/starożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 18:37
+---
 
 
 - Założycielem [[Parmenides z Elei]].
@@ -27,5 +37,3 @@ Potem ich zwolennicy nie tworzyli już oddzielnej grupy, ale wchodzili w skład 
 	- Stilpon - łącznik ze sceptykami i stoikami.
 ???????
 
-
-#filozofia #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/historia_filozofii 

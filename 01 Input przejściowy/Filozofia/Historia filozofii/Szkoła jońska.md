@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/starożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 18:40
+---
 
 - Nurt w filozofii przedsokratejskiej, przypadający na VI i V w. przed Chr. 
 - Pierwsze niemitologiczne próby wyjaśniania *physis* świata. Głównym przedmiotem zainteresowania było [[Arché]].
@@ -20,6 +30,3 @@ Zainspirowała innych hylozoistów:
 [[Diogenes z Apolonii]] (powietrze), 
 Feredykos z Soros (apeiron). 
 Potem stanowisko to odnowili stoicy. 
-
-
-#filozofia #filozofia/grecka #filozofia/starożytna #filozofia/historia_filozofii 

@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 18:40
+---
 
 
 - Założycielem [[Kazimierz Twardowski]].
@@ -6,7 +16,7 @@
 	1. 1890-1919 okres lwowski.
 	2. 1919-1939 okres warszawski i rozkwit.
 
-- W 1939 r. około 80 aktywnych naukowców, bo przynależność bardzo nieformalna. Nawet współcześnie są filozofowie, podający się za przedstawicieli tej szkoły np. Jan Woleński.
+- W 1939 r. około 80 aktywnych naukowców, bo przynależność bardzo nieformalna. Nawet ws półcześnie są filozofowie, podający się za przedstawicieli tej szkoły np. Jan Woleński.
 - Szkoła miała poczucie misji; wpychała filozofię do szkół.
   
 ## Poglądy:

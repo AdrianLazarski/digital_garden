@@ -102861,20 +102861,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 406,
+      "wordCount": 403,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.3533333333333333,
-      "characterCount": 3206,
-      "nonWhitespaceCharacterCount": 2761,
-      "newlineCount": 28,
-      "readingTimeInMinutes": 1.5320754716981133,
+      "pageCount": 1.3433333333333333,
+      "characterCount": 3140,
+      "nonWhitespaceCharacterCount": 2697,
+      "newlineCount": 29,
+      "readingTimeInMinutes": 1.5207547169811322,
       "linkCount": 5,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1772304397870,
-      "modifiedDate": 1785157000288,
-      "sizeInBytes": 3367,
+      "modifiedDate": 1785688785080,
+      "sizeInBytes": 3488,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.3533333333333333,
@@ -102882,6 +102882,17 @@
         "characterCount": 3206,
         "nonWhitespaceCharacterCount": 2761,
         "newlineCount": 28
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/średniowieczna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-02 18:38"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła lwowsko-warszawska.md": {
@@ -102892,16 +102903,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.47,
-      "characterCount": 1266,
+      "characterCount": 1267,
       "nonWhitespaceCharacterCount": 1100,
-      "newlineCount": 38,
+      "newlineCount": 39,
       "readingTimeInMinutes": 0.5320754716981132,
       "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397911,
-      "modifiedDate": 1785157001255,
-      "sizeInBytes": 1317,
+      "modifiedDate": 1785688815021,
+      "sizeInBytes": 1504,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.47,
@@ -102909,6 +102920,17 @@
         "characterCount": 1266,
         "nonWhitespaceCharacterCount": 1100,
         "newlineCount": 38
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/współczesna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-02 18:40"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła jońska.md.edtz": {
@@ -102942,20 +102964,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 130,
+      "wordCount": 126,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.43333333333333335,
-      "characterCount": 1100,
-      "nonWhitespaceCharacterCount": 945,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 0.49056603773584906,
+      "pageCount": 0.42,
+      "characterCount": 1018,
+      "nonWhitespaceCharacterCount": 868,
+      "newlineCount": 24,
+      "readingTimeInMinutes": 0.47547169811320755,
       "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397899,
-      "modifiedDate": 1785527589998,
-      "sizeInBytes": 1139,
+      "modifiedDate": 1785688807691,
+      "sizeInBytes": 1240,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.43333333333333335,
@@ -102963,6 +102985,17 @@
         "characterCount": 1100,
         "nonWhitespaceCharacterCount": 945,
         "newlineCount": 25
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/starożytna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-02 18:40"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła frankfurcka.md.edtz": {
@@ -102996,20 +103029,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 951,
+      "wordCount": 948,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.17,
-      "characterCount": 7519,
-      "nonWhitespaceCharacterCount": 6506,
-      "newlineCount": 67,
-      "readingTimeInMinutes": 3.5886792452830187,
+      "pageCount": 3.16,
+      "characterCount": 7473,
+      "nonWhitespaceCharacterCount": 6462,
+      "newlineCount": 68,
+      "readingTimeInMinutes": 3.577358490566038,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397881,
-      "modifiedDate": 1785157000296,
-      "sizeInBytes": 8024,
+      "modifiedDate": 1785688798279,
+      "sizeInBytes": 8162,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.17,
@@ -103017,6 +103050,17 @@
         "characterCount": 7519,
         "nonWhitespaceCharacterCount": 6506,
         "newlineCount": 67
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/współczesna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-02 18:39"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła franciszkańska.md.edtz": {
@@ -103077,20 +103121,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 103,
+      "wordCount": 98,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3433333333333333,
-      "characterCount": 1349,
-      "nonWhitespaceCharacterCount": 1209,
+      "pageCount": 0.32666666666666666,
+      "characterCount": 1246,
+      "nonWhitespaceCharacterCount": 1111,
       "newlineCount": 31,
-      "readingTimeInMinutes": 0.3886792452830189,
+      "readingTimeInMinutes": 0.36981132075471695,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304397858,
-      "modifiedDate": 1785157000281,
-      "sizeInBytes": 1379,
+      "modifiedDate": 1785688678853,
+      "sizeInBytes": 1459,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.3433333333333333,
@@ -103098,6 +103142,17 @@
         "characterCount": 1349,
         "nonWhitespaceCharacterCount": 1209,
         "newlineCount": 31
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "filozofia/starożytna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-02 18:37"
       }
     },
     "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła dominikańska.md.edtz": {

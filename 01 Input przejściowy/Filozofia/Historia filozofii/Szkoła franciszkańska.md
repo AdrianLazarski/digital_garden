@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 18:38
+---
 
 - Szkoła Franciszkańska = Szkoła braci mniejszych.
 - Szkoła mocno augustyńska. Dopiero "nowa szkoła franciszkańska" stała się bardziej przychylna Arystotelesowi.
@@ -25,4 +35,3 @@ Pozytywna materia. Materia decyduje o jednostkowieniu gatunkowym. Jest przyczyn�
 ![[Pasted image 20240610214443.png]]
 
 
-#filozofia #filozofia/historia_filozofii #filozofia/średniowieczna 
