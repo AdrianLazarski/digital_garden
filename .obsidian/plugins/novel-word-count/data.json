@@ -33440,8 +33440,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304406689,
-      "modifiedDate": 1776434373061,
-      "sizeInBytes": 479,
+      "modifiedDate": 1785694601660,
+      "sizeInBytes": 482,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.13666666666666666,
@@ -33453,7 +33453,7 @@
       "frontmatter": {
         "created": "2025-11-23 19:00",
         "tags": [
-          "it/typ_danych",
+          "it/programowanie",
           "atom",
           "definicja"
         ],
@@ -33503,8 +33503,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304406670,
-      "modifiedDate": 1785693521767,
-      "sizeInBytes": 551,
+      "modifiedDate": 1785694601114,
+      "sizeInBytes": 554,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.11,
@@ -33516,7 +33516,7 @@
       "frontmatter": {
         "created": "2025-11-23 19:00",
         "tags": [
-          "it/typ_danych",
+          "it/programowanie",
           "it/język/csharp",
           "implementacja",
           "atom"
@@ -46809,8 +46809,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304406352,
-      "modifiedDate": 1785693521202,
-      "sizeInBytes": 340,
+      "modifiedDate": 1785694600452,
+      "sizeInBytes": 343,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.09333333333333334,
@@ -46822,7 +46822,7 @@
       "frontmatter": {
         "created": "2025-11-23 19:23",
         "tags": [
-          "it/typ_danych",
+          "it/programowanie",
           "it/język/csharp",
           "implementacja"
         ],
@@ -47067,8 +47067,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304404876,
-      "modifiedDate": 1774867120696,
-      "sizeInBytes": 457,
+      "modifiedDate": 1785694600099,
+      "sizeInBytes": 460,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.11333333333333333,
@@ -47081,7 +47081,7 @@
         "created": "2024-03-25 18:47",
         "tags": [
           "atom",
-          "it/typ_danych",
+          "it/programowanie",
           "definicja",
           "it/programowanie"
         ],
@@ -51498,8 +51498,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1775234547663,
-      "modifiedDate": 1776437241686,
-      "sizeInBytes": 847,
+      "modifiedDate": 1785694599322,
+      "sizeInBytes": 850,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.25333333333333335,
@@ -51514,7 +51514,7 @@
           "atom",
           "definicja",
           "it/programowanie/obiektowe",
-          "it/typ_danych",
+          "it/programowanie",
           "przerob"
         ],
         "dojrzalosc": "Sadzonka 🌱",
@@ -82871,20 +82871,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 84,
+      "wordCount": 25,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.28,
-      "characterCount": 935,
-      "nonWhitespaceCharacterCount": 818,
-      "newlineCount": 39,
-      "readingTimeInMinutes": 0.3169811320754717,
-      "linkCount": 29,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 238,
+      "nonWhitespaceCharacterCount": 191,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304403685,
-      "modifiedDate": 1785693313679,
-      "sizeInBytes": 1038,
+      "modifiedDate": 1785694920086,
+      "sizeInBytes": 327,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.26,
@@ -83007,8 +83007,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304403791,
-      "modifiedDate": 1776957920440,
-      "sizeInBytes": 1604,
+      "modifiedDate": 1785694581129,
+      "sizeInBytes": 1607,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5433333333333333,
@@ -83019,8 +83019,8 @@
       },
       "frontmatter": {
         "tags": [
-          "it/typ_danych",
-          "moc"
+          "moc",
+          "it/programowanie"
         ],
         "created": "2025-11-23 17:55",
         "dojrzalosc": "Sadzonka 🌱",
@@ -98944,20 +98944,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 10,
+      "wordCount": 7,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 111,
-      "nonWhitespaceCharacterCount": 98,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 59,
+      "nonWhitespaceCharacterCount": 48,
       "newlineCount": 5,
-      "readingTimeInMinutes": 0.03773584905660377,
+      "readingTimeInMinutes": 0.026415094339622643,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304400055,
-      "modifiedDate": 1785694022264,
-      "sizeInBytes": 267,
+      "modifiedDate": 1785694292439,
+      "sizeInBytes": 243,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.04,
@@ -98970,7 +98970,8 @@
         "created": "2026-02-28 19:46",
         "tags": [
           "atom",
-          "definicja"
+          "definicja",
+          "it/struktura_danych"
         ],
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Spekulatywny ❓",
@@ -131005,6 +131006,69 @@
       "createdDate": 1772304400008,
       "modifiedDate": 1785693992908,
       "sizeInBytes": 12291,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC Architektura systemów.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 59,
+      "nonWhitespaceCharacterCount": 48,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1785694731097,
+      "modifiedDate": 1785694759510,
+      "sizeInBytes": 220,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-08-02 20:18",
+        "tags": [
+          "it/architektura"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-08-02 20:18"
+      }
+    },
+    "02 MOC/MOC Struktury danych.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1785694923878,
+      "modifiedDate": 1785694923878,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

@@ -8,4 +8,4 @@ Struktura danych do przechowywania w zorganizowany sposób obiektów. Kontener d
 [[Drzewo]]
 
 
-#it/struktura_danych #it
+#it/struktury_danych #it

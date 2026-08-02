@@ -3,7 +3,7 @@ created: 2024-03-25 18:31
 tags:
   - definicja
   - moc
-  - it/struktura_danych
+  - it/struktury_danych
 modified date: 2025-12-10 12:28
 ---
 ang. *data structure*

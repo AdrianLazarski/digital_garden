@@ -1,7 +1,7 @@
 ---
 created: 2025-11-23 18:18
 tags:
-  - it/typ_danych
+  - it/programowanie
   - definicja
   - atom
 modified date: 2025-11-23 18:22

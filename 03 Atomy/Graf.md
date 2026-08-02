@@ -3,7 +3,7 @@ created: 2024-03-25 18:38
 tags:
   - matematyka/dyskretna/teoria_grafów
   - "#matematyka/algebra"
-  - it/struktura_danych
+  - it/struktury_danych
   - atom
 modified date: 2025-11-21 18:40
 ---

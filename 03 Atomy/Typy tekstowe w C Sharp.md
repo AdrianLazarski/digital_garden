@@ -1,7 +1,7 @@
 ---
 created: 2025-11-23 19:23
 tags:
-  - it/typ_danych
+  - it/programowanie
   - it/język/csharp
   - implementacja
 modified date: 2025-11-23 19:26

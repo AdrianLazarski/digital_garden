@@ -1,6 +1,6 @@
 ---
 tags:
-  - it/typ_danych
+  - it/programowanie
   - it/język/csharp
   - implementacja
   - atom

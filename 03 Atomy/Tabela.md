@@ -1,7 +1,7 @@
 ---
 created: 2024-03-23 12:44
 tags:
-  - it/struktura_danych
+  - it/struktury_danych
   - definicja
 modified date: 2025-12-29 10:56
 ---

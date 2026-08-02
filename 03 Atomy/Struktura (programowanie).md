@@ -4,7 +4,7 @@ tags:
   - atom
   - definicja
   - it/programowanie/obiektowe
-  - it/typ_danych
+  - it/programowanie
   - przerob
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓

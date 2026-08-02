@@ -1,7 +1,7 @@
 ---
 tags:
-  - it/typ_danych
   - moc
+  - it/programowanie
 created: 2025-11-23 17:55
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Prawdopodobny 🧪

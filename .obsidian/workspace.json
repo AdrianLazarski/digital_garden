@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC IT.md",
+                "file": "02 MOC/MOC Struktury danych.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC IT"
+              "title": "MOC Struktury danych"
             }
           },
           {
@@ -309,9 +309,21 @@
   },
   "active": "ef903653377c4890",
   "lastOpenFiles": [
-    "02 MOC/MOC IT/MOC Typy danych.md",
     "02 MOC/MOC IT.md",
+    "02 MOC/MOC Struktury danych.md",
+    "03 Atomy/Programowanie.md",
+    "02 MOC/MOC IT/MOC Media przewodowe.md",
+    "02 MOC/MOC Architektura systemów.md",
+    "03 Atomy/Kompilator.md",
+    "03 Atomy/Stos (pamięć).md",
+    "03 Atomy/Klasa (programowanie).md",
+    "03 Atomy/Metoda statyczna.md",
     "02 MOC/MOC IT/MOC Metodyka programowania.md",
+    "02 MOC/MOC IT/MOC Typy danych.md",
+    "03 Atomy/Całkowitoliczbowy typ danych.md",
+    "02 MOC/MOC IT/MOC Operator (Programowanie).md",
+    "03 Atomy/Język programowania.md",
+    "03 Atomy/Elementy języka programowania.md",
     "03 Atomy/Programowanie funkcyjne.md",
     "01 Input przejściowy/IT⌨️/Struktury danych/Array.md",
     "03 Atomy/Numpy.md",
@@ -324,18 +336,6 @@
     "03 Atomy/Baza danych.md",
     "03 Atomy/SQL.md",
     "03 Atomy/Język znaczników.md",
-    "03 Atomy/HTML.md",
-    "01 Input przejściowy/IT⌨️/Język funkcyjny.md",
-    "03 Atomy/Tablica.md",
-    "02 MOC/MOC DevOps.md",
-    "03 Atomy/GIT.md",
-    "02 MOC/MOC IT/MOC Narzędzia i programy.md",
-    "03 Atomy/Excel.md",
-    "02 MOC/MOC Frontend.md",
-    "01 Input/CS50.md",
-    "03 Atomy/DBMS.md",
-    "03 Atomy/CSS.md",
-    "04 Źródła/Jasiński Łukasz, Agonia.md",
     "03 Atomy/załączniki/Pasted image 20240610141757.png",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",

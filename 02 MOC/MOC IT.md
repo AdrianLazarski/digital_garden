@@ -5,17 +5,15 @@ tags:
   - moc
 modified date: 2025-11-23 14:26
 ---
-$\rightarrow$ [[MOC Języki programowania]]
 
-$\rightarrow$ [[MOC Metodyka programowania]]
 
-$\rightarrow$ [[MOC Narzędzia i programy]]
 
-$\rightarrow$ [[MOC Typy danych]]
+[[MOC Języki programowania]]
 
-$\rightarrow$ [[MOC Operator (Programowanie)]]
 
-$\rightarrow$ [[MOC Media przewodowe]]
+
+[[Programowanie]]
+
 
 
 
@@ -23,23 +21,18 @@ $\rightarrow$ [[MOC Media przewodowe]]
 [[MOC DevOps]]
 
 
-- [[Programowanie]]
-	- [[Język programowania]]
-		- [[Elementy języka programowania]]
-			- [[MOC Typy danych]]
-		- [[Klasyfikacje języków programowania]]
-- [[Kompilator]]
-- [[Przestrzeń nazwowa]]
-- [[Metoda statyczna]]
-- [[Klasa (programowanie)]]
-- [[Obiekt (programowanie)]]
-- [[Metoda (programowanie)]]
-- [[Instrukcja (programowanie)]]
+[[MOC Algorytmy]]
+[[MOC Struktury danych]]
 
-Pamięć
-[[Stos (pamięć)]]
-[[Sterta (pamięć)]]
 
-[[MOC Języki programowania]]
-	[[MOC Operator (Programowanie)]]
-[[MOC Środowisko programistyczne]]
+
+[[MOC Architektura systemów]]
+
+
+
+[[MOC Narzędzia i programy]]
+
+
+
+MOC Sieci
+	[[MOC Media przewodowe]]

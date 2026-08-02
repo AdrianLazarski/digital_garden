@@ -1,7 +1,7 @@
 ---
 tags:
   - atom
-  - it/struktura_danych
+  - it/struktury_danych
 created: 2025-12-10 13:01
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓

@@ -9,4 +9,4 @@
 
 
 
-#it/struktura_danych #it
+#it/struktury_danych #it
