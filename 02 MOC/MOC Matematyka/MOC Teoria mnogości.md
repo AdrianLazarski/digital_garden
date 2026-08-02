@@ -4,14 +4,18 @@ tags:
   - matematyka/podstawy/teoria_mnogości
   - moc
   - logika/matematyczna/teoria_mnogości
-modified date: 2025-11-22 12:17
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 20:35
+aliases:
+  - MOC Teoria zbiorów
 ---
 ang. *set theory*
 
 > [!note] Definicja
 > Dyscyplina podstaw matematyki, zajmująca się zbiorami, szczególnie nieskończonej liczby elementów.
 
-## Charakterystyka
+# Charakterystyka
 
 - Inaczej teoria zbiorów.
 - Powstała w XIX w., twórcą [[Georg Cantor]].
@@ -21,20 +25,31 @@ ang. *set theory*
 - Na początku XX wieku [[Ernst Zermelo]] i [[Adolf Abraham Halevi]] zaproponowali system aksjomatów, nakładający pewne ograniczenia  wykluczający paradoksy. Aksjomatyczna teoria mnogości. 
 
 
-$\leftarrow$ [[MOC Dziedziny matematyki]]
-$\leftarrow$ [[MOC Podstawy matematyki]]
+
+# Zagadnienia
+
+$\rightarrow$ [[Aksjomat wyboru]]
 $\rightarrow$ [[Zbiór]]
+$\rightarrow$ [[Moc zbioru]]
 $\rightarrow$ [[Ontologia zbiorów]]
 $\rightarrow$ [[Zbiory a działy matematyki]]
-$\rightarrow$ [[MOC Działania na zbiorach]]
-$\rightarrow$ [[Zbiór pusty]]
-$\rightarrow$ [[Zbiór uniwersalny]]
-$\rightarrow$ [[Zbiór potęgowy]]
+[[Iloczyn kartezjański]]
+[[Klasa abstrakcji]]
+[[Para uporządkowana]]
+[[Para nieuporządkowana]]
+[[Podział logiczny]]
+
+[[MOC Rodzaje zbiorów]]
+
 $\rightarrow$ [[Relacje pomiędzy zbiorami]]
-$\rightarrow$ [[Moc zbioru]]
 
 
 
 $\rightarrow$ [[MOC Działania na zbiorach]]
 $\rightarrow$ [[MOC Rodzaje struktur matematycznych]]
 	$\rightarrow$ [[MOC Rodzaje struktur algebraicznych]]
+
+
+
+
+$\leftarrow$ [[MOC Dziedziny matematyki]]

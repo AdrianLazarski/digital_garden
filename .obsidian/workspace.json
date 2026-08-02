@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Matematyka/Matematycy/Georg Cantor.md",
+                "file": "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Klasa abstrakcji.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Georg Cantor"
+              "title": "Klasa abstrakcji"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Struktury danych.md",
+                "file": "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Struktury danych"
+              "title": "MOC Teoria mnogości"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ekonomia",
+                "query": "tag:#logika/matematyczna",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -158,7 +158,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Matematyka/Matematycy/Georg Cantor.md",
+                "file": "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Klasa abstrakcji.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -306,10 +307,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b469543585e1dba6",
+  "active": "6b7c399b1c5ae36e",
   "lastOpenFiles": [
-    "01 Input przejściowy/Matematyka/Matematycy/George Bool.md",
-    "01 Input przejściowy/Matematyka/Matematycy/Georg Cantor.md",
+    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Iloczyn kartezjański.md",
+    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Aksjomat wyboru.md",
+    "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
+    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Relacje pomiędzy zbiorami.md",
+    "02 MOC/MOC Matematyka/MOC Rodzaje zbiorów.md",
+    "03 Atomy/Zbiór pusty.md",
+    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
+    "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
+    "02 MOC/MOC Matematyka.md",
+    "02 MOC/MOC.md",
+    "02 MOC/MOC IT.md",
+    "02 MOC/MOC Struktury danych.md",
+    "05 Osoby/George Bool.md",
+    "05 Osoby/Georg Cantor.md",
     "05 Osoby/Carl Gustav Jung.md",
     "02 MOC/MOC Matematyka/MOC Historia matematyki.md",
     "02 MOC/MOC Historia/MOC Historia nauki.md",
@@ -322,18 +335,6 @@
     "01 Input przejściowy/Matematyka/Działy/Algebra/Wersor.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Zwrot.md",
     "01 Input przejściowy/Matematyka/Działy/Algebra/Grupa przemienna.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Grupa.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Ciało.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Algebra liniowa.md",
-    "02 MOC/MOC Matematyka/MOC Algebra liniowa.md",
-    "03 Atomy/Array.md",
-    "03 Atomy/Tablica statyczna.md",
-    "03 Atomy/Tablica dynamiczna.md",
-    "03 Atomy/Stos (struktura danych).md",
-    "03 Atomy/Lista.md",
-    "03 Atomy/Krotka.md",
-    "03 Atomy/Kontener.md",
-    "03 Atomy/Drzewo.md",
     "03 Atomy/załączniki/ASCI.png",
     "03 Atomy/załączniki/Pasted image 20240610141757.png",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",

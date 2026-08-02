@@ -80661,20 +80661,22 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 136,
+      "wordCount": 135,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.4533333333333333,
-      "characterCount": 1236,
-      "nonWhitespaceCharacterCount": 1080,
-      "newlineCount": 33,
-      "readingTimeInMinutes": 0.5132075471698113,
-      "linkCount": 18,
+      "pageCount": 0.45,
+      "characterCount": 1247,
+      "nonWhitespaceCharacterCount": 1083,
+      "newlineCount": 44,
+      "readingTimeInMinutes": 0.5094339622641509,
+      "linkCount": 20,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "MOC Teoria zbiorów"
+      ],
       "createdDate": 1772304403994,
-      "modifiedDate": 1783879825410,
-      "sizeInBytes": 1442,
+      "modifiedDate": 1785695922504,
+      "sizeInBytes": 1550,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.4533333333333333,
@@ -80690,7 +80692,12 @@
           "moc",
           "logika/matematyczna/teoria_mnogości"
         ],
-        "modified date": "2025-11-22 12:17"
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-02 20:35",
+        "aliases": [
+          "MOC Teoria zbiorów"
+        ]
       }
     },
     "02 MOC/MOC Matematyka/MOC Teoria liczb.md": {
@@ -89490,161 +89497,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Matematyka/Matematycy/Historia matematyki.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304403002,
-      "modifiedDate": 1718546780949,
-      "sizeInBytes": 164,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/Matematyka/Matematycy/George Bool.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304402986,
-      "modifiedDate": 1718547002913,
-      "sizeInBytes": 116,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/Matematyka/Matematycy/George Bool.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 59,
-      "nonWhitespaceCharacterCount": 49,
-      "newlineCount": 8,
-      "readingTimeInMinutes": 0.018867924528301886,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304402978,
-      "modifiedDate": 1785695572717,
-      "sizeInBytes": 216,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 58,
-        "nonWhitespaceCharacterCount": 49,
-        "newlineCount": 7
-      },
-      "frontmatter": {
-        "created": "2026-02-28 19:46",
-        "tags": [
-          "atom",
-          "definicja"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
-        "modified date": "2026-08-02 20:32"
-      }
-    },
-    "01 Input przejściowy/Matematyka/Matematycy/Georg Cantor.md.edtz": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772304402972,
-      "modifiedDate": 1782999253217,
-      "sizeInBytes": 698,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/Matematyka/Matematycy/Georg Cantor.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 96,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.32,
-      "characterCount": 860,
-      "nonWhitespaceCharacterCount": 739,
-      "newlineCount": 24,
-      "readingTimeInMinutes": 0.3622641509433962,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304402966,
-      "modifiedDate": 1785695569821,
-      "sizeInBytes": 1071,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.32,
-        "wordCount": 96,
-        "characterCount": 863,
-        "nonWhitespaceCharacterCount": 743,
-        "newlineCount": 23
-      },
-      "frontmatter": {
-        "created": "2026-02-28 19:46",
-        "tags": [
-          "atom",
-          "definicja"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
-        "modified date": "2026-08-02 20:32"
-      }
-    },
     "01 Input przejściowy/Matematyka/Książki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -90349,20 +90201,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 40,
+      "wordCount": 38,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13333333333333333,
-      "characterCount": 313,
-      "nonWhitespaceCharacterCount": 250,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.1509433962264151,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 268,
+      "nonWhitespaceCharacterCount": 207,
+      "newlineCount": 18,
+      "readingTimeInMinutes": 0.14339622641509434,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304402773,
-      "modifiedDate": 1763821620009,
-      "sizeInBytes": 334,
+      "modifiedDate": 1785696156361,
+      "sizeInBytes": 496,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.13333333333333333,
@@ -90370,6 +90222,18 @@
         "characterCount": 313,
         "nonWhitespaceCharacterCount": 250,
         "newlineCount": 17
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "matematyka/podstawy/teoria_mnogości",
+          "logi"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-02 20:40"
       }
     },
     "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Iloczyn kartezjański.md.edtz": {
@@ -90403,20 +90267,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 52,
+      "wordCount": 50,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 435,
-      "nonWhitespaceCharacterCount": 365,
-      "newlineCount": 16,
-      "readingTimeInMinutes": 0.19622641509433963,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 391,
+      "nonWhitespaceCharacterCount": 322,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.18867924528301888,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1772304402756,
-      "modifiedDate": 1763821619482,
-      "sizeInBytes": 462,
+      "modifiedDate": 1785696006401,
+      "sizeInBytes": 616,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.17333333333333334,
@@ -90424,6 +90288,17 @@
         "characterCount": 435,
         "nonWhitespaceCharacterCount": 365,
         "newlineCount": 16
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "matematyka/podstawy/teoria_mnogości"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-02 20:39"
       }
     },
     "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Aksjomat wyboru.md.edtz": {
@@ -90457,20 +90332,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 10,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 88,
-      "nonWhitespaceCharacterCount": 74,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 68,
+      "nonWhitespaceCharacterCount": 56,
       "newlineCount": 6,
-      "readingTimeInMinutes": 0.03773584905660377,
+      "readingTimeInMinutes": 0.03018867924528302,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304402740,
-      "modifiedDate": 1718540409423,
-      "sizeInBytes": 92,
+      "modifiedDate": 1785695994984,
+      "sizeInBytes": 271,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03333333333333333,
@@ -90478,6 +90353,17 @@
         "characterCount": 88,
         "nonWhitespaceCharacterCount": 74,
         "newlineCount": 6
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "matematyka/podstawy/teoria_mnogości"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-02 20:39"
       }
     },
     "01 Input przejściowy/Matematyka/Działy/Statystyka/Średnia harmoniczna.md.edtz": {
@@ -130335,6 +130221,60 @@
       "createdDate": 1772304383148,
       "modifiedDate": 1718556499760,
       "sizeInBytes": 137,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 Osoby/George Bool.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 256,
+      "nonWhitespaceCharacterCount": 223,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304402978,
+      "modifiedDate": 1785695663111,
+      "sizeInBytes": 265,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 Osoby/Georg Cantor.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 108,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.36,
+      "characterCount": 996,
+      "nonWhitespaceCharacterCount": 855,
+      "newlineCount": 30,
+      "readingTimeInMinutes": 0.4075471698113208,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304402966,
+      "modifiedDate": 1785695637219,
+      "sizeInBytes": 1057,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
