@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ajdukie",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -182,7 +182,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,7 +196,7 @@
       {
         "id": "3e6e2c716a11a308",
         "type": "tabs",
-        "dimension": 28.999999999999996,
+        "dimension": 72.03450754852624,
         "children": [
           {
             "id": "0ea9f612283df2d1",
@@ -203,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/IT⌨️/CSS.md",
+                "file": "Skróty klawiszowe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -274,12 +275,13 @@
               "title": "Łącza wychodzące"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d265702fc91191e6",
         "type": "tabs",
-        "dimension": 71,
+        "dimension": 27.96549245147376,
         "children": [
           {
             "id": "003f709030cf3a71",
@@ -329,8 +331,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b469543585e1dba6",
+  "active": "26ffc829ba46e1d8",
   "lastOpenFiles": [
+    "01 Input przejściowy/IT⌨️/CSS.md",
     "01 Input przejściowy/IT⌨️/CS50.md",
     "01 Input przejściowy/IT⌨️/C.R.U.D.md",
     "01 Input przejściowy/IT⌨️/Baza danych.md",
@@ -357,7 +360,6 @@
     "System tagów.md",
     "O stronie.md",
     "03 Atomy/Szkoła badeńska.md",
-    "03 Atomy/Strukturalizm.md",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",
