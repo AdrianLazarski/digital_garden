@@ -13,6 +13,7 @@ modified date: 2026-07-06 19:57
 [[MOC Epistemologia]]
 [[MOC Filozofia Boga]]
 [[MOC Filozofia ekonomii]]
+[[MOC Filozofia historii]]
 [[MOC Filozofia języka]]
 [[MOC Filozofia kultury]]
 [[MOC Filozofia logiki]]
@@ -28,4 +29,5 @@ modified date: 2026-07-06 19:57
 
 [[MOC Filozofia historii]]
 [[MOC Filozofia wartości]]
+
 

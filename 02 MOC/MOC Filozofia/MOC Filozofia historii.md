@@ -8,3 +8,11 @@ status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-21 20:49
 ---
 Inaczej filozofia dziejów, historiozofia.
+
+
+
+
+
+Przykłady:
+
+- Twierdzenie, że "islam jest teraz na etapie wojen krzyżowych".

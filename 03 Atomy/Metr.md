@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - fizyka/podstawy
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 21:36
+---
 Jednostka długości.
 
 > [!abstract] Def.
@@ -7,4 +17,3 @@ $$
 - Czyli w czasie odwrotności prędkości światła.
 
 
-#fizyka #fizyka/jednostki

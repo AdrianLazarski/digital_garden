@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Fizyka ⚛️/Pojęcia/Wielkości podstawowe.md",
+                "file": "01 Input przejściowy/Historia/Postacie/Starożytna/Perykles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wielkości podstawowe"
+              "title": "Perykles"
+            }
+          },
+          {
+            "id": "c1e9aa81cd49c9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Bocheński Józef, Zarys historii filozofii.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bocheński Józef, Zarys historii filozofii"
             }
           },
           {
@@ -37,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Fizyka/MOC Fizyka jądrowa.md",
+                "file": "02 MOC/MOC Historia/MOC Historia nauki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Fizyka jądrowa"
+              "title": "MOC Historia nauki"
             }
           },
           {
@@ -179,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Fizyka ⚛️/Pojęcia/Wielkości podstawowe.md",
+                "file": "01 Input przejściowy/Historia/Postacie/Starożytna/Perykles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -308,32 +332,32 @@
   },
   "active": "b469543585e1dba6",
   "lastOpenFiles": [
-    "01 Input przejściowy/Fizyka ⚛️/Pojęcia/Masa.md",
-    "01 Input przejściowy/Fizyka ⚛️/Pojęcia/Atom.md",
-    "02 MOC/MOC Fizyka/MOC Fizyka jądrowa.md",
+    "03 Atomy/Kilogram.md",
+    "01 Input przejściowy/Historia/Historia nauki.md",
+    "02 MOC/MOC Historia/MOC Historia nauki.md",
+    "02 MOC/MOC Historia.md",
+    "01 Input przejściowy/Historia/Historia.md",
+    "04 Źródła/Bocheński Józef, Zarys historii filozofii.md",
+    "02 MOC/MOC.md",
+    "02 MOC/MOC Filozofia.md",
+    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia historii.md",
+    "01 Input przejściowy/Historia/Historiozofia.md",
+    "02 MOC/MOC Fizyka.md",
     "02 MOC/MOC Fizyka/MOC Działy fizyki.md",
     "02 MOC/MOC Fizyka/MOC Fizyka klasyczna.md",
-    "02 MOC/MOC Fizyka/MOC Termodynamika.md",
-    "01 Input przejściowy/Fizyka ⚛️/Pojęcia/Cząsteczka.md",
-    "02 MOC/MOC Fizyka/MOC Fizyka materii skondensowanej.md",
-    "01 Input przejściowy/Fizyka ⚛️/Pojęcia/Ciepło.md",
-    "03 Atomy/Kinetyczna teoria gazów.md",
-    "03 Atomy/Szczególna Teoria Względności.md",
-    "03 Atomy/Ogólna Teoria Względności.md",
-    "03 Atomy/Korpuskularna teoria światła.md",
-    "02 MOC/MOC Fizyka.md",
-    "02 MOC/MOC Fizyka/MOC Pojęcia pierwotne fizyki.md",
+    "02 MOC/MOC Fizyka/MOC Mechanika klasyczna.md",
+    "03 Atomy/Metr.md",
+    "03 Atomy/Wielkości podstawowe.md",
     "02 MOC/MOC Fizyka/MOC Jednostki fizyczne.md",
-    "02 MOC/MOC.md",
-    "02 MOC/MOC Matematyka.md",
-    "02 MOC/MOC Matematyczne podręczniki.md",
-    "03 Atomy/Atomizm.md",
-    "05 Osoby/Robert Boyle.md",
-    "05 Osoby/Marco Antonio Dominis.md",
-    "05 Osoby/Albert Einstein.md",
-    "05 Osoby/Johannes Kepler.md",
-    "05 Osoby/John James Thomson.md",
-    "05 Osoby/John Dalton.md",
+    "02 MOC/MOC Fizyka/MOC Fizyka jądrowa.md",
+    "03 Atomy/Masa.md",
+    "03 Atomy/Atom.md",
+    "02 MOC/MOC Fizyka/MOC Termodynamika.md",
+    "03 Atomy/Cząsteczka.md",
+    "02 MOC/MOC Fizyka/MOC Fizyka materii skondensowanej.md",
+    "03 Atomy/Ciepło.md",
+    "03 Atomy/Kinetyczna teoria gazów.md",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
     "03 Atomy/załączniki/Pasted image 20240328192628.png",

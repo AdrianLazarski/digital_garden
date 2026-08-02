@@ -9,5 +9,6 @@ modified date: 2026-08-02 21:33
 ---
 
 
+[[MOC Mechanika klasyczna]]
 
 [[MOC Termodynamika]]

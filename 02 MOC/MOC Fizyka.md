@@ -14,3 +14,4 @@ modified date : 2026-07-03 16:08
 [[MOC Pojęcia pierwotne fizyki]]
 
 
+[[Wielkości podstawowe]]
