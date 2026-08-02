@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/IT⌨️/CSS.md",
+                "file": "02 MOC/MOC IT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CSS"
+              "title": "MOC IT"
             }
           },
           {
@@ -182,8 +182,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skróty klawiszowe.md",
+                "file": "02 MOC/MOC IT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -331,9 +330,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26ffc829ba46e1d8",
+  "active": "b469543585e1dba6",
   "lastOpenFiles": [
+    "03 Atomy/Programowanie.md",
+    "02 MOC/MOC IT.md",
     "01 Input przejściowy/IT⌨️/CSS.md",
+    "Skróty klawiszowe.md",
     "01 Input przejściowy/IT⌨️/CS50.md",
     "01 Input przejściowy/IT⌨️/C.R.U.D.md",
     "01 Input przejściowy/IT⌨️/Baza danych.md",
@@ -357,9 +359,6 @@
     "07 Language lab/English grammar.md",
     "04 Źródła/Jasiński Łukasz, Agonia.md",
     "04 Źródła/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
-    "System tagów.md",
-    "O stronie.md",
-    "03 Atomy/Szkoła badeńska.md",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",
