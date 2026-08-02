@@ -1,4 +1,14 @@
-Biblioteka do [[Python]] dodająca obsługę wielowymiarowych tablic ([[Array]]): [[Tabela|tabel]] i [[01 Input przejściowy/Matematyka/Działy/Algebra/Macierz|macierzy]].
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - it/język/python
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 20:03
+---
+Biblioteka do [[Python]] dodająca obsługę wielowymiarowych tablic ([[Array]]): [[Tabela|tabel]] i [[Macierz|macierzy]].
 
 
 ```python
@@ -233,9 +243,3 @@ mat.sum(axis=1) #Sumowanie wierszy
 
 ```
 
-
-
-
-
-
-#it #python #biblioteka #data_science

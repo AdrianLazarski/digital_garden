@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/C.R.U.D.md",
+                "file": "01 Input przejściowy/IT⌨️/Struktury danych/Array.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C.R.U.D"
+              "title": "Array"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Programowanie funkcyjne.md",
+                "file": "02 MOC/MOC IT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programowanie funkcyjne"
+              "title": "MOC IT"
             }
           },
           {
@@ -103,7 +103,8 @@
               "title": "Jasiński Łukasz, Agonia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -306,8 +307,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40fde4cd44744f35",
+  "active": "ef903653377c4890",
   "lastOpenFiles": [
+    "02 MOC/MOC IT/MOC Typy danych.md",
+    "02 MOC/MOC IT.md",
+    "02 MOC/MOC IT/MOC Metodyka programowania.md",
+    "03 Atomy/Programowanie funkcyjne.md",
+    "01 Input przejściowy/IT⌨️/Struktury danych/Array.md",
+    "03 Atomy/Numpy.md",
+    "03 Atomy/Pandas.md",
+    "03 Atomy/Python.md",
+    "01 Input/Zbiór w pytonie.md",
+    "01 Input przejściowy/IT⌨️/Python/Słowniki w pythonie.md",
+    "03 Atomy/C.R.U.D.md",
     "03 Atomy/załączniki/ASCI.png",
     "03 Atomy/Baza danych.md",
     "03 Atomy/SQL.md",
@@ -315,25 +327,15 @@
     "03 Atomy/HTML.md",
     "01 Input przejściowy/IT⌨️/Język funkcyjny.md",
     "03 Atomy/Tablica.md",
-    "03 Atomy/Programowanie funkcyjne.md",
-    "02 MOC/MOC IT/MOC Metodyka programowania.md",
-    "02 MOC/MOC IT.md",
     "02 MOC/MOC DevOps.md",
     "03 Atomy/GIT.md",
     "02 MOC/MOC IT/MOC Narzędzia i programy.md",
     "03 Atomy/Excel.md",
     "02 MOC/MOC Frontend.md",
     "01 Input/CS50.md",
-    "03 Atomy/C.R.U.D.md",
     "03 Atomy/DBMS.md",
     "03 Atomy/CSS.md",
     "04 Źródła/Jasiński Łukasz, Agonia.md",
-    "07 Language lab/English grammar.md",
-    "02 MOC/MOC.md",
-    "02 MOC/MOC Filozofia.md",
-    "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia współczesna.md",
-    "02 MOC/MOC Filozofia/MOC Nurty filozofii współczesnej.md",
     "03 Atomy/załączniki/Pasted image 20240610141757.png",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",

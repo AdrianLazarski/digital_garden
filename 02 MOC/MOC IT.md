@@ -6,14 +6,15 @@ tags:
 modified date: 2025-11-23 14:26
 ---
 $\rightarrow$ [[MOC Języki programowania]]
-	$\rightarrow$ [[MOC C Sharp]]
-	$\rightarrow$ [[MOC SQL składnia]]
+
 $\rightarrow$ [[MOC Metodyka programowania]]
-	$\rightarrow$ [[MOC Programowanie obiektowe]]
+
 $\rightarrow$ [[MOC Narzędzia i programy]]
-	$\rightarrow$ [[MOC Środowisko programistyczne]]
+
 $\rightarrow$ [[MOC Typy danych]]
+
 $\rightarrow$ [[MOC Operator (Programowanie)]]
+
 $\rightarrow$ [[MOC Media przewodowe]]
 
 

@@ -98944,20 +98944,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 12,
+      "wordCount": 10,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.04,
-      "characterCount": 157,
-      "nonWhitespaceCharacterCount": 143,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.045283018867924525,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 111,
+      "nonWhitespaceCharacterCount": 98,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.03773584905660377,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304400055,
-      "modifiedDate": 1771843902767,
-      "sizeInBytes": 161,
+      "modifiedDate": 1785694022264,
+      "sizeInBytes": 267,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.04,
@@ -98965,6 +98965,16 @@
         "characterCount": 157,
         "nonWhitespaceCharacterCount": 143,
         "newlineCount": 4
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-02 20:07"
       }
     },
     "01 Input przejściowy/IT⌨️/SQL.md.edtz": {
@@ -99021,60 +99031,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/IT⌨️/Python/Zbiór w pytonie.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 41,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13666666666666666,
-      "characterCount": 321,
-      "nonWhitespaceCharacterCount": 270,
-      "newlineCount": 12,
-      "readingTimeInMinutes": 0.15471698113207547,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304400039,
-      "modifiedDate": 1752257670799,
-      "sizeInBytes": 337,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.13666666666666666,
-        "wordCount": 41,
-        "characterCount": 321,
-        "nonWhitespaceCharacterCount": 270,
-        "newlineCount": 12
-      }
-    },
-    "01 Input przejściowy/IT⌨️/Python/Słowniki w pythonie.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304400032,
-      "modifiedDate": 1752251052051,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "01 Input przejściowy/IT⌨️/Python/Python.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -99100,33 +99056,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/IT⌨️/Python/Python.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2406,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.02,
-      "characterCount": 19953,
-      "nonWhitespaceCharacterCount": 16357,
-      "newlineCount": 720,
-      "readingTimeInMinutes": 9.079245283018867,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304400020,
-      "modifiedDate": 1754152628823,
-      "sizeInBytes": 20322,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 8.02,
-        "wordCount": 2406,
-        "characterCount": 19953,
-        "nonWhitespaceCharacterCount": 16357,
-        "newlineCount": 720
       }
     },
     "01 Input przejściowy/IT⌨️/Python/Pandas.md.edtz": {
@@ -99156,33 +99085,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/IT⌨️/Python/Pandas.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1211,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.036666666666667,
-      "characterCount": 11983,
-      "nonWhitespaceCharacterCount": 9933,
-      "newlineCount": 315,
-      "readingTimeInMinutes": 4.569811320754717,
-      "linkCount": 2,
-      "embedCount": 4,
-      "aliases": null,
-      "createdDate": 1772304400008,
-      "modifiedDate": 1763025931833,
-      "sizeInBytes": 12149,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.036666666666667,
-        "wordCount": 1211,
-        "characterCount": 11983,
-        "nonWhitespaceCharacterCount": 9933,
-        "newlineCount": 315
-      }
-    },
     "01 Input przejściowy/IT⌨️/Python/Numpy.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -99208,33 +99110,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/IT⌨️/Python/Numpy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 848,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.8266666666666667,
-      "characterCount": 6522,
-      "nonWhitespaceCharacterCount": 4942,
-      "newlineCount": 241,
-      "readingTimeInMinutes": 3.2,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304399994,
-      "modifiedDate": 1771843902679,
-      "sizeInBytes": 6591,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.8266666666666667,
-        "wordCount": 848,
-        "characterCount": 6522,
-        "nonWhitespaceCharacterCount": 4942,
-        "newlineCount": 241
       }
     },
     "01 Input przejściowy/IT⌨️/Język znaczników.md.edtz": {
@@ -131022,6 +130897,114 @@
       "createdDate": 1772304399979,
       "modifiedDate": 1785693544206,
       "sizeInBytes": 2381,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "01 Input/Zbiór w pytonie.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 56,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18666666666666668,
+      "characterCount": 496,
+      "nonWhitespaceCharacterCount": 417,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 0.21132075471698114,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304400039,
+      "modifiedDate": 1785693955437,
+      "sizeInBytes": 517,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Python.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2424,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.08,
+      "characterCount": 20145,
+      "nonWhitespaceCharacterCount": 16519,
+      "newlineCount": 731,
+      "readingTimeInMinutes": 9.147169811320754,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304400020,
+      "modifiedDate": 1785693969361,
+      "sizeInBytes": 20518,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Numpy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 857,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.8566666666666665,
+      "characterCount": 6608,
+      "nonWhitespaceCharacterCount": 5010,
+      "newlineCount": 246,
+      "readingTimeInMinutes": 3.2339622641509433,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304399994,
+      "modifiedDate": 1785693856725,
+      "sizeInBytes": 6680,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03 Atomy/Pandas.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1222,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.073333333333333,
+      "characterCount": 12120,
+      "nonWhitespaceCharacterCount": 10046,
+      "newlineCount": 324,
+      "readingTimeInMinutes": 4.611320754716981,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304400008,
+      "modifiedDate": 1785693992908,
+      "sizeInBytes": 12291,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
