@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - matematyka/teoria_liczb
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 20:58
+---
 
 - [[MOC Liczby]], które można zapisać w postaci ilorazu dwóch [[Liczby całkowite|liczb całkowitych]], w którym dzielnik jest różny od 0.
 	- Czyli liczby, które można przedstawić w postaci ułamka zwykłego.
@@ -16,5 +26,3 @@
 
 
 
-
-#matematyka #matematyka/arytmetyka

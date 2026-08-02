@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC IT/MOC Operator (Programowanie).md",
+                "file": "01 Input przejściowy/Matematyka/Działy/Algebra/Pierścień.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Operator (Programowanie)"
+              "title": "Pierścień"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
+                "file": "02 MOC/MOC Matematyka/MOC Algebra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Teoria mnogości"
+              "title": "MOC Algebra"
             }
           },
           {
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC IT/MOC Operator (Programowanie).md",
+                "file": "01 Input przejściowy/Matematyka/Działy/Algebra/Pierścień.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -308,32 +308,33 @@
   },
   "active": "b469543585e1dba6",
   "lastOpenFiles": [
-    "03 Atomy/Operator.md",
-    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Podział logiczny.md",
-    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Relacja.md",
-    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Relacje pomiędzy zbiorami.md",
-    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Zbiór potęgowy.md",
-    "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
-    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Para uporządkowana.md",
-    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Para nieuporządkowana.md",
-    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Klasa abstrakcji.md",
-    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Iloczyn kartezjański.md",
-    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Aksjomat wyboru.md",
-    "02 MOC/MOC Matematyka/MOC Rodzaje zbiorów.md",
-    "03 Atomy/Zbiór pusty.md",
-    "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Moduł.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Kombinacja liniowa.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Kierunek.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Iloczyn skalarny.md",
+    "02 MOC/MOC Matematyka/MOC Algebra.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Grupa przemienna.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Grupa abelowa.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Grupa.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Ciało.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Algebra liniowa.md",
+    "02 MOC/MOC Matematyka/MOC Algebra liniowa.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
-    "02 MOC/MOC Matematyka.md",
-    "02 MOC/MOC.md",
-    "02 MOC/MOC IT.md",
-    "02 MOC/MOC Struktury danych.md",
-    "05 Osoby/George Bool.md",
-    "05 Osoby/Georg Cantor.md",
-    "05 Osoby/Carl Gustav Jung.md",
-    "02 MOC/MOC Matematyka/MOC Historia matematyki.md",
-    "02 MOC/MOC Historia/MOC Historia nauki.md",
-    "01 Input przejściowy/Matematyka/Działy/Statystyka/Kurtoza.md",
-    "01 Input przejściowy/Matematyka/Działy/Geometria/Trygonometria.md",
+    "02 MOC/MOC Matematyka/MOC Teoria liczb.md",
+    "02 MOC/MOC Matematyka/MOC Liczby.md",
+    "03 Atomy/Liczby algebraiczne.md",
+    "03 Atomy/Liczby doskonałe.md",
+    "03 Atomy/Liczby złożone.md",
+    "03 Atomy/Liczby zespolone.md",
+    "03 Atomy/Liczby wymierne.md",
+    "03 Atomy/Liczby urojone.md",
+    "03 Atomy/Liczby rzeczywiste.md",
+    "03 Atomy/Liczby przestępne.md",
+    "03 Atomy/Liczby pierwsze.md",
+    "03 Atomy/Liczby niewymierne.md",
+    "03 Atomy/Liczby naturalne.md",
+    "03 Atomy/Liczby całkowite.md",
+    "03 Atomy/załączniki/Pasted image 20240616142158.png",
     "03 Atomy/załączniki/ASCI.png",
     "03 Atomy/załączniki/Pasted image 20240610141757.png",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",

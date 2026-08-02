@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - matematyka/algebra
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 21:01
+---
 ang. group
 
 [[Struktura algebraiczna]] ze zdefiniowaną na niej łącznością i odwrotnością dwuargumentowanego działania wewnętrznego.
@@ -13,7 +23,3 @@ Każda grupa ma dokładnie jeden1 element neutralny.
 
 
 
-
-
-
-#matematyka/algebra #matematyka

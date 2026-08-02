@@ -27,3 +27,4 @@ Nie ma czegoś takiego. Są liczby z jakimś określeniem. Po prostu liczba nie 
 
 
 ![[Zbiory liczbowe.png|Zbiory liczbowe]]
+

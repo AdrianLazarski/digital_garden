@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - matematyka/teoria_liczb
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 20:57
+---
 
 - Zbiór obejmujący [[Liczby naturalne]] z zerem oraz zbiór liczb do nich przeciwny.
 	- {0, 1, 2, 3...}
@@ -9,4 +19,4 @@
 - Zbiór $\mathbb{Z}$ jest równoliczny z $\mathbb{N}$.
 
 
-#matematyka #matematyka/arytmetyka
+

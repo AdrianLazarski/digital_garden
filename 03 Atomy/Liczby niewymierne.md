@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - matematyka/teoria_liczb
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 20:57
+---
 ang. *irrational numbers* 
 
 - [[Liczby rzeczywiste]], które nie są [[Liczby wymierne|wymierne]]. 
@@ -9,7 +19,3 @@ ang. *irrational numbers*
 
 
 
-
-
-
-#matematyka #matematyka/arytmetyka 

@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - matematyka/algebra
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 21:01
+---
 ang. field
 
 [[Struktura algebraiczna]], w której zdefiniowane są operacje dodawania, odejmowania, mnożenia i dzielenia i spełnione są pewne aksjomaty.
@@ -11,4 +21,3 @@ ang. field
 - Zbiór liczb wymiernych
 
 
-#matematyka/algebra #matematyka
