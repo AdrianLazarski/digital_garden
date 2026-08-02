@@ -59,4 +59,4 @@ o Rezultatem stosowania tej metody jest pokazanie, że myśl filozoficzna opiera
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

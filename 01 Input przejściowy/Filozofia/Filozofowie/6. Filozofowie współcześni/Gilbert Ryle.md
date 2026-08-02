@@ -33,4 +33,4 @@ Wprowadza rozróżnienie na know-that i know-how.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

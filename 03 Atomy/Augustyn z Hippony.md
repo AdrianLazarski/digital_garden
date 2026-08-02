@@ -85,4 +85,4 @@ Państwo Boże:
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna #filozofia/rzymska 
+###### Tagi: #filozofia #osoba #filozofia/starożytna #filozofia/rzymska 

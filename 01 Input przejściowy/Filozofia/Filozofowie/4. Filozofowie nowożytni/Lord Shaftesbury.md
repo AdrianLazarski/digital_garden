@@ -1,3 +1,3 @@
 Zob. [[Anthony Ashley-Cooper]]
 
-#filozof #filozofia #filozofia/nowożytna #filozofia/brytyjska 
+#osoba #filozofia #filozofia/nowożytna #filozofia/brytyjska 

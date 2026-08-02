@@ -30,4 +30,4 @@ Stworzył pierwszy [system dedukcji naturalnej](https://www.evernote.com/shard/s
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

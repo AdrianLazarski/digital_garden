@@ -29,4 +29,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna #filozofia/polityki #anarchizm 
+###### Tagi: #filozofia #osoba #filozofia/nowożytna #filozofia/polityki #anarchizm 

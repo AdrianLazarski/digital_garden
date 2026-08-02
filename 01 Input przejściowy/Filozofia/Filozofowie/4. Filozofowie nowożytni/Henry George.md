@@ -32,4 +32,4 @@ Należy znieść wszystkie podatki poza gruntowym = georgizm/geolibertarianizm/g
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

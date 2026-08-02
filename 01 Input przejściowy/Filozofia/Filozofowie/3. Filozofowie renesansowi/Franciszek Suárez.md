@@ -33,7 +33,7 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna #filozofia/renesansowa
+###### Tagi: #filozofia #osoba #filozofia/nowożytna #filozofia/renesansowa
 1548-1617
 - Urodzony w Grenadzie.
 - Studiował prawo na uniwersytecie w Salamance.

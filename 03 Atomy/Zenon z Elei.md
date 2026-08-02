@@ -67,4 +67,4 @@ W. Tyburski, A. Wachowiak, R. Wiśniewski, Historia filozofii i etyki do współ
 - 
 
 
-###### Tagi: #filozofia #filozof #filozofia/przyrody #filozofia/starożytna #filozofia/grecka #filozofia/metafizyka 
+###### Tagi: #filozofia #osoba #filozofia/przyrody #filozofia/starożytna #filozofia/grecka #filozofia/metafizyka 

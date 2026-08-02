@@ -70,4 +70,4 @@ Heinzmann Richard, Filozofia średniowieczna, 227-235 s.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/średniowieczna
+###### Tagi: #filozofia #osoba #filozofia/średniowieczna

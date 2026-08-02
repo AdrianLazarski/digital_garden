@@ -36,4 +36,4 @@ o Teza: synchronia determinuje diachronię (wzajemne relacje)
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

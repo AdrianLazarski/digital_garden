@@ -85,4 +85,4 @@ J M Bocheński, Logika i filozofia, Warszawa 1993, s. VII-XXIX.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

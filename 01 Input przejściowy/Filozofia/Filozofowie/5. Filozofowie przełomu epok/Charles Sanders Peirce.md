@@ -82,4 +82,4 @@ Jak uczynić nasze myśli jasnymi?, 1878 r.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

@@ -168,6 +168,6 @@ E. Morawiec, P. Mazanka, Metafizyka klasyczna wersji egzystencjalnej, Warszawa 2
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 
 
 [^1]: E. Morawiec, P. Mazanka, Metafizyka klasyczna wersji egzystencjalnej, Warszawa 2006, s. 81.

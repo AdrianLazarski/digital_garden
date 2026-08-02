@@ -7,4 +7,4 @@
 - Rolnictwo jedynym produktywnym działem gospodarki, a przemysł jest jałowy i bezproduktywny.
 - Sprzeciw wobec merkantylizmu, protekcjonizmu i interwencjonizmu.
 
-#ekonomia #filozofia/polityki #filozofia #ekonomista #filozof 
+#ekonomia #filozofia/polityki #filozofia #osoba #osoba 

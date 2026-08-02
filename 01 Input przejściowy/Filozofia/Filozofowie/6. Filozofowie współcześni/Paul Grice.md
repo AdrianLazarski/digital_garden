@@ -30,4 +30,4 @@ Paul Grice: Logika i konwersacja
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

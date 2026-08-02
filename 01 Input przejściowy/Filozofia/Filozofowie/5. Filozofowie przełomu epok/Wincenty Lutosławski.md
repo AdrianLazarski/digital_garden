@@ -41,4 +41,4 @@ Jego artykuły na temat jogi wpłynęły na Jerzego Grotowskiego.
 
 
 
-###### Tagi: #filozofia #filozof 
+###### Tagi: #filozofia #osoba 

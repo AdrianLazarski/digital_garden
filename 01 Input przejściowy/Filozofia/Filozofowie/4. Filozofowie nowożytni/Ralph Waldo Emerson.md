@@ -40,4 +40,4 @@ Adam Mickiewicz go nazwał amerykańskim Sokratesem.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

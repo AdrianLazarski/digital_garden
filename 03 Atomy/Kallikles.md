@@ -40,4 +40,4 @@ L. Dubel, Historia doktryn politycznych i prawnych, Warszawa 2007, s. 54-55
 - 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna #filozofia/grecka #sofiści #filozofia/polityki #filozofia/prawa #filozofia/etyka 
+###### Tagi: #filozofia #osoba #filozofia/starożytna #filozofia/grecka #sofiści #filozofia/polityki #filozofia/prawa #filozofia/etyka 

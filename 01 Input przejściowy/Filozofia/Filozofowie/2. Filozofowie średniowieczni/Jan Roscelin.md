@@ -36,4 +36,4 @@ Brał udział w [[Spór o uniwersalia|sporze o uniwersalia]].
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/średniowieczna
+###### Tagi: #filozofia #osoba #filozofia/średniowieczna

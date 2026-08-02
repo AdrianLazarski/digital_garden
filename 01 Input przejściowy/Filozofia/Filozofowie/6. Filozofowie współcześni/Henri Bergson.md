@@ -74,4 +74,4 @@ Jego filozofia wpłynęła na Prousta i Joyce'a.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

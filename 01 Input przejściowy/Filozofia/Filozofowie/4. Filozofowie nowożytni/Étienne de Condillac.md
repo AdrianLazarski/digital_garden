@@ -44,4 +44,4 @@ Zob. M. Hempoliński, Empiryzm, [w:] Filozofia a nauka. Zarys encyklopedyczny, W
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

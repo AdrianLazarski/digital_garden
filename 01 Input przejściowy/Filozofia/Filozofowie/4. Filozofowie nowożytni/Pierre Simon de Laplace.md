@@ -47,4 +47,4 @@ Pierre Simon de Laplace 1749-1827
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

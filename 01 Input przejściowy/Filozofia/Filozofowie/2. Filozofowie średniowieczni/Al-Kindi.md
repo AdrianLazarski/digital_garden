@@ -37,4 +37,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/średniowieczna #filozofia/arabska #filozofia/metafizyka #filozofia/epistemologia 
+###### Tagi: #filozofia #osoba #filozofia/średniowieczna #filozofia/arabska #filozofia/metafizyka #filozofia/epistemologia 

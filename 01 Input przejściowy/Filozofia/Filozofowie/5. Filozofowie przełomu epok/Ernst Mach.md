@@ -41,4 +41,4 @@ Jego poglądy zainspirowały [Koło Wiedeńskie](onenote:..\Historia%20filozofii
 
 
 
-###### Tagi: #filozofia #filozof 
+###### Tagi: #filozofia #osoba 

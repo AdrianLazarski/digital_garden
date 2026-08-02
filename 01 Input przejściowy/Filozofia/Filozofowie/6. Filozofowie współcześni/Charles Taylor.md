@@ -34,4 +34,4 @@ Tożsamość jest głównym problemem filozofii nowoczesnej.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

@@ -59,4 +59,4 @@ E. Gilson, *Jedność doświadczenia filozoficznego*, Warszawa 2001, s. 214-215.
 
 - 
 
-###### Tagi: #filozofia #filozof #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/przyrody 
+###### Tagi: #filozofia #osoba #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/przyrody 

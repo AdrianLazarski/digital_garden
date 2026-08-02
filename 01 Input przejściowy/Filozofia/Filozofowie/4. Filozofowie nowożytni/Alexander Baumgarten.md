@@ -39,4 +39,4 @@ Jego rozumienie estetyki przejmie [Kant](onenote:#Immanuel%20Kant%20(1724%20-%20
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

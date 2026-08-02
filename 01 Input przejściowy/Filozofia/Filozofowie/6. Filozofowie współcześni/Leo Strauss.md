@@ -46,4 +46,4 @@ Piotr Nowak, Przedmowa do wydania polskiego [w:] Leo Strauss, Historia filozofii
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

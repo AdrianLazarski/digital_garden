@@ -45,4 +45,4 @@ Ja i Ty, 1922
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

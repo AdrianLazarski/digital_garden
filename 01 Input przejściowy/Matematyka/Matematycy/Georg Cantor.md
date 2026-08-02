@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - definicja
+  - osoba
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 20:32
+---
 - Georg Ferdinand Ludwig Philipp Cantor (1845-1918) – niemiecki matematyk.
 - Studiował w Darmstadt, Zürichu, Getyndze i Berlinie.
 - Wykładał matematykę w Halle.
@@ -18,6 +27,3 @@
 
 
 
-
-
-#matematyk #matematyka/podstawy/teoria_mnogości

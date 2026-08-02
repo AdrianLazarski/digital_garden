@@ -45,4 +45,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna #ekonomia #ekonomista #filozofia/prawa #filozofia/polityki #liberalizm #ase #filozofia/austriacka 
+###### Tagi: #filozofia #osoba #filozofia/współczesna #ekonomia #osoba #filozofia/prawa #filozofia/polityki #liberalizm #ase #filozofia/austriacka 

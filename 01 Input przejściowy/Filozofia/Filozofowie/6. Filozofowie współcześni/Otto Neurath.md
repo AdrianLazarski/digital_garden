@@ -43,4 +43,4 @@ Modern Man in the Making, 1939
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

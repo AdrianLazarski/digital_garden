@@ -253,4 +253,4 @@ https://plato.stanford.edu/entries/plato/
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna 
+###### Tagi: #filozofia #osoba #filozofia/starożytna 

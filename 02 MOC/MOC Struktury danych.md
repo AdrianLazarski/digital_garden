@@ -18,4 +18,4 @@ modified date: 2026-08-02 20:22
 [[Lista]]
 [[Stos (struktura danych)]]
 [[Tablica dynamiczna]]
-[[Tablica]]
+[[Tablica statyczna]]

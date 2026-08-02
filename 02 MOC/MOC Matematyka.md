@@ -11,7 +11,7 @@ modified date: 2025-11-22 13:10
 
 [[MOC Definicje i wizje matematyki]]
 
-[[Historia matematyki]]
+[[MOC Historia matematyki]]
 [[MOC Matematycy]]
 
 [[MOC Filozofia matematyki]]

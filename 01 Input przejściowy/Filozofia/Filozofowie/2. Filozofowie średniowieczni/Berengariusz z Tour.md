@@ -35,4 +35,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/średniowieczna #teolog #teologia #chrześcijaństwo 
+###### Tagi: #filozofia #osoba #filozofia/średniowieczna #osoba #teologia #chrześcijaństwo 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/IT⌨️/Struktury danych/Array.md",
+                "file": "01 Input przejściowy/Matematyka/Matematycy/Georg Cantor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Array"
+              "title": "Georg Cantor"
             }
           },
           {
@@ -103,8 +103,7 @@
               "title": "Jasiński Łukasz, Agonia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ekonomia",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/IT⌨️/HTML.md",
+                "file": "01 Input przejściowy/Matematyka/Matematycy/Georg Cantor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,7 +196,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -307,35 +306,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef903653377c4890",
+  "active": "b469543585e1dba6",
   "lastOpenFiles": [
-    "02 MOC/MOC IT.md",
-    "02 MOC/MOC Struktury danych.md",
-    "03 Atomy/Programowanie.md",
-    "02 MOC/MOC IT/MOC Media przewodowe.md",
-    "02 MOC/MOC Architektura systemów.md",
-    "03 Atomy/Kompilator.md",
-    "03 Atomy/Stos (pamięć).md",
-    "03 Atomy/Klasa (programowanie).md",
-    "03 Atomy/Metoda statyczna.md",
-    "02 MOC/MOC IT/MOC Metodyka programowania.md",
-    "02 MOC/MOC IT/MOC Typy danych.md",
-    "03 Atomy/Całkowitoliczbowy typ danych.md",
-    "02 MOC/MOC IT/MOC Operator (Programowanie).md",
-    "03 Atomy/Język programowania.md",
-    "03 Atomy/Elementy języka programowania.md",
-    "03 Atomy/Programowanie funkcyjne.md",
-    "01 Input przejściowy/IT⌨️/Struktury danych/Array.md",
-    "03 Atomy/Numpy.md",
-    "03 Atomy/Pandas.md",
-    "03 Atomy/Python.md",
-    "01 Input/Zbiór w pytonie.md",
-    "01 Input przejściowy/IT⌨️/Python/Słowniki w pythonie.md",
-    "03 Atomy/C.R.U.D.md",
+    "01 Input przejściowy/Matematyka/Matematycy/George Bool.md",
+    "01 Input przejściowy/Matematyka/Matematycy/Georg Cantor.md",
+    "05 Osoby/Carl Gustav Jung.md",
+    "02 MOC/MOC Matematyka/MOC Historia matematyki.md",
+    "02 MOC/MOC Historia/MOC Historia nauki.md",
+    "01 Input przejściowy/Matematyka/Działy/Statystyka/Kurtoza.md",
+    "01 Input przejściowy/Matematyka/Działy/Geometria/Trygonometria.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Przestrzeń liniowa.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Skalar.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Układ równań liniowych.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Wektor.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Wersor.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Zwrot.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Grupa przemienna.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Grupa.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Ciało.md",
+    "01 Input przejściowy/Matematyka/Działy/Algebra/Algebra liniowa.md",
+    "02 MOC/MOC Matematyka/MOC Algebra liniowa.md",
+    "03 Atomy/Array.md",
+    "03 Atomy/Tablica statyczna.md",
+    "03 Atomy/Tablica dynamiczna.md",
+    "03 Atomy/Stos (struktura danych).md",
+    "03 Atomy/Lista.md",
+    "03 Atomy/Krotka.md",
+    "03 Atomy/Kontener.md",
+    "03 Atomy/Drzewo.md",
     "03 Atomy/załączniki/ASCI.png",
-    "03 Atomy/Baza danych.md",
-    "03 Atomy/SQL.md",
-    "03 Atomy/Język znaczników.md",
     "03 Atomy/załączniki/Pasted image 20240610141757.png",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",

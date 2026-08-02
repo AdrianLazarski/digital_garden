@@ -60,4 +60,4 @@ Wykształcił ponad 30 profesorów. Najważniejsi uczniowie: 
 
 
 
-###### Tagi: #filozofia #filozof 
+###### Tagi: #filozofia #osoba 

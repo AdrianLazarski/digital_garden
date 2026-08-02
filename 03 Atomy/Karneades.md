@@ -37,4 +37,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna 
+###### Tagi: #filozofia #osoba #filozofia/starożytna 

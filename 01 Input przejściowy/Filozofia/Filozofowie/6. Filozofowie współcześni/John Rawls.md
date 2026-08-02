@@ -41,4 +41,4 @@ Teoria sprawiedliwości, 1971
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

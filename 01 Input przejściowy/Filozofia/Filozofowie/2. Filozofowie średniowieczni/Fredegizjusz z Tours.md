@@ -32,4 +32,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/średniowieczna #filozofia/metafizyka #teologia #teolog 
+###### Tagi: #filozofia #osoba #filozofia/średniowieczna #filozofia/metafizyka #teologia #osoba 

@@ -3,7 +3,7 @@ ang. Euclidean vector, geometric vector
 
 >[!Def.]
 >1. Obiekt matematyczny opisywany za pomocą [[Moduł|modułu]] i [[Kierunek|kierunku]] wraz ze [[Zwrot|zwrotem]].
->2. W informatyce to po prostu [[lista]]. 
+>2. W informatyce to po prostu [[Lista]]. 
 
 
 

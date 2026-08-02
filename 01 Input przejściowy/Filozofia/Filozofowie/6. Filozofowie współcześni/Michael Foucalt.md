@@ -47,4 +47,4 @@ o Dyskurs działa za pomocą wpływania na ciało:
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

@@ -46,4 +46,4 @@ Filip Memches, [https://tygodnik.tvp.pl/47253385/nazisci-byli-dla-niego-za-malo-
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

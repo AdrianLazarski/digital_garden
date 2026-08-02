@@ -84,4 +84,4 @@ tags:
 75. Nie ma silnych dowodów, że Einstein kazał wszystko tłumaczyć jak najprościej, ale nie prościej.
 76. Einstein nie mówił, że to szaleństwo robić to samo, oczekując innych skutków.
 
-#fizyk 
+#osoba 

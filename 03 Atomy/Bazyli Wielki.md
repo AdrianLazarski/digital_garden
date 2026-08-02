@@ -36,4 +36,4 @@ Wpłynął na [[Jan Szkot Eriugena|Eriugenę]].
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna 
+###### Tagi: #filozofia #osoba #filozofia/starożytna 

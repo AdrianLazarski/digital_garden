@@ -33,4 +33,4 @@ Korzysta z rozróżnienia Gilberta Ryle'a na know-that i know-how do komentowani
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

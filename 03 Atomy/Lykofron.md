@@ -11,4 +11,4 @@
 J. Gajda-Krynicka, Sofiści, Warszawa 1989, s. 168-169.
 
 
-Tagi: #filozofia #filozof #filozofia/starożytna #filozofia/grecka #sofiści #filozofia/polityki #filozofia/prawa #filozofia/epistemologia 
+Tagi: #filozofia #osoba #filozofia/starożytna #filozofia/grecka #sofiści #filozofia/polityki #filozofia/prawa #filozofia/epistemologia 

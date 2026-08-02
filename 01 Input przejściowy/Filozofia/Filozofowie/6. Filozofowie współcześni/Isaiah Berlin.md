@@ -39,4 +39,4 @@ A. Szahaj, Filozofia polityki, Warszawa 2019, s. 123-127.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

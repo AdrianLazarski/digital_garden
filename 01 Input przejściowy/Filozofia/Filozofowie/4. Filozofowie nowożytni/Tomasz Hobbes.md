@@ -46,4 +46,4 @@ Lewiatan, czyli materia, forma i władza państwa kościelnego i świeckiego, 16
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

@@ -77,4 +77,4 @@ Dwa okresy twórczości wg dra Płotki:
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

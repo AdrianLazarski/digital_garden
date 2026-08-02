@@ -42,4 +42,4 @@ o Gdy mówię „kot”, w zdarzeniu tym są dwa przedmioty, :
 
 
 
-###### Tagi: #filozofia #filozof 
+###### Tagi: #filozofia #osoba 

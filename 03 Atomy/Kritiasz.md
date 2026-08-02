@@ -63,4 +63,4 @@ G. Reale, Historia filozofii starożytnej tom I, Lublin 2000, s. 289-290.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna #filozofia/grecka #sofiści #filozofia/polityki #filozofia/prawa #filozofia/epistemologia #filozofia/religii #ateizm #filozofia/etyka
+###### Tagi: #filozofia #osoba #filozofia/starożytna #filozofia/grecka #sofiści #filozofia/polityki #filozofia/prawa #filozofia/epistemologia #filozofia/religii #ateizm #filozofia/etyka

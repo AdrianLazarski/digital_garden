@@ -60,4 +60,4 @@ Friedrich Wilhelm Joseph von Schelling 1775-1854
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

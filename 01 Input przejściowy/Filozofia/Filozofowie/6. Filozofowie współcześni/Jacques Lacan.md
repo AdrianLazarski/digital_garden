@@ -34,4 +34,4 @@ Jacques-Marie-Émile Lacan (1901 – 1981) zauważa, że proces analityczny z ko
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

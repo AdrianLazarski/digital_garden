@@ -79,4 +79,4 @@ Albert Wielki i Tomasz za Arystotelesem uważali, że zmiany jakościowe nie mog
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/średniowieczna
+###### Tagi: #filozofia #osoba #filozofia/średniowieczna

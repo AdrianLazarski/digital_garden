@@ -68,4 +68,4 @@ o Putnam zarzuca mu relatywizm
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

@@ -15,4 +15,4 @@
 - Przedstawiciel [[Austriacka szkoła ekonomii|ASE]].
 
 
-#ekonomia #ekonomista #ase 
+#ekonomia #osoba #ase 

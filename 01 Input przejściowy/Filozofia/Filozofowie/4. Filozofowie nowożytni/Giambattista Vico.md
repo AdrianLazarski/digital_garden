@@ -54,4 +54,4 @@ Nauka nowa, 1725
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

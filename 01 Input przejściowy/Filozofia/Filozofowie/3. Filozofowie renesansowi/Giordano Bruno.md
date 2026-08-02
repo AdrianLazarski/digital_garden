@@ -29,4 +29,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/renesansowa
+###### Tagi: #filozofia #osoba #filozofia/renesansowa

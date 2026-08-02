@@ -32,4 +32,4 @@ Die Welt als Wille und Vorstellung ([Świat jako wola i przedstawienie](https://
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

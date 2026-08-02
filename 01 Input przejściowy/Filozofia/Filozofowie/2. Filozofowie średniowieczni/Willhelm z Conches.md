@@ -31,4 +31,4 @@ Każda rzecz we wszechświecie pozostaje genetycznym związku ze swoimi prawzora
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/średniowieczna 
+###### Tagi: #filozofia #osoba #filozofia/średniowieczna 

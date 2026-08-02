@@ -42,4 +42,4 @@ O umyśle (De l'esprit), 1758
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

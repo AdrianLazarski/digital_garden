@@ -70,4 +70,4 @@ o Kontakt z innymi napełnia obrzydzeniem i wywołuje „mdłości”
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

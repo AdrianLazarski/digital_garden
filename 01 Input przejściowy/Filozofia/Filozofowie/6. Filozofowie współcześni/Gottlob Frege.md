@@ -173,4 +173,4 @@ Sens - myśl. Sposób dania przedmiotu.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

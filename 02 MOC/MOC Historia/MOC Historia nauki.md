@@ -11,7 +11,7 @@ modified date: 2026-07-27 23:55
 [[Historia przyrodoznawstwa]]
 
 
-[[Historia matematyki]]
+[[MOC Historia matematyki]]
 [[MOC Historia fizyki]]
 
 [[MOC Historia logiki]]

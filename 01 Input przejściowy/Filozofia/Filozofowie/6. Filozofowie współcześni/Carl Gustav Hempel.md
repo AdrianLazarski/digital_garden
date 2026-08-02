@@ -39,4 +39,4 @@ Paradoks czarnego kruka - każde zauważenie czarnego kruka wzmacnia nasze przek
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

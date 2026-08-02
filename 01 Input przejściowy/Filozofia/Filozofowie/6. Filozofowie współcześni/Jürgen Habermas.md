@@ -76,4 +76,4 @@ o Jest to właśnie działanie komunikacyjne zorientowane na konsensus
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

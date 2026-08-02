@@ -40,4 +40,4 @@ Wpłynął na Husserla i Heideggera.
 
 
 
-###### Tagi: #filozofia #filozof 
+###### Tagi: #filozofia #osoba 

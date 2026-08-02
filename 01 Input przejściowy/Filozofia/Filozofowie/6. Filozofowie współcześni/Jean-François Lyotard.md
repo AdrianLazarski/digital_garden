@@ -31,4 +31,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/starożytna #filozofia/współczesna 

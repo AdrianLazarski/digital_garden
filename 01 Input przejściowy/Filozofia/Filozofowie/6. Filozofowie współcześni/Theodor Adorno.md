@@ -45,4 +45,4 @@ o Konsekwencja: nihilizm i negatywizm
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

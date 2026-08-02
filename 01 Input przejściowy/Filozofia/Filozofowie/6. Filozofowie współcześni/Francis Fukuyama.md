@@ -40,4 +40,4 @@ Francis Fukuyama 1952-
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

@@ -36,4 +36,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna #filozofia/amerykańska #libertarianizm #filozofia/prawa #filozofia/polityki #ekonomia #ase 
+###### Tagi: #filozofia #osoba #filozofia/współczesna #filozofia/amerykańska #libertarianizm #filozofia/prawa #filozofia/polityki #ekonomia #ase 

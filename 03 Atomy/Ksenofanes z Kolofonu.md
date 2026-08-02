@@ -58,4 +58,4 @@ O. Höffe, Mała historia filozofii, Warszawa 2008, s. 19.
 - 
 
 
-###### Tagi: #filozofia #filozof #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/przyrody #filozofia/religii
+###### Tagi: #filozofia #osoba #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/przyrody #filozofia/religii

@@ -19,4 +19,4 @@ Poglądy:
 - Opisał prawo malejących przychodów.
 - Rolnictwo najważniejsze, przemysł jest bezproduktywny.
 
-#ekonomia #ekonomista 
+#ekonomia #osoba 

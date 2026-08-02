@@ -32,4 +32,4 @@ Człowiek w wyniku ćwiczeń duchowych może osiągnąć poziom intelektu czynne
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/średniowieczna #filozofia/arabska 
+###### Tagi: #filozofia #osoba #filozofia/średniowieczna #filozofia/arabska 

@@ -51,4 +51,4 @@ True Intelectuall System of the Universe, 1678 - jedyna praca opublikowana za ż
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

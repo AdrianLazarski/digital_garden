@@ -10,4 +10,4 @@ Poglądy:
 - Jeden z pierwszych krytyków nieograniczonej racjonalności. 
 
 
-#ekonomia #ekonomista 
+#ekonomia #osoba 

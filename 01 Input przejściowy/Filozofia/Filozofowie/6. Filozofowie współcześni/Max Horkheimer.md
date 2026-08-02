@@ -32,4 +32,4 @@ Zamiast krytyki ekonomii politycznej, krytyka rozumu instrumentalnego: rozum to 
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

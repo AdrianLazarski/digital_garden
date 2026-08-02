@@ -32,4 +32,4 @@ Kumplował się z Jungerem.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

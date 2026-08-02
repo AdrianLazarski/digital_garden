@@ -53,4 +53,4 @@ Filip Memches, Zainspirował Fukuyamę do napisania końca historii, [https://ty
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

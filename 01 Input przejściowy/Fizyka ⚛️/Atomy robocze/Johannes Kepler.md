@@ -13,4 +13,4 @@
 
 
 
-#fizyk #historia/fizyki #historia/nauki 
+#osoba #historia/fizyki #historia/nauki 

@@ -31,4 +31,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna #tomizm #neotomizm 
+###### Tagi: #filozofia #osoba #filozofia/starożytna #tomizm #neotomizm 

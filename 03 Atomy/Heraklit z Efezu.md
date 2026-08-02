@@ -105,7 +105,7 @@ J. G. Krynicka, Sofiści, Warszawa 1989, s. 71-73.
 - 
 
 
-###### Tagi: #filozofia #filozof #filozofia/grecka #filozofia/metafizyka #filozofia/starożytna #filozofia/przyrody 
+###### Tagi: #filozofia #osoba #filozofia/grecka #filozofia/metafizyka #filozofia/starożytna #filozofia/przyrody 
 
 
 

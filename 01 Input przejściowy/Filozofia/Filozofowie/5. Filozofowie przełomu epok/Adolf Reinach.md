@@ -48,4 +48,4 @@ Odróżniał się od Husserla filozoficznym realizmem.
 
 
 
-###### Tagi: #filozofia #filozof
+###### Tagi: #filozofia #osoba

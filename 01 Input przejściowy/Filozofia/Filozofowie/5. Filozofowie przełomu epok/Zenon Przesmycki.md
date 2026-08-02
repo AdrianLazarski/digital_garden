@@ -46,4 +46,4 @@ Z czary młodości, 1893
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna 
+###### Tagi: #filozofia #osoba #filozofia/starożytna 

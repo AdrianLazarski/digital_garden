@@ -29,4 +29,4 @@
 
 
 
-#ekonomia #ase #ekonomista 
+#ekonomia #ase #osoba 

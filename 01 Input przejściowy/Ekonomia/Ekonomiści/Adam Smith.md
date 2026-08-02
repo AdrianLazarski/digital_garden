@@ -75,5 +75,5 @@
 
 
 
-###### Tagi: #filozofia #filozof #ekonomia #filozofia/nowożytna #filozofia/brytyjska #filozofia/szkocka #ekonomista 
+###### Tagi: #filozofia #osoba #ekonomia #filozofia/nowożytna #filozofia/brytyjska #filozofia/szkocka #osoba 
 

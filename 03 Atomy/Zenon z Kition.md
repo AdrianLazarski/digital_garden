@@ -50,4 +50,4 @@ Etyka stoicka - apatia
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna 
+###### Tagi: #filozofia #osoba #filozofia/starożytna 

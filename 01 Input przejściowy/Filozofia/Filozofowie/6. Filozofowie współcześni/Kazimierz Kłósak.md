@@ -31,4 +31,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna #filozofia/polska #tomizm #neotomizm 
+###### Tagi: #filozofia #osoba #filozofia/współczesna #filozofia/polska #tomizm #neotomizm 

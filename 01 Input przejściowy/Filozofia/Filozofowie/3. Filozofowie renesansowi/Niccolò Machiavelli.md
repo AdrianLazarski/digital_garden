@@ -47,4 +47,4 @@ Marcin Król, Filozofia polityczna, 2008 r. ponoć inna interpretacja niż wszys
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna #filozofia/renesansowa
+###### Tagi: #filozofia #osoba #filozofia/nowożytna #filozofia/renesansowa

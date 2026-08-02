@@ -4,4 +4,4 @@
 - Pisał na tematy Polityczne. 
 - Więcej o nim w Polityce Arystotelesa.
 
-#filozofia #filozof #filozofia/starożytna #filozofia/grecka 
+#filozofia #osoba #filozofia/starożytna #filozofia/grecka 

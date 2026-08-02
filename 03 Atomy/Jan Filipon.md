@@ -37,4 +37,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna #historia/nauki #historia/fizyki #filozofia/bizantyjska 
+###### Tagi: #filozofia #osoba #filozofia/starożytna #historia/nauki #historia/fizyki #filozofia/bizantyjska 

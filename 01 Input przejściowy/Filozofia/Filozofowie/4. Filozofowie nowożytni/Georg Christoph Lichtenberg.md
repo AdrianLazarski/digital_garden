@@ -29,4 +29,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna #filozofia/oświeceniowa 
+###### Tagi: #filozofia #osoba #filozofia/nowożytna #filozofia/oświeceniowa 

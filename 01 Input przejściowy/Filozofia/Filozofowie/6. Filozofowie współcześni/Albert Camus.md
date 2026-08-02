@@ -57,4 +57,4 @@ o Bunt przeciwko absurdowi oznacza dwa momenty:
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

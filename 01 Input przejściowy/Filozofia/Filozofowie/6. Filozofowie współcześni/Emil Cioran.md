@@ -42,4 +42,4 @@ Filip Memches, [https://tygodnik.tvp.pl/48571142/zachod-nazwal-uperfumowanym-tru
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

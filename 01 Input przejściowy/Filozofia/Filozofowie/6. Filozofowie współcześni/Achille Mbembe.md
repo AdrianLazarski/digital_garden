@@ -31,4 +31,4 @@ Ur. 1957.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna #filozofia/afrykańska #postkolonializm 
+###### Tagi: #filozofia #osoba #filozofia/współczesna #filozofia/afrykańska #postkolonializm 

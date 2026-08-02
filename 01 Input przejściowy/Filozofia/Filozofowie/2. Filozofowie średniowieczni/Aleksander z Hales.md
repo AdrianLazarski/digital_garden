@@ -43,4 +43,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/średniowieczna
+###### Tagi: #filozofia #osoba #filozofia/średniowieczna

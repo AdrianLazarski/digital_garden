@@ -9,4 +9,4 @@
 
 
 
-Tagi: #filozofia #filozof #filozofia/starożytna #filozofia/metafizyka #filozofia/grecka #filozofia/przyrody 
+Tagi: #filozofia #osoba #filozofia/starożytna #filozofia/metafizyka #filozofia/grecka #filozofia/przyrody 

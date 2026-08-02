@@ -68,4 +68,4 @@ o Człowiek nie jest abstrakcyjnym „Ja”, lecz konkretnym życiem, w którym 
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

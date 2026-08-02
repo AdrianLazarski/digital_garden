@@ -31,4 +31,4 @@ zm. 1152
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/średniowieczna 
+###### Tagi: #filozofia #osoba #filozofia/średniowieczna 

@@ -122,4 +122,4 @@ red. Robert Audi, The Cambridge Dictionary of Philosophy, Nowy Jork 2015, s. 100
 - 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna #filozofia/grecka #sofiści #filozofia/epistemologia #filozofia/etyka
+###### Tagi: #filozofia #osoba #filozofia/starożytna #filozofia/grecka #sofiści #filozofia/epistemologia #filozofia/etyka

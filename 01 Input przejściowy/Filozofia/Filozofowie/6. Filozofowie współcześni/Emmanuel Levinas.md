@@ -77,4 +77,4 @@ o Levinas w Inaczej niż byćlub poza istotą analizuje takie zagadnienia jak:
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

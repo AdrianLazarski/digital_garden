@@ -39,4 +39,4 @@ Philosophiae naturalis principia mathematica (1687)
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

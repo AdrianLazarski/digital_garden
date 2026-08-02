@@ -60,4 +60,4 @@ Psychologia z empirycznego punktu widzenia (1874)
 
 
 
-###### Tagi: #filozofia #filozof 
+###### Tagi: #filozofia #osoba 

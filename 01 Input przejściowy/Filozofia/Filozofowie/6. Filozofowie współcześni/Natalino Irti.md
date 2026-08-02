@@ -49,4 +49,4 @@ Włoski prawnik i filozof prawa.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

@@ -36,4 +36,4 @@ Otwarcie scholastyki na nauki przyrodnicze jest najmocniejszym atutem tej filozo
 
 
 
-###### Tagi: #filozofia #filozof 
+###### Tagi: #filozofia #osoba 

@@ -55,4 +55,4 @@ Pisma ezoteryczne; podejmował w nich problem stosunku filozofii do teologii.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/średniowieczna #filozofia/arabska #historia/nauki #historia/fizyki #filozofia/metafizyka #filozofia/etyka 
+###### Tagi: #filozofia #osoba #filozofia/średniowieczna #filozofia/arabska #historia/nauki #historia/fizyki #filozofia/metafizyka #filozofia/etyka 

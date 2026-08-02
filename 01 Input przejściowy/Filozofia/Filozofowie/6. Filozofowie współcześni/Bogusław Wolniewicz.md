@@ -29,4 +29,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna #filozofia/polska 
+###### Tagi: #filozofia #osoba #filozofia/współczesna #filozofia/polska 

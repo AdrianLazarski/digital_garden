@@ -37,4 +37,4 @@ Natural Theology or Evidences of the Existence and Attributes of the Deity, 1802
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

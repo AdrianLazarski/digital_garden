@@ -30,4 +30,4 @@ Władza to zasób. Jak się ją daje państwu, to społeczeństwo ją traci.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

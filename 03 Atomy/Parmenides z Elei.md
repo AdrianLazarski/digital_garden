@@ -65,4 +65,4 @@ C. H. Kahn, Dlaczego w filozofii greckiej nie pojawia się odrębne pojęcie ist
 - 
 
 
-###### Tagi: #filozofia #filozof #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/epistemologia 
+###### Tagi: #filozofia #osoba #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/epistemologia 

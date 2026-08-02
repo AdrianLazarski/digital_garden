@@ -65,4 +65,4 @@ o Stąd: każda ontologia jest równoprawna
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

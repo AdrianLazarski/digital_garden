@@ -49,4 +49,4 @@ Władztwo miernot. Jego rozpad i zastąpienie przez Nowe Imperium, 1927 r.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

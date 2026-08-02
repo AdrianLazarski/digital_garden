@@ -52,4 +52,4 @@ Tekst "Miej ambicję" bardzo ładny, indywidualistyczny.
 
 
 
-###### Tagi: #filozofia #filozof 
+###### Tagi: #filozofia #osoba 

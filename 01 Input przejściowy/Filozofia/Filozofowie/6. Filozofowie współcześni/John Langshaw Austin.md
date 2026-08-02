@@ -51,4 +51,4 @@ John Langshaw Austin 1911-1960
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

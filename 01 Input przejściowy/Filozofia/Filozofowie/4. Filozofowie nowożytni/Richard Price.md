@@ -31,4 +31,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna #filozofia/brytyjska 
+###### Tagi: #filozofia #osoba #filozofia/nowożytna #filozofia/brytyjska 

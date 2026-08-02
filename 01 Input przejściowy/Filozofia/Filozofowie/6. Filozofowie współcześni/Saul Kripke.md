@@ -33,4 +33,4 @@ Stworzył [semantykę światów możliwych](onenote:..\Działy\Logika%20i%20meto
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

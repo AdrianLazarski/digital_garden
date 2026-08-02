@@ -68,4 +68,4 @@ M. Przełęcki, Prawda, [w:] *Filozofia a nauka. Zarys encyklopedyczny*, Warszaw
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna #logika 
+###### Tagi: #filozofia #osoba #filozofia/współczesna #logika 

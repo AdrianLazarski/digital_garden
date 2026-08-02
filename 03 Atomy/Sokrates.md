@@ -157,4 +157,4 @@ W. Skarbek, Filozofia dla prawników, Warszawa 2019, s. 55-59.
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna #filozofia/grecka #sofiści #filozofia/etyka
+###### Tagi: #filozofia #osoba #filozofia/starożytna #filozofia/grecka #sofiści #filozofia/etyka

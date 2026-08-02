@@ -87,4 +87,4 @@ Podział filozofii w De Consolatione:
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna 
+###### Tagi: #filozofia #osoba #filozofia/starożytna 

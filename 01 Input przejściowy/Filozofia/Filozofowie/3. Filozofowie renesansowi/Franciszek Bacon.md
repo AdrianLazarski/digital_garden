@@ -57,4 +57,4 @@
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna #filozofia/renesansowa
+###### Tagi: #filozofia #osoba #filozofia/nowożytna #filozofia/renesansowa

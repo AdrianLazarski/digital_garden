@@ -56,4 +56,4 @@ o Okazuje się jednak, że jej największą słabością jest brak pozytywnego r
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

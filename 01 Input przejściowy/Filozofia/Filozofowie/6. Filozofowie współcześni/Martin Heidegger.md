@@ -81,4 +81,4 @@ Dasein nie jest moralne! „Pozwolenie być bytowi” Heideggera implikuje uniż
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

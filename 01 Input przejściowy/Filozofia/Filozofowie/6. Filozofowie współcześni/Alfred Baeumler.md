@@ -32,4 +32,4 @@ Alfred Baeumler 1887-1968
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/współczesna 
+###### Tagi: #filozofia #osoba #filozofia/współczesna 

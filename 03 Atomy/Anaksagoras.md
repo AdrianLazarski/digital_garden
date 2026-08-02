@@ -78,4 +78,4 @@ J. G. Krynicka, Anaksagoras, [w:] Powszechna encyklopedia filozofii, Lublin 2000
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/epistemologia #filozofia/antropologia #filozofia/przyrody 
+###### Tagi: #filozofia #osoba #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/epistemologia #filozofia/antropologia #filozofia/przyrody 

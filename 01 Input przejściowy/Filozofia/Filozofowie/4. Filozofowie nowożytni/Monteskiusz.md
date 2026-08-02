@@ -33,4 +33,4 @@ James Madison i Aleksander Hamilton wprowadzili do konstytucji USA trójpodział
 
 
 
-###### Tagi: #filozofia #filozof #filozofia/nowożytna
+###### Tagi: #filozofia #osoba #filozofia/nowożytna

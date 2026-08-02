@@ -39,4 +39,4 @@ J. G. Krynicka, Sofiści, Warszawa 1989, s. 74.
 - 
 
 
-###### Tagi: #filozofia #filozof #filozofia/starożytna #filozofia/metafizyka #filozofia/grecka #filozofia/przyrody #filozofia/polityki #filozofia/prawa
+###### Tagi: #filozofia #osoba #filozofia/starożytna #filozofia/metafizyka #filozofia/grecka #filozofia/przyrody #filozofia/polityki #filozofia/prawa

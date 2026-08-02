@@ -9,4 +9,4 @@
 - Studiowali u niego [[Ludwig von Mises]] i [[Joseph Schumpeter]].
 
 
-#ekonomia #ase #ekonomista 
+#ekonomia #ase #osoba 

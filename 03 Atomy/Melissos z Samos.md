@@ -51,4 +51,4 @@ G. Reale, Historia filozofii starożytnej tom I, Lublin 2000, s. 162-168.
 - 
 
 
-###### Tagi: #filozofia #filozof #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/przyrody 
+###### Tagi: #filozofia #osoba #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/przyrody 

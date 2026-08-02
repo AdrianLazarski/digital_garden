@@ -15,4 +15,4 @@ G. Reale, Historia filozofii starożytnej tom I, Lublin 2000, s. 205-206.
 S. Swieżawski, Dzieje europejskiej filozofii klasycznej, Warszawa 2000, s. 47.
 
 
-#filozofia #filozofia/starożytna #filozofia/metafizyka #filozofia/grecka #filozofia/przyrody #filozof
+#filozofia #filozofia/starożytna #filozofia/metafizyka #filozofia/grecka #filozofia/przyrody #osoba
