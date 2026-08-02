@@ -11,48 +11,12 @@
             "id": "b469543585e1dba6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01 Input przejściowy/Historia/Postacie/Starożytna/Perykles.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "03 Atomy/załączniki/Pasted image 20240616195407.png"
               },
-              "icon": "lucide-file",
-              "title": "Perykles"
-            }
-          },
-          {
-            "id": "c1e9aa81cd49c9af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Bocheński Józef, Zarys historii filozofii.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bocheński Józef, Zarys historii filozofii"
+              "icon": "lucide-image",
+              "title": "Pasted image 20240616195407"
             }
           },
           {
@@ -61,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Historia/MOC Historia nauki.md",
+                "file": "02 MOC/MOC Historia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Historia nauki"
+              "title": "MOC Historia"
             }
           },
           {
@@ -127,7 +91,8 @@
               "title": "Jasiński Łukasz, Agonia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Historia/Postacie/Starożytna/Perykles.md",
+                "file": "02 MOC/MOC Historia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -330,11 +295,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b469543585e1dba6",
+  "active": "ef903653377c4890",
   "lastOpenFiles": [
+    "02 MOC/MOC Historia/MOC Historia nauki.md",
+    "03 Atomy/załączniki/Pasted image 20240616195407.png",
+    "05 Osoby/Perykles.md",
     "03 Atomy/Kilogram.md",
     "01 Input przejściowy/Historia/Historia nauki.md",
-    "02 MOC/MOC Historia/MOC Historia nauki.md",
     "02 MOC/MOC Historia.md",
     "01 Input przejściowy/Historia/Historia.md",
     "04 Źródła/Bocheński Józef, Zarys historii filozofii.md",
@@ -356,8 +323,6 @@
     "02 MOC/MOC Fizyka/MOC Termodynamika.md",
     "03 Atomy/Cząsteczka.md",
     "02 MOC/MOC Fizyka/MOC Fizyka materii skondensowanej.md",
-    "03 Atomy/Ciepło.md",
-    "03 Atomy/Kinetyczna teoria gazów.md",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
     "03 Atomy/załączniki/Pasted image 20240328192628.png",
@@ -367,7 +332,6 @@
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",
-    "03 Atomy/załączniki/Matryca hohfeldowska.png",
     "02 MOC/MOC Prawo"
   ]
 }
