@@ -44,5 +44,3 @@ Metaetyka w SLW
 [[Alfred Tarski]] 1901-1983
 [[Stanisław Jaśkowski]] 1906-1965
 
-
-#filozofia #filozofia/współczesna #filozofia/analityczna #filozofia/polska 

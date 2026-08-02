@@ -13,6 +13,3 @@ Wzgl. milezyjska.
 [[Tales z Miletu]]: woda
 [[Anaksymander]]: apeiron (bezkres, nieokreśloność)
 [[Anaksymenes]]: powietrze
-
-
-## 

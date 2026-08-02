@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 18:46
+---
 
 
 • Szkoła neokantyzmu dominująca w latach 70' XIX wieku.
@@ -20,6 +30,3 @@
 [[Hermann Cohen]] 1842-1918
 [[Paul Natorp]] 1854-1924
 [[Ernst Cassirer]] 1874-1945
-
-
-#filozofia #kantyzm #neokantyzm #filozofia/nowożytna #filozofia/niemiecka 

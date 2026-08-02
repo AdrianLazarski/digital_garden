@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 18:47
+---
 
 
 - Inaczej [[Kalkulatorzy]].
@@ -26,5 +36,3 @@ Walter Burley
 - Kalkulatorzy doszli do wniosku, że trzeba używać matematyki do opisu całej fizyki, a nie jej części. Opisywali więc też matematycznie ciała w ruchu, co doprowadziło do konceptualizacji fizyki i prowadzenia spekulatywnych rozważań na bazie hipotez, co było zerwaniem z dogmatem [[Arystoteles|Arystotelesa]], że fizyka musi opisywać obserwowalny świat obiektów materialnych.
 - Nominaliści z Paryża rozwijali pomysły Merton, graficznie obrazując jednostajne przyspieszenie i prędkość ([[Mikołaj z Oresme]]).
 
-
-#filozofia #filozofia/średniowieczna #filozofia/brytyjska #filozofia/angielska #filozofia/historia_filozofii #historia/nauki #historia/fizyki

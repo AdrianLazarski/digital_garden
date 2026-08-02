@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - filozofia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 18:47
+---
 
 - Do XII w. funkcjonowały tam szkoły. Od 1200 r. do dziś korporacja college'ów.
 - W 1167 r. Henryk II wydał zakaz studiowania w Paryżu, bo zbyt wielu Anglików było związanych z [[Szkoła w Chartres|Chartres]].
@@ -18,5 +28,3 @@
 [[Robert Grosseteste]]
 [[Roger Bacon]]
 
-
-#filozofia #filozofia/brytyjska #filozofia/angielska #filozofia/średniowieczna #filozofia/historia_filozofii 

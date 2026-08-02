@@ -1,3 +1,10 @@
+---
+created: 2026-02-28 19:46
+tags: [atom, definicja]
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date : 2026-08-02 18:47
+---
 
 
 - Od V w. p. Chr. do końca starożytności.
@@ -13,5 +20,3 @@
 [[Sceptycyzm]]
 eklektyzm
 
-
-#filozofia #filozofia/grecka #filozofia/starożytna #filozofia/historia_filozofii 
