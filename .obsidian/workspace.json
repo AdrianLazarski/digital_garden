@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System tagów.md",
+                "file": "04 Źródła/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "System tagów"
+              "title": "Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii"
             }
           }
         ],
@@ -162,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ajdukie",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -183,7 +183,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System tagów.md",
+                "file": "04 Źródła/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -330,8 +331,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40fde4cd44744f35",
+  "active": "5e36eb120fb38657",
   "lastOpenFiles": [
+    "System tagów.md",
     "04 Źródła/Jasiński Łukasz, Agonia.md",
     "07 Language lab/English grammar.md",
     "O stronie.md",
@@ -357,7 +359,6 @@
     "01 Input przejściowy/Filozofia/Historia filozofii/Perypat.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Orfizm.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Neotomizm.md",
-    "01 Input przejściowy/Filozofia/Historia filozofii/Neopragmatyzm.md",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",
