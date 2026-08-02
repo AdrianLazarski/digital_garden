@@ -1,9 +1,12 @@
 ---
 created: 2026-02-28 19:46
-tags: [atom, definicja]
+tags:
+  - atom
+  - definicja
+  - it/frontend
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date : 2026-08-02 19:01
+modified date: 2026-08-02 19:01
 ---
 _Cascading Style Sheets_ (kaskadowe arkusze stylu) - język do opisu formy prezentacji stron internetowych. 
 

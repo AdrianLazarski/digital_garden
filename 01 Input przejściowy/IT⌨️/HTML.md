@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - it/frontend
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 19:49
+---
 _HyperText Markup Language_, hipertekstowy [język znaczników](obsidian://open?vault=Obsidian%20Vault&file=IT%E2%8C%A8%EF%B8%8F%2FJ%C4%99zyk%20znacznik%C3%B3w), stosowany do tworzenia dokumentów hipertekstowych.
 
 Składa się z <tagów> otaczających treść. Treść plus tag/i to element.
@@ -50,4 +60,3 @@ Deklaracja używanej wersji. W obrębie tego boilerplate'a się daje całą tre�
 
 
 
-#it
