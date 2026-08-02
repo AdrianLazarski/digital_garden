@@ -2,7 +2,7 @@
 created: 2026-01-05 15:51
 tags:
   - matematyka/analiza
-  - fizyka/mechanika
+  - fizyka/klasyczna/mechanika
   - fizyka/elektromagnetyzm
   - atom
   - definicja

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Fizyka ⚛️/Teorie/Korpuskularna teoria światła.md",
+                "file": "01 Input przejściowy/Fizyka ⚛️/Pojęcia/Wielkości podstawowe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Korpuskularna teoria światła"
+              "title": "Wielkości podstawowe"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Fizyka/MOC Działy fizyki.md",
+                "file": "02 MOC/MOC Fizyka/MOC Fizyka jądrowa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Działy fizyki"
+              "title": "MOC Fizyka jądrowa"
             }
           },
           {
@@ -103,8 +103,7 @@
               "title": "Jasiński Łukasz, Agonia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Fizyka/MOC Działy fizyki.md",
+                "file": "01 Input przejściowy/Fizyka ⚛️/Pojęcia/Wielkości podstawowe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -307,16 +306,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef903653377c4890",
+  "active": "b469543585e1dba6",
   "lastOpenFiles": [
+    "01 Input przejściowy/Fizyka ⚛️/Pojęcia/Masa.md",
+    "01 Input przejściowy/Fizyka ⚛️/Pojęcia/Atom.md",
+    "02 MOC/MOC Fizyka/MOC Fizyka jądrowa.md",
+    "02 MOC/MOC Fizyka/MOC Działy fizyki.md",
+    "02 MOC/MOC Fizyka/MOC Fizyka klasyczna.md",
+    "02 MOC/MOC Fizyka/MOC Termodynamika.md",
+    "01 Input przejściowy/Fizyka ⚛️/Pojęcia/Cząsteczka.md",
+    "02 MOC/MOC Fizyka/MOC Fizyka materii skondensowanej.md",
+    "01 Input przejściowy/Fizyka ⚛️/Pojęcia/Ciepło.md",
+    "03 Atomy/Kinetyczna teoria gazów.md",
+    "03 Atomy/Szczególna Teoria Względności.md",
+    "03 Atomy/Ogólna Teoria Względności.md",
+    "03 Atomy/Korpuskularna teoria światła.md",
     "02 MOC/MOC Fizyka.md",
     "02 MOC/MOC Fizyka/MOC Pojęcia pierwotne fizyki.md",
     "02 MOC/MOC Fizyka/MOC Jednostki fizyczne.md",
     "02 MOC/MOC.md",
     "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Matematyczne podręczniki.md",
-    "01 Input przejściowy/Fizyka ⚛️/Teorie/Korpuskularna teoria światła.md",
-    "01 Input przejściowy/Fizyka ⚛️/Teorie/Kinetyczna teoria gazów.md",
     "03 Atomy/Atomizm.md",
     "05 Osoby/Robert Boyle.md",
     "05 Osoby/Marco Antonio Dominis.md",
@@ -325,19 +335,8 @@
     "05 Osoby/John James Thomson.md",
     "05 Osoby/John Dalton.md",
     "03 Atomy/załączniki/Ciąg.png",
-    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
-    "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
-    "02 MOC/MOC Matematyka/MOC Geometria.md",
-    "02 MOC/MOC Matematyka/MOC Teoria liczb.md",
-    "02 MOC/MOC Matematyka/MOC Liczby.md",
-    "02 MOC/MOC Matematyka/MOC Algebra.md",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
     "03 Atomy/załączniki/Pasted image 20240328192628.png",
-    "03 Atomy/Zwrot.md",
-    "03 Atomy/Wersor.md",
-    "03 Atomy/Wektor.md",
-    "03 Atomy/Skalar.md",
-    "03 Atomy/Przestrzeń liniowa.md",
     "03 Atomy/załączniki/Pasted image 20240616142158.png",
     "03 Atomy/załączniki/ASCI.png",
     "03 Atomy/załączniki/Pasted image 20240610141757.png",

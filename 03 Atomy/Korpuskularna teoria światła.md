@@ -1,7 +1,10 @@
 ---
 created: 2026-02-28 19:46
-tags: [atom, definicja]
+tags:
+  - atom
+  - definicja
+  - fizyka/klasyczna/optyka
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date : 2026-08-02 21:21
+modified date: 2026-08-02 21:21
 ---

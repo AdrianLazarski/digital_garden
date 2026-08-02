@@ -3,7 +3,7 @@ created: 2026-01-05 16:57
 tags:
   - atom
   - definicja
-  - fizyka/mechanika
+  - fizyka/klasyczna/mechanika
   - fizyka/elektromagnetyzm
 modified date: 2026-01-05 16:58
 ---

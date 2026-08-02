@@ -13,3 +13,14 @@ modified date: 2026-07-03 16:05
 
 
 [[MOC Astrofizyka]]
+
+
+
+[[MOC Fizyka klasyczna]]
+	[[MOC Termodynamika]]
+
+
+
+[[MOC Fizyka materii skondensowanej]]
+
+[[MOC Fizyka jądrowa]]
