@@ -1,8 +1,8 @@
 ---
 created: 2024-06-16 14:04
 tags:
-  - matematyka/podstawy/teoria_mnogości/algebra_zbiorów
-  - "#logika/matematyczna/teoria_mnogości"
+  - matematyka/podstawy/teoria_mnogości
+  - "#matematyka/podstawy/teoria_mnogości"
 modified date: 2025-11-22 16:29
 ---
 > [!note] Definicja

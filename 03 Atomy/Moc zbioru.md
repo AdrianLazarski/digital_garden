@@ -1,7 +1,7 @@
 ---
 created: 2024-06-28 19:33
 tags:
-  - "#logika/matematyczna/teoria_mnogości"
+  - "#matematyka/podstawy/teoria_mnogości"
   - atom
   - matematyka/podstawy/teoria_mnogości
 modified date: 2025-11-22 16:25

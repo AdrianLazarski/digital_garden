@@ -1,7 +1,7 @@
 ---
 created: 2024-03-23 14:08
 tags:
-  - logika/matematyczna/teoria_mnogości
+  - matematyka/podstawy/teoria_mnogości
   - matematyka/podstawy/teoria_mnogości
   - definicja
   - atom

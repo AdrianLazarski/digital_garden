@@ -4,7 +4,7 @@ tags:
   - matematyka/analiza
   - atom
   - definicja
-  - logika/matematyczna/teoria_mnogości
+  - matematyka/podstawy/teoria_mnogości
 modified date: 2026-01-18 12:02
 ---
 ang. *codomain*

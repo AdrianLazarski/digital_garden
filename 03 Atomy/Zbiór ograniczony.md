@@ -3,7 +3,7 @@ created: 2026-01-17 15:35
 tags:
   - atom
   - definicja
-  - logika/matematyczna/teoria_mnogości
+  - matematyka/podstawy/teoria_mnogości
 modified date: 2026-01-17 15:36
 ---
 > [!note] Definicja 1

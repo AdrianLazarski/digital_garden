@@ -2,8 +2,8 @@
 created: 2025-11-22 13:11
 tags:
   - moc
-  - logika/matematyczna/teoria_mnogości
-  - matematyka/podstawy/teoria_mnogości/algebra_zbiorów
+  - matematyka/podstawy/teoria_mnogości
+  - matematyka/podstawy/teoria_mnogości
 modified date: 2025-11-22 13:14
 ---
 

@@ -1,9 +1,9 @@
 ---
 created: 2025-11-22 15:28
 tags:
-  - logika/matematyczna/teoria_mnogości
+  - matematyka/podstawy/teoria_mnogości
   - atom
-  - matematyka/podstawy/teoria_mnogości/algebra_zbiorów
+  - matematyka/podstawy/teoria_mnogości
 modified date: 2025-11-22 15:33
 ---
 Szczególny przypadek zbioru.

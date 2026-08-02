@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - matematyka/podstawy/teoria_mnogości
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 20:48
+---
 
 
 Rodzina zbiorów R={X1, X2....Xn} jest podziałem logicznym zbioru Z wtedy i tylko wtedy, gdy rodzina ta spełnia:
@@ -25,4 +35,3 @@ Rodzina zbiorów R={X1, X2....Xn} jest podziałem logicznym zbioru Z wtedy i tyl
 - Podziałem typologicznym zbioru nazywamy każdy taki podział, w którym wskazujemy jedynie wzorcowe typy jego elementów np. {sangwinicy, cholerycy, flegmatycy, melancholicy}
 
 
-#logika 

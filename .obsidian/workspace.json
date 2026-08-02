@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Klasa abstrakcji.md",
+                "file": "02 MOC/MOC IT/MOC Operator (Programowanie).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Klasa abstrakcji"
+              "title": "MOC Operator (Programowanie)"
             }
           },
           {
@@ -158,8 +158,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Klasa abstrakcji.md",
+                "file": "02 MOC/MOC IT/MOC Operator (Programowanie).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -307,12 +306,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b7c399b1c5ae36e",
+  "active": "b469543585e1dba6",
   "lastOpenFiles": [
+    "03 Atomy/Operator.md",
+    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Podział logiczny.md",
+    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Relacja.md",
+    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Relacje pomiędzy zbiorami.md",
+    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Zbiór potęgowy.md",
+    "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
+    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Para uporządkowana.md",
+    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Para nieuporządkowana.md",
+    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Klasa abstrakcji.md",
     "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Iloczyn kartezjański.md",
     "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Aksjomat wyboru.md",
-    "02 MOC/MOC Matematyka/MOC Teoria mnogości.md",
-    "01 Input przejściowy/Matematyka/Działy/Teoria zbiorów/Relacje pomiędzy zbiorami.md",
     "02 MOC/MOC Matematyka/MOC Rodzaje zbiorów.md",
     "03 Atomy/Zbiór pusty.md",
     "02 MOC/MOC Matematyka/MOC Podstawy matematyki.md",
@@ -328,13 +334,6 @@
     "02 MOC/MOC Historia/MOC Historia nauki.md",
     "01 Input przejściowy/Matematyka/Działy/Statystyka/Kurtoza.md",
     "01 Input przejściowy/Matematyka/Działy/Geometria/Trygonometria.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Przestrzeń liniowa.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Skalar.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Układ równań liniowych.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Wektor.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Wersor.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Zwrot.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Grupa przemienna.md",
     "03 Atomy/załączniki/ASCI.png",
     "03 Atomy/załączniki/Pasted image 20240610141757.png",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",

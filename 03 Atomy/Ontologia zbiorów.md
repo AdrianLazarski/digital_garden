@@ -4,7 +4,7 @@ tags:
   - filozofia/metafizyka
   - matematyka/podstawy/teoria_mnogości
   - atom
-  - logika/matematyczna/teoria_mnogości
+  - matematyka/podstawy/teoria_mnogości
 modified date: 2025-11-22 12:43
 ---
 

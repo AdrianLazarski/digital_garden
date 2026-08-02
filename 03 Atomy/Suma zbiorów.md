@@ -2,8 +2,8 @@
 created: 2025-11-22 13:16
 tags:
   - atom
-  - matematyka/podstawy/teoria_mnogości/algebra_zbiorów
-  - logika/matematyczna/teoria_mnogości
+  - matematyka/podstawy/teoria_mnogości
+  - matematyka/podstawy/teoria_mnogości
 modified date: 2025-11-22 13:24
 ---
 ang. *union*

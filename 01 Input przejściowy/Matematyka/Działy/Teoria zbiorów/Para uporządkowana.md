@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - matematyka/podstawy/teoria_mnogości
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 20:48
+---
 
 Zestaw dwóch elementów, w którym jeden element jest wyróżniony jako pierwszy.
 
@@ -14,4 +24,3 @@ Pojęcie związane z [[Iloczyn kartezjański|iloczynem kartezjańskim]].
 N-tka uporządkowana: <<x1, … xn-1>, Xn>
 
 
-#logika #matematyka/podstawy/teoria_mnogości 

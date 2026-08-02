@@ -1,9 +1,8 @@
 ---
 created: 2025-11-22 15:04
 tags:
-  - matematyka/podstawy/teoria_mnogości/algebra_zbiorów
-  - logika/matematyczna/teoria_mnogości
   - atom
+  - matematyka/podstawy/teoria_mnogości
 modified date: 2025-11-22 16:45
 ---
 Inkluzja zbiorów 

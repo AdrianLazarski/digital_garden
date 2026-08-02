@@ -3,7 +3,7 @@ created: 2024-03-24 12:32
 tags:
   - matematyka/podstawy/teoria_mnogości
   - moc
-  - logika/matematyczna/teoria_mnogości
+  - matematyka/podstawy/teoria_mnogości
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-08-02 20:35

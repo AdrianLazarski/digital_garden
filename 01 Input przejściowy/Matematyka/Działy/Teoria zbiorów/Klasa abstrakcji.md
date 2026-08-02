@@ -4,7 +4,6 @@ tags:
   - atom
   - definicja
   - matematyka/podstawy/teoria_mnogości
-  - logi
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-08-02 20:40
