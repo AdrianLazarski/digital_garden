@@ -28,6 +28,3 @@ Bazami danych zarządza się za pomocą [[DBMS]]. DBMS nie jest bazą danych!
 	- Grafy
 	- Flexible tables (nie wiem co to)
 
-
-
-#it

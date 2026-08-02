@@ -14,7 +14,7 @@
 - Uczeń [[Platon|platoników]] i Ksenokratesa.
 - Kupił dom z ogrodem i założył tam szkołę filozoficzną, nazywała się Kepos, czyli "Ogród".
 - Z ogromnej spuścizny pozostały trzy listy i liczne fragmenty.
-- Przyjął i rozwinął [[atomizm]] [[Demokryt z Abdery|Demokryta]].
+- Przyjął i rozwinął [[Atomizm]] [[Demokryt z Abdery|Demokryta]].
 # Dzieła 📖
 
 

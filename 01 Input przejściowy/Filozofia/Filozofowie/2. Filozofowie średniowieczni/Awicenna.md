@@ -40,7 +40,7 @@ Pisma ezoteryczne; podejmował w nich problem stosunku filozofii do teologii.
 # Wpływy ⛓️
 
 - Ceniony w europejskim średniowieczu; Arabowie mieli go za perypatetyka i nie podobało im się jego zbyt luźne podejście do Koranu.
-- W I poł. XIII w. teologowie przepisywali od niego wszystko jak leci, bo uprawiał [[neoplatonizm ]]za pomocą kategorii Arystotelesa. Zaś kategorie Arystotelesa to było wtedy kryterium naukowości, bo na początku studiów wszyscy uczyli się organonu.
+- W I poł. XIII w. teologowie przepisywali od niego wszystko jak leci, bo uprawiał [[Neoplatonizm]]za pomocą kategorii Arystotelesa. Zaś kategorie Arystotelesa to było wtedy kryterium naukowości, bo na początku studiów wszyscy uczyli się organonu.
 - Trend ten odwrócił dopiero [[Tomasz z Akwinu]], który stwierdził, że metafizyka Awicenny jest o pojęciach, a nie o bytach.
 - [[Awerroes]] skrytykuje go za "motywacje religijne" przez które miał rzekomo przyjąć koncepcję istoty, które u Arystotelesa przecież nie ma.  Krytykuje go też za wprowadzenie do metafizyki Boga i stwarzania.
 - [[Siger z Brabantu]].

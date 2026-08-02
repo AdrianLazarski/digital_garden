@@ -84,7 +84,7 @@ Hegel i materialiści dialektyczni przeciwstawiają metafizyce dialektykę. Ta p
 		- [[David Hume]]
 		- [[Immanuel Kant]]
 		- [[Johan Gottlieb Fichte]]
-		- [[empiriokrytycyzm]]
+		- [[Empiriokrytycyzm]]
 		- fenomenalizm danych zmysłowych [[Alfred Jules Ayer|Ayera]]
 		- [[Edmund Husserl]]
 		- [[Martin Heidegger]]

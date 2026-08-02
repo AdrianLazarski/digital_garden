@@ -11,7 +11,7 @@ modified date: 2026-07-31 23:03
 ---
 
 - Początek pod koniec XIX w. w Niemczech. Rozwijała się we Francji, Hiszpanii i w Polsce.
-- Reakcja na [[pozytywizm]], materializm i lewicę heglowską.
+- Reakcja na [[Pozytywizm]], materializm i lewicę heglowską.
 
 Ogólna charakterystyka:
 1. Aktywizm - istnieje jedynie życie, ruch, stawanie się.
