@@ -17,5 +17,5 @@ modified date: 2025-11-22 13:10
 [[MOC Filozofia matematyki]]
 
 
-
+[[MOC Matematyczne podręczniki]]
 

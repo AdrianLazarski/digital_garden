@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - matematyka/algebra/liniowa
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 21:04
+---
 ang. vector space
 
 Inaczej przestrzeń wektorowa. 
@@ -18,5 +28,3 @@ Inaczej przestrzeń wektorowa.
 	8. Rozdzielność działania względem dodawania na ciele (_a_ + _b_)**v** = _a_**v** + _b_**v**
 
 Jej podzbiorem jest [[Podprzestrzeń liniowa|podprzestrzeń liniowa]].
-
-#matematyka/teoria_modułów #matematyka/algebra #matematyka 

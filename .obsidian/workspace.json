@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Matematyka/Działy/Algebra/Pierścień.md",
+                "file": "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/John Dalton.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pierścień"
+              "title": "John Dalton"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Algebra.md",
+                "file": "02 MOC/MOC Matematyczne podręczniki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Algebra"
+              "title": "MOC Matematyczne podręczniki"
             }
           },
           {
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Matematyka/Działy/Algebra/Pierścień.md",
+                "file": "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/John Dalton.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -308,32 +308,35 @@
   },
   "active": "b469543585e1dba6",
   "lastOpenFiles": [
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Moduł.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Kombinacja liniowa.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Kierunek.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Iloczyn skalarny.md",
-    "02 MOC/MOC Matematyka/MOC Algebra.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Grupa przemienna.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Grupa abelowa.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Grupa.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Ciało.md",
-    "01 Input przejściowy/Matematyka/Działy/Algebra/Algebra liniowa.md",
-    "02 MOC/MOC Matematyka/MOC Algebra liniowa.md",
+    "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/John James Thomson.md",
+    "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/Johannes Kepler.md",
+    "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/Albert Einstein.md",
+    "03 Atomy/załączniki/Ciąg.png",
+    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
+    "02 MOC/MOC Matematyczne podręczniki.md",
+    "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
+    "02 MOC/MOC Matematyka/MOC Geometria.md",
     "02 MOC/MOC Matematyka/MOC Teoria liczb.md",
     "02 MOC/MOC Matematyka/MOC Liczby.md",
-    "03 Atomy/Liczby algebraiczne.md",
-    "03 Atomy/Liczby doskonałe.md",
-    "03 Atomy/Liczby złożone.md",
-    "03 Atomy/Liczby zespolone.md",
-    "03 Atomy/Liczby wymierne.md",
-    "03 Atomy/Liczby urojone.md",
-    "03 Atomy/Liczby rzeczywiste.md",
-    "03 Atomy/Liczby przestępne.md",
-    "03 Atomy/Liczby pierwsze.md",
-    "03 Atomy/Liczby niewymierne.md",
-    "03 Atomy/Liczby naturalne.md",
-    "03 Atomy/Liczby całkowite.md",
+    "02 MOC/MOC Matematyka/MOC Algebra.md",
+    "03 Atomy/załączniki/Pasted image 20240328185957.png",
+    "03 Atomy/załączniki/Pasted image 20240328192628.png",
+    "03 Atomy/Zwrot.md",
+    "03 Atomy/Wersor.md",
+    "03 Atomy/Wektor.md",
+    "03 Atomy/Skalar.md",
+    "03 Atomy/Przestrzeń liniowa.md",
+    "03 Atomy/Przekształcenie liniowe.md",
+    "03 Atomy/Powłoka liniowa.md",
+    "03 Atomy/Podprzestrzeń liniowa.md",
+    "03 Atomy/Pierścień.md",
+    "03 Atomy/Moduł.md",
+    "03 Atomy/Kombinacja liniowa.md",
+    "03 Atomy/Kierunek.md",
+    "03 Atomy/Iloczyn skalarny.md",
+    "03 Atomy/Grupa przemienna.md",
+    "03 Atomy/Grupa abelowa.md",
     "03 Atomy/załączniki/Pasted image 20240616142158.png",
     "03 Atomy/załączniki/ASCI.png",
     "03 Atomy/załączniki/Pasted image 20240610141757.png",

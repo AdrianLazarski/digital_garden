@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - matematyka/algebra/liniowa
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-02 21:03
+---
 ang. linear subspace
 
 Podzbiór [[Przestrzeń liniowa|przestrzeni liniowej]], z której dziedziczy działania.
@@ -10,5 +20,3 @@ Podprzestrzeń to szczególny przypadek [[Powłoka liniowa|powłoki liniowej]], 
 
 
 
-
-#matematyka/teoria_modułów #matematyka/algebra #matematyka #matematyka/algebra/liniowa 

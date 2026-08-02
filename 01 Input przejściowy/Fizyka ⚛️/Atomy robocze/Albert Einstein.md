@@ -1,7 +1,7 @@
 ---
 tags:
   - fizyka
-  - moc
+  - osoba
 ---
 
 
@@ -83,5 +83,3 @@ tags:
 74. Nie ma silnych dowodów, że Einstein nazywał zdrowy rozsądek przesądami.
 75. Nie ma silnych dowodów, że Einstein kazał wszystko tłumaczyć jak najprościej, ale nie prościej.
 76. Einstein nie mówił, że to szaleństwo robić to samo, oczekując innych skutków.
-
-#osoba 

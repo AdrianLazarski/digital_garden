@@ -1,6 +1,8 @@
 ---
 created: 2026-02-28 19:46
 tags:
+  - ref
+  - matematyka/analiza
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-27 18:15
@@ -48,10 +50,3 @@ $$
 
 
 
-
-
-
-
-
-
-#matematyka 
