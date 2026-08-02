@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/John Dalton.md",
+                "file": "01 Input przejściowy/Fizyka ⚛️/Teorie/Korpuskularna teoria światła.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John Dalton"
+              "title": "Korpuskularna teoria światła"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Matematyczne podręczniki.md",
+                "file": "02 MOC/MOC Fizyka/MOC Działy fizyki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Matematyczne podręczniki"
+              "title": "MOC Działy fizyki"
             }
           },
           {
@@ -103,7 +103,8 @@
               "title": "Jasiński Łukasz, Agonia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/John Dalton.md",
+                "file": "02 MOC/MOC Fizyka/MOC Działy fizyki.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -306,15 +307,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b469543585e1dba6",
+  "active": "ef903653377c4890",
   "lastOpenFiles": [
-    "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/John James Thomson.md",
-    "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/Johannes Kepler.md",
-    "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/Albert Einstein.md",
+    "02 MOC/MOC Fizyka.md",
+    "02 MOC/MOC Fizyka/MOC Pojęcia pierwotne fizyki.md",
+    "02 MOC/MOC Fizyka/MOC Jednostki fizyczne.md",
+    "02 MOC/MOC.md",
+    "02 MOC/MOC Matematyka.md",
+    "02 MOC/MOC Matematyczne podręczniki.md",
+    "01 Input przejściowy/Fizyka ⚛️/Teorie/Korpuskularna teoria światła.md",
+    "01 Input przejściowy/Fizyka ⚛️/Teorie/Kinetyczna teoria gazów.md",
+    "03 Atomy/Atomizm.md",
+    "05 Osoby/Robert Boyle.md",
+    "05 Osoby/Marco Antonio Dominis.md",
+    "05 Osoby/Albert Einstein.md",
+    "05 Osoby/Johannes Kepler.md",
+    "05 Osoby/John James Thomson.md",
+    "05 Osoby/John Dalton.md",
     "03 Atomy/załączniki/Ciąg.png",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
-    "02 MOC/MOC Matematyczne podręczniki.md",
-    "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
     "02 MOC/MOC Matematyka/MOC Geometria.md",
     "02 MOC/MOC Matematyka/MOC Teoria liczb.md",
@@ -327,16 +338,6 @@
     "03 Atomy/Wektor.md",
     "03 Atomy/Skalar.md",
     "03 Atomy/Przestrzeń liniowa.md",
-    "03 Atomy/Przekształcenie liniowe.md",
-    "03 Atomy/Powłoka liniowa.md",
-    "03 Atomy/Podprzestrzeń liniowa.md",
-    "03 Atomy/Pierścień.md",
-    "03 Atomy/Moduł.md",
-    "03 Atomy/Kombinacja liniowa.md",
-    "03 Atomy/Kierunek.md",
-    "03 Atomy/Iloczyn skalarny.md",
-    "03 Atomy/Grupa przemienna.md",
-    "03 Atomy/Grupa abelowa.md",
     "03 Atomy/załączniki/Pasted image 20240616142158.png",
     "03 Atomy/załączniki/ASCI.png",
     "03 Atomy/załączniki/Pasted image 20240610141757.png",

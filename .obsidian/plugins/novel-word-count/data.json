@@ -30071,33 +30071,6 @@
         "newlineCount": 0
       }
     },
-    "04 Źródła/Bez nazwy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1785515242342,
-      "modifiedDate": 1785515244420,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "04 Źródła/Bernard z Clairvaux, O 12 stopniach pokory i pychy.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -90893,16 +90866,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0,
-      "characterCount": 0,
+      "characterCount": 1,
       "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
+      "newlineCount": 2,
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304399312,
-      "modifiedDate": 1717953257566,
-      "sizeInBytes": 0,
+      "modifiedDate": 1785698231711,
+      "sizeInBytes": 170,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0,
@@ -90910,6 +90883,17 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "fizyka"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-02 21:17"
       }
     },
     "01 Input przejściowy/Fizyka ⚛️/Pojęcia/Wielkości podstawowe.md.edtz": {
@@ -91290,33 +91274,6 @@
         "newlineCount": 5
       }
     },
-    "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/Robert Boyle.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304399179,
-      "modifiedDate": 1717952892190,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/Marco Antonio Dominis.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -91342,69 +91299,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/Marco Antonio Dominis.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 81,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.27,
-      "characterCount": 582,
-      "nonWhitespaceCharacterCount": 493,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.30566037735849055,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304399167,
-      "modifiedDate": 1785695409542,
-      "sizeInBytes": 611,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.27,
-        "wordCount": 81,
-        "characterCount": 582,
-        "nonWhitespaceCharacterCount": 493,
-        "newlineCount": 9
-      }
-    },
-    "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/John James Thomson.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304399157,
-      "modifiedDate": 1785697937198,
-      "sizeInBytes": 146,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "created": "2026-02-28 19:46",
-        "tags": [
-          "osoba"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
-        "modified date": "2026-08-02 21:12"
       }
     },
     "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/John Dalton.md.edtz": {
@@ -91434,43 +91328,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/John Dalton.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 18,
-      "nonWhitespaceCharacterCount": 13,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 0.007547169811320755,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304399145,
-      "modifiedDate": 1785697953529,
-      "sizeInBytes": 174,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.006666666666666667,
-        "wordCount": 2,
-        "characterCount": 17,
-        "nonWhitespaceCharacterCount": 13,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "created": "2026-02-28 19:46",
-        "tags": [
-          "fizyka",
-          "osoba"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
-        "modified date": "2026-08-02 21:12"
-      }
-    },
     "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/Johannes Kepler.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -91498,42 +91355,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/Johannes Kepler.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 50,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.16666666666666666,
-      "characterCount": 378,
-      "nonWhitespaceCharacterCount": 315,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.18867924528301888,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304399132,
-      "modifiedDate": 1785697847318,
-      "sizeInBytes": 548,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.16666666666666666,
-        "wordCount": 50,
-        "characterCount": 377,
-        "nonWhitespaceCharacterCount": 315,
-        "newlineCount": 16
-      },
-      "frontmatter": {
-        "created": "2026-02-28 19:46",
-        "tags": [
-          "osoba"
-        ],
-        "dojrzalosc": "Sadzonka 🌱",
-        "status_epistemiczny": "Spekulatywny ❓",
-        "modified date": "2026-08-02 21:10"
-      }
-    },
     "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/Albert Einstein.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -91559,39 +91380,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/Fizyka ⚛️/Atomy robocze/Albert Einstein.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 765,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.55,
-      "characterCount": 5260,
-      "nonWhitespaceCharacterCount": 4493,
-      "newlineCount": 82,
-      "readingTimeInMinutes": 2.8867924528301887,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304399119,
-      "modifiedDate": 1785697836480,
-      "sizeInBytes": 5626,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.5533333333333332,
-        "wordCount": 766,
-        "characterCount": 5268,
-        "nonWhitespaceCharacterCount": 4499,
-        "newlineCount": 83
-      },
-      "frontmatter": {
-        "tags": [
-          "fizyka",
-          "osoba"
-        ]
       }
     },
     "01 Input przejściowy/Filozofia/załączniki/Trójkąt platoński.png": {
@@ -129161,6 +128949,168 @@
       "createdDate": 1772304403014,
       "modifiedDate": 1763748446858,
       "sizeInBytes": 31294,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 Osoby/Robert Boyle.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 14,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 153,
+      "nonWhitespaceCharacterCount": 129,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.052830188679245285,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304399179,
+      "modifiedDate": 1785698182668,
+      "sizeInBytes": 157,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 Osoby/Albert Einstein.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 779,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.5966666666666667,
+      "characterCount": 5412,
+      "nonWhitespaceCharacterCount": 4622,
+      "newlineCount": 90,
+      "readingTimeInMinutes": 2.939622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304399119,
+      "modifiedDate": 1785698163832,
+      "sizeInBytes": 5748,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 Osoby/Johannes Kepler.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 61,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 501,
+      "nonWhitespaceCharacterCount": 419,
+      "newlineCount": 24,
+      "readingTimeInMinutes": 0.23018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304399132,
+      "modifiedDate": 1785698148109,
+      "sizeInBytes": 530,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 Osoby/John Dalton.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 170,
+      "nonWhitespaceCharacterCount": 142,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304399145,
+      "modifiedDate": 1785697953529,
+      "sizeInBytes": 174,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 Osoby/John James Thomson.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 14,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 153,
+      "nonWhitespaceCharacterCount": 129,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.052830188679245285,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304399157,
+      "modifiedDate": 1785698155628,
+      "sizeInBytes": 157,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "05 Osoby/Marco Antonio Dominis.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 93,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31,
+      "characterCount": 710,
+      "nonWhitespaceCharacterCount": 600,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.35094339622641507,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304399167,
+      "modifiedDate": 1785698175124,
+      "sizeInBytes": 743,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
