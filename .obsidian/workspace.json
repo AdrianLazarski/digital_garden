@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "Jasiński Łukasz, Agonia"
             }
+          },
+          {
+            "id": "eb8c5e053b596ddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Language lab/English grammar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "English grammar"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -159,8 +183,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
+                "file": "07 Language lab/English grammar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -307,11 +330,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "898b6a9c53898e39",
+  "active": "eb8c5e053b596ddd",
   "lastOpenFiles": [
+    "04 Źródła/Jasiński Łukasz, Agonia.md",
     "04 Źródła/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
     "System tagów.md",
-    "04 Źródła/Jasiński Łukasz, Agonia.md",
     "07 Language lab/English grammar.md",
     "O stronie.md",
     "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła dominikańska.md",
