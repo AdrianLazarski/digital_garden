@@ -4,7 +4,7 @@ tags:
   - atom
   - definicja
   - implementacja
-  - język_programowania/csharp
+  - it/język/csharp
   - it/programowanie/obiektowe
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Prawdopodobny 🧪

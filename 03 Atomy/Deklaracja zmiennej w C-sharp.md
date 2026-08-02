@@ -2,7 +2,7 @@
 created: 2025-11-23 15:10
 tags:
   - it
-  - język_programowania/csharp
+  - it/język/csharp
   - implementacja
   - atom
 modified date: 2025-11-23 15:15

@@ -2,10 +2,10 @@
 created: 2025-12-08 11:44
 tags:
   - it
-  - język_programowania/csharp
+  - it/język/csharp
   - atom
   - implementacja
-  - język_programowania/python
+  - it/język/python
 modified date: 2025-12-08 11:44
 ---
 > [!note] Definicja

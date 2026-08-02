@@ -1,7 +1,7 @@
 ---
 created: 2025-12-08 15:36
 tags:
-  - język_programowania/csharp
+  - it/język/csharp
   - definicja
   - it/programowanie
 dojrzalosc: Sadzonka 🌱

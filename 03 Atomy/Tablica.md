@@ -15,7 +15,7 @@ Poszczególne dane są dostępne za pomocą indeksu przyjmującego wartości num
 
 W algebrze liniowej raczej mówi się o [[01 Input przejściowy/Matematyka/Działy/Algebra/Macierz|macierzach]], ale w programowaniu, czy w analizie danych się mówi czasem o tabelach.
 
-Obsługiwane przez większość [[Język programowania|języków programowania]]. Niektóre [[Język funkcyjny|języki funkcyjne]] korzystają z [[Lista|list]] (choć tablice wciąż są tam dostępne).
+Obsługiwane przez większość [[Język programowania|języków programowania]]. Niektóre [[Programowanie funkcyjne||języki funkcyjne]] korzystają z [[Lista|list]] (choć tablice wciąż są tam dostępne).
 
 Rodzaje tablic:
 [[Tablica statyczna]]

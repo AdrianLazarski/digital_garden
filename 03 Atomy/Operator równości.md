@@ -3,8 +3,8 @@ created: 2025-11-25 21:18
 tags:
   - atom
   - it
-  - język_programowania/csharp
-  - język_programowania/python
+  - it/język/csharp
+  - it/język/python
   - implementacja
 modified date: 2025-11-25 21:19
 ---

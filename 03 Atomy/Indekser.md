@@ -3,7 +3,7 @@ created: 2026-04-23 16:53
 tags:
   - atom
   - definicja
-  - język_programowania/csharp
+  - it/język/csharp
   - it/programowanie/obiektowe
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓

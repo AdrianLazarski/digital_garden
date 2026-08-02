@@ -2,7 +2,7 @@
 created: 2026-04-17 16:31
 tags:
   - atom
-  - język_programowania/csharp
+  - it/język/csharp
   - implementacja
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓

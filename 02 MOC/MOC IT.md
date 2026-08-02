@@ -10,7 +10,7 @@ $\rightarrow$ [[MOC Języki programowania]]
 	$\rightarrow$ [[MOC SQL składnia]]
 $\rightarrow$ [[MOC Metodyka programowania]]
 	$\rightarrow$ [[MOC Programowanie obiektowe]]
-$\rightarrow$ [[MOC Narzędzia]]
+$\rightarrow$ [[MOC Narzędzia i programy]]
 	$\rightarrow$ [[MOC Środowisko programistyczne]]
 $\rightarrow$ [[MOC Typy danych]]
 $\rightarrow$ [[MOC Operator (Programowanie)]]
@@ -19,7 +19,7 @@ $\rightarrow$ [[MOC Media przewodowe]]
 
 
 [[MOC Frontend]]
-
+[[MOC DevOps]]
 
 
 - [[Programowanie]]

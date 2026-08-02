@@ -1,8 +1,8 @@
 ---
 created: 2025-11-23 19:53
 tags:
-  - język_programowania/csharp
-  - język_programowania/python
+  - it/język/csharp
+  - it/język/python
   - atom
   - it/podstawy
 modified date: 2025-11-23 20:03

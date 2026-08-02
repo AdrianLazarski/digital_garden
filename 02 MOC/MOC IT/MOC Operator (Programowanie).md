@@ -2,7 +2,7 @@
 created: 2025-11-23 21:17
 tags:
   - it/podstawy
-  - język_programowania
+  - it/język
   - moc
   - definicja
 modified date: 2025-11-23 21:24

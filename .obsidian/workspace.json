@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/IT⌨️/Excel.md",
+                "file": "03 Atomy/C.R.U.D.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Excel"
+              "title": "C.R.U.D"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC IT/MOC Narzędzia.md",
+                "file": "03 Atomy/Programowanie funkcyjne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Narzędzia"
+              "title": "Programowanie funkcyjne"
             }
           },
           {
@@ -103,8 +103,7 @@
               "title": "Jasiński Łukasz, Agonia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,35 +306,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef903653377c4890",
+  "active": "40fde4cd44744f35",
   "lastOpenFiles": [
+    "03 Atomy/załączniki/ASCI.png",
+    "03 Atomy/Baza danych.md",
+    "03 Atomy/SQL.md",
+    "03 Atomy/Język znaczników.md",
+    "03 Atomy/HTML.md",
+    "01 Input przejściowy/IT⌨️/Język funkcyjny.md",
+    "03 Atomy/Tablica.md",
+    "03 Atomy/Programowanie funkcyjne.md",
+    "02 MOC/MOC IT/MOC Metodyka programowania.md",
     "02 MOC/MOC IT.md",
-    "02 MOC/MOC IT/MOC Narzędzia.md",
+    "02 MOC/MOC DevOps.md",
+    "03 Atomy/GIT.md",
+    "02 MOC/MOC IT/MOC Narzędzia i programy.md",
+    "03 Atomy/Excel.md",
     "02 MOC/MOC Frontend.md",
-    "01 Input przejściowy/IT⌨️/Excel.md",
     "01 Input/CS50.md",
-    "01 Input przejściowy/IT⌨️/C.R.U.D.md",
-    "01 Input przejściowy/IT⌨️/DBMS.md",
-    "01 Input przejściowy/IT⌨️/CSS.md",
+    "03 Atomy/C.R.U.D.md",
+    "03 Atomy/DBMS.md",
+    "03 Atomy/CSS.md",
     "04 Źródła/Jasiński Łukasz, Agonia.md",
     "07 Language lab/English grammar.md",
-    "01 Input przejściowy/IT⌨️/HTML.md",
     "02 MOC/MOC.md",
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
     "02 MOC/MOC Filozofia/MOC Filozofia współczesna.md",
     "02 MOC/MOC Filozofia/MOC Nurty filozofii współczesnej.md",
-    "03 Atomy/Programowanie.md",
-    "Skróty klawiszowe.md",
-    "01 Input przejściowy/IT⌨️/Baza danych.md",
     "03 Atomy/załączniki/Pasted image 20240610141757.png",
-    "03 Atomy/Akademia Platońska.md",
-    "03 Atomy/Wiktoryni.md",
-    "03 Atomy/Szkoły hellenistyczne.md",
-    "03 Atomy/Szkoła w Oksfordzie.md",
-    "03 Atomy/Szkoła w Merton College.md",
-    "03 Atomy/Szkoła mileacka.md",
-    "03 Atomy/Szkoła w Chartres.md",
     "03 Atomy/załączniki/Pasted image 20240616130239.png",
     "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
     "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",

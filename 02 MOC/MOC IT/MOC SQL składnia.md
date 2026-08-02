@@ -3,7 +3,7 @@ created: 2026-01-24 12:23
 tags:
   - moc
   - it/bazy_danych
-  - język_programowania/sql
+  - it/język/sql
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-01-24 12:24

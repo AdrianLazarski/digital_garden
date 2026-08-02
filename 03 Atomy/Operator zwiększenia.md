@@ -2,7 +2,7 @@
 created: 2025-11-25 20:51
 tags:
   - it
-  - język_programowania
+  - it/język
   - atom
 modified date: 2025-11-25 20:57
 ---

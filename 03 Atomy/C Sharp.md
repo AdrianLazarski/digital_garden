@@ -1,7 +1,7 @@
 ---
 created: 2025-10-26 12:48
 tags:
-  - język_programowania/csharp
+  - it/język/csharp
   - it/programowanie
   - definicja
 dojrzalosc: Sadzonka 🌱

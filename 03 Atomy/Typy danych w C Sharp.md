@@ -1,7 +1,7 @@
 ---
 tags:
   - it/typ_danych
-  - język_programowania/csharp
+  - it/język/csharp
   - implementacja
   - atom
 created: 2025-11-23 16:54

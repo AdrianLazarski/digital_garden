@@ -1,10 +1,9 @@
 ---
 created: 2025-09-27 12:24
 tags:
-  - język_programowania/sql
+  - it/język/sql
   - atom
   - definicja
-  - it/bazy_danych
 dojrzalosc: Krzak 🌿
 status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-01-24 11:59

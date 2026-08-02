@@ -3,7 +3,7 @@ created: 2026-04-21 14:06
 tags:
   - atom
   - implementacja
-  - język_programowania/csharp
+  - it/język/csharp
   - it/programowanie/obiektowe
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎

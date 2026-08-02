@@ -717,4 +717,4 @@ def dodaj(a, b):
 
 
 
-#it #python #język_programowania
+#it #python #it/język
