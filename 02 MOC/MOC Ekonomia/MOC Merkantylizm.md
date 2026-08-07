@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - moc
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-07 17:46
+---
 
 
 ## Stanowisko
@@ -20,5 +29,3 @@
 
 - Hiszpania i Portugalia sprowadzały złoto z całego świata.
 
-
-#ekonomia #historia/ekonomii

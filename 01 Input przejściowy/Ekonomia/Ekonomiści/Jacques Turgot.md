@@ -2,7 +2,7 @@
 
 
 - 1727-1781
-- Jeden z głównych [[Fizjokratyzm|fizjokratów]].
+- Jeden z głównych [[MOC Fizjokratyzm|fizjokratów]].
 - Minister finansów za Ludwika XVI. Zdymisjonowany w 1776 r. za bycie zbyt skutecznym (wg Skousena). str. 69
 
 Dzieła:

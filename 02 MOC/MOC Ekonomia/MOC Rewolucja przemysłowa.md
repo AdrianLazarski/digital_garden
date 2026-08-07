@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ekonomia
+  - moc
+  - historia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-07 17:49
+---
 
 
 Wozinski: system rezerwy cząstkowej tłumaczy wielki wzrost gospodarczy. 
@@ -7,5 +17,3 @@ Wozinski: system rezerwy cząstkowej tłumaczy wielki wzrost gospodarczy.
 		2. kredyt kupiecki (opóźniona płatność za towar) 
 		3. reinwestycja całych zysków.
 
-
-#ekonomia #historia #historia/gospodarcza 

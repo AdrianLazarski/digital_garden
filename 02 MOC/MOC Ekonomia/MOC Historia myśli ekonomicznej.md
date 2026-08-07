@@ -14,10 +14,10 @@ modified date: 2026-07-10 14:02
 
 [[Arystoteles]]: własność prywatna pozwala praktykować cnoty życzliwości i filantropii
 Mandeville i bajka o pszczołach
-[[Merkantylizm]]
+[[MOC Merkantylizm]]
 XVI-wieczni scholastycy: cena sprawiedliwa to cena rynkowa
 [[Richard Cantillon]]
-[[Fizjokratyzm]]: [[Francois Quesnay]], [[Jacques Turgot]]
+[[MOC Fizjokratyzm]]: [[Francois Quesnay]], [[Jacques Turgot]]
 [[David Hume]]
 [[Étienne de Condillac]]
 
@@ -34,3 +34,4 @@ XVI-wieczni scholastycy: cena sprawiedliwa to cena rynkowa
 [[MOC Keynesizm]]
 [[MOC Postkeynesizm]]
 [[MOC Nowoczesna teoria monetarna MMT]]
+[[MOC Ekonomia behawioralna]]

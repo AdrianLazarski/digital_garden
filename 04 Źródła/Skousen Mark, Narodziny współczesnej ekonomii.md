@@ -67,7 +67,7 @@ The Making of Modern Economics, 2001
 - Francois Quesney
 	- 1694-1774
 	- Osobisty lekarz ulubionej kochanki Ludwika XV.
-	- Główny przedstawiciel [[Fizjokratyzm|fizjokratów]].
+	- Główny przedstawiciel [[MOC Fizjokratyzm|fizjokratów]].
 	- Autor słynnej *Tableau economique*, 1758
 	- Autor hasła *Laissez-faire, laissez-passer*.
 	- Rolnictwo jedynym produktywnym działem gospodarki, a przemysł jest jałowy i bezproduktywny.

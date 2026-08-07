@@ -18,4 +18,4 @@ modified date: 2026-07-10 16:01
 [[Peter Schiff]]
 [[Marks Skousen]]
 [[Jesús Huerta de Soto]]
-
+[[Hans Herman Hoppe]]

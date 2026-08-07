@@ -11,21 +11,9 @@
             "id": "b469543585e1dba6",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "03 Atomy/załączniki/Pasted image 20240616195407.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240616195407"
-            }
-          },
-          {
-            "id": "ef903653377c4890",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Historia/06 Państwa/Historia Wielkiej Brytanii.md",
+                "file": "01 Input przejściowy/Ekonomia/Ekonomiści/Adam Smith.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Historia Wielkiej Brytanii"
+              "title": "Adam Smith"
             }
           },
           {
@@ -49,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Makroekonomia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofowie"
+              "title": "MOC Makroekonomia"
             }
           },
           {
@@ -91,8 +79,7 @@
               "title": "Jasiński Łukasz, Agonia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,11 +282,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef903653377c4890",
+  "active": "b469543585e1dba6",
   "lastOpenFiles": [
+    "02 MOC/MOC Ekonomia/MOC Rewolucja przemysłowa.md",
+    "02 MOC/MOC Ekonomia/MOC Makroekonomia.md",
+    "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
+    "02 MOC/MOC Ekonomia.md",
+    "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
+    "02 MOC/MOC Ekonomia/MOC Fizjokratyzm.md",
+    "02 MOC/MOC Ekonomia/MOC Merkantylizm.md",
+    "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
+    "02 MOC/MOC Ekonomia/MOC Ekonomia behawioralna.md",
+    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
+    "02 MOC/MOC Ekonomia/MOC Ekonomiści ASE.md",
+    "01 Input przejściowy/Ekonomia/Nurty/Austriacka szkoła ekonomii.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "01 Input przejściowy/Historia/06 Państwa/Historia Wielkiej Brytanii.md",
+    "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "02 MOC/MOC Historia.md",
     "02 MOC/MOC Historia/MOC Historia nauki.md",
-    "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "05 Osoby/Perykles.md",
     "03 Atomy/Kilogram.md",
     "01 Input przejściowy/Historia/Historia nauki.md",
@@ -310,19 +311,6 @@
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia/MOC Filozofia historii.md",
     "01 Input przejściowy/Historia/Historiozofia.md",
-    "02 MOC/MOC Fizyka.md",
-    "02 MOC/MOC Fizyka/MOC Działy fizyki.md",
-    "02 MOC/MOC Fizyka/MOC Fizyka klasyczna.md",
-    "02 MOC/MOC Fizyka/MOC Mechanika klasyczna.md",
-    "03 Atomy/Metr.md",
-    "03 Atomy/Wielkości podstawowe.md",
-    "02 MOC/MOC Fizyka/MOC Jednostki fizyczne.md",
-    "02 MOC/MOC Fizyka/MOC Fizyka jądrowa.md",
-    "03 Atomy/Masa.md",
-    "03 Atomy/Atom.md",
-    "02 MOC/MOC Fizyka/MOC Termodynamika.md",
-    "03 Atomy/Cząsteczka.md",
-    "02 MOC/MOC Fizyka/MOC Fizyka materii skondensowanej.md",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
     "03 Atomy/załączniki/Pasted image 20240328192628.png",

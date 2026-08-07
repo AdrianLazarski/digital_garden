@@ -18,4 +18,6 @@ modified date: 2026-07-10 14:00
 [[Podatek liniowy]]
 [[Podatek progresywny]]
 [[MOC Podatki]]
+[[MOC Praca dzieci]]
+[[MOC Rewolucja przemysłowa]]
 [[MOC Stopy procentowe]]
