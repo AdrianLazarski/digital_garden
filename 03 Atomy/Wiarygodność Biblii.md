@@ -1,9 +1,12 @@
 ---
 created: 2026-02-28 19:46
-tags: [atom, definicja]
+tags:
+  - atom
+  - definicja
+  - chrześcijaństwo/apologetyka
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date : 2026-08-07 18:50
+modified date: 2026-08-07 18:50
 ---
 
 
@@ -71,4 +74,3 @@ Za: Alfred J.Pall Sekrety Biblii, Wydawnictwo Betezda 2002
 
 
 
-#historia/chrześcijaństwa 

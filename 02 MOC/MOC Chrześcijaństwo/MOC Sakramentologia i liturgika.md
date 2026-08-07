@@ -14,4 +14,5 @@ Nauka o ustanowionych przez Chrystusa znakach łaski (sakramentach) oraz struktu
 
 [[Relikwie]]
 
+[[Kult świętych]]
 

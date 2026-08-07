@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - chrześcijaństwo/teologia/sakramentologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-07 18:52
+---
 
 ## Argumenty za:
 
@@ -10,5 +20,3 @@
 		- Kawałek dalej jest "Że i samo stworzenie będzie wyzwolone z niewoli skażenia ku chwalebnej wolności dzieci Bożych." Chwała to raczej wolność, a nie bycie przedmiotem kultu.
 
 
-
-#chrześcijaństwo #papizm 

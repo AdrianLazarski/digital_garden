@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Wiarygodność Biblii.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Albert Wielki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wiarygodność Biblii"
-            }
-          },
-          {
-            "id": "7515cce8f7b0f65b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Chrześcijaństwo/MOC Teologia dogmatyczna.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Teologia dogmatyczna"
+              "title": "Albert Wielki"
             }
           },
           {
@@ -308,16 +284,25 @@
   },
   "active": "b469543585e1dba6",
   "lastOpenFiles": [
-    "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Trójca Święta.md",
-    "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Starotestamentowy a nowotestamentowy Bóg.md",
-    "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Państwo w Biblii.md",
-    "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Historyczność Jezusa.md",
-    "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Ewangelie synoptyczne.md",
-    "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Apokatastaza.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Teologia dogmatyczna.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Teologia chrześcijańska.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Gazali.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Kindi.md",
+    "03 Atomy/Woda święcona.md",
+    "03 Atomy/Dogmat o nieomylności papieża.md",
+    "01 Input/Władza w judaizmie.md",
+    "03 Atomy/Relikwie.md",
+    "03 Atomy/Prymat papieski.md",
+    "03 Atomy/Kult świętych.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Sakramentologia i liturgika.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Teologia chrześcijańska.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Teologia dogmatyczna.md",
+    "03 Atomy/Wiarygodność Biblii.md",
+    "03 Atomy/Trójca Święta.md",
+    "03 Atomy/Starotestamentowy a nowotestamentowy Bóg.md",
+    "03 Atomy/Państwo w Biblii.md",
+    "03 Atomy/Historyczność Jezusa.md",
+    "03 Atomy/Ewangelie synoptyczne.md",
+    "03 Atomy/Apokatastaza.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Krytyka papizmu.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Eklezjologia.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Apologetyka.md",
@@ -325,15 +310,6 @@
     "02 MOC/MOC Chrześcijaństwo/MOC Biblistyka.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Reformacja.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Kindi.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Gazali.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Farabi.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Abubacer.md",
-    "02 MOC/MOC Religia.md",
-    "02 MOC/MOC Ekonomia/MOC Ekonomiści.md",
-    "05 Osoby/Adam Smith.md",
-    "05 Osoby/Richard Cantillon.md",
-    "05 Osoby/Murray Rothbard.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
