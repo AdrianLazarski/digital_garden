@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - moc
+  - chrześcijaństwo/historia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-07 18:25
+---
 
 - Wzmocniła element wolnej woli i odpowiedzialności w myśleniu etycznym przez podważenie autorytetu Kościoła. 
 	- Ta paradoksalna teza pochodzi od dr hab. Płotki.
@@ -28,5 +37,3 @@
 - 1517 Wystąpienie Lutra w Wittenberdze.
 
 
-
-#chrześcijaństwo #historia/chrześcijaństwa 

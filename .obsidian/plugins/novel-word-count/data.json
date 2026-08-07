@@ -94290,16 +94290,16 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.02666666666666667,
-      "characterCount": 93,
+      "characterCount": 95,
       "nonWhitespaceCharacterCount": 79,
-      "newlineCount": 11,
+      "newlineCount": 13,
       "readingTimeInMinutes": 0.03018867924528302,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1785169061908,
-      "modifiedDate": 1786119152900,
-      "sizeInBytes": 264,
+      "modifiedDate": 1786120177290,
+      "sizeInBytes": 266,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.01,
@@ -121462,20 +121462,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 66,
+      "wordCount": 62,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.22,
-      "characterCount": 756,
-      "nonWhitespaceCharacterCount": 654,
-      "newlineCount": 35,
-      "readingTimeInMinutes": 0.2490566037735849,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 698,
+      "nonWhitespaceCharacterCount": 602,
+      "newlineCount": 33,
+      "readingTimeInMinutes": 0.2339622641509434,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304390617,
-      "modifiedDate": 1785695353845,
-      "sizeInBytes": 811,
+      "modifiedDate": 1786119540809,
+      "sizeInBytes": 925,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.22,
@@ -121483,6 +121483,16 @@
         "characterCount": 756,
         "nonWhitespaceCharacterCount": 654,
         "newlineCount": 35
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "ref",
+          "filozofia/średniowieczna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-07 18:18"
       }
     },
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Farabi.md.edtz": {
@@ -121516,20 +121526,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 152,
+      "wordCount": 146,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5066666666666667,
-      "characterCount": 1468,
-      "nonWhitespaceCharacterCount": 1277,
-      "newlineCount": 40,
-      "readingTimeInMinutes": 0.5735849056603773,
+      "pageCount": 0.4866666666666667,
+      "characterCount": 1369,
+      "nonWhitespaceCharacterCount": 1186,
+      "newlineCount": 39,
+      "readingTimeInMinutes": 0.5509433962264151,
       "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304390605,
-      "modifiedDate": 1785695353830,
-      "sizeInBytes": 1553,
+      "modifiedDate": 1786119558505,
+      "sizeInBytes": 1626,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.5066666666666667,
@@ -121537,6 +121547,16 @@
         "characterCount": 1468,
         "nonWhitespaceCharacterCount": 1277,
         "newlineCount": 40
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "ref",
+          "filozofia/średniowieczna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-07 18:19"
       }
     },
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Abubacer.md.edtz": {
@@ -121570,20 +121590,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 227,
+      "wordCount": 223,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7566666666666667,
-      "characterCount": 2007,
-      "nonWhitespaceCharacterCount": 1744,
+      "pageCount": 0.7433333333333333,
+      "characterCount": 1951,
+      "nonWhitespaceCharacterCount": 1692,
       "newlineCount": 38,
-      "readingTimeInMinutes": 0.8566037735849057,
+      "readingTimeInMinutes": 0.8415094339622642,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304390589,
-      "modifiedDate": 1785695353817,
-      "sizeInBytes": 2142,
+      "modifiedDate": 1786119529436,
+      "sizeInBytes": 2258,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.7566666666666667,
@@ -121591,6 +121611,16 @@
         "characterCount": 2007,
         "nonWhitespaceCharacterCount": 1744,
         "newlineCount": 38
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "ref",
+          "filozofia/średniowieczna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-07 18:18"
       }
     },
     "01 Input przejściowy/Filozofia/Filozofia.md.edtz": {
@@ -121836,33 +121866,6 @@
         "newlineCount": 0
       }
     },
-    "01 Input przejściowy/Chrześcijaństwo/Teologia.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 102,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.34,
-      "characterCount": 785,
-      "nonWhitespaceCharacterCount": 666,
-      "newlineCount": 21,
-      "readingTimeInMinutes": 0.3849056603773585,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304382997,
-      "modifiedDate": 1718556114055,
-      "sizeInBytes": 810,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.34,
-        "wordCount": 102,
-        "characterCount": 785,
-        "nonWhitespaceCharacterCount": 666,
-        "newlineCount": 21
-      }
-    },
     "01 Input przejściowy/Chrześcijaństwo/Reformacja.md.edtz": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -121888,33 +121891,6 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
-      }
-    },
-    "01 Input przejściowy/Chrześcijaństwo/Reformacja.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 82,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.2733333333333333,
-      "characterCount": 743,
-      "nonWhitespaceCharacterCount": 618,
-      "newlineCount": 32,
-      "readingTimeInMinutes": 0.30943396226415093,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1772304382985,
-      "modifiedDate": 1763641645751,
-      "sizeInBytes": 779,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.2733333333333333,
-        "wordCount": 82,
-        "characterCount": 743,
-        "nonWhitespaceCharacterCount": 618,
-        "newlineCount": 32
       }
     },
     "01 Input przejściowy/Chrześcijaństwo/Papiści/Relikwie.md.edtz": {
@@ -129199,20 +129175,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 2,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 21,
+      "nonWhitespaceCharacterCount": 17,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1786119090164,
-      "modifiedDate": 1786119102597,
-      "sizeInBytes": 177,
+      "modifiedDate": 1786120169886,
+      "sizeInBytes": 197,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129230,6 +129206,70 @@
         "dojrzalosc": "Sadzonka 🌱",
         "status_epistemiczny": "Aksjomatyczny 💎",
         "modified date": "2026-08-07 18:11"
+      }
+    },
+    "02 MOC/MOC Chrześcijaństwo/MOC Reformacja.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 80,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.26666666666666666,
+      "characterCount": 700,
+      "nonWhitespaceCharacterCount": 577,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 0.3018867924528302,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304382985,
+      "modifiedDate": 1786119972722,
+      "sizeInBytes": 906,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "moc",
+          "chrześcijaństwo/historia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-07 18:25"
+      }
+    },
+    "01 Input przejściowy/Chrześcijaństwo/MOC Teologia chrześcijańska.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 127,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.42333333333333334,
+      "characterCount": 1072,
+      "nonWhitespaceCharacterCount": 916,
+      "newlineCount": 33,
+      "readingTimeInMinutes": 0.47924528301886793,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772304382997,
+      "modifiedDate": 1786120218135,
+      "sizeInBytes": 1108,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }

@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - moc
+  - chrześcijaństwo/teologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-07 18:29
+---
+
+Główny indeks dyscypliny teologicznej, spinający poszczególne działy teologii systematycznej, egzegetycznej, historycznej i polemicznej.
+
 
 - Filozofia warunkiem wstępnym teologii.
 - Teologia nie jest tożsama z religią. Wiara religijna jest tożsama z wiedzą religijną tylko w gnozie.
@@ -18,4 +30,3 @@ Teologia negatywna (apofatyczna) stwierdza, że Bóg jest zupełnie niedostępny
 A. B. Stępień, Wprowadzenie do filozofii, Lublin 2001 , s. 43.
 
 
-#teologia #filozofia 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Ewangelie synoptyczne.md",
+                "file": "01 Input przejściowy/Chrześcijaństwo/MOC Teologia chrześcijańska.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ewangelie synoptyczne"
+              "title": "MOC Teologia chrześcijańska"
             }
           },
           {
@@ -103,8 +103,7 @@
               "title": "Jasiński Łukasz, Agonia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,17 +306,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7515cce8f7b0f65b",
+  "active": "b469543585e1dba6",
   "lastOpenFiles": [
+    "02 MOC/MOC Chrześcijaństwo/MOC Reformacja.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md",
     "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Ewangelie synoptyczne.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Kindi.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Gazali.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Farabi.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Abubacer.md",
     "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Apokatastaza.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Literatura chrześcijańska.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md",
     "02 MOC/MOC Religia.md",
     "02 MOC/MOC Ekonomia/MOC Ekonomiści.md",
     "05 Osoby/Adam Smith.md",
@@ -334,7 +334,6 @@
     "05 Osoby/Francois Quesnay.md",
     "05 Osoby/Eugene Böhm-Bawerk.md",
     "05 Osoby/Elinor Ostrom.md",
-    "05 Osoby/Carl Menger.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
