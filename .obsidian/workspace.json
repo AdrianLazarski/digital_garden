@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Historia.md",
+                "file": "01 Input przejściowy/Historia/06 Państwa/Historia Wielkiej Brytanii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Historia"
+              "title": "Historia Wielkiej Brytanii"
             }
           },
           {
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Historia.md",
+                "file": "01 Input przejściowy/Historia/06 Państwa/Historia Wielkiej Brytanii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -297,12 +297,12 @@
   },
   "active": "ef903653377c4890",
   "lastOpenFiles": [
+    "02 MOC/MOC Historia.md",
     "02 MOC/MOC Historia/MOC Historia nauki.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "05 Osoby/Perykles.md",
     "03 Atomy/Kilogram.md",
     "01 Input przejściowy/Historia/Historia nauki.md",
-    "02 MOC/MOC Historia.md",
     "01 Input przejściowy/Historia/Historia.md",
     "04 Źródła/Bocheński Józef, Zarys historii filozofii.md",
     "02 MOC/MOC.md",
