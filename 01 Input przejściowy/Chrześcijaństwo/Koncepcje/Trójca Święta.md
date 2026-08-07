@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - chrześcijaństwo/teologia/dogmatyczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-07 18:50
+---
 
 - Osoby Trójcy nie są sobie podległe co do istoty. 
 	- Ojciec jest pierwszy, Syn drugi, Duch trzeci co do "porządku istnienia"/porządku objawiania się w świecie[^1].

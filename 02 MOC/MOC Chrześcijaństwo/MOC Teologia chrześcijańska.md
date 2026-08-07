@@ -28,3 +28,9 @@ A. B. Stępień, Wprowadzenie do filozofii, Lublin 2001 , s. 43.
 
 
 [[MOC Teologia dogmatyczna]]
+
+[[MOC Eklezjologia]]
+
+[[MOC Sakramentologia i liturgika]]
+
+[[MOC Krytyka papizmu]]

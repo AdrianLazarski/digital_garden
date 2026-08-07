@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - chrześcijaństwo/biblia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-07 18:49
+---
 
 
 Ps 103 pokazuje jasno, że Bóg był miłosierny od zawsze.
@@ -27,4 +37,3 @@ Ps 103 pokazuje jasno, że Bóg był miłosierny od zawsze.
 > 22. Błogosławcie Panu, wszystkie dzieła jego Na wszystkich miejscach panowania jego! Błogosław, duszo moja, Panu!
 
 
-#chrześcijaństwo 

@@ -1,3 +1,10 @@
+---
+created: 2026-02-28 19:46
+tags: [atom, definicja]
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date : 2026-08-07 18:50
+---
 
 
 - To prawda, że nie mamy rękopisów ksiąg biblijnych, ale analogicznie jest z większością starożytnych tekstów. Nie mamy oryginałów Tacyta, Herodota, czy Cezara, ale nikomu by nie przyszło do głowy, by kwestionować wiarygodność ich tekstów, które znamy dzisiaj.
