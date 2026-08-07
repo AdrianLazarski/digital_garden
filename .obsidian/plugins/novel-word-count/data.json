@@ -94286,20 +94286,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 8,
+      "wordCount": 15,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 95,
-      "nonWhitespaceCharacterCount": 79,
-      "newlineCount": 13,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 3,
+      "pageCount": 0.05,
+      "characterCount": 166,
+      "nonWhitespaceCharacterCount": 143,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1785169061908,
-      "modifiedDate": 1786120177290,
-      "sizeInBytes": 266,
+      "modifiedDate": 1786120390997,
+      "sizeInBytes": 339,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.01,
@@ -129245,24 +129245,24 @@
         "modified date": "2026-08-07 18:25"
       }
     },
-    "01 Input przejściowy/Chrześcijaństwo/MOC Teologia chrześcijańska.md": {
+    "02 MOC/MOC Chrześcijaństwo/MOC Teologia chrześcijańska.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 127,
+      "wordCount": 116,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.42333333333333334,
-      "characterCount": 1072,
-      "nonWhitespaceCharacterCount": 916,
-      "newlineCount": 33,
-      "readingTimeInMinutes": 0.47924528301886793,
-      "linkCount": 0,
+      "pageCount": 0.38666666666666666,
+      "characterCount": 930,
+      "nonWhitespaceCharacterCount": 797,
+      "newlineCount": 23,
+      "readingTimeInMinutes": 0.4377358490566038,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304382997,
-      "modifiedDate": 1786120218135,
-      "sizeInBytes": 1108,
+      "modifiedDate": 1786120522752,
+      "sizeInBytes": 1134,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -129270,6 +129270,127 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "moc",
+          "chrześcijaństwo/teologia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-07 18:29"
+      }
+    },
+    "02 MOC/MOC Chrześcijaństwo/MOC Biblistyka.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 222,
+      "nonWhitespaceCharacterCount": 194,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1786120301070,
+      "modifiedDate": 1786120365905,
+      "sizeInBytes": 403,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-08-07 18:31",
+        "tags": [
+          "moc",
+          "chrześcijaństwo/biblia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-07 18:31"
+      }
+    },
+    "02 MOC/MOC Chrześcijaństwo/MOC Apologetyka.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 31,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 319,
+      "nonWhitespaceCharacterCount": 279,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.1169811320754717,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1786120392026,
+      "modifiedDate": 1786120492227,
+      "sizeInBytes": 517,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-08-07 18:33",
+        "tags": [
+          "moc",
+          "chrześcijaństwo/apologetyka"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-08-07 18:33"
+      }
+    },
+    "02 MOC/MOC Chrześcijaństwo/MOC Teologia dogmatyczna.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 52,
+      "nonWhitespaceCharacterCount": 39,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1786120523284,
+      "modifiedDate": 1786120561668,
+      "sizeInBytes": 243,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-08-07 18:35",
+        "tags": [
+          "moc",
+          "chrześcijaństwo/teologia/dogmatyczna"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-07 18:35"
       }
     }
   }
