@@ -94286,20 +94286,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 68,
-      "nonWhitespaceCharacterCount": 56,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 93,
+      "nonWhitespaceCharacterCount": 79,
       "newlineCount": 11,
-      "readingTimeInMinutes": 0.018867924528301886,
-      "linkCount": 2,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1785169061908,
-      "modifiedDate": 1786118885963,
-      "sizeInBytes": 237,
+      "modifiedDate": 1786119152900,
+      "sizeInBytes": 264,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.01,
@@ -129193,6 +129193,43 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      }
+    },
+    "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1786119090164,
+      "modifiedDate": 1786119102597,
+      "sizeInBytes": 177,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "created": "2026-08-07 18:11",
+        "tags": [
+          "moc",
+          "chrześcijaństwo/historia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Aksjomatyczny 💎",
+        "modified date": "2026-08-07 18:11"
       }
     }
   }
