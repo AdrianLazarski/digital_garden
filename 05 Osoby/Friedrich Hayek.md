@@ -1,9 +1,12 @@
 ---
 created: 2026-02-28 19:46
-tags: [atom, definicja]
+tags:
+  - ref
+  - ekonomia
+  - filozofia/współczesna
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date : 2026-08-07 18:00
+modified date: 2026-08-07 18:00
 ---
 
 
@@ -21,7 +24,7 @@ modified date : 2026-08-07 18:00
 
 - 1899-1992
 - Urodzony i pochowany w Wiedniu.
-- [[Austriacka szkoła ekonomii|Ekonomista austriacki]], filozof polityki i prawa.
+- Ekonomista, filozof polityki i prawa.
 - Noblista z ekonomii w 1974 r. 
 - Skłamał o swoim wieku i mając 15 lat zaciągnął się do armii austriackiej.
 - W 1921 r. obronił doktorat z prawa, a w 1923 z politologii.
@@ -49,7 +52,3 @@ modified date : 2026-08-07 18:00
 
 # Polecane 👇
 
-
-
-
-###### Tagi: #filozofia #osoba #filozofia/współczesna #ekonomia #osoba #filozofia/prawa #filozofia/polityki #liberalizm #ase #filozofia/austriacka 

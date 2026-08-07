@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-07 18:03
+---
 
 
 - Według [[Murray Rothbard|Rothbarda]] ojciec współczesnej ekonomii.
@@ -14,4 +23,3 @@ Poglądy:
 - Inflacja nie tylko podnosi ogólny poziom cen, ale też zmienia ich strukturę.
 - Podkreślał rolę przedsiębiorcy.
 
-#ekonomia 

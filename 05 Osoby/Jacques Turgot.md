@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-07 18:02
+---
 
 
 
@@ -19,4 +28,3 @@ Poglądy:
 - Opisał prawo malejących przychodów.
 - Rolnictwo najważniejsze, przemysł jest bezproduktywny.
 
-#ekonomia #osoba 

@@ -1,9 +1,19 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - definicja
+  - chrześcijaństwo/teologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-07 18:04
+---
 
 
 
 
 
-## Argumenty za
+## Argumenty za apokatastazą
 
 - 1 Tm 2, 1-6
 > [!bible] [1 Timothy 2:1-6 - BW](https://bolls.life/BW/54/2/)
@@ -31,8 +41,6 @@
 - Dydym Ślepy
 - Ewagriusz z Pontu
 - Diodor z Tarsu
-- Teodor z Mopsuestuu
+- Teodor z Mopsuestu
 - [[Jan Szkot Eriugena]]
 
-
-#teologia #chrześcijaństwo 

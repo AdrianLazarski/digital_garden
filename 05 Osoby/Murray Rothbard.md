@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-07 18:03
+---
 
 
 
@@ -34,6 +44,3 @@
 # Polecane 👇
 
 
-
-
-###### Tagi: #filozofia #osoba #filozofia/współczesna #filozofia/amerykańska #libertarianizm #filozofia/prawa #filozofia/polityki #ekonomia #ase 

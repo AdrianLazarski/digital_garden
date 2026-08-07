@@ -3,9 +3,7 @@ created: 2026-02-28 19:46
 tags:
   - ref
   - ekonomia
-  - filozofia/austriacka
   - filozofia/współczesna
-  - liberalizm
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-13 22:08

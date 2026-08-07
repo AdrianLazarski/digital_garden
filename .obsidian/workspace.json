@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Ekonomiści/Friedrich Hayek.md",
+                "file": "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Apokatastaza.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Friedrich Hayek"
+              "title": "Apokatastaza"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Ekonomiści.md",
+                "file": "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Ekonomiści"
+              "title": "MOC Chrześcijaństwo"
             }
           },
           {
@@ -79,7 +79,8 @@
               "title": "Jasiński Łukasz, Agonia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#logika/matematyczna",
+                "query": "tag:#filozofia/austriacka",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -138,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 652.5
   },
   "right": {
     "id": "4ad49cb6801c593c",
@@ -282,15 +283,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b469543585e1dba6",
+  "active": "7515cce8f7b0f65b",
   "lastOpenFiles": [
-    "01 Input przejściowy/Ekonomia/Ekonomiści/Francois Quesnay.md",
-    "01 Input przejściowy/Ekonomia/Ekonomiści/Eugene Böhm-Bawerk.md",
-    "01 Input przejściowy/Ekonomia/Ekonomiści/Elinor Ostrom.md",
-    "01 Input przejściowy/Ekonomia/Ekonomiści/Carl Menger.md",
-    "01 Input przejściowy/Ekonomia/Ekonomiści/Adam Smith.md",
+    "01 Input przejściowy/Chrześcijaństwo/Koncepcje/Apokatastaza.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
+    "02 MOC/MOC Religia.md",
     "02 MOC/MOC Ekonomia/MOC Ekonomiści.md",
-    "01 Input przejściowy/Ekonomia/Ekonomiści/Richard Cantillon.md",
+    "05 Osoby/Adam Smith.md",
+    "05 Osoby/Richard Cantillon.md",
+    "05 Osoby/Murray Rothbard.md",
+    "05 Osoby/Ludwig von Mises.md",
+    "05 Osoby/Joseph Schumpeter.md",
+    "05 Osoby/John Maynard Keynes.md",
+    "05 Osoby/Jacques Turgot.md",
+    "05 Osoby/Herbert Simon.md",
+    "05 Osoby/Gustav Schmoller.md",
+    "05 Osoby/Friedrich von Wieser.md",
+    "05 Osoby/Friedrich Hayek.md",
+    "05 Osoby/Francois Quesnay.md",
+    "05 Osoby/Eugene Böhm-Bawerk.md",
+    "05 Osoby/Elinor Ostrom.md",
+    "05 Osoby/Carl Menger.md",
     "02 MOC/MOC Ekonomia.md",
     "02 MOC/MOC Ekonomia/MOC Makroekonomia.md",
     "02 MOC/MOC Ekonomia/MOC Rewolucja przemysłowa.md",
@@ -298,19 +311,7 @@
     "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
     "02 MOC/MOC Ekonomia/MOC Fizjokratyzm.md",
     "02 MOC/MOC Ekonomia/MOC Merkantylizm.md",
-    "02 MOC/MOC Ekonomia/MOC Austriacka szkoła ekonomii.md",
-    "02 MOC/MOC Ekonomia/MOC Ekonomia behawioralna.md",
-    "02 MOC/MOC Ekonomia/MOC Nowoczesna teoria monetarna MMT.md",
-    "02 MOC/MOC Ekonomia/MOC Ekonomiści ASE.md",
-    "01 Input przejściowy/Ekonomia/Nurty/Austriacka szkoła ekonomii.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
-    "01 Input przejściowy/Historia/06 Państwa/Historia Wielkiej Brytanii.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
-    "02 MOC/MOC Historia.md",
-    "02 MOC/MOC Historia/MOC Historia nauki.md",
-    "05 Osoby/Perykles.md",
-    "03 Atomy/Kilogram.md",
-    "01 Input przejściowy/Historia/Historia nauki.md",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
     "03 Atomy/załączniki/Pasted image 20240328192628.png",
