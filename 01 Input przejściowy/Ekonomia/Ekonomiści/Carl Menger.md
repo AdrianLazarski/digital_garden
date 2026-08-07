@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-07 17:52
+---
 
 
 - 1840-1921
@@ -28,5 +37,3 @@
 - Jednostki użyteczności są dyskretne.
 
 
-
-#ekonomia #ase #osoba 

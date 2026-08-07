@@ -9,7 +9,6 @@ modified date: 2026-07-10 14:02
 ---
 [[Arystoteles]]: własność prywatna pozwala praktykować cnoty życzliwości i filantropii
 Mandeville
-[[MOC Merkantylizm]]
 
 [[Richard Cantillon]]
 [[Francois Quesnay]]

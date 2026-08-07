@@ -83,6 +83,3 @@ modified date: 2026-08-07 17:50
 
 
 
-
-###### Tagi: #filozofia #osoba #ekonomia #filozofia/nowożytna #filozofia/brytyjska #filozofia/szkocka #osoba 
-

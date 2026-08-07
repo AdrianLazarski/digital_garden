@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-07 17:52
+---
 
 
 - 1861-1914
@@ -13,6 +22,3 @@
 - Jego podobizna znajdowała się na stu szylingowym banknocie w latach 1984–2002
 - Studiowali u niego [[Joseph Schumpeter]], [[Ludwig von Mises]] i Henryk Grossman.
 - Przedstawiciel [[Austriacka szkoła ekonomii|ASE]].
-
-
-#ekonomia #osoba #ase 

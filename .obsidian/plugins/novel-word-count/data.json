@@ -93804,20 +93804,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 51,
+      "wordCount": 50,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.17,
-      "characterCount": 477,
-      "nonWhitespaceCharacterCount": 425,
-      "newlineCount": 23,
-      "readingTimeInMinutes": 0.19245283018867926,
-      "linkCount": 20,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 460,
+      "nonWhitespaceCharacterCount": 409,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 0.18867924528301888,
+      "linkCount": 19,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1783684933361,
-      "modifiedDate": 1783685142562,
-      "sizeInBytes": 643,
+      "modifiedDate": 1786117901339,
+      "sizeInBytes": 626,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.17,
@@ -122751,20 +122751,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 41,
+      "wordCount": 42,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13666666666666666,
-      "characterCount": 423,
-      "nonWhitespaceCharacterCount": 373,
-      "newlineCount": 10,
-      "readingTimeInMinutes": 0.15471698113207547,
+      "pageCount": 0.14,
+      "characterCount": 428,
+      "nonWhitespaceCharacterCount": 376,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 0.15849056603773584,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384537,
-      "modifiedDate": 1785695549463,
-      "sizeInBytes": 431,
+      "modifiedDate": 1786117972764,
+      "sizeInBytes": 592,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.13666666666666666,
@@ -122772,6 +122772,16 @@
         "characterCount": 423,
         "nonWhitespaceCharacterCount": 373,
         "newlineCount": 10
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "ref",
+          "ekonomia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-07 17:52"
       }
     },
     "01 Input przejściowy/Ekonomia/Ekonomiści/Eugene Böhm-Bawerk.md.edtz": {
@@ -122805,20 +122815,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 109,
+      "wordCount": 106,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.36333333333333334,
-      "characterCount": 819,
-      "nonWhitespaceCharacterCount": 694,
-      "newlineCount": 18,
-      "readingTimeInMinutes": 0.41132075471698115,
+      "pageCount": 0.35333333333333333,
+      "characterCount": 796,
+      "nonWhitespaceCharacterCount": 675,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.4,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384521,
-      "modifiedDate": 1785695549370,
-      "sizeInBytes": 852,
+      "modifiedDate": 1786117955292,
+      "sizeInBytes": 985,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.36333333333333334,
@@ -122826,6 +122836,16 @@
         "characterCount": 819,
         "nonWhitespaceCharacterCount": 694,
         "newlineCount": 18
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "ref",
+          "ekonomia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-07 17:52"
       }
     },
     "01 Input przejściowy/Ekonomia/Ekonomiści/Elinor Ostrom.md.edtz": {
@@ -122859,20 +122879,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 86,
+      "wordCount": 84,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.2866666666666667,
-      "characterCount": 667,
-      "nonWhitespaceCharacterCount": 574,
+      "pageCount": 0.28,
+      "characterCount": 651,
+      "nonWhitespaceCharacterCount": 559,
       "newlineCount": 8,
-      "readingTimeInMinutes": 0.32452830188679244,
+      "readingTimeInMinutes": 0.3169811320754717,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384503,
-      "modifiedDate": 1785695549351,
-      "sizeInBytes": 708,
+      "modifiedDate": 1786117945717,
+      "sizeInBytes": 871,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2866666666666667,
@@ -122880,6 +122900,18 @@
         "characterCount": 667,
         "nonWhitespaceCharacterCount": 574,
         "newlineCount": 8
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "atom",
+          "definicja",
+          "ref",
+          "ekonomia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-07 17:52"
       }
     },
     "01 Input przejściowy/Ekonomia/Ekonomiści/Carl Menger.md.edtz": {
@@ -122913,20 +122945,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 297,
+      "wordCount": 294,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.99,
-      "characterCount": 2293,
-      "nonWhitespaceCharacterCount": 1965,
+      "pageCount": 0.98,
+      "characterCount": 2271,
+      "nonWhitespaceCharacterCount": 1946,
       "newlineCount": 32,
-      "readingTimeInMinutes": 1.120754716981132,
+      "readingTimeInMinutes": 1.109433962264151,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384488,
-      "modifiedDate": 1785695549343,
-      "sizeInBytes": 2395,
+      "modifiedDate": 1786117933707,
+      "sizeInBytes": 2529,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.99,
@@ -122934,6 +122966,16 @@
         "characterCount": 2293,
         "nonWhitespaceCharacterCount": 1965,
         "newlineCount": 32
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "ref",
+          "ekonomia"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-07 17:52"
       }
     },
     "01 Input przejściowy/Ekonomia/Ekonomiści/Adam Smith.md.edtz": {
@@ -122967,20 +123009,20 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 616,
+      "wordCount": 608,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.0533333333333332,
-      "characterCount": 4935,
-      "nonWhitespaceCharacterCount": 4240,
-      "newlineCount": 80,
-      "readingTimeInMinutes": 2.3245283018867924,
+      "pageCount": 2.026666666666667,
+      "characterCount": 4824,
+      "nonWhitespaceCharacterCount": 4140,
+      "newlineCount": 78,
+      "readingTimeInMinutes": 2.2943396226415094,
       "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1772304384471,
-      "modifiedDate": 1785695549314,
-      "sizeInBytes": 5224,
+      "modifiedDate": 1786117862290,
+      "sizeInBytes": 5268,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.0533333333333332,
@@ -122988,6 +123030,16 @@
         "characterCount": 4935,
         "nonWhitespaceCharacterCount": 4240,
         "newlineCount": 80
+      },
+      "frontmatter": {
+        "created": "2026-02-28 19:46",
+        "tags": [
+          "ekonomia",
+          "ref"
+        ],
+        "dojrzalosc": "Sadzonka 🌱",
+        "status_epistemiczny": "Spekulatywny ❓",
+        "modified date": "2026-08-07 17:50"
       }
     },
     "01 Input przejściowy/Ekonomia/Ekonomia.md.edtz": {

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Ekonomia/Ekonomiści/Adam Smith.md",
+                "file": "01 Input przejściowy/Ekonomia/Ekonomiści/Friedrich Hayek.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adam Smith"
+              "title": "Friedrich Hayek"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Makroekonomia.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Ekonomiści.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Makroekonomia"
+              "title": "MOC Ekonomiści"
             }
           },
           {
@@ -284,10 +284,17 @@
   },
   "active": "b469543585e1dba6",
   "lastOpenFiles": [
-    "02 MOC/MOC Ekonomia/MOC Rewolucja przemysłowa.md",
-    "02 MOC/MOC Ekonomia/MOC Makroekonomia.md",
-    "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
+    "01 Input przejściowy/Ekonomia/Ekonomiści/Francois Quesnay.md",
+    "01 Input przejściowy/Ekonomia/Ekonomiści/Eugene Böhm-Bawerk.md",
+    "01 Input przejściowy/Ekonomia/Ekonomiści/Elinor Ostrom.md",
+    "01 Input przejściowy/Ekonomia/Ekonomiści/Carl Menger.md",
+    "01 Input przejściowy/Ekonomia/Ekonomiści/Adam Smith.md",
+    "02 MOC/MOC Ekonomia/MOC Ekonomiści.md",
+    "01 Input przejściowy/Ekonomia/Ekonomiści/Richard Cantillon.md",
     "02 MOC/MOC Ekonomia.md",
+    "02 MOC/MOC Ekonomia/MOC Makroekonomia.md",
+    "02 MOC/MOC Ekonomia/MOC Rewolucja przemysłowa.md",
+    "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
     "02 MOC/MOC Ekonomia/MOC Historia myśli ekonomicznej.md",
     "02 MOC/MOC Ekonomia/MOC Fizjokratyzm.md",
     "02 MOC/MOC Ekonomia/MOC Merkantylizm.md",
@@ -304,13 +311,6 @@
     "05 Osoby/Perykles.md",
     "03 Atomy/Kilogram.md",
     "01 Input przejściowy/Historia/Historia nauki.md",
-    "01 Input przejściowy/Historia/Historia.md",
-    "04 Źródła/Bocheński Józef, Zarys historii filozofii.md",
-    "02 MOC/MOC.md",
-    "02 MOC/MOC Filozofia.md",
-    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia historii.md",
-    "01 Input przejściowy/Historia/Historiozofia.md",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
     "03 Atomy/załączniki/Pasted image 20240328192628.png",
