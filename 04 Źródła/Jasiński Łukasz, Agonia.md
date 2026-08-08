@@ -177,7 +177,9 @@ Wrocław 2024 r.
 	- Koszty pomaga też obniżać turystyka medyczna. Kolesiowi poza wale chcieli wstawić bypassy za 150 tys. dolarów. Jak szpital się dowiedział, że rodzina znalazła mu operację we Francji za 15 tys., to zaproponował najpierw operację za 50 tys., a potem za 25 tys. 6 razy taniej. Na szczęście oburzona rodzina się nie zgodziła.
 	- Istnieją instytucje akredytujące podmioty i usługi medyczne również na poziomie międzynarodowym. 
 	- Co ciekawe nawet takie ośrodki medyczne, jak Uniwersytet Harvarda, U w Bostonie, czy U Johna Hopkinsa zakładają własne szpitale i kliniki, by przejąć dla siebie coś z tego rynku.
-	- 
+
+- Szpitale prowadzą bardzo nietransparentną politykę cenową. Pacjenci często nie wiedzą ile co kosztuje, gdy pokrywa to ubezpieczyciel. Prowadzi to do poważnych rozbieżności cenowych np. w Kaliforni usunięcie wyrostka robaczkowego może kosztować od 1500 do nawet 180 tys. dolarów.
+- Ubezpieczycie
 
 
 ## 6. Szpitalnictwo
