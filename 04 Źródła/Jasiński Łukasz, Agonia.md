@@ -182,6 +182,10 @@ Wrocław 2024 r.
 - Ubezpieczyciele często nie mogą korzystać z tańszych konkurentów na danym obszarze, bo ich po prostu nie ma. 
 - Szpitale często też mają większość placówek w swojej sieci i z pozycji monopolisty kontrolują ceny, czy ograniczają korzystanie z usług konkurencji, do której też nie można przejść z całą umową, bo np. ma za mało placówek.
 - W 2017 r. 34% wydatków na ochronę zdrowia w USA przeznaczono na szpitale, 28% na usługi medyczne, 13% na opiekę pielęgniarską, a 11% na leki na receptę.
+- Wskaźnik rentowności ubezpieczycieli w latach 2009-2018 wahał się między 0,6 a 3,4%.
+- W latach 2009-2018 wskaźniki loss ratio wynosiły średnio 85,4%, a combined ratio 97,6%. Oznacza to, że większość składek idzie na wypłatę roszczeń.
+	- Loss ratio: wypłacone roszczenia/suma pozyskanych składek
+	- Combined ratio: wypłacone roszczenia + koszty/suma pozyskanych składek.
 - 
 
 
