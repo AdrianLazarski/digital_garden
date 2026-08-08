@@ -193,7 +193,12 @@ Wrocław 2024 r.
 
 - W latach 1983-2017 ceny usług szpitalnych wzrosły o 727%, podczas gdy ceny wszystkich usług medycznych wzrosły o 403%, a towarów i usług konsumpcyjnych o 146%. Usługi szpitalny podrożały 5 razy bardziej, niż podstawowy CPI.
 - W 2018 r. usługi szpitalne to 33% wszystkich wydatków na ochronę zdrowia. Wydatki na lekarzy i kliniki to 20%, wydatki na leki na receptę to 9%.
-- W 2018 r. w USA było 6146 szpitali, z czego 5198 to szpitale wspólnotowe/społeczne, zaś 56,% z nich (2937 szpitali) to nierządowe szpitale non profit. Szpitale prywatne nastawione na zysk to zaledwie 25% (1296 placówek).
+- W 2018 r. w USA było 6146 szpitali, z czego 5198 to szpitale wspólnotowe/społeczne, do których zaliczamy szpitale niefederalne, szpitale świadczące usługi krótkoterminowe, szpitale świadczące usługi specjalistyczne oraz szpitale dydaktyczne.
+- Z nich zaś 56,% (2937 szpitali) to nierządowe szpitale non profit. Szpitale prywatne nastawione na zysk to zaledwie 25% (1296 placówek). Reszta to szpitale stanowe i lokalne szpitale rządowe.
+- Pozostałe 948 z 6146 to federalne szpitale rządowe, szpitale psychiatryczne i inne podmioty.
+- Podobnie jak Blue Cross, szpitale non profit uzyskały sporo korzyści podatkowych, czy czy wyższe stawki zwrotu za wykonane usługi. W samym 2011 r. szpitale non profit uzyskały 24,6 miliardów korzyści ze zwolnień podatkowych.
+	- Zwolniono je z federalnych i stanowych podatków dochodowych od osób prawnych, podatków od wkładów charytatywnych, podatków od sprzedaży (np. przy zakupie sprzętu medycznego), podatków od nieruchomości oraz podatków od zysków kapitałowych z emisji obligacji.
+- Też Hill-Burton Act z 1946 r. przeznaczał fundusze na szpitale non profit i do 1965 ich liczba wzrosła o 32,5%, zaś liczba szpitali komercyjnych spadła o 20%.
+- Po wejściu Medicaid i Medicare
 
-## 7. Podsumowanie
-
+## 7. Podsumo
