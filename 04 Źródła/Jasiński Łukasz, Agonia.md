@@ -204,6 +204,9 @@ Wrocław 2024 r.
 - Dla porównania najlepiej wynagradzany CEO spośród dostawców nastawionych na zysk zarobił 6,3 mln. Średnia 5 największych dostawców to 4,3 mln.
 - W 2017 r. szpitale non profit otrzymały 5,2 MLD od prywatnych darczyńców i 2 MLD od agencji federalnych na badania. Wydały też 26 milionów na lobbing.
 - Badanie z 2012 r. na 1600 szpitali non profit: w przypadku jedynie 20% szpitali wartość świadczeń społecznych (community benefit) przekraczały łączną kwotę zwolnień podatkowych.
+- W wielu stanach funkcjonuje Certificate of Need, który kontroluje wydatki inwestycyjne szpitali. Bazuje to na założeniu, że zakładanie nowych szpitali lub rozbudowa istniejących prowadzi do wzrostu kosztów, więc próbuje się administracyjnie chronić ludzi.
+- Średni poziom wydatków na opiekę zdrowotną per capita w stanach, gdzie nie funkcjonowały CON to 7772 USD. W stanach z tymi regulacjami 8486 USD, czyli 9% więcej.
+- 
 
 ## 7. Podsumowanie
 
