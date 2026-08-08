@@ -171,7 +171,7 @@ Wrocław 2024 r.
 	- Wiele stanów zakazało dyskryminacji cenowej ze względu na stan zdrowia.
 	- W 82% firm zatrudniających 50 lub więcej pracowników usługi medyczne świadczą także kliniki detaliczne zlokalizowane w aptekach, supermarketach albo sklepach detalicznych, zatrudniające głównie asystentów lekarzy i pielęgniarki. Wiele firm ma też w swoich planach dla pracowników usługi telemedycyny.
 	- Oczywiście AMA się to nie podobało i na szczeblu stanowym próbowało lobbować, by był ograniczony zakres usług jakie mogą świadczyć np. pielęgniarki. Na szczęście konkurencja była na tyle silna, że kontrlobbing ich zatrzymał.
-	- 
+	- W klinikach detalicznych również klienci indywidualni 
 
 
 ## 6. Szpitalnictwo
