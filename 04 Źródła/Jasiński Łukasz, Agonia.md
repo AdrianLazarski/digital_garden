@@ -210,7 +210,7 @@ Wrocław 2024 r.
 - Niedobór personelu medycznego uniemożliwiał odciążenie lekarzy w rutynowych i podstawowych procedur. 
 - Przełożyło się to na wzrost składek ubezpieczeniowych od zaniedbań, które chronią lekarzy przed konsekwencjami ich błędów. W latach 1966-1972 wzrosły o 400% dla wszystkich lekarzy i 425% dla chirurgów.
 - Dla towarzystwa ubezpieczeniowego Aetna suma wypłacanych odszkodowań rocznie wzrosła z 0,3 mln do 9,5 mln dolarów między 1965 a 1968 r.
-- 
+- Lekarze bojący się pozwów zaczęli robić więcej badań, by zminimalizować ryzyko nawet najmniej prawdopodobnych przypadków.
 
 ## 7. Podsumowanie
 
