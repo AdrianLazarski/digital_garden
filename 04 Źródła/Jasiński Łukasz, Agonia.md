@@ -187,11 +187,13 @@ Wrocław 2024 r.
 	- Loss ratio: wypłacone roszczenia/suma pozyskanych składek
 	- Combined ratio: wypłacone roszczenia + koszty/suma pozyskanych składek.
 - Mediana rentowności ubezpieczycieli w 2019 roku to 3%. Mediana innych firm w Fortune 500 to 7,44%.
-- 
 
 
 ## 6. Szpitalnictwo
 
+- W latach 1983-2017 ceny usług szpitalnych wzrosły o 727%, podczas gdy ceny wszystkich usług medycznych wzrosły o 403%, a towarów i usług konsumpcyjnych o 146%. Usługi szpitalny podrożały 5 razy bardziej, niż podstawowy CPI.
+- W 2018 r. usługi szpitalne to 33% wszystkich wydatków na ochronę zdrowia. Wydatki na lekarzy i kliniki to 20%, wydatki na leki na receptę to 9%.
+- W 2018 r. w USA było 6146 szpitali, z czego 5198 to szpitale wspólnotowe/społeczne, zaś 56,% z nich (2937 szpitali) to nierządowe szpitale non profit. Szpitale prywatne nastawione na zysk to zaledwie 25% (1296 placówek).
 
 ## 7. Podsumowanie
 
