@@ -199,6 +199,10 @@ Wrocław 2024 r.
 - Podobnie jak Blue Cross, szpitale non profit uzyskały sporo korzyści podatkowych, czy czy wyższe stawki zwrotu za wykonane usługi. W samym 2011 r. szpitale non profit uzyskały 24,6 miliardów korzyści ze zwolnień podatkowych.
 	- Zwolniono je z federalnych i stanowych podatków dochodowych od osób prawnych, podatków od wkładów charytatywnych, podatków od sprzedaży (np. przy zakupie sprzętu medycznego), podatków od nieruchomości oraz podatków od zysków kapitałowych z emisji obligacji.
 - Też Hill-Burton Act z 1946 r. przeznaczał fundusze na szpitale non profit i do 1965 ich liczba wzrosła o 32,5%, zaś liczba szpitali komercyjnych spadła o 20%.
-- Po wejściu Medicaid i Medicare
+- Po wejściu Medicaid i Medicare, gdy rząd płacił dostawcom każdą oczekiwaną przez nich kwotę, szpitale komercyjny zaczęły się dynamicznie rozwijać i konsolidować. 
+- Według raportu Top 82 U.S. Non Profit Hospitals średnie wynagrodzenie osoby na najwyższym szczeblu kierowniczym wynosił 3,5 mln dolarów. Rekordziści z Banner Health zarabiali po 21,6 mln. 
+- Dla porównania najlepiej wynagradzany CEO spośród dostawców nastawionych na zysk zarobił 6,3 mln. Średnia 5 największych dostawców to 4,3 mln.
+- W 2017 r. szpitale non profit otrzymały 5,2 MLD od prywatnych darczyńców i 2 MLD od agencji federalnych na badania. Wydały też 26 milionów na lobbing.
 
-## 7. Podsumo
+## 7. Podsumowanie
+
