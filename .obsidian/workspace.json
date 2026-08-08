@@ -79,7 +79,8 @@
               "title": "Jasiński Łukasz, Agonia"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Historia/06 Państwa/Historia Wielkiej Brytanii.md",
+                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +172,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
@@ -226,8 +227,7 @@
               "title": "Łącza wychodzące"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d265702fc91191e6",
@@ -282,8 +282,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b469543585e1dba6",
+  "active": "0ea9f612283df2d1",
   "lastOpenFiles": [
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Albert Wielki.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Gazali.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Kindi.md",
     "03 Atomy/Woda święcona.md",
@@ -309,7 +310,6 @@
     "02 MOC/MOC Chrześcijaństwo/MOC Literatura chrześcijańska.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Biblistyka.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Reformacja.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
