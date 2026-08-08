@@ -186,6 +186,7 @@ Wrocław 2024 r.
 - W latach 2009-2018 wskaźniki loss ratio wynosiły średnio 85,4%, a combined ratio 97,6%. Oznacza to, że większość składek idzie na wypłatę roszczeń.
 	- Loss ratio: wypłacone roszczenia/suma pozyskanych składek
 	- Combined ratio: wypłacone roszczenia + koszty/suma pozyskanych składek.
+- Mediana rentowności ubezpieczycieli w 2019 roku to 3%. Mediana innych firm w Fortune 500 to 7,44%.
 - 
 
 
