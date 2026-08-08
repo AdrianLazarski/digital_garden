@@ -216,7 +216,8 @@ Wrocław 2024 r.
 - W 2013 r. oszacowano zgony z powodów błędów medyczny na 250 tys. rocznie. Jest to 3 miejsce za chorobami serca (611 105) i nowotworami (588 881). Więcej niż zgonów na choroby układu krążeniowego (149 tys.).
 - Dużo błędów jest nieraportowanych, bo nie wynikają wprost z dokumentacji medycznej i sprowadzają się np. do nieprzekazania wszystkich zaleceń pacjentowi po wyjściu. Doliczając tego typu przypadki liczba zgonów rośnie do 440 tys.
 - W 1986 r. wprowadzono Emergency Medical Treatment and Labor Act, który wymaga od szpitalnych oddziałów ratunkowych ustabilizowania stanu zdrowia i leczenia każdej osoby, która trafi tam z nagłym przypadkiem, niezależnie od jej możliwości opłacenia kosztów leczenia. Miało to zapobiegać przenoszeniu nieubezpieczonych pacjentów lub ubezpieczonych w Medicaidzie do szpitali publicznych bez zrobienia choćby badań przesiewowych. W konsekwencji władze lokalne i stanowe zaczęły się wycofywać ze świadczenia usług najuboższym i przerzucania odpowiedzialności na szpitale.
-- 
+- Bezpośrednia opieka podstawowa rozwija się co raz bardziej. Działa na zasadzie abonamentu, więc nie jest ubezpieczeniem. Firmy nie muszą utrzymywać rezerw, a lekarze bawić się w nadmierne raportowanie. W 2005 r. praktykowało tylko 150 lekarzy, w 2015 już 6500. 
+- Badania ankietowe pokazują, że lekarze w szpitalach są przeciążeni pracą i średnio z niej zadowoleni.
 
 ## 7. Podsumowanie
 
