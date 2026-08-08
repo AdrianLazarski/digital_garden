@@ -215,6 +215,7 @@ Wrocław 2024 r.
 - Według innego badania przeprowadzonego ankietowo na 1500 szpitali koszty te wynoszą 37,5% całkowitych kosztów amerykańskiej opieki zdrowotnej, co stanowi bilion dolarów. Nawet jak przeszacowali, to jednak pokazuje to skalę praktykowania medycyny obronnej.
 - W 2013 r. oszacowano zgony z powodów błędów medyczny na 250 tys. rocznie. Jest to 3 miejsce za chorobami serca (611 105) i nowotworami (588 881). Więcej niż zgonów na choroby układu krążeniowego (149 tys.).
 - Dużo błędów jest nieraportowanych, bo nie wynikają wprost z dokumentacji medycznej i sprowadzają się np. do nieprzekazania wszystkich zaleceń pacjentowi po wyjściu. Doliczając tego typu przypadki liczba zgonów rośnie do 440 tys.
+- W 1986 r. wprowadzono Emergency Medical Treatment and Labor Act, który wymaga od szpitalnych oddziałów ratunkowych ustabilizowania stanu zdrowia i leczenia każdej osoby, która trafi tam z nagłym przypadkiem, niezależnie od jej możliwości opłacenia kosztów leczenia. Miało to zapobiegać przenoszeniu nieubezpieczonych pacjentów lub ubezpieczonych w Medicaidzie do szpitali publicznych bez zrobienia choćby badań przesiewowych. W konsekwencji władze lokalne i stanowe zaczęły się wycofywać ze świadczenia usług najuboższym i przerzucania odpowiedzialności na szpitale.
 - 
 
 ## 7. Podsumowanie
