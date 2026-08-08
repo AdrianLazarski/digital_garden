@@ -206,6 +206,10 @@ Wrocław 2024 r.
 - Badanie z 2012 r. na 1600 szpitali non profit: w przypadku jedynie 20% szpitali wartość świadczeń społecznych (community benefit) przekraczały łączną kwotę zwolnień podatkowych.
 - W wielu stanach funkcjonuje Certificate of Need, który kontroluje wydatki inwestycyjne szpitali. Bazuje to na założeniu, że zakładanie nowych szpitali lub rozbudowa istniejących prowadzi do wzrostu kosztów, więc próbuje się administracyjnie chronić ludzi.
 - Średni poziom wydatków na opiekę zdrowotną per capita w stanach, gdzie nie funkcjonowały CON to 7772 USD. W stanach z tymi regulacjami 8486 USD, czyli 9% więcej.
+- Wzrost popytu na usługi medyczne przy jednoczesnym zmniejszaniu podaży lekarzy doprowadził w latach 70. XX w. do tzw. kryzysu zaniedbań. Lekarze poświęcali pacjentom co raz mniej czasu, co prowadziło do spadku jakości opieki zdrowotnej.
+- Niedobór personelu medycznego uniemożliwiał odciążenie lekarzy w rutynowych i podstawowych procedur. 
+- Przełożyło się to na wzrost składek ubezpieczeniowych od zaniedbań, które chronią lekarzy przed konsekwencjami ich błędów. W latach 1966-1972 wzrosły o 400% dla wszystkich lekarzy i 425% dla chirurgów.
+- Dla towarzystwa ubezpieczeniowego Aetna suma wypłacanych odszkodowań rocznie wzrosła z 0,3 mln do 9,5 mln dolarów między 1965 a 1968 r.
 - 
 
 ## 7. Podsumowanie
