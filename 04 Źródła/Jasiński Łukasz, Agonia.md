@@ -203,6 +203,7 @@ Wrocław 2024 r.
 - Według raportu Top 82 U.S. Non Profit Hospitals średnie wynagrodzenie osoby na najwyższym szczeblu kierowniczym wynosił 3,5 mln dolarów. Rekordziści z Banner Health zarabiali po 21,6 mln. 
 - Dla porównania najlepiej wynagradzany CEO spośród dostawców nastawionych na zysk zarobił 6,3 mln. Średnia 5 największych dostawców to 4,3 mln.
 - W 2017 r. szpitale non profit otrzymały 5,2 MLD od prywatnych darczyńców i 2 MLD od agencji federalnych na badania. Wydały też 26 milionów na lobbing.
+- Badanie z 2012 r. na 1600 szpitali non profit: w przypadku jedynie 20% szpitali wartość świadczeń społecznych (community benefit) przekraczały łączną kwotę zwolnień podatkowych.
 
 ## 7. Podsumowanie
 
