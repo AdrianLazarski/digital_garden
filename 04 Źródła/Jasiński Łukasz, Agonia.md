@@ -171,7 +171,11 @@ Wrocław 2024 r.
 	- Wiele stanów zakazało dyskryminacji cenowej ze względu na stan zdrowia.
 	- W 82% firm zatrudniających 50 lub więcej pracowników usługi medyczne świadczą także kliniki detaliczne zlokalizowane w aptekach, supermarketach albo sklepach detalicznych, zatrudniające głównie asystentów lekarzy i pielęgniarki. Wiele firm ma też w swoich planach dla pracowników usługi telemedycyny.
 	- Oczywiście AMA się to nie podobało i na szczeblu stanowym próbowało lobbować, by był ograniczony zakres usług jakie mogą świadczyć np. pielęgniarki. Na szczęście konkurencja była na tyle silna, że kontrlobbing ich zatrzymał.
-	- W klinikach detalicznych również klienci indywidualni 
+	- W klinikach detalicznych również klienci indywidualni nabywają co raz więcej usług. Nie raz kilkakrotnie taniej, niż w systemie ubezpieczeń.
+	- Więc tak naprawdę brak ubezpieczenia zdrowotnego oznacza często niższe koszty.
+	- Firmy ubezpieczające pracowników kładą też często nacisk na profilaktykę i stosują różne zachęty finansowe dla pracowników by się badali. Są też nagrody za uzyskanie odpowiednich wyników biometrycznych np. BMI. 
+	- Koszty pomaga też obniżać turystyka medyczna. Kolesiowi poza wale chcieli wstawić bypassy za 150 tys. dolarów. Jak szpital się dowiedział, że rodzina znalazła mu operację we Francji za 15 tys., to zaproponował najpierw operację za 50 tys., a potem za 25 tys. 6 razy taniej. Na szczęście oburzona rodzina się nie zgodziła.
+	- Istnieją instytucje akredytujące 
 
 
 ## 6. Szpitalnictwo
