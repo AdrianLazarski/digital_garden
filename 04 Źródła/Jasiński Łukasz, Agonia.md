@@ -210,7 +210,12 @@ Wrocław 2024 r.
 - Niedobór personelu medycznego uniemożliwiał odciążenie lekarzy w rutynowych i podstawowych procedur. 
 - Przełożyło się to na wzrost składek ubezpieczeniowych od zaniedbań, które chronią lekarzy przed konsekwencjami ich błędów. W latach 1966-1972 wzrosły o 400% dla wszystkich lekarzy i 425% dla chirurgów.
 - Dla towarzystwa ubezpieczeniowego Aetna suma wypłacanych odszkodowań rocznie wzrosła z 0,3 mln do 9,5 mln dolarów między 1965 a 1968 r.
-- Lekarze bojący się pozwów zaczęli robić więcej badań, by zminimalizować ryzyko nawet najmniej prawdopodobnych przypadków.
+- Lekarze bojący się pozwów zaczęli robić więcej badań, by zminimalizować ryzyko nawet najmniej prawdopodobnych przypadków. Podnosi to oczywiście koszty. Pracują też więcej, co może prowadzić do większej liczby błędów i pozwów. Błędne koło.
+- W 2014 r. ustalono, że koszty związane z praktykowaniem medycyny obronnej generują dodatkowe 46 mld kosztów w amerykańskiej opiece zdrowotnej.
+- Według innego badania przeprowadzonego ankietowo na 1500 szpitali koszty te wynoszą 37,5% całkowitych kosztów amerykańskiej opieki zdrowotnej, co stanowi bilion dolarów. Nawet jak przeszacowali, to jednak pokazuje to skalę praktykowania medycyny obronnej.
+- W 2013 r. oszacowano zgony z powodów błędów medyczny na 250 tys. rocznie. Jest to 3 miejsce za chorobami serca (611 105) i nowotworami (588 881). Więcej niż zgonów na choroby układu krążeniowego (149 tys.).
+- Dużo błędów jest nieraportowanych, bo nie wynikają wprost z dokumentacji medycznej i sprowadzają się np. do nieprzekazania wszystkich zaleceń pacjentowi po wyjściu. Doliczając tego typu przypadki liczba zgonów rośnie do 440 tys.
+- 
 
 ## 7. Podsumowanie
 
