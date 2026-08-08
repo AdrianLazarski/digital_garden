@@ -167,8 +167,9 @@ Wrocław 2024 r.
 - Od lat 40. XX wieku pojawiło się sporo regulacji na rynku ubezpieczeń zdrowotnych:
 	- Oferowanie polis ponad granicami stanów było zakazane, co zwiększało ceny i prowadziło do kartelizacji w poszczególnych stanach.
 	- Pracodawcy dostają ulgę podatkową za zapewnienie pracownikom ubezpieczenia zdrowotnego. Ludzie więc korzystają z niego ze skłonnością do nadkonsumpcji (jakby sami płacili bezpośrednio, to byliby oszczędniejsi), co podnosi ceny indywidualnym nabywcom.
-	- Stany zakazywały polis, które wyłączały finansowanie pewnych form leczenia, nawet jak kliencie chcieliby takie tańsze polisy.
+	- Stany zakazywały polis, które wyłączały finansowanie pewnych form leczenia, nawet jak klienci chcieliby takie tańsze polisy.
 	- Wiele stanów zakazało dyskryminacji cenowej ze względu na stan zdrowia.
+	- str 151-154 można doczytać, bo nie zrobiłem notatki z tego rejonu
 	- 
 
 
