@@ -179,7 +179,9 @@ Wrocław 2024 r.
 	- Co ciekawe nawet takie ośrodki medyczne, jak Uniwersytet Harvarda, U w Bostonie, czy U Johna Hopkinsa zakładają własne szpitale i kliniki, by przejąć dla siebie coś z tego rynku.
 
 - Szpitale prowadzą bardzo nietransparentną politykę cenową. Pacjenci często nie wiedzą ile co kosztuje, gdy pokrywa to ubezpieczyciel. Prowadzi to do poważnych rozbieżności cenowych np. w Kaliforni usunięcie wyrostka robaczkowego może kosztować od 1500 do nawet 180 tys. dolarów.
-- Ubezpieczycie
+- Ubezpieczyciele często nie mogą korzystać z tańszych konkurentów na danym obszarze, bo ich po prostu nie ma. 
+- Szpitale często też mają większość placówek w swojej sieci i z pozycji monopolisty kontrolują ceny, czy ograniczają korzystanie z usług konkurencji, do której też nie można przejść z całą umową, bo np. ma za mało placówek.
+- 
 
 
 ## 6. Szpitalnictwo
