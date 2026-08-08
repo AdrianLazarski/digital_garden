@@ -170,7 +170,7 @@ Wrocław 2024 r.
 	- Stany zakazywały polis, które wyłączały finansowanie pewnych form leczenia, nawet jak klienci chcieliby takie tańsze polisy.
 	- Wiele stanów zakazało dyskryminacji cenowej ze względu na stan zdrowia.
 	- W 82% firm zatrudniających 50 lub więcej pracowników usługi medyczne świadczą także kliniki detaliczne zlokalizowane w aptekach, supermarketach albo sklepach detalicznych, zatrudniające głównie asystentów lekarzy i pielęgniarki. Wiele firm ma też w swoich planach dla pracowników usługi telemedycyny.
-	- Oczywiście AMA się to nie podoba i na szczeblu stanowym próbuje lobbować, by był ograniczony zakres usług jakie mogą świadczyć np. pielęgniarki.
+	- Oczywiście AMA się to nie podobało i na szczeblu stanowym próbowało lobbować, by był ograniczony zakres usług jakie mogą świadczyć np. pielęgniarki. Na szczęście konkurencja była na tyle silna, że kontrlobbing ich zatrzymał.
 	- 
 
 
