@@ -181,6 +181,7 @@ Wrocław 2024 r.
 - Szpitale prowadzą bardzo nietransparentną politykę cenową. Pacjenci często nie wiedzą ile co kosztuje, gdy pokrywa to ubezpieczyciel. Prowadzi to do poważnych rozbieżności cenowych np. w Kaliforni usunięcie wyrostka robaczkowego może kosztować od 1500 do nawet 180 tys. dolarów.
 - Ubezpieczyciele często nie mogą korzystać z tańszych konkurentów na danym obszarze, bo ich po prostu nie ma. 
 - Szpitale często też mają większość placówek w swojej sieci i z pozycji monopolisty kontrolują ceny, czy ograniczają korzystanie z usług konkurencji, do której też nie można przejść z całą umową, bo np. ma za mało placówek.
+- W 2017 r. 34% wydatków na ochronę zdrowia w USA przeznaczono na szpitale, 28% na usługi medyczne, 13% na opiekę pielęgniarską, a 11% na leki na receptę.
 - 
 
 
