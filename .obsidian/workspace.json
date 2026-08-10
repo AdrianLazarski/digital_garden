@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "MOC Historia Kościoła"
             }
+          },
+          {
+            "id": "1f7fbb6e51fe5eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "McCloskey Deirdre, Mit przedsiębiorczego państwa"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md",
+                "file": "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -258,11 +282,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8af1bb4183e7a078",
+  "active": "1f7fbb6e51fe5eb6",
   "lastOpenFiles": [
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "02 MOC/MOC Ekonomia.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md",
     "04 Źródła/Jasiński Łukasz, Agonia.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Albert Wielki.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Gazali.md",
@@ -285,7 +310,6 @@
     "03 Atomy/Apokatastaza.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Krytyka papizmu.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Eklezjologia.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
