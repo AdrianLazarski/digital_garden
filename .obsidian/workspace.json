@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+                "file": "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,8 +282,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f7fbb6e51fe5eb6",
+  "active": "8af1bb4183e7a078",
   "lastOpenFiles": [
+    "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
     "02 MOC/MOC Ekonomia.md",
@@ -309,7 +310,6 @@
     "03 Atomy/Ewangelie synoptyczne.md",
     "03 Atomy/Apokatastaza.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Krytyka papizmu.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
