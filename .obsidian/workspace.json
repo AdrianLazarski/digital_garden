@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "MOC Historia Kościoła"
             }
-          },
-          {
-            "id": "898b6a9c53898e39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Jasiński Łukasz, Agonia"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
+                "file": "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,8 +258,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ea9f612283df2d1",
+  "active": "8af1bb4183e7a078",
   "lastOpenFiles": [
+    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "02 MOC/MOC Ekonomia.md",
+    "04 Źródła/Jasiński Łukasz, Agonia.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Albert Wielki.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Gazali.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Kindi.md",
@@ -306,10 +286,6 @@
     "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Krytyka papizmu.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Eklezjologia.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Apologetyka.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Literatura chrześcijańska.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Biblistyka.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Reformacja.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",

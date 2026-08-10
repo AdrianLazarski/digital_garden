@@ -14,4 +14,4 @@ modified date: 2026-07-10 14:11
 [[PAWS, Średniowieczne korzenie wolnego rynku]], 2012
 [[McCloskey Deirdre, Mit przedsiębiorczego państwa]], 2020
 [[Zitelmann Rainer, Wzlot orła białego]], 2023
-
+[[Jasiński Łukasz, Agonia]], 2024 r.
