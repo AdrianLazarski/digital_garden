@@ -30,3 +30,12 @@ modified date: 2026-08-11 21:57
 
 # Współcześni
 
+
+
+
+
+
+
+
+
+[[Tomasz Gabiś]] 1955 r.

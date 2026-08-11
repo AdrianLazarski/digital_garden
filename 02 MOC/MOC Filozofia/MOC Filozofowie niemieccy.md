@@ -46,3 +46,36 @@ modified date: 2026-07-06 14:20
 [[Heinrich Rickert]] 1863-1936 r.
 [[Emil Lask]] 1875-1915 r.
 [[Adolf Reinach]] 1883-1917 r.
+
+# Współcześni
+
+[[Gottlob Frege]] 1848-1925 r.
+[[Edmund Husserl]] 1859-1938 r.
+[[Max Scheler]] 1874-1928 r.
+[[Ernst Cassirer]] 1874-1945 r.
+[[Martin Buber]] 1878-1965 r.
+[[Leonard Nelson]] 1882-1927 r.
+[[Moritz Schlik]] 1882-1936 r.
+[[Nicolai Hartmann]] 1882-1950 r.
+[[Karl Jaspers]] 1883-1969 r.
+[[Alfred Baeumler]] 1887-1968 r.
+[[Carl Schmitt]] 1888-1985 r.
+[[Ernst Niekisch]] 1889-1967 r.
+[[Martin Heidegger]] 1889-1976 r.
+[[Hans Reichenbach]] 1891-1953 r.
+[[Edgar Julius Jung]] 1894-1934 r.
+[[Max Horkheimer]] 1895-1973 r.
+[[Ernst Jünger]] 1895-1998 r.
+[[Herbert Marcuse]] 1898-1979 r.
+[[Leo Strauss]] 1899-1973 r.
+[[Erich Fromm]] 1900-1980 r.
+[[Hans-Georg Gadamer]] 1900-2002 r.
+[[Theodor Adorno]] 1903-1969 r.
+[[Konrad Lorenz]] 1903-1989 r.
+[[Carl Gustav Hempel]] 1905-1997 r.
+[[Hannah Arendt]] 1906-1975 r.
+[[Gerhard Gentzen]] 1909-1945 r.
+[[Karl-Otto Apel]] 1922-2017 r.
+[[Jürgen Habermas]] 1929 r.
+[[Hans Herman Hoppe]] 1949 r.
+

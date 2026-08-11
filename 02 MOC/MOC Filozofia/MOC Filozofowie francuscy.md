@@ -59,3 +59,30 @@ modified date: 2026-07-06 14:21
 [[Auguste Comte]] 1798-1857 r.
 [[Pierre-Joseph Proudhon]] 1809-1865 r.
 [[Henri Poincare]] 1854-1912 r.
+
+# Współcześni
+
+[[Henri Bergson]] 1859-1941 r.
+[[Jacques Maritain]] 1882-1973 r.
+[[Étienne Gilson]] 1884-1978 r.
+[[Gabriel Marcel]] 1889-1973 r.
+[[Jean Piaget]] 1896-1980 r.
+[[Jacques Lacan]] 1901-1981 r.
+[[Alexandre Kojève]] 1902-1968 r.
+[[Jean-Paul Sartre]] 1905-1980 r.
+[[Emmanuel Levinas]] 1906-1995 r.
+[[Jean Hyppolite]] 1907-1968 r.
+[[Claude Levi-Strauss]] 1908-2009 r.
+[[Maurice Merleau-Ponty]] 1908-1961 r.
+[[Simone de Beauvoir]] 1908-1986 r.
+[[Paul Ricœur]] 1913-2005 r.
+[[Albert Camus]] 1913-1960 r.
+[[Roland Barthes]] 1915-1980 r.
+[[Arnold Kaufmann]] 1921-1980 r.
+[[Michael Henry]] 1922-2002 r.
+[[Jean-François Lyotard]] 1924-1998 r.
+[[Frantz Fanon]] 1925-1961 r.
+[[Michael Foucalt]] 1926-1984 r.
+[[Jacques Derrida]] 1930-2004 r.
+[[Marc Richir]] 1943-2015 r.
+[[Jean-Luc Marion]] 1946 r.

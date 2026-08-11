@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofowie nowożytni"
+              "title": "MOC Filozofowie współcześni"
             }
           },
           {
@@ -53,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "MOC Filozofowie austriaccy"
+            }
+          },
+          {
+            "id": "796e649633245e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie szwajcarscy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Filozofowie szwajcarscy"
             }
           },
           {
@@ -224,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -300,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -344,7 +368,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -363,7 +387,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -427,20 +451,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b469543585e1dba6",
+  "active": "591a8ade13163f50",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
+    "05 Osoby/Friedrich Hayek.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie skandynawscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie polscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie szwajcarscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie skandynawscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie amerykańscy.md",
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
     "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
     "03 Atomy/Filozofia arabska.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Gazali.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie włoscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie brytyjscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie holenderscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
@@ -450,11 +479,6 @@
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Aleksander z Hales.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Bernard z Chartres.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Albert Wielki.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie przełomu epok.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Kindi.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Farabi.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Abubacer.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
