@@ -1,12 +1,10 @@
-
-**Spis treści**
-
-1. [Biografia 📁](#Biografia%20%F0%9F%93%81)
-2. [Dzieła 📖](#Dzie%C5%82a%20%F0%9F%93%96)
-3. [Poglądy 🔍](#Pogl%C4%85dy%20%F0%9F%94%8D)
-4. [Wpływy ⛓️](#Wp%C5%82ywy%20%E2%9B%93%EF%B8%8F)
-5. [Bibliografia 🔗](#Bibliografia%20%F0%9F%94%97)
-6. [Polecane 👇](#Polecane%20%F0%9F%91%87)
+---
+created: 2026-02-28 19:46
+tags: [osoba, filozofia/nowożytna]
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date : 2026-08-11 20:16
+---
 
 # Biografia 📁
 
@@ -24,7 +22,7 @@ Philosophiae naturalis principia mathematica (1687)
 - Wiedza naukowa dotyczy świata rzeczywistego, a nie samych zjawisk.
 - Wiedza to znajomość przyczyn.
 - Celem nauki nie tylko opis, ale i wyjaśnianie.
-- Wszystko co nie wynika ze zjawisk, jest hipotezą i nie powinno być dopuszalne w fizyce, która jest nauką eksperymentalną.
+- Wszystko co nie wynika ze zjawisk, jest hipotezą i nie powinno być dopuszczalne w fizyce, która jest nauką eksperymentalną.
 - Absolutny, prawdziwy i matematyczny czas.
 - Absolutna przestrzeń niezmienna i nieporuszalna.
 
@@ -38,5 +36,3 @@ Philosophiae naturalis principia mathematica (1687)
 
 
 
-
-###### Tagi: #filozofia #osoba #filozofia/nowożytna
