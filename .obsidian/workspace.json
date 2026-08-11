@@ -56,24 +56,12 @@
             }
           },
           {
-            "id": "d9b0a33095f1979e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Informacje o wersji 1.13.6"
-            }
-          },
-          {
             "id": "1f7fbb6e51fe5eb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+                "file": "07 Language lab/English grammar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "McCloskey Deirdre, Mit przedsiębiorczego państwa"
+              "title": "English grammar"
             }
           }
         ],
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md",
+                "file": "07 Language lab/English grammar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -294,7 +282,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9b0a33095f1979e",
+  "active": "1f7fbb6e51fe5eb6",
   "lastOpenFiles": [
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
