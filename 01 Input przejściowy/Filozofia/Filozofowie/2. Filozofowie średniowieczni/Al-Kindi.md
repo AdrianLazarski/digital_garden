@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/średniowieczna
+  - osoba
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-11 19:06
+---
 
 **Spis treści**
 
@@ -35,6 +44,3 @@
 # Polecane 👇
 
 
-
-
-###### Tagi: #filozofia #osoba #filozofia/średniowieczna #filozofia/arabska #filozofia/metafizyka #filozofia/epistemologia 

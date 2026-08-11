@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/średniowieczna
+  - osoba
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-11 19:05
+---
 
 **Spis treści**
 
@@ -79,4 +88,3 @@ Albert Wielki i Tomasz za Arystotelesem uważali, że zmiany jakościowe nie mog
 
 
 
-###### Tagi: #filozofia #osoba #filozofia/średniowieczna
