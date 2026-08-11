@@ -41,7 +41,3 @@ modified date: 2026-08-11 19:07
 
 # Polecane 👇
 
-
-
-
-###### Tagi: #filozofia #osoba #filozofia/średniowieczna

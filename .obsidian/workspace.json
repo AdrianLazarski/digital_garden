@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Rudolf Carnap.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Aleksander z Hales.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rudolf Carnap"
+              "title": "Aleksander z Hales"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie przełomu epok.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofowie przełomu epok"
+              "title": "MOC Filozofowie"
             }
           },
           {
-            "id": "43ac0f905abae343",
+            "id": "574ba10c1299f0f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Tales z Miletu.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tales z Miletu"
+              "title": "MOC Filozofowie niemieccy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Rudolf Carnap.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Rudolf Carnap.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Rudolf Carnap.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -282,8 +283,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b469543585e1dba6",
+  "active": "4fc01edf9ef6b0e4",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Aleksander z Hales.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Albert Wielki.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "02 MOC/MOC Filozofia.md",
+    "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie przełomu epok.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Kindi.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Gazali.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Farabi.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Abubacer.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Rudolf Carnap.md",
+    "01 Input/Performatywność vs mimesis.md",
     "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Stanisław Jaśkowski.md",
     "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Stanisław Leśniewski.md",
     "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Tadeusz Czeżowski.md",
@@ -294,22 +311,6 @@
     "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Tomasz Gabiś.md",
     "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/William Alston.md",
     "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Władysław Stróżewski.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Władysław Tatarkiewicz.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Tadeusz Kotarbiński.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Stanisław Ossowski.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Stanisław Lem.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Simone de Beauvoir.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Saul Kripke.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Rudolf Carnap.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Roman Ingarden.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Roland Barthes.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Roderick Chisholm.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Robert Nisbet.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Robert Nozick.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Robert Audi.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Richard Rorty.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Piotr Chojnacki.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/6. Filozofowie współcześni/Peter Strawson.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",

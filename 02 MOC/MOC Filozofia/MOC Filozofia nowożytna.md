@@ -69,4 +69,3 @@ Socjalizm (filozofia)
 
 [[MOC Filozofowie nowożytni]]
 [[MOC Filozofowie renesansowi]]
-[[MOC Filozofowie przełomu epok]]

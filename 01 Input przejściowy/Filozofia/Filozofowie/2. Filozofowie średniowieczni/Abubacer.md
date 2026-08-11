@@ -6,10 +6,13 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-08-07 18:18
+aliases:
+  - Ibn Tufajl
 ---
 
 # Biografia 📁
 
+- Ibn Tufajl
 - †1185
 - Wezyr, lekarz, matematyk, poeta, astronom.
 - Napisał powieść filozoficzną. Inne dzieła się niestety nie zachowały.
