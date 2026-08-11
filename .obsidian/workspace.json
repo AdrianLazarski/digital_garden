@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Erazm z Rotterdamu.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Alexander Baumgarten.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Erazm z Rotterdamu"
+              "title": "Alexander Baumgarten"
             }
           },
           {
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Erazm z Rotterdamu.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Alexander Baumgarten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Erazm z Rotterdamu.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Alexander Baumgarten.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Erazm z Rotterdamu.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Alexander Baumgarten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -284,6 +284,19 @@
   },
   "active": "b469543585e1dba6",
   "lastOpenFiles": [
+    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Sebastian Petrycy.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Niccolò Machiavelli.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Mikołaj Kopernik.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Michel de Montaigne.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Marsilio Ficino.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Marcin Luter.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Kardynał Kajetan.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Giovanni Pico della Mirandola.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Giordano Bruno.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Galileusz.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Franciszek Suárez.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Franciszek Bacon.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Erazm z Rotterdamu.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Siger z Brabantu.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "03 Atomy/Tales z Miletu.md",
@@ -297,19 +310,6 @@
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm z Auxerre.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm z Champeaux.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm z Owernii.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Willhelm z Conches.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Alkuin z Yorku.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Ryszard ze św. Wiktora.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Roger Bacon.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Robert Grosseteste.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Piotr z Poitiers.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Piotr Lombard.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Piotr Hiszpan.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Piotr Damiani.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Piotr Abelard.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Mikołaj z Oresme.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Mikołaj z Kuzy.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
