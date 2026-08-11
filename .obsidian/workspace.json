@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Aleksander z Hales.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Hugon ze św. Wiktora.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aleksander z Hales"
+              "title": "Hugon ze św. Wiktora"
             }
           },
           {
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#filozofia/austriacka",
+                "query": "tag:#filozofia",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Aleksander z Hales.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Hugon ze św. Wiktora.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -147,7 +147,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła dominikańska.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Hugon ze św. Wiktora.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Historia filozofii/Szkoła dominikańska.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Hugon ze św. Wiktora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -202,7 +202,8 @@
               "title": "Łącza wychodzące"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "d265702fc91191e6",
@@ -259,32 +260,32 @@
   },
   "active": "b469543585e1dba6",
   "lastOpenFiles": [
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Albert Wielki.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Gazali.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Kindi.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Aleksander z Hales.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Hraban Maur.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Henryk z Gandawy.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Gilbert z la Porée.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Gilbert z Poitiers.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Fulbert z Chartres.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Fredegizjusz z Tours.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Gerard z Czanad.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Gerard z Sagredo.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Filip Kanclerz.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Awicenna.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Bernard z Chartres.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Berengariusz z Tour.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Bonawentura.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Awerroes.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Awempace.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Anzelm z Canterbury.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Anzelm z Besaty.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Alkuin z Yorku.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Abubacer.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Farabi.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Gazali.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Kindi.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Albert Wielki.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Aleksander z Hales.md",
     "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md",
     "07 Language lab/English grammar.md",
-    "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
-    "02 MOC/MOC Ekonomia.md",
-    "04 Źródła/Jasiński Łukasz, Agonia.md",
-    "03 Atomy/Woda święcona.md",
-    "03 Atomy/Dogmat o nieomylności papieża.md",
-    "01 Input/Władza w judaizmie.md",
-    "03 Atomy/Relikwie.md",
-    "03 Atomy/Prymat papieski.md",
-    "03 Atomy/Kult świętych.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Sakramentologia i liturgika.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Teologia chrześcijańska.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Teologia dogmatyczna.md",
-    "03 Atomy/Wiarygodność Biblii.md",
-    "03 Atomy/Trójca Święta.md",
-    "03 Atomy/Starotestamentowy a nowotestamentowy Bóg.md",
-    "03 Atomy/Państwo w Biblii.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
