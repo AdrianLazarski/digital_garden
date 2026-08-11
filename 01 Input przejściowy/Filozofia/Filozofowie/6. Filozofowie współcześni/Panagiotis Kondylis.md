@@ -1,12 +1,10 @@
-
-**Spis treści**
-
-1. [Biografia 📁](#Biografia%20%F0%9F%93%81)
-2. [Dzieła 📖](#Dzie%C5%82a%20%F0%9F%93%96)
-3. [Poglądy 🔍](#Pogl%C4%85dy%20%F0%9F%94%8D)
-4. [Wpływy ⛓️](#Wp%C5%82ywy%20%E2%9B%93%EF%B8%8F)
-5. [Bibliografia 🔗](#Bibliografia%20%F0%9F%94%97)
-6. [Polecane 👇](#Polecane%20%F0%9F%91%87)
+---
+created: 2026-02-28 19:46
+tags: [osoba, filozofia/współczesna]
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date : 2026-08-11 21:12
+---
 
 # Biografia 📁
 
@@ -19,7 +17,7 @@ Polityka planetarna po zimnej wojnie, 1992 r.
 
 # Poglądy 🔍
 
-- "Prawa człowieka", "demokracja", "równość", "wolność" w masowej demokracji są zawsze interpretowqane ekonomicznie i wiążą się z oczekiwaniami konsumpcyjnymi.
+- "Prawa człowieka", "demokracja", "równość", "wolność" w masowej demokracji są zawsze interpretowane ekonomicznie i wiążą się z oczekiwaniami konsumpcyjnymi.
 - Masy światowe mogą potraktować zapewnienia Zachodu o uniwersalnym istnieniu praw człowieka jako punkt wyjścia do roszczeń wobec zachodnich bogactw.
 - Po ekonomizacji polityki w XX w. może dojść w XXI w. do jej "biologizacji" i intensyfikacji sporów o zasoby. Może to też doprowadzić do surowej dyscypliny społecznej.
 
@@ -32,7 +30,3 @@ Gabiś Tomasz, Zapiski manarchisty w: Arcana 135, 2017 r., s. 222-223.
 
 # Polecane 👇
 
-
-
-
-###### Tagi: #filozofia #osoba #filozofia/współczesna 
