@@ -19,5 +19,13 @@ modified date: 2026-07-07 13:30
 [[Idzi Rzymianin]] 1243-1316 r.
 
 
-[[Niccolò Machiavelli]]
+
+[[Marsilio Ficino]] 1433-1499 r. 
+[[Giovanni Pico della Mirandola]] 1463-1494 r. 
+[[Niccolò Machiavelli]] 1469-1527 r. 
+[[Kardynał Kajetan]] 1469-1534 r. 
+[[Giordano Bruno]] 1548-1600 r. 
+[[Galileusz]] 1564-1642 r.
+
+
 [[Benedetto Croce]]

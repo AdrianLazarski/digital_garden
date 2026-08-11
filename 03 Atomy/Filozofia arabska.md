@@ -67,14 +67,15 @@ VII-VII w.
 - Problem stosunku wiedzy i wiary.
 - Teologia islamska to głównie prawo.
 
-## Filozofowie arabscy
 
-[[Al-Kindi]]
-[[Al-Farabi]] 870-950
-Abu al-Hassan Ali al-Aszari 873-935
-[[Awicenna]] 980-1037
-[[Al-Gazali]] 1058-1111
-[[Awempace]] ok. 1185-1138
-[[Abubacer]] †1185
-[[Awerroes]] 1126-1198
-[[Ibn Haldun]] 1332-1406
+
+[[MOC Filozofowie arabscy]]
+	[[Al-Kindi]]
+	[[Al-Farabi]] 870-950
+	Abu al-Hassan Ali al-Aszari 873-935
+	[[Awicenna]] 980-1037
+	[[Al-Gazali]] 1058-1111
+	[[Awempace]] ok. 1185-1138
+	[[Abubacer]] †1185
+	[[Awerroes]] 1126-1198
+	[[Ibn Haldun]] 1332-1406

@@ -8,6 +8,7 @@ status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 14:21
 ---
 
+# Średniowieczni
 
 [[Fredegizjusz z Tours]] †834 r. 
 [[Fulbert z Chartres]] 975-1029 r. 
@@ -21,8 +22,8 @@ modified date: 2026-07-06 14:21
 [[Hugon ze św. Wiktora]] 1096-1141 r. 
 [[Piotr Lombard]] 1100-1160 r. 
 [[Walter z Mortagne]] 1100-1174 r. 
-[[Bernard z Chartres]] 1124-1130† r. 
-[[Joscelin z Soissons]] zm. 1152 r. 
+[[Bernard z Chartres]] † między 1124-1130 r. 
+[[Joscelin z Soissons]]  †1152 r. 
 [[Piotr z Poitiers]] 1130-1205 r. 
 [[Wilhelm z Auxerre]] †1231 r. 
 [[Filip Kanclerz]] 1170-1236 r. 
@@ -33,3 +34,6 @@ modified date: 2026-07-06 14:21
 [[Jan Buridan]] 1300-1362 r. 
 [[Mikołaj z Oresme]] 1320-1382 r.
 
+# Nowożytni
+
+[[Michel de Montaigne]] 1533-1592 r.
