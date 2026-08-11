@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "d9b0a33095f1979e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Informacje o wersji 1.13.6"
+            }
+          },
+          {
             "id": "1f7fbb6e51fe5eb6",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,7 +294,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8af1bb4183e7a078",
+  "active": "d9b0a33095f1979e",
   "lastOpenFiles": [
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "02 MOC/MOC Ekonomia/MOC Dzieła z zakresu historii gospodarczej.md",
