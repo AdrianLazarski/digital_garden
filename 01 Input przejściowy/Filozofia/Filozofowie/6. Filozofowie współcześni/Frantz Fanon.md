@@ -36,7 +36,3 @@ Gabiś Tomasz, Zapiski manarchisty w: Arcana 135, 2017 r., s. 220-222.
 
 # Polecane 👇
 
-
-
-
-###### Tagi: #filozofia #osoba #filozofia/współczesna 
