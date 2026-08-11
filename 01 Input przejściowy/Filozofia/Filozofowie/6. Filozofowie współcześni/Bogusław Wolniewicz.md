@@ -26,7 +26,3 @@
 
 # Polecane 👇
 
-
-
-
-###### Tagi: #filozofia #osoba #filozofia/współczesna #filozofia/polska 

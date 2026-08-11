@@ -28,8 +28,3 @@ Idealizm.
 
 
 # Polecane 👇
-
-
-
-
-###### Tagi: #filozofia #osoba #filozofia/współczesna 
