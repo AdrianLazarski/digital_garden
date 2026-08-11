@@ -154,19 +154,3 @@ modified date: 2026-07-06 14:23
 [[Wilhelm z Champeaux]] 1070-1121
 [[Willhelm z Conches]] 1090-1155
 [[Wilhelm z Owernii]] 1181–1249
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

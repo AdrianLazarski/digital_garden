@@ -21,7 +21,6 @@ modified date: 2026-07-06 14:09
 [[MOC Filozofowie średniowieczni]]
 [[MOC Filozofowie renesansowi]]
 [[MOC Filozofowie nowożytni]]
-[[MOC Filozofowie przełomu epok]]
 [[MOC Filozofowie współcześni]]
 
 # 2. Tematami
