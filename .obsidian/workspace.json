@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Franz Brentano.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Zenon Przesmycki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Franz Brentano"
+              "title": "Zenon Przesmycki"
             }
           },
           {
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Franz Brentano.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Zenon Przesmycki.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Franz Brentano.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Zenon Przesmycki.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Franz Brentano.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Zenon Przesmycki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -284,32 +284,32 @@
   },
   "active": "b469543585e1dba6",
   "lastOpenFiles": [
-    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Ernst Mach.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Wincenty Lutosławski.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/William James.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Wilhelm Windelband.md",
     "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Wilhelm Dilthey.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Adolf Reinach.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie przełomu epok.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Tadeusz Miciński.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Stanisław Brzozowski.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Paul Natorp.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Marian Zdziechowski.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Ludwik Krzywicki.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Kazimierz Twardowski.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/John MacTaggart.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/John Dewey.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Jan Władysław Dawid.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Idzi Radziszewski.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Hermann Cohen.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Henri Poincare.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Heinrich Rickert.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Georg Simmel.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Francis Herbert Bradley.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Franz Brentano.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Ferdinand de Saussure.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Ernst Mach.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Charles Sanders Peirce.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Benjamin Tucker.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Artur Górski.md",
     "01 Input przejściowy/Filozofia/Filozofowie/5. Filozofowie przełomu epok/Alexius Meinong.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia nowożytna.md",
-    "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia starożytna.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/William Paley.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Tomasz Hobbes.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Thomas Reid.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Søren Kierkegaard.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Richard Price.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Ralph Waldo Emerson.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Ralph Cudworth.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Pierre-Joseph Proudhon.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Pierre Simon de Laplace.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Pierre Gassendi.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Peter Sterry.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Nicolas Malebranche.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Paul d’Holbach.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Nathaniel Culverwell.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Monteskiusz.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Max Stirner.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Maine de Biran.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
