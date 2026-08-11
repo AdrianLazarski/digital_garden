@@ -47,6 +47,7 @@ modified date: 2026-07-06 14:23
 [[Al-Gazali]] 1058-1111
 [[Wilhelm z Champeaux]] 1070-1121
 [[Gilbert z la Porée]] 1076-1154
+[[Willhelm z Conches]] 1090-1155
 [[Hugon ze św. Wiktora]] 1096-1141
 [[Piotr Abelard]] 1079-1142
 [[Awempace]] ok. 1085-1138
@@ -151,6 +152,7 @@ modified date: 2026-07-06 14:23
 [[Wilhelm Ockham]] 1285-1349
 [[Wilhelm z Auxerre]] †1231
 [[Wilhelm z Champeaux]] 1070-1121
+[[Willhelm z Conches]] 1090-1155
 [[Wilhelm z Owernii]] 1181–1249
 
 

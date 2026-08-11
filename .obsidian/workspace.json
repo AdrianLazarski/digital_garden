@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm z Auxerre.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Erazm z Rotterdamu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wilhelm z Auxerre"
+              "title": "Erazm z Rotterdamu"
             }
           },
           {
-            "id": "8af1bb4183e7a078",
+            "id": "4fc01edf9ef6b0e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Historia Kościoła"
+              "title": "MOC Filozofowie starożytni"
+            }
+          },
+          {
+            "id": "43ac0f905abae343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Tales z Miletu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tales z Miletu"
             }
           }
         ]
@@ -131,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm z Auxerre.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Erazm z Rotterdamu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm z Auxerre.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Erazm z Rotterdamu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm z Auxerre.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Erazm z Rotterdamu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -260,13 +284,23 @@
   },
   "active": "b469543585e1dba6",
   "lastOpenFiles": [
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm Ockham.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Walter z Mortagne.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Tomasz z Akwinu.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Tomasz Bradwardine.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Siger z Brabantu.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Ryszard ze św. Wiktora.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "03 Atomy/Tales z Miletu.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Teodoryk z Chartres.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Tomasz Bradwardine.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Tomasz z Akwinu.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Walter z Mortagne.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm Ockham.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm z Auxerre.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm z Champeaux.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm z Owernii.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Willhelm z Conches.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Alkuin z Yorku.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Historia Kościoła.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Ryszard ze św. Wiktora.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Roger Bacon.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Robert Grosseteste.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Piotr z Poitiers.md",
@@ -276,16 +310,6 @@
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Piotr Abelard.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Mikołaj z Oresme.md",
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Mikołaj z Kuzy.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Mikołaj z Autrecourt.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Lafranc.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Joscelin z Soissons.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Jan z Salisbury.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Jan z La Rochelle.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Jan Szkot Eriugena.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Jan Roscelin.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Jan Duns Szkot.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Jan Buridan.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Izydor z Sewilli.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
