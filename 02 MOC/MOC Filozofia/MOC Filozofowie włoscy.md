@@ -8,6 +8,7 @@ status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-07 13:30
 ---
 
+# Średniowieczni
 
 [[Gerard z Czanad]] +1046 r. 
 [[Anzelm z Besaty]] 1000-1070 r. 
@@ -19,6 +20,7 @@ modified date: 2026-07-07 13:30
 [[Idzi Rzymianin]] 1243-1316 r.
 
 
+# Nowożytni
 
 [[Marsilio Ficino]] 1433-1499 r. 
 [[Giovanni Pico della Mirandola]] 1463-1494 r. 
@@ -26,6 +28,6 @@ modified date: 2026-07-07 13:30
 [[Kardynał Kajetan]] 1469-1534 r. 
 [[Giordano Bruno]] 1548-1600 r. 
 [[Galileusz]] 1564-1642 r.
-
+[[Giambattista Vico]] 1668-1744 r.
 
 [[Benedetto Croce]]

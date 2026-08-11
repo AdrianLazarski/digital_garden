@@ -37,3 +37,25 @@ modified date: 2026-07-06 14:21
 # Nowożytni
 
 [[Michel de Montaigne]] 1533-1592 r.
+[[Pierre Gassendi]] 1592-1655 r.
+[[Kartezjusz]] 1596-1650 r.
+[[Blaise Pascal]] 1623-1662 r.
+[[Nicolas Malebranche]] 1638-1715 r.
+[[Monteskiusz]] 1689-1755 r.
+[[Francois Quesnay]] 1694-1774 r.
+[[Gabriel Bonnot de Mably]] 1709-1785 r.
+[[Jan-Jakub Rousseau]] 1712-1778 r.
+[[Denis Diderot]] 1713-1784 r.
+[[Helwecjusz]] 1715-1771 r.
+[[Étienne de Condillac]] 1715-1780 r.
+[[Jean d’Alembert]] 1717-1783 r.
+[[Paul d’Holbach]] 1723-1789 r.
+[[Jacques Turgot]] 1727-1781 r.
+[[Pierre Simon de Laplace]] 1749-1827 r.
+[[Joseph de Maistre]] 1753-1821 r.
+[[Antoine Destutt de Tracy]] 1754-1836 r.
+[[Henri de Saint-Simone]] 1760-1825 r.
+[[Maine de Biran]] 1766-1824 r.
+[[Auguste Comte]] 1798-1857 r.
+[[Pierre-Joseph Proudhon]] 1809-1865 r.
+[[Henri Poincare]] 1854-1912 r.

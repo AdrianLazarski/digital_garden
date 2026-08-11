@@ -7,17 +7,7 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 14:22
 ---
-**Spis treści**
 
-1. [Chronologicznie](#Chronologicznie)
-		1. [**XVI/XVII w.**](#**XVI/XVII%20w.**)
-		2. [**XVII w.**](#**XVII%20w.**)
-		3. [**XVII/XVIII w.**](#**XVII/XVIII%20w.**)
-		4. [**XVIII w.**](#**XVIII%20w.**)
-		5. [**XVIII/XIX w.**](#**XVIII/XIX%20w.**)
-		6. [**XIX w.**](#**XIX%20w.**)
-		7. [**XIX/XX w.**](#**XIX/XX%20w.**)
-2. [Alfabetycznie](#Alfabetycznie)
 
 [[MOC Filozofowie renesansowi]]
 

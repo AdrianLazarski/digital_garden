@@ -51,6 +51,7 @@ modified date: 2026-07-06 14:09
 [[MOC Filozofowie holenderscy]]
 [[MOC Filozofowie niemieccy]]
 [[MOC Filozofowie rosyjscy]]
+[[MOC Filozofowie skandynawscy]]
 [[MOC Filozofowie włoscy]]
 [[MOC Filozofowie żydowscy]]
 
