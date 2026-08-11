@@ -49,3 +49,18 @@ modified date: 2026-08-11 21:50
 [[Karol Darwin]] 1809-1882 r.
 [[Francis Herbert Bradley]] 1846-1924 r.
 [[John MacTaggart]] 1866-1925 r.
+
+# Współcześni
+
+[[Alfred North Whitehead]] 1861-1947 r.
+[[Bertrand Russell]] 1872-1970 r.
+[[George Edward Moore]] 1873-1958 r.
+[[Gilbert Ryle]] 1900-1976 r.
+[[Michael Oakeshott]] 1901-1990 r.
+[[Isaiah Berlin]] 1909-1997 r.
+[[Alfred Jules Ayer]] 1910-1989 r.
+[[John Austin]] 1911-1960 r.
+[[Paul Grice]] 1913-1988 r.
+[[Peter Strawson]] 1919-2006 r.
+[[Elisabeth Anscombe]] 1919-2001 r.
+[[John Gray]] 1948 r.

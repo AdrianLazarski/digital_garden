@@ -75,6 +75,7 @@ modified date: 2026-07-06 14:21
 [[Claude Levi-Strauss]] 1908-2009 r.
 [[Maurice Merleau-Ponty]] 1908-1961 r.
 [[Simone de Beauvoir]] 1908-1986 r.
+[[Emil Cioran]] 1911-1995 r.
 [[Paul Ricœur]] 1913-2005 r.
 [[Albert Camus]] 1913-1960 r.
 [[Roland Barthes]] 1915-1980 r.
@@ -86,3 +87,4 @@ modified date: 2026-07-06 14:21
 [[Jacques Derrida]] 1930-2004 r.
 [[Marc Richir]] 1943-2015 r.
 [[Jean-Luc Marion]] 1946 r.
+

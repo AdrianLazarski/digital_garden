@@ -30,4 +30,10 @@ modified date: 2026-07-07 13:30
 [[Galileusz]] 1564-1642 r.
 [[Giambattista Vico]] 1668-1744 r.
 
-[[Benedetto Croce]]
+# Współcześni
+
+[[Benedetto Croce]] 1866-1952 r.
+[[Giovanni Gentile]] 1875-1944 r.
+[[Antonio Gramsci]] 1891-1937 r.
+[[Gianni Vattimo]] 1936-2023 r.
+[[Natalino Irti]] 1936 r.

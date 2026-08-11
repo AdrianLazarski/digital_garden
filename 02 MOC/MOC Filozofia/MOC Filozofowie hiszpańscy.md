@@ -17,3 +17,7 @@ modified date: 2026-08-11 21:51
 # Nowożytni
 
 [[Franciszek Suárez]] 1548-1617 r.
+
+# Współcześni
+
+[[Jose Ortega y Gasset]] 1883-1955 r.

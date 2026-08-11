@@ -7,4 +7,8 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-07 13:30
 ---
-[[Mikołaj Bierdiajew]]
+
+
+
+
+[[Mikołaj Bierdiajew]] 1874-1948 r.

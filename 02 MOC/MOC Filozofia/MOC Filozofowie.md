@@ -47,15 +47,18 @@ modified date: 2026-07-06 14:09
 [[MOC Filozofowie austriaccy]]
 [[MOC Filozofowie brytyjscy]]
 [[MOC Filozofowie francuscy]]
+[[MOC Filozofowie greccy]]
 [[MOC Filozofowie hiszpańscy]]
 [[MOC Filozofowie holenderscy]]
 [[MOC Filozofowie niemieccy]]
 [[MOC Filozofowie rosyjscy]]
 [[MOC Filozofowie skandynawscy]]
 [[MOC Filozofowie szwajcarscy]]
+[[MOC Filozofowie węgierscy]]
 [[MOC Filozofowie włoscy]]
 [[MOC Filozofowie żydowscy]]
 
+[[MOC Filozofowie z niefilozoficznych krajów]]
 
 # 4. Nurtami
 
