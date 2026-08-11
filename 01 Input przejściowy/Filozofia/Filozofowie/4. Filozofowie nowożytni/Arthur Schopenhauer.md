@@ -1,12 +1,11 @@
+---
+created: 2026-02-28 19:46
+tags: [osoba, filozofia/nowożytna]
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date : 2026-08-11 19:59
+---
 
-**Spis treści**
-
-1. [Biografia 📁](#Biografia%20%F0%9F%93%81)
-2. [Dzieła 📖](#Dzie%C5%82a%20%F0%9F%93%96)
-3. [Poglądy 🔍](#Pogl%C4%85dy%20%F0%9F%94%8D)
-4. [Wpływy ⛓️](#Wp%C5%82ywy%20%E2%9B%93%EF%B8%8F)
-5. [Bibliografia 🔗](#Bibliografia%20%F0%9F%94%97)
-6. [Polecane 👇](#Polecane%20%F0%9F%91%87)
 
 # Biografia 📁
 
@@ -15,6 +14,7 @@
 
 # Dzieła 📖
 
+[[Schopenhauer Arthur, Chwyty erystyczne]]
 Die Welt als Wille und Vorstellung ([Świat jako wola i przedstawienie](https://www.evernote.com/shard/s336/nl/180339904/271cf63a-7961-4ec1-ab62-89d30eeb3664)) 1918  r.
 
 # Poglądy 🔍
@@ -30,6 +30,3 @@ Die Welt als Wille und Vorstellung ([Świat jako wola i przedstawienie](https://
 # Polecane 👇
 
 
-
-
-###### Tagi: #filozofia #osoba #filozofia/nowożytna

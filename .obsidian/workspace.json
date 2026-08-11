@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Alexander Baumgarten.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Emil Lask.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Alexander Baumgarten"
+              "title": "Emil Lask"
             }
           },
           {
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Alexander Baumgarten.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Emil Lask.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Alexander Baumgarten.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Emil Lask.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Alexander Baumgarten.md",
+                "file": "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Emil Lask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -284,6 +284,23 @@
   },
   "active": "b469543585e1dba6",
   "lastOpenFiles": [
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Denis Diderot.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/David Hume.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Christian Wolff.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Christian Thomasius.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Bronisław Ferdynand Trentowski.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Blaise Pascal.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Bernard Bolzano.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Benjamin Whichcote.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/August Cieszkowski.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Auguste Comte.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Baruch Spinoza.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Arthur Schopenhauer.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Antoine Destutt de Tracy.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Anthony Ashley-Cooper.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Lord Shaftesbury.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Anne Conway.md",
+    "01 Input przejściowy/Filozofia/Filozofowie/4. Filozofowie nowożytni/Alexander Baumgarten.md",
     "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Sebastian Petrycy.md",
     "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Niccolò Machiavelli.md",
     "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Mikołaj Kopernik.md",
@@ -293,23 +310,6 @@
     "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Kardynał Kajetan.md",
     "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Giovanni Pico della Mirandola.md",
     "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Giordano Bruno.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Galileusz.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Franciszek Suárez.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Franciszek Bacon.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/3. Filozofowie renesansowi/Erazm z Rotterdamu.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Siger z Brabantu.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
-    "03 Atomy/Tales z Miletu.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Teodoryk z Chartres.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Tomasz Bradwardine.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Tomasz z Akwinu.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Walter z Mortagne.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm Ockham.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm z Auxerre.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm z Champeaux.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Wilhelm z Owernii.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
