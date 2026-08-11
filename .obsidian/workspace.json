@@ -247,7 +247,8 @@
               "title": "MOC Filozofowie niemieccy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -323,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -367,7 +368,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +387,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -450,8 +451,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "574ba10c1299f0f5",
+  "active": "b469543585e1dba6",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
@@ -477,7 +479,6 @@
     "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Gazali.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie holenderscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie renesansowi.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
