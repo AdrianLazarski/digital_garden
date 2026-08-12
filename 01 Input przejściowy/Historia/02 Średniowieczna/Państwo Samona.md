@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - historia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 13:23
+---
 
 
 - 623-660 r.
@@ -6,5 +15,3 @@
 - W 626 r. powstanie słowiańskie przeciwko [[Awarowie|Awarom]] gdy atakowali Konstantynopol.
 - Władcą został frankijski kupiec Samon.
 - Odnosiło sukcesy w walkach z Awarami i [[Frankowie|Frankami]], ale po śmierci Samona się rozpadło.
-
-#historia 

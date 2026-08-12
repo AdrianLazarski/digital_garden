@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - historia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 13:22
+---
 
 
 - Zachodniogermańskie plemiona zamieszkujące tereny na północ i wschód od dolnego Renu w III wieku.
@@ -37,6 +46,3 @@
 - Renesans karoliński.
 - 814-840 Ludwik Pobożny.
 - 843 traktat w Verdun. Podział ziem między: Lotara z tytułem cesarskim (część środkowa), Karola Łysego (zachód) i Ludwika II Niemieckiego (wschód).
-
-
-#historia #historia/średniowieczna #historia/Francji 

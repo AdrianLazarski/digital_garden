@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - historia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 13:21
+---
 
 
 - Feudalizm francuski = feudalizm.
@@ -9,6 +18,3 @@
 
 
 ![[Pasted image 20240616210323.png]]
-
-
-#historia 

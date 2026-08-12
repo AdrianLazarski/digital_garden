@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - historia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 13:23
+---
 
 - 820-907
 - Powstało po zniszczeniu [[Awarowie|Kaganatu Awarskiego]] przez Karola Wielkiego.
@@ -10,5 +19,3 @@
 - Niezależne arcybiskupstwo Morawskie.
 - 887 Cyryl i Metody wygnani przez Świętopełka I, bo niemieckie duchowieństwo było wrogo nastawione.
 - Upadło po najazdach koczowniczych Węgrów.
-
-#historia #historia/średniowieczna 

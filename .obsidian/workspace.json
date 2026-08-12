@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4c4d25741c1684a",
+            "id": "448825dc2698d2ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Historia.md",
+                "file": "02 MOC/MOC Historia/MOC Historia starożytna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,79 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Historia"
+              "title": "MOC Historia starożytna"
+            }
+          },
+          {
+            "id": "8ea1f6c822ce9f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Historia/MOC Historia średniowieczna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Historia średniowieczna"
+            }
+          },
+          {
+            "id": "1c3cd03c7e2b34e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Historia/MOC Historia nowożytna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Historia nowożytna"
+            }
+          },
+          {
+            "id": "a4c4d25741c1684a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Historia/MOC Historia współczesna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Historia współczesna"
             }
           },
           {
@@ -37,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Historie narodów.md",
+                "file": "02 MOC/MOC Historia/MOC Historia Francji.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +124,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Historie narodów"
+              "title": "MOC Historia Francji"
+            }
+          },
+          {
+            "id": "8abcccad11d9576e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Input przejściowy/Historia/02 Średniowieczna/Złota bulla Andrzeja II.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Złota bulla Andrzeja II"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -176,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 MOC/MOC Historie narodów.md",
+                "file": "01 Input przejściowy/Historia/02 Średniowieczna/Złota bulla Andrzeja II.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,11 +355,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec052d18d1a987ad",
+  "active": "8abcccad11d9576e",
   "lastOpenFiles": [
-    "02 MOC/MOC Historia.md",
-    "02 MOC/MOC Historie narodów.md",
+    "01 Input przejściowy/Historia/02 Średniowieczna/Protobułgarzy.md",
     "01 Input przejściowy/Historia/02 Średniowieczna/Awarowie.md",
+    "01 Input przejściowy/Historia/02 Średniowieczna/Feudalizm.md",
+    "01 Input przejściowy/Historia/02 Średniowieczna/Frankowie.md",
+    "01 Input przejściowy/Historia/02 Średniowieczna/Państwo Samona.md",
+    "01 Input przejściowy/Historia/02 Średniowieczna/Państwo Wielkomorawskie.md",
+    "02 MOC/MOC Historia/MOC Historia średniowieczna.md",
+    "02 MOC/MOC Historia/MOC Historia współczesna.md",
+    "02 MOC/MOC Historia/MOC Historia Francji.md",
+    "02 MOC/MOC Historia/MOC Historie narodów.md",
+    "02 MOC/MOC Historia/MOC Historia starożytna.md",
+    "02 MOC/MOC Historia/MOC Historia nowożytna.md",
+    "02 MOC/MOC Historia.md",
+    "02 MOC/MOC Historia/MOC Historia Włoch.md",
+    "02 MOC/MOC Historia/MOC Historia Wielkiej Brytanii.md",
+    "02 MOC/MOC Historia/MOC Historia Stanów Zjednoczonych.md",
+    "02 MOC/MOC Historia/MOC Historia Rosji.md",
+    "02 MOC/MOC Historia/MOC Historia Grecji.md",
+    "02 MOC/MOC Historia/MOC Historia Hiszpanii.md",
+    "02 MOC/MOC Historia/MOC Historia Niemiec.md",
+    "02 MOC/MOC Historia/MOC Historia Austrii.md",
+    "02 MOC/MOC Historia/MOC Historia Polski.md",
     "05 Osoby/załączniki/Pasted image 20240707120949.png",
     "05 Osoby/Achille Mbembe.md",
     "05 Osoby/Adolf Reinach.md",
@@ -271,25 +386,6 @@
     "05 Osoby/Alexander Baumgarten.md",
     "05 Osoby/Erazm z Rotterdamu.md",
     "05 Osoby/załączniki/Pasted image 20240630175408.png",
-    "05 Osoby/Abubacer.md",
-    "05 Osoby/Bazyli Wielki.md",
-    "05 Osoby/Grzegorz z Nazjanzu.md",
-    "05 Osoby/Grzegorz z Nyssy.md",
-    "05 Osoby/Augustyn z Hippony.md",
-    "05 Osoby/Proklos.md",
-    "05 Osoby/Boecjusz.md",
-    "05 Osoby/Kasjodor.md",
-    "05 Osoby/Jan Filipon.md",
-    "05 Osoby/Pseudo-Dionizy Areopagita.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
-    "03 Atomy/Mariusz Wiktorynus.md",
-    "05 Osoby/Seneka.md",
-    "05 Osoby/Filon z Aleksandrii.md",
-    "05 Osoby/Epiktet.md",
-    "03 Atomy/Marek Aureliusz.md",
-    "05 Osoby/Sekstus Empiryk.md",
-    "05 Osoby/Plotyn.md",
-    "05 Osoby/Porfiriusz.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",

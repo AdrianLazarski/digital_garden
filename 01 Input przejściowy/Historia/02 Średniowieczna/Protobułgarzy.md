@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - historia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 13:25
+---
 
 - Lud koczowniczy huńskiego pochodzenia, mieszkającym w V-VII w. nad Morzem Czarnym.
 - W VI w. napierali na Bizancjum.
@@ -40,5 +49,3 @@
 - W 1431 r. tereny na południe od Kamy włączone do Wielkiego Księstwa Moskiewskiego.
 - Na reszcie terenów od 1438 r. Chanat Kazański. W 1552 r. przyłączony do Rosji.
 
-
-#historia #historia/średniowieczna #historia/Bułgarii 

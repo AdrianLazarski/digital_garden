@@ -1,3 +1,10 @@
+---
+created: 2026-02-28 19:46
+tags: [atom]
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date : 2026-08-12 13:25
+---
 
 - 1222 r.
 - Nadanie sługom królewskim (serwienci) praw przysługujących wcześniej tylko magnatom.
