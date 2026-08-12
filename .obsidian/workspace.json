@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,199 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofowie greccy"
-            }
-          },
-          {
-            "id": "796e649633245e5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie z niefilozoficznych krajów.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Filozofowie z niefilozoficznych krajów"
-            }
-          },
-          {
-            "id": "efe9ab9b1f37193d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie polscy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Filozofowie polscy"
-            }
-          },
-          {
-            "id": "87aaf1ffcd86f70e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie holenderscy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Filozofowie holenderscy"
-            }
-          },
-          {
-            "id": "701abc3699866fe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie hiszpańscy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Filozofowie hiszpańscy"
-            }
-          },
-          {
-            "id": "591a8ade13163f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Filozofowie francuscy"
-            }
-          },
-          {
-            "id": "c591b888bfc839b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie brytyjscy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Filozofowie brytyjscy"
-            }
-          },
-          {
-            "id": "567804bd49a50245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie włoscy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Filozofowie włoscy"
-            }
-          },
-          {
-            "id": "9cf78d54f6ae3c80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Filozofowie niemieccy"
+              "title": "MOC Filozofowie żydowscy"
             }
           }
         ],
@@ -324,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -368,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -387,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -453,32 +261,32 @@
   },
   "active": "b469543585e1dba6",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie z niefilozoficznych krajów.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie szwajcarscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie węgierscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie rosyjscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie hiszpańscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie polscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie amerykańscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie włoscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie brytyjscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie hiszpańscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie holenderscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie polscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie rzymscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie szwajcarscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie węgierscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie rosyjscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie amerykańscy.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
     "05 Osoby/Friedrich Hayek.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie skandynawscy.md",
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
     "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
     "03 Atomy/Filozofia arabska.md",
-    "01 Input przejściowy/Filozofia/Filozofowie/2. Filozofowie średniowieczni/Al-Gazali.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie holenderscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie średniowieczni.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
