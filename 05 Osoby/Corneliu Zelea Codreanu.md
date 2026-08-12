@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - historia/współczesna
+  - osoba
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 13:29
+---
 
 - 1899-1938
 - Urodził się na Bukowinie jako Korneliusz Zieliński w rodzinie urzędniczej o polsko-niemiecko-mołdawskich korzeniach.  Bukowina w latach 1786-1848 był pod polską administracją (należącą do prowincji Galicja) i jego dziadek ze strony ojca, mołdawski chłop Simon Zelea, został zmuszony do zmiany nazwiska na Zeliński.
@@ -6,4 +15,3 @@
 - Sąd go skazał z 13 towarzyszami na 10 lat ciężkich robotów. Zamordowali ich żandarmi w transporcie do więzienia. ,,Więźniów uduszono. Ich zwłoki jeszcze na wszelki wypadek przestrzelono. Zostały one wywiezione do lasu, gdzie je oblano kwasem siarkowym i przykryto warstwą niegaszonego wapna. Następnie dół zalano betonem."
 
 
-#historia #historia/Rumunii #historia/współczesna

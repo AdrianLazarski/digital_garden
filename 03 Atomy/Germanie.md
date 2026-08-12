@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - historia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 13:33
+---
 
 - Indoeuropejska grupa językowa.
 - Praojczyzną Dania i południowa Skandynawia.
@@ -32,6 +41,3 @@
 - Anglowie: Z południowej Jutlandii (Angeln). W V najechali Anglię. Do VI zamieszkiwali Nortrumrbię, Mercję oraz wschodnią i południową Anglię.
 - Sasi: Westfalia i Saksonia. Nazwa od saksy (rodzaj noża). Naczelny bóg Saksnot (odpowiednik Tyra). W V najechali Anglię i utworzyli państwa: Essex (Sasi wschodni), Wessex (Sasi zachodni), Sussex (Sasi południowi). Ci z kontynentu zostali podbici przez Karola Wielkiego w latach 772-804. Wydali dynastię Ludolfingów. 
 - Danowie: Południowa Skandynawia. W V-VI w. zajęli półwysep Jutlandzki.
-
-
-#historia #historia/starożytna #historia/średniowieczna

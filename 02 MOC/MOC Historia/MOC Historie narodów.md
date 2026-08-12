@@ -16,7 +16,9 @@ modified date: 2026-08-12 13:13
 [[MOC Historia Hiszpanii]]
 [[MOC Historia Niemiec]]
 [[MOC Historia Rosji]]
+[[MOC Historia Rumunii]]
 [[MOC Historia Stanów Zjednoczonych]]
+[[MOC Historia Węgier]]
 [[MOC Historia Włoch]]
 
 

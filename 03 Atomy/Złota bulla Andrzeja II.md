@@ -1,9 +1,11 @@
 ---
 created: 2026-02-28 19:46
-tags: [atom]
+tags:
+  - atom
+  - historia/średniowieczna
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date : 2026-08-12 13:25
+modified date: 2026-08-12 13:25
 ---
 
 - 1222 r.
@@ -26,4 +28,3 @@ modified date : 2026-08-12 13:25
 9. Prawo rokoszu dla magnatów przeciwko królowi, który złamie prawo. Skreślone w 1687 r.
 
 
-#historia #historia/Węgier #historia/średniowieczna 

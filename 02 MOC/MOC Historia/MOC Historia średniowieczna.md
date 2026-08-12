@@ -8,9 +8,11 @@ status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-08-12 13:19
 ---
 
+[[Celtowie]]
 
 [[Frankowie]]
 
+[[Germanie]]
 
 VI w.
 [[Awarowie]] przybywają do Europy.
@@ -21,5 +23,13 @@ VII w.
 
 IX w.
 [[Państwo Wielkomorawskie]]
+
+XIII w.
+[[Złota bulla Andrzeja II]]
+
+
+
+
+
 
 [[Feudalizm]]

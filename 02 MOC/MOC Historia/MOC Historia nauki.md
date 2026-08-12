@@ -19,3 +19,5 @@ modified date: 2026-07-27 23:55
 [[MOC Historia myśli ekonomicznej]]
 
 [[Historia programowania obiektowego]]
+
+[MOC Chrześcijaństwo a nauka]

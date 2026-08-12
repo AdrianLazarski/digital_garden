@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - historia/starożytna
+  - historia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 13:30
+---
 
 
 - Grupa ludów indoeuropejskich.
@@ -24,4 +34,3 @@
 - Nieślubnymi dziećmi opiekowało się całe plemię, bo to mogły być dzieci królów lub bogów.
 - Król był uważany za męża wszystkich kobiet, inni to tylko zastępcy. Każde pierworodne to dziecko króla.
 
-#historia #historia/średniowieczna #historia/starożytna 

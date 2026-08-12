@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Historia/MOC Historia Francji.md",
+                "file": "02 MOC/MOC Historia/MOC Historia Austrii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Historia Francji"
+              "title": "MOC Historia Austrii"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Historia/02 Średniowieczna/Złota bulla Andrzeja II.md",
+                "file": "01 Input przejściowy/Historia/06 Państwa/Historia Austrii.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Złota bulla Andrzeja II"
+              "title": "Historia Austrii"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Historia/02 Średniowieczna/Złota bulla Andrzeja II.md",
+                "file": "02 MOC/MOC Historia/MOC Historia Austrii.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,36 +355,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8abcccad11d9576e",
+  "active": "ec052d18d1a987ad",
   "lastOpenFiles": [
-    "01 Input przejściowy/Historia/02 Średniowieczna/Protobułgarzy.md",
-    "01 Input przejściowy/Historia/02 Średniowieczna/Awarowie.md",
-    "01 Input przejściowy/Historia/02 Średniowieczna/Feudalizm.md",
-    "01 Input przejściowy/Historia/02 Średniowieczna/Frankowie.md",
-    "01 Input przejściowy/Historia/02 Średniowieczna/Państwo Samona.md",
-    "01 Input przejściowy/Historia/02 Średniowieczna/Państwo Wielkomorawskie.md",
-    "02 MOC/MOC Historia/MOC Historia średniowieczna.md",
-    "02 MOC/MOC Historia/MOC Historia współczesna.md",
-    "02 MOC/MOC Historia/MOC Historia Francji.md",
     "02 MOC/MOC Historia/MOC Historie narodów.md",
-    "02 MOC/MOC Historia/MOC Historia starożytna.md",
+    "02 MOC/MOC Historia/MOC Historia Rumunii.md",
+    "01 Input przejściowy/Historia/06 Państwa/Historia Austrii.md",
+    "03 Atomy/Historia kapitalizmu.md",
     "02 MOC/MOC Historia/MOC Historia nowożytna.md",
+    "03 Atomy/Germanie.md",
+    "02 MOC/MOC Historia/MOC Historia średniowieczna.md",
+    "02 MOC/MOC Historia/MOC Historia starożytna.md",
+    "02 MOC/MOC Historia/MOC Historia nauki.md",
     "02 MOC/MOC Historia.md",
-    "02 MOC/MOC Historia/MOC Historia Włoch.md",
-    "02 MOC/MOC Historia/MOC Historia Wielkiej Brytanii.md",
-    "02 MOC/MOC Historia/MOC Historia Stanów Zjednoczonych.md",
-    "02 MOC/MOC Historia/MOC Historia Rosji.md",
-    "02 MOC/MOC Historia/MOC Historia Grecji.md",
-    "02 MOC/MOC Historia/MOC Historia Hiszpanii.md",
-    "02 MOC/MOC Historia/MOC Historia Niemiec.md",
-    "02 MOC/MOC Historia/MOC Historia Austrii.md",
-    "02 MOC/MOC Historia/MOC Historia Polski.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
+    "02 MOC/MOC Religia.md",
+    "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo a nauka.md",
+    "03 Atomy/Celtowie.md",
+    "05 Osoby/Corneliu Zelea Codreanu.md",
+    "02 MOC/MOC Historia/MOC Historia Węgier.md",
+    "03 Atomy/Chile Pinocheta.md",
+    "02 MOC/MOC Historia/MOC Historia współczesna.md",
+    "03 Atomy/Wielkie odkrycia geograficzne.md",
+    "03 Atomy/Renesans.md",
+    "03 Atomy/załączniki/Pasted image 20240616205731.png",
+    "03 Atomy/Awarowie.md",
+    "03 Atomy/Złota bulla Andrzeja II.md",
+    "02 MOC/MOC Historia/MOC Historia Francji.md",
+    "03 Atomy/Protobułgarzy.md",
+    "03 Atomy/Feudalizm.md",
+    "03 Atomy/Frankowie.md",
     "05 Osoby/załączniki/Pasted image 20240707120949.png",
-    "05 Osoby/Achille Mbembe.md",
-    "05 Osoby/Adolf Reinach.md",
     "05 Osoby/załączniki/Pasted image 20240705231531.png",
-    "05 Osoby/Alexander Baumgarten.md",
-    "05 Osoby/Erazm z Rotterdamu.md",
     "05 Osoby/załączniki/Pasted image 20240630175408.png",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
@@ -392,7 +393,6 @@
     "03 Atomy/załączniki/Pasted image 20240328192628.png",
     "03 Atomy/załączniki/Pasted image 20240616142158.png",
     "03 Atomy/załączniki/ASCI.png",
-    "03 Atomy/załączniki/Pasted image 20240610141757.png",
     "02 MOC/MOC Prawo"
   ]
 }

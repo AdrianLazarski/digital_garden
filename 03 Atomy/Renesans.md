@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - historia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 13:27
+---
 
 - Epoka w historii kultury.
 - Nasilone zainteresowanie greckim i rzymskim antykiem (wcześniej też występowało).
@@ -17,5 +26,3 @@
 - Wzrost biurokracji i powiązany z tym wzrost kultury piśmienniczej. 
 - W XV wieku wzrasta dobrobyt Włoch. Zniknęła epidemia czarnej śmierci i panował względny spokój w latach 1402-1294. Ośrodki władzy (republiki np. Florencja i Wenecja oraz monarchie np. Mediolan lub Rzym), bractwa religijne, majętni kondotierzy chętnie inwestowali w sztukę, ale nie każdą: nie ma włoskich kompozytorów z tego okresu; po śmierci Petrarki mamy stulecie bez poezji 1375-1475.
 
-
-#historia #historia/nowożytna 

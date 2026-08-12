@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - historia/nowożytna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 13:34
+---
 
 
 - XIX wiek to kapitalizm państwowy (korporatyzm)/kapitalizm monopolistyczny, wywodzący się z merkantylizmu, protekcjonizm i ingerencja organów państwowych w coraz więcej gałęzi życia.
@@ -18,4 +27,3 @@
 - Angielskie Prawa Biednych (vide "wielki sukces" Disraelego z 1834) i Prawa przeciw Włóczęgostwu stanowiły państwowe wprowadzenie w dosłownym sensie pracy przymusowej w domach pracy (wg szacunków 6.5% Anglików przez to przeszło) + wprowadzały zakazy migracji.
 
 
-#historia #historia/nowożytna #historia/gospodarcza 
