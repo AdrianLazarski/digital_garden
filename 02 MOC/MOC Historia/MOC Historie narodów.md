@@ -20,6 +20,7 @@ modified date: 2026-08-12 13:13
 [[MOC Historia Stanów Zjednoczonych]]
 [[MOC Historia Węgier]]
 [[MOC Historia Włoch]]
+[[MOC Historia Żydów]]
 
 
 [[MOC Historia Wielkiej Brytanii]]

@@ -6,5 +6,6 @@
   "userIgnoreFilters": [
     ".git"
   ],
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "readableLineLength": false
 }
