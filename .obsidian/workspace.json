@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Wykłady/Kursy uniwersyteckie/Kłosiewicz, Myśl i maszyna/Kłosiewicz Olga, Myśl i maszyna.md",
+                "file": "01 Input przejściowy/Filozofia/Wykłady/Kursy uniwersyteckie/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kłosiewicz Olga, Myśl i maszyna"
+              "title": "Matczak, Imperium tekstu kontratakuje 1"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+                "file": "02 MOC/MOC Filozofia/MOC Najnowsze dzieła filozoficzna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Najnowsza literatura filozoficzna"
+              "title": "MOC Najnowsze dzieła filozoficzna"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii techniki.md",
+                "file": "04 Źródła/Grzybowski Jacek, Filozofia polityki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii techniki"
+              "title": "Grzybowski Jacek, Filozofia polityki"
             }
           },
           {
@@ -127,8 +127,7 @@
               "title": "MOC Dzieła psychologiczne"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii techniki.md",
+                "file": "01 Input przejściowy/Filozofia/Wykłady/Kursy uniwersyteckie/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,14 +330,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72ac57db629fec92",
+  "active": "cc286c7478e749f6",
   "lastOpenFiles": [
+    "04 Źródła/Semiotyka, Marek Porwolik.md",
+    "04 Źródła/Grzybowski Jacek, Filozofia polityki.md",
+    "01 Input przejściowy/Filozofia/Wykłady/Kursy uniwersyteckie/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
+    "02 MOC/MOC Filozofia/MOC Najnowsze dzieła filozoficzna.md",
+    "04 Źródła/Lemańska, Filozofia przyrody.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "04 Źródła/Grzybowski Jacek, Propedeutyka.md",
+    "04 Źródła/Kłosiewicz Olga, Myśl i maszyna.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii techniki.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
-    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
-    "01 Input przejściowy/Filozofia/Wykłady/Kursy uniwersyteckie/Kłosiewicz, Myśl i maszyna/Kłosiewicz Olga, Myśl i maszyna.md",
     "04 Źródła/załączniki/Pasted image 20250413185511.png",
     "04 Źródła/Bartyzel, Wykłady o filozofii polityki.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
@@ -353,13 +359,6 @@
     "05 Osoby/Mieczysław Albert Krąpiec.md",
     "04 Źródła/Krąpiec, Nagrania.md",
     "04 Źródła/Peterson, biblijne wykłady.md",
-    "02 MOC/MOC Psychologia.md",
-    "02 MOC/MOC.md",
-    "02 MOC/MOC Fizyka.md",
-    "02 MOC/MOC Dzieła o fizyce.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
-    "04 Źródła/Woleński Jan, Wiedza i jej źródła.md",
-    "04 Źródła/Woleński Jan, Wprowadzenie epistemologii wykład.md",
     "03 Atomy/załączniki/Trójkąt platoński.png",
     "03 Atomy/załączniki/Pasted image 20240402215620.png",
     "03 Atomy/załączniki/Pasted image 20240402215145.png",

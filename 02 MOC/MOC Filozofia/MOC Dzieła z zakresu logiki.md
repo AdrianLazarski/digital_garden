@@ -24,3 +24,8 @@ modified date: 2026-07-04 23:09
 [[Ajdukiewicz Kazimierz, O spójności syntaktycznej]], 1935 r.
 [[Nowak Maciej, O stosowaniu logiki przez o. Józefa Marię Bocheńskiego]], 2020 r.
 [[Porwolik Marek, Józefa Marii Bocheńskiego program studiów o Bogu]], 2020 r.
+
+
+# Wykłady
+
+[[Semiotyka, Marek Porwolik]], 2020 r.

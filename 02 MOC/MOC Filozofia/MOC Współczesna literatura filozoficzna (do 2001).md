@@ -103,4 +103,4 @@ modified date: 2026-07-03 17:38
 
 
 
-$\rightarrow$ [[MOC Najnowsza literatura filozoficzna]]
+$\rightarrow$ [[MOC Najnowsze dzieła filozoficzna]]

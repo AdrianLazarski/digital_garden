@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/przyrody
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:41
+Rok oryginału: "2018"
+---
 
 - Racjonalność (łac. ratio = obliczenie, rachunek , rozważenie, zastanawianie się, rozsądek, powód, motyw, racja, pogląd, mniemanie, rozum)
 - Działać racjonalnie to dosłownie "mieć po czemuś rację".

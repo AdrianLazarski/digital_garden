@@ -57,3 +57,4 @@ modified date: 2026-07-06 14:06
 
 [[Mateusz Machaj, Pseudokonflikt pomiędzy jednostką a wspólnotą]], 2016 r.
 [[Bartyzel, Wykłady o filozofii polityki]], 2021 r.
+[[Grzybowski Jacek, Filozofia polityki]], 2021 r.

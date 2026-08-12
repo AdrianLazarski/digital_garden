@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - filozofia/współczesna
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:38
+Rok oryginału: "2018"
+---
+Wykład uniwersytecki na UKSW.
 
 ## Część I Historia filozofii - przekrój
 
@@ -265,6 +276,3 @@ Baza stosunków produkcji                               
 		- społeczne stosunki w miejscu pracy, warunki pracy, relacje robotnik-pracodawca 
 	- **Siły wytwórcze:**           
 		- ziemia, surowce, siła robocza, zakłady produkcyjne, narzędzia, technologia 
-
-
-#filozofia #filozofia/polska #filozofia/współczesna #filozofia/wykład 

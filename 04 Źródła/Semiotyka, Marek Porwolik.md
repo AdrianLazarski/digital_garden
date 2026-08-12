@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - logika/semiotyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:42
+Rok oryginału: "2020"
+---
 ## Wykład 1
 
 Semiotyka to:
@@ -420,5 +430,3 @@ Kryteria podziału definicji:
 4. Zakres stosowalności
 - bezwarunkowe
 - warunkowe
-
-#filozofia/wykład #logika/semiotyka #semiotyka #filozofia/języka 

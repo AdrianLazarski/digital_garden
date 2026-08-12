@@ -1,11 +1,7 @@
 #filozofia #filozofia/współczesna #filozofia/polska #filozofia/prawa
 
 
-Ta książka ma tytuł Imperium tekstu, prawo jako postulowanie i urzeczywistnianie świata możliwego i właściwie można by było cały wykład poświęcić na sam tytuł.
-
-
-
-I to, że ja zacytowałem swoją książkę w sposób podobny imperium tekstu jest oczywiście jakimś nawiązaniem, bo nie ukrywałem nigdy, że ta to podejście dworkinowskie podejście do Burkina, któremu poświęcimy sporo czasu, tutaj do prawa jest mi bliskie. Jest to pojęcie bardzo holistyczne, bardzo całościowe dworkin nie jest pozytywistą, nieraz się mówi, że on jest filozofem ducha prawa.
+- dworkin nie jest pozytywistą, nieraz się mówi, że on jest filozofem ducha prawa.
 
 9:50
 

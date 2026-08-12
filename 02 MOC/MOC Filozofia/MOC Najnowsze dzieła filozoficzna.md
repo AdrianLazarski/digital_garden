@@ -87,7 +87,11 @@ modified date: 2026-07-03 17:40
 [[Woleński Jan, Wiedza i jej źródła]], 2011 r.
 [[Wolniewicz, Melioryzm Leibniza]], 2016 r.
 [[Peterson, biblijne wykłady]], 2017 r.
+[[Lemańska, Filozofia przyrody]], 2018 r.
+[[Grzybowski Jacek, Propedeutyka]], 2018 r.
+[[Semiotyka, Marek Porwolik]], 2020 r.
 [[Bartyzel, Wykłady o filozofii polityki]], 2021 r.
+[[Grzybowski Jacek, Filozofia polityki]], 2021 r.
 [[Kłosiewicz Olga, Myśl i maszyna]], 2024 r.
 
 

@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - filozofia/polityki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-08-12 14:36
+Rok oryginału: "2021"
+---
+Wykład uniwersytecki na UKSW. 
 
 - Filozofia polityki idzie ku antropologii i metafizyce. Politologia mówi tylko o kosmetyce systemów politycznych.
 - Etyka społeczna ma jakieś cele społeczne np. polityka jednego dziecka w Chinach albo przymus segregacji śmieci. Jednak tak naprawdę godziwość inżynierii społecznej zależy od ukrytej w niej metafizyki.
@@ -393,5 +404,3 @@ Slavoj Žižek, (ur. 21 marca 1949 w Lublanie)
 - słoweński socjolog, filozof, marksista i krytyk kultury.
 - Profesor w Instytucie Socjologii Uniwersytetu w Lublanie, wykłada także w European Graduałe School i na uniwersytetach amerykańskich.
 - Wprowadza do współczesnej filozofii dorobek psychoanalizy, przede wszystkim na pole analiz zjawisk społecznych, jest także komentatorem myśli francuskiego psychoanalityka Jacques'a Lacana. Inspiruje się również niemieckim idealizmem oraz marksizmem.
-
-#filozofia/polityki #filozofia/wykład 
