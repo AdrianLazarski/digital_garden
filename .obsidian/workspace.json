@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Wykłady/Kursy uniwersyteckie/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
+                "file": "01 Input przejściowy/!!Random/Alkmeon z Krotonu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Matczak, Imperium tekstu kontratakuje 1"
+              "title": "Alkmeon z Krotonu"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Najnowsze dzieła filozoficzna.md",
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Najnowsze dzieła filozoficzna"
+              "title": "MOC Filozofowie starożytni"
             }
           },
           {
@@ -247,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Wykłady/Kursy uniwersyteckie/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
+                "file": "01 Input przejściowy/!!Random/Alkmeon z Krotonu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,13 +332,26 @@
   },
   "active": "cc286c7478e749f6",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "02 MOC/MOC Filozofia.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Najnowsze dzieła filozoficzna.md",
+    "01 Input przejściowy/!!Random/Alkmeon z Krotonu.md",
+    "01 Input/Władza w judaizmie.md",
+    "01 Input/załączniki/etyka.jpg",
+    "01 Input/załączniki/Realny PKB per capita w Polsce.webp",
+    "01 Input/załączniki/Filozofia przyrody.jpg",
+    "01 Input/załączniki/Filozofia człowieka.jpg",
+    "01 Input/Wyjaśnianie.md",
+    "01 Input/Realny PKB per capita w Polsce.md",
+    "01 Input/Lewica i prawica.md",
+    "04 Źródła/załączniki/Pasted image 20250413190730.png",
+    "01 Input przejściowy/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
     "04 Źródła/Semiotyka, Marek Porwolik.md",
     "04 Źródła/Grzybowski Jacek, Filozofia polityki.md",
-    "01 Input przejściowy/Filozofia/Wykłady/Kursy uniwersyteckie/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu logiki.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii przyrody.md",
-    "02 MOC/MOC Filozofia/MOC Najnowsze dzieła filozoficzna.md",
     "04 Źródła/Lemańska, Filozofia przyrody.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
     "04 Źródła/Grzybowski Jacek, Propedeutyka.md",
@@ -351,23 +364,10 @@
     "04 Źródła/Wolniewicz, Melioryzm Leibniza.md",
     "04 Źródła/Wolniewicz Bogusław, Wykłady o Wittgensteinie.md",
     "02 MOC/MOC Psychologia/MOC Dzieła psychologiczne.md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
-    "04 Źródła/Mateusz Machaj, Pseudokonflikt pomiędzy jednostką a wspólnotą.md",
-    "04 Źródła/Adorno Theodor, Wstęp do dialektyki.md",
-    "04 Źródła/Debeta Wiśniewski-Woziński.md",
-    "04 Źródła/Heller, Czy materia istnieje.md",
-    "05 Osoby/Mieczysław Albert Krąpiec.md",
-    "04 Źródła/Krąpiec, Nagrania.md",
-    "04 Źródła/Peterson, biblijne wykłady.md",
     "03 Atomy/załączniki/Trójkąt platoński.png",
     "03 Atomy/załączniki/Pasted image 20240402215620.png",
     "03 Atomy/załączniki/Pasted image 20240402215145.png",
     "03 Atomy/załączniki/Pasted image 20240616205731.png",
-    "05 Osoby/załączniki/Pasted image 20240707120949.png",
-    "05 Osoby/załączniki/Pasted image 20240705231531.png",
-    "05 Osoby/załączniki/Pasted image 20240630175408.png",
-    "03 Atomy/załączniki/Pasted image 20240616195407.png",
-    "03 Atomy/załączniki/Ciąg.png",
     "02 MOC/MOC Prawo"
   ]
 }
