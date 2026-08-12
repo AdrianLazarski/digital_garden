@@ -85,5 +85,6 @@
   "shimmering-focus@@hide-pandoc-reference-list-status-bar": false,
   "shimmering-focus@@hide-harper-status-bar": false,
   "shimmering-focus@@active-line-highlight": "no-active-line-highlight",
-  "shimmering-focus@@longform-left-aligned": false
+  "shimmering-focus@@longform-left-aligned": false,
+  "shimmering-focus@@readable-line-length-toggle": false
 }

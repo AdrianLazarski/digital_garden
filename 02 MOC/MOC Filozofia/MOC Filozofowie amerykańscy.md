@@ -35,6 +35,7 @@ modified date: 2026-07-06 14:18
 [[Murray Rothbard]] 1926-1995 r.
 [[Hilary Putnam]] 1926-2016 r.
 [[Hubert Dreyfus]] 1927-2017 r.
+[[Edmund Gettier]] 1927-2021 r.
 [[Noam Chomsky]] 1928 r.
 [[Richard Rorty]] 1931-2007 r.
 [[Alvin Plantinga]] 1932 r.

@@ -7,5 +7,5 @@
     ".git"
   ],
   "showInlineTitle": true,
-  "readableLineLength": false
+  "readableLineLength": true
 }

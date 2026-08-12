@@ -4,10 +4,13 @@ tags:
   - moc
   - historia
 dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-08-12 13:45
 ---
 
+
+
+Izrael
 
 - Semityzm to pojęcie XVIII-wieczne na określenie grupy językowej. Etymologicznie pochodzi to z hebrajskiego, Semita to potomek Szema.
 - Język hebrajski istniał cały czas, nie powstał niedawno, jak twierdzą niektórzy. Po prostu nie mówiono w nim na co dzień.

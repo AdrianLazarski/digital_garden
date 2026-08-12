@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fe06365650f8f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input przejściowy/Historia/06 Państwa/Izrael.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Izrael"
-            }
-          },
-          {
             "id": "cc286c7478e749f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Historia/MOC Historia Żydów.md",
+                "file": "01 Input przejściowy/Neoliberalism The Genesis of a Political Swearword.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Historia Żydów"
+              "title": "Neoliberalism The Genesis of a Political Swearword"
+            }
+          },
+          {
+            "id": "1934b091f601ac04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Osoby/Tomasz Gabiś.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tomasz Gabiś"
             }
           }
         ]
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Historia/06 Państwa/Izrael.md",
+                "file": "01 Input przejściowy/Neoliberalism The Genesis of a Political Swearword.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,8 +258,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8fe06365650f8f8",
+  "active": "cc286c7478e749f6",
   "lastOpenFiles": [
+    "04 Źródła/Zapiski manarchisty 1.md",
+    "05 Osoby/Tomasz Gabiś.md",
+    "04 Źródła/Spisek Parapolityka System.md",
+    "04 Źródła/Hans Hermann Hoppe o monarchii, demokracji i ładzie naturalnym.md",
+    "04 Źródła/Gerd-Klaus Kaltenbrunner grzech śmiertelny hałas.md",
+    "04 Źródła/Gabiś, Herbert Gruhl.md",
+    "04 Źródła/Gabiś, Carl Schmitt.md",
+    "04 Źródła/Biedny konserwatysta płacze czytając Robotnika.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
+    "05 Osoby/Edmund Gettier.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie amerykańscy.md",
+    "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Historia/MOC Historia Żydów.md",
     "01 Input przejściowy/Historia/06 Państwa/Izrael.md",
     "02 MOC/MOC Historia/MOC Historie narodów.md",
@@ -273,20 +286,7 @@
     "02 MOC/MOC Historia/MOC Historia współczesna.md",
     "02 MOC/MOC Historia/MOC Historia Rumunii.md",
     "02 MOC/MOC Historia/MOC Historia nowożytna.md",
-    "03 Atomy/Germanie.md",
-    "02 MOC/MOC Historia/MOC Historia średniowieczna.md",
-    "02 MOC/MOC Historia/MOC Historia nauki.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo.md",
-    "02 MOC/MOC Religia.md",
-    "02 MOC/MOC Chrześcijaństwo/MOC Chrześcijaństwo a nauka.md",
-    "03 Atomy/Celtowie.md",
-    "05 Osoby/Corneliu Zelea Codreanu.md",
-    "02 MOC/MOC Historia/MOC Historia Węgier.md",
-    "03 Atomy/Chile Pinocheta.md",
-    "03 Atomy/Wielkie odkrycia geograficzne.md",
-    "03 Atomy/Renesans.md",
     "03 Atomy/załączniki/Pasted image 20240616205731.png",
-    "03 Atomy/Awarowie.md",
     "05 Osoby/załączniki/Pasted image 20240707120949.png",
     "05 Osoby/załączniki/Pasted image 20240705231531.png",
     "05 Osoby/załączniki/Pasted image 20240630175408.png",

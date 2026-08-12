@@ -128,6 +128,7 @@ modified date: 2026-07-03 17:36
 [[Leszek Kołakowski]] 1927-2009
 [[Hubert Dreyfus]] 1927-2017
 [[Bogusław Wolniewicz]] 1927-2017
+[[Edmund Gettier]] 1927-2021 r.
 [[Noam Chomsky]] 1928
 [[Jürgen Habermas]] 1929
 [[Jacques Derrida]] 1930-2004
