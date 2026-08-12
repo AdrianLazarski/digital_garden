@@ -1,3 +1,11 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:26
+---
 ## Wykład 1
 
 - Dialektykę Platona raz nazywa metodą, raz doktryną.
@@ -14,7 +22,3 @@
 
 
 
-
-
-
-#filozofia #filozofia/współczesna #filozofia/niemiecka #neomarksizm 

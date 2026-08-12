@@ -67,6 +67,7 @@ modified date: 2026-07-03 17:40
 [[Kmieciuk Andrzej, O filozofii przedsiębiorstwa Józefa M. Bocheńskiego]], 2013 r.
 [[Grzybowski Jacek, Czy relacja–najsłabszy rodzaj bytowości w metafizyce może stanowić fundament realnego bytu narodu]], 2016 r.
 [[Slenzok Norbert, Od transcendentalnej pragmatyki języka do libertariańskiej etyki argumentacyjnej]], 2016 r.
+[[Debeta Wiśniewski-Woziński]], 2017 r.
 [[Lemańska Anna, Wyjaśnianie w nauce]], 2019 r.
 [[Andrzejuk Artur, Etyka w ujęciu Bocheńskiego]], 2020 r.
 [[Andrzejuk Artur, Józefa M. Bocheńskiego koncepcja historii filozofii]], 2020 r.

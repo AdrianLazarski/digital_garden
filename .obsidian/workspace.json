@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Wykłady/Mateusz Machaj - Pseudokonflikt pomiędzy jednostką a wspólnotą.md",
+                "file": "01 Input przejściowy/Filozofia/Wykłady/Mateusz Machaj, Pseudokonflikt pomiędzy jednostką a wspólnotą.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mateusz Machaj - Pseudokonflikt pomiędzy jednostką a wspólnotą"
+              "title": "Mateusz Machaj, Pseudokonflikt pomiędzy jednostką a wspólnotą"
+            }
+          },
+          {
+            "id": "45e4bdb61cb2248d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Input przejściowy/Filozofia/Wykłady/Adorno Theodor, Wstęp do dialektyki.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Adorno Theodor, Wstęp do dialektyki"
             }
           },
           {
@@ -56,30 +80,6 @@
             }
           },
           {
-            "id": "45e4bdb61cb2248d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Dzieła z zakresu filozofii kultury"
-            }
-          },
-          {
             "id": "1d1552ac6bfeb50a",
             "type": "leaf",
             "state": {
@@ -103,7 +103,8 @@
               "title": "MOC Dzieła psychologiczne"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Wykłady/Mateusz Machaj - Pseudokonflikt pomiędzy jednostką a wspólnotą.md",
+                "file": "01 Input przejściowy/Filozofia/Wykłady/Adorno Theodor, Wstęp do dialektyki.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,18 +307,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc286c7478e749f6",
+  "active": "45e4bdb61cb2248d",
   "lastOpenFiles": [
-    "01 Input przejściowy/Filozofia/Wykłady/Peterson, biblijne wykłady.md",
+    "01 Input przejściowy/Filozofia/Wykłady/Debeta Wiśniewski-Woziński.md",
+    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
     "02 MOC/MOC Psychologia/MOC Dzieła psychologiczne.md",
+    "01 Input przejściowy/Filozofia/Wykłady/Heller, Czy materia istnieje.md",
+    "05 Osoby/Mieczysław Albert Krąpiec.md",
+    "01 Input przejściowy/Filozofia/Wykłady/Krąpiec, Nagrania.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
+    "01 Input przejściowy/Filozofia/Wykłady/Mateusz Machaj, Pseudokonflikt pomiędzy jednostką a wspólnotą.md",
+    "01 Input przejściowy/Filozofia/Wykłady/Peterson, biblijne wykłady.md",
     "02 MOC/MOC Psychologia.md",
     "02 MOC/MOC.md",
     "02 MOC/MOC Fizyka.md",
     "02 MOC/MOC Dzieła o fizyce.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
-    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
     "01 Input przejściowy/Filozofia/Wykłady/Woleński Jan, Wiedza i jej źródła.md",
     "01 Input przejściowy/Filozofia/Wykłady/Woleński Jan, Wprowadzenie epistemologii wykład.md",
     "01 Input przejściowy/Filozofia/Wykłady/Wielomski, Seria o faszyzmie.md",
@@ -331,12 +338,6 @@
     "03 Atomy/załączniki/Pasted image 20240402215620.png",
     "03 Atomy/załączniki/Pasted image 20240402215145.png",
     "03 Atomy/Filozofia chrześcijańska.md",
-    "03 Atomy/Filozofia klasyczna.md",
-    "03 Atomy/Główne koncepcje filozofii.md",
-    "04 Źródła/Piketty Thomas, Kapitał w XXI wieku.md",
-    "04 Źródła/Neoliberalism The Genesis of a Political Swearword.md",
-    "05 Osoby/Tomasz Gabiś.md",
-    "04 Źródła/Zapiski manarchisty 1.md",
     "03 Atomy/załączniki/Pasted image 20240616205731.png",
     "05 Osoby/załączniki/Pasted image 20240707120949.png",
     "05 Osoby/załączniki/Pasted image 20240705231531.png",

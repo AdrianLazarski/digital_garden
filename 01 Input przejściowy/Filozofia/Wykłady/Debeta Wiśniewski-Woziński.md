@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:25
+Rok oryginału: "2017"
+---
 
 **Norbert Slenzok**  
 -Własność publiczna nie jest niczyja - właścicielem nie jest państwo! Właścicielami są opodatkowani ludzie.  
