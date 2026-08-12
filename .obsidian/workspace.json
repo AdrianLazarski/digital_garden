@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input/Kod detekcyjny.md",
+                "file": "01 Input przejściowy/!!Random/Intuicjonizm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kod detekcyjny"
+              "title": "Intuicjonizm"
             }
           },
           {
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input/Kod detekcyjny.md",
+                "file": "01 Input przejściowy/!!Random/Intuicjonizm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,6 +356,7 @@
   },
   "active": "cc286c7478e749f6",
   "lastOpenFiles": [
+    "01 Input/Kod detekcyjny.md",
     "01 Input przejściowy/!!Random/00. Lektury ❗.md",
     "01 Input przejściowy/!!Random/16-02-2024 piątek.md",
     "01 Input przejściowy/!!Random/bałagan w szkołach hellenistycznych.md",
@@ -381,7 +382,6 @@
     "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
-    "02 MOC/MOC Logika.md",
     "01 Input/załączniki/etyka.jpg",
     "01 Input/załączniki/Realny PKB per capita w Polsce.webp",
     "01 Input/załączniki/Filozofia przyrody.jpg",
