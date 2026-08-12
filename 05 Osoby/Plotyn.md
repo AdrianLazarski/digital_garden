@@ -5,7 +5,6 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date : 2026-08-12 13:05
 ---
-#Polecane%20%F0%9F%91%87)
 
 # Biografia 📁
 
@@ -43,6 +42,3 @@ modified date : 2026-08-12 13:05
 # Polecane 👇
 
 
-
-
-###### Tagi: #filozofia #osoba #filozofia/starożytna 

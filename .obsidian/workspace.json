@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "574ba10c1299f0f5",
+            "id": "a4c4d25741c1684a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+                "file": "02 MOC/MOC Historia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofowie starożytni"
+              "title": "MOC Historia"
             }
           },
           {
-            "id": "7911019d34fb5da3",
+            "id": "ec052d18d1a987ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Osoby/Plotyn.md",
+                "file": "02 MOC/MOC Historie narodów.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,127 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plotyn"
-            }
-          },
-          {
-            "id": "003d1f572a6598e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Osoby/Sekstus Empiryk.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sekstus Empiryk"
-            }
-          },
-          {
-            "id": "48e69acc96dfd065",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Marek Aureliusz.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Marek Aureliusz"
-            }
-          },
-          {
-            "id": "d8556987d777815e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Osoby/Epiktet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Epiktet"
-            }
-          },
-          {
-            "id": "57e9459833351d94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Osoby/Filon z Aleksandrii.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Filon z Aleksandrii"
-            }
-          },
-          {
-            "id": "38561efe1d2a055f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Osoby/Seneka.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Seneka"
+              "title": "MOC Historie narodów"
             }
           }
         ],
@@ -296,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Osoby/Plotyn.md",
+                "file": "02 MOC/MOC Historie narodów.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,34 +259,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7911019d34fb5da3",
+  "active": "ec052d18d1a987ad",
   "lastOpenFiles": [
-    "05 Osoby/Porfiriusz.md",
-    "05 Osoby/Jamblich.md",
-    "03 Atomy/Mariusz Wiktorynus.md",
+    "02 MOC/MOC Historia.md",
+    "02 MOC/MOC Historie narodów.md",
+    "01 Input przejściowy/Historia/02 Średniowieczna/Awarowie.md",
+    "05 Osoby/załączniki/Pasted image 20240707120949.png",
+    "05 Osoby/Achille Mbembe.md",
+    "05 Osoby/Adolf Reinach.md",
+    "05 Osoby/załączniki/Pasted image 20240705231531.png",
+    "05 Osoby/Alexander Baumgarten.md",
+    "05 Osoby/Erazm z Rotterdamu.md",
+    "05 Osoby/załączniki/Pasted image 20240630175408.png",
+    "05 Osoby/Abubacer.md",
+    "05 Osoby/Bazyli Wielki.md",
+    "05 Osoby/Grzegorz z Nazjanzu.md",
+    "05 Osoby/Grzegorz z Nyssy.md",
+    "05 Osoby/Augustyn z Hippony.md",
+    "05 Osoby/Proklos.md",
+    "05 Osoby/Boecjusz.md",
+    "05 Osoby/Kasjodor.md",
+    "05 Osoby/Jan Filipon.md",
+    "05 Osoby/Pseudo-Dionizy Areopagita.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
-    "05 Osoby/Plotyn.md",
-    "05 Osoby/Sekstus Empiryk.md",
-    "03 Atomy/Marek Aureliusz.md",
-    "05 Osoby/Epiktet.md",
-    "05 Osoby/Filon z Aleksandrii.md",
+    "03 Atomy/Mariusz Wiktorynus.md",
     "05 Osoby/Seneka.md",
-    "05 Osoby/Eubulides z Miletu.md",
-    "05 Osoby/Arystoteles.md",
-    "05 Osoby/Diogenes ze Smyrny.md",
-    "05 Osoby/Anaksarchos z Abdery.md",
-    "05 Osoby/Diodor z Kronos.md",
-    "05 Osoby/Pyrron z Elidy.md",
-    "05 Osoby/Zenon z Kition.md",
-    "05 Osoby/Epikur.md",
-    "05 Osoby/Karneades.md",
-    "05 Osoby/Cyceron.md",
-    "05 Osoby/Lukrecjusz.md",
-    "05 Osoby/Diogenes z Synopy.md",
-    "05 Osoby/Antystenes.md",
-    "05 Osoby/Arystyp z Cyreny.md",
-    "05 Osoby/Euklides z Megary.md",
-    "05 Osoby/Metrodor z Chios.md",
+    "05 Osoby/Filon z Aleksandrii.md",
+    "05 Osoby/Epiktet.md",
+    "03 Atomy/Marek Aureliusz.md",
+    "05 Osoby/Sekstus Empiryk.md",
+    "05 Osoby/Plotyn.md",
+    "05 Osoby/Porfiriusz.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
@@ -414,9 +297,6 @@
     "03 Atomy/załączniki/Pasted image 20240616142158.png",
     "03 Atomy/załączniki/ASCI.png",
     "03 Atomy/załączniki/Pasted image 20240610141757.png",
-    "03 Atomy/załączniki/Pasted image 20240616130239.png",
-    "04 Źródła/załączniki/Jasiński Łukasz, Agonia.webp",
-    "01 Input przejściowy/Filozofia/Działy filozofii/Filozofia prawa/załączniki/Pasted image 20240808191617.png",
     "02 MOC/MOC Prawo"
   ]
 }

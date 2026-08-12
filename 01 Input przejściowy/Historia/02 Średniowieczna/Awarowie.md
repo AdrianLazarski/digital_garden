@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - historia/średniowieczna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 13:11
+---
 
 
 - Koczownicy lud, który przybył w VI wieku do Europy. Nie ma zgodności skąd dokładnie, ale najprawdopodobniej z północnych granic Cesarstwa Chińskiego przegonieni przez Kaganat Turecki (Mongolia, Syberia; nic wspólnego z Turcją późniejszą).
@@ -11,6 +20,3 @@
 - Podbici przez Karola Wielkiego w latach 791-805 r. 
 - Po tym wtopili się w ludność słowiańską i madziarską.
 - Sprowadzili z Chin do Europy żelazne strzemiona, które przejęli Frankowie i utworzyli jazdę pancerną, z której wykształciło się rycerstwo.
-
-
-#historia #historia/średniowieczna 

@@ -10,14 +10,17 @@ modified date: 2026-07-03 16:00
 
 # Linki
 
-[[MOC Epoki historyczne]]
+[[MOC Historia starożytna]]
+[[MOC Historia średniowieczna]]
+[[MOC Historia nowożytna]]
+[[MOC Historia współczesna]]
 
 [[MOC Historie narodów]]
+
 
 [[MOC Książki historyczne]]
 
 [[MOC Historia nauki]]
-
 
 [[MOC Filozofia historii]]
 
