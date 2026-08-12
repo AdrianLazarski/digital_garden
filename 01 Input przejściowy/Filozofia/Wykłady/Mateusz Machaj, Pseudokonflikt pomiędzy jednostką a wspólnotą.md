@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - filozofia/polityki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:15
+Rok oryginału: "2016"
+---
 
 
 [https://www.youtube.com/watch?v=-QckGnx2xxQ&t=0s&list=WL&index=34](https://www.youtube.com/watch?v=-QckGnx2xxQ&t=0s&list=WL&index=34)
@@ -15,4 +25,3 @@ Konflikt bierze się zawsze z jakiejś zmiany. Ludzie mogą żyć w kiepskich wa
 Kiedy na poziomie jednostki pojawia się mutacja i nie zostania ona odrzucona, zacznie ona współtworzyć nową wspólnotę. Toteż konflikty są nie między jednostką a wspólnotą, a między dwoma modelami wspólnoty.
 
 
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/polityki #libertarianizm  

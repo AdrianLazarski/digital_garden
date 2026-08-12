@@ -33,3 +33,9 @@ modified date: 2026-07-03 17:46
 [[Ziemińska Renata, Spor relatywizmu z absolutyzmem na temat pojęcia prawdy]], 2009 r.
 [[Ziemińska Renata, Współczesne koncepcje prawdy]], 2011 r.
 [[Herold Natalia, Filozoficzna koncepcja zabobonu w ujęciu o. Józefa Marii Bocheńskiego OP]], 2020 r.
+
+
+# Wykłady
+
+[[Woleński Jan, Wprowadzenie epistemologii wykład]], 2011 r.
+[[Woleński Jan, Wiedza i jej źródła]], 2011 r.

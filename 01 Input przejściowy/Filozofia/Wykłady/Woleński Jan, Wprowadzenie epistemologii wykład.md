@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - ref
+  - filozofia/epistemologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:11
+Rok oryginału: "2011"
+---
 https://www.youtube.com/watch?v=1ymkCT7mTBE&t=1s
 
 - Epistemologia może być też zwierząt, istot nadnaturalnych, czy roślin.
@@ -45,4 +56,5 @@ Ajdukiewicza podział epistemologii:
 	- Naturalistyczny: zadanie epistemologii czysto opisowe. Nie formułuje norm. Quine: epistemologia powinna być częścią psychologii. Woleński uważa się za naturalistę, ale nieredukcyjnego
 
 
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/epistemologia 
+Kolejna część:
+ [[Woleński Jan, Wiedza i jej źródła]]

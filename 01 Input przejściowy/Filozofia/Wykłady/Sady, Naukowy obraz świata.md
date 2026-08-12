@@ -1,4 +1,14 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - fizyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:08
+Rok oryginału: "2022"
+---
+[[Wojciech Sady]]
 ## wykład 1
 
 - Arystoteles: czas to ruch pierwszego nieba.
@@ -22,5 +32,3 @@
 
 Nie rozumiem. Do powrotu kiedyś tam.
 
-
-#historia/nauki #historia/fizyki 

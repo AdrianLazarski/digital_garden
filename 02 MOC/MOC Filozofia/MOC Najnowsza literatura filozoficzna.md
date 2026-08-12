@@ -58,7 +58,6 @@ modified date: 2026-07-03 17:40
 [[Noras, Kubalica, Geneza współczesnej filozofii wartości]], 2023 r.
 
 
-
 # Artykuły chronologicznie
 
 [[Rosiak Marek, Filozofia pierwsza, metafizyka, ontologia]], 2001 r.
@@ -79,6 +78,12 @@ modified date: 2026-07-03 17:40
 [[Porwolik Marek, Józefa Marii Bocheńskiego program studiów o Bogu]], 2020 r.
 [[Pylat Joanna, Związki Józefa Bocheńskiego ze środowiskiem naukowym w UK]], 2020 r.
 
+
+# Wykłady
+
+[[Woleński Jan, Wprowadzenie epistemologii wykład]], 2011 r.
+[[Woleński Jan, Wiedza i jej źródła]], 2011 r.
+[[Peterson, biblijne wykłady]], 2017 r.
 
 
 $\leftarrow$ [[MOC Współczesna literatura filozoficzna (do 2001)]]

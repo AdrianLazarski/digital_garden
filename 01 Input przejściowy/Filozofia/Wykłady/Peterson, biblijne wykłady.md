@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - psychologia
+  - filozofia/kultury
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:13
+Rok oryginału: "2017"
+---
+
 bierzecie tekst i możecie go interpretować na wiele sposobów ale to nie jest właściwe w tym właśnie miejscu post-modernisci popełnili błąd to, czego szukasz w tekście i w świecie, w tym samym kontekście to jest wystarczający porządek i wskazówki możemy wtedy spytać: co oznacza wystarczający porządek i wskazówki? nie chcesz cierpieć tak bardzo
 
 mamy tylko małą liczbę interpretacji które będą działać w tej ściśle zdefiniowanej przestrzeni to jest jeden z powodów, dla których post-moderniści są w błędzie
@@ -121,8 +133,3 @@ i my poddajemy się jej kołysaniu
 i czujemy się częścią bytu  
 i to składa się na to podbudowujące doświadczenie  
 ale nie "wiemy" że to jest to, co robimy  my po prostu idziemy i to robimy
-
------------------------
-
-
-#filozofia #filozofia/współczesna #filozofia/kultury 

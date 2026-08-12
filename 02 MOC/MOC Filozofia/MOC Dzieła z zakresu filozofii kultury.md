@@ -15,3 +15,8 @@ modified date: 2026-07-22 21:41
 [[Szahaj Andrzej, Zniewalająca moc kultury]], 2004 r.
 [[Scruton Roger, Kultura jest ważna]], 2007 r.
 [[Grzybowski ks. Jacek, Uciec z krainy zapomnienia]], 2016 r.
+
+
+# Wykłady
+
+[[Peterson, biblijne wykłady]], 2017 r.

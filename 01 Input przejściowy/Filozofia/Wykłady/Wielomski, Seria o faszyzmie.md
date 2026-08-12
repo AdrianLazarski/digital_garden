@@ -6,8 +6,9 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-08-12 14:04
+Rok oryginału: "2021"
 ---
-
+[[Adam Wielomski]]
 ## Sorel
 
 - Karol Marks faszyzmu.
