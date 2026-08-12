@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 15:28
+---
 
 
 
@@ -113,4 +122,3 @@ o Cóż po marksizmie?
 ![[Pasted image 20240610142505.png]]
 
 
-#filozofia #marksizm #filozofia/polityki #filozofia/historia_filozofii 

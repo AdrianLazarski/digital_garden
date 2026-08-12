@@ -37,4 +37,3 @@ W PPS-Lewica:  Ludwik Krzywicki
 
 
 
-#socjalizm #filozofia/polityki #filozofia/historia_filozofii #historia 

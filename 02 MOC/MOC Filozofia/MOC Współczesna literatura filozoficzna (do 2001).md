@@ -42,6 +42,7 @@ modified date: 2026-07-03 17:38
 [[Camus Albert, Upadek]], 1956 r.
 [[Voegelin Eric, Świat Polis]], 1957 r.
 [[Voegelin Eric, Platon]], 1957 r.
+[[Scott-Kakures Dion, Wstęp do historii filozofii]], 1957 r.
 [[Adorno Theodor, Wstęp do dialektyki]], 1958 r.
 [[Fanon Frantz, Wyklęty lud ziemi]], 1961 r.
 [[Popkin Richard, Stroll Avrum,  Filozofia]], 1961 r.

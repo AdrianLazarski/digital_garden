@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/!!Random/Scott-Kakures Dion, Wstęp do historii filozofii.md",
+                "file": "01 Input/Kod detekcyjny.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Scott-Kakures Dion, Wstęp do historii filozofii"
+              "title": "Kod detekcyjny"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia.md",
+                "file": "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofia"
+              "title": "MOC Współczesna literatura filozoficzna (do 2001)"
             }
           },
           {
@@ -151,8 +151,7 @@
               "title": "MOC Dzieła logiczne"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 MOC/MOC Filozofia.md",
+                "file": "01 Input/Kod detekcyjny.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,15 +354,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72ac57db629fec92",
+  "active": "cc286c7478e749f6",
   "lastOpenFiles": [
+    "01 Input przejściowy/!!Random/00. Lektury ❗.md",
+    "01 Input przejściowy/!!Random/16-02-2024 piątek.md",
+    "01 Input przejściowy/!!Random/bałagan w szkołach hellenistycznych.md",
+    "01 Input przejściowy/!!Random/Intuicjonizm.md",
+    "01 Input przejściowy/!!Random/Marksizm.md",
+    "01 Input przejściowy/!!Random/obiektywizm vs akap.md",
+    "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md",
+    "01 Input przejściowy/!!Random/Redakcyjne zalecenia P.K..md",
+    "01 Input przejściowy/!!Random/Socjalizm (polityka).md",
+    "01 Input przejściowy/!!Random/shitpost.md",
+    "04 Źródła/Scott-Kakures Dion, Wstęp do historii filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia współczesna.md",
+    "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
-    "01 Input przejściowy/!!Random/Scott-Kakures Dion, Wstęp do historii filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
-    "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "04 Źródła/Hunter, Metalogika.md",
     "02 MOC/MOC Matematyka/MOC Matematyczne podręczniki.md",
@@ -371,22 +382,10 @@
     "02 MOC/MOC.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Logika.md",
-    "02 MOC/MOC Dzieła logiczne.md",
-    "02 MOC/MOC Psychologia.md",
-    "02 MOC/MOC Psychologia/MOC Dzieła psychologiczne.md",
-    "05 Osoby/Alkmeon z Krotonu.md",
-    "04 Źródła/Adorno Theodor, Wstęp do dialektyki.md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
-    "02 MOC/MOC Filozofia/MOC Najnowsze dzieła filozoficzna.md",
-    "04 Źródła/Grzybowski Jacek, Filozofia polityki.md",
-    "01 Input/Władza w judaizmie.md",
     "01 Input/załączniki/etyka.jpg",
     "01 Input/załączniki/Realny PKB per capita w Polsce.webp",
     "01 Input/załączniki/Filozofia przyrody.jpg",
     "01 Input/załączniki/Filozofia człowieka.jpg",
-    "01 Input/Wyjaśnianie.md",
-    "01 Input/Realny PKB per capita w Polsce.md",
-    "01 Input/Lewica i prawica.md",
     "04 Źródła/załączniki/Pasted image 20250413190730.png",
     "04 Źródła/załączniki/Pasted image 20250413185511.png",
     "03 Atomy/załączniki/Trójkąt platoński.png",
