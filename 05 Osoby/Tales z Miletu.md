@@ -1,25 +1,13 @@
 ---
 created: 2026-02-28 19:46
 tags:
-  - "#filozofia/grecka"
-  - "#filozofia/starożytna"
-  - "#filozofia/metafizyka"
-  - "#filozofia/przyrody"
-  - "#matematyka/historia"
+  - filozofia/starożytna
+  - matematyka/historia
   - osoba
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-02 23:17
 ---
-
-**Spis treści**
-
-1. [Biografia 📁](#Biografia%20%F0%9F%93%81)
-2. [Poglądy 🔍](#Pogl%C4%85dy%20%F0%9F%94%8D)
-3. [Wpływy ⛓️](#Wp%C5%82ywy%20%E2%9B%93%EF%B8%8F)
-4. [Bibliografia 🔗](#Bibliografia%20%F0%9F%94%97)
-5. [Polecane 👇](#Polecane%20%F0%9F%91%87)
-
 
 # Biografia 📁
 

@@ -32,108 +32,12 @@
             }
           },
           {
-            "id": "0c399a66e6c366b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Osoby/Anaksarchos z Abdery.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Anaksarchos z Abdery"
-            }
-          },
-          {
-            "id": "f52f2f89dca0bdcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Osoby/Anaksagoras.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Anaksagoras"
-            }
-          },
-          {
-            "id": "3dfa12ea5f73fd58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Osoby/Anaksagoras.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Anaksagoras"
-            }
-          },
-          {
-            "id": "5ae366f722bd5fc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Osoby/Anaksymander.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Anaksymander"
-            }
-          },
-          {
             "id": "fa942a54bf723499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Tales z Miletu.md",
+                "file": "05 Osoby/Tales z Miletu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -152,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Osoby/Anaksagoras.md",
+                "file": "05 Osoby/Tales z Miletu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,13 +259,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40fde4cd44744f35",
+  "active": "fa942a54bf723499",
   "lastOpenFiles": [
-    "05 Osoby/Anaksarchos z Abdery.md",
-    "05 Osoby/Anaksagoras.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "05 Osoby/Anaksymander.md",
-    "03 Atomy/Tales z Miletu.md",
+    "05 Osoby/Zenon z Elei.md",
+    "05 Osoby/Anaksagoras.md",
+    "05 Osoby/Anaksarchos z Abdery.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "05 Osoby/Proklos.md",
+    "05 Osoby/Plotyn.md",
+    "05 Osoby/Ksenofanes z Kolofonu.md",
+    "05 Osoby/Kasjodor.md",
+    "05 Osoby/Jamblich.md",
+    "05 Osoby/Hippiasz z Elidy.md",
+    "05 Osoby/Grzegorz z Nazjanzu.md",
+    "05 Osoby/Filon z Aleksandrii.md",
+    "05 Osoby/Epiktet.md",
+    "05 Osoby/Diodor z Kronos.md",
+    "05 Osoby/Augustyn z Hippony.md",
+    "05 Osoby/Arystoteles.md",
+    "05 Osoby/Archelaos z Aten.md",
+    "05 Osoby/Tales z Miletu.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie z niefilozoficznych krajów.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
@@ -369,20 +287,6 @@
     "02 MOC/MOC Filozofia/MOC Filozofowie brytyjscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie hiszpańscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie holenderscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie polscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie rzymscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie szwajcarscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie węgierscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie rosyjscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie amerykańscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
-    "05 Osoby/Friedrich Hayek.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie skandynawscy.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
