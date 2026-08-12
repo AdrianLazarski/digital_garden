@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Wykłady/Mateusz Machaj, Pseudokonflikt pomiędzy jednostką a wspólnotą.md",
+                "file": "01 Input przejściowy/Filozofia/Wykłady/Kursy uniwersyteckie/Kłosiewicz, Myśl i maszyna/Kłosiewicz Olga, Myśl i maszyna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mateusz Machaj, Pseudokonflikt pomiędzy jednostką a wspólnotą"
+              "title": "Kłosiewicz Olga, Myśl i maszyna"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Wykłady/Adorno Theodor, Wstęp do dialektyki.md",
+                "file": "04 Źródła/Adorno Theodor, Wstęp do dialektyki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "72ac57db629fec92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii techniki.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła z zakresu filozofii techniki"
+            }
+          },
+          {
             "id": "1d1552ac6bfeb50a",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Filozofia/Wykłady/Adorno Theodor, Wstęp do dialektyki.md",
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii techniki.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,44 +331,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45e4bdb61cb2248d",
+  "active": "72ac57db629fec92",
   "lastOpenFiles": [
-    "01 Input przejściowy/Filozofia/Wykłady/Debeta Wiśniewski-Woziński.md",
-    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
-    "02 MOC/MOC Psychologia/MOC Dzieła psychologiczne.md",
-    "01 Input przejściowy/Filozofia/Wykłady/Heller, Czy materia istnieje.md",
-    "05 Osoby/Mieczysław Albert Krąpiec.md",
-    "01 Input przejściowy/Filozofia/Wykłady/Krąpiec, Nagrania.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii techniki.md",
     "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii kultury.md",
-    "01 Input przejściowy/Filozofia/Wykłady/Mateusz Machaj, Pseudokonflikt pomiędzy jednostką a wspólnotą.md",
-    "01 Input przejściowy/Filozofia/Wykłady/Peterson, biblijne wykłady.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "02 MOC/MOC Filozofia/MOC Najnowsza literatura filozoficzna.md",
+    "01 Input przejściowy/Filozofia/Wykłady/Kursy uniwersyteckie/Kłosiewicz, Myśl i maszyna/Kłosiewicz Olga, Myśl i maszyna.md",
+    "04 Źródła/załączniki/Pasted image 20250413185511.png",
+    "04 Źródła/Bartyzel, Wykłady o filozofii polityki.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii języka.md",
+    "04 Źródła/Wolniewicz, Melioryzm Leibniza.md",
+    "04 Źródła/Wolniewicz Bogusław, Wykłady o Wittgensteinie.md",
+    "02 MOC/MOC Psychologia/MOC Dzieła psychologiczne.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "04 Źródła/Mateusz Machaj, Pseudokonflikt pomiędzy jednostką a wspólnotą.md",
+    "04 Źródła/Adorno Theodor, Wstęp do dialektyki.md",
+    "04 Źródła/Debeta Wiśniewski-Woziński.md",
+    "04 Źródła/Heller, Czy materia istnieje.md",
+    "05 Osoby/Mieczysław Albert Krąpiec.md",
+    "04 Źródła/Krąpiec, Nagrania.md",
+    "04 Źródła/Peterson, biblijne wykłady.md",
     "02 MOC/MOC Psychologia.md",
     "02 MOC/MOC.md",
     "02 MOC/MOC Fizyka.md",
     "02 MOC/MOC Dzieła o fizyce.md",
     "02 MOC/MOC Filozofia/MOC Dzieła epistemologiczne.md",
-    "01 Input przejściowy/Filozofia/Wykłady/Woleński Jan, Wiedza i jej źródła.md",
-    "01 Input przejściowy/Filozofia/Wykłady/Woleński Jan, Wprowadzenie epistemologii wykład.md",
-    "01 Input przejściowy/Filozofia/Wykłady/Wielomski, Seria o faszyzmie.md",
-    "01 Input przejściowy/Filozofia/Wykłady/Sady, Naukowy obraz świata.md",
-    "02 MOC/MOC Politologia.md",
-    "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md",
-    "02 MOC/MOC Filozofia.md",
-    "02 MOC/MOC Ekonomia.md",
-    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "04 Źródła/Woleński Jan, Wiedza i jej źródła.md",
+    "04 Źródła/Woleński Jan, Wprowadzenie epistemologii wykład.md",
     "03 Atomy/załączniki/Trójkąt platoński.png",
     "03 Atomy/załączniki/Pasted image 20240402215620.png",
     "03 Atomy/załączniki/Pasted image 20240402215145.png",
-    "03 Atomy/Filozofia chrześcijańska.md",
     "03 Atomy/załączniki/Pasted image 20240616205731.png",
     "05 Osoby/załączniki/Pasted image 20240707120949.png",
     "05 Osoby/załączniki/Pasted image 20240705231531.png",
     "05 Osoby/załączniki/Pasted image 20240630175408.png",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
-    "03 Atomy/załączniki/Pasted image 20240328185957.png",
     "02 MOC/MOC Prawo"
   ]
 }

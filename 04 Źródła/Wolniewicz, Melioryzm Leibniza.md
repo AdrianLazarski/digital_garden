@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:30
+Rok oryginału: "2016"
+---
 [https://www.youtube.com/watch?v=tp_q_oLW66o](https://www.youtube.com/watch?v=tp_q_oLW66o)
 
 Melioryzm to stwierdzenie, że człowiek jest z natury dobry. Odwrotność, pejoryzm, byłoby założeniem, że człowiek jest z natury zły, zaś „złoty środek” profesor nazwał roboczo nonmelioryzmem.
@@ -41,5 +51,3 @@ Nasza odpowiedź – mówi Wolniewicz – jest prosta. Żadna metafizyka nie wyk
 
 Melioryzm według Wolniewicza to swoisty daltonizm, polegający na nierozróżnianiu głupoty od złośliwości i jest wrodzony :v Lebniz musiał być dotknięty taką wadą percepcji, bo wyjaśnienie historyczne, że po prostu był przesiąknięty duchem czasu i oświeceniowy klimat nie pozwalał mu na uznanie, że człowiek jest z natury zły.
 
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/antropologia 

@@ -1,3 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/techniki
+  - filozofia/kultury
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:35
+Rok oryginału: "2024"
+---
+
+# 1 Od homo habilis do homo faber
 
 Homo habilis - człowiek zręczny 
 • Kopalny gatunek człowieka, który żył 2,5–1,7 mln lat temu 
@@ -158,3 +171,6 @@ Homo faber
 • Pojęcie z antropologii oznaczające człowieka wytwórcę, twórcę, człowieka pracy, fenomen człowieka technicznego. 
 • Jego początek wyznacza XVIII-wieczna rewolucja przemysłowa. Koniec okresu Homo Faber stanowią lata osiemdziesiąte XX wieku.
 • Zastępuje go człowiek cybernetyczny (Homo Cyberneticus).
+
+
+Drugi wyklad był syfiasty i zrezygnowałem.

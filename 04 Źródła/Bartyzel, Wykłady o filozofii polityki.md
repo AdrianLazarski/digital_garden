@@ -1,4 +1,14 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - filozofia/polityki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:31
+Rok oryginału: "2021"
+---
+[[Jacek Bartyzel]]
 ## Wykład 1
 [Czym jest filozofia polityki?](https://www.youtube.com/watch?v=ux5Gh7IVRk0&list=WL&index=18)
 
@@ -165,5 +175,3 @@ Dużo poopuszczałem, bo nudne i nieistotne.
 
 
 
-
-#filozofia #filozofia/polska #filozofia/współczesna #filozofia/polityki 

@@ -18,3 +18,7 @@ modified date: 2026-07-04 23:09
 
 [[Slenzok Norbert, Od transcendentalnej pragmatyki języka do libertariańskiej etyki argumentacyjnej]], 2016 r.
 
+
+# Wykłady
+
+[[Wolniewicz Bogusław, Wykłady o Wittgensteinie]], 2008 r.

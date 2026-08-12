@@ -35,6 +35,7 @@ modified date: 2026-07-03 16:16
 [[MOC Dzieła z zakresu filozofii matematyki]]
 [[MOC Dzieła z zakresu filozofii nauki]]
 [[MOC Dzieła z zakresu filozofii religii]]
+[[MOC Dzieła z zakresu filozofii techniki]]
 [[MOC Dzieła z zakresu filozofii umysłu]]
 [[MOC Dzieła z zakresu filozofii wartości]]
 

@@ -20,3 +20,4 @@ modified date: 2026-07-22 21:41
 # Wykłady
 
 [[Peterson, biblijne wykłady]], 2017 r.
+[[Kłosiewicz Olga, Myśl i maszyna]], 2024 r.

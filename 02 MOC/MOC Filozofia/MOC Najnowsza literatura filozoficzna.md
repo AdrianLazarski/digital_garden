@@ -82,9 +82,13 @@ modified date: 2026-07-03 17:40
 
 # Wykłady
 
+[[Wolniewicz Bogusław, Wykłady o Wittgensteinie]], 2008 r.
 [[Woleński Jan, Wprowadzenie epistemologii wykład]], 2011 r.
 [[Woleński Jan, Wiedza i jej źródła]], 2011 r.
+[[Wolniewicz, Melioryzm Leibniza]], 2016 r.
 [[Peterson, biblijne wykłady]], 2017 r.
+[[Bartyzel, Wykłady o filozofii polityki]], 2021 r.
+[[Kłosiewicz Olga, Myśl i maszyna]], 2024 r.
 
 
 $\leftarrow$ [[MOC Współczesna literatura filozoficzna (do 2001)]]

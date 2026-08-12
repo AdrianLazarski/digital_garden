@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - historia/współczesna
+  - filozofia/języka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:28
+Rok oryginału: "2008"
+---
 [https://www.youtube.com/watch?v=e5GITuh7sLw](https://www.youtube.com/watch?v=e5GITuh7sLw)
 
 ## Wykład 1
@@ -62,6 +73,3 @@ Filozofia=logika+metafizyka
 
 Byt to istnienie bezrozumne, a myśl rozumne.
 
-
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/języka 
