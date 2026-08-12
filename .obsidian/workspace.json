@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/!!Random/Intuicjonizm.md",
+                "file": "01 Input przejściowy/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Intuicjonizm"
+              "title": "Matczak, Imperium tekstu kontratakuje 1"
             }
           },
           {
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/!!Random/Intuicjonizm.md",
+                "file": "01 Input przejściowy/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,17 +356,20 @@
   },
   "active": "cc286c7478e749f6",
   "lastOpenFiles": [
+    "01 Input/!!Random/Nihilizm.md",
+    "01 Input/!!Random/Socjalizm (polityka).md",
+    "01 Input/!!Random/rolki.md",
+    "01 Input/!!Random/shitpost.md",
+    "01 Input/!!Random/Nurt a stanowisko.md",
+    "01 Input/!!Random/Intuicjonizm.md",
     "01 Input/Kod detekcyjny.md",
-    "01 Input przejściowy/!!Random/00. Lektury ❗.md",
-    "01 Input przejściowy/!!Random/16-02-2024 piątek.md",
-    "01 Input przejściowy/!!Random/bałagan w szkołach hellenistycznych.md",
-    "01 Input przejściowy/!!Random/Intuicjonizm.md",
-    "01 Input przejściowy/!!Random/Marksizm.md",
-    "01 Input przejściowy/!!Random/obiektywizm vs akap.md",
-    "01 Input przejściowy/!!Random/Przykład Programowanie generyczne.md",
-    "01 Input przejściowy/!!Random/Redakcyjne zalecenia P.K..md",
-    "01 Input przejściowy/!!Random/Socjalizm (polityka).md",
-    "01 Input przejściowy/!!Random/shitpost.md",
+    "01 Input/!!Random/00. Lektury ❗.md",
+    "01 Input/!!Random/16-02-2024 piątek.md",
+    "01 Input/!!Random/bałagan w szkołach hellenistycznych.md",
+    "01 Input/!!Random/Marksizm.md",
+    "01 Input/!!Random/obiektywizm vs akap.md",
+    "01 Input/!!Random/Przykład Programowanie generyczne.md",
+    "01 Input/!!Random/Redakcyjne zalecenia P.K..md",
     "04 Źródła/Scott-Kakures Dion, Wstęp do historii filozofii.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
@@ -379,9 +382,6 @@
     "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "04 Źródła/Hunter, Metalogika.md",
     "02 MOC/MOC Matematyka/MOC Matematyczne podręczniki.md",
-    "02 MOC/MOC Matematyka.md",
-    "02 MOC/MOC.md",
-    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "01 Input/załączniki/etyka.jpg",
     "01 Input/załączniki/Realny PKB per capita w Polsce.webp",
     "01 Input/załączniki/Filozofia przyrody.jpg",

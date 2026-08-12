@@ -30,7 +30,7 @@
 
 19:13
 
-Więc ktoś wybudował dom, który się zawalił tak dlatego, że nie domyślił, nie odnalazł tych dodatkowych rzeczy, które tam były potrzebne i to nie ustało i oczywiście to i to była Katastrofa, tak jak Katastrofa budowlana jest katastrofą.Tak samo to była Katastrofa, która powoduje, że że ludzie przestali ufać i prawnikom i prawu.
+Więc ktoś wybudował dom, który się zawalił tak dlatego, że nie domyślił, nie odnalazł tych dodatkowych rzeczy, które tam były potrzebne i to nie ustało i oczywiście to i to była Katastrofa, tak jak Katastrofa budowlana jest katastrofą. Tak samo to była Katastrofa, która powoduje, że że ludzie przestali ufać i prawnikom i prawu.
 
 19:33
 
