@@ -28,6 +28,7 @@ $\leftarrow$ [[MOC Filozofia starożytna]]
 [[Ksenofanes z Kolofonu]] 570-470
 [[Parmenides z Elei]] 540-470
 [[Melissos z Samos]]
+[[Alkmeon z Krotonu]]
 
 **V w. przed Chr.**
 [[Anaksagoras]] 500-428

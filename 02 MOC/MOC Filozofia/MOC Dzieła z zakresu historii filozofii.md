@@ -18,6 +18,7 @@ modified date: 2026-07-06 14:08
 [[Bocheński Józef, History of formal logic]], 1956 r.
 [[Voegelin Eric, Świat Polis]], 1957 r.
 [[Voegelin Eric, Platon]], 1957 r.
+[[Scott-Kakures Dion, Wstęp do historii filozofii]], 1957 r.
 [[Strauss Leo, Crospey Joseph, Historia filozofii politycznej]], 1963 r.
 [[MacIntyre Alasdair, Krótka historia etyki]], 1966 r.
 [[Leśniak Kazimierz, Platon]], 1968 r.
@@ -43,6 +44,7 @@ modified date: 2026-07-06 14:08
 [[Gilson Etienne, Jedność doświadczenia filozoficznego]], 1937 r.
 [[Russell Bertrand, Dzieje filozofii zachodu]],1946 r.
 [[Bocheński Józef, History of formal logic]], 1956 r.
+[[Scott-Kakures Dion, Wstęp do historii filozofii]], 1957 r.
 [[Strauss Leo, Crospey Joseph, Historia filozofii politycznej]], 1963 r.
 [[Tatarkiewicz Władysław, Dzieje sześciu pojęć]], 1975 r.
 [[Bocheński Józef, Zarys historii filozofii]], 1993 r.
@@ -63,6 +65,7 @@ modified date: 2026-07-06 14:08
 
 [[Russell Bertrand, Dzieje filozofii zachodu]],1946 r.
 [[Bocheński Józef, History of formal logic]], 1956 r.
+[[Scott-Kakures Dion, Wstęp do historii filozofii]], 1957 r.
 [[Strauss Leo, Crospey Joseph, Historia filozofii politycznej]], 1963 r.
 [[Tatarkiewicz Władysław, Dzieje sześciu pojęć]], 1975 r.
 [[Kołakowski, Główne nurty marksizmu]], 1976 r.
@@ -85,6 +88,7 @@ modified date: 2026-07-06 14:08
 ## Książki o współczesności
 
 [[Russell Bertrand, Dzieje filozofii zachodu]],1946 r.
+[[Scott-Kakures Dion, Wstęp do historii filozofii]], 1957 r.
 [[Strauss Leo, Crospey Joseph, Historia filozofii politycznej]], 1963 r.
 [[Kołakowski, Główne nurty marksizmu]], 1976 r.
 [[Johnson Paul, Intelektualiści]], 1988 r.

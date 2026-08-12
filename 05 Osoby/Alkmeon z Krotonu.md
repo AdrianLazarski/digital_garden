@@ -9,7 +9,7 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-08-12 15:15
 ---
 
-
+VI-V w. przed Chr.
 
 https://plato.stanford.edu/entries/alcmaeon/
 

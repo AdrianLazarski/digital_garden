@@ -16,6 +16,7 @@ modified date: 2026-08-11 22:23
 [[Heraklit z Efezu]] 540-480 r. p.n.e.
 [[Ksenofanes z Kolofonu]] 570-470 r. p.n.e.
 [[Parmenides z Elei]] 540-470 r. p.n.e.
+[[Alkmeon z Krotonu]] VI/V w. przed Chr.
 [[Melissos z Samos]] V w. p.n.e.
 [[Anaksagoras]] 500-428 r. p.n.e.
 [[Hippodamus z Miletu]] 498-408 r. p.n.e.

@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - filozofia/historia_filozofii
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 15:20
+Rok oryginału: "1957"
+---
 Poznań 1999
 
 ![[Pasted image 20241020171640.png]]
