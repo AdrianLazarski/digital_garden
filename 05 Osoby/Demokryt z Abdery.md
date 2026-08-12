@@ -1,21 +1,10 @@
-**Spis treści**
-
-1. [Biografia 📁](#Biografia%20%F0%9F%93%81)
-2. [Dzieła 📖](#Dzie%C5%82a%20%F0%9F%93%96)
-3. [Poglądy 🔍](#Pogl%C4%85dy%20%F0%9F%94%8D)
-	1. [Filozofia - to, co Leucyp plus](#Filozofia%20-%20to,%20co%20Leucyp%20plus)
-	2. [Teoria poznania](#Teoria%20poznania)
-	3. [Etyka](#Etyka)
-	4. [Dusza ważniejsza od ciała](#Dusza%20wa%C5%BCniejsza%20od%20cia%C5%82a)
-	5. [Antropologiczne podstawy etyki](#Antropologiczne%20podstawy%20etyki)
-	6. [Zazdrość](#Zazdro%C5%9B%C4%87)
-	7. [Dzieci i kobiety](#Dzieci%20i%20kobiety)
-	8. [Polityka](#Polityka)
-	9. [Pozostałe](#Pozosta%C5%82e)
-4. [Wpływy ⛓️](#Wp%C5%82ywy%20%E2%9B%93%EF%B8%8F)
-5. [Bibliografia 🔗](#Bibliografia%20%F0%9F%94%97)
-6. [Polecane 👇](#Polecane%20%F0%9F%91%87)
-
+---
+created: 2026-02-28 19:46
+tags: [osoba, filozofia/starożytna]
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date : 2026-08-12 13:00
+---
 
 
 # Biografia 📁
@@ -165,7 +154,3 @@ D. Biedrzyński, Rozumienie pojęcia "próżni" w filozofii Demokryta z Abdery, 
 
 # Polecane 👇
 
-- 
-
-
-###### Tagi: #filozofia #osoba #filozofia/starożytna #filozofia/metafizyka #filozofia/grecka #filozofia/przyrody 

@@ -1,16 +1,10 @@
-
-**Spis treści**
-
-1. [Biografia 📁](#Biografia%20%F0%9F%93%81)
-2. [Dzieła 📖](#Dzie%C5%82a%20%F0%9F%93%96)
-3. [Poglądy 🔍](#Pogl%C4%85dy%20%F0%9F%94%8D)
-	1. [Metafizyka](#Metafizyka)
-	2. [Epistemologia](#Epistemologia)
-	3. [Antropologia filozoficzna i etyka](#Antropologia%20filozoficzna%20i%20etyka)
-4. [Wpływy ⛓️](#Wp%C5%82ywy%20%E2%9B%93%EF%B8%8F)
-5. [Bibliografia 🔗](#Bibliografia%20%F0%9F%94%97)
-6. [Polecane 👇](#Polecane%20%F0%9F%91%87)
-
+---
+created: 2026-02-28 19:46
+tags: [osoba, filozofia/starożytna]
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date : 2026-08-12 12:57
+---
 
 # Biografia 📁
 - Poeta, lekarz, filozof, cudotwórca, polityk.
@@ -114,5 +108,3 @@ G. Reale, Historia filozofii starożytnej tom I, Lublin 2000, s. 171-180.
 
 - 
 
-
-###### Tagi: #filozofia #osoba #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/epistemologia #filozofia/przyrody 

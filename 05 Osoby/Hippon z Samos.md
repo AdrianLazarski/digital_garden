@@ -1,3 +1,10 @@
+---
+created: 2026-02-28 19:46
+tags: [osoba, filozofia/starożytna]
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date : 2026-08-12 12:58
+---
 - Albo z Krotonu/Regium/Metapontu.
 - V w. przed Chr.
 - Italska szkoła medyczna.
@@ -14,5 +21,3 @@
 G. Reale, Historia filozofii starożytnej tom I, Lublin 2000, s. 205-206.
 S. Swieżawski, Dzieje europejskiej filozofii klasycznej, Warszawa 2000, s. 47.
 
-
-#filozofia #filozofia/starożytna #filozofia/metafizyka #filozofia/grecka #filozofia/przyrody #osoba

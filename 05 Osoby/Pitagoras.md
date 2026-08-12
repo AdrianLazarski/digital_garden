@@ -1,11 +1,10 @@
-
-**Spis treści**
-
-1. [Biografia 📁](#Biografia%20%F0%9F%93%81)
-2. [Poglądy 🔍](#Pogl%C4%85dy%20%F0%9F%94%8D)
-3. [Wpływy ⛓️](#Wp%C5%82ywy%20%E2%9B%93%EF%B8%8F)
-4. [Bibliografia 🔗](#Bibliografia%20%F0%9F%94%97)
-5. [Polecane 👇](#Polecane%20%F0%9F%91%87)
+---
+created: 2026-02-28 19:46
+tags: [osoba, filozofia/starożytna]
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date : 2026-08-12 12:56
+---
 
 
 # Biografia 📁
@@ -72,7 +71,3 @@ G. Reale, Historia filozofii starożytnej tom I, Lublin 2000, s. 105-125.
 
 # Polecane 👇
 
-- 
-
-
-###### Tagi: #filozofia #osoba #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/przyrody  #osoba 

@@ -1,11 +1,10 @@
-
-**Spis treści**
-
-1. [Biografia 📁](#Biografia%20%F0%9F%93%81)
-2. [Dzieła 📖](#Dzie%C5%82a%20%F0%9F%93%96)
-3. [Poglądy 🔍](#Pogl%C4%85dy%20%F0%9F%94%8D)
-4. [Bibliografia 🔗](#Bibliografia%20%F0%9F%94%97)
-5. [Polecane 👇](#Polecane%20%F0%9F%91%87)
+---
+created: 2026-02-28 19:46
+tags: [osoba, filozofia/starożytna]
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date : 2026-08-12 12:55
+---
 
 
 # Biografia 📁
@@ -34,7 +33,7 @@
 
 # Bibliografia 🔗
 
-Diogenes Laertios, Żywoty i poglądy słynnych filozofów, Warszawa 1982, s. 78-79.
+Diogenes Laertios, _Żywoty i poglądy słynnych filozofów_, Warszawa 1982, s. 78-79.
 W. Tatarkiewicz, *Historia filozofii t. 1*, Warszawa 1998, s. 29-30.
 F. Copleston, *Historia filozofii tom 1*, Warszawa 1998, s. 40-42.
 G. Kirk, J. Raven, *Filozofia przedsokratejska*, Warszawa 1999, s. 149-167.
@@ -44,6 +43,3 @@ E. Gilson, *Jedność doświadczenia filozoficznego*, Warszawa 2001, s. 214-215.
 
 # Polecane 👇
 
-- 
-
-###### Tagi: #filozofia #osoba #filozofia/grecka #filozofia/starożytna #filozofia/metafizyka #filozofia/przyrody 

@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "fa942a54bf723499",
+            "id": "7911019d34fb5da3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Osoby/Tales z Miletu.md",
+                "file": "05 Osoby/Plotyn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,127 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tales z Miletu"
+              "title": "Plotyn"
+            }
+          },
+          {
+            "id": "003d1f572a6598e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Osoby/Sekstus Empiryk.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sekstus Empiryk"
+            }
+          },
+          {
+            "id": "48e69acc96dfd065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Marek Aureliusz.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Marek Aureliusz"
+            }
+          },
+          {
+            "id": "d8556987d777815e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Osoby/Epiktet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Epiktet"
+            }
+          },
+          {
+            "id": "57e9459833351d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Osoby/Filon z Aleksandrii.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Filon z Aleksandrii"
+            }
+          },
+          {
+            "id": "38561efe1d2a055f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Osoby/Seneka.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Seneka"
             }
           }
         ],
@@ -176,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Osoby/Tales z Miletu.md",
+                "file": "05 Osoby/Plotyn.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,34 +379,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa942a54bf723499",
+  "active": "7911019d34fb5da3",
   "lastOpenFiles": [
-    "05 Osoby/Anaksymander.md",
-    "05 Osoby/Zenon z Elei.md",
-    "05 Osoby/Anaksagoras.md",
-    "05 Osoby/Anaksarchos z Abdery.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
-    "05 Osoby/Proklos.md",
-    "05 Osoby/Plotyn.md",
-    "05 Osoby/Ksenofanes z Kolofonu.md",
-    "05 Osoby/Kasjodor.md",
+    "05 Osoby/Porfiriusz.md",
     "05 Osoby/Jamblich.md",
-    "05 Osoby/Hippiasz z Elidy.md",
-    "05 Osoby/Grzegorz z Nazjanzu.md",
-    "05 Osoby/Filon z Aleksandrii.md",
+    "03 Atomy/Mariusz Wiktorynus.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "05 Osoby/Plotyn.md",
+    "05 Osoby/Sekstus Empiryk.md",
+    "03 Atomy/Marek Aureliusz.md",
     "05 Osoby/Epiktet.md",
-    "05 Osoby/Diodor z Kronos.md",
-    "05 Osoby/Augustyn z Hippony.md",
+    "05 Osoby/Filon z Aleksandrii.md",
+    "05 Osoby/Seneka.md",
+    "05 Osoby/Eubulides z Miletu.md",
     "05 Osoby/Arystoteles.md",
-    "05 Osoby/Archelaos z Aten.md",
-    "05 Osoby/Tales z Miletu.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie z niefilozoficznych krajów.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie włoscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie brytyjscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie francuscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie hiszpańscy.md",
+    "05 Osoby/Diogenes ze Smyrny.md",
+    "05 Osoby/Anaksarchos z Abdery.md",
+    "05 Osoby/Diodor z Kronos.md",
+    "05 Osoby/Pyrron z Elidy.md",
+    "05 Osoby/Zenon z Kition.md",
+    "05 Osoby/Epikur.md",
+    "05 Osoby/Karneades.md",
+    "05 Osoby/Cyceron.md",
+    "05 Osoby/Lukrecjusz.md",
+    "05 Osoby/Diogenes z Synopy.md",
+    "05 Osoby/Antystenes.md",
+    "05 Osoby/Arystyp z Cyreny.md",
+    "05 Osoby/Euklides z Megary.md",
+    "05 Osoby/Metrodor z Chios.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
