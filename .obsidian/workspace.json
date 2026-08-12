@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "b469543585e1dba6",
+            "id": "0c399a66e6c366b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
+                "file": "05 Osoby/Anaksarchos z Abdery.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Filozofowie żydowscy"
+              "title": "Anaksarchos z Abdery"
+            }
+          },
+          {
+            "id": "f52f2f89dca0bdcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Osoby/Anaksagoras.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Anaksagoras"
+            }
+          },
+          {
+            "id": "3dfa12ea5f73fd58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Osoby/Anaksagoras.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Anaksagoras"
+            }
+          },
+          {
+            "id": "5ae366f722bd5fc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Osoby/Anaksymander.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Anaksymander"
+            }
+          },
+          {
+            "id": "fa942a54bf723499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Tales z Miletu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tales z Miletu"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
+                "file": "05 Osoby/Anaksagoras.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,8 +355,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b469543585e1dba6",
+  "active": "40fde4cd44744f35",
   "lastOpenFiles": [
+    "05 Osoby/Anaksarchos z Abdery.md",
+    "05 Osoby/Anaksagoras.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
+    "05 Osoby/Anaksymander.md",
+    "03 Atomy/Tales z Miletu.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie z niefilozoficznych krajów.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie niemieccy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie włoscy.md",
@@ -269,11 +371,9 @@
     "02 MOC/MOC Filozofia/MOC Filozofowie hiszpańscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie holenderscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie polscy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie rzymscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie szwajcarscy.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie węgierscy.md",
@@ -283,10 +383,6 @@
     "05 Osoby/Friedrich Hayek.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie nowożytni.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie skandynawscy.md",
-    "02 MOC/MOC Filozofia.md",
-    "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia średniowieczna.md",
-    "03 Atomy/Filozofia arabska.md",
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
