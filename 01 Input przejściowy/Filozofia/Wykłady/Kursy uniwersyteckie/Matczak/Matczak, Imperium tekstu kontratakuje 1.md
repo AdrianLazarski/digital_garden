@@ -7,43 +7,23 @@
 - język, nasze największe odkrycie nasz największy wynalazek jest narzędziem koordynacji.
 - Krótko mówiąc, prawo może być rozumiane jako właśnie taki wielki tekst, który który nami nami koordynuje, a jeżeli jest to tekst no, to musimy wiedzieć, jak go czytać i w jaki sposób go urzeczywistniać. Jednym z głównych zadań filozofii prawa jest odpowiedzieć na to pytanie. 
 
-
-Ja tę książkę zaczynam od cytatu z mojego ulubionego autora, czyli borgesa argentyńskiego pisarza wybitnego, który w roku 45 napisał opowiadanie, które przedstawia historię dziwnej encyklopedii, którą kiedyś odnalazł w jakimś starym antykwariacie i borges w tym opowiadaniu pisze. 2 lata wcześniej na stronicach pewnej encyklopedii plagiatu odkryłem zwięzły opis fikcyjnego kraju.
-
-Obecnie przypadek dostarczył mi czegoś bardziej jeszcze cennego i trudnego.Miałem teraz w ręku obszerny i metodyczny fragment całkowitej historii nieznanej planety z jej budowlami i wojnami z przerażeniem jej mitologii i zgiełkiem jej języków, z jej cesarzami i morzami z jej minerałami, z jej ptakami i rybami, z jej algebrą i ogniem, z jej kontrowersyjnymi, teologicznymi i metafizycznymi poglądami.
-
-I Wszystko to na piśmie swoiste, bez widocznej intencji doktrynalnej parody stycznej. Dlaczego książka o prawie zaczyna się opowieścią jakiejś dziwnej encyklopedii, która opisywała jakiś dziwny świat? Ano, dlatego, że w tym opowiadaniu jak mówi borghese, zaczynają się dziać dziwne rzeczy.
-
-Okazuje się, że ten świat, który jest opisane przez Tom encyklopedię, zaczyna się zdarzać. To znaczy to, co w książce zaczyna zdarzać się w rzeczywistości. To co w opisie zaczyna, zaczyna zdarzać się w świecie, czyli świat zaczyna się zmieniać zgodnie z tym, jak o nim opowiada tekst.
-
-Jeżeli przez chwilę pomyślicie o tym, to okaże się, że prawo jest dokładnie taką encyklopedią takim tekstem przedstawia pewien utopijny świat, w którym jest fantastycznie. Nikt nikogo nie zabija, nikt nikogo nie okrada. Wszyscy dotrzymują umów, nikt nie jeździ więcej niż 50 km/h w zabudowanym, a Rzeczpospolita Polska jest demokratycznym państwem prawnym urzeczywistniającym zasady sprawiedliwości społecznej.
-
-To jest oczywiście świat utopijny, ale na tym polega idea prawa tak jak tej borkowskiej encyklopedii, że on postuluje istnienie pewnego świata. A jednocześnie wymaga od praktyki, która wokół tego tekstu się zaczyna kształtować, ażeby ten świat się zrealizował, bo jeżeli nie zapłacicie.
-
-Komuś, mimo że mieliście do tego zobowiązanie na podstawie umowy, to przyjdzie pewien smutny pan w końcu, który nazywa się Komornik i doprowadzi do tego, żeby stan świata rzeczywistego był tożsamy ze światem świata idealnego, w którym wszyscy płacą swoje długi.Jeżeli przekroczycie 50 km/h i stwierdzi to inny pan policjant czy pani feel, to wprawdzie nie doprowadzi do tego, żeby świat był idealny, bo nie da się zmienić przeszłości.
-
-Jeżeli już przekroczyliście 50 km/h i on suszarką stwierdził to.To już nie odwróci tego, ale może was ukarać, żebyście więcej tego nie robili, aby wasze następne działanie było zgodne z tą wizją idealnego świata, w którym wszyscy jeżdżą 50 km/h i ta wizja borgesa jest o tyle interesująca, że do tego, żeby świat opisany w tekście stawał się światem realnym, potrzeba ludzi, ludzi, którzy najpierw sobie ten ten świat zinterpretują, bo to nie jest takie oczywiste, jaki on ma być.
-
-Jeżeli ten tekst, którym jest prawo, można by było traktować jako projekt budowlany, bo projekt budowlany też jest jakimś tekstem, który zamienia się w rzeczywistość, tak, chcecie sobie wybudować swój wymarzony dom? Najpierw prosicie kogoś, żeby go opisał, czy go narysował? On jest w tekście, on jest w artefakcie, jakim jest projekt budowlany i potem pomału zaczyna się realizacja tego, co w tekście w rzeczywistości ktoś przewozi.
-
-Cegły ktoś film wylewa, fundamenty ściany rosną i tam pojawia się wiele tematów, które bardzo są podobne do tematów czy zagadnień. Które rozważają prawnicy, zresztą bardzo często będziemy używali tego przykładu projektu budowlanego, żeby pokazać, jak bardzo podobne jest film właśnie życie prawnika i budowlańca i jak podobne zagadnienia, czy wątpliwości się z tym wiążą dla przykładu.
-
-Ten projekt budowlany musi być sensowny i spójny, jeżeli dom ma mieć 3 piętra, to nie może zawierać tylko planu na wybudowanie pierwszego i 3 w sposób oczywisty 3 piętro nie może za chwilę liznąć w powietrzu. Jeżeli w związku z tym będzie w nim brak polegający na tym, że nie ma piętra 2, to co ma zrobić ten kto ma urzeczywistnić ten tekst, budowlaniec czy prawnik ma powiedzieć nie robię, nie buduję, bo nie wiem jak, no nie jego zadaniem jest urzeczywistnić ten dom, więc w pewnym sensie musi domyślić.
-
-Ten brakujący element tak, żeby pasował do całości, jeżeli widzi, że że ten dom jest zaprojektowany, niewłaściwie jest zbyt duża powierzchnia dachu i on się zawali. Jeżeli w środku nie postawi się słupa, który będzie podtrzymywał ten dach, to co ma zrobić, ma go wybudować bez tego słupa, żeby się zawalił.
-
-Czy ma domyślić ten słup po to, żeby on stał i trwał podobnie? 
+- Ja tę książkę zaczynam od cytatu z mojego ulubionego autora, czyli borgesa argentyńskiego pisarza wybitnego, który w roku 45 napisał opowiadanie, które przedstawia historię dziwnej encyklopedii, którą kiedyś odnalazł w jakimś starym antykwariacie i borges w tym opowiadaniu pisze. 2 lata wcześniej na stronicach pewnej encyklopedii plagiatu odkryłem zwięzły opis fikcyjnego kraju.
+  
+  Obecnie przypadek dostarczył mi czegoś bardziej jeszcze cennego i trudnego.Miałem teraz w ręku obszerny i metodyczny fragment całkowitej historii nieznanej planety z jej budowlami i wojnami z przerażeniem jej mitologii i zgiełkiem jej języków, z jej cesarzami i morzami z jej minerałami, z jej ptakami i rybami, z jej algebrą i ogniem, z jej kontrowersyjnymi, teologicznymi i metafizycznymi poglądami.
+  
+  I Wszystko to na piśmie swoiste, bez widocznej intencji doktrynalnej parody stycznej. Dlaczego książka o prawie zaczyna się opowieścią jakiejś dziwnej encyklopedii, która opisywała jakiś dziwny świat? Ano, dlatego, że w tym opowiadaniu jak mówi borghese, zaczynają się dziać dziwne rzeczy.
+  
+  Okazuje się, że ten świat, który jest opisane przez Tom encyklopedię, zaczyna się zdarzać. To znaczy to, co w książce zaczyna zdarzać się w rzeczywistości. To co w opisie zaczyna, zaczyna zdarzać się w świecie, czyli świat zaczyna się zmieniać zgodnie z tym, jak o nim opowiada tekst.
+  
+  Jeżeli przez chwilę pomyślicie o tym, to okaże się, że prawo jest dokładnie taką encyklopedią takim tekstem przedstawia pewien utopijny świat, w którym jest fantastycznie. 
 
 
-Prawnik staje przed takimi kwestiami, kiedy ma lukę w prawie, kiedy w tekście prawnym nie ma odpowiedzi na jakieś pytanie i tutaj filozofowie prawa bardzo dużo dyskutują i szeroko dyskutują. Mówiąc, czy powinien wtedy prawnik uzupełnić.
-
-Ten brak sam samodzielnie. Czy wtedy sobie nie uzurpuje władzy, którą ma prawodawca? Czy wtedy sędzia na przykład nie stawia się w roli w ogóle prawodawcy? A przecież nie powinien, bo nie jest wybierany i nie ma legitymacji demokratycznej, czy też właśnie powinien dlatego, że jeżeli nie domyśli, to całość będzie zupełnie bez sensu.
-
-Tak będzie realizował jakiś świat, w którym po prostu jest wielka dziura, czegoś brakuje i ten świat nie będzie mógł sensownie, sensownie funkcjonować.I to.To są zagadnienia, które tylko brzmią teoretycznie.Wiecie, kiedy popatrzy się na przykład na wielkie porażki prawa w ostatnich latach?
-
-Na przykład na aferę reprywatyzacyjną, która polegała na tym, że ktoś był odpowiedzialny za stosowanie prawa zarówno w aspekcie administracyjno prawnym, pewnych decyzji administracyjnych, które były wydane związane z z reformą rolną, jak i później prawa cywilnego dotyczące własności.
-
-Ktoś to źle zrobił?Prawdopodobnie zrobił to źle prawnik, który.Stosując, że tę to prawo, a więc dostosowując rzeczywistość do tego do tego tekstu wielkiego zapomniał, że w tym tekście oprócz technikaliów są też takie kwestie jak zasada sprawiedliwości, są prawa konstytucyjne, że jest po prostu ludzka godność, która przez te decyzje następujące w wyniku tych działań została naruszona.
+- Prawnik staje przed takimi kwestiami, kiedy ma lukę w prawie, kiedy w tekście prawnym nie ma odpowiedzi na jakieś pytanie i tutaj filozofowie prawa bardzo dużo dyskutują i szeroko dyskutują. Mówiąc, czy powinien wtedy prawnik uzupełnić ten brak sam samodzielnie. Czy wtedy sobie nie uzurpuje władzy, którą ma prawodawca? Czy wtedy sędzia na przykład nie stawia się w roli w ogóle prawodawcy? A przecież nie powinien, bo nie jest wybierany i nie ma legitymacji demokratycznej, czy też właśnie powinien dlatego, że jeżeli nie domyśli, to całość będzie zupełnie bez sensu.
+- I to są zagadnienia, które tylko brzmią teoretycznie. Wiecie, kiedy popatrzy się na przykład na wielkie porażki prawa w ostatnich latach?
+  
+  Na przykład na aferę reprywatyzacyjną, która polegała na tym, że ktoś był odpowiedzialny za stosowanie prawa zarówno w aspekcie administracyjno prawnym, pewnych decyzji administracyjnych, które były wydane związane z z reformą rolną, jak i później prawa cywilnego dotyczące własności.
+  
+  Ktoś to źle zrobił? Prawdopodobnie zrobił to źle prawnik, który.Stosując, że tę to prawo, a więc dostosowując rzeczywistość do tego do tego tekstu wielkiego zapomniał, że w tym tekście oprócz technikaliów są też takie kwestie jak zasada sprawiedliwości, są prawa konstytucyjne, że jest po prostu ludzka godność, która przez te decyzje następujące w wyniku tych działań została naruszona.
 
 
 
