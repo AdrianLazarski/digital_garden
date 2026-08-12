@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - "#matematyka/stosowana/statystyka"
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 16:38
+---
 
 **Kwartyl** – jedna z miar położenia obserwacji. [[Miary średnie]].
 
@@ -20,5 +29,3 @@ h<sub>Q1</sub>,n<sub>Q1</sub>,w<sub>Q1</sub> rozpiętość, liczebność i częs
 ![[Pasted image 20241004180955.png]]
 
 ![[Pasted image 20241123152517.png]]
-
-#matematyka #matematyka/stosowana/statystyka 

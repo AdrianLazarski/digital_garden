@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - "#matematyka/stosowana/statystyka"
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 16:37
+---
 Rozkład ogólnej sumy wartości badanej cechy pomiędzy poszczególne [[Jednostka statystyczna|jednostki]] [[Zbiorowość statystyczna|zbiorowości statystycznej]].
 
 - Im silniejsza asymetria i większe zróżnicowanie zmiennej, tym większa koncentracja.
@@ -12,8 +21,3 @@ Rozkład ogólnej sumy wartości badanej cechy pomiędzy poszczególne [[Jednost
 
 ![[Pasted image 20241005124231.png]]
 
-
-
-
-
-#matematyka #matematyka/stosowana/statystyka 
