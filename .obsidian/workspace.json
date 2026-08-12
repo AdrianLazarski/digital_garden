@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
+                "file": "01 Input przejściowy/Statystyka/Błąd próbkowania.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Matczak, Imperium tekstu kontratakuje 1"
+              "title": "Błąd próbkowania"
             }
           },
           {
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
+                "file": "01 Input przejściowy/Statystyka/Błąd próbkowania.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,6 +356,11 @@
   },
   "active": "cc286c7478e749f6",
   "lastOpenFiles": [
+    "01 Input przejściowy/Statystyka/Błąd losowy.md",
+    "01 Input przejściowy/Statystyka/Błąd próbkowania.md",
+    "01 Input przejściowy/Statystyka/Cechy statystyczne.md",
+    "01 Input przejściowy/Statystyka/Częstość względna.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
     "01 Input/!!Random/Nihilizm.md",
     "01 Input/!!Random/Socjalizm (polityka).md",
     "01 Input/!!Random/rolki.md",
@@ -377,11 +382,6 @@
     "02 MOC/MOC Filozofia/MOC Filozofia współczesna.md",
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie greccy.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu historii filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie starożytni.md",
-    "04 Źródła/Hunter, Metalogika.md",
-    "02 MOC/MOC Matematyka/MOC Matematyczne podręczniki.md",
     "01 Input/załączniki/etyka.jpg",
     "01 Input/załączniki/Realny PKB per capita w Polsce.webp",
     "01 Input/załączniki/Filozofia przyrody.jpg",

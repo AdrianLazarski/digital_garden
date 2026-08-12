@@ -23,7 +23,7 @@
   
   Na przykład na aferę reprywatyzacyjną, która polegała na tym, że ktoś był odpowiedzialny za stosowanie prawa zarówno w aspekcie administracyjno prawnym, pewnych decyzji administracyjnych, które były wydane związane z z reformą rolną, jak i później prawa cywilnego dotyczące własności.
   
-  Ktoś to źle zrobił? Prawdopodobnie zrobił to źle prawnik, który.Stosując, że tę to prawo, a więc dostosowując rzeczywistość do tego do tego tekstu wielkiego zapomniał, że w tym tekście oprócz technikaliów są też takie kwestie jak zasada sprawiedliwości, są prawa konstytucyjne, że jest po prostu ludzka godność, która przez te decyzje następujące w wyniku tych działań została naruszona.
+  Ktoś to źle zrobił? Prawdopodobnie zrobił to źle prawnik, który stosując to prawo, a więc dostosowując rzeczywistość do tego do tego tekstu wielkiego zapomniał, że w tym tekście oprócz technikaliów są też takie kwestie jak zasada sprawiedliwości, są prawa konstytucyjne, że jest po prostu ludzka godność, która przez te decyzje następujące w wyniku tych działań została naruszona.
 
 
 
