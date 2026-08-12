@@ -1,9 +1,12 @@
 ---
 created: 2026-02-28 19:46
-tags: [atom, definicja]
+tags:
+  - ekonomia
+  - ref
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date : 2026-07-27 18:03
+modified date: 2026-07-27 18:03
+Rok oryginału: "2015"
 ---
 
 

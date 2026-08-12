@@ -43,8 +43,9 @@ modified date: 2026-07-10 14:09
 [[Caplan Bryan, Mit racjonalnego wyborcy]], 2007
 [[Caplan Bryan, Egoistyczne powody, by mieć więcej dzieci]], 2011
 [[Wozinski Jakub, To nie musi być państwowe]], 2014 r.
-[[Instytut Misesa - Polska mitologia kapitału. Czy jesteśmy kolonią zachodu]], 2015
-[[Reed Lawrence W., 52 mity o kapitalizmie]], 2015
+[[Instytut Misesa - Polska mitologia kapitału. Czy jesteśmy kolonią zachodu]], 2015 r.
+[[Reed Lawrence W., 52 mity o kapitalizmie]], 2015 r.
+[[Piketty Thomas, Kapitał w XXI wieku]], 2015 r.
 [[Wstęp do ASE]], zbiór z 2017 
 [[Caplan Bryan, Edukacja pod lupą]], 2018
 [[Caplan Brayan, Otwarte granice]], 2019
@@ -53,9 +54,9 @@ modified date: 2026-07-10 14:09
 [[Kelton Stephanie, Mit deficytu]], 2020
 [[Murphy, Mit MMT — Recenzja książki]], 2020
 [[Ludzkie gadanie 14 Co mówi nam MMT]], 2020
-[[Lacalle, MMT to ekonomia kłamstw]], 2021
-[[Epstein Alex, Przyszłość paliw kopalnych]], 2022
-[[Kaiser Axel, Uliczny ekonomista]], 2022
+[[Lacalle, MMT to ekonomia kłamstw]], 2021 r.
+[[Epstein Alex, Przyszłość paliw kopalnych]], 2022 r.
+[[Kaiser Axel, Uliczny ekonomista]], 2022 r.
 [[Tupy, Pooley, Superobfitość]], 2022
 [[Palmer Tom, Rozwój i godność człowieka]], 2022 r.
 [[Norberg Johan, Manifest kapitalistyczny]], 2023 r.

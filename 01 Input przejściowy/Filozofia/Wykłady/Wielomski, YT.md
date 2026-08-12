@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - politologia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-12 14:04
+---
 
 ## Sorel
 
@@ -212,7 +221,3 @@ Należy odróżnić:
 - Klerofaszyzm - obelga faszystów po zasileniu banku watykańskiego przez Włochy
 - Konkordat uczynił Watykan osobnym państwem, a działalność KK na terenie Włoch wynika z zezwolenia Włoch.
 - Kościół się zgodził, bo nie było już szans na nic lepszego, a przynajmniej religia wróciła do szkół we Włoszech i kościoły/zakony uzyskały osobowość prawną, co rozwiązało problemy z dziedziczeniem.
-
-
-
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/historia_filozofii #filozofia/polityki #faszyzm 

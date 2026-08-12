@@ -2,12 +2,17 @@
 created: 2026-07-25 13:38
 tags:
   - ref
-  - filozofia/współczesna
   - ai-generated
+  - politologia
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-08-12 13:55
+Rok oryginału: "2009"
 ---
+Oliver Marc Hartwich
+CIS Occasional Paper 114 21 May 2009
+https://oliverhartwich.com/wp-content/uploads/2015/02/neoliberalism.pdf
+
 
 **A ghost story (Historia o duchach)** Widmo neoliberalizmu krąży po świecie, a do walki z nim stanął niezwykle zróżnicowany sojusz, obejmujący przywódców religijnych, aktywistów środowiskowych, antyglobalistów, polityków lewicy i prawicy oraz związkowców. Łączy ich pragnienie zdemaskowania neoliberalizmu jako nieludzkiej, antyspołecznej ideologii, za pomocą której anonimowe siły eksploatują świat. Z powodu ogromnej różnorodności swoich krytyków, **neoliberalizm stał się bardzo szerokim parasolem i brakuje mu dziś jakiejkolwiek jasnej, spójnej definicji**. Najbardziej kuriozalną cechą dzisiejszych debat jest to, że **obecnie praktycznie nikt nie określa siebie mianem neoliberała**. Osoby oskarżane o poglądy neoliberalne wolą nazywać siebie "klasycznymi liberałami", "konserwatystami" lub "libertarianami", a sam termin "neoliberalizm" stał się wyzbytą z głębszego znaczenia obelgą polityczną. Prawda jest jednak taka, że u swoich początków słowo to oznaczało coś zupełnie przeciwnego, a wczesnym neoliberałom przyświecały podobne obawy, jakie mają dzisiejsi anty-neoliberałowie.
 

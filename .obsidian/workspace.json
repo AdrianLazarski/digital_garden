@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Neoliberalism The Genesis of a Political Swearword.md",
+                "file": "01 Input przejściowy/Filozofia/Wykłady/Wielomski, YT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Neoliberalism The Genesis of a Political Swearword"
+              "title": "Wielomski, YT"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Osoby/Tomasz Gabiś.md",
+                "file": "02 MOC/MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tomasz Gabiś"
+              "title": "MOC"
+            }
+          },
+          {
+            "id": "1d1552ac6bfeb50a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła politologiczne"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Neoliberalism The Genesis of a Political Swearword.md",
+                "file": "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,10 +283,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc286c7478e749f6",
+  "active": "1d1552ac6bfeb50a",
   "lastOpenFiles": [
-    "04 Źródła/Zapiski manarchisty 1.md",
+    "02 MOC/MOC Politologia.md",
+    "02 MOC/MOC.md",
+    "02 MOC/MOC Ekonomia.md",
+    "02 MOC/MOC Ekonomia/MOC Dzieła ekonomiczne.md",
+    "01 Input przejściowy/Filozofia/Wykłady/Wielomski, YT.md",
+    "03 Atomy/załączniki/Trójkąt platoński.png",
+    "03 Atomy/załączniki/Pasted image 20240402215620.png",
+    "03 Atomy/załączniki/Pasted image 20240402215145.png",
+    "03 Atomy/Filozofia chrześcijańska.md",
+    "03 Atomy/Filozofia klasyczna.md",
+    "03 Atomy/Główne koncepcje filozofii.md",
+    "04 Źródła/Piketty Thomas, Kapitał w XXI wieku.md",
+    "02 MOC/MOC Socjologia/MOC Dzieła politologiczne.md",
+    "04 Źródła/Neoliberalism The Genesis of a Political Swearword.md",
     "05 Osoby/Tomasz Gabiś.md",
+    "04 Źródła/Zapiski manarchisty 1.md",
     "04 Źródła/Spisek Parapolityka System.md",
     "04 Źródła/Hans Hermann Hoppe o monarchii, demokracji i ładzie naturalnym.md",
     "04 Źródła/Gerd-Klaus Kaltenbrunner grzech śmiertelny hałas.md",
@@ -275,17 +314,6 @@
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Historia/MOC Historia Żydów.md",
     "01 Input przejściowy/Historia/06 Państwa/Izrael.md",
-    "02 MOC/MOC Historia/MOC Historie narodów.md",
-    "02 MOC/MOC Historia/MOC Historia Wielkiej Brytanii.md",
-    "01 Input przejściowy/Historia/06 Państwa/Historia Wielkiej Brytanii.md",
-    "02 MOC/MOC Historia.md",
-    "03 Atomy/Historia kapitalizmu.md",
-    "01 Input przejściowy/Historia/06 Państwa/Historia Austrii.md",
-    "02 MOC/MOC Historia/MOC Historia Austrii.md",
-    "02 MOC/MOC Historia/MOC Historia starożytna.md",
-    "02 MOC/MOC Historia/MOC Historia współczesna.md",
-    "02 MOC/MOC Historia/MOC Historia Rumunii.md",
-    "02 MOC/MOC Historia/MOC Historia nowożytna.md",
     "03 Atomy/załączniki/Pasted image 20240616205731.png",
     "05 Osoby/załączniki/Pasted image 20240707120949.png",
     "05 Osoby/załączniki/Pasted image 20240705231531.png",
@@ -293,9 +321,6 @@
     "03 Atomy/załączniki/Pasted image 20240616195407.png",
     "03 Atomy/załączniki/Ciąg.png",
     "03 Atomy/załączniki/Pasted image 20240328185957.png",
-    "03 Atomy/załączniki/Pasted image 20240328192628.png",
-    "03 Atomy/załączniki/Pasted image 20240616142158.png",
-    "03 Atomy/załączniki/ASCI.png",
     "02 MOC/MOC Prawo"
   ]
 }
