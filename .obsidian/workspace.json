@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d1bfd97039dce721",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Informacje o wersji 1.13.7"
+            }
+          },
+          {
             "id": "45e4bdb61cb2248d",
             "type": "leaf",
             "state": {
@@ -151,7 +163,8 @@
               "title": "MOC Dzieła logiczne"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -354,7 +367,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc286c7478e749f6",
+  "active": "d1bfd97039dce721",
   "lastOpenFiles": [
     "01 Input przejściowy/Statystyka/Kwartyle.md",
     "01 Input przejściowy/Statystyka/Kwantyle.md",
