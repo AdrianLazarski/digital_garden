@@ -9,11 +9,14 @@ status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-13 16:49
 ---
 
+Etymologia:
+z łac. _statisticus_, „polityczny, dot. polityki”, od _status_, „państwo, stan”
 
-z łac. statisticus, „polityczny, dot. polityki”, od status, „państwo, stan”
+> [!note] Definicja 1
+> Zbiór danych liczbowych charakteryzujących określone zjawisko.
 
-1. Zbiór danych liczbowych charakteryzujących określone zjawisko.
-2. Statystyka jest nauką o ilościowych metodach badania zjawisk (procesów) masowych.
+> [!note] Definicja 2
+> Statystyka jest nauką o ilościowych metodach badania zjawisk (procesów) masowych.
 
 Przedmiotem badań statystycznych są określone zbiorowości osób, rzeczy lub zjawisk.
 
