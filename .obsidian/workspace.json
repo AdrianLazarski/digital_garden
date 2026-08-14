@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O stronie.md",
+                "file": "02 MOC/MOC Matematyka/MOC Statystyka.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,8 +283,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e26f5e56d8206e2",
+  "active": "72ac57db629fec92",
   "lastOpenFiles": [
+    "O stronie.md",
     "ZZZ template/Wzór - szablon.md",
     "ZZZ template/Definicja - szablon.md",
     "02 MOC/MOC Matematyka/MOC Statystyka.md",
@@ -311,7 +312,6 @@
     "01 Input przejściowy/Statystyka/Częstość względna.md",
     "01 Input przejściowy/Statystyka/Błąd próbkowania.md",
     "01 Input przejściowy/Statystyka/Błąd losowy.md",
-    "01 Input przejściowy/Statystyka/Cechy statystyczne.md",
     "01 Input/załączniki/etyka.jpg",
     "01 Input/załączniki/Realny PKB per capita w Polsce.webp",
     "01 Input/załączniki/Filozofia przyrody.jpg",

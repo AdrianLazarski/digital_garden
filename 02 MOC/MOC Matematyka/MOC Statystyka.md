@@ -9,8 +9,9 @@ status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-13 16:49
 ---
 
-Etymologia:
-z łac. _statisticus_, „polityczny, dot. polityki”, od _status_, „państwo, stan”
+> [!example] Etymologia
+> łac. _statisticus_, „polityczny, dot. polityki”, 
+> od _status_, „państwo, stan”
 
 > [!note] Definicja 1
 > Zbiór danych liczbowych charakteryzujących określone zjawisko.
