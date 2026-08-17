@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "174d25904108b272",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Jasiński Łukasz, Agonia"
+            }
+          },
+          {
             "id": "8e26f5e56d8206e2",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#filozofia",
+                "query": "agonia",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -200,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Statystyka.md",
+                "file": "04 Źródła/Jasiński Łukasz, Agonia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,12 +307,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72ac57db629fec92",
+  "active": "40fde4cd44744f35",
   "lastOpenFiles": [
+    "Plany obsydianowe.md",
     "O stronie.md",
+    "02 MOC/MOC Matematyka/MOC Statystyka.md",
     "ZZZ template/Wzór - szablon.md",
     "ZZZ template/Definicja - szablon.md",
-    "02 MOC/MOC Matematyka/MOC Statystyka.md",
     "02 MOC/MOC Matematyka/MOC Matematyka stosowana.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
     "02 MOC/MOC Matematyka.md",
@@ -311,7 +336,6 @@
     "01 Input przejściowy/Statystyka/Dobór losowy.md",
     "01 Input przejściowy/Statystyka/Częstość względna.md",
     "01 Input przejściowy/Statystyka/Błąd próbkowania.md",
-    "01 Input przejściowy/Statystyka/Błąd losowy.md",
     "01 Input/załączniki/etyka.jpg",
     "01 Input/załączniki/Realny PKB per capita w Polsce.webp",
     "01 Input/załączniki/Filozofia przyrody.jpg",
