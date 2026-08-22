@@ -4,7 +4,8 @@ tags:
   - ekonomia
   - ref
   - historia/gospodarcza
-dojrzalosc: Sadzonka 🌱
+  - recenzja
+dojrzalosc: Krzak 🌿
 status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-22 14:21
 ---
@@ -218,3 +219,11 @@ Wrocław 2024 r.
 - W 1986 r. wprowadzono Emergency Medical Treatment and Labor Act, który wymaga od szpitalnych oddziałów ratunkowych ustabilizowania stanu zdrowia i leczenia każdej osoby, która trafi tam z nagłym przypadkiem, niezależnie od jej możliwości opłacenia kosztów leczenia. Miało to zapobiegać przenoszeniu nieubezpieczonych pacjentów lub ubezpieczonych w Medicaidzie do szpitali publicznych bez zrobienia choćby badań przesiewowych. W konsekwencji władze lokalne i stanowe zaczęły się wycofywać ze świadczenia usług najuboższym i przerzucania odpowiedzialności na szpitale.
 - Bezpośrednia opieka podstawowa rozwija się co raz bardziej. Działa na zasadzie abonamentu, więc nie jest ubezpieczeniem. Firmy nie muszą utrzymywać rezerw, a lekarze bawić się w nadmierne raportowanie. W 2005 r. praktykowało tylko 150 lekarzy, w 2015 już 6500. 
 - Badania ankietowe pokazują, że lekarze w szpitalach są przeciążeni pracą i średnio z niej zadowoleni.
+
+
+# Recenzja
+
+![[Agonia recenzja.docx]]
+
+
+https://youtu.be/M7bdCFD9_Oc
