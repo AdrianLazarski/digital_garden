@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - matematyka/stosowana/statystyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-23 18:41
+---
 Inaczej szereg strukturalny.
 
 [[Szereg statystyczny]] opisujący informacje dotyczące badanej cechy danej populacji lub próby, w którym wartości tej cechy są uporządkowane i pogrupowane według określonych kryteriów
@@ -26,6 +35,3 @@ Inaczej szereg strukturalny.
 		1. Proste
 		2. Skumulowane
 
-
-
-#matematyka #matematyka/stosowana/statystyka 

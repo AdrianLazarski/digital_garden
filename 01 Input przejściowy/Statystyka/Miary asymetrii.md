@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - matematyka/stosowana/statystyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-23 18:37
+---
 miary asymetrii = miary skośności
 
 Informują o kierunku zróżnicowania wartości zmiennej.
@@ -42,4 +51,3 @@ Stosujemy gdy rozkład empiryczny uniemożliwia obliczenie dominanty czy średni
 
 W odniesieniu do szeregów wyliczających, dobrym narzędziem jest [[Wykres pudełkowy]].
 
-#matematyka #matematyka/stosowana/statystyka 

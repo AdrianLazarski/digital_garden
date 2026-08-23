@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - matematyka/stosowana/statystyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-23 18:42
+---
 
 **Wartość krytyczna** to liczba, która określa, jak daleko od średniej w rozkładzie normalnym musimy się przesunąć, aby "objąć" pewną część rozkładu. Mówi nam, jak duży "margines błędu" musimy dodać do naszego oszacowania, aby uzyskać określony poziom ufności.
 
@@ -20,8 +29,4 @@ Im wyższy poziom ufności, tym większa wartość krytyczna, ponieważ chcemy, 
 ### Dlaczego wartość krytyczna wynosi 1,96 dla 95% ufności?
 
 Wartość krytyczna **1,96** odpowiada poziomowi ufności **95%** w rozkładzie normalnym. Oznacza to, że jeśli przesuniemy się **1,96 odchyleń standardowych** w prawo i w lewo od średniej, to te przesunięcia obejmą 95% całego rozkładu. Innymi słowy, 95% przypadków znajdzie się w przedziale wyznaczonym przez średnią plus i minus 1,96×błąd standardowy.
-
-
-#matematyka/stosowana/statystyka #matematyka 
-
 

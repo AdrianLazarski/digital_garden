@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - matematyka/stosowana/statystyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-23 18:42
+---
 [[Średnia arytmetyczna]] kwadratów odchyleń poszczególnych wartości zmiennej od ich średniej arytmetycznej.
 
 Dodatni pierwiastek z wariancji to [[Odchylenie standardowe]].
@@ -23,4 +32,3 @@ Dodatni pierwiastek z wariancji to [[Odchylenie standardowe]].
 ![[Pasted image 20241109150848.png]]
 
 
-#matematyka #matematyka/stosowana/statystyka 

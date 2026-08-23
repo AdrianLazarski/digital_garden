@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - matematyka/stosowana/statystyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-23 18:43
+---
 
 
 Wyraża się go w procentach. Im więcej procent tym większe jest zróżnicowanie.
@@ -12,8 +21,3 @@ Pozycyjny:
 ![[Pasted image 20240915155254.png]]
 Q - [[Rozstęp kwartylowy]]
 ![[Pasted image 20241123160932.png]]
-
-
-
-
-#matematyka #matematyka/stosowana/statystyka 

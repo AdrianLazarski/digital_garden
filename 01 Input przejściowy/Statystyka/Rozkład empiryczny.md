@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - matematyka/stosowana/statystyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-23 18:40
+---
 ang. *the frequency distribution*
 
 Rozkładem empirycznym zmiennej nazywamy przyporządkowanie kolejnym wartościom zmiennej (x<sub>i</sub>) odpowiadających im liczebności (n<sub>i</sub>).
@@ -33,5 +42,3 @@ Rozkłady jednomodalne
 Rozkład siodłowy - szczególny przypadek rozkładu wielomodalnego/bimodalngo. Ma duże skupienie obserwacji na początku i na końcu rozkładu.
 
 
-
-#matematyka #matematyka/stosowana/statystyka 

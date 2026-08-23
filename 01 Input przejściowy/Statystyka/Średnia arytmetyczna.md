@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - matematyka/stosowana/statystyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-23 18:42
+---
 
 
 ![[Pasted image 20240915151610.png]]
@@ -29,5 +38,3 @@ gdzie
 
 Dla rozkładów symetrycznych lub o niskiej skośności:
 3Me=D+2M
-
-#matematyka #matematyka/stosowana/statystyka 

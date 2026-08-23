@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - matematyka/stosowana/statystyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-23 18:42
+---
 
 Szereg statystyczny to dane odpowiednio uporządkowane, otrzymane w wyniku
 przeprowadzonego badania statystycznego. 
@@ -21,5 +30,3 @@ Szeregi statystyczne
 			2. Skumulowane
 
 
-
-#matematyka #matematyka/stosowana/statystyka 

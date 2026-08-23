@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - matematyka/stosowana/statystyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-23 18:41
+---
 Inaczej skala przedziałowa/interwałowa.
 
 [[Skala pomiarowa]], która:
@@ -10,5 +19,3 @@ Inaczej skala przedziałowa/interwałowa.
 	- np. 0 stopni Celsjusza to po prostu punkt, w którym zamarza woda.
 - Można na nich wykonywać te operacje, co na skalach słabych ([[Skala nominalna]], [[Skala porządkowa]]) + obliczanie średnich i miar zróżnicowania jednostek
 - Nie można wykonywać dzielenia na liczbach w tej skali.
-
-#matematyka/stosowana/statystyka #matematyka 

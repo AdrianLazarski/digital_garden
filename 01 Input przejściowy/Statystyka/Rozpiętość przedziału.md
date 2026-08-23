@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - matematyka/stosowana/statystyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-23 18:40
+---
 Inaczej interwał.
 
 Różnica pomiędzy górną a dolną wartością przedziału klasowego.
@@ -14,4 +23,3 @@ c - rozpiętość przedziału klasowego
 R - obszar zmienności cechy (różnica między największą i najmniejszą wartością cechy)
 
 
-#matematyka #matematyka/stosowana/statystyka 

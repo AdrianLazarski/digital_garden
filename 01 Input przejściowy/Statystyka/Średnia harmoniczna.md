@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - matematyka/stosowana/statystyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-23 18:42
+---
 
 Jest odwrotnością [[Średnia arytmetyczna|średniej arytmetycznej]] z odwrotności wartości zmiennych.
 
@@ -13,6 +22,3 @@ N = n<sub>1</sub> + n<sub>2</sub> + ... + n<sub>k</sub>
 - W średniej harmonicznej z szeregów rozdzielczych liczebności są wagami.
 
 ![[Pasted image 20241004123556.png]]
-
-
-#matematyka #matematyka/stosowana/statystyka 
