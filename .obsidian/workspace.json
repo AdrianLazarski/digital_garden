@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "MOC Statystyka"
             }
-          },
-          {
-            "id": "174d25904108b272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Input/Psycho-Cybernetics Maxwella Maltza.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Psycho-Cybernetics Maxwella Maltza"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input/Psycho-Cybernetics Maxwella Maltza.md",
+                "file": "02 MOC/MOC Matematyka/MOC Statystyka.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,10 +259,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "174d25904108b272",
+  "active": "72ac57db629fec92",
   "lastOpenFiles": [
-    "01 Input/Performatywność vs mimesis.md",
     "01 Input/Psycho-Cybernetics Maxwella Maltza.md",
+    "01 Input/Performatywność vs mimesis.md",
     "Książki/Metodologia i statystyka Tom 1 Przewodnik naukowego turysty.md",
     "04 Źródła/Jasiński Łukasz, Agonia.md",
     "O stronie.md",
