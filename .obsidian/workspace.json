@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Książki/Metodologia i statystyka Tom 1 Przewodnik naukowego turysty.md",
+                "file": "01 Input/Psycho-Cybernetics Maxwella Maltza.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Metodologia i statystyka Tom 1 Przewodnik naukowego turysty"
+              "title": "Psycho-Cybernetics Maxwella Maltza"
             }
           }
         ],
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Książki/Metodologia i statystyka Tom 1 Przewodnik naukowego turysty.md",
+                "file": "01 Input/Psycho-Cybernetics Maxwella Maltza.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,6 +285,9 @@
   },
   "active": "174d25904108b272",
   "lastOpenFiles": [
+    "01 Input/Performatywność vs mimesis.md",
+    "01 Input/Psycho-Cybernetics Maxwella Maltza.md",
+    "Książki/Metodologia i statystyka Tom 1 Przewodnik naukowego turysty.md",
     "04 Źródła/Jasiński Łukasz, Agonia.md",
     "O stronie.md",
     "02 MOC/MOC Matematyka/MOC Statystyka.md",
@@ -311,8 +314,6 @@
     "01 Input przejściowy/Statystyka/Koncentracja.md",
     "01 Input przejściowy/Statystyka/Jednostka statystyczna.md",
     "01 Input przejściowy/Statystyka/Histogram.md",
-    "01 Input przejściowy/Statystyka/Dyspersja.md",
-    "01 Input przejściowy/Statystyka/Dominanta.md",
     "01 Input/załączniki/etyka.jpg",
     "01 Input/załączniki/Realny PKB per capita w Polsce.webp",
     "01 Input/załączniki/Filozofia przyrody.jpg",
