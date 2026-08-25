@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input przejściowy/Statystyka/Zmienna skokowa.md",
+                "file": "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zmienna skokowa"
+              "title": "If I knew vs If I had known"
             }
           },
           {
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Input przejściowy/Statystyka/Zmienna skokowa.md",
+                "file": "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,6 +284,10 @@
   },
   "active": "cc286c7478e749f6",
   "lastOpenFiles": [
+    "07 Language lab/English grammar.md",
+    "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",
+    "07 Language lab/Prompt do słówek.md",
+    "01 Input przejściowy/Statystyka/Zmienna skokowa.md",
     "01 Input przejściowy/Statystyka/Zmienna ciągła.md",
     "01 Input przejściowy/Statystyka/Zbiorowość statystyczna.md",
     "01 Input przejściowy/Statystyka/Względny wskaźnik podobieństwa struktur.md",
@@ -306,10 +310,6 @@
     "01 Input przejściowy/Statystyka/Standaryzacja.md",
     "01 Input przejściowy/Statystyka/Skala równomierna.md",
     "01 Input przejściowy/Statystyka/Skala przedziałowa.md",
-    "01 Input przejściowy/Statystyka/Skala porządkowa.md",
-    "01 Input przejściowy/Statystyka/Skala pomiarowa.md",
-    "01 Input przejściowy/Statystyka/Skala nominalna.md",
-    "01 Input przejściowy/Statystyka/Skala ilorazowa.md",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",
