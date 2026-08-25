@@ -20,3 +20,7 @@ Po **if** i **wish** można użyć **were** zamiast **was**.
 **If** I **had known** dotyczy przeszłości. Budowa jak w [[Past Perfect]].
 	np. **If I'd known** you were in hospital, **I would have gone** to visit you.
 
+Ta przeszłość może też mieć skutek na różne czasy: 
+- If I had gone to the party last night - część dotycząca przeszłości
+- If I'd gone to the party last night, I **would be** tired now. - present
+- If I'd gone to the party last night, I **would have met** lots of people. - past ( I didn't meet lots of people)
