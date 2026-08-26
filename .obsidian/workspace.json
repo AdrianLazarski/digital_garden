@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "9bdad539dfaed405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "McCloskey Deirdre, Mit przedsiębiorczego państwa"
-            }
-          },
-          {
             "id": "72ac57db629fec92",
             "type": "leaf",
             "state": {
@@ -85,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Rothbard Murray, Ekonomiczny punkt widzenia.md",
+                "file": "Aktualnie opracowywane.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rothbard Murray, Ekonomiczny punkt widzenia"
+              "title": "Aktualnie opracowywane"
+            }
+          },
+          {
+            "id": "9bdad539dfaed405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "McCloskey Deirdre, Mit przedsiębiorczego państwa"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mit przedsiębiorczego",
+                "query": "informacja",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -159,8 +159,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+                "file": "Aktualnie opracowywane.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,8 +307,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bdad539dfaed405",
+  "active": "15a273497455cba1",
   "lastOpenFiles": [
+    "04 Źródła/Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii.md",
+    "Aktualnie opracowywane.md",
+    "Dobre prompty do fiszek.md",
+    "04 Źródła/Rothbard Murray, Ekonomiczny punkt widzenia.md",
+    "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "04 Źródła/Jasiński Łukasz, Agonia.md",
     "O stronie.md",
     "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",
@@ -331,11 +335,6 @@
     "01 Input przejściowy/Statystyka/Średnia harmoniczna.md",
     "01 Input przejściowy/Statystyka/Średnia geometryczna.md",
     "01 Input przejściowy/Statystyka/Średnia arytmetyczna.md",
-    "01 Input przejściowy/Statystyka/Szereg statystyczny.md",
-    "01 Input przejściowy/Statystyka/Szereg skumulowany.md",
-    "01 Input przejściowy/Statystyka/Szereg rozdzielczy.md",
-    "01 Input przejściowy/Statystyka/Szereg przedziałowy.md",
-    "01 Input przejściowy/Statystyka/Standaryzacja.md",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",

@@ -1,8 +1,6 @@
 [[00. Lektury ❗]]
 
-
-[[Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii]]
-recenzje wkleić
+[[McCloskey Deirdre, Mit przedsiębiorczego państwa]]
 
 [[Medium transmisyjne]]
 
