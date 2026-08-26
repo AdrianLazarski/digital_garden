@@ -29,4 +29,5 @@ rok: "2004"
 	1. Informacja jako pojęcie pierwotne
 	2. Termin definiowany na podstawie pewnych zasad dostosowanych do potrzeb danej dziedziny badawczej, na ogół z odwołaniem się do innych znanych pojęć, jak np. prawdopodobieństwo.
 	3. Termin opisywany/interpretowany przez jego cechy, własności funkcje.
+- W najogólniejszym ujęciu informację określa się jako odbicie (odwzorowanie) różnorodności cechującej otaczającą rzeczywistość (obiekt, zdarzenie, proces, zjawisko).
 - 
