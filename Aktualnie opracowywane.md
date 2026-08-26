@@ -11,6 +11,7 @@
 [[Granica niewłaściwa -nieskończonego ciągu]]
 
 
+[[Stefanowicz Bogdan, Informacja]]
 [[Arystoteles]]
 [[Odc. Arystoteles]]
 [[Barnes Jonathan, Arystoteles]]
