@@ -3,12 +3,12 @@ created: 2026-02-28 19:46
 tags:
   - ref
   - recenzja
+  - biologia
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-08-27 16:59
 Rok oryginału: "2022"
 ---
-
 
 
 Survival of Friendliest, 2022

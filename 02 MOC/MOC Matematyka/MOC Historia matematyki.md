@@ -15,8 +15,8 @@ modified date: 2026-07-13 18:14
 
 
 
-
-
+Dzieła:
+[[Kordos Marek, Wykłady z historii matematyki]]
 
 
 

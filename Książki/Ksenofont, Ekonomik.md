@@ -1,35 +1,22 @@
 
-Ksenofont, Sympozjon oraz wybór pism  
-- Your Highlight on page 4-4 | Added on Tuesday, 28 July 2020 22:03:01
 
-Nie trapiły go żadne wątpliwości w tym wzglęǳie, myśli flozofów na ten temat nie pociągały గego uwagi, był pobożny głęboko, a nawet ostentacyగnie, czym zresztą nie różnił się od ogółu swych rodaków
-==========
-Ksenofont, Sympozjon oraz wybór pism  
-- Your Highlight on page 4-4 | Added on Tuesday, 28 July 2020 22:06:01
+Nie trapiły go żadne wątpliwości w tym wzglęǳie, myśli filozofów na ten temat nie pociągały jego uwagi, był pobożny głęboko, a nawet ostentacyjnie, czym zresztą nie różnił się od ogółu swych rodaków
 
-Woగna prowaǳona przez ǳiesiątki lat uczyła potępiać zachłanny i nienasycony imperializm demokracగi, goǳąceగ na wolność bliźnich Hellenów i ich prawo stanowienia o sobie samych
-==========
-Ksenofont, Sympozjon oraz wybór pism  
-- Your Highlight on page 5-5 | Added on Tuesday, 28 July 2020 22:07:46
+Wojna prowaǳona przez ǳiesiątki lat uczyła potępiać zachłanny i nienasycony imperializm demokracji, goǳącej na wolność bliźnich Hellenów i ich prawo stanowienia o sobie samych
+
 
 z tymi, z którymi obcował, trudno było mówić o tym, a z takimi arystokratami గak Platon i గego krewni towarzysko nie stał na równi. Z Platonem poznał się w gronie uczniów Sokratesa, ale czuł niechęć do młodego arystokraty, który w naగniesprawiedliwszy sposób
-==========
-Ksenofont, Sympozjon oraz wybór pism  
-- Your Highlight on page 6-6 | Added on Tuesday, 28 July 2020 22:11:54
+
 
 Ksenofont wnet po upadku Kritiasa²⁴ i towarzyszy, bo గuż w r. , wyగechał z Aten na zawsze i nie był nawet świadkiem ostatnich chwil życia swego mistrza, skazanego na śmierć niesprawiedliwym wyrokiem sądu ateńskiego (wiosną r.
 Ksenofont - Ekonomik  
-- Your Highlight on page 9-9 | Added on Wednesday, 29 July 2020 15:09:38
+
 
 Gdyby zaś kto kupiwszy konia, nie umiał go uŜyć i spadłszy z niego szwank poniósł; czyŜ ten koń nie byłby jego własnością? Niebyłby, bo własność jest dobrem. Tym sposobem czyŜ nawet rola nie jest własnością dla tego człowieka, który tak ją uprawia, iŜ szkoduje na niej mimo swoją pracę? Nie jest nią ani ona, jeŜeli zamiast Ŝywienia, głód przysparza.
-==========
-Ksenofont - Ekonomik  
-- Your Highlight on page 9-9 | Added on Wednesday, 29 July 2020 15:11:51
 
-Zdajesz się twierdzić, Sokratesie, iŜ nawet pieniądze nie są własnością, skoro ich kto nie umie uŜyć. A ty znowu w tem się zemną wydajesz zgadzać,
-==========
-Ksenofont - Ekonomik  
-- Your Highlight on page 9-9 | Added on Wednesday, 29 July 2020 15:12:00
+
+Zdajesz się twierdzić, Sokratesie, iż nawet pieniądze nie są własnością, skoro ich kto nie umie użyć. A ty znowu w tem się zemną wydajesz zgadzać,
+
 
 Gdyby bowiem uŜył pieniędzy na to, aby, kupiwszy sobie naprzykład nałoŜnicę, przez teŜ i na ciele i duszy i na majątku szkodo wał, jakŜeŜ by mu wtenczas poŜytecznemi były pieniądze?
 ==========

@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Sołżenicyn Aleksandr, Archipelag Gułag.md",
+                "file": "02 MOC/MOC Historia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sołżenicyn Aleksandr, Archipelag Gułag"
+              "title": "MOC Historia"
             }
           },
           {
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Książki/Hare, Woods, Przetrwają najżyczliwsi.md",
+                "file": "Książki/Ksenofont, Ekonomik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hare, Woods, Przetrwają najżyczliwsi"
+              "title": "Ksenofont, Ekonomik"
             }
           },
           {
@@ -320,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Książki/Hare, Woods, Przetrwają najżyczliwsi.md",
+                "file": "Książki/Ksenofont, Ekonomik.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,6 +405,16 @@
   },
   "active": "0c8aeee11601c152",
   "lastOpenFiles": [
+    "04 Źródła/Kordos Marek, Wykłady z historii matematyki.md",
+    "02 MOC/MOC Historia.md",
+    "02 MOC/MOC Historia/MOC Historia nauki.md",
+    "02 MOC/MOC Matematyka/MOC Historia matematyki.md",
+    "02 MOC/MOC Biologia.md",
+    "02 MOC/MOC Literatura.md",
+    "04 Źródła/Hare, Woods, Przetrwają najżyczliwsi.md",
+    "Książki/Faber Fryderyk, Postęp duszy.md",
+    "04 Źródła/Sołżenicyn Aleksandr, Archipelag Gułag.md",
+    "02 MOC/MOC Matematyka/MOC Statystyka.md",
     "04 Źródła/Metodologia i statystyka Tom 1 Przewodnik naukowego turysty.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
@@ -420,17 +430,7 @@
     "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
-    "02 MOC/MOC Literatura.md",
     "05 Osoby/Fiodor Dostojewski.md",
-    "05 Osoby/Aleksandr Sołżenicyn.md",
-    "04 Źródła/Sołżenicyn Aleksandr, Archipelag Gułag.md",
-    "04 Źródła/Stefanowicz Bogdan, Informacja.md",
-    "04 Źródła/Dostojewski, Notatki z podziemia.md",
-    "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
-    "Książki/Ksenofont, Ekonomik.md",
-    "Książki/Spencer Robert, Niepoprawny politycznie przewodnik po krucjatach i islamie.md",
-    "02 MOC/00 MOC.md",
-    "ZZZ To do 2.md",
     "Książki/załączniki/Stefanowicz Bogdan, Informacja-6.webp",
     "Książki/załączniki/Stefanowicz Bogdan, Informacja-5.webp",
     "Książki/załączniki/Stefanowicz Bogdan, Informacja-4.webp",

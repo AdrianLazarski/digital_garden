@@ -21,3 +21,4 @@ modified date: 2026-07-27 23:55
 [[Historia programowania obiektowego]]
 
 [MOC Chrześcijaństwo a nauka]
+
