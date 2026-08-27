@@ -122,6 +122,7 @@ modified date: 2026-07-03 17:36
 [[Leon Gumański]] 1921-2014
 [[Michael Henry]] 1922-2002
 [[Karl-Otto Apel]] 1922
+[[Ivan Illich]] 1926-2002 r.
 [[Maria Gołaszewska]] 1926-2015
 [[Hilary Putnam]] 1926-2016
 [[Mieczysław Gogacz]] 1926-2022

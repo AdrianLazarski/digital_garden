@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Osoby/Fiodor Dostojewski.md",
+                "file": "02 MOC/MOC Literatura.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fiodor Dostojewski"
+              "title": "MOC Literatura"
             }
           },
           {
@@ -150,9 +150,57 @@
               "icon": "lucide-file",
               "title": "Sołżenicyn Aleksandr, Archipelag Gułag"
             }
+          },
+          {
+            "id": "0c8aeee11601c152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Książki/Hare, Woods, Przetrwają najżyczliwsi.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hare, Woods, Przetrwają najżyczliwsi"
+            }
+          },
+          {
+            "id": "7f2bc41b1541c78f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/Ivan Illich.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ivan Illich"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -272,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Źródła/Sołżenicyn Aleksandr, Archipelag Gułag.md",
+                "file": "Książki/Hare, Woods, Przetrwają najżyczliwsi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,24 +403,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40fde4cd44744f35",
+  "active": "0c8aeee11601c152",
   "lastOpenFiles": [
+    "04 Źródła/Metodologia i statystyka Tom 1 Przewodnik naukowego turysty.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
+    "02 MOC/MOC Filozofia/Ivan Illich.md",
+    "02 MOC/MOC Filozofia.md",
+    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
+    "03 Atomy/Edukacja.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
+    "04 Źródła/Joshi, H. P. Lovecraft Biografia.md",
+    "04 Źródła/Illich Ivan, Odszkolnić społeczeństwo.md",
+    "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
+    "02 MOC/MOC Literatura.md",
+    "05 Osoby/Fiodor Dostojewski.md",
+    "05 Osoby/Aleksandr Sołżenicyn.md",
+    "04 Źródła/Sołżenicyn Aleksandr, Archipelag Gułag.md",
     "04 Źródła/Stefanowicz Bogdan, Informacja.md",
     "04 Źródła/Dostojewski, Notatki z podziemia.md",
-    "05 Osoby/Fiodor Dostojewski.md",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
-    "02 MOC/MOC Literatura.md",
     "Książki/Ksenofont, Ekonomik.md",
     "Książki/Spencer Robert, Niepoprawny politycznie przewodnik po krucjatach i islamie.md",
-    "04 Źródła/Sołżenicyn Aleksandr, Archipelag Gułag.md",
     "02 MOC/00 MOC.md",
     "ZZZ To do 2.md",
-    "Aktualnie opracowywane.md",
-    "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",
-    "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
-    "02 MOC/MOC IT/MOC Literatura IT.md",
-    "02 MOC/MOC Matematyka/MOC Statystyka.md",
-    "02 MOC/MOC IT.md",
     "Książki/załączniki/Stefanowicz Bogdan, Informacja-6.webp",
     "Książki/załączniki/Stefanowicz Bogdan, Informacja-5.webp",
     "Książki/załączniki/Stefanowicz Bogdan, Informacja-4.webp",
@@ -380,16 +438,6 @@
     "Książki/załączniki/Stefanowicz Bogdan, Informacja-2.webp",
     "Książki/załączniki/Stefanowicz Bogdan, Informacja-1.webp",
     "Książki/załączniki/Stefanowicz Bogdan, Informacja.webp",
-    "01 Input/!!Random/00. Lektury ❗.md",
-    "04 Źródła/Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii.md",
-    "Dobre prompty do fiszek.md",
-    "04 Źródła/Rothbard Murray, Ekonomiczny punkt widzenia.md",
-    "04 Źródła/Jasiński Łukasz, Agonia.md",
-    "O stronie.md",
-    "07 Language lab/English grammar.md",
-    "07 Language lab/Prompt do słówek.md",
-    "01 Input przejściowy/Statystyka/Zmienna skokowa.md",
-    "01 Input przejściowy/Statystyka/Zmienna ciągła.md",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",

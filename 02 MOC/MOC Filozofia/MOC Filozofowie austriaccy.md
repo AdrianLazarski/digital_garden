@@ -30,3 +30,4 @@ modified date: 2026-07-07 13:29
 [[Herbert Feigl]] 1902-1988 r.
 [[Karl Popper]] 1902-1994 r.
 [[Kurt Gödel]] 1906-1978 r.
+[[Ivan Illich]] 1926-2002 r.

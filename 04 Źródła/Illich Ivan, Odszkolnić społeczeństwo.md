@@ -1,5 +1,18 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - recenzja
+  - "#filozofia/współczesna"
+  - filozofia/polityki
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-27 16:53
+Rok oryginału: "1970"
+---
 1970
 Warszawa 2010
+
 
 ## Wstęp
 
@@ -131,5 +144,3 @@ Książka Ilicha jest ciekawa z liberalnego punktu widzenia z co najmniej dwóch
 Drugi powód jest taki, że z perspektywy czasu możemy zobaczyć, jak uwsteczniająca jest lewicowa technofobia. Jego postulaty, by zamiast telewizji rozwijać biblioteki kaset magnetofonowych, zamiast dróg dla samochodów budować mechaniczne osły czy ograniczać użycie łącz telefonicznych przez komputery, dziś wydają się śmieszne. Jest oczywiste, że gdyby potraktowano je poważnie w latach 70., świat rozwinąłby się gospodarczo i technologicznie znacznie mniej.
 
 Jeśli jesteście gotowi na swojego rodzaju egzotyczną podróż po świecie idei, to polecam szczególnie pierwszy rozdział książki Illicha, który się wydaje najbardziej konkretny i porusza ważny temat zmniejszenia, czy wręcz wyeliminowania opresyjności szkolnictwa, bez wyrządzenia szkód naszemu kapitałowi ludzkiemu. Reszta to niestety głównie powtórzenia i mało interesujące bzdury.
-
-#recenzja #postmodernizm #poststrukturalizm #anarchizm #edukacja #socjologia #szkolnictwo #filozofia/współczesna #filozofia/austriacka 

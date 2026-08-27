@@ -24,6 +24,7 @@ modified date: 2026-07-06 14:06
 [[Strauss Leo, Crospey Joseph, Historia filozofii politycznej]], 1963 r.
 [[Adorno Theodor, Nowy prawicowy radykalizm]], 1967 r.
 [[Berlin Isaiah, Cztery eseje o wolności]], 1969 r.
+[[Illich Ivan, Odszkolnić społeczeństwo]], 1970 r.
 [[Rothbard Murray, Manifest libertariański]], 1973 r.
 [[Kołakowski, Główne nurty marksizmu]], 1976 r.
 [[Konkin Samuel Edward, Nowy manifest libertariański]], 1980 r.

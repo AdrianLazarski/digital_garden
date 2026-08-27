@@ -20,3 +20,6 @@ modified date: 2026-07-27 22:47
 - Czy prywatyzacja edukacji nie sprawi, że szkoły będą uczyć tylko umiejętności technicznych, przydatnych na rynku pracy, a zaniedbana zostanie humanistyka? Patrząc na ilość darmowych lub płatnych (choć zazwyczaj płatnych niewiele, na pewno mniej niż czesne w prywatnej szkole) materiałów szkoleniowych na temat malowania obrazów, pisania scenariuszy, to bez państwowej edukacji tym bardziej wzrozną i tak już teraz imponujące popyt i podaż takich usług.
 
 
+
+
+[[Illich Ivan, Odszkolnić społeczeństwo]], 1970 r.

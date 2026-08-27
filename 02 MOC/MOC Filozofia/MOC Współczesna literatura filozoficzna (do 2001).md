@@ -57,6 +57,7 @@ modified date: 2026-07-03 17:38
 [[Wolniewicz Bogusław, Rzeczy i fakty]], 1968 r.
 [[Berlin Isaiah, Cztery eseje o wolności]], 1969 r.
 [[Rand Ayn, The Romantic Manifesto]], 1969 r.
+[[Illich Ivan, Odszkolnić społeczeństwo]], 1970 r.
 [[Rothbard Murray, Manifest libertariański]], 1973 r.
 [[Kahn Charles, Język i ontologia]], 1973 r.
 [[Reale Giovanni, Historia filozofii starożytnej II]], 1975 r.

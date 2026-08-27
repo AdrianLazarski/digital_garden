@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - matematyka/stosowana/statystyka
+  - ref
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-27 16:59
+Rok oryginału: "2023"
+---
 Warszawa 2023
 
 

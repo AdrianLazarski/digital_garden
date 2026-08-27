@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-27 16:59
+Rok oryginału: "2022"
+---
 
 
 
@@ -141,6 +151,3 @@ Te zjawiska na dobrą sprawę nie ograniczają się do samych prób zmiany rząd
 Jeśli chcecie się dowiedzieć więcej na temat badań stojących za tezami autorów, zrozumieć największe ludobójstwa w historii, dowiedzieć się jak skutecznie przeciwstawiać się dehumanizacji, poznać historię udomowienia psów, czy różnice między szympansami zwyczajnymi a bonobo, to musicie sięgnąć po tę książkę.
 
 8/10
-
-
-#recenzja #biologia #ewolucja #liberalizm #libertarianizm 
