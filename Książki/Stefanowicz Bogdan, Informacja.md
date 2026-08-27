@@ -36,4 +36,8 @@ rok: "2004"
 - Informacje jako dane uświadomione i zinterpretowane przez człowieka to redukcja tego pojęcia do procesów myślowych. 
 	- _A informacje mogą być przecież np. w książce._
 - Cechą tych różnych definicji jest to, że ukazują informację, jako coś istniejącego, ale nie podają wskazówek, jak ją rejestrować, czy wykonywać inne operacje. Nie operacjonalizują tego pojęcia. 
-- 
+
+![[Stefanowicz Bogdan, Informacja-3.webp]]
+![[Stefanowicz Bogdan, Informacja.webp]]![[Stefanowicz Bogdan, Informacja-5.webp]]![[Stefanowicz Bogdan, Informacja-4.webp]]![[Stefanowicz Bogdan, Informacja-1.webp]]![[Stefanowicz Bogdan, Informacja-6.webp]]![[Stefanowicz Bogdan, Informacja-2.webp]]
+
+Reszta nudna.
