@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - recenzja
+  - literatura
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-27 17:57
+Rok oryginału: "1949"
+---
 
 „Promieniowania” Ernsta Jungera to trzy dzienniki autora – dwa z Paryża, jeden z Kaukazu. Spisywał je podczas drugiej wojny, gdzie jako oficer Wehrmachtu musiał służyć w narodowo-socjalistycznej maszynie zniszczenia (przy czym warto zaznaczyć, że nigdy do NSDAP się nie zapisał i był wrogo nastawiony do totalitaryzmu). Jego tragedia jest spotęgowana faktem, że Junger to nie bezmyślny sołdat, a wrażliwy inteligent, pisarz i osoba świadoma obserwowania swoistej apokalipsy, a nie „zwycięskiego pochodu Rzeszy” jak wydawało się masom, które ten nazywał po prostu „robotnikami”.
 
@@ -33,6 +44,3 @@ Na demokratów trzeba tylko sołdatów. - Pruskie powiedzenie
 
 Często opłaca się być poważnym w młodości, by zyskać nową młodość w wieku dojrzałym. – Leautand albo Lichtenberg
 
-
-
-#beletrystyka #filozofia #filozofia/niemiecka #filozofia/współczesna 

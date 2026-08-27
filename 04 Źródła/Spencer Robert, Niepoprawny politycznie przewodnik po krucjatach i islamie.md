@@ -1,3 +1,12 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - religia
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-27 17:51
+---
 
 
 
@@ -81,6 +90,3 @@ Protip: pokojowa koegzystencja się w tym nie zawiera.
 -Przyznanie otwarcie, że problemem nie są fanatycy, a sam Islam raczej nie wchodzi w grę ze względu na interesy USA z Saudyjczykami i innymi.
 
 -Art. 3 irańskiej konstytucji mówi o wspieraniu bojowników muzułmańskich na całym świecie.
-
-
-#islam

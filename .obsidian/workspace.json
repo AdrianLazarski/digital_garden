@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aktualnie opracowywane.md",
+                "file": "01 Input/!!Random/00. Lektury ❗.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aktualnie opracowywane"
+              "title": "00. Lektury ❗"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Historia.md",
+                "file": "Książki/Literatura piękna/Junger Ernst, Promieniowania.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,31 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Historia"
-            }
-          },
-          {
-            "id": "0c8aeee11601c152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Książki/Lec Stanisław Jerzy, Myśli nieuczesane.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lec Stanisław Jerzy, Myśli nieuczesane"
+              "title": "Junger Ernst, Promieniowania"
             }
           },
           {
@@ -181,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/Ivan Illich.md",
+                "file": "05 Osoby/Ernst Jünger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ivan Illich"
+              "title": "Ernst Jünger"
             }
           }
         ],
@@ -234,7 +210,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "informacja",
+                "query": "ernst",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -255,7 +231,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -320,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Książki/Lec Stanisław Jerzy, Myśli nieuczesane.md",
+                "file": "05 Osoby/Ernst Jünger.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,14 +380,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c8aeee11601c152",
+  "active": "7f2bc41b1541c78f",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/Ivan Illich.md",
+    "Książki/Literatura piękna/Junger Ernst, Promieniowania.md",
+    "02 MOC/MOC Literatura.md",
+    "05 Osoby/Alexandre Dumas.md",
+    "Książki/Literatura piękna/Dumas Alexander, Hrabia Monte Christo.md",
+    "02 MOC/MOC Historia.md",
+    "04 Źródła/załączniki/Pasted image 20240604172043.png",
+    "04 Źródła/załączniki/3.webp",
+    "04 Źródła/załączniki/4.webp",
+    "04 Źródła/załączniki/5.webp",
+    "02 MOC/MOC Religia.md",
+    "Książki/załączniki/Filozofia współczesna.webp",
+    "Książki/załączniki/Filozofia starożytna.webp",
+    "Książki/załączniki/Filozofia nowożytna.webp",
+    "04 Źródła/Spencer Robert, Niepoprawny politycznie przewodnik po krucjatach i islamie.md",
+    "04 Źródła/Lec Stanisław Jerzy, Myśli nieuczesane.md",
+    "01 Input/!!Random/00. Lektury ❗.md",
+    "Aktualnie opracowywane.md",
     "04 Źródła/Ksenofont, Ekonomik.md",
     "05 Osoby/Ksenofont.md",
-    "02 MOC/MOC Filozofia/Ivan Illich.md",
-    "02 MOC/MOC Literatura.md",
     "04 Źródła/Kordos Marek, Wykłady z historii matematyki.md",
-    "02 MOC/MOC Historia.md",
     "02 MOC/MOC Historia/MOC Historia nauki.md",
     "02 MOC/MOC Matematyka/MOC Historia matematyki.md",
     "02 MOC/MOC Biologia.md",
@@ -423,27 +415,12 @@
     "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
     "02 MOC/MOC Filozofia.md",
-    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
-    "03 Atomy/Edukacja.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła z zakresu filozofii polityki.md",
-    "04 Źródła/Joshi, H. P. Lovecraft Biografia.md",
-    "04 Źródła/Illich Ivan, Odszkolnić społeczeństwo.md",
-    "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "Książki/załączniki/Stefanowicz Bogdan, Informacja-6.webp",
-    "Książki/załączniki/Stefanowicz Bogdan, Informacja-5.webp",
-    "Książki/załączniki/Stefanowicz Bogdan, Informacja-4.webp",
-    "Książki/załączniki/Stefanowicz Bogdan, Informacja-3.webp",
-    "Książki/załączniki/Stefanowicz Bogdan, Informacja-2.webp",
-    "Książki/załączniki/Stefanowicz Bogdan, Informacja-1.webp",
-    "Książki/załączniki/Stefanowicz Bogdan, Informacja.webp",
+    "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-6.webp",
+    "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-5.webp",
+    "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-4.webp",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",
-    "01 Input/załączniki/etyka.jpg",
-    "01 Input/załączniki/Realny PKB per capita w Polsce.webp",
-    "01 Input/załączniki/Filozofia przyrody.jpg",
     "02 MOC/MOC Prawo"
   ]
 }

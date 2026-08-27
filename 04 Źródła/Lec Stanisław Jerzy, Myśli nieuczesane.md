@@ -1,9 +1,12 @@
 ---
 created: 2026-02-28 19:46
-tags: [atom]
+tags:
+  - atom
+  - literatura
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date : 2026-08-27 17:41
+modified date: 2026-08-27 17:41
+Rok oryginału: "1957"
 ---
 
 

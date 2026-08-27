@@ -18,7 +18,17 @@ modified date: 2026-08-27 16:40
 
 [[Joshi, H. P. Lovecraft Biografia]]
 
+# Francuska
 
+[[Dumas Alexander, Hrabia Monte Christo]], 1844 r.
+
+# Niemiecka
+
+[[Junger Ernst, Promieniowania]], 1944 r.
+
+# Polska
+
+[[Lec Stanisław Jerzy, Myśli nieuczesane]], 1957 r.
 
 # Rosyjska
 

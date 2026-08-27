@@ -24,6 +24,8 @@ modified date : 2026-08-11 20:47
 
 # Dzieła 📖
 
+[[Junger Ernst, Promieniowania]], 1944 r.
+
 
 # Poglądy 🔍
 

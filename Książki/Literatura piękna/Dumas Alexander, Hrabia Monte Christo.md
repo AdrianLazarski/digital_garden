@@ -1,3 +1,16 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - literatura
+  - ref
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-27 17:53
+Rok oryginału: "1844"
+aliases:
+  - Hrabia Monte Christo
+---
 
 [![](https://s-media-cache-ak0.pinimg.com/564x/fa/e2/c7/fae2c7a2af1505bd750cf57366e5e048.jpg)](https://www.blogger.com/u/1/blog/post/edit/3274738833282151104/4960752847765012925#)
 
@@ -55,8 +68,3 @@ Dumas zaserwował nam mnogość wątków, splatających się w spójną histori�
 >   
 >   
 > Najbardziej zahartowani w niebezpieczeństwie doznają, choćby nawet byli o nim uświadomieni, owego skurczu serca i owego drżenia, które przenika im całe ciało. Dowód, jaka wielka różnica istnieje między tworem wyobraźni, a rzeczywistością, między projektem, a jego wykonaniem.
-
-
-
-
-#beletrystyka
