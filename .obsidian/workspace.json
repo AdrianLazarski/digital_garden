@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Literatura.md",
+                "file": "04 Źródła/Dumas Alexander, Hrabia Monte Christo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Literatura"
+              "title": "Dumas Alexander, Hrabia Monte Christo"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Książki/Literatura piękna/Junger Ernst, Promieniowania.md",
+                "file": "04 Źródła/Żeromski Stefan, Ludzie bezdomni.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Junger Ernst, Promieniowania"
+              "title": "Żeromski Stefan, Ludzie bezdomni"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -231,8 +231,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -297,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Osoby/Ernst Jünger.md",
+                "file": "04 Źródła/Dumas Alexander, Hrabia Monte Christo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,13 +379,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f2bc41b1541c78f",
+  "active": "40fde4cd44744f35",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/Ivan Illich.md",
-    "Książki/Literatura piękna/Junger Ernst, Promieniowania.md",
     "02 MOC/MOC Literatura.md",
+    "04 Źródła/Żeromski Stefan, Ludzie bezdomni.md",
+    "04 Źródła/Wilde Oscar, Portret Doriana Graya.md",
+    "04 Źródła/Mann Tomasz, Czarodziejska góra.md",
+    "04 Źródła/Jünger Ernst, Promieniowania.md",
+    "05 Osoby/Ernst Jünger.md",
+    "02 MOC/MOC Filozofia/Ivan Illich.md",
     "05 Osoby/Alexandre Dumas.md",
-    "Książki/Literatura piękna/Dumas Alexander, Hrabia Monte Christo.md",
+    "04 Źródła/Dumas Alexander, Hrabia Monte Christo.md",
     "02 MOC/MOC Historia.md",
     "04 Źródła/załączniki/Pasted image 20240604172043.png",
     "04 Źródła/załączniki/3.webp",
@@ -411,10 +414,6 @@
     "04 Źródła/Sołżenicyn Aleksandr, Archipelag Gułag.md",
     "02 MOC/MOC Matematyka/MOC Statystyka.md",
     "04 Źródła/Metodologia i statystyka Tom 1 Przewodnik naukowego turysty.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
-    "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
-    "02 MOC/MOC Filozofia.md",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-6.webp",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-5.webp",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-4.webp",

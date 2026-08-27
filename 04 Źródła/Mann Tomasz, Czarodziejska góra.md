@@ -1,3 +1,13 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - recenzja
+  - literatura
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-27 17:59
+Rok oryginału: "1924"
+---
 
 Pierwsze 130 stron to opis jak główny bohater, student inżynierii okrętów, przyjeżdża do sanatorium w górach w Davos, by odpocząć w towarzystwie swojego kuzyna-wojskowego, który od jakiegoś czasu już tam siedzi z trochę poważniejszymi problemami zdrowotnymi (główny bohater traktuje to jako wakacje, a nie kurację). 
 
@@ -21,10 +31,15 @@ Ogółem to ma być satyra na arystokracjo-mieszczaństwo i pokazanie idei krą�
 Główny bohater, co autor podkreśla, jest osobą całkowicie przeciętną. To plus jego wiek mają służyć temu, że każdy ma móc się z nim utożsamić - teraz lub na jakimś poprzednim etapie życia.
 
 
-Tomasz Mann - Czarodziejska góra  
-- Your Highlight on page 12-12 | Added on Thursday, 2 December 2021 10:42:02
-
 Gdzieś w przejściu mignęła postać pielęgniarki w białym czepku i z binoklami na nosie, których sznurek przeciągnęła sobie za ucho. Z pewnością była protestantką, pozbawioną prawdziwego umiłowania swojego zawodu — ciekawską, którą dręczy i niepokoi nuda
 
 
-#beletrystyka
+# Recenzja
+
+Ta książka reprezentuje wszystko, co jest nie tak z tzw. literaturą piękną. Bierze parę losowych idei, które same z siebie mogłyby być nawet interesujące, by je opakować w nudną do porzygu fabułę. Jak sprawić, by np. temat subiektywnego postrzegania czasu, tak interesujący na gruncie filozofii przyrody, czy fizyki, przestał być interesujący? Po prostu przegadaj go. Powiąż go z nadmiarową treścią, odwróć uwagę od meritum. 
+  
+Oczywiście nic tak nie mierzi mizantropa, jak fanbaza. Nie ma nic gorszego, niż ludzie żyjący własnym życiem i czerpiący z czegoś przyjemność. NIEE, NIE MOGĄ WAM SIĘ PODOBAĆ TE PŁYTKIE PRZEMYŚLENIA, MIAŁEM O TYM NA PIERWSZYM ROKU STUDIÓW!!!1ONE Tutaj jednak fanbase mówi nam sporo o inteligencji autora. Uczynienie bezpłciowego, niedokończonego worka na idee głównym bohaterem, z którym może utożsamić się niewyrobiony filozoficzne czytelnik to strzał w dziesiątkę. 
+  
+I powiem, że w ogóle Mann całkiem nieźle pisał. Przy pierwszych stu stronach udzielał mi się wyjazdowy nastrój jakiejś zielonej szkoły, czy kolonii. Gorzej, że potem okazało się, że w sanatorium najmniejsza jednostka czasu to miesiąc i autor koniecznie chciał, byśmy odczuli to na własnej skórze. Nie odmawiam mu umiejętności, ale nie jestem masochistą. Nie lubię cierpieć. 
+  
+Ogółem też warto wspomnieć, że Czarodziejska góra miała stanowić satyrę na arystokrację i mieszczaństwo. Nie było mi jednak do śmiechu.

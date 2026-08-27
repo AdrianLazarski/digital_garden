@@ -1,3 +1,15 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - literatura
+  - recenzja
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-27 18:07
+Rok oryginału: "1900"
+---
+
 „Ludzie bezdomni” Stefana Żeromskiego nie są dobrą książką. Nie no, przepraszam. To tak jakby powiedzieć, że Adolf Hitler nie był filosemitą. Ta zbrodnia drukarska jest okropna i to ze względu zarówno na fabułę, jak i warsztat literacki. O tym drugim krótko – powieść obfituje w przydługawe, zbędne opisy przyrody i charakteryzację bohaterów niemających większego znaczenia dla przedstawionej historii. Jeżeli chodzi zaś o fabułę, to skupmy się na głównym bohaterze.  
   
 Tomasz Judym to młodzieniec pochodzący z szewskiej rodziny, z którym zapoznajemy się na kartach powieści w momencie, gdy w Paryżu kończy swoje studia medyczne. Niby nie wstydził się swojego pochodzenia, ale też nie czuł się komfortowo, gdy był o nie pytany. Jego rodzice wcześnie zmarli i był wychowywany przez ciotkę, która co prawda zapewniła mu jakąś edukację, ale traktowała go bardzo źle i ten brak miłości odcisnął piętno na kształtującym się poczuciu własnej wartości młodzieńca. Judym już na zawsze miał pozostać niedowartościowanym przegrywem, czego dowiadujemy się całkiem wcześnie i w czym utwierdzamy się przez całą lekturę.  
@@ -18,5 +30,3 @@ Długo tam jednak nie zabawił i wyjechał do Zagłębia. Tam Żeromski umieści
 Widzicie już, że nie przesadziłem na początku. Im dalej zagłębiałem się w tekst, tym bardziej rozluźniłem poziom szczegółowości, bo odświeżanie sobie tego festiwalu upodlenia zbliżało moją duszę do emocjonalnych mdłości. Judym to postać skrajnie niemoralna i altruista par excellence. Zupełnie odstające od reszty utworu fragmenty o zachwycie nad pracą brata, o niechęci do wydawania niezarobionych pieniędzy czy absurdalnej siły woli przejawiającej się w czekaniu miesiącami na klientów w Warszawie nie mogą być potraktowane poważnie – to świadectwo, że Żeromski jest kiepski zarówno jako pisarz, jak i psycholog. Jedynym, co człowiek uzbrojony w racjonalną filozofię może wynieść z tego obyczajowego Necronomiconu, jest idealne zobrazowanie, że osoba, która pozbawia się miłości, nie może jej tak naprawdę nieść innym. Jednakże lepiej sięgnąć po „Lenina” Ossendowskiego, bo tam — poza tym, że postać mogłaby powiedzieć po judymowemu: „Nie mogę mieć ani ojca, ani matki, ani żony, ani jednej rzeczy, którą bym przycisnął do serca z miłością, dopóki z oblicza ziemi nie znikną te podłe zmory (...)” — otrzymujemy też przekonującą charakteryzację postaci, mnogość faktów historycznych i uzasadnioną, edukującą trwogę miast obrzydzenia.
 
 1/10
-
-#beletrystyka #recenzja 

@@ -1,9 +1,12 @@
 ---
 created: 2026-02-28 19:46
-tags: [osoba, filozofia/współczesna]
+tags:
+  - osoba
+  - filozofia/współczesna
+  - literatura
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date : 2026-08-11 20:47
+modified date: 2026-08-11 20:47
 ---
 
 
@@ -20,11 +23,11 @@ modified date : 2026-08-11 20:47
 - W trakcie pierwszej wojny światowej walczył  jako szeregowiec, a potem dowódca plutonu i kompanii  na froncie zachodnim. Był czternastokrotnie ranny. Uhonorowany Krzyżem Żelaznym Pierwszej Klasy i Orderem Hohenzollernów.
 - W trakcie drugiej wojny był kapitanem Wehrmachtu, ale nie walczył. Cenzurował listy w Paryżu i utrzymywał kontakty z kręgami artystycznymi.
 - Objęty zakazem druku w brytyjskiej strefie okupacyjnej do 1949 r.
-- Jego setne urodziny były mocno fetowane państwowowymi uroczystościami z udziałem prezydenta Romana Herzoga oraz kanclerza Helmuta Kohla. Prezydent Francji François Mitterand opublikował 29 marca 1995 roku n jegoa cześć tekst we „Frankfurter Allgemeine Zeitung” i porównał go do Goethego i Stendhala.
+- Jego setne urodziny były mocno fetowane państwowowymi uroczystościami z udziałem prezydenta Romana Herzoga oraz kanclerza Helmuta Kohla. Prezydent Francji François Mitterand opublikował 29 marca 1995 roku na jego cześć tekst we „Frankfurter Allgemeine Zeitung” i porównał go do Goethego i Stendhala.
 
 # Dzieła 📖
 
-[[Junger Ernst, Promieniowania]], 1944 r.
+[[Jünger Ernst, Promieniowania]], 1944 r.
 
 
 # Poglądy 🔍
