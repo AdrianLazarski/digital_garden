@@ -6,10 +6,8 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-08-27 14:01
+Rok oryginału: "1984"
 ---
-
-
-
 
 
 
@@ -27,4 +25,16 @@ Przez pomyłkę przez godzinę czeka sam, bo nie podano mu zmienionej godziny, p
 Na miejscu nie zastaje już towarzystwa i zamiast tego spotyka młodą prostytutkę Lizę. Zaczyna jej wjeżdżać na psychę jako to prostytucja ją zniszczy i tę czarną wizję porównuje ze szczęśliwym obrazem życia rodzinnego. Daje jej swój adres i sugeruje, że pomoże jej się wyrwać z jej nieciekawej sytuacji. Oczywiście chwilę potem zaczyna tego żałować, bo żyje w nędzy i jego próżność nie zniosłaby takiego odsłonięcia się. Po paru dniach dziewczyna przychodzi i człowiek z podziemia odegrać rolę bohatera, dostaje histerii, wyznaje jej, że wcale nie chciał jej pomóc, a jedynie nad nią dominować i odreagować własne upokorzenia.
 Liza, zamiast odpowiedzieć nienawiścią, reaguje współczuciem i obejmuje go. Niezdolny do odwzajemnienia bezinteresownego uczucia i wściekły, że to on okazał się słabszą stroną, narrator postanawia ją obrazić: najpierw współżyje z nią, po czym wciska jej w rękę zmięty pięciorublowy banknot, sprowadzając całe spotkanie do transakcji. Liza porzuca pieniądze i ucieka w śnieżycę, a on, po krótkiej, nieudolnej próbie dogonienia jej, wraca do swojego podziemia.
 
+Historia kończy się komentarzem fikcyjnego wydawcy, który informuje, że notatki urzędnika nie kończą się w tym miejscu i że jego smęcenie i autoanaliza trwają dalej, jednak nie ma potrzeby ich dłuższego przytaczania.
 
+
+
+
+
+
+
+
+
+- Wielu egzystencjalistów, w szczególności [[Jean-Paul Sartre]], uważali tę powieść za wstęp do swojej filozofii.
+- [[Friedrich Nietzsche]] mówił o tym, że „prawda krzyczy” w tym dziele.
+- Powieść stanowiła inspirację dla Paula Schradera podczas pisania scenariusza do filmu Taksówkarz (1976) Martina Scorsese.
