@@ -1,15 +1,17 @@
 ---
 created: 2026-02-28 19:46
 tags:
-  - atom
   - recenzja
   - komunizm
   - historia/współczesna
+  - literatura
+  - ref
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-08-27 16:36
+Rok oryginału: "1973"
 ---
-
+[[Aleksan]]
 
 Książka legenda. Poruszająca, przerażająca, oburzająca i imponująca. Wspaniałe zaoranie głupich wyobrażeń zachodniego lewactwa na temat komunizmu. Wstrzymaj się z jakimiś negatywnymi skojarzeniami z jąkającym się panem z muszką – słowo zaoranie pasuje tutaj idealnie, ponieważ ogrom przedstawionego materiału oraz subtelny komentarz do niego nie pozostawiają miejsca na złudzenia. Komunizm był najstraszniejszą rzeczą w historii ludzkości, gorszą nawet od narodowego socjalizmu, o ile w ogóle można tworzyć takie porównania. Mnie wydaje się, że raczej można, skoro nawet narodowy socjalizm nie zmuszał do bania się większości obywateli i ludzi, których wysłał na front, a którzy trafili do obozów jenieckich, nie traktował potem potencjalnych zdrajców. Wyobraźcie sobie ten poziom zepsucia: bestia groźna nie tylko dla odrębnych i niewinnych, ale też dla samej siebie: dla swoich kłów, dla swoich pazurów, dla swoich kończyn. Zdolna ranić samą siebie, byleby zwiększyć stan rozkładu świata. No i to wielu Rosjan miało swoje siły w armii niemieckiej, bo tak nienawidzili ZSRS. Niemcy jacyś pojedynczy w partii byli owszem, ale nie wstępowali masowo do Armii Czerwonej.  
   

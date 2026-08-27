@@ -20,6 +20,5 @@ modified date: 2026-07-02 20:42
 11. [[MOC Psychologia]] 🛋️
 12. [[MOC Religia]] ✝️
 13. [[MOC Socjologia]] 👪
-
-
+14. [[MOC Literatura]] 📚
 

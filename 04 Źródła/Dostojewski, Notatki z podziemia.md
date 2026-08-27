@@ -1,12 +1,15 @@
 ---
 created: 2026-08-27 14:01
 tags:
-  - atom
   - recenzja
+  - ref
+  - literatura
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-08-27 14:01
-Rok oryginału: "1984"
+Rok oryginału: "1884"
+aliases:
+  - Notatki z podziemia
 ---
 
 # Recenzja
