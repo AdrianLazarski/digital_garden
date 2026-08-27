@@ -1,173 +1,87 @@
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 8-8 | Added on Tuesday, 25 August 2020 22:57:50
-
-Burząc pomniki, oszczędzajcie cokoły. Zawsze mogą się przydać
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 9-9 | Added on Tuesday, 25 August 2020 22:59:00
-
-Wszystko jest w rękach człowieka. Dlatego należy je myć często
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 11-11 | Added on Tuesday, 25 August 2020 23:00:59
-
-Zawsze znajdą się Eskimosi, którzy wypracują dla mieszkań- ców Konga Belgijskiego wskazówki zachowywania się w czas olbrzymich upałów
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 12-12 | Added on Tuesday, 25 August 2020 23:01:40
-
-Konstytucja państwa powinna być taka, by nie naruszała konstytucji obywatela
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 12-12 | Added on Tuesday, 25 August 2020 23:02:52
-
-Gdy mit zderzy się z mitem, jest to bardzo realne zderzenie
 
 
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 13-13 | Added on Tuesday, 22 September 2020 17:19:44
+- Burząc pomniki, oszczędzajcie cokoły. Zawsze mogą się przydać
 
-Błoto stwarza czasem pozory głębi
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 15-15 | Added on Tuesday, 22 September 2020 17:21:32
+- Wszystko jest w rękach człowieka. Dlatego należy je myć często.
 
-Jak pchły skaczą myśli z człowieka na człowieka. Ale nie wszystkich gryzą
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 16-16 | Added on Tuesday, 22 September 2020 17:22:50
+- Zawsze znajdą się Eskimosi, którzy wypracują dla mieszkańców Konga Belgijskiego wskazówki zachowywania się w czas olbrzymich upałów.
 
-Trzeba tak pomnożyć ilość myśli, by nie starczyło dla nich dozorców
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 22-22 | Added on Tuesday, 29 September 2020 23:16:05
+- Konstytucja państwa powinna być taka, by nie naruszała konstytucji obywatela.
 
-Litera prawa powinna być włączona do alfabetu
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 22-22 | Added on Tuesday, 29 September 2020 23:16:33
+- Gdy mit zderzy się z mitem, jest to bardzo realne zderzenie.
 
-I bezstronni nie są bezstronni. Są za sprawiedliwością
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 23-23 | Added on Tuesday, 29 September 2020 23:17:10
+- Błoto stwarza czasem pozory głębi
 
-Myśli niektórych ludzi są tak płytkie, że nie sięgają nawet ich głowy
+- Jak pchły skaczą myśli z człowieka na człowieka. Ale nie wszystkich gryzą.
 
-Jesteśmy nadal społeczeństwem stanowym — z przewagą stanu nietrzeźwego
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 42-42 | Added on Wednesday, 5 January 2022 12:09:00
 
-Dno jest dnem, nawet jeśli jest obrócone do góry
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 42-42 | Added on Wednesday, 5 January 2022 12:09:28
+Trzeba tak pomnożyć ilość myśli, by nie starczyło dla nich dozorców.
 
-Nauka jest sprawą wielkich. Maluczkim dostają się nauczki
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 49 | Added on Wednesday, 5 January 2022 12:15:06
 
-Idealiści
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 50-50 | Added on Wednesday, 5 January 2022 12:15:34
+Litera prawa powinna być włączona do alfabetu.
 
-Człowiek, który jest geniuszem, a nie wie o tym — nie jest nim chyba
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 50-50 | Added on Wednesday, 5 January 2022 12:15:55
 
-Przeludnienie świata doprowadziło do tego, że w jednym człowieku żyje wielu ludzi
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 53-53 | Added on Thursday, 6 January 2022 23:08:29
+I bezstronni nie są bezstronni. Są za sprawiedliwością.
 
-Bosy nie stąpa po różach
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 55 | Added on Thursday, 6 January 2022 23:10:38
 
-Najwięcej
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 57-57 | Added on Thursday, 6 January 2022 23:12:06
+Jesteśmy nadal społeczeństwem stanowym — z przewagą stanu nietrzeźwego.
 
-na drogach myśli czatują rozbójnicy. Oczywiście i oni czują się intelektualistami
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 65-65 | Added on Monday, 10 January 2022 13:50:32
 
-Posiadł wiedzę, ale jej nie zapłodnił
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 65-65 | Added on Monday, 10 January 2022 13:51:06
+Dno jest dnem, nawet jeśli jest obrócone do góry.
 
-Gdy nie wieją żadne wiatry — i kurek na kościele ma charakter
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 66-66 | Added on Monday, 10 January 2022 13:51:34
 
-Nie użyźniajcie nieużytków umysłowych
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 67-67 | Added on Monday, 10 January 2022 13:52:24
+Nauka jest sprawą wielkich. Maluczkim dostają się nauczki.
 
-Gdy się mit zmienia w rzeczywistość, czyje to zwycięstwo — materialistów czy idealistów
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 73-73 | Added on Monday, 10 January 2022 13:57:59
 
-Myśl autora zapładnia często krytyków do poronień
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 73-73 | Added on Monday, 10 January 2022 13:58:14
+Człowiek, który jest geniuszem, a nie wie o tym — nie jest nim chyba.
 
-Wykrzyknik, który sflaczał, staje się znakiem zapytania
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 74-74 | Added on Monday, 10 January 2022 13:59:24
 
-Nie pytaj Boga o drogę do nieba, bo wskaże ci najtrudniejszą
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 86-86 | Added on Monday, 10 January 2022 17:14:49
+Przeludnienie świata doprowadziło do tego, że w jednym człowieku żyje wielu ludzi.
 
-Dmuchając na zimne, można ostudzić własne zapały
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 89-89 | Added on Monday, 10 January 2022 17:16:53
+Bosy nie stąpa po różach.
 
-Samowystarczalni umysłowo są jedynie geniusze i głupcy
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 89-89 | Added on Monday, 10 January 2022 17:17:13
+Najwięcej na drogach myśli czatują rozbójnicy. Oczywiście i oni czują się intelektualistami
 
-szeregu zer łatwo stworzyć łańcuchy
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 91-91 | Added on Wednesday, 12 January 2022 13:16:35
+Posiadł wiedzę, ale jej nie zapłodnił.
 
-stracie zębów podobno większa swoboda języka
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 92-92 | Added on Wednesday, 12 January 2022 13:17:11
 
-Nie budujmy przytułków dla nędzy umysłowej
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 93-93 | Added on Wednesday, 12 January 2022 13:17:48
+Gdy nie wieją żadne wiatry — i kurek na kościele ma charakter.
 
-Czy człowiek osiągnie kiedyś taki poziom moralności, że stworzy dla nomadów ruchome więzienia
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 93-93 | Added on Wednesday, 12 January 2022 13:18:42
 
-Myśli są wolne od cła?" Gdy nie przekraczają granic
-==========
-Lec, Stanisław Jerzy - Myśli nieuczesane wszystkie  
-- Your Highlight on page 95-95 | Added on Wednesday, 12 January 2022 13:20:32
+Nie użyźniajcie nieużytków umysłowych.
+
+
+Gdy się mit zmienia w rzeczywistość, czyje to zwycięstwo — materialistów czy idealistów.
+
+
+Myśl autora zapładnia często krytyków do poronień.
+
+
+Wykrzyknik, który sflaczał, staje się znakiem zapytania.
+
+
+Nie pytaj Boga o drogę do nieba, bo wskaże ci najtrudniejszą.
+
+
+Dmuchając na zimne, można ostudzić własne zapały.
+
+
+Samowystarczalni umysłowo są jedynie geniusze i głupcy.
+
+
+Z szeregu zer łatwo stworzyć łańcuchy
+
+
+Po stracie zębów podobno większa swoboda języka.
+
+Nie budujmy przytułków dla nędzy umysłowej.
+
+
+Czy człowiek osiągnie kiedyś taki poziom moralności, że stworzy dla nomadów ruchome więzienia.
+
+
+Myśli są wolne od cła? Gdy nie przekraczają granic.
+
 
 Trzeba się ciągle na nowo uczyć pisać i czytać. Czy czytać i pisać
 ==========

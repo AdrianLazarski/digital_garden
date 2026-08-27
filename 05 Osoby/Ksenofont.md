@@ -45,7 +45,7 @@ modified date : 2026-08-12 13:02
 - Pisma sokratyczne:
 	- Wspomnienia o Sokratesie
 	- Obrona Sokratesa, w odpowiedzi na Oskarżenie Sokratesa, w którym Polikrates reaguje na platońską Obronę Sokratesa. Sam nie był przy procesie i niezbyt rozumiał czemu Sokrates nie bronił się skutecznie.
-- Ekonomik
+- [[Ekonomik]]
 	- Ischomachus opowiada o swojej praktyce zarządzania gospodarstwem i tłumaczy, że głównym zadaniem właściciela ziemskiego jest sprawowanie kontroli nad swoimi pracownikami i zasobami. Wskazuje, że dobry gospodarz powinien być zarówno dobrym administratorem, jak i nauczycielem dla swoich pracowników. Ischomachus podkreśla, że właściciel ziemski powinien dbać o to, aby jego pracownicy wykonywali swoje obowiązki zgodnie z ich umiejętnościami i możliwościami oraz aby mieli odpowiednie warunki do pracy.
 	- To rozumowanie dotyczące roli i obowiązków właściciela ziemskiego w gospodarstwie można zaliczyć do obszaru ekonomii, gdyż dotyczy efektywnego zarządzania zasobami, organizacji pracy oraz relacji między pracodawcą a pracownikami. Choć prezentowane są w kontekście starożytnej Grecji, to te kwestie są nadal aktualne dla współczesnej ekonomii, szczególnie w obszarze zarządzania zasobami ludzkimi i ekonomii pracy.
 	- Ischomachus opowiada Sokratesowi o swoich doświadczeniach w edukowaniu żony oraz dzieci i podkreśla znaczenie odpowiedniego kierowania ich rozwojem. Wskazuje, że w przypadku żony ważne jest, aby miała odpowiednie umiejętności i wiedzę w zakresie prowadzenia domu oraz dbania o finanse rodziny. W przypadku dzieci, Ischomachus podkreśla, że ich wychowanie powinno być oparte na wartościach moralnych i praktycznych umiejętnościach, które przydadzą się im w życiu dorosłym.

@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Książki/Ksenofont, Ekonomik.md",
+                "file": "Książki/Lec Stanisław Jerzy, Myśli nieuczesane.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ksenofont, Ekonomik"
+              "title": "Lec Stanisław Jerzy, Myśli nieuczesane"
             }
           },
           {
@@ -320,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Książki/Ksenofont, Ekonomik.md",
+                "file": "Książki/Lec Stanisław Jerzy, Myśli nieuczesane.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,12 +405,15 @@
   },
   "active": "0c8aeee11601c152",
   "lastOpenFiles": [
+    "04 Źródła/Ksenofont, Ekonomik.md",
+    "05 Osoby/Ksenofont.md",
+    "02 MOC/MOC Filozofia/Ivan Illich.md",
+    "02 MOC/MOC Literatura.md",
     "04 Źródła/Kordos Marek, Wykłady z historii matematyki.md",
     "02 MOC/MOC Historia.md",
     "02 MOC/MOC Historia/MOC Historia nauki.md",
     "02 MOC/MOC Matematyka/MOC Historia matematyki.md",
     "02 MOC/MOC Biologia.md",
-    "02 MOC/MOC Literatura.md",
     "04 Źródła/Hare, Woods, Przetrwają najżyczliwsi.md",
     "Książki/Faber Fryderyk, Postęp duszy.md",
     "04 Źródła/Sołżenicyn Aleksandr, Archipelag Gułag.md",
@@ -419,7 +422,6 @@
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie współcześni.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie austriaccy.md",
-    "02 MOC/MOC Filozofia/Ivan Illich.md",
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
@@ -429,8 +431,6 @@
     "04 Źródła/Illich Ivan, Odszkolnić społeczeństwo.md",
     "02 MOC/MOC Filozofia/MOC Historia filozofii.md",
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
-    "02 MOC/MOC Filozofia/MOC Współczesna literatura filozoficzna (do 2001).md",
-    "05 Osoby/Fiodor Dostojewski.md",
     "Książki/załączniki/Stefanowicz Bogdan, Informacja-6.webp",
     "Książki/załączniki/Stefanowicz Bogdan, Informacja-5.webp",
     "Książki/załączniki/Stefanowicz Bogdan, Informacja-4.webp",

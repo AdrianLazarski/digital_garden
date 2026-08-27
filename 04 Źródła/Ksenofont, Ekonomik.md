@@ -1,4 +1,16 @@
-
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+  - ekonomia
+  - literatura
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-27 17:26
+aliases:
+  - Ekonomik
+---
++- 362 r. przed Chr. [[Ksenofont]]
 # Wstęp biograficzny
 
 Nie trapiły go żadne wątpliwości w tym wzglęǳie, myśli filozofów na ten temat nie pociągały jego uwagi, był pobożny głęboko, a nawet ostentacyjnie, czym zresztą nie różnił się od ogółu swych rodaków
@@ -27,26 +39,18 @@ Gdyby bowiem użył pieniędzy na to, aby, kupiwszy sobie naprzykład nałożnic
 Toć i nieprzyjaciele podług twojej mowy własnością są dla umiejącego ciągnąć zyski
 
 
-Boć owe tak zwane rzemieślnicze, i osławione są, i miastach słusznie bardzo w pogardzie po wszystkich ; gdyŜ mitręŜą ciała robotników i opiekujących się niemi, zmuszając ich do ciągłego siedzenia i Ŝycia w ciemnych izbach, niektóre nawet przepę- dzania dni całych przy ogniu. Gdzie zaś ciała niewieścieją, tam i dusze siłę tracą. Oraz i czasu jak najmniej zostawiają do oddawania się przyjaciołom i miastu te tak zwane rzemieślnicze sztuki, tak iŜ ci ludzie zgoła (rzemieślnicy) wydają się być nie zdatnymi do obcowania z przyjaciółmi i do obrony krajów
+Boć owe tak zwane rzemieślnicze, i osławione są, i miastach słusznie bardzo w pogardzie po wszystkich ; gdyż mitrężą ciała robotników i opiekujących się niemi, zmuszając ich do ciągłego siedzenia i życia w ciemnych izbach, niektóre nawet przepędzania dni całych przy ogniu. Gdzie zaś ciała niewieścieją, tam i dusze siłę tracą. Oraz i czasu jak najmniej zostawiają do oddawania się przyjaciołom i miastu te tak zwane rzemieślnicze sztuki, tak iż ci ludzie zgoła (rzemieślnicy) wydają się być nie zdatnymi do obcowania z przyjaciółmi i do obrony krajów
 
-
-postawiliśmy, iŜ sztuka zarządzania domem jest nazwą pewnej umiejętności, ta zaś umiejętność okazała się nam jako ta, przez którą mogą ludzie pomnaŜać swoje domy, dom znowu przedstawił się jako to samo co w ogóle własność, własnością nazwaliśmy co kaŜdemu do Ŝycia jest poŜyteczne, poŜytecznem nakoniec znaleźliśmy wszystko, czegokolwiek ktoś umie uŜyć
-
-
+postawiliśmy, iż sztuka zarządzania domem jest nazwą pewnej umiejętności, ta zaś umiejętność okazała się nam jako ta, przez którą mogą ludzie pomnażać swoje domy, dom znowu przedstawił się jako to samo co w ogóle własność, własnością nazwaliśmy co każdemu do życia jest pożyteczne, pożytecznem nakoniec znaleźliśmy wszystko, czegokolwiek ktoś umie użyć
 
 Dobrzy bowiem po spłodzeniu dzieci przychylniejszymi zwykle
 
-
-napowrót kładła, skąd wzięła. Szafarką zaś uczyniliśmy tę, która nam się zdawała uŜywaniu być najpowściągliwszą w jedzeniu
-
+napowrót kładła, skąd wzięła. Szafarką zaś uczyniliśmy tę, która nam się zdawała używaniu być najpowściągliwszą w jedzeniu
 
 ćwiczyliśmy ją, skłaniając uznawać tego i przypuszczając do współudziału w dobrem powodzeniu.
 
+wszystko to, jak mi się wydaje, jedno z drugiego wypływa. Skoro bowiem może się człowiek dostatecznie nasycić, słusznie utrzymuję iż trwa przy zdrowiu, przetrawiając pokarm pracą, z tegoż powodu i wiać, aby mi w skutek modłów moich wolno było wojny prędzej ocaleje szczęśliwie, należycie zaś starając się a nie próżnując, więcej oczywiście pomnażać będzie majątek. Dotąd
 
-wszystko to, jak mi się wydaje, jedno z drugiego wypływa. Skoro bowiem moŜe się człowiek dostatecznie nasycić, słusznie utrzymuję iŜ trwa przy zdrowiu, przetrawiając pokarm pracą, z tegoŜ powodu i wiać, aby mi w skutek modłów moich wolno było wojny prędzej ocaleje szczęśliwie, naleŜycie zaś starając się a nie próŜnując, więcej oczywiście pomnaŜać będzie majątek.Dotąd
-
-
-kosztujący z twoich dóbr, Ŝyczliwymi ci się stają, przeto i pragną czynić ci dobrze
+kosztujący z twoich dóbr, życzliwymi ci się stają, przeto i pragną czynić ci dobrze
 
 
-#ekonomia 

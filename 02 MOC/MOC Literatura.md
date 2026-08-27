@@ -9,6 +9,9 @@ modified date: 2026-08-27 16:40
 ---
 
 
+# Starożytna
+
+[[Ksenofont, Ekonomik]]
 
 
 # Amerykańska
