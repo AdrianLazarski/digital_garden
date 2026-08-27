@@ -1,3 +1,14 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - atom
+  - recenzja
+  - komunizm
+  - historia/współczesna
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Prawdopodobny 🧪
+modified date: 2026-08-27 16:36
+---
 
 
 Książka legenda. Poruszająca, przerażająca, oburzająca i imponująca. Wspaniałe zaoranie głupich wyobrażeń zachodniego lewactwa na temat komunizmu. Wstrzymaj się z jakimiś negatywnymi skojarzeniami z jąkającym się panem z muszką – słowo zaoranie pasuje tutaj idealnie, ponieważ ogrom przedstawionego materiału oraz subtelny komentarz do niego nie pozostawiają miejsca na złudzenia. Komunizm był najstraszniejszą rzeczą w historii ludzkości, gorszą nawet od narodowego socjalizmu, o ile w ogóle można tworzyć takie porównania. Mnie wydaje się, że raczej można, skoro nawet narodowy socjalizm nie zmuszał do bania się większości obywateli i ludzi, których wysłał na front, a którzy trafili do obozów jenieckich, nie traktował potem potencjalnych zdrajców. Wyobraźcie sobie ten poziom zepsucia: bestia groźna nie tylko dla odrębnych i niewinnych, ale też dla samej siebie: dla swoich kłów, dla swoich pazurów, dla swoich kończyn. Zdolna ranić samą siebie, byleby zwiększyć stan rozkładu świata. No i to wielu Rosjan miało swoje siły w armii niemieckiej, bo tak nienawidzili ZSRS. Niemcy jacyś pojedynczy w partii byli owszem, ale nie wstępowali masowo do Armii Czerwonej.  
@@ -28,5 +39,3 @@ Zło obozów pracy jest oczywiste, ale podróże wcale nie bywały lepsze, zwła
 Nie sposób jeszcze nie wspomnieć o ekonomicznym absurdzie gułagu i tego, że w skali państwowej przynosił tylko straty. Natychmiast przypomina się Hitler, który mimo przegrywania wojny, marnował środki na gazowanie Żydów. Na archipelagu bogacili się tylko jego zarządcy, dla których stanowiły one prywatne folwarki (choć folwark to może nieadekwatne słowo, skoro każdy z więźniów z rozkoszą zamieniłby swój los na los chłopa pańszczyźnianego). W sprawie marnotrawstwa kapitału ludzkiego przez państwo warto jeszcze dodać, że kanał białomorski wykopano nie z powodu jakiejś realnej potrzeby, a dlatego, że Stalin potrzebował wielkiej budowy w celach propagandowych oraz dla samej idei wyniszczenia więźniów. Rozkazano zbudować go w 20 miesięcy i nie dano w tym celu betonu, a tylko tysiące ludzkich istnień, mających spalić się w morderczych warunkach pracy i głodu.  
   
 Anegdoty i wstrząsające obrazy można mnożyć w nieskończoność, więc w którymś momencie należy przerwać i sądzę, że to właśnie ten moment. Jakiekolwiek podsumowanie będzie banalne, więc po prostu, jeśli starczy wam odwagi, to przeczytajcie tę książkę.
-
-#recenzja #historia #komunizm 

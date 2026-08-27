@@ -23,6 +23,8 @@
 [[Grzybowski ks. Jacek, Uciec z krainy zapomnienia]] dokończyć
 [[Sepczyńska Dorota, Libertarianizm]], 2013 r. opracuj
 [[Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu]] dokończ
+
+[[Dostojewski, Notatki z podziemia]] - dokończ recenzję
 ## Uporządkuj notatki
 
 [[Metodologia i statystyka Tom 1 Przewodnik naukowego turysty]]

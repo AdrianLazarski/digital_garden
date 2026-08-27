@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZZZ To do 2.md",
+                "file": "02 MOC/MOC Literatura.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ZZZ To do 2"
+              "title": "MOC Literatura"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dostojewski, Notatki z podziemia.md",
+                "file": "Książki/Sołżenicyn Aleksandr, Archipelag Gułag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dostojewski, Notatki z podziemia"
+              "title": "Sołżenicyn Aleksandr, Archipelag Gułag"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dostojewski, Notatki z podziemia.md",
+                "file": "02 MOC/MOC Literatura.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,14 +355,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "112e3b70af0ff9b7",
+  "active": "3cfc9f440d53f4a5",
   "lastOpenFiles": [
     "ZZZ To do 2.md",
-    "Dostojewski, Notatki z podziemia.md",
+    "02 MOC/MOC Literatura.md",
+    "Książki/Sołżenicyn Aleksandr, Archipelag Gułag.md",
+    "Książki/Spencer Robert, Niepoprawny politycznie przewodnik po krucjatach i islamie.md",
+    "Książki/Ksenofont, Ekonomik.md",
+    "04 Źródła/Dostojewski, Notatki z podziemia.md",
+    "Aktualnie opracowywane.md",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",
     "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
-    "Aktualnie opracowywane.md",
     "02 MOC/MOC IT/MOC Literatura IT.md",
     "02 MOC/MOC Matematyka/MOC Statystyka.md",
     "02 MOC/MOC IT.md",
@@ -386,10 +390,6 @@
     "01 Input przejściowy/Statystyka/Zmienna skokowa.md",
     "01 Input przejściowy/Statystyka/Zmienna ciągła.md",
     "01 Input przejściowy/Statystyka/Zbiorowość statystyczna.md",
-    "01 Input przejściowy/Statystyka/Względny wskaźnik podobieństwa struktur.md",
-    "01 Input przejściowy/Statystyka/Wykres pudełkowy.md",
-    "01 Input przejściowy/Statystyka/Współczynnik zmienności.md",
-    "01 Input przejściowy/Statystyka/Wariancja.md",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",
