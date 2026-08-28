@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Literatura.md",
+                "file": "03 Atomy/Funkcja.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Literatura"
+              "title": "Funkcja"
+            }
+          },
+          {
+            "id": "224ff10684106530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Para uporządkowana.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Para uporządkowana"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -196,7 +220,7 @@
       {
         "id": "3e6e2c716a11a308",
         "type": "tabs",
-        "dimension": 72.03450754852624,
+        "dimension": 39.714285714285715,
         "children": [
           {
             "id": "0ea9f612283df2d1",
@@ -248,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 MOC/MOC Literatura.md",
+                "file": "03 Atomy/Para uporządkowana.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +305,7 @@
       {
         "id": "d265702fc91191e6",
         "type": "tabs",
-        "dimension": 27.96549245147376,
+        "dimension": 60.285714285714285,
         "children": [
           {
             "id": "003f709030cf3a71",
@@ -331,11 +355,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8cb82df02c0eab8",
+  "active": "224ff10684106530",
   "lastOpenFiles": [
+    "03 Atomy/Zbiór.md",
+    "03 Atomy/Funkcja.md",
+    "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
+    "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
+    "02 MOC/MOC Matematyka.md",
+    "02 MOC/MOC Literatura.md",
     "04 Źródła/Hamsun Knut, Głód.md",
     "04 Źródła/Dostojewski, Notatki z podziemia.md",
-    "02 MOC/MOC Literatura.md",
     "04 Źródła/Camus Albert, Upadek.md",
     "05 Osoby/Albert Camus.md",
     "00 Daily log/19-02-2026.md",
@@ -358,14 +387,9 @@
     "04 Źródła/załączniki/3.webp",
     "04 Źródła/załączniki/4.webp",
     "04 Źródła/załączniki/5.webp",
-    "02 MOC/MOC Religia.md",
     "Książki/załączniki/Filozofia współczesna.webp",
     "Książki/załączniki/Filozofia starożytna.webp",
     "Książki/załączniki/Filozofia nowożytna.webp",
-    "04 Źródła/Spencer Robert, Niepoprawny politycznie przewodnik po krucjatach i islamie.md",
-    "04 Źródła/Lec Stanisław Jerzy, Myśli nieuczesane.md",
-    "01 Input/!!Random/00. Lektury ❗.md",
-    "Aktualnie opracowywane.md",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-6.webp",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-5.webp",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-4.webp",

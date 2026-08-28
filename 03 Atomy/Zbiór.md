@@ -2,10 +2,11 @@
 created: 2024-03-23 14:08
 tags:
   - matematyka/podstawy/teoria_mnogości
-  - matematyka/podstawy/teoria_mnogości
   - definicja
   - atom
-modified date: 2025-11-22 12:29
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-28 17:10
 ---
 ang. *set*
 
@@ -15,7 +16,7 @@ ang. *set*
 > [!note] Definicja w przybliżeniu
 > Kolekcja jednoznacznie określonych, niepowtarzających się elementów.
 
-Kolejność wymieniania elementów w zbiorze jest nieistotna. ${a,b}$ i ${b,a}$ to to samo. Inaczej jest w przypadku [pary uporządkowanej](https://www.evernote.com/shard/s336/nl/180339904/fc45c66b-2959-4668-af2e-820e71613210).
+Kolejność wymieniania elementów w zbiorze jest nieistotna. ${a,b}$ i ${b,a}$ to to samo. Inaczej jest w przypadku [[Para uporządkowana|pary uporządkowanej.]]
 
 $\rightarrow$ [[MOC Rodzaje zbiorów]]
 $\rightarrow$ [[Ograniczenia zbiorów]]

@@ -1,10 +1,12 @@
 ---
-created: 2025-11-21 21:17
 tags:
-  - "#matematyka/analiza"
+  - matematyka/analiza
   - definicja
   - atom
-modified date: 2025-11-21 21:19
+created: 2025-11-21 21:17
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-28 17:09
 ---
 
 > [!note] Definicja

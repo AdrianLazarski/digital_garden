@@ -9,12 +9,12 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-08-02 20:48
 ---
 
-Zestaw dwóch elementów, w którym jeden element jest wyróżniony jako pierwszy.
+> [!note] Definicja
+> Zestaw dwóch elementów, w którym jeden element jest wyróżniony jako pierwszy.
 
   
-Używa się do tego takich nawiasów <>  
-  
- <a,b> =/= <b,a>
+Używa się do tego takich nawiasów <> 
+$$<a,b> \not = <b,a>$
 
 Aksjomat: <x,y> = <z,t> ↔ x=z ˄ y=t
 
