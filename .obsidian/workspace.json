@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Osoby/Franz Kafka.md",
+                "file": "04 Źródła/Camus Albert, Upadek.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Franz Kafka"
+              "title": "Camus Albert, Upadek"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ernst",
+                "query": "upadek",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 MOC/MOC Literatura.md",
+                "file": "04 Źródła/Camus Albert, Upadek.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,11 +355,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8cb82df02c0eab8",
+  "active": "40fde4cd44744f35",
   "lastOpenFiles": [
-    "05 Osoby/Franz Kafka.md",
-    "04 Źródła/Kafka Franz, Zamek.md",
     "02 MOC/MOC Literatura.md",
+    "04 Źródła/Camus Albert, Upadek.md",
+    "05 Osoby/Albert Camus.md",
+    "00 Daily log/19-02-2026.md",
+    "04 Źródła/Frankl Viktor, Człowiek w poszukiwaniu sensu.md",
+    "04 Źródła/Bez nazwy.md",
+    "05 Osoby/Viktor Frankl.md",
+    "04 Źródła/Kafka Franz, Zamek.md",
+    "05 Osoby/Franz Kafka.md",
     "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "04 Źródła/Dumas Alexander, Hrabia Monte Christo.md",
@@ -384,12 +390,6 @@
     "01 Input/!!Random/00. Lektury ❗.md",
     "Aktualnie opracowywane.md",
     "04 Źródła/Ksenofont, Ekonomik.md",
-    "05 Osoby/Ksenofont.md",
-    "04 Źródła/Kordos Marek, Wykłady z historii matematyki.md",
-    "02 MOC/MOC Historia/MOC Historia nauki.md",
-    "02 MOC/MOC Matematyka/MOC Historia matematyki.md",
-    "02 MOC/MOC Biologia.md",
-    "04 Źródła/Hare, Woods, Przetrwają najżyczliwsi.md",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-6.webp",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-5.webp",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-4.webp",

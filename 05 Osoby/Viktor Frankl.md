@@ -11,3 +11,5 @@ modified date: 2026-07-27 20:07
 1905-1997
 
 
+[[Frankl Viktor, Człowiek w poszukiwaniu sensu]], 1946 r.
+

@@ -4,15 +4,14 @@ tags:
   - ref
   - recenzja
   - filozofia/współczesna
-  - beletrystyka
   - filozofia/etyka
   - filozofia/antropologia
+  - literatura
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-02-19 15:03
 Rok oryginału: "1956"
 ---
-[[Albert Camus]]
 
 # Recenzja
 

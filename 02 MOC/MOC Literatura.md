@@ -25,13 +25,14 @@ modified date: 2026-08-27 16:40
 # Francuska
 
 [[Dumas Alexander, Hrabia Monte Christo]], 1844 r.
+[[Camus Albert, Upadek]], 1956 r.
 
 # Niemiecka
 
 [[Mann Tomasz, Czarodziejska góra]], 1924 r.
 [[Kafka Franz, Zamek]], 1926 r.
 [[Jünger Ernst, Promieniowania]], 1944 r.
-[[]]
+[[Frankl Viktor, Człowiek w poszukiwaniu sensu]], 1946 r.
 
 # Polska
 
