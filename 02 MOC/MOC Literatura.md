@@ -44,3 +44,6 @@ modified date: 2026-08-27 16:40
 [[Dostojewski, Notatki z podziemia]] 1884
 [[Sołżenicyn Aleksandr, Archipelag Gułag]] 1964
 
+# Skandynawska
+
+[[Hamsun Knut, Głód]], 1890 r.
