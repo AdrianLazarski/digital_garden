@@ -102,9 +102,57 @@
               "icon": "lucide-file",
               "title": "McCloskey Deirdre, Mit przedsiębiorczego państwa"
             }
+          },
+          {
+            "id": "d8cb82df02c0eab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Literatura.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Literatura"
+            }
+          },
+          {
+            "id": "9a601933feae47ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Osoby/Franz Kafka.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Franz Kafka"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -224,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",
+                "file": "02 MOC/MOC Literatura.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,11 +355,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc286c7478e749f6",
+  "active": "d8cb82df02c0eab8",
   "lastOpenFiles": [
+    "05 Osoby/Franz Kafka.md",
+    "04 Źródła/Kafka Franz, Zamek.md",
+    "02 MOC/MOC Literatura.md",
+    "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "04 Źródła/Dumas Alexander, Hrabia Monte Christo.md",
-    "02 MOC/MOC Literatura.md",
     "04 Źródła/Żeromski Stefan, Ludzie bezdomni.md",
     "04 Źródła/Wilde Oscar, Portret Doriana Graya.md",
     "04 Źródła/Mann Tomasz, Czarodziejska góra.md",
@@ -339,9 +390,6 @@
     "02 MOC/MOC Matematyka/MOC Historia matematyki.md",
     "02 MOC/MOC Biologia.md",
     "04 Źródła/Hare, Woods, Przetrwają najżyczliwsi.md",
-    "Książki/Faber Fryderyk, Postęp duszy.md",
-    "04 Źródła/Sołżenicyn Aleksandr, Archipelag Gułag.md",
-    "02 MOC/MOC Matematyka/MOC Statystyka.md",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-6.webp",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-5.webp",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-4.webp",

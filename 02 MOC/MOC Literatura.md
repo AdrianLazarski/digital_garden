@@ -29,7 +29,9 @@ modified date: 2026-08-27 16:40
 # Niemiecka
 
 [[Mann Tomasz, Czarodziejska góra]], 1924 r.
+[[Kafka Franz, Zamek]], 1926 r.
 [[Jünger Ernst, Promieniowania]], 1944 r.
+[[]]
 
 # Polska
 
