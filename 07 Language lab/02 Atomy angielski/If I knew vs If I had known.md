@@ -10,7 +10,7 @@ modified date: 2026-08-25 11:07
 
 
 **If** + past (**If** I **knew** / **if** you **were** / **if** we **didn't** etc.) dotyczy teraźniejszości, mimo konstrukcji [[Past Simple]].
-	- np. There are many things I'd like to do **if** I **had** more tome.
+	- np. There are many things I'd like to do **if** I **had** more time.
 	- **If** you **were** in my position, what would you do?
 	- I **wish** i **had** umbrella.
 

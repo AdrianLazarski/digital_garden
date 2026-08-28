@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+                "file": "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,8 +307,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bdad539dfaed405",
+  "active": "cc286c7478e749f6",
   "lastOpenFiles": [
+    "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "04 Źródła/Dumas Alexander, Hrabia Monte Christo.md",
     "02 MOC/MOC Literatura.md",
     "04 Źródła/Żeromski Stefan, Ludzie bezdomni.md",
@@ -341,7 +342,6 @@
     "Książki/Faber Fryderyk, Postęp duszy.md",
     "04 Źródła/Sołżenicyn Aleksandr, Archipelag Gułag.md",
     "02 MOC/MOC Matematyka/MOC Statystyka.md",
-    "04 Źródła/Metodologia i statystyka Tom 1 Przewodnik naukowego turysty.md",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-6.webp",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-5.webp",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-4.webp",
