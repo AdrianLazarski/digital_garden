@@ -126,57 +126,9 @@
               "icon": "lucide-file",
               "title": "MOC Literatura"
             }
-          },
-          {
-            "id": "84c53d2d2e1e59e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Dostojewski, Notatki z podziemia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dostojewski, Notatki z podziemia"
-            }
-          },
-          {
-            "id": "9a601933feae47ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Hamsun Knut, Głód.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hamsun Knut, Głód"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -296,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Źródła/Dostojewski, Notatki z podziemia.md",
+                "file": "02 MOC/MOC Literatura.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,10 +331,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84c53d2d2e1e59e4",
+  "active": "d8cb82df02c0eab8",
   "lastOpenFiles": [
-    "02 MOC/MOC Literatura.md",
     "04 Źródła/Hamsun Knut, Głód.md",
+    "04 Źródła/Dostojewski, Notatki z podziemia.md",
+    "02 MOC/MOC Literatura.md",
     "04 Źródła/Camus Albert, Upadek.md",
     "05 Osoby/Albert Camus.md",
     "00 Daily log/19-02-2026.md",
@@ -413,7 +366,6 @@
     "04 Źródła/Lec Stanisław Jerzy, Myśli nieuczesane.md",
     "01 Input/!!Random/00. Lektury ❗.md",
     "Aktualnie opracowywane.md",
-    "04 Źródła/Ksenofont, Ekonomik.md",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-6.webp",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-5.webp",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-4.webp",
