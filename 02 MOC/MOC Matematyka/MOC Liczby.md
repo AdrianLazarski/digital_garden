@@ -9,7 +9,7 @@ status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-13 17:16
 ---
 
-Nie ma czegoś takiego. Są liczby z jakimś określeniem. Po prostu liczba nie ma definicji.
+Nie ma czegoś takiego, jak "liczba". Są liczby z jakimś określeniem. 
 
 
 [[Liczby zespolone]] $\mathbb{C}$

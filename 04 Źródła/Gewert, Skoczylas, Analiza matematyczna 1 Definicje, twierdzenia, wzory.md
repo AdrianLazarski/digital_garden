@@ -6,9 +6,14 @@ tags:
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-27 18:15
+Rok oryginału: "2001"
+Miejsce wydania: Wrocław
 ---
 
-## 0 zbiory i funkcje liczbowe
+# 0 zbiory i funkcje liczbowe
+
+
+## Zadania
 
 0.1.1 Uzasadnić, że podane liczby są niewymierne
 
@@ -48,5 +53,5 @@ $$
 \end{flalign}
 $$
 
-
+c) $c
 
