@@ -60,10 +60,11 @@ $$
 \text{1.} \quad & \mathbb{Q} = \frac{p}{q} : p, q \in \mathbb{Z}, q \neq 0 && \text{Z.d.} \\  
 \text{2.} \quad & \cos \frac \pi 8 = \frac p q && \text{Z.d.n.} \\
 \text{3.} \quad & x \in \mathbb{Q} \implies x^2 \in \mathbb{Q} \\
-\text{4.} \quad & (2^{\frac p q})^q = 3^q && \text{3} \\
-\text{5.} \quad & 2^p =3^q && \text{4} \\
-\text{6.} \quad & 2^p \text{ jest parzysta a }3^q \text{ nieparzysta} \\
-\quad & \text{co jest niemożliwe dla liczb } \mathbb{Z} && \text{5} \\
+\text{4.} \quad & \cos(2\alpha) = 2\cos^2\alpha - 1 \\
+\text{5.} \quad & \cos\left(2 \cdot \frac{\pi}{8}\right) = 2\cos^2\left(\frac{\pi}{8}\right) - 1 && \text{4} \\
+\text{6.} \quad & \cos\frac{\pi}{4} = \frac{\sqrt{2}}{2} && \text{wł.} \\
+\text{7.} \quad & \frac{\sqrt{2}}{2} = 2\cos^2\left(\frac{\pi}{8}\right) - 1 && \text{5, 6} \\
+\text{8.} \quad & 2\cos^2\left(\frac{\pi}{8}\right) = 1 + \frac{\sqrt{2}}{2} = \frac{2 + \sqrt{2}}{2} && \text{7} \\
 \quad &\text{Sprzeczność 1, 6}
 \end{flalign}
 $$
