@@ -13,14 +13,16 @@ modified date: 2026-08-02 20:48
 > Zestaw dwóch elementów, w którym jeden element jest wyróżniony jako pierwszy.
 
   
-Używa się do tego takich nawiasów <> 
-$$<a,b> \not = <b,a>$
+Używa się do tego takich nawiasów:
+$$<a,b> \space \not = \space<b,a>$$
 
-Aksjomat: <x,y> = <z,t> ↔ x=z ˄ y=t
+Aksjomat: 
+$$<x,y> \space = \space <z,t> \iff  x \space = \space z \space \land \space y=t$$
 
   
 Pojęcie związane z [[Iloczyn kartezjański|iloczynem kartezjańskim]].
 
-N-tka uporządkowana: <<x1, … xn-1>, Xn>
+$N$-tka uporządkowana: 
+$$<<x_1, … x_{n-1}>, x_n>$$
 
 

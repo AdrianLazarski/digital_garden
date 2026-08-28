@@ -5,7 +5,8 @@
   "showRibbon": true,
   "enabledCssSnippets": [
     "colorful folders",
-    "kolorowe headingi"
+    "kolorowe headingi",
+    "big-math"
   ],
   "baseFontSize": 17,
   "textFontFamily": "Segoe UI",

@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Para uporządkowana.md",
+                "file": "robocza 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Para uporządkowana"
+              "title": "robocza 3"
             }
           }
         ],
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Atomy/Para uporządkowana.md",
+                "file": "robocza 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,6 +357,8 @@
   },
   "active": "224ff10684106530",
   "lastOpenFiles": [
+    "robocza.md",
+    "03 Atomy/Para uporządkowana.md",
     "03 Atomy/Zbiór.md",
     "03 Atomy/Funkcja.md",
     "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
@@ -381,8 +383,6 @@
     "04 Źródła/Jünger Ernst, Promieniowania.md",
     "05 Osoby/Ernst Jünger.md",
     "02 MOC/MOC Filozofia/Ivan Illich.md",
-    "05 Osoby/Alexandre Dumas.md",
-    "02 MOC/MOC Historia.md",
     "04 Źródła/załączniki/Pasted image 20240604172043.png",
     "04 Źródła/załączniki/3.webp",
     "04 Źródła/załączniki/4.webp",
