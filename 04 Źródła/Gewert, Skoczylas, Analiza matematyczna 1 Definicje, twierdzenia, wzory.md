@@ -54,18 +54,22 @@ $$
 $$
 
 c) $\cos \frac \pi 8$
-
 $$
 \begin{flalign} 
 \text{1.} \quad & \mathbb{Q} = \frac{p}{q} : p, q \in \mathbb{Z}, q \neq 0 && \text{Z.d.} \\  
-\text{2.} \quad & \cos \frac \pi 8 = \frac p q && \text{Z.d.n.} \\
+\text{2.} \quad & \cos \frac \pi 8 \in \mathbb{Q} && \text{Z.d.n.} \\
 \text{3.} \quad & x \in \mathbb{Q} \implies x^2 \in \mathbb{Q} \\
 \text{4.} \quad & \cos(2\alpha) = 2\cos^2\alpha - 1 \\
 \text{5.} \quad & \cos\left(2 \cdot \frac{\pi}{8}\right) = 2\cos^2\left(\frac{\pi}{8}\right) - 1 && \text{4} \\
 \text{6.} \quad & \cos\frac{\pi}{4} = \frac{\sqrt{2}}{2} && \text{wł.} \\
 \text{7.} \quad & \frac{\sqrt{2}}{2} = 2\cos^2\left(\frac{\pi}{8}\right) - 1 && \text{5, 6} \\
 \text{8.} \quad & 2\cos^2\left(\frac{\pi}{8}\right) = 1 + \frac{\sqrt{2}}{2} = \frac{2 + \sqrt{2}}{2} && \text{7} \\
-\quad &\text{Sprzeczność 1, 6}
+\text{9.} \quad & \cos^2\left(\frac{\pi}{8}\right) \in \mathbb{Q} && \text{2} \\
+\text{10.} \quad & \frac{2 + \sqrt{2}}{4} \in \mathbb{Q} && \text{7, 9} \\
+\text{11.} \quad & 4 \cdot \left(\frac{2 + \sqrt{2}}{4}\right) - 2 \in \mathbb{Q} && \text{kom.} \\
+\text{12.} \quad & (2 + \sqrt{2}) - 2 \in \mathbb{Q} && \text{11} \\
+\text{13.} \quad & \sqrt{2} \in \mathbb{Q} && \text{12} \\
+\quad &\text{Sprzeczność 1, 13}
 \end{flalign}
 $$
 
