@@ -39,7 +39,7 @@ $$
 \begin{flalign} 
 \text{1.} \quad & \mathbb{Q} = \frac{p}{q} : p, q \in \mathbb{Z}, q \neq 0 && \text{Z.d.} \\  
 \text{2.} \quad & \log_{2}3 = \frac p q && \text{Z.d.n.} \\
-\text{3.} \quad & 2^{\frac p q} = 3 && \text{2} \\
+\text{3.} \quad & 2^{\frac p q} = 3 && \text{2, def. log} \\
 \text{4.} \quad & (2^{\frac p q})^q = 3^q && \text{3} \\
 \text{5.} \quad & 2^p =3^q && \text{4} \\
 \text{6.} \quad & 2^p \text{ jest parzysta a }3^q \text{ nieparzysta} \\

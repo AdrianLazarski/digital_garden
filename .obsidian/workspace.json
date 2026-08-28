@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robocza 3.md",
+                "file": "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "robocza 3"
+              "title": "Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory"
             }
           }
         ],
@@ -186,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "upadek",
+                "query": "analiza",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robocza 3.md",
+                "file": "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,13 +357,15 @@
   },
   "active": "224ff10684106530",
   "lastOpenFiles": [
+    "02 MOC/MOC Matematyka/MOC Matematyczne podręczniki.md",
+    "02 MOC/MOC Matematyka.md",
+    "robocza 3.md",
     "robocza.md",
     "03 Atomy/Para uporządkowana.md",
     "03 Atomy/Zbiór.md",
     "03 Atomy/Funkcja.md",
     "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
-    "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Literatura.md",
     "04 Źródła/Hamsun Knut, Głód.md",
     "04 Źródła/Dostojewski, Notatki z podziemia.md",
@@ -381,8 +383,6 @@
     "04 Źródła/Wilde Oscar, Portret Doriana Graya.md",
     "04 Źródła/Mann Tomasz, Czarodziejska góra.md",
     "04 Źródła/Jünger Ernst, Promieniowania.md",
-    "05 Osoby/Ernst Jünger.md",
-    "02 MOC/MOC Filozofia/Ivan Illich.md",
     "04 Źródła/załączniki/Pasted image 20240604172043.png",
     "04 Źródła/załączniki/3.webp",
     "04 Źródła/załączniki/4.webp",
