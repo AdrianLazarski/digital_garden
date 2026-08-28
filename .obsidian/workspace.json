@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Camus Albert, Upadek.md",
+                "file": "04 Źródła/Hamsun Knut, Głód.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Camus Albert, Upadek"
+              "title": "Hamsun Knut, Głód"
             }
           }
         ],
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Źródła/Camus Albert, Upadek.md",
+                "file": "04 Źródła/Hamsun Knut, Głód.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,14 +355,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40fde4cd44744f35",
+  "active": "9a601933feae47ea",
   "lastOpenFiles": [
-    "02 MOC/MOC Literatura.md",
     "04 Źródła/Camus Albert, Upadek.md",
+    "04 Źródła/Hamsun Knut, Głód.md",
+    "02 MOC/MOC Literatura.md",
     "05 Osoby/Albert Camus.md",
     "00 Daily log/19-02-2026.md",
     "04 Źródła/Frankl Viktor, Człowiek w poszukiwaniu sensu.md",
-    "04 Źródła/Bez nazwy.md",
     "05 Osoby/Viktor Frankl.md",
     "04 Źródła/Kafka Franz, Zamek.md",
     "05 Osoby/Franz Kafka.md",
