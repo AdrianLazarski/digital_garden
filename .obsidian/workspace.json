@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,12 +354,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40fde4cd44744f35",
+  "active": "d8cb82df02c0eab8",
   "lastOpenFiles": [
+    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
     "04 Źródła/Caroll Warren, Historia chrześcijaństwa 1.md",
     "03 Atomy/Funkcja.md",
-    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "02 MOC/MOC Matematyka/MOC Liczby.md",
     "02 MOC/MOC Matematyka/MOC Teoria liczb.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
