@@ -4,7 +4,9 @@ tags:
   - atom
   - definicja
   - matematyka/podstawy/teoria_mnogości
-modified date: 2026-01-17 16:12
+dojrzalosc: Krzak 🌿
+status_epistemiczny: Uzasadniony ✅
+modified date: 2026-08-29 17:57
 ---
 
 > [!note] Definicja 1
@@ -15,7 +17,7 @@ modified date: 2026-01-17 16:12
 
 - Kres dolny zbioru musi być jego dolnym ograniczeniem.
 - Kres dolny zbioru nie musi do niego należeć.
-- $\inf X = - \infty$  zbiór nieograniczony od dołu
+- Jeśli $\inf X = - \infty$, to zbiór jest nieograniczony od dołu.
 
 $\leftarrow$ [[Kresy zbiorów]]
 $\rightarrow$ [[Kres górny zbioru]]

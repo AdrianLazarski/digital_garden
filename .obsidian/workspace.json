@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Kres dolny zbioru.md",
+                "file": "03 Atomy/Kres górny zbioru.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kres dolny zbioru"
+              "title": "Kres górny zbioru"
             }
           }
         ],
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Kres dolny zbioru.md",
+                "file": "03 Atomy/Kres górny zbioru.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -356,8 +356,8 @@
   },
   "active": "dcb1f301f71d0a7a",
   "lastOpenFiles": [
-    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "03 Atomy/Kres dolny zbioru.md",
+    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "03 Atomy/Kresy zbiorów.md",
     "04 Źródła/załączniki/Aksjomat ciągłości.webp",
     "04 Źródła/załączniki/Kres górny zbioru.webp",
