@@ -132,3 +132,15 @@ str. 28
 
 [[Funkcje elementarne]]![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-6.webp|794x414]]
 [[Wartość bezwzględna]]![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-7.webp|798x277]]
+[[Wielomian]]![[Wielomian.webp|Wielomian|789x258]]
+[[Funkcja wymierna]]![[Funkcja wymierna.webp|Funkcja wymierna|789x258]]
+[[Funkcje hiperboliczne]]![[Funkcje hiperboliczne.webp|795x1116]]![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-8.webp|804x607]]
+## 0.12 Niektóre funkcje nieelementarne
+str. 31
+[[Funkcja część całkowita]]![[Funkcja część całkowita.webp|Funkcja część całkowita|784x456]]
+
+[[Funkcja signum]]
+![[Funkcja signum.webp|Funkcja signum|773x276]]
+[[Funkcja Dirichleta]]![[Funkcja Dirichleta.webp|Funkcja Dirichleta|765x244]]
+
+[[Funkcja Riemanna]]![[Funkcja Riemanna.webp|Funkcja Riemanna|744x465]]
