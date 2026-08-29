@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
+                "file": "03 Atomy/Funkcja.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Praca dzieci"
+              "title": "Funkcja"
             }
           },
           {
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
+                "file": "03 Atomy/Funkcja.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -356,9 +356,9 @@
   },
   "active": "d8cb82df02c0eab8",
   "lastOpenFiles": [
-    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
-    "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
     "04 Źródła/Caroll Warren, Historia chrześcijaństwa 1.md",
+    "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
+    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "03 Atomy/Funkcja.md",
     "02 MOC/MOC Matematyka/MOC Liczby.md",
     "02 MOC/MOC Matematyka/MOC Teoria liczb.md",
