@@ -104,30 +104,6 @@
             }
           },
           {
-            "id": "d8cb82df02c0eab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robocza 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "robocza 3"
-            }
-          },
-          {
             "id": "224ff10684106530",
             "type": "leaf",
             "state": {
@@ -150,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory"
             }
+          },
+          {
+            "id": "e1b869347447165c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Zbiór ograniczony od dołu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zbiór ograniczony od dołu"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -356,11 +356,12 @@
   },
   "active": "224ff10684106530",
   "lastOpenFiles": [
+    "03 Atomy/Zbiór ograniczony od dołu.md",
+    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "04 Źródła/załączniki/Zbiór ograniczony z góry.webp",
     "04 Źródła/załączniki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.webp",
     "robocza 3.md",
     "03 Atomy/Funkcja.md",
-    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "04 Źródła/załączniki/Zbiór ograniczony z dołu.webp",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "07 Language lab/English grammar.md",
@@ -391,7 +392,6 @@
     "Książki/załączniki/Filozofia współczesna.webp",
     "Książki/załączniki/Filozofia starożytna.webp",
     "Książki/załączniki/Filozofia nowożytna.webp",
-    "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-6.webp",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",

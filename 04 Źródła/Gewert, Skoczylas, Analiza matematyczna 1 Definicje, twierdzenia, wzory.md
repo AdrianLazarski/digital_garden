@@ -14,7 +14,7 @@ Miejsce wydania: Wrocław
 
 ## 0.1 Zbiór liczb rzeczywistych
 
-## Zadania
+### 0.1.x Zadania
 
 0.1.1 Uzasadnić, że podane liczby są niewymierne
 
@@ -74,7 +74,9 @@ $$
 Komentarz do 11: Liczba wymierna pomnożona przez 4 (wymierne) powinna dać liczbę wymierną. Podobnie liczba wymierna, od której odjęto 2 (wymierne). Tutaj zrobiono dwie operacje w jednym kroku. 
 
 ## 0.2 Zbiory ograniczone
-![[Zbiór ograniczony z dołu.webp|Zbiór ograniczony z dołu]]
+![[Zbiór ograniczony z dołu.webp|Zbiór ograniczony z dołu]][[Zbiór ograniczony od dołu]]
 ![[Zbiór ograniczony z góry.webp|Zbiór ograniczony z góry|840x360]]
+[[Zbiór ograniczony od góry]]
+
 
 
