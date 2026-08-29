@@ -154,7 +154,12 @@ str. 36
 
 [[Ciąg ograniczony od góry]]![[Ciąg ograniczony z góry.webp|Ciąg ograniczony z góry|780x214]]
 
-[[Ciąg ograniczony]]![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-10.webp|785x608]]
+[[Ciąg ograniczony]]![[Ciąg ograniczony.webp|Ciąg ograniczony|785x608]]
+
+[[Ciąg rosnący]]![[Ciąg rosnący.webp|Ciąg rosnący|787x234]]
+
+[[Ciąg niemalejący]]![[Ciąg niemalejący.webp|Ciąg niemalejący|817x867]]
+
 
 # 2. Granice funkcji
 
