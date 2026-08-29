@@ -79,4 +79,5 @@ Komentarz do 11: Liczba wymierna pomnożona przez 4 (wymierne) powinna dać licz
 [[Zbiór ograniczony od góry]]
 
 
-
+## 0.3 Kresy zbiorów
+![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-1.webp|814x398]]

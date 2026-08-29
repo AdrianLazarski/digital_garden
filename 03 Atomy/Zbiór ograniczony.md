@@ -4,7 +4,9 @@ tags:
   - atom
   - definicja
   - matematyka/podstawy/teoria_mnogości
-modified date: 2026-01-17 15:36
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-08-29 17:33
 ---
 > [!note] Definicja 1
 > Zbiór $X \subset \mathbb{R}$  jest ograniczony, gdy jest ograniczony od góry i od dołu.
@@ -17,3 +19,4 @@ $\leftarrow$ [[Ograniczenia zbiorów]]
 $\leftarrow$ [[Zbiór ograniczony od dołu]]
 $\leftarrow$ [[Zbiór ograniczony od góry]]
 $\rightarrow$ [[Zbiór ograniczony]]
+
