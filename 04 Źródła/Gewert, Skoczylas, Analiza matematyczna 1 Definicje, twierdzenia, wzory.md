@@ -111,5 +111,24 @@ str. 20
 [[Funkcja malejąca]]![[04 Źródła/załączniki/Funkcja malejąca.webp|Funkcja malejąca|781x222]]
 [[Funkcja niemalejąca]]![[04 Źródła/załączniki/Funkcja niemalejąca.webp|797x504]]
 [[Funkcja nierosnąca]]![[04 Źródła/załączniki/Funkcja nierosnąca.webp|Funkcja nierosnąca|801x241]]
-[[Funkcja monotoniczna]]
-![[Funkcja monotoniczna.webp|788x135]]
+[[Funkcja monotoniczna]]![[Funkcja monotoniczna.webp|Ustalanie monotoniczności funkcji|763x322]]![[Ustalanie monotoniczności funkcji.webp|Ustalanie monotoniczności funkcji|763x322]]
+## 0.8 Złożenia funkcji
+str. 24
+[[Złożenie funkcji]]![[Funkcja złożona.webp|Funkcja złożona|786x413]]
+![[Składanie funkcji monotonicznych.webp|Składanie funkcji monotonicznych|781x162]]
+## 0.9 Funkcje odwrotne
+
+[[Funkcja różnowartościowa]]![[04 Źródła/załączniki/Funkcja różnowartościowa.webp|Funkcja różnowartościowa|790x75]]
+![[Warunek wystarczający różnowartościowości.webp|Warunek wystarczający różnowartościowości|790x75]]
+![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-3.webp|380x159]]
+[[Funkcja odwrotna]]![[04 Źródła/załączniki/Funkcja odwrotna.webp|Funkcja odwrotna|811x597]]
+![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-4.webp|684x155]]
+## 0.10 Funkcje cyklometryczne
+str. 27
+
+![[Funkcje cyklometryczne.webp|Funkcje cyklometryczne|827x681]]![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-5.webp|762x414]]
+## 0.11 Funkcje elementarne
+str. 28
+
+[[Funkcje elementarne]]![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-6.webp|794x414]]
+[[Wartość bezwzględna]]![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-7.webp|798x277]]

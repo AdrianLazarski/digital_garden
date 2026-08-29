@@ -15,7 +15,7 @@ modified date: 2026-01-18 17:20
 > [!note] Definicja geometryczna
 > Funkcja jest różnowartościowa na zbiorze $A$, gdy każda prosta pozioma przecina fragment wykresu leżący nad/pod zbiorem $A$ co najwyżej w jednym punkcie.
 
-![[Funkcja różnowartościowa.webp]]
+![[03 Atomy/załączniki/Funkcja różnowartościowa.webp]]
 
 $\leftarrow$ [[Funkcja]]
 $\leftarrow$ [[MOC Własności funkcji]]

@@ -16,7 +16,7 @@ modified date: 2026-01-18 17:41
 
 Wykres funkcji odwrotnej otrzymujemy z wykresu funkcji prostej, odbijając go symetrycznie względem prostej $y=x$ oraz zmieniając między sobą jednocześnie nazwy osi $x \leftrightarrow y$.
 
-![[Funkcja odwrotna.webp]]
+![[03 Atomy/załączniki/Funkcja odwrotna.webp]]
 
 Funkcja odwrotna spełnia warunek:
 $$(f^{-1} \circ f)(x)=(f \circ f^{-1})(x)=x$$
