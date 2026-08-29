@@ -144,3 +144,50 @@ str. 31
 [[Funkcja Dirichleta]]![[Funkcja Dirichleta.webp|Funkcja Dirichleta|765x244]]
 
 [[Funkcja Riemanna]]![[Funkcja Riemanna.webp|Funkcja Riemanna|744x465]]
+# 1 Ciągi liczbowe
+str. 36
+## 1.1 Podstawowe określenia
+
+[[Ciąg]]![[Ciąg liczbowy.webp|Ciąg liczbowy|752x416]]
+![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-9.webp|757x698]]
+[[Ciąg ograniczony od dołu]]![[Ciąg ograniczony z dołu.webp|Ciąg ograniczony z dołu|772x436]]
+
+[[Ciąg ograniczony od góry]]![[Ciąg ograniczony z góry.webp|Ciąg ograniczony z góry|780x214]]
+
+[[Ciąg ograniczony]]![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-10.webp|785x608]]
+
+# 2. Granice funkcji
+
+## 2.1 
+
+# 3. Funkcje ciągłe
+
+## 3.1 
+
+# 4. Pochodne funkcji
+
+## 4.1 
+
+# 5. Twierdzenia o funkcjach z pochodnymi
+
+## 5.1 
+
+# 6. Badanie funkcji
+
+## 6.1 
+
+# 7. Całki nieoznaczone
+
+## 7.1
+
+# 8. Całki oznaczone
+
+## 8.1
+
+# 9. Zastosowanie całek oznaczonych
+
+## 9.1 
+
+
+
+
