@@ -78,6 +78,11 @@ Komentarz do 11: Liczba wymierna pomnożona przez 4 (wymierne) powinna dać licz
 ![[Zbiór ograniczony z góry.webp|Zbiór ograniczony z góry|840x360]]
 [[Zbiór ograniczony od góry]]
 
+![[Zbiór ograniczony.webp|Zbiór ograniczony|854x420]][[Zbiór ograniczony]]
 
 ## 0.3 Kresy zbiorów
-![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-1.webp|814x398]]
+[[Kresy zbiorów]]
+![[Element najmniejszy zbioru.webp|Element najmniejszy zbioru|814x398]]![[Element największy zbioru.webp|Element największy zbioru|816x299]]
+[[Kres dolny zbioru]]![[Kres dolny zbioru.webp|Kres dolny zbioru|834x412]]
+[[Kres górny zbioru]]![[Kres górny zbioru.webp|Kres górny zbioru|805x368]]
+![[Aksjomat ciągłości.webp|Aksjomat ciągłości|570x96]]

@@ -128,12 +128,12 @@
             }
           },
           {
-            "id": "b5c82b2b5cc43149",
+            "id": "dcb1f301f71d0a7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Zbiór ograniczony.md",
+                "file": "03 Atomy/Kres dolny zbioru.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,35 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zbiór ograniczony"
-            }
-          },
-          {
-            "id": "e1b869347447165c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Zbiór ograniczony od dołu.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Zbiór ograniczony od dołu"
+              "title": "Kres dolny zbioru"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -252,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Zbiór ograniczony od dołu.md",
+                "file": "03 Atomy/Kres dolny zbioru.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,14 +354,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1b869347447165c",
+  "active": "dcb1f301f71d0a7a",
   "lastOpenFiles": [
+    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
+    "03 Atomy/Kres dolny zbioru.md",
+    "03 Atomy/Kresy zbiorów.md",
+    "04 Źródła/załączniki/Aksjomat ciągłości.webp",
+    "04 Źródła/załączniki/Kres górny zbioru.webp",
+    "04 Źródła/załączniki/Kres dolny zbioru.webp",
+    "04 Źródła/załączniki/Element największy zbioru.webp",
+    "04 Źródła/załączniki/Zbiór ograniczony.webp",
+    "03 Atomy/Zbiór ograniczony od dołu.md",
     "03 Atomy/Zbiór ograniczony.md",
     "03 Atomy/Ograniczenia zbiorów.md",
     "03 Atomy/Zbiór ograniczony od góry.md",
-    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
-    "03 Atomy/Zbiór ograniczony od dołu.md",
-    "04 Źródła/załączniki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-1.webp",
+    "04 Źródła/załączniki/Element najmniejszy zbioru.webp",
     "04 Źródła/załączniki/Zbiór ograniczony z góry.webp",
     "04 Źródła/załączniki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.webp",
     "robocza 3.md",
@@ -408,14 +391,7 @@
     "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
     "02 MOC/MOC Literatura.md",
     "04 Źródła/Hamsun Knut, Głód.md",
-    "04 Źródła/Dostojewski, Notatki z podziemia.md",
-    "04 Źródła/Camus Albert, Upadek.md",
     "04 Źródła/załączniki/Pasted image 20240604172043.png",
-    "04 Źródła/załączniki/3.webp",
-    "04 Źródła/załączniki/4.webp",
-    "04 Źródła/załączniki/5.webp",
-    "Książki/załączniki/Filozofia współczesna.webp",
-    "Książki/załączniki/Filozofia starożytna.webp",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",
