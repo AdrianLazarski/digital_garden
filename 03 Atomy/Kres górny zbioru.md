@@ -17,7 +17,7 @@ modified date: 2026-08-29 17:58
 
 - Kres górny zbioru musi być jego górnym ograniczeniem.
 - Kres górny zbioru nie musi do niego należeć.
-- $\sup X = \infty$ – zbiór nieograniczony od góry
+- Jeżeli $\sup X = \infty$, to  zbiór jest nieograniczony od góry.
 
 $\leftarrow$ [[Kresy zbiorów]]
 $\rightarrow$ [[Kres dolny zbioru]]

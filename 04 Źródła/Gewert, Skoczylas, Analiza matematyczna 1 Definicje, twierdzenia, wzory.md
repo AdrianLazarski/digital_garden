@@ -85,4 +85,7 @@ Komentarz do 11: Liczba wymierna pomnożona przez 4 (wymierne) powinna dać licz
 ![[Element najmniejszy zbioru.webp|Element najmniejszy zbioru|814x398]]![[Element największy zbioru.webp|Element największy zbioru|816x299]]
 [[Kres dolny zbioru]]![[Kres dolny zbioru.webp|Kres dolny zbioru|834x412]]
 [[Kres górny zbioru]]![[Kres górny zbioru.webp|Kres górny zbioru|805x368]]
-![[Aksjomat ciągłości.webp|Aksjomat ciągłości|570x96]]
+[[Aksjomat ciągłości]]![[Aksjomat ciągłości.webp|Aksjomat ciągłości|570x96]]
+## 0.4 Funkcje podstawowe określenia
+
+[[Funkcja]]![[Definicja funkcji.webp|Definicja funkcji|829x594]]

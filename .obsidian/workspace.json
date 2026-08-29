@@ -128,27 +128,13 @@
             }
           },
           {
-            "id": "dcb1f301f71d0a7a",
+            "id": "cd55c7f50bb5a604",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Kres górny zbioru.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kres górny zbioru"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
             }
           }
         ],
@@ -228,7 +214,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Kres górny zbioru.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,10 +339,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcb1f301f71d0a7a",
+  "active": "cd55c7f50bb5a604",
   "lastOpenFiles": [
-    "03 Atomy/Kres dolny zbioru.md",
+    "03 Atomy/Funkcja.md",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
+    "04 Źródła/załączniki/Definicja funkcji.webp",
+    "03 Atomy/Kres górny zbioru.md",
+    "03 Atomy/Kres dolny zbioru.md",
     "03 Atomy/Kresy zbiorów.md",
     "04 Źródła/załączniki/Aksjomat ciągłości.webp",
     "04 Źródła/załączniki/Kres górny zbioru.webp",
@@ -372,7 +360,6 @@
     "04 Źródła/załączniki/Zbiór ograniczony z góry.webp",
     "04 Źródła/załączniki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.webp",
     "robocza 3.md",
-    "03 Atomy/Funkcja.md",
     "04 Źródła/załączniki/Zbiór ograniczony z dołu.webp",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "07 Language lab/English grammar.md",
@@ -389,9 +376,6 @@
     "03 Atomy/Para uporządkowana.md",
     "03 Atomy/Zbiór.md",
     "02 MOC/MOC Matematyka/MOC Analiza matematyczna.md",
-    "02 MOC/MOC Literatura.md",
-    "04 Źródła/Hamsun Knut, Głód.md",
-    "04 Źródła/załączniki/Pasted image 20240604172043.png",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",
