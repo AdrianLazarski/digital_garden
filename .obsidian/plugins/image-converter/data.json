@@ -212,7 +212,7 @@
         "resizeUnits": "pixels"
       }
     ],
-    "selectedResizePreset": "Default (No Resize)"
+    "selectedResizePreset": "Original Width"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
@@ -227,6 +227,7 @@
   "ProcessCurrentNoteskipImagesInTargetFormat": false,
   "ProcessCurrentNoteEnlargeOrReduce": "Always",
   "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
+  "ProcessCurrentNoteIgnoreFolders": "",
   "ProcessAllVaultconvertTo": "webp",
   "ProcessAllVaultquality": 0.75,
   "ProcessAllVaultResizeModalresizeMode": "None",
@@ -310,8 +311,9 @@
   "imageAlignmentCacheLocation": "plugin",
   "isDragResizeEnabled": true,
   "isScrollResizeEnabled": true,
-  "isDragAspectRatioLocked": false,
+  "isDragAspectRatioLocked": true,
   "isResizeInReadingModeEnabled": false,
+  "disableObsidianImageSelectionOnClick": false,
   "resizeSensitivity": 0.1,
   "scrollwheelModifier": "Shift",
   "isImageResizeEnbaled": true,
@@ -321,6 +323,7 @@
   "enableContextMenu": true,
   "showSpaceSavedNotification": true,
   "revertToOriginalIfLarger": false,
+  "minimumCompressionSavingsInKB": 30,
   "enableImageCaptions": true,
   "skipCaptionExtensions": "icns",
   "captionFontSize": "var(--font-smaller)",

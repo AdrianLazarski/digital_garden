@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Funkcja.md",
+                "file": "robocza 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Funkcja"
+              "title": "robocza 3"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Funkcja.md",
+                "file": "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,13 +354,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8cb82df02c0eab8",
+  "active": "224ff10684106530",
   "lastOpenFiles": [
+    "04 Źródła/załączniki/Zbiór ograniczony z góry.webp",
+    "04 Źródła/załączniki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.webp",
+    "robocza 3.md",
+    "03 Atomy/Funkcja.md",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
+    "04 Źródła/załączniki/Zbiór ograniczony z dołu.webp",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "07 Language lab/English grammar.md",
     "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",
-    "03 Atomy/Funkcja.md",
     "04 Źródła/Caroll Warren, Historia chrześcijaństwa 1.md",
     "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
     "02 MOC/MOC Matematyka/MOC Liczby.md",
@@ -369,7 +373,6 @@
     "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Matematyka/MOC Statystyka.md",
     "02 MOC/MOC Matematyka/MOC Matematyczne podręczniki.md",
-    "robocza 3.md",
     "robocza.md",
     "03 Atomy/Para uporządkowana.md",
     "03 Atomy/Zbiór.md",
@@ -381,7 +384,6 @@
     "05 Osoby/Albert Camus.md",
     "00 Daily log/19-02-2026.md",
     "04 Źródła/Frankl Viktor, Człowiek w poszukiwaniu sensu.md",
-    "05 Osoby/Viktor Frankl.md",
     "04 Źródła/załączniki/Pasted image 20240604172043.png",
     "04 Źródła/załączniki/3.webp",
     "04 Źródła/załączniki/4.webp",
@@ -390,8 +392,6 @@
     "Książki/załączniki/Filozofia starożytna.webp",
     "Książki/załączniki/Filozofia nowożytna.webp",
     "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-6.webp",
-    "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-5.webp",
-    "04 Źródła/załączniki/Stefanowicz Bogdan, Informacja-4.webp",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",
