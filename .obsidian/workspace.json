@@ -131,14 +131,28 @@
             "id": "cd55c7f50bb5a604",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Podgląd grafu"
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Funkcja.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Funkcja"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -214,6 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -339,8 +354,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd55c7f50bb5a604",
+  "active": "224ff10684106530",
   "lastOpenFiles": [
+    "04 Źródła/załączniki/Funkcja parzysta.webp",
+    "04 Źródła/załączniki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-2.webp",
+    "04 Źródła/załączniki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-1.webp",
+    "04 Źródła/załączniki/Funkcja na.webp",
+    "04 Źródła/załączniki/Wykres funkcji.webp",
+    "04 Źródła/załączniki/Równość funkcji.webp",
+    "04 Źródła/załączniki/Dziedzina, przeciwdziedzina funkcji.webp",
     "03 Atomy/Funkcja.md",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "04 Źródła/załączniki/Definicja funkcji.webp",
@@ -350,17 +372,11 @@
     "04 Źródła/załączniki/Aksjomat ciągłości.webp",
     "04 Źródła/załączniki/Kres górny zbioru.webp",
     "04 Źródła/załączniki/Kres dolny zbioru.webp",
-    "04 Źródła/załączniki/Element największy zbioru.webp",
-    "04 Źródła/załączniki/Zbiór ograniczony.webp",
     "03 Atomy/Zbiór ograniczony od dołu.md",
     "03 Atomy/Zbiór ograniczony.md",
     "03 Atomy/Ograniczenia zbiorów.md",
     "03 Atomy/Zbiór ograniczony od góry.md",
-    "04 Źródła/załączniki/Element najmniejszy zbioru.webp",
-    "04 Źródła/załączniki/Zbiór ograniczony z góry.webp",
-    "04 Źródła/załączniki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.webp",
     "robocza 3.md",
-    "04 Źródła/załączniki/Zbiór ograniczony z dołu.webp",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "07 Language lab/English grammar.md",
     "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",

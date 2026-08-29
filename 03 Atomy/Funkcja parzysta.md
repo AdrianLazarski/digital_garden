@@ -15,7 +15,7 @@ modified date: 2026-01-18 16:51
 > [!note] Definicja geometryczna
 >Funkcja jest parzysta, gdy oś $O_y$ jest osią symetrii jej wykresu.
 
-![[Funkcja parzysta.webp]]
+![[03 Atomy/załączniki/Funkcja parzysta.webp]]
 
 
 ### Zobacz też

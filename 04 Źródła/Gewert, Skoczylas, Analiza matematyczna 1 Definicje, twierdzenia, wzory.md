@@ -89,3 +89,12 @@ Komentarz do 11: Liczba wymierna pomnożona przez 4 (wymierne) powinna dać licz
 ## 0.4 Funkcje podstawowe określenia
 
 [[Funkcja]]![[Definicja funkcji.webp|Definicja funkcji|829x594]]
+[[Dziedzina funkcji]]
+[[Przeciwdziedzina funkcji]]
+[[Zbiór wartości funkcji]]![[Dziedzina, przeciwdziedzina funkcji.webp|Dziedzina, przeciwdziedzina, zbiór wartości funkcji|836x633]]
+[[Równość funkcji]]![[Równość funkcji.webp|Równość funkcji|795x163]][[Wykres funkcji]]![[04 Źródła/załączniki/Wykres funkcji.webp|Wykres funkcji|785x520]]
+[[Funkcja na]]![[04 Źródła/załączniki/Funkcja na.webp|Funkcja na|811x489]]
+## 0.5 Funkcje okresowe, parzyste i nieparzyste
+
+[[Funkcja okresowa]]![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-1.webp|799x369]]![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-2.webp|759x63]]
+[[Funkcja parzysta]]![[04 Źródła/załączniki/Funkcja parzysta.webp|Funkcja parzysta|768x511]]

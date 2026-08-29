@@ -53,7 +53,7 @@
       "query": "tag:#ekonomia  ",
       "color": {
         "a": 1,
-        "rgb": 16774912
+        "rgb": 14933297
       }
     },
     {
@@ -74,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.16348370567220571,
+  "scale": 0.08317427835927592,
   "close": false
 }

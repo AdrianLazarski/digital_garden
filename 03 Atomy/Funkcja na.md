@@ -15,7 +15,7 @@ modified date: 2026-01-18 12:53
 > $$\forall_{y \in Y} \exists_{x \in X} \space f(x)=y $$
 
 
-![[Funkcja na.webp]]
+![[03 Atomy/załączniki/Funkcja na.webp]]
 
 
 $\leftarrow$ [[Funkcja]]
