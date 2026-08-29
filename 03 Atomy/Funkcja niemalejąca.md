@@ -12,7 +12,7 @@ modified date: 2026-01-18 17:09
 > [[Funkcja]] jest niemalejąca na [[Zbiór|zbiorze]] $A \subset D_f$, gdy
 > $$\forall_{{x_1}, {x_2} \in A} [(x_1 < x_2) \implies (f_{(x_1)} \le f_{(x_2)})]$$
 
-![[Funkcja niemalejąca.webp]]
+![[03 Atomy/załączniki/Funkcja niemalejąca.webp]]
 
 
 $\leftarrow$ [[Funkcja]]

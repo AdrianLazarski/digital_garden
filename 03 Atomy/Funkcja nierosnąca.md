@@ -12,7 +12,7 @@ modified date: 2026-01-18 17:12
 > [[Funkcja]] jest niemalejąca na [[Zbiór|zbiorze]] $A \subset D_f$, gdy
 > $$\forall_{{x_1}, {x_2} \in A} [(x_1 < x_2) \implies (f_{(x_1)} \ge f_{(x_2)})]$$
 
-![[Funkcja nierosnąca.webp]]
+![[03 Atomy/załączniki/Funkcja nierosnąca.webp]]
 
 $\leftarrow$ [[Funkcja]]
 $\leftarrow$ [[MOC Własności funkcji]]

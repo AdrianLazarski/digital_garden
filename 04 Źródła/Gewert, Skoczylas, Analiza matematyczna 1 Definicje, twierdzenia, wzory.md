@@ -13,7 +13,7 @@ Miejsce wydania: Wrocław
 # 0 zbiory i funkcje liczbowe
 
 ## 0.1 Zbiór liczb rzeczywistych
-
+str.11
 ### 0.1.x Zadania
 
 0.1.1 Uzasadnić, że podane liczby są niewymierne
@@ -74,20 +74,20 @@ $$
 Komentarz do 11: Liczba wymierna pomnożona przez 4 (wymierne) powinna dać liczbę wymierną. Podobnie liczba wymierna, od której odjęto 2 (wymierne). Tutaj zrobiono dwie operacje w jednym kroku. 
 
 ## 0.2 Zbiory ograniczone
-![[Zbiór ograniczony z dołu.webp|Zbiór ograniczony z dołu]][[Zbiór ograniczony od dołu]]
+str. 12![[Zbiór ograniczony z dołu.webp|Zbiór ograniczony z dołu]][[Zbiór ograniczony od dołu]]
 ![[Zbiór ograniczony z góry.webp|Zbiór ograniczony z góry|840x360]]
 [[Zbiór ograniczony od góry]]
 
 ![[Zbiór ograniczony.webp|Zbiór ograniczony|854x420]][[Zbiór ograniczony]]
 
 ## 0.3 Kresy zbiorów
-[[Kresy zbiorów]]
-![[Element najmniejszy zbioru.webp|Element najmniejszy zbioru|814x398]]![[Element największy zbioru.webp|Element największy zbioru|816x299]]
+str. 13
+[[Kresy zbiorów]]![[Element najmniejszy zbioru.webp|Element najmniejszy zbioru|814x398]]![[Element największy zbioru.webp|Element największy zbioru|816x299]]
 [[Kres dolny zbioru]]![[Kres dolny zbioru.webp|Kres dolny zbioru|834x412]]
 [[Kres górny zbioru]]![[Kres górny zbioru.webp|Kres górny zbioru|805x368]]
 [[Aksjomat ciągłości]]![[Aksjomat ciągłości.webp|Aksjomat ciągłości|570x96]]
 ## 0.4 Funkcje podstawowe określenia
-
+str. 15
 [[Funkcja]]![[Definicja funkcji.webp|Definicja funkcji|829x594]]
 [[Dziedzina funkcji]]
 [[Przeciwdziedzina funkcji]]
@@ -95,6 +95,21 @@ Komentarz do 11: Liczba wymierna pomnożona przez 4 (wymierne) powinna dać licz
 [[Równość funkcji]]![[Równość funkcji.webp|Równość funkcji|795x163]][[Wykres funkcji]]![[04 Źródła/załączniki/Wykres funkcji.webp|Wykres funkcji|785x520]]
 [[Funkcja na]]![[04 Źródła/załączniki/Funkcja na.webp|Funkcja na|811x489]]
 ## 0.5 Funkcje okresowe, parzyste i nieparzyste
-
+str. 18
 [[Funkcja okresowa]]![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-1.webp|799x369]]![[Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-2.webp|759x63]]
 [[Funkcja parzysta]]![[04 Źródła/załączniki/Funkcja parzysta.webp|Funkcja parzysta|768x511]]
+[[Funkcja nieparzysta]]![[04 Źródła/załączniki/Funkcja nieparzysta.webp|Funkcja nieparzysta|788x225]]
+## 0.6 Funkcje ograniczone
+str. 20
+
+[[Funkcja ograniczona z dołu]]![[Funkcja ograniczona z dołu.webp|Funkcja ograniczona z dołu|784x467]]
+[[Funkcja ograniczona z góry]]![[Funkcja ograniczona z  góry.webp|Funkcja ograniczona z  góry|790x243]]
+[[Funkcja ograniczona]]![[Funkcja ograniczona.webp|784x620]]
+## 0.7 Funkcje monotoniczne
+
+[[Funkcja rosnąca]]![[04 Źródła/załączniki/Funkcja rosnąca.webp|Funkcja rosnąca|781x492]]
+[[Funkcja malejąca]]![[04 Źródła/załączniki/Funkcja malejąca.webp|Funkcja malejąca|781x222]]
+[[Funkcja niemalejąca]]![[04 Źródła/załączniki/Funkcja niemalejąca.webp|797x504]]
+[[Funkcja nierosnąca]]![[04 Źródła/załączniki/Funkcja nierosnąca.webp|Funkcja nierosnąca|801x241]]
+[[Funkcja monotoniczna]]
+![[Funkcja monotoniczna.webp|788x135]]

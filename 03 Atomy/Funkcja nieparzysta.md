@@ -16,7 +16,7 @@ modified date: 2026-01-18 16:55
 > [!note] Definicja geometryczna
 >Funkcja jest parzysta, gdy początek układu współrzędnych jest osią symetrii jej wykresu.
 
-![[Funkcja nieparzysta.webp]]
+![[03 Atomy/załączniki/Funkcja nieparzysta.webp]]
 
 $\leftarrow$ [[Funkcja]]
 $\leftarrow$ [[MOC Własności funkcji]]

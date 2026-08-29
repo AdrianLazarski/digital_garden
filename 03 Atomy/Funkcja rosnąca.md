@@ -12,7 +12,7 @@ modified date: 2026-01-18 16:58
 > [[Funkcja]] jest rosnąca na [[Zbiór|zbiorze]] $A \subset D_f$, gdy
 > $$\forall_{{x_1}, {x_2} \in A} [(x_1 < x_2) \iff (f(x_1)<f(x_2))]$$
 
-![[Funkcja rosnąca.webp]]
+![[03 Atomy/załączniki/Funkcja rosnąca.webp]]
 
 $\leftarrow$ [[Funkcja]]
 $\leftarrow$ [[MOC Własności funkcji]]
