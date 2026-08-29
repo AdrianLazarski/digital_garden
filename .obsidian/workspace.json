@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -207,8 +207,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
+                "file": "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -355,8 +354,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8cb82df02c0eab8",
+  "active": "40fde4cd44744f35",
   "lastOpenFiles": [
+    "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
     "04 Źródła/Caroll Warren, Historia chrześcijaństwa 1.md",
     "03 Atomy/Funkcja.md",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
@@ -382,7 +382,6 @@
     "04 Źródła/Kafka Franz, Zamek.md",
     "05 Osoby/Franz Kafka.md",
     "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",
-    "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "04 Źródła/załączniki/Pasted image 20240604172043.png",
     "04 Źródła/załączniki/3.webp",
     "04 Źródła/załączniki/4.webp",
