@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Funkcja.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Funkcja"
+              "title": "MOC Praca dzieci"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "analiza",
+                "query": "praca dzieci",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -207,7 +207,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
+                "file": "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,15 +355,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "224ff10684106530",
+  "active": "d8cb82df02c0eab8",
   "lastOpenFiles": [
+    "04 Źródła/Caroll Warren, Historia chrześcijaństwa 1.md",
+    "03 Atomy/Funkcja.md",
+    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "02 MOC/MOC Matematyka/MOC Liczby.md",
     "02 MOC/MOC Matematyka/MOC Teoria liczb.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
     "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Matematyka/MOC Statystyka.md",
-    "03 Atomy/Funkcja.md",
-    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "02 MOC/MOC Matematyka/MOC Matematyczne podręczniki.md",
     "robocza 3.md",
     "robocza.md",
@@ -381,7 +383,6 @@
     "05 Osoby/Franz Kafka.md",
     "07 Language lab/02 Atomy angielski/If I knew vs If I had known.md",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
-    "04 Źródła/Dumas Alexander, Hrabia Monte Christo.md",
     "04 Źródła/załączniki/Pasted image 20240604172043.png",
     "04 Źródła/załączniki/3.webp",
     "04 Źródła/załączniki/4.webp",
