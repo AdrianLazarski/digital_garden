@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
+                "file": "07 Language lab/English grammar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,8 +378,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "224ff10684106530",
+  "active": "cc286c7478e749f6",
   "lastOpenFiles": [
+    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "04 Źródła/załączniki/Ciąg niemalejący.webp",
     "04 Źródła/załączniki/Ciąg rosnący.webp",
     "04 Źródła/załączniki/Ciąg ograniczony.webp",
@@ -387,12 +388,10 @@
     "04 Źródła/załączniki/Ciąg ograniczony z dołu.webp",
     "04 Źródła/załączniki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-9.webp",
     "03 Atomy/Ciąg.md",
-    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "04 Źródła/załączniki/Ciąg liczbowy.webp",
     "04 Źródła/załączniki/Funkcja Riemanna.webp",
     "04 Źródła/załączniki/Funkcja Dirichleta.webp",
     "04 Źródła/załączniki/Funkcja signum.webp",
-    "04 Źródła/załączniki/Funkcja część całkowita.webp",
     "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
     "03 Atomy/Funkcja.md",
     "robocza.md",
