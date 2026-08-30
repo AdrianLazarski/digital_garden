@@ -15,6 +15,7 @@ Tolle Lege, 2023 r.
 # 1. Wprowadzenie
 
 ## 1.1 Religia
+
 - Religia od łac. relegere - ponowne odczytywanie, powtarzanie, ścisłe przestrzeganie,
 - Religia w ST - bojaźń boża (pełen czci szacunek, miarkowany przez zachwyt, a także strach przed nieposłuszeństwem, a czasem karą za nieposłuszeństwo).
 	- W NW: wiara, bogobojność, pobożność
@@ -33,7 +34,9 @@ Tolle Lege, 2023 r.
 
 # 2. Doktryna Boga i jego stworzenia
 
-## 2.1 Natura Boga
+## 2.1 Byt Boga
+
+### 2.1.1 Natura Boga
 
 - Wiedza o Bogu
 	- Przyrodzona/wrodzona - rozwija się w człowieku spontanicznie, gdy styka się z Bożym objawieniem. Jej kształt ma charakter konieczny ze względu na ludzką naturę; nie jest wynikiem ludzkiego wyboru.
@@ -50,10 +53,10 @@ Tolle Lege, 2023 r.
 	- Nieskończenie doskonały
 	- Prostota - całość jego istoty zawiera się w każdym z przymiotów
 
-## 2.2 Imiona Boga
+### 2.1.2 Imiona Boga
 
 
-## 2.3 Przymioty Boga
+### 2.1.3 Przymioty Boga
 
 - Przymioty Boga nieprzekazywalne (nie mające analogii w stworzeniu)
 	- Samoistność/niezależność
@@ -83,14 +86,14 @@ Tolle Lege, 2023 r.
 	- Zwierzchnia władza - może urzeczywistnić wszystko co zamierzy. Nie zamierzy jednak nic wbrew swojej naturze.
 
 
-## 2.4 Trójca
+### 2.1.4 Trójca
 
-### 2.4.1 Trójca w ogólności
+#### 2.1.4.1 Trójca w ogólności
 
 - Osoby Trójcy nie są sobie podległe co do istoty. 
 	- Ojciec jest pierwszy, Syn drugi, Duch trzeci co do "porządku istnienia"/porządku objawiania się w świecie.
 
-#### 2.4.1.3 Błędne ujęcia Trójcy
+#### 2.1.4.2 Błędne ujęcia Trójcy
 
 - Sabelianie: trzy sposoby boskiego przejawiania się/działania jednego Boga.
 - Trójca jako Bóg ojciec, człowiek Jezus Chrystus i boskie oddziaływanie zwane Duchem Bożym. Też Bóg zredukowany do jednej osoby.
@@ -100,7 +103,7 @@ Tolle Lege, 2023 r.
 	- Współcześni moderniści
 
 
-### 2.4.2 Trzy osoby rozważane oddzielnie
+### 2.1.5 Trzy osoby rozważane oddzielnie
 #### Ojciec
 
 Słowo to, w użyciu do Boga ma kilka sensów w Piśmie:
@@ -131,7 +134,6 @@ Używa się tego słowa też wobec pierwszej osoby Trójcy w jej relacji do drug
 - Jan 14:12-13
 
 To pierwotne Ojcostwo Boga, którego ziemskie ojcostwa są ledwie niewyraźnymi odbiciami.
-
 
 #### Syn
 
@@ -339,25 +341,44 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 - Hebr 10:15
 - I Jana 2:27
 
-# 3. Dzieła Boże
-
-# 4. Doktryna człowieka w relacji do Boga
-
-# 5. Doktryna osoby i dzieła Chrystusa
-
-# 6. Doktryna zastosowania dzieła odkupienia
-
-# 7. Doktryna kościoła i środków łaski
-
-## 7.1 Kościół
-
-## 7.2 Środki łaski
+## 2.2. Dzieła Boże
 
 
-# 8. Doktryna rzeczy ostatnich
 
-## 8.1 Eschatologia indywidualna
+# 3. Doktryna człowieka w relacji do Boga
+
+## 3.1 Człowiek w jego stanie pierwotnym
 
 
-## 8.2 Eschatologia ogólna
+## 3.2 Człowiek w stanie grzechu
+
+
+## 3.3 Człowiek w przymierzy łaski
+
+
+# 4. Doktryna osoby i dzieła Chrystusa
+
+## 4.1 Osoba Chrystusa
+
+
+## 4.2 Dzieło Chrystusa
+
+
+# 5. Doktryna zastosowania dzieła odkupienia
+
+
+# 6. Doktryna kościoła i środków łaski
+
+## 6.1 Kościół
+
+
+## 6.2 Środki łaski
+
+
+# 7. Doktryna rzeczy ostatnich
+
+## 7.1 Eschatologia indywidualna
+
+
+## 7.2 Eschatologia ogólna
 
