@@ -341,3 +341,23 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 # 3. Dzieła Boże
 
+# 4. Doktryna człowieka w relacji do Boga
+
+# 5. Doktryna osoby i dzieła Chrystusa
+
+# 6. Doktryna zastosowania dzieła odkupienia
+
+# 7. Doktryna kościoła i środków łaski
+
+## 7.1 Kościół
+
+## 7.2 Środki łaski
+
+
+# 8. Doktryna rzeczy ostatnich
+
+## 8.1 Eschatologia indywidualna
+
+
+## 8.2 Eschatologia ogólna
+
