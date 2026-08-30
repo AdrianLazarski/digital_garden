@@ -150,33 +150,9 @@
               "icon": "lucide-file",
               "title": "Ciąg"
             }
-          },
-          {
-            "id": "cd55c7f50bb5a604",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -252,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "file": "03 Atomy/Ciąg.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,10 +354,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd55c7f50bb5a604",
+  "active": "6e224e253f9677e8",
   "lastOpenFiles": [
-    "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+    "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "01 Input/!!Random/00. Lektury ❗.md",
     "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
     "07 Language lab/English grammar.md",

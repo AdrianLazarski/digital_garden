@@ -386,7 +386,19 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 		- Z definicji reprobacja jest zamiarem podwójnym: pominąć niektórych w dziele obdarowywania łaską i przeznaczyć ich na hańbę i gniew Boga za ich grzechy.
 		- Niesprawiedliwość zakłada, że jedna strona ma roszczenie wobec drugiej. Tymczasem wszyscy ludzie zrzekli się Bożych błogosławieństw. Bóg byłby tak samo sprawiedliwy, jakby nie zbawił nikogo, jak i gdy zbawia tylko wybranych (20:14-15, Rzym. 9:14-15).
 - Nawet w kręgach reformowanych ludzie dzielą się na supra i infralapsarian.
-- Supralapsarianizm
+- Supralapsarianizm:
+	- Najpierw Bóg zadekretował zbawienie i potępienie ludzi, którzy na tym etapie istnieli w Jego umyśle tylko jako możliwości.
+	- Jako środek do tego celu zadekretował stworzenie już wybranych i już odrzuconych.
+	- Do dopełnienia planu zadekretował przyzwolenie człowiekowi na upadek.
+	- Na końcu zadekretował otwarcie drogi zbawienia dla wybranych.
+- Infralapsarianizm:
+	- Najpierw Bóg zadekretował stworzenie człowieka.
+	- Potem przyzwolenie na upadek.
+	- Następnie zadekretował zbawienie części i na końcu zapewnienie drogi zbawienia dla wybranych. 
+	- Ten porządek został formalnie przyjęty przez kościoły reformowane w kanonach dordrechckich.
+
+### 2.2.3 Stworzenie
+
 
 
 # 3. Doktryna człowieka w relacji do Boga
