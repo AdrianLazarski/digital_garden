@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
+                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Własności funkcji"
+              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
             }
           }
         ],
@@ -210,7 +210,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "praca dzieci",
+                "query": "berkho",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -231,7 +231,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
+                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -380,6 +381,9 @@
   },
   "active": "cd55c7f50bb5a604",
   "lastOpenFiles": [
+    "01 Input/!!Random/00. Lektury ❗.md",
+    "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+    "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
     "07 Language lab/English grammar.md",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "04 Źródła/załączniki/Ciąg niemalejący.webp",
@@ -393,7 +397,6 @@
     "04 Źródła/załączniki/Funkcja Riemanna.webp",
     "04 Źródła/załączniki/Funkcja Dirichleta.webp",
     "04 Źródła/załączniki/Funkcja signum.webp",
-    "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
     "03 Atomy/Funkcja.md",
     "robocza.md",
     "robocza 3.md",
@@ -414,7 +417,6 @@
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
     "02 MOC/MOC Matematyka.md",
     "02 MOC/MOC Matematyka/MOC Statystyka.md",
-    "02 MOC/MOC Matematyka/MOC Matematyczne podręczniki.md",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",

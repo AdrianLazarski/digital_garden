@@ -10,7 +10,7 @@ modified date: 2025-11-22 21:17
 Tolle Lege, 2023 r.
 
 
-## Wprowadzenie
+# 1. Wprowadzenie
 
 - Religia od łac. relegere - ponowne odczytywanie, powtarzanie, ścisłe przestrzeganie,
 - Religia w ST - bojaźń boża (pełen czci szacunek, miarkowany przez zachwyt, a także strach przed nieposłuszeństwem, a czasem karą za nieposłuszeństwo).
@@ -23,7 +23,9 @@ Tolle Lege, 2023 r.
 		- Rzym 2:13 Gdyż nie ci, którzy zakonu słuchają, są sprawiedliwi u Boga, lecz ci, którzy zakon wypełniają, usprawiedliwieni będą.
 - Ewolucyjne teorie pochodzenia religii zakładają to, co nieudolnie próbują dowieść: że człowiek z natury był niereligijny i że religia powstała jako rozwinięcie kultu fetyszy, zależności od duchów i jakichś wyższych mocy, czy przekonania, że coś steruje naturą. Wszystko już jest przejawami religijności.
 
-## Doktryna Boga i jego stworzenia
+# 2. Doktryna Boga i jego stworzenia
+
+## 2.1 Natura Boga
 
 - Wiedza o Bogu
 	- Przyrodzona/wrodzona - rozwija się w człowieku spontanicznie, gdy styka się z Bożym objawieniem. Jej kształt ma charakter konieczny ze względu na ludzką naturę; nie jest wynikiem ludzkiego wyboru.
@@ -39,6 +41,11 @@ Tolle Lege, 2023 r.
 	- Osobowy
 	- Nieskończenie doskonały
 	- Prostota - całość jego istoty zawiera się w każdym z przymiotów
+
+## 2.2 Imiona Boga
+
+
+## 2.3 Przymioty Boga
 
 - Przymioty Boga nieprzekazywalne (nie mające analogii w stworzeniu)
 	- Samoistność/niezależność
@@ -68,7 +75,7 @@ Tolle Lege, 2023 r.
 	- Zwierzchnia władza - może urzeczywistnić wszystko co zamierzy. Nie zamierzy jednak nic wbrew swojej naturze.
 
 
-## Trójca
+## 2.4 Trójca
 
 - Osoby Trójcy nie są sobie podległe co do istoty. 
 	- Ojciec jest pierwszy, Syn drugi, Duch trzeci co do "porządku istnienia"/porządku objawiania się w świecie.
