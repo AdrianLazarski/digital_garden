@@ -353,7 +353,13 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 	- Bezwarunkowy – grzeszne i prawe czyny ludzi nie mają na niego wpływu. Bóg zarządził nie tylko to, co nastąpi, ale także warunki, pod jakimi to nastąpi. Dz. 2:23, Ef. 2:28, I Piotra 1:2
 	- Wszechogarniajacy – Wliczone w niego są dobre uczynki (Ef. 2:10), grzechy (Przyp. 16:4, Dz. 2:23, 4:27-28), zdarzenia przygodne (I Mojż. 45:8, I Mojż 50:20, Przyp. 16:33), środki i cele (II Tes. 2:13, Ef. 1:4), długość ludzkiego życia (Job. 14:5, Ps. 39:4) i jego miejsce zamieszkania (Dz. 7:26).
 	- W odniesieniu do grzechu ma charakter przyzwalający. Bóg zezwolił na samostanowienie stworzeń, mimo to reguluje i kontroluje skutki grzechu. (Ps. 78:29, Ps. 106:15, Dz. 14:16, Dz. 17:30).
-- Pelagianie i socynianie odrzucają dokrt
+- Pelagianie i socynianie odrzucają doktrynę dekretów, jako niebiblijną. Arminianie ją zaś ignorują albo przedstawiają Boży dekret jako coś wynikającego z Jego wiedzy uprzedniej.
+- Trzy zarzuty wobec doktryny dekretów:
+	1. Niespójna z wolnością moralną człowieka
+		- Biblia naucza, że człowiek jest wolny i odpowiedzialny za swe działania (I Mojż. 5-:19-20, Dz. 2:23, Dz. 4:27-28) i nie stara się tego jakoś szczególnie pogodzić z tym, że Bóg zadekretował wszystkie ludzkie działania. Zdaniem Berkhofa my możemy nie być w stanie tego pogodzić, ale nie oznacza to jakiejś realnej sprzeczności. 
+		- Wolność moralna jest władzą człowieka do wolnego określania jego działań moralnych w harmonii z poprzedzającymi je myślami, sądami, skłonnościami, pragnieniami, czy charakterem. Wolność ta ma swoje prawa i im lepiej się je rozumie, tym pewniejsze staje się określenie co człowiek uczyni w danych okolicznościach. Bóg ma pełną wiedzę o tych prawach, więc zna wszystkie przyszłe działania człowieka, nie naruszając jego wolności.
+	2. Obdziera ludzi z motywacji do szukania zbawienia
+	3. Czyni Boga autorem grzechu
 
 
 # 3. Doktryna człowieka w relacji do Boga
