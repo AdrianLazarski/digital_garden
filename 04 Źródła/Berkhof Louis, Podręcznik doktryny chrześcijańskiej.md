@@ -343,6 +343,11 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 ## 2.2. Dzieła Boże
 
+- Dekret to odwieczny plan lub zamiar, w którym Bóg zarządził wszystkim, co nastąpi.
+- Mówimy często w liczbie mnogiej, ale w rzeczywistości jest tylko jeden dekret.
+- Własności Bożego dekretu:
+	- Opiera się o Bożą mądrość. Ef 1:11
+	- Wieczny
 
 
 # 3. Doktryna człowieka w relacji do Boga
