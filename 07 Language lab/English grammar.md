@@ -31,7 +31,7 @@ if and wish
 - [x] 41
 
 passive
-- [ ] 44
+- [x] 44
 - [ ] 46
 
 reported speech
