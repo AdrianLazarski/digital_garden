@@ -347,7 +347,13 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 - Mówimy często w liczbie mnogiej, ale w rzeczywistości jest tylko jeden dekret.
 - Własności Bożego dekretu:
 	- Opiera się o Bożą mądrość. Ef 1:11
-	- Wieczny
+	- Wieczny – nie tylko powstał poza czasem, ale jego powstanie jest i trwa jako działanie wewnątrz boskiego bytu.
+	- Skuteczny – to, o czym zadecydował, nastąpi z konieczności. Ps 33:11, Przyp. 19:21, Iz 46,5-10
+	- Niezmienny – Bóg nie zmienia planów, bo jest wierny i prawy. Job 23:13-14, Iz. 46:10, Łuk 22:22, Dz. 2:23
+	- Bezwarunkowy – grzeszne i prawe czyny ludzi nie mają na niego wpływu. Bóg zarządził nie tylko to, co nastąpi, ale także warunki, pod jakimi to nastąpi. Dz. 2:23, Ef. 2:28, I Piotra 1:2
+	- Wszechogarniajacy – Wliczone w niego są dobre uczynki (Ef. 2:10), grzechy (Przyp. 16:4, Dz. 2:23, 4:27-28), zdarzenia przygodne (I Mojż. 45:8, I Mojż 50:20, Przyp. 16:33), środki i cele (II Tes. 2:13, Ef. 1:4), długość ludzkiego życia (Job. 14:5, Ps. 39:4) i jego miejsce zamieszkania (Dz. 7:26).
+	- W odniesieniu do grzechu ma charakter przyzwalający. Bóg zezwolił na samostanowienie stworzeń, mimo to reguluje i kontroluje skutki grzechu. (Ps. 78:29, Ps. 106:15, Dz. 14:16, Dz. 17:30).
+- Pelagianie i socynianie odrzucają dokrt
 
 
 # 3. Doktryna człowieka w relacji do Boga
