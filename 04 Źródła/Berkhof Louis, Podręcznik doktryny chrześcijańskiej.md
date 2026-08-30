@@ -369,7 +369,18 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 ### 2.2.2 Predestynacja
 
-- Predestynacja to zamiar Boga dotyczący Jego stworzeń moralnych.
+- Predestynacja to zamiar Boga dotyczący wszystkich Jego stworzeń moralnych/rozumnych. Ludzi, aniołów, Chrystusa.
+- Dz. 4:28, Rzym 8:29-30, Rzym. 9:11-13, Ef. 1:4-6.
+- Święte anioły Mar. 8:38, Łuk 9:26
+- Występne anioły II Piotra 2:4
+- Predestynacja w kontekście tych aniołów, które nigdy nie upadły, polega na tym, że Bóg podarował im szczególną łaskę wytrwania.
+- Chrystus jako przedmiot predestynacji oznacza, że był szczególnym przedmiotem Bożego upodobania. I Piotra 1:20, I Piotra 2:4
+- Predestynacja składa się z dwóch części:
+	1. Elekcja - występuje w kilku postaciach
+		- Wybór Izraela jako ludu na szczególnej służbie, ale też obdarzonego szczególnymi przywilejami (V Mojż. 4:37, V Mojż. 7:6-8, V Mojż. 10:15, Oz. 13:5)
+		- Wybór jednostek na urzędy i do szczególnej służby (V Mojż. 18:4, I Sam 10:24, Ps. 78:70, Jer 1:5, Jan 6:70, Dz. 9:15)
+		- Wybór jednostek, by stały się dziećmi Bożymi i dziedzicami wiecznej chwały (Mat. 22:14, Rzym 11:5, I Kor 1:27-28, Ef. 1:4)
+	2. Reprobacja
 
 
 # 3. Doktryna człowieka w relacji do Boga
