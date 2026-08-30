@@ -343,6 +343,8 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 ## 2.2. Dzieła Boże
 
+### 2.2.1 Boże dekrety
+
 - Dekret to odwieczny plan lub zamiar, w którym Bóg zarządził wszystkim, co nastąpi.
 - Mówimy często w liczbie mnogiej, ale w rzeczywistości jest tylko jeden dekret.
 - Własności Bożego dekretu:
@@ -359,7 +361,15 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 		- Biblia naucza, że człowiek jest wolny i odpowiedzialny za swe działania (I Mojż. 5-:19-20, Dz. 2:23, Dz. 4:27-28) i nie stara się tego jakoś szczególnie pogodzić z tym, że Bóg zadekretował wszystkie ludzkie działania. Zdaniem Berkhofa my możemy nie być w stanie tego pogodzić, ale nie oznacza to jakiejś realnej sprzeczności. 
 		- Wolność moralna jest władzą człowieka do wolnego określania jego działań moralnych w harmonii z poprzedzającymi je myślami, sądami, skłonnościami, pragnieniami, czy charakterem. Wolność ta ma swoje prawa i im lepiej się je rozumie, tym pewniejsze staje się określenie co człowiek uczyni w danych okolicznościach. Bóg ma pełną wiedzę o tych prawach, więc zna wszystkie przyszłe działania człowieka, nie naruszając jego wolności.
 	2. Obdziera ludzi z motywacji do szukania zbawienia
+		- Tajemny dekret Boży nie może być regułą działania, te są tylko w Biblii.
+		- Bóg nie zadekretował tylko ostatecznego celu człowieka, ale również środki do tego celu. Bez środków nie ma celu. Powinno to zachęcać do wysiłku, a nie od niego odwodzić. Ef. 2:10, Fil 2:13
 	3. Czyni Boga autorem grzechu
+		- Pismo podkreśla moralną czystość Boga (Ps. 92:15, Kazn. 7:29, Hab. 1:13, Jak. 1:13. I Jana 1:5).
+		- Dekret czyni Boga autorem moralnie wolnych bytów, a to one są autorami grzechu. 
+
+### 2.2.2 Predestynacja
+
+- Predestynacja to zamiar Boga dotyczący Jego stworzeń moralnych.
 
 
 # 3. Doktryna człowieka w relacji do Boga
