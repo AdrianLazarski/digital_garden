@@ -20,6 +20,13 @@ s. 18
 
 > [!note] Definicja
 > Zasób rzadki (ograniczony) – przy cenie równej zeru, popyt na ów zasób przewyższa dostępną podaż.
+
+
+## Kryzys 2007 
+
 - Zdaniem Begga przed 2007 r. w Stanach udzielano kredytów hiptecznych klientom ninja (no income, no jobs, no assets), bo nieprzerwany wzrost cen nieruchomości miał sprawiać, że bankom opłacało się przejmowanie budynków i sprzedawanie za cenę wyższą, niż w momencie brania kredytu.
 - Te kredyty subprime, które definiuje jako kredyty hipoteczne wysokie ryzyka, zaczęto łączyć w pakiety, tworząc rodzaj instrumentu pochodnego (skolateralizowane obligacje dłużne) i odsprzedawać innym instytucjom. Innymi słowy, pożyczkodawcy sami zaczęli zaciągać pożyczki, by móc dalej udzielać kredytów. 
 ![[Wskaźnik cen nieruchomości.webp|Wskaźnik cen nieruchomości w USA, s. 20|563x364]]
+- Po 2002 r. emisja takich instrumentów znacznie wzrosła, banki zaczęły przejmować co raz więcej nieruchomości i ich ceny zaczęły spadać przez wzrost podaży. Obligacje zabezpieczone kredytami subprime też zaczęły tracić na wartości. Banki ogłosiły straty na łącznie 60 mld dolarów. 
+- To zaś doprowadziło do załamania akcji kredytowej, inaczej zapaści kredytowej (credit crunch). Przedsiębiorstwa zostały zmuszone do ograniczenia aktywności, wiele pozamykano. Wzrost bezrobocia i spadek konsumpcji.
+- 
