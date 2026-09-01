@@ -32,7 +32,7 @@ if and wish
 
 passive
 - [x] 44
-- [ ] 46
+- [x] 46
 
 reported speech
 - [ ] 47
