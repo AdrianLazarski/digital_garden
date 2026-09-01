@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "d591f4b410f952ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Begg, Mikroekonomia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Begg, Mikroekonomia"
+            }
+          },
+          {
             "id": "cc286c7478e749f6",
             "type": "leaf",
             "state": {
@@ -211,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 333.5
   },
   "right": {
     "id": "4ad49cb6801c593c",
@@ -228,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Language lab/English grammar.md",
+                "file": "04 Źródła/Begg, Mikroekonomia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -336,7 +360,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -354,15 +378,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc286c7478e749f6",
+  "active": "d591f4b410f952ca",
   "lastOpenFiles": [
+    "04 Źródła/Begg, Mikroekonomia.md",
     "01 Input/!!Random/00. Lektury ❗.md",
+    "07 Language lab/English grammar.md",
     "Aktualnie opracowywane.md",
     "03 Atomy/Ciąg.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
-    "07 Language lab/English grammar.md",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "04 Źródła/załączniki/Ciąg niemalejący.webp",
     "04 Źródła/załączniki/Ciąg rosnący.webp",
@@ -391,7 +416,6 @@
     "02 MOC/MOC Matematyka/MOC Liczby.md",
     "02 MOC/MOC Matematyka/MOC Teoria liczb.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
-    "02 MOC/MOC Matematyka.md",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",
