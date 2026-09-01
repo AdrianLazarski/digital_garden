@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "Ciąg"
             }
+          },
+          {
+            "id": "663af173f3aba127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modelarstwo/Figurki/Zło/Uruk-hai warrior.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Uruk-hai warrior"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -252,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Begg, Mikroekonomia.md",
+                "file": "Modelarstwo/Figurki/Zło/Uruk-hai warrior.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,10 +402,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d591f4b410f952ca",
+  "active": "663af173f3aba127",
   "lastOpenFiles": [
-    "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
     "04 Źródła/Begg, Mikroekonomia.md",
+    "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
     "01 Input/!!Random/00. Lektury ❗.md",
     "07 Language lab/English grammar.md",
     "Aktualnie opracowywane.md",
@@ -399,7 +423,6 @@
     "04 Źródła/załączniki/Ciąg liczbowy.webp",
     "04 Źródła/załączniki/Funkcja Riemanna.webp",
     "04 Źródła/załączniki/Funkcja Dirichleta.webp",
-    "04 Źródła/załączniki/Funkcja signum.webp",
     "03 Atomy/Funkcja.md",
     "robocza.md",
     "robocza 3.md",
