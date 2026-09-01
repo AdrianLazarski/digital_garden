@@ -151,8 +151,7 @@
               "title": "Ciąg"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Ciąg.md",
+                "file": "01 Input/!!Random/00. Lektury ❗.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,11 +353,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e224e253f9677e8",
+  "active": "15a273497455cba1",
   "lastOpenFiles": [
+    "Aktualnie opracowywane.md",
+    "01 Input/!!Random/00. Lektury ❗.md",
+    "03 Atomy/Ciąg.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
-    "01 Input/!!Random/00. Lektury ❗.md",
     "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
     "07 Language lab/English grammar.md",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
@@ -368,7 +369,6 @@
     "04 Źródła/załączniki/Ciąg ograniczony z góry.webp",
     "04 Źródła/załączniki/Ciąg ograniczony z dołu.webp",
     "04 Źródła/załączniki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-9.webp",
-    "03 Atomy/Ciąg.md",
     "04 Źródła/załączniki/Ciąg liczbowy.webp",
     "04 Źródła/załączniki/Funkcja Riemanna.webp",
     "04 Źródła/załączniki/Funkcja Dirichleta.webp",
@@ -391,7 +391,6 @@
     "02 MOC/MOC Matematyka/MOC Teoria liczb.md",
     "02 MOC/MOC Matematyka/MOC Dziedziny matematyki.md",
     "02 MOC/MOC Matematyka.md",
-    "02 MOC/MOC Matematyka/MOC Statystyka.md",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",
