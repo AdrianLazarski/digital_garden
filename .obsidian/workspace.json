@@ -199,7 +199,8 @@
               "title": "Uruk-hai warrior"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input/!!Random/00. Lektury ❗.md",
+                "file": "07 Language lab/English grammar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -401,12 +402,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15a273497455cba1",
+  "active": "cc286c7478e749f6",
   "lastOpenFiles": [
+    "01 Input/!!Random/00. Lektury ❗.md",
     "Modelarstwo/Figurki/Zło/Uruk-hai warrior.md",
     "04 Źródła/Begg, Mikroekonomia.md",
     "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
-    "01 Input/!!Random/00. Lektury ❗.md",
     "07 Language lab/English grammar.md",
     "Aktualnie opracowywane.md",
     "03 Atomy/Ciąg.md",
