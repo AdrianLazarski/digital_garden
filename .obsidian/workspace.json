@@ -199,8 +199,7 @@
               "title": "Uruk-hai warrior"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelarstwo/Figurki/Zło/Uruk-hai warrior.md",
+                "file": "01 Input/!!Random/00. Lektury ❗.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -402,8 +401,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "663af173f3aba127",
+  "active": "15a273497455cba1",
   "lastOpenFiles": [
+    "Modelarstwo/Figurki/Zło/Uruk-hai warrior.md",
     "04 Źródła/Begg, Mikroekonomia.md",
     "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
     "01 Input/!!Random/00. Lektury ❗.md",
