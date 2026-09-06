@@ -415,13 +415,26 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 - Zdanie autora dowiedzenie istnienia bytów duchowych czystym rozumem jest niemożliwe.
 - Anioły w Biblii:
-	- są obdarzone intelektem II Sam. 14:20, Mat. 24:36
-	- moralnością Judy 1:6, Obj. 14:10
+	- są obdarzone intelektem (II Sam. 14:20, Mat. 24:36)
+	- moralnością (Judy 1:6, Obj. 14:10)
 	- osobowością:
 		- kochają i cieszą się (Łuk. 15:10)
 		- pragną (I Piotra 1:12)
 		- spierają się (Judy 1:9, Obj. 12:7)
 		- czczą (Hebr. 1:6)
+		- mówią (Zach. 1:9, Łuk 1:13)
+		- przychodzą i odchodzą (I Mojż. 19:1; Łuk. 9:26) itd.
+	- są czysto duchowe (Mat. 8:16, Mat. 12:45, Łuk. 7:21, Łuk. 8:2, Łuk. 11:26, Dz. 19:12, Ef. 6:12, Hebr. 1:14)
+	- nie żenią sią (Mat. 22:30)
+	- są niewidzialne (Kol. 1:16)
+	- nie mają ciał ani kości (Łuk. 24:39)
+	- mogą być obecne w wielkiej liczbie w małej przestrzeni (Łuk. 8:30)
+- Niektóre są dobre, święte i wybrane jako anioły światłości (I Tym. 5:21, Mar. 8:38, Łuk. 9:26, Obj. 14:10, II Kor. 11:14)
+- Inne upadłe i złe (Jan 8:44, II Piotra 2:4, Judy 1:6)
+- Chóry anielskie w Biblii:
+	- Cheruby strzegą wejścia do raju (II Mojż. 3:24), spoglądają z góry na przebłagalnię (II Mojż. 25:18) i wchodzą w skład rydwanu, którym Bóg zstępuje na ziemię (II Sam. 22:11, Ps. 18:10). Bóg zasiada między nimi w tabernakulum i świątyni (Ps. 80:1, Ps. 99:1, Iz. 37:16).
+	- Serafy są sługami krzątającymi się wokół tronu niebiańskiego Króla, śpiewającymi pieśni jego chwały oraz przygotowują człowieka na właściwe spotkanie z Bogiem. Iz. 6:2-7
+	- 
 #### Świat materialny
 
 
