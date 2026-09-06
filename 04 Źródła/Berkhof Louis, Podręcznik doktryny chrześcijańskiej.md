@@ -408,7 +408,7 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 - Wyrażenia "stworzyć" lub "uczynić coś z niczego" nie występują w Piśmie, za to jest w księdze apokryficznej tj. II Machabejskiej 7:28
 - Uzasadnienie doktryny, że Bóg stworzył świat, nie wykorzystując uprzednio istniejących materiałów znajduje potwierdzenie w Ps. 33:9, Ps. 148:5, Hebr. 11:3.
 - Stwarzać nie zawsze oznacza uczynić coś z niczego. Np. Bóg stworzył Adama z prochu ziemi, a Ewę z żebra.
-- 
+- Celem stworzenia jest Objawienie Bożej chwały. Nie chodzi tylko o to, że ludzie mają go podziwiać, bo chwała Bożych doskonałości jaśnieje w całym stworzeniu. 
 
 #### Świat duchowy
 
