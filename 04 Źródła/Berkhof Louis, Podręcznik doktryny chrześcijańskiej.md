@@ -404,6 +404,10 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 - Stworzenie często przypisywane jest Ojcu, ale to dzieło trójjedynego Boga: I Mojż 1:2, Job. 26:13, Job 33:4, Ps. 33:6, Ps. 104:30, Iz. 4-:12-13, Jan 1:3, I Kor. 8:6, Kol 1:15-17.
 - Stworzenie było działaniem wolnym, niekoniecznym.
 - Bóg stworzył wszystko według zamysłu swojej woli: Ef. 1:11, Obj. 4:11.
+- Dał światu osobne, odrębne istnienie. Świat nie jest częścią Boga. Jednocześnie to istnienie jest podtrzymywane jego "potęgą". Dlatego nigdy nie jest daleko od stworzenia, jest w nim obecny. Ps. 139:7-10, Jer. 23:24
+- Wyrażenia "stworzyć" lub "uczynić coś z niczego" nie występują w Piśmie, za to jest w księdze apokryficznej tj. II Machabejskiej 7:28
+- Uzasadnienie doktryny, że Bóg stworzył świat, nie wykorzystując uprzednio istniejących materiałów znajduje potwierdzenie w Ps. 33:9, Ps. 148:5, Hebr. 11:3.
+- Stwarzać nie zawsze oznacza uczynić coś z niczego. Np. Bóg stworzył Adama z prochu ziemi, a Ewę z żebra.
 - 
 
 #### Świat duchowy
