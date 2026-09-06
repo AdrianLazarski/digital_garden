@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f43aa3f4830f9705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
+            }
+          },
+          {
             "id": "d591f4b410f952ca",
             "type": "leaf",
             "state": {
@@ -200,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelarstwo/Figurki/Zło/Uruk-hai warrior.md",
+                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -402,12 +426,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "663af173f3aba127",
+  "active": "f43aa3f4830f9705",
   "lastOpenFiles": [
-    "03 Atomy/Ciąg.md",
-    "Modelarstwo/Figurki/Zło/Uruk-hai warrior.md",
-    "07 Language lab/English grammar.md",
     "01 Input/!!Random/00. Lektury ❗.md",
+    "Modelarstwo/Figurki/Zło/Uruk-hai warrior.md",
+    "03 Atomy/Ciąg.md",
+    "07 Language lab/English grammar.md",
     "04 Źródła/Begg, Mikroekonomia.md",
     "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
     "Aktualnie opracowywane.md",
