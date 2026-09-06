@@ -438,10 +438,15 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 	- Księstwa, moce, trony, panowania. Te imiona nie wskazują różne rodzaje aniołów, tylko na różnice stopnia i godności. Imiona tą są w: Ef. 1:21, Ef. 3:10, Kol. 1:16, Kol. 2:10, I Piotra 3:22.
 - Anioły chwalą Boga dzień i noc (Job. 38:7, Iz. 6, Ps. 103:20, Ps. 148:2, Obj. 5:11).
 - Służą tym, którzy mają dostąpić zbawienia (Hebr. 1:14), radują się z nawrócenia grzesznika (Łuk. 15:10), strzegą wierzących (Ps. 34:7, Ps. 91:11), chronią najmniejszych (Mat. 18:10), są obecne w Kościele (I Kor. 11:10, I Tym. 5:21), uczą się od Kościoła wielorakich bogactw Bożej łaski (Ef. 3:10, I Piotra 1:12), zanoszą wierzących na łono Abrahamowe (Łuk. 16:22), pośredniczą w objawieniu (Dan. 9:21-23, zach. 1:12-14, Dz. 7:38), oznajmiają ludowi Boże błogosławieństwa (Ps. 91:11-12, Iz. 63:9, Dan. 6:22, Dz. 5:19), egzekwują jego sądy nad Jego przeciwnikami (I Mojż. 19:1, 19:13, II Król. 19:35, Mat. 13:41)
-- Szatan stał się przywódcą aniołów, które u
+- Szatan stał się przywódcą aniołów, które upadły (Mat. 25:31, Mat. 9:34, Ef. 2:2). Dał początek grzechowi (I Mojż. 3:1, Jan 8:44, II Kor. 11:3, I Jana 3:8, Obj. 12:9, Obj. 20:2-10).
 
 #### Świat materialny
 
+- Jeśli narracja o stworzeniu została objawiona jakiemuś patriarsze przed Mojżeszem, to była przekazywana ustnie i spisał ją Mojżesz, prowadzony przez Ducha Świętego.
+- Pismo używa czasem słowa "dzień" dla oznaczenia nieokreślonego okresu (Ps. 50:15, Kazn. 7:14, Zach. 4:10).
+- Słońce zostało stworzone czwartego dnia, więc długość poprzednich dni nie może być wyznaczona w relacji do pozycji słońca.
+- Dwa powyższe punkty nie podobają się Berkhofowi xD
+- 
 
 # 3. Doktryna człowieka w relacji do Boga
 

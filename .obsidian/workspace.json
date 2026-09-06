@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "f43aa3f4830f9705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
-            }
-          },
-          {
             "id": "d591f4b410f952ca",
             "type": "leaf",
             "state": {
@@ -300,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "file": "04 Źródła/Begg, Mikroekonomia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -426,8 +402,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f43aa3f4830f9705",
+  "active": "d591f4b410f952ca",
   "lastOpenFiles": [
+    "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "01 Input/!!Random/00. Lektury ❗.md",
     "Modelarstwo/Figurki/Zło/Uruk-hai warrior.md",
     "03 Atomy/Ciąg.md",
@@ -435,7 +412,6 @@
     "04 Źródła/Begg, Mikroekonomia.md",
     "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
     "Aktualnie opracowywane.md",
-    "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "02 MOC/MOC Matematyka/MOC Własności funkcji.md",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
