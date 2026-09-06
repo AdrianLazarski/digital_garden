@@ -408,11 +408,20 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 - Wyrażenia "stworzyć" lub "uczynić coś z niczego" nie występują w Piśmie, za to jest w księdze apokryficznej tj. II Machabejskiej 7:28
 - Uzasadnienie doktryny, że Bóg stworzył świat, nie wykorzystując uprzednio istniejących materiałów znajduje potwierdzenie w Ps. 33:9, Ps. 148:5, Hebr. 11:3.
 - Stwarzać nie zawsze oznacza uczynić coś z niczego. Np. Bóg stworzył Adama z prochu ziemi, a Ewę z żebra.
-- Celem stworzenia jest Objawienie Bożej chwały. Nie chodzi tylko o to, że ludzie mają go podziwiać, bo chwała Bożych doskonałości jaśnieje w całym stworzeniu. 
+- Celem stworzenia jest Objawienie Bożej chwały. Nie chodzi tylko o to, że ludzie mają go podziwiać, bo chwała Bożych doskonałości jaśnieje w całym stworzeniu. Nie jest to puste widowisko, bo Objawienie Bożej chwały ma też wspierać dobrobyt i doskonałe szczęście stworzeń. Stara się dostroić ich serca do uwielbienia Stwórcy oraz wzbudzić w ich duszach wdzięczność i miłość. Iz. 43:7, Iz. 60:21, Iz. 61:3, Ezech. 36:21-22, Ezech. 39:7, Łuk. 2:14, Rzym. 9:17, Rzym. 11:36, I Kor. 15:28, Ef. 1:5-14, Ef. 3:9-10, Kol. 1:16.
+- _Pada absurdalne stwierdzenie, że teoria ewolucji jest sprzeczna z doktryną stworzenia._
 
 #### Świat duchowy
 
-
+- Zdanie autora dowiedzenie istnienia bytów duchowych czystym rozumem jest niemożliwe.
+- Anioły w Biblii:
+	- są obdarzone intelektem II Sam. 14:20, Mat. 24:36
+	- moralnością Judy 1:6, Obj. 14:10
+	- osobowością:
+		- kochają i cieszą się (Łuk. 15:10)
+		- pragną (I Piotra 1:12)
+		- spierają się (Judy 1:9, Obj. 12:7)
+		- czczą (Hebr. 1:6)
 #### Świat materialny
 
 
