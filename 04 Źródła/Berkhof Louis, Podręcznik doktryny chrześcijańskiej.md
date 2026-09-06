@@ -401,6 +401,7 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 
 
+
 # 3. Doktryna człowieka w relacji do Boga
 
 ## 3.1 Człowiek w jego stanie pierwotnym
