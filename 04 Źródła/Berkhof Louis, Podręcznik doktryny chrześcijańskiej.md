@@ -399,7 +399,17 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 ### 2.2.3 Stworzenie
 
+#### W ogólności
 
+- Stworzenie często przypisywane jest Ojcu, ale to dzieło trójjedynego Boga: I Mojż 1:2, Job. 26:13, Job 33:4, Ps. 33:6, Ps. 104:30, Iz. 4-:12-13, Jan 1:3, I Kor. 8:6, Kol 1:15-17.
+- Stworzenie było działaniem wolnym, niekoniecznym.
+- Bóg stworzył wszystko według zamysłu swojej woli: Ef. 1:11, Obj. 4:11.
+- 
+
+#### Świat duchowy
+
+
+#### Świat materialny
 
 
 # 3. Doktryna człowieka w relacji do Boga
