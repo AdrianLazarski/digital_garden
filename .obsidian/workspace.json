@@ -174,33 +174,9 @@
               "icon": "lucide-file",
               "title": "Ciąg"
             }
-          },
-          {
-            "id": "663af173f3aba127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Caplan Bryan, Mit racjonalnego wyborcy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Caplan Bryan, Mit racjonalnego wyborcy"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -277,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Caplan Bryan, Mit racjonalnego wyborcy.md",
+                "file": "03 Atomy/Ciąg.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -403,8 +379,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "663af173f3aba127",
+  "active": "6e224e253f9677e8",
   "lastOpenFiles": [
+    "04 Źródła/Caplan Bryan, Mit racjonalnego wyborcy.md",
     "Modelarstwo/Figurki/Zło/Uruk-hai warrior.md",
     "04 Źródła/Begg, Mikroekonomia.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
@@ -440,7 +417,6 @@
     "04 Źródła/Caroll Warren, Historia chrześcijaństwa 1.md",
     "02 MOC/MOC Ekonomia/MOC Praca dzieci.md",
     "02 MOC/MOC Matematyka/MOC Liczby.md",
-    "02 MOC/MOC Matematyka/MOC Teoria liczb.md",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",
