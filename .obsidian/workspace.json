@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelarstwo/Figurki/Zło/Uruk-hai warrior.md",
+                "file": "04 Źródła/Caplan Bryan, Mit racjonalnego wyborcy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,11 +196,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Uruk-hai warrior"
+              "title": "Caplan Bryan, Mit racjonalnego wyborcy"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -234,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "berkho",
+                "query": "caplan",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -255,7 +255,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -276,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Begg, Mikroekonomia.md",
+                "file": "04 Źródła/Caplan Bryan, Mit racjonalnego wyborcy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -402,14 +403,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d591f4b410f952ca",
+  "active": "663af173f3aba127",
   "lastOpenFiles": [
+    "Modelarstwo/Figurki/Zło/Uruk-hai warrior.md",
+    "04 Źródła/Begg, Mikroekonomia.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "01 Input/!!Random/00. Lektury ❗.md",
-    "Modelarstwo/Figurki/Zło/Uruk-hai warrior.md",
     "03 Atomy/Ciąg.md",
     "07 Language lab/English grammar.md",
-    "04 Źródła/Begg, Mikroekonomia.md",
     "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
     "Aktualnie opracowywane.md",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
