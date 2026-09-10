@@ -175,7 +175,8 @@
               "title": "Ciąg"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -377,11 +378,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15a273497455cba1",
+  "active": "9bdad539dfaed405",
   "lastOpenFiles": [
+    "index.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "Sofiofilia/Myśl polityczna.md",
-    "index.md",
     "O stronie.md",
     "ZZZ To do.md",
     "robocza.md",
