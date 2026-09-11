@@ -576,20 +576,98 @@ Ja też nie wiem, to jest pewnego rodzaju proces.To to nie jest tak, że człowi
 
 1:19:29
 
-Daj mu oni do tego stanu philco ma być cechą też oczywiście tego stanu, czy też nie.Być może nam to pozwoli jakoś zastanowić się nad tym, jak prawo powinno funkcjonować na przykład pozwoli nam się zastanowić nad tym, jak prawo jaką jaki masz stosunek do moralności, bo wydawałoby się przejść dosyć oczywiste, że jeżeli chcemy mieć szczęście, to wszystkie decyzje powinny się kończyć rozstrzygnięciem moralnym moralnie właściwy.
+Daj mu oni do tego stanu philco ma być cechą też oczywiście tego stanu, czy też nie. Być może nam to pozwoli jakoś zastanowić się nad tym, jak prawo powinno funkcjonować na przykład pozwoli nam się zastanowić nad tym, jak prawo jaką jaki masz stosunek do moralności, bo wydawałoby się przejść dosyć oczywiste, że jeżeli chcemy mieć szczęście, to wszystkie decyzje powinny się kończyć rozstrzygnięciem moralnym moralnie właściwy.
 
 1:19:51
 
-Tymczasem prawo ma taką cechę, którą obrazuje stare powiedzenie.Która lex sed lex, że pewne konkretne decyzje w sprawie wydają się niesprawiedliwe dla normalnego człowieka.Słuchajcie, przedawnienie jest najbardziej niemoralną rzeczą, jaką sobie można wyobrazić.To jest w ogóle bez sensu.Tak ja mam prawo do pieniędzy moich, bo ktoś mi je wziął albo ktoś je ukradł i co nie mogę ich dochodzić tylko dlatego, że minęło zbyt dużo czasu.
+Tymczasem prawo ma taką cechę, którą obrazuje stare powiedzenie. Która lex sed lex, że pewne konkretne decyzje w sprawie wydają się niesprawiedliwe dla normalnego człowieka. Słuchajcie, przedawnienie jest najbardziej niemoralną rzeczą, jaką sobie można wyobrazić.  To jest w ogóle bez sensu.T ak ja mam prawo do pieniędzy moich, bo ktoś mi je wziął albo ktoś je ukradł i co nie mogę ich dochodzić tylko dlatego, że minęło zbyt dużo czasu. Dlaczego on ma je zatrzymać, prawda? To jest zupełnie niemoralne. My wiemy jako prawnicy mam nadzieję, że się zgadzamy, że to w pewnym sensie jest konieczne terminy za vit dla ludzi, którzy mają rację i się spóźniają za chwilę apelacją o jeden dzień są niemoralne. Mam rację, wygrałbym, a głupi formalny przepis mi na to nie pozwala, ale my wiemy, że jeżeli by nie było tych terminów, to cały system nie mógłby funkcjonować, więc paradoksalnie, żeby osiągnąć ten stan idealny, musimy się godzić na pewnego rodzaju, indywidualne niesprawiedliwość tak na przykład.
 
-1:20:15
 
-Dlaczego on ma je zatrzymać, prawda?To jest zupełnie niemoralne.My wiemy jako prawnicy mam nadzieję, że się zgadzamy, że to w pewnym sensie jest konieczne terminy za vit dla ludzi, którzy mają rację i się spóźniają za chwilę apelacją o jeden dzień są niemoralne.Mam rację, wygrałbym, a głupi formalny przepis mi na to nie pozwala, ale my wiemy, że jeżeli by nie było tych terminów, to cały system nie mógłby funkcjonować, więc paradoksalnie, żeby osiągnąć ten stan idealny, musimy się godzić na pewnego rodzaju, indywidualne niesprawiedliwość tak na przykład.
 
-1:20:45
 
-Ktoś, kto proponuje skargę nadzwyczajną w naszym systemie działa zakładam w przekonaniu, że to przyniesie więcej moralności, bo sądy się mogą pomylić, ale my jednocześnie wiemy, że ta skarga nadzwyczajna powoduje destabilizację, bo mimo że mam prawomocny wyrok, nie wiem, czy on jest prawomocny, bo on zawsze może zostać gdzieś tam odkręcony.
 
-1:21:03
+**Ontologiczny i funkcjonalny model prawa: tekst a świat możliwy**
 
-Czy większy zysk polega na tym systemowy, że mam narzędzie korygowania niesprawiedliwości lokalnie.Czy na tym, że mam niestabilność systemowo?Tak, to są rzeczy, o których musimy rozmawiać, bo jak my nie patrzymy tylko na konkretne jedno rozwiązanie, tylko na na na system podsumowując.
+- **Koordynacyjna funkcja prawa:** Prawo i język to narzędzia koordynacji działań w społeczeństwie.
+    
+- **Metafora encyklopedii Borgesa:** Tekst prawny to projekt fikcyjnego świata możliwego (przyszłego i pożądanego), który przez praktykę stosowania zaczyna materializować się w rzeczywistości.
+    
+- **Struktura procesu prawnego:**
+    
+    - _Postulowanie:_ tworzenie tekstu prawnego (odpowiednik projektu architektonicznego).
+        
+    - _Interpretacja:_ odczytanie i przekształcenie tekstu w normy w umyśle odbiorcy.
+        
+    - _Urzeczywistnianie:_ stosowanie prawa w praktyce społecznej (odpowiednik budowy).
+        
+- **Rola prawnika:** Konieczność łączenia ścisłego odczytania tekstu z twórczą rolą uzupełniania luk prawnych oraz wprowadzania zasad ogólnych (sprawiedliwość, ludzka godność, prawa konstytucyjne).
+    
+
+**Metodologia wykładni: intencjonalizm vs konwencjonalizm**
+
+- **Krytyka intencjonalizmu:** Szukanie woli prawodawcy napotyka barierę braku możliwości agregacji intencji ciał kolegialnych, problem historycznego dystansu od dawnych prawodawców oraz ryzyko idiolektu (błędnych, jednostkowych wyobrażeń polityka o znaczeniu słów).
+    
+- **Konwencjonalizm i semantyka publiczna:** Znaczenie nie jest zależne od intencji nadawcy; ma charakter publiczny, tworzy się w praktyce społecznej i ulega ewolucji.
+    
+- **Odrzucenie oryginalizmu:** Próba zamrożenia znaczenia tekstu na etapie jego uchwalenia (np. podejście sędziego Scalii do Konstytucji USA) to fikcja, która w praktyce służy maskowaniu własnych preferencji orzeczniczych. Zmiany technologiczne i kulturowe wymagają dynamicznej adaptacji pojęć (np. „kradzież z włamaniem” obejmująca konta bankowe czy „dostęp do drogi” jako dostęp samochodowy).
+    
+
+**Spór o naukowość i obiektywizm prawoznawstwa**
+
+- **Dualizm metodologiczny (Dilthey):** Rozdział nauk o naturze (_Naturwissenschaften_, obiektywne badanie materii) i nauk o duchu (_Geisteswissenschaften_, hermeneutyczne badanie wytworów ludzkiego umysłu). W prawoznawstwie badacz jest uwikłany w przedmiot badania, co osłabia obiektywizm.
+    
+- **Wyzwanie postmodernizmu i studiów krytycznych (CLS):** Odrzucenie oświeceniowej racjonalności; traktowanie norm jako fasady dla walki klas, dyskryminacji (np. zmaskulinizowana definicja premedytacji) lub interesów politycznych.
+    
+- **Skrajny realizm prawniczy (_law in action_ vs _law in the books_):** Sprowadzenie wyrokowania do czynników pozaświadomych, psychologicznych i behawioralnych (np. poziom głodu sędziego).
+    
+- **Ograniczenie tezy realistów (badanie Robertsona):** Czynniki metrykalne (wiek, płeć, edukacja) nie determinują orzeczeń. Jedyną realną korelacją jest kulturowy nawyk zawodowy wyrobiony przed nominacją sędziowską (reprezentowanie państwa vs reprezentowanie jednostek).
+    
+
+**Projekt naturalizacji prawa: ewolucjonizm i wyjaśnianie anizotropowe**
+
+- **Dwa modele naturalizmu:**
+    
+    - _Fizykalny/mechanistyczny:_ badanie łańcucha przyczyna–skutek. Zastosowany do prawa redukuje normy i pojęcia do determinizmu biologicznego lub behawioralnego, unieważniając dorobek kultury prawnej.
+        
+    - _Biologiczny/ewolucyjny:_ odwrócenie sekwencji na wyjaśnianie teleologiczne/anizotropowe, gdzie punktem wyjścia jest stan końcowy – adaptacja (Arystotelesowski _telos_).
+        
+- **Mechanizm ewolucji kulturowej w prawie:**
+    
+    - _Różnorodność:_ wielość koncepcji normatywnych, procedur i instytucji (np. proces inkwizycyjny vs kontradyktoryjny).
+        
+    - _Reprodukcja:_ powielanie i transmisja wzorców w toku edukacji oraz praktyki orzeczniczej.
+        
+    - _Presja selekcyjna:_ weryfikacja rozwiązań prawnych przez ich zdolność do zapewnienia przetrwania, rozwoju i koordynacji społeczeństwa.
+        
+- **Teleosemantyka norm (Ruth Garrett Millikan):** Pojęcia i normy są reprezentacjami mentalnymi, których wartość ocenia się miarą korzyści adaptacyjnej. Lepsze pojęcia (np. inkluzywne pojęcie równości) dają wyższą zdolność przetrwania i koordynacji.
+    
+- **Eudajmonia jako _telos_ prawa:** Nadrzędnym celem prawa jest stworzenie warunków optymalnego rozwoju jednostek i społeczeństwa (_rozkwit_). Wyjaśnia to konieczność istnienia instytucji z pozoru niemoralnych jednostkowo (przedawnienie roszczeń, terminy zawite), które są ewolucyjnie niezbędne dla zachowania stabilności całego systemu.
+
+
+# Wyjaśnienie do naturalizmu
+
+Klasyczny model nauk ścisłych (fizyka, chemia) opiera się na **przyczynowości mechanistycznej**:
+
+$$\text{przyczyna} \longrightarrow \text{skutek}$$
+
+Gdy próbuje się przenieść ten schemat wprost do prawa (co postulują np. skrajni realiści prawniczy czy Brian Leiter):
+
+- Prawnika i sędziego traktuje się jak obiekt fizyczny lub organizm w**Naturalizm w prawie** (a dokładniej w prawoznawstwie i jurysprudencji) to podejście metodologiczne i ontologiczne, które zakłada, że prawo, zjawiska prawne oraz procesy decyzyjne sędziów i prawodawców są w pełni częścią świata empirycznego i podlegają badaniu takimi samymi metodami, jakimi bada się fakty przyrodnicze, psychologiczne lub społeczne.
+    
+
+Pojęcie to występuje w dwóch głównych wymiarach:
+
+- **Naturalizm ontologiczny:** Odrzuca istnienie bytu prawa jako autonomicznej, metafizycznej rzeczywistości (np. transcendentnych „norm samych w sobie”, obiektywnych powinności czy metafizycznego prawa natury). Prawo to nic innego jak konkretne zachowania ludzi, stany psychiczne (emocje, przeżycia imperatywno-atrybutywne) lub zjawiska neurobiologiczne i socjologiczne.
+    
+- **Naturalizm metodologiczny:** Głosi jedność metody naukowej. Do badania prawa nie należy stosować wyłącznie tradycyjnej egzegezy językowej czy apriorycznej logiki prawniczej, lecz narzędzia nauk empirycznych: socjologii empirycznej, psychologii poznawczej, kognitywistyki, biologii ewolucyjnej czy neurobiologii.
+    
+
+**Główne nurty naturalizmu prawniczego**
+
+- **Amerykański realizm prawny (Legal Realism):** Prekursorzy tacy jak Oliver Wendell Holmes Jr. zdefiniowali prawo pragmatycznie: prawo to nie logiczny system w kodeksach, lecz „przepowiednie co do tego, co sądy rzeczywiście zrobią”. Współczesny naturalizm amerykański, rozwijany m.in. przez Briana Leitera, postuluje zastąpienie czystej teorii prawa analizą opartą na psychologii i empirycznych badaniach orzecznictwa.
+    
+- **Skandynawski realizm prawny:** Myśliciele tacy jak Axel Hägerström, Karl Olivecrona czy Alf Ross traktowali pojęcia takie jak „prawo podmiotowe”, „uprawnienie” czy „obowiązek” jako konstrukcje magiczne i mityczne, pozbawione empirycznego desygnatu. Ross proponował sprowadzenie normy prawnej do faktu społecznego – weryfikowalnego prawdopodobieństwa, z jakim sędzia zastosuje daną regułę ze względu na poczucie psychicznego związania.
+    
+- **Psychologizm Leona Petrażyckiego:** Prawo istnieje wyłącznie w ludzkiej psychice jako swoiste przeżycie emocjonalne o charakterze imperatywno-atrybutywnym (jednoczesne poczucie obowiązku i uprawnienia drugiej strony). Zjawiska prawne są w tym ujęciu faktami psychologicznymi.
+    
+- **Współczesny zwrot kognitywny i neurojurisprudencja (Neuro-law):** Bada zachowania prawodawców i sędziów przez pryzmat heurystyk myślenia, błędów poznawczych oraz aktywności neuronalnej mózgu podczas podejmowania decyzji moralno-prawnych.
