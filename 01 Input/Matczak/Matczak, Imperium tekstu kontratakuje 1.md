@@ -28,25 +28,6 @@
 
 
 
-19:13
-
-Więc ktoś wybudował dom, który się zawalił tak dlatego, że nie domyślił, nie odnalazł tych dodatkowych rzeczy, które tam były potrzebne i to nie ustało i oczywiście to i to była Katastrofa, tak jak Katastrofa budowlana jest katastrofą. Tak samo to była Katastrofa, która powoduje, że że ludzie przestali ufać i prawnikom i prawu.
-
-19:33
-
-No bo co to za prawo, które powoduje, że ludzie są wyganianie i wyrzucani na bruk po to, żeby ktoś mógł zarobić?To są to toz to jest dokładnie taka sama sytuacja ktoś nie domyślił.Nie w sensie wykreowania stworzenia tylko odnalezienia tego elementu, w tym wielkim projekcie, który pozwoliłby, który pozwolił by temu przeciwdziałać, więc jeżeli prawo jest postulowanie, w jakiej rzeczywistości i urzeczywistnianie?
-
-19:57
-
-To możemy myśleć o tekście jako takim wielkim projekcie świata idealnego świata o prawnikach jako o takich strażnikach tego świata.Z całym z pełnym zrozumieniem, że nie my go tworzymy, że tworzy go ktoś inny, tworzy, tworzy go suweren, tworzą, tworzą go ludzie, bo oni wybierają swoich przedstawicieli po to, żeby te teksty powstawały i to tam ma następować.
-
-20:16
-
-Transmisja wartości ludzkich do tego projektu.A my mamy to tylko odtworzyć, ale ten przykład z budynkiem, który może się zawalić, pokazuje, że nasza rola nie jest wyłącznie rolą odtwórcza.Nasza rola jest ostrożną rolą, także twórczą mówię ostrożną, bo nie można przesadzić, bo jeżeli my postawimy się w roli prawodawcy, no to.
-
-20:34
-
-To będziemy mieli do czynienia z rządami sędziów, a nie z rządami demokratycznymi, bo Jeszcze raz podkreślam, sędziowie nie są wybierani, nie mają więc tytułu do tego, żeby swoje własne wartości umieszczać w tekście prawnym.Jeżeli tam nie umieścił ich prawodawcy.Zobaczcie, że to pokazuje ciekawą rolę prawnika, bo to pokazuje rolę prawnika, który jednocześnie musi być wstrzemięźliwy.
 
 20:57
 
