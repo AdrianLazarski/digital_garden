@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 2.md",
+                "file": "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Matczak, Imperium tekstu kontratakuje 2"
+              "title": "Matczak, Imperium tekstu kontratakuje 3"
             }
           },
           {
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 2.md",
+                "file": "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -356,6 +356,7 @@
   },
   "active": "d591f4b410f952ca",
   "lastOpenFiles": [
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 2.md",
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
     "04 Źródła/Hare, Woods, Przetrwają najżyczliwsi.md",
     "02 MOC/MOC Matematyka/MOC Liczby.md",
@@ -391,7 +392,6 @@
     "04 Źródła/Funkcja ograniczona od dołu.md",
     "03 Atomy/Kres górny zbioru.md",
     "03 Atomy/Kres dolny zbioru.md",
-    "03 Atomy/Kresy zbiorów.md",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",
