@@ -9,7 +9,7 @@
 
 - Ja tę książkę zaczynam od cytatu z mojego ulubionego autora, czyli borgesa argentyńskiego pisarza wybitnego, który w roku 45 napisał opowiadanie, które przedstawia historię dziwnej encyklopedii, którą kiedyś odnalazł w jakimś starym antykwariacie i borges w tym opowiadaniu pisze. 2 lata wcześniej na stronicach pewnej encyklopedii plagiatu odkryłem zwięzły opis fikcyjnego kraju.
   
-  Obecnie przypadek dostarczył mi czegoś bardziej jeszcze cennego i trudnego.Miałem teraz w ręku obszerny i metodyczny fragment całkowitej historii nieznanej planety z jej budowlami i wojnami z przerażeniem jej mitologii i zgiełkiem jej języków, z jej cesarzami i morzami z jej minerałami, z jej ptakami i rybami, z jej algebrą i ogniem, z jej kontrowersyjnymi, teologicznymi i metafizycznymi poglądami.
+  Obecnie przypadek dostarczył mi czegoś bardziej jeszcze cennego i trudnego. Miałem teraz w ręku obszerny i metodyczny fragment całkowitej historii nieznanej planety z jej budowlami i wojnami z przerażeniem jej mitologii i zgiełkiem jej języków, z jej cesarzami i morzami z jej minerałami, z jej ptakami i rybami, z jej algebrą i ogniem, z jej kontrowersyjnymi, teologicznymi i metafizycznymi poglądami.
   
   I Wszystko to na piśmie swoiste, bez widocznej intencji doktrynalnej parody stycznej. Dlaczego książka o prawie zaczyna się opowieścią jakiejś dziwnej encyklopedii, która opisywała jakiś dziwny świat? Ano, dlatego, że w tym opowiadaniu jak mówi borghese, zaczynają się dziać dziwne rzeczy.
   
