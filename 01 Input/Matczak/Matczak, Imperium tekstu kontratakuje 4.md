@@ -85,3 +85,35 @@
     - _Podział pracy językowej:_ Precyzowanie treści terminów specjalistycznych spoczywa na ekspertach (np. prawnikach odróżniających własność od posiadania), co stabilizuje obiektywne znaczenie poza potoczną intencją.
         
 - **Zastosowanie w prawie:** Zastąpienie poszukiwania intencji analizą konwencji i praktyki społecznej. Umożliwia to obiektywizację sporów o pojęcia fundamentalne i klauzule generalne (np. pojęcie małżeństwa, życia, godności, praworządności) przez eliminację czysto subiektywnych przekonań na rzecz koherencji pojęciowej oraz ewolucyjnej weryfikacji skutków danych interpretacji.
+
+
+
+
+
+W tekście czwartego wykładu pojawiły się jeszcze następujące szczegółowe wątki, dygresje, nazwiska i konkretne przykłady:
+
+- **Pismo a myślenie abstrakcyjne (badania w Kazachstanie):** Eksperyment przeprowadzony w społeczności w fazie przejścia od oralności do piśmienności. Osoby niepiśmienne na rysunek koła odpowiadały konkretnie („talerz”, „księżyc”), natomiast osoby piśmienne potrafiły dokonać abstrakcji i wskazywały pojęcie ogólne: „okrąg”.
+    
+- **Diagnoza Jacka Dukaja (_Po piśmie_):** Współczesna kultura odchodzi od pisma i wraca do stanu wtórnej oralności. Zastąpienie tekstu bezpośrednim przekazem obrazowym i audiowizualnym osłabia zdolność do abstrakcyjnego, systemowego myślenia, co stanowi bezpośrednie zagrożenie dla prawa opartego na abstrakcyjnych normach.
+    
+- **Krytyka pisma przez Platona:** Przypomnienie, że greccy filozofowie (w tym Platon) początkowo byli sceptyczni wobec pisma, argumentując, iż osłabi ono ludzką pamięć.
+    
+- **Dwa etapy filozofii Ludwiga Wittgensteina:**
+    
+    - _Wczesny Wittgenstein (Traktat logiczno-filozoficzny):_ Obrazkowa teoria znaczenia zainspirowana makietą wypadku samochodowego w paryskim sądzie; język jako statyczny model i odbicie struktury świata.
+        
+    - _Późny Wittgenstein (Dociekania filozoficzne):_ Język jako narzędzie w działaniu; słynny przykład robotników na budowie wykrzykujących „belka!”, „cegła!”, gdzie znaczenie wynika z reakcji i praktyki, a nie teoretycznej znajomości gramatyki.
+        
+- **Pojęcia puste w historii nauki i prawie:**
+    
+    - _Flogiston:_ Przekonanie o istnieniu hipotetycznej substancji uwalnianej podczas spalania, które porzucono po odkryciu tlenu i reakcji chemicznych.
+        
+    - _Czarownice w Salem:_ Używanie słów niemających desygnatu w rzeczywistości, które mimo braku oparcia w faktach prowadziły do realnych, tragicznych skutków (palenie na stosie).
+        
+- **Osobista anegdota o nauce konwencji powitań:** Autor wspomina dziecięce przekonanie, że zwrot „dzień dobry” należy wypowiadać do każdego przechodnia o dowolnej porze (w tym w nocy), co ilustruje proces uczenia się konwencji przez uczestnictwo w praktyce społecznej, a nie przez samą teorię.
+    
+- **Znajomość języka niemieckiego robotników z zachodniej Polski:** Przykład Polaków pracujących na budowach w Niemczech, którzy bezbłędnie używali skomplikowanych nazw narzędzi w działaniu, nie potrafiąc rozłożyć ich na części mowy ani wyjaśnić gramatyki.
+    
+- **Współczesne spory o desygnaty pojęć społeczno-prawnych:** Debata wokół granic pojęcia „kobieta” (spór o to, czy odnosi się wyłącznie do kobiet cispłciowych, czy także do transpłciowych) jako przykład bieżącej walki o treść i referencję pojęć w praktyce społecznej.
+    
+- **Spór Polski i Węgier z instytucjami Unii Europejskiej o definicję praworządności:** Próba traktowania pojęcia praworządności jako pustego hasła politycznego przez rządy narodowe kontra podejście holistyczne UE, wiążące praworządność w spójną sieć pojęciową z trójpodziałem władz i niezależnością sądów.
