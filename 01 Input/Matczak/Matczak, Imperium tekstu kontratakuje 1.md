@@ -6,16 +6,7 @@
 - tekst jest pewnym znakiem, wielkim znakiem drogowskazem postawionym w środku społeczeństwa, które ma koordynować nasze działania. Prawo polega na koordynacji. Główną funkcją prawa jest koordynacja. 
 - język, nasze największe odkrycie nasz największy wynalazek jest narzędziem koordynacji.
 - Krótko mówiąc, prawo może być rozumiane jako właśnie taki wielki tekst, który który nami nami koordynuje, a jeżeli jest to tekst no, to musimy wiedzieć, jak go czytać i w jaki sposób go urzeczywistniać. Jednym z głównych zadań filozofii prawa jest odpowiedzieć na to pytanie. 
-
-- Ja tę książkę zaczynam od cytatu z mojego ulubionego autora, czyli borgesa argentyńskiego pisarza wybitnego, który w roku 45 napisał opowiadanie, które przedstawia historię dziwnej encyklopedii, którą kiedyś odnalazł w jakimś starym antykwariacie i borges w tym opowiadaniu pisze. 2 lata wcześniej na stronicach pewnej encyklopedii plagiatu odkryłem zwięzły opis fikcyjnego kraju.
-  
-  Obecnie przypadek dostarczył mi czegoś bardziej jeszcze cennego i trudnego. Miałem teraz w ręku obszerny i metodyczny fragment całkowitej historii nieznanej planety z jej budowlami i wojnami z przerażeniem jej mitologii i zgiełkiem jej języków, z jej cesarzami i morzami z jej minerałami, z jej ptakami i rybami, z jej algebrą i ogniem, z jej kontrowersyjnymi, teologicznymi i metafizycznymi poglądami.
-  
-  I Wszystko to na piśmie swoiste, bez widocznej intencji doktrynalnej parody stycznej. Dlaczego książka o prawie zaczyna się opowieścią jakiejś dziwnej encyklopedii, która opisywała jakiś dziwny świat? Ano, dlatego, że w tym opowiadaniu jak mówi borghese, zaczynają się dziać dziwne rzeczy.
-  
-  Okazuje się, że ten świat, który jest opisane przez Tom encyklopedię, zaczyna się zdarzać. To znaczy to, co w książce zaczyna zdarzać się w rzeczywistości. To co w opisie zaczyna, zaczyna zdarzać się w świecie, czyli świat zaczyna się zmieniać zgodnie z tym, jak o nim opowiada tekst.
-  
-  Jeżeli przez chwilę pomyślicie o tym, to okaże się, że prawo jest dokładnie taką encyklopedią takim tekstem przedstawia pewien utopijny świat, w którym jest fantastycznie. 
+- Nawiązując do opowiadania Borgesa o fikcyjnej encyklopedii, która zaczyna materializować się w świecie, Matczak definiuje prawo jako projekt świata możliwego (przyszłego i pożądanego), który ma zostać zrealizowany w praktyce.
 
 
 - Prawnik staje przed takimi kwestiami, kiedy ma lukę w prawie, kiedy w tekście prawnym nie ma odpowiedzi na jakieś pytanie i tutaj filozofowie prawa bardzo dużo dyskutują i szeroko dyskutują. Mówiąc, czy powinien wtedy prawnik uzupełnić ten brak sam samodzielnie. Czy wtedy sobie nie uzurpuje władzy, którą ma prawodawca? Czy wtedy sędzia na przykład nie stawia się w roli w ogóle prawodawcy? A przecież nie powinien, bo nie jest wybierany i nie ma legitymacji demokratycznej, czy też właśnie powinien dlatego, że jeżeli nie domyśli, to całość będzie zupełnie bez sensu.
@@ -29,111 +20,9 @@
 
 
 
-20:57
 
-Bo służy komuś tak służy jako narzędzie interpretacji i przekazania tego, co w tekście ktoś inny napisał.Z 2 strony musi być twórczy.Tak?Czy z jednej strony musi być trochę tak jak księgowy, bo musi bardzo dokładnie ten tekst czytać musi z niego wyciągnąć to Wszystko co jest potrzebne z 2 strony musi być trochę artystą tak dlatego, że musi uzupełnić tam, gdzie ten tekst jest niewystarczający, a biorąc pod uwagę jakość tekstów prawniczych.
 
-21:22
 
-Jakość aktów prawnych to to często jest bardzo potrzebne, bo one po prostu bo one są, są słabe.Krótko mówiąc imperium tekstu, prawo jako postulowanie i urzeczywistnienie świata możliwego jest pewnym pomysłem na to, żeby traktować prawo jako Plan takiego świata możliwego, czyli świata, który może się zdarzyć, który będzie światem przyszłym, bo przecież jak powiedziałem, tekst opisuje świat fikcyjny, to ten świat jeszcze nie istnieje.
-
-21:46
-
-Five, którym te 2 elementy postulowanie mogą być traktowane jako odpowiednik tworzenia prawa.A urzeczywistnianie jako odpowiednik.Stosowania prawa pomiędzy nimi jest interpretacja, bo ten tekst ten znak musi być zrozumiany przetworzony przez jakieś głowy i następnie na tej podstawie musi być zastosowane i tam się dzieje bardzo dużo.
-
-22:07
-
-Natomiast na tym to ma na tym to ma polegać, więc ta książka.Przedstawia taką właśnie wizję, ale jak mówię, to nie jest wizja całkowicie obca.Pewne jej elementy się pojawiają, bo jeżeli ta książka mówi o postulowanie, to trzeba zadać sobie pytanie, jak dochodzić do tego, że my w ogóle postulujemy ten świat?
-
-22:24
-
-Kto go postuluje?Jak na przykład wygląda postulowanie świata możliwego przez prawo w systemie autorytarnym czy totalitarnym, gdzie tak naprawdę ten świat postuluje jeden człowiek albo wąska grupa?Jak to wygląda w świecie, który jest światem demokratycznym, w którym postuluje to?
-
-22:42
-
-Grupa czy czy naród czy suweren, jakie tam mechanizmy zachodzą, a żeby to było możliwe, jak to się dzieje, że ten cały mechanizm związany na przykład z wyborami pewnej opcji politycznej, w której ktoś głosuje na lewicę, ktoś głosuje na prawicę?Ktoś głosuje na centrum, gdzieś tam na końcu film spotyka się w Parlamencie i gdzieś tam podejmuje jakąś decyzję o ten tekst będzie teraz dla nas tekstem fundacyjnym tak, bo uchwalamy konstytucję, albo ten tekst będzie dla nas tekstem, który ma koordynować nasze działania.
-
-23:13
-
-Jak to się dzieje, kiedy jest dobrze, a kiedy jest źle tak, to to będą pytania, które będziemy sobie zadawali.Tak, czy jest różnica?Czy jest różnica pomiędzy tym, czy ważne rzeczy, czy ważne decyzje dotyczące naszego życia podejmowane są w drodze w Parlamencie, czy podejmowane są w sądzie?
-
-23:31
-
-Oczywiście, że jest różnica.Ostatnio mieliśmy doskonały przykład takiej takiej różnicy, mianowicie słynną decyzję Trybunału Konstytucyjnego dotyczącą aborcji.To było coś dziwnego w wielu wy szerokim sensie będziemy o tej decyzji rozmawiać jak o pewnym przykładzie, w którym prawdopodobnie albo albo nawet na pewno coś poszło nie tak z tą transmisją wartości.
-
-23:52
-
-Dlaczego to było możliwe?Dlatego, że w no jak to jest możliwe, że mamy naród, w którym większość ludzi opowiada się za liberalizacją aborcji?A prawo kończy z tą liberalizacją.Tak, czy to jest nasz nasz tekst, czy to jest nasz przewodnik, czy to jest nasze?
-
-24:10
-
-Czy to jest nasz postulat, czyli to jest postulat?Tak mój pana pani chill czyli to jest postulat kto go kto go wprowadził?Dlaczego teraz w świecie jest właśnie tak?Że kobieta, która jest w ciąży, może umrzeć dlatego, że lekarze boją się zakończyć ciążę wcześniej.
-
-24:30
-
-Dlaczego tak jest?To jest rzeczywistość.To jest bardzo brutalna rzeczywistość, która dzieje się dlatego, że zmieniony został tekst.To są to są bardzo kontrowersyjne tematy, bez względu na to, jaki kto ma pogląd na aborcję, ale to jest pytanie dla prawnika następujące 3 Wszystko zagrało właściwie w zakresie budowania tego postulatu, czy też ten postulat został w pewnym sensie wbrew woli?
-
-24:53
-
-Narodu czy suwerena zaproponowany poprzez to, że zepsuł się mechanizm transmisji?Zepsuł się mechanizm transmisji, bo w normalnym mechanizmie transmisji jest na przykład tak, że do władzy dochodzi demokratycznie.Dajmy na to partia prawicowa, która chce zaostrzenia przepisów aborcyjnych, ale są inne mechanizmy takie jak na przykład niezależny sąd Konstytucyjny, który nie ma poglądów prawicowych, dlatego, że jest specjalnie wybierany na kadencję dłuższą niż kadencja Parlamentu dziewięcioletnią, a nie czteroletnią, żeby zapewnić pewnego rodzaju zważenie postaw, jeżeli prawicowy rząd.
-
-25:28
-
-Proponuje zaostrzenie.To jest Nadzieja, że nie prawicowe albo przynajmniej neutralny.Sąd Konstytucyjny powie Hej, tak nie wolno tak, bo to narusza czyjeś prawa i to jeżeli wejdzie w życie to to nie będzie ten postulat, który jest zgodny na przykład z tym postulatem, który sobie postawiliśmy na poziomie Konstytucyjnym.
-
-25:46
-
-Ale jeżeli ktoś sobie uzurpował prawo do wyznaczenia tych, którzy siedzą w Trybunale specjalnie po, to, żeby to byli ludzie niezależni, ale myślący tak samo, a nawet wyrzucił z tego Trybunału.Ludzi, którzy mogli myśleć inaczej, to coś z tym mechanizmem dzieje się nie tak i wtedy ten zaczynamy mieć wątpliwość, czy ten postulat jest naszym postulatem i wychodzimy na ulicę i protestujemy i czujemy, że dzieje się jakaś niesprawiedliwość, prawda?
-
-26:13
-
-To są film.Mówię o tym, mając pełną świadomość kontrowersyjności tego tematu, ale po pierwsze to zawsze powoduje, że się bardziej angażuje.To jest jasne, bo to są emocje i przekonania, a po 2, żeby pokazać, że to, o czym rozmawiamy, to nie jest jakieś teoretyzowanie, tak.
-
-26:29
-
-W sensie ścisłym, to może być sprawa życia i śmierci.To może być sprawa życia i śmierci.Jeżeli jeżeli ktoś niewłaściwie ten proces przeprowadzi może zdarzyć się zło, którego byśmy byśmy nie chcieli pewną mądrością społeczeństw jest to, że potrafią się z tego wycofać.
-
-26:44
-
-Nawet jeżeli na początku myślą, że to jest dobre rozwiązanie, kiedy Stany Zjednoczone wprowadzały prohibicją, to wszyscy byli przekonani, że to jest fantastyczny pomysł.Tak, bo alkohol jest zły uzależnienia od alkoholu jest złe, ale nagle okazało się, że to nie jest świetny pomysł, że że ten świetny pomysł.Wdrożony, czyli świetny postulat urzeczywistniony w konkretnym świecie.
-
-27:03
-
-Nagle doprowadził do wzrostu przestępczości do rozwoju szarej strefy czarnej strefy i tak dalej i tak dalej i trzeba było się z tego wycofać.Dlaczego tak się dzieje?Tak jaki mechanizm to to to to to opisuje, to są rzeczy o których będziemy tutaj rozmawiali, bo wydaje mi się, że to podejście jest której, które proponuje w tej książce.
-
-27:23
-
-Ono ma tę jedną zaletę, że na pewno nie można powiedzieć, że ono jest oddalone od życia.Jest wiele takich.Ale wydaje mi się propozycji w teorii filozofii prawa, o które mogą się spotkać z zarzutem, że są.Pisane z perspektywy wieży z kości słoniowej znaczy są jakieś prawnicy, którzy siedzą właśnie za dużo o świecie nie wiedzą i budują pewnego rodzaju rozwiązania.
-
-27:44
-
-Natomiast kiedy patrzy się na prawo jak ona prawo w działaniu, a nie prawo w księgach, takie rozróżnienie też będziemy je dyskutować.Pochodzi od realistów prawniczych, którzy właśnie mówili, że jest to in the box, tak jak jest zapisane ile nation, tak jak jest stosowany, nieraz jest rozziew pomiędzy jednym i 2, zwłaszcza wtedy, kiedy system znowu nie działa właściwie na przykład wtedy, kiedy sędziowie przyznają sobie film więcej uprawnień niż mają.
-
-28:06
-
-Będziemy, ale ta wizja prawa jest wizją prawa, które łączy te 2 sfery.To prawo najpierw postuluje rzeczywistość, a później musi być ona urzeczywistniona i tutaj jest taka dialektyczno zależność.Ci, którzy postulują, muszą myśleć o tym, jak ono będzie urzeczywistnione i ci, którzy urzeczywistniają, oczywiście muszą myśleć o tym, jak ono było postulowane.
-
-28:25
-
-Ale czy jak mają to robić?Znowu jest wiele odpowiedzi.Niektórzy mówią, jeżeli chcesz zrozumieć, co mówi prawodawca, skup się na jego intencji.Woli prawodawcy.To jest wizja, która nam towarzyszy od wielu, wielu lat.Wiemy film już teraz, że bardzo trudno jest zidentyfikować intencje prawodawcy, dlatego, że to nie jest jeden człowiek.
-
-28:47
-
-Ee, że ta grupa ludzi, których intencje chcemy zidentyfikować, najczęściej nie żyje i nie jest już z nami, bo prawo nieraz jest przecież bardzo dawne.Dajmy na to konstytucja amerykańska ma ponad 200 lat.No i w jaki sposób ustalić, jakie były intencje tych ludzi?Poza tym trzeba by było dokonać agregacji tych intencji.
-
-29:03
-
-Jest to bardzo trudne, więc na przykład okazuje się, że i to między innymi ja też pokazuję w tej książce poświęcimy temu osobny wykład, czy interpretacja jest szukaniem intencji prawodawcy, czy też szukaniem.Z tego, co znaczą słowa w naszej praktyce, bo takich używam.
-
-29:20
-
-Ci, którzy uważają, że intencja stoi za interpretacją, mogą dziać się nie tylko na problem związany z identyfikacją, ale też na to, że nieraz niektórzy prawodawcy mają bardzo dziwne wyobrażenie o tym, co słowa znaczą, nie znają ich do końca albo nie wiedzą, w jaki sposób będą funkcjonowały.W rzeczywistości jest taki film, może to nie jest żart no, ale to jest dowcipny przykład, w którym można sobie wyobrazić, że mamy.
-
-29:43
-
-Polityka, który uważa, że na przykład zakaz cudzołóstwa dotyczy zakazu zdradzania w cudzym łożu, a w swoim można prawda bardzo tak zwana idio synka tyczna intencja.Tak my wiemy, że cudzołóstwo nie oznacza tego, co on sobie myśli, ale są tacy, którzy powiedzą, No ale on jest prawodawcą.
-
-30:01
 
 Być może jego umysł powinien kontrolować znaczenia naszych tekstów.Jeżeli on został wybrany, to nawet jak jest głupi, albo nie umie mówić do końca w naszym języku, to być może powinniśmy szanować to, jaka była jego intencja, jeżeli ją jeszcze.Wyraził inni w tym ja w tej książce nie, nie, nie, to tak nie działa.
 
@@ -704,31 +593,3 @@ Ktoś, kto proponuje skargę nadzwyczajną w naszym systemie działa zakładam w
 1:21:03
 
 Czy większy zysk polega na tym systemowy, że mam narzędzie korygowania niesprawiedliwości lokalnie.Czy na tym, że mam niestabilność systemowo?Tak, to są rzeczy, o których musimy rozmawiać, bo jak my nie patrzymy tylko na konkretne jedno rozwiązanie, tylko na na na system podsumowując.
-
-1:21:22
-
-Te wykłady będą zbudowane w oparciu o o imperium tekstu.Z takim przekonaniem, że po pierwsze będę starał wam się to prezentować w tej ramie metodologicznej aplikacji teorii ewolucji do tego, jak funkcjonuje prawo, jak funkcjonują instytucje prawnicze.
-
-1:21:38
-
-W mocnym przekonaniu, że Daniel dennett być może znacie Daniela Dennetta, jeżeli go nie znacie, to jest filozof.Warto go na pewno czytać.Ktoś kiedyś powiedział, że gdyby ludzkość napotkała życie, które by do nas przybyło z innej planety i trzeba by było wystosować kogoś, kto ma nas reprezentować, to powinien być to Daniel dennett, bo to jest jeden z najmądrzejszych ludzi, więc Daniel dennett mówi, że.
-
-1:21:58
-
-Najlepszą teorią, jaką kiedykolwiek mieliśmy jako ludzie jest teoria ewolucji jest najsilniej wyjaśniająca zjawiska w naszym świecie.Teoria, więc możemy mieć nadzieję, że także zastosowana do prawa da nam jakiś benefit.Jednocześnie składam tutaj wobec was publiczne przyrzeczenie, że postaram się nie skupiać za bardzo na swoich ideach, tylko traktować jako wehikuł i pokazywać wam w opozycji bardzo często, ale nie zawsze często też w spójności.
-
-1:22:23
-
-Te zagadnienia, które film, o których pisali inni filozofowie, którzy są w kurii kulom, których musicie znać.Mam nadzieję, że to pozwoli wam uczestniczyć w tym wykładzie trochę na zasadzie takiej konwersacyjne i w tym znaczeniu, że tutaj będą się toczyły rozmowy pomiędzy mną i tymi filozofami.
-
-1:22:39
-
-Wy będziecie ich świadkami?To jest wprawdzie wykład no, więc z natury rzeczy on jest bardziej monologiem.Natomiast jeżeli ktoś z was chciałby o coś zapytać, czy chciałby coś sprostować albo chciałby podać jakiś przykład, to jak najbardziej jest na to miejsce.Ja też obiecuję, że na końcu poświęcam zawsze moment na to, żeby jakieś pytania mogą być zadawane i teraz jest ten moment, czy są jakieś pytania?
-
-1:23:04
-
-To nie jest dobry prognostyk, bo nigdy nie wiadomo, czy po prostu było tak bez sensu, że nikt nic nie zrozumiał.Czy po prostu było tak oczywiste, że nikogo do niczego to nie zmobilizowało?Składam to na karb tego, że się widzimy po raz pierwszy, więc jest pewna nieśmiałość, która jest naturalna, którą.
-
-1:23:19
-
-Mam nadzieję będziemy mogli przezwyciężyć.
