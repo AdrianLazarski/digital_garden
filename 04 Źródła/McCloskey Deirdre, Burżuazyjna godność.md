@@ -93,10 +93,11 @@ year: "2011"
 
 ## 10. Brytyjscy ekonomiści nie dostrzegli przypływu
 
--  Ekonomiści szkoły klasycznej, mimo, że żyli w czasach ogromnego wzrostu, nie byli go w ogóle świadomi. Co więcej, hołdowali poglądom, że nie jest on możliwy 
+-  Ekonomiści szkoły klasycznej, mimo, że żyli w czasach ogromnego wzrostu, nie byli go w ogóle świadomi. Co więcej, hołdowali poglądom, że nie jest on możliwy. Trwało to do Marksa włącznie. Przewidywano co najwyżej dwu-trzykrotny wzrost tj. poruszanie się w dół krzywej krańcowego produktu kapitału; a nie szesnastokrotne przesunięcie w prawo całej krzywej.
 ## 11. Liczby mówią jednak za siebie
 
-
+- Konwencjonalna historiografia skupia się na bawełnie i żelazu, a w XVIII w. były duże przełomy również w innych gałęziach przemysłu np. piwowarskim.
+- Innowacje wychodziły głównie z warsztatów, a nie z laboratioriów.
 ## 12. Wysforowanie się Wielkiej Brytanii (i Europy) było chwilowe
 
 
