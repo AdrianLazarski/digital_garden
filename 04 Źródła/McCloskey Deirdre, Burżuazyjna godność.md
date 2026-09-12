@@ -98,6 +98,7 @@ year: "2011"
 
 - Konwencjonalna historiografia skupia się na bawełnie i żelazu, a w XVIII w. były duże przełomy również w innych gałęziach przemysłu np. piwowarskim.
 - Innowacje wychodziły głównie z warsztatów, a nie z laboratioriów.
+- Dużo danych o wzrostach w poszczególnych branżach w UK.
 ## 12. Wysforowanie się Wielkiej Brytanii (i Europy) było chwilowe
 
 
