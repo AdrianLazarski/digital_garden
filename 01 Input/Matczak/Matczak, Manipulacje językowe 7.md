@@ -129,3 +129,15 @@
 - Stanowisko prelegenta: odrzucenie relatywizmu i nieograniczonego pluralizmu pojęciowego jako błędu postmodernizmu.
     
 - Pojęcia to narzędzia wykonujące konkretną pracę w świecie empirycznym. Posiadanie w jednym aucie skrzyni manualnej i automatycznej jednocześnie pozbawione jest sensu użytkowego. Podobnie nie da się uznać, że równorzędną rację mają Komisja Europejska i Zbigniew Ziobro w sporze o praworządność – wygrywa to narzędzie pojęciowe, które lepiej stabilizuje system i służy wspólnocie w praktyce. Nikt nie rozpala ognia patykami, gdy dysponuje zapalniczką.
+
+
+
+- **Zjawisko _pink tax_ (różowego podatku) przy zabawkach:** Uwaga o rynkowej asymetrii cenowej – zabawki profilowane dla dziewczynek potrafią kosztować więcej niż ich funkcjonalne, neutralne odpowiedniki, co stanowi element ekonomicznego utrwalania binarnego podziału ról.
+    
+- **Kwestia brody i zarostu jako kulturowego zarządzania ciałem:** Obserwacja na marginesie analizy technologii cielesnych – makijaż u kobiet i zapuszczanie brody lub budowanie muskulatury u mężczyzn to symetryczne, historyczne narzędzia wpisywania jednostek w binarny kanon płciowy.
+    
+- **Szczegół z reklamy z chłopcem bawiącym się lalkami:** Prelegent przywołał zapamiętany spot reklamowy, w którym matka odbierała synowi lalki i wciskała pistolety oraz samochodziki, co zilustrowało mechanizm społecznej sankcji i moralnej dezaprobaty wobec odstępstw od tradycyjnej roli męskiej.
+    
+- **Pojęcie _prawa do błędu_ w medycynie a pojęcia:** Dygresja o tym, że nawet chora jednostka somatyczna (np. wada serca uniemożliwiająca pełne pompowanie krwi) nie traci swojego statusu bycia sercem, tak jak jednostkowe anomalie anatomiczne nie unieważniają potrzeby posiadania kategorii płciowych.
+    
+- **Kwestia handlarzy samochodów i „Niemca jeżdżącego do kościoła”:** Żartobliwe nawiązanie do rynku wtórnego aut – dominacja skrzyń automatycznych wynika z faktu, że większość kierowców nie potrzebuje sportowych emocji, lecz bezproblemowego dotarcia do celu.
