@@ -1,0 +1,400 @@
+{
+  "main": {
+    "id": "73915741c35cd37f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a5edfa6f5f929fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15a273497455cba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "d591f4b410f952ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Input/Matczak/Matczak, Manipulacje językowe 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Matczak, Manipulacje językowe 2"
+            }
+          },
+          {
+            "id": "cc286c7478e749f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Language lab/English grammar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "English grammar"
+            }
+          },
+          {
+            "id": "72ac57db629fec92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Matematyka/MOC Liczby.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Liczby"
+            }
+          },
+          {
+            "id": "224ff10684106530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory"
+            }
+          },
+          {
+            "id": "6e224e253f9677e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Ciąg.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ciąg"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79c04876f1b7e8bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "35e7bc884cfc5a61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40fde4cd44744f35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Przeglądarka plików"
+            }
+          },
+          {
+            "id": "6b7c399b1c5ae36e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "przetrwają",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Wyszukiwarka"
+            }
+          },
+          {
+            "id": "183c08002c64ddb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Ulubione"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "4ad49cb6801c593c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e6e2c716a11a308",
+        "type": "tabs",
+        "dimension": 59.71428571428572,
+        "children": [
+          {
+            "id": "0ea9f612283df2d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "07 Language lab/English grammar.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Konspekt"
+            }
+          },
+          {
+            "id": "26ffc829ba46e1d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
+            }
+          },
+          {
+            "id": "8db106c5c24ec0fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Wszystkie atrybuty"
+            }
+          },
+          {
+            "id": "b57d93541faef81d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linki zwrotne"
+            }
+          },
+          {
+            "id": "62e93e24efd6a5b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Filozofowie żydowscy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Łącza wychodzące"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d265702fc91191e6",
+        "type": "tabs",
+        "dimension": 40.285714285714285,
+        "children": [
+          {
+            "id": "003f709030cf3a71",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skróty klawiszowe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Skróty klawiszowe"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Otwórz paletę poleceń": false,
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "bases:Stwórz nową bazę danych": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "obisidian-note-linker:Note Linker": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cc286c7478e749f6",
+  "lastOpenFiles": [
+    "01 Input/Matczak/Matczak, Manipulacje językowe 2.md",
+    "01 Input/Matczak/Matczak, Manipulacje językowe 1.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 13.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 12.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 11.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 10.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 9.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 8.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 7.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 6.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 5.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 4.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 3.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 2.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
+    "04 Źródła/Hare, Woods, Przetrwają najżyczliwsi.md",
+    "02 MOC/MOC Matematyka/MOC Liczby.md",
+    "07 Language lab/English grammar.md",
+    "04 Źródła/Begg, Mikroekonomia.md",
+    "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
+    "index.md",
+    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
+    "Sofiofilia/Myśl polityczna.md",
+    "O stronie.md",
+    "ZZZ To do.md",
+    "robocza.md",
+    "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
+    "04 Źródła/załączniki/Ciąg niemalejący.webp",
+    "04 Źródła/załączniki/Ciąg rosnący.webp",
+    "04 Źródła/załączniki/Ciąg ograniczony.webp",
+    "04 Źródła/załączniki/Ciąg ograniczony z góry.webp",
+    "04 Źródła/załączniki/Ciąg ograniczony z dołu.webp",
+    "04 Źródła/załączniki/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory-9.webp",
+    "04 Źródła/załączniki/Ciąg liczbowy.webp",
+    "04 Źródła/załączniki/Funkcja Riemanna.webp",
+    "04 Źródła/załączniki/Funkcja Dirichleta.webp",
+    "04 Źródła/załączniki/~$onia recenzja.docx",
+    "04 Źródła/załączniki/Agonia recenzja.docx",
+    "02 MOC/MOC Logika",
+    "02 MOC/MOC Prawo"
+  ]
+}
