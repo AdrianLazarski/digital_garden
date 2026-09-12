@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Language lab/English grammar.md",
+                "file": "01 Input/Matczak/Matczak, Manipulacje językowe 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,8 +354,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc286c7478e749f6",
+  "active": "d591f4b410f952ca",
   "lastOpenFiles": [
+    "07 Language lab/English grammar.md",
     "01 Input/Matczak/Matczak, Manipulacje językowe 2.md",
     "01 Input/Matczak/Matczak, Manipulacje językowe 1.md",
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 13.md",
@@ -373,7 +374,6 @@
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
     "04 Źródła/Hare, Woods, Przetrwają najżyczliwsi.md",
     "02 MOC/MOC Matematyka/MOC Liczby.md",
-    "07 Language lab/English grammar.md",
     "04 Źródła/Begg, Mikroekonomia.md",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "index.md",
