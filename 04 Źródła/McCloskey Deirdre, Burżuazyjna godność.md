@@ -25,6 +25,12 @@ year: "2011"
 - Za 3$ ludzie nie żyli tylko w starożytnym Rzymie, wczesnym świecie arabskim i środkowośredniowiecznej Europie.
 - McCloskey przez burżuazję rozumie zatrudniających, posiadających, wykwalifikowanych lub wykształconych – stosunki produkcji nie mówią już wiele o świadomości i perspektywie najemnej siły roboczej. 
 - W XVII w. w Holandii i Anglii przekonania stały się łaskawsze dla burżuazji i miast.
-- XVII-wieczne Chiny, XV-wieczne północne Włochy, X-wieczny świat arabski i Rzym I wieku miały niskie stopy procentowe i dobrze skonstruowane prawa własności, ale bez przemiany ideologicznej 
+- XVII-wieczne Chiny, XV-wieczne północne Włochy, X-wieczny świat arabski i Rzym I wieku miały niskie stopy procentowe i dobrze skonstruowane prawa własności, ale bez przemiany ideologicznej kapitalizm się tam nie pojawił.
+- Robert Lucas: by doświadczyć zmian w dochodzie ludzie muszą zmienić sposób wyobrażania sobie swojego przyszłego życia. "Rozwój gospodarczy wymaga >>miliona buntów<<".
+
+## Rozdział 2
+
+- Godność czynnikiem socjologicznym, wolność ekonomicznym.
+- VIII-VII w. przed Chr. to pojawienie się metalowych monet jednocześnie w Chinach, 
 
 

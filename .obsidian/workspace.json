@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 11.md",
+                "file": "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Matczak, Imperium tekstu kontratakuje 11"
+              "title": "McCloskey Deirdre, Burżuazyjna godność"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "przetrwają",
+                "query": "burżuazyjna",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -207,7 +207,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 11.md",
+                "file": "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -356,8 +357,8 @@
   },
   "active": "d591f4b410f952ca",
   "lastOpenFiles": [
-    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 10.md",
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 11.md",
+    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 10.md",
     "01 Input/Matczak/Matczak, Manipulacje językowe 12.md",
     "01 Input/Matczak/Matczak, Manipulacje językowe 11.md",
     "01 Input/Matczak/Matczak, Manipulacje językowe 10.md",
