@@ -65,10 +65,22 @@ year: "2011"
 ## 6. Świat jest obecnie co najmniej szesnaście razy bardziej rozwinięty
 
 - Realny dochód przeciętnej osoby jest dziś 16 razy większy, niż w XVIII/XIX w.
-- Steven Payson, 1994: badał wzrost jakości dóbr od 1928 do 1993 r. Dla obuwia, sof,  kanap, kuchenek gazowych
+- Steven Payson, 1994: badał wzrost jakości dóbr od 1928 do 1993 r. Dla obuwia, sof,  kanap, kuchenek gazowych jakość podwajała się w mniej niż 30 lat.
+	- Wentylatory i klimatyzatory poprawiły swoją jakość 88-krotnie!
+	- Urządzenia obrazujące zaliczyły największy wzrost roczny 9,25%, szczególnie w latach 1969-1973.
+- Ludzie płaczą, że w latach 1970-1992 była stagnacja i wzrost 1% rocznie, ale jakby uwzględnić wzrost jakości towarów, to realna płaca wzrosła o 1/3.
+
 ## 7. Istotne było poszerzenie zakresu możliwości, a nie wzrost „szczęścia” rozumianego jako zasób przyjemności
 
-
+- Wzrost dochodów przekłada się na wzrost ambicji, więc nie przekłada się bezpośrednio na poziom szczęścia.
+- Wszystkie społeczeństwa wyrastają poza samo przetrwanie, dlatego kategoria konsumpcjonizmu nie ma sensu.
+- Istotne statystycznie =/= istotne naukowe
+- Czas rozkwitu kultury wysokiej to czas ożywionego handlu.
+- W OECD jest więcej ludzi z wyższym wykształceniem, niż w 1800 r. wszystkich ludzi w całej Europie. Aktywność kulturalna ma się lepiej, niż kiedykolwiek.
+- W 1985 r. amerykańska elita (1,5% populacji) konsumowała 3,8 raza tyle, co przeciętny obywatel. W ZSRR tak samo. W Chinach 10 razy tyle.
+- Kwame Nkrumah (1909-1972) w latach 1955-1966 doprowadził do ruiny Ghanę, jeden z najbogatszych krajów Afryki.
+- W latach 1979-2022 maksymalny dochód per capita spadł do 20%.
+- 
 
 
 
