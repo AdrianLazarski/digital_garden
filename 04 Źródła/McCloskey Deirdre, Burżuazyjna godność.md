@@ -77,25 +77,23 @@ year: "2011"
 - Istotne statystycznie =/= istotne naukowe
 - Czas rozkwitu kultury wysokiej to czas ożywionego handlu.
 - W OECD jest więcej ludzi z wyższym wykształceniem, niż w 1800 r. wszystkich ludzi w całej Europie. Aktywność kulturalna ma się lepiej, niż kiedykolwiek.
-- W 1985 r. amerykańska elita (1,5% populacji) konsumowała 3,8 raza tyle, co przeciętny obywatel. W ZSRR tak samo. W Chinach 10 razy tyle.
-- Kwame Nkrumah (1909-1972) w latach 1955-1966 doprowadził do ruiny Ghanę, jeden z najbogatszych krajów Afryki.
-- W latach 1979-2022 maksymalny dochód per capita spadł do 20%.
-- 
-
-
-
-
 
 ## 8. A biedni zwyciężyli
 
-
+- W 1985 r. amerykańska elita (1,5% populacji) konsumowała 3,8 raza tyle, co przeciętny obywatel. W ZSRR tak samo. W Chinach 10 razy tyle.
+- Kwame Nkrumah (1909-1972) w latach 1955-1966 doprowadził do ruiny Ghanę, jeden z najbogatszych krajów Afryki.
+- W latach 1979-2022 maksymalny dochód per capita spadł do 20%.
+- Marks nigdy nie użył słowa _Kapitalismus_, tylko mówił o _Kapital_ i _Kapitalische_.
+- Za to Carlyre w 1843 r. mówił o _mammonism_.
 ## 9. Zatem twórcze niszczenie można uzasadnić względami utylitarnymi
 
-
+- "Twórcze zniszczenie"  ukute przez Sombarta, Schumpeter spopularyzował.
+- Utylitaryzm czynów/bezpośredni - bilans pozytywny, gdy tak wskaże suma zwycięzców i przegranych. Zastosowany do gospodarki upolitycznia ją i podsyca zawiść.
+- Utylitaryzm reguł - decyzje etyczne i polityczne na poziomie tworzenia reguł dotyczących czynów. Konsekwencje łatwiejsze do zaakceptowania, a więc i łatwiejsze porozumienie. 
 
 ## 10. Brytyjscy ekonomiści nie dostrzegli przypływu
 
-
+-  Ekonomiści szkoły klasycznej, mimo, że żyli w czasach ogromnego wzrostu, nie byli go w ogóle świadomi. Co więcej, hołdowali poglądom, że nie jest on możliwy 
 ## 11. Liczby mówią jednak za siebie
 
 
