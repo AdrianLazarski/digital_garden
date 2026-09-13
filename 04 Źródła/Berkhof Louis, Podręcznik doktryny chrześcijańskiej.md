@@ -470,11 +470,27 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 	- Grzeszne czyny są pod Bożą kontrolą (I Mojż. 45:5, I Mojż. 50:20,; II Mojż. 14:17, Iz. 66:4, Rzym. 2:4, Rzym. 9:22, II Tes. 2:11)
 	- Bóg powściąga czyny grzeszne: I Mojż. 6:3, Job 1:12, Job. 2:6, Ps. 76:10, Iz. 10:15, Dz. 7:51
 	- Przemienia zło w dobro: I Mojż. 50:20, Ps. 76:10; Dz. 3:13
-- Boży zarząd
+- Boży zarząd - zarządza wszystkimi stworzeniami w ten sposób, że odpowiadają na cel swojego istnienia.
+	- Idea, że w NT zwierzchność zmieniła się w Ojcostwo nie zgadza się z ustępami: Mat. 6:33, I Tym. 1:17, I Tym. 6:15, Obj. 19:6
+	- Bóg dopasowuje swoje rządy do natury stworzeń, nad którymi panuje. 
+	- Zarząd ten jest uniwersalny Ps. 103:19, Ps. 22:28-29, Dan. 4:34-35
+	- obejmuje też jednak sprawy szczegółowe: 
+		- najważniejsze Mat. 10:29-31
+		- pozornie przypadkowe Przyp. 16:33
+		- dobre uczynki Fil. 2:13
+		- złe Dz. 14:16
+	- Panuje nad Izraelem Iz. 33:22 i nad narodami Ps. 47:9.
+
+- McPherson: "Cud jest czymś uczynionym bez odwołania się do standardowych środków działania, efektem wywołanym bezpośredio przez pierwszą przyczynę, bez pośrednictwa, a przynajmniej nie standardowego przyczyn wtórnych".
+- Akt woli Boga wywołujący cud nie gwałci praw natury. Człowiek też może rzucić piłką do góry, mimo prawa grawitacji. 
+
 # 3. Doktryna człowieka w relacji do Boga
 
 ## 3.1 Człowiek w jego stanie pierwotnym
 
+### 3.1.2 Podstawy natury ludzkiej
+
+- Człowiek składa się z ciała i duszy Mat. 6:25, Mat. 20:28, czy z ciał i ducha Kazn.
 
 ## 3.2 Człowiek w stanie grzechu
 
