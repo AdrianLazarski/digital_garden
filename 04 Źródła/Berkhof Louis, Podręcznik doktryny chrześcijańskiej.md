@@ -490,7 +490,12 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 ### 3.1.2 Podstawy natury ludzkiej
 
-- Człowiek składa się z ciała i duszy Mat. 6:25, Mat. 20:28, czy z ciał i ducha Kazn.
+- Człowiek składa się z ciała i duszy Mat. 6:25, Mat. 20:28, czy z ciała i ducha Kazn. 12:7, I Kor. 5:3-5
+- Duch i dusza to to samo, bo części są dwie: Rzym. 8:10, I Kor. 5:5, I Kor. 7:34, II Kor. 7:1. Ef. 2:3, Kol. 2:5
+- Śmierć jest opisywana czasem jako oddanie duszy: I Mojż. 35:18, I Król. 17:21, Dz. 15:26 lub ducha Ps. 31:5, Łuk. 23:46, Dz. 7:59
+- Ponadto Obj. 9:6, Obj. 20:4, I Piotra 3:19, Hebr. 12:23.
+- Duch akcentuje bardziej zasadę życia i działania kontrolującą ciało, a dusza substancję myślącą, czującą i mającą wolę, ewentualnie ośrodek emocji I Mojż. 2:7, Ps. 62:1, Ps. 63:1, Ps. 103:1-2
+- 
 
 ## 3.2 Człowiek w stanie grzechu
 
