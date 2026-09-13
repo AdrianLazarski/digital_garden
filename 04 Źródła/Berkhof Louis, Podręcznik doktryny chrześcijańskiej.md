@@ -449,7 +449,19 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 ### 2.2.4 Opatrzność
 
-
+- Opatrzoność to dzieło Boże, przez które zachowuje wszystkie stworzenia rozumne, jest czynne we wszystkim co zachodzi w świecie i kieruje wszystkimi rzeczami ku ich celom.
+- Boża opatrzność zarządza i kontroluje:
+	- wszechświat w ogólności Ps. 103:19, Ef. 1:11
+	- świat materialny Ps. 104:14, Mat. 5:45
+	- proste stworzenia Ps. 104:21-28, Mat. 6:26
+	- sprawy narodów Job. 12:23, Dz. 17:6
+	- narodziny i wypadki w życiu człowieka Ps. 139:16, Gal. 1:15-16
+	- sprawy pozornie przypadkowe i nieistotne Przyp. 16:33, Mat. 10:30
+	- obronę sprawiedliwych Ps. 4:8, Ps. 121:3, Rzym. 8:28
+	- wspomaganie ludu Bożego w jego potrzebach V Mojż. 9:3, Fil. 4:19
+	- odpowiadanie na modlitwę: Ps. 65:2, Mat. 7:7
+	- ujawnianie i karanie występnych Ps. 7:12-13, Ps. 11:6
+- Boże zachowanie oznacza, że Bóg podtrzymuje istnienie stworzenia.
 
 # 3. Doktryna człowieka w relacji do Boga
 
