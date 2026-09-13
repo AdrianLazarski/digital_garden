@@ -513,7 +513,7 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 ### 3.1.2 Człowiek jako obraz Boży
 
-
+- 
 
 ## 3.2 Człowiek w stanie grzechu
 
