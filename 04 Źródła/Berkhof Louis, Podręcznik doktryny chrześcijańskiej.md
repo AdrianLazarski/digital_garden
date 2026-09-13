@@ -461,7 +461,8 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 	- wspomaganie ludu Bożego w jego potrzebach V Mojż. 9:3, Fil. 4:19
 	- odpowiadanie na modlitwę: Ps. 65:2, Mat. 7:7
 	- ujawnianie i karanie występnych Ps. 7:12-13, Ps. 11:6
-- Boże zachowanie oznacza, że Bóg podtrzymuje istnienie stworzenia.
+- Boże zachowanie oznacza, że Bóg podtrzymuje istnienie stworzenia. Ps. 63:8, Neh. 9:6, Dz. 17:28, Kol. 1:17, Hebr. 1:3
+- Boże współdziałanie
 
 # 3. Doktryna człowieka w relacji do Boga
 
