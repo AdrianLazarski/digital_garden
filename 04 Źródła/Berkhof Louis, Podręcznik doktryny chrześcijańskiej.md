@@ -446,7 +446,10 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 - Pismo używa czasem słowa "dzień" dla oznaczenia nieokreślonego okresu (Ps. 50:15, Kazn. 7:14, Zach. 4:10).
 - Słońce zostało stworzone czwartego dnia, więc długość poprzednich dni nie może być wyznaczona w relacji do pozycji słońca.
 - Dwa powyższe punkty nie podobają się Berkhofowi xD
-- 
+
+### 2.2.4 Opatrzność
+
+
 
 # 3. Doktryna człowieka w relacji do Boga
 

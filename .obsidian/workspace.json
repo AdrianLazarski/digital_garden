@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "01 Input/!!Random/00. Lektury ❗.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "00. Lektury ❗"
+            }
+          },
+          {
+            "id": "9cdbf2b229fef705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
             }
           },
           {
@@ -207,8 +231,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
+                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -355,8 +378,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d591f4b410f952ca",
+  "active": "9cdbf2b229fef705",
   "lastOpenFiles": [
+    "01 Input/!!Random/00. Lektury ❗.md",
+    "Aktualnie opracowywane.md",
+    "index.md",
+    "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 11.md",
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 10.md",
     "01 Input/Matczak/Matczak, Manipulacje językowe 12.md",
@@ -379,10 +406,6 @@
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 7.md",
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 6.md",
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 5.md",
-    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 4.md",
-    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 3.md",
-    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 2.md",
-    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 1.md",
     "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
     "04 Źródła/załączniki/Ciąg niemalejący.webp",
     "04 Źródła/załączniki/Ciąg rosnący.webp",
