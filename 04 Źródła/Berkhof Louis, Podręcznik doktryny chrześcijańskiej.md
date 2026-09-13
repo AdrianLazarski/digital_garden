@@ -481,7 +481,7 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 		- złe Dz. 14:16
 	- Panuje nad Izraelem Iz. 33:22 i nad narodami Ps. 47:9.
 
-- McPherson: "Cud jest czymś uczynionym bez odwołania się do standardowych środków działania, efektem wywołanym bezpośredio przez pierwszą przyczynę, bez pośrednictwa, a przynajmniej nie standardowego przyczyn wtórnych".
+- McPherson: "Cud jest czymś uczynionym bez odwołania się do standardowych środków działania, efektem wywołanym bezpośrednio przez pierwszą przyczynę, bez pośrednictwa, a przynajmniej nie standardowego przyczyn wtórnych".
 - Akt woli Boga wywołujący cud nie gwałci praw natury. Człowiek też może rzucić piłką do góry, mimo prawa grawitacji. 
 
 # 3. Doktryna człowieka w relacji do Boga
@@ -495,7 +495,13 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 - Śmierć jest opisywana czasem jako oddanie duszy: I Mojż. 35:18, I Król. 17:21, Dz. 15:26 lub ducha Ps. 31:5, Łuk. 23:46, Dz. 7:59
 - Ponadto Obj. 9:6, Obj. 20:4, I Piotra 3:19, Hebr. 12:23.
 - Duch akcentuje bardziej zasadę życia i działania kontrolującą ciało, a dusza substancję myślącą, czującą i mającą wolę, ewentualnie ośrodek emocji I Mojż. 2:7, Ps. 62:1, Ps. 63:1, Ps. 103:1-2
-- 
+- Trychotomizm - pogląd, że człowiek składa się z ciała, duszy i ducha. Uzasadniany I Tes. 5:23 i Hebr. 4:12.
+	- Wymienianie trzech funkcji nie oznacza trzech odrębnych elementów.
+	- Ad. Hebr 4:12 Słowo Boże nie rozdziela duszy od ducha, tylko myśli od intencji serca.
+
+- Trzy teorie pochodzenia duszy ludzkiej:
+	- Preegzystencjalizm - miałoby to tłumaczyć czemu wszyscy się rodzą grzesznikami. Mało popularne
+	- Traducjanizm - dusze mnożą się równolegle z ciałami. Bóg zaprzestał dzieła stworzenia po tym, jak uczynił człowieka I Mojż. 2:2 i Biblia nic nie mówi o stworzeniu duszy Ewy I Mojż. 2:23, I Kor. 11:8 oraz o potomkach mówi się, że są w lędźwiach ojców I Mojż. 46:26, Hebr. 7:9-10. Poza tym zwierzęta sobie przekazują zarówno ciała, jak i dusze oraz dziedziczy  się grzech, a to sprawa duszy. 
 
 ## 3.2 Człowiek w stanie grzechu
 
