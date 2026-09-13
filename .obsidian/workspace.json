@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "file": "02 MOC/MOC Ekonomia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
+              "title": "MOC Ekonomia"
             }
           },
           {
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "file": "02 MOC/MOC Ekonomia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -380,8 +380,14 @@
   },
   "active": "9cdbf2b229fef705",
   "lastOpenFiles": [
-    "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
+    "02 MOC/00 MOC.md",
+    "02 MOC/MOC Filozofia.md",
+    "02 MOC/MOC Filozofia/MOC Filozofowie.md",
+    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+    "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
     "01 Input/!!Random/00. Lektury ❗.md",
     "Aktualnie opracowywane.md",
     "index.md",
@@ -400,12 +406,6 @@
     "01 Input/Matczak/Matczak, Manipulacje językowe 2.md",
     "07 Language lab/English grammar.md",
     "01 Input/Matczak/Matczak, Manipulacje językowe 1.md",
-    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 13.md",
-    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 12.md",
-    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 9.md",
-    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 8.md",
-    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 7.md",
-    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 6.md",
     "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
     "04 Źródła/załączniki/Ciąg niemalejący.webp",
     "04 Źródła/załączniki/Ciąg rosnący.webp",

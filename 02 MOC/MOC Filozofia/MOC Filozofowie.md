@@ -7,13 +7,6 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 14:09
 ---
-**Spis treści**
-
-1. [Tematami](#Tematami)
-2. [Narodowościowo](#Narodowo%C5%9Bciowo)
-3. [Nurtami](#Nurtami)
-4. [Inne kryteria](#Inne%20kryteria)
-
 
 # 1. Epokami
 
