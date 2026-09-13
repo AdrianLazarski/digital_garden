@@ -449,7 +449,6 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 ### 2.2.4 Opatrzność
 
-- Opatrzoność to dzieło Boże, przez które zachowuje wszystkie stworzenia rozumne, jest czynne we wszystkim co zachodzi w świecie i kieruje wszystkimi rzeczami ku ich celom.
 - Boża opatrzność zarządza i kontroluje:
 	- wszechświat w ogólności Ps. 103:19, Ef. 1:11
 	- świat materialny Ps. 104:14, Mat. 5:45
@@ -461,9 +460,17 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 	- wspomaganie ludu Bożego w jego potrzebach V Mojż. 9:3, Fil. 4:19
 	- odpowiadanie na modlitwę: Ps. 65:2, Mat. 7:7
 	- ujawnianie i karanie występnych Ps. 7:12-13, Ps. 11:6
+- Opatrzoność to dzieło Boże, przez które 
+	- zachowuje wszystkie stworzenia rozumne, 
+	- jest czynne we wszystkim co zachodzi w świecie i 
+	- kieruje wszystkimi rzeczami ku ich celom.
 - Boże zachowanie oznacza, że Bóg podtrzymuje istnienie stworzenia. Ps. 63:8, Neh. 9:6, Dz. 17:28, Kol. 1:17, Hebr. 1:3
-- Boże współdziałanie
-
+- Boże współdziałanie oznacza, że współpracuje on ze stworzeniem we wszystkim, nawet w złych czynach. Bóg jest zawsze pierwszą przyczyną, nie dzieli się ze stworzeniem po równo. Jeśli jednak Bóg współpracuje z człowiekiem, to odpowiedzialność moralna jest po stronie tego drugiego, a nie Boga.
+	- Bóg działa we wszystkim i wszystkich: Ps. 104:20-30, Am. 3:6, V Mojż. 8:18, Mat. 5:45, Mat. 10:29, Dz. 14:17
+	- Grzeszne czyny są pod Bożą kontrolą (I Mojż. 45:5, I Mojż. 50:20,; II Mojż. 14:17, Iz. 66:4, Rzym. 2:4, Rzym. 9:22, II Tes. 2:11)
+	- Bóg powściąga czyny grzeszne: I Mojż. 6:3, Job 1:12, Job. 2:6, Ps. 76:10, Iz. 10:15, Dz. 7:51
+	- Przemienia zło w dobro: I Mojż. 50:20, Ps. 76:10; Dz. 3:13
+- Boży zarząd
 # 3. Doktryna człowieka w relacji do Boga
 
 ## 3.1 Człowiek w jego stanie pierwotnym
