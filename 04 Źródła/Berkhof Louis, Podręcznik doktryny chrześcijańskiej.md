@@ -488,7 +488,7 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 ## 3.1 Człowiek w jego stanie pierwotnym
 
-### 3.1.2 Podstawy natury ludzkiej
+### 3.1.1 Podstawy natury ludzkiej
 
 - Człowiek składa się z ciała i duszy Mat. 6:25, Mat. 20:28, czy z ciała i ducha Kazn. 12:7, I Kor. 5:3-5
 - Duch i dusza to to samo, bo części są dwie: Rzym. 8:10, I Kor. 5:5, I Kor. 7:34, II Kor. 7:1. Ef. 2:3, Kol. 2:5
@@ -501,7 +501,19 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 - Trzy teorie pochodzenia duszy ludzkiej:
 	- Preegzystencjalizm - miałoby to tłumaczyć czemu wszyscy się rodzą grzesznikami. Mało popularne
-	- Traducjanizm - dusze mnożą się równolegle z ciałami. Bóg zaprzestał dzieła stworzenia po tym, jak uczynił człowieka I Mojż. 2:2 i Biblia nic nie mówi o stworzeniu duszy Ewy I Mojż. 2:23, I Kor. 11:8 oraz o potomkach mówi się, że są w lędźwiach ojców I Mojż. 46:26, Hebr. 7:9-10. Poza tym zwierzęta sobie przekazują zarówno ciała, jak i dusze oraz dziedziczy  się grzech, a to sprawa duszy. 
+	- Traducjanizm - dusze mnożą się równolegle z ciałami. Bóg zaprzestał dzieła stworzenia po tym, jak uczynił człowieka I Mojż. 2:2 i Biblia nic nie mówi o stworzeniu duszy Ewy I Mojż. 2:23, I Kor. 11:8 oraz o potomkach mówi się, że są w lędźwiach ojców I Mojż. 46:26, Hebr. 7:9-10. Poza tym zwierzęta sobie przekazują zarówno ciała, jak i dusze oraz dziedziczy  się grzech, a to sprawa duszy, a nie ciała. 
+		- Argumenty przeciwko są megasłabe: 
+			- "albo czyni rodziców w pewnym sensie stwórcami duszy dziecka, albo wychodzi z założenia, że dusze rodziców mogą podzielić się na kilka dusz" xD
+			- zakłada, ze Bóg działał ledwie pośrednio po stworzeniu świata. W rzeczywistości często działał bezpośrednio
+			- Czyni trudnym obronienie bezgrzeszności Jezusa, jeśli ma ciało i duszę od grzesznej Marii.
+		- Kreacjonizm – każda dusza jest bezpośrednim tworem Boga, ale momentu aktu twórczego nie można ściśle wyznaczyć. Każda jest tworzona czysta, ale staje się grzeszna jeszcze przed narodzinami przez okoliczności, którymi jest obarczona ludzkość jako taka. Biblia opisuje ciało i dusze jako mające różne miejsca pochodzenia: Kazn. 12:7, Iz. 42:5, Zach. 12:1, Hebr. 12:9, IV Mojż. 16:22.
+			- Trudno w niej uwzględnić dziedziczenie cech mentalnych i moralnych.
+			- Przypisuje zwierzętom większą sprawczość, gdyż rozmnażają się one zarówno cieleśnie, jak duchowo.
+			- Czyni to Boga częściowo odpowiedzialnym za grzech, bo wikła on czystą duszę w okoliczności prowadzące do jej zepsucia.
+
+### 3.1.2 Człowiek jako obraz Boży
+
+
 
 ## 3.2 Człowiek w stanie grzechu
 
