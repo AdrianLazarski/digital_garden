@@ -174,8 +174,33 @@
               "icon": "lucide-file",
               "title": "Ciąg"
             }
+          },
+          {
+            "id": "b518c88b1868e2b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Liczby naturalne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Liczby naturalne"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -209,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "przetrwają",
+                "query": "wittgenstein",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -230,7 +255,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Input/!!Random/00. Lektury ❗.md",
+                "file": "03 Atomy/Liczby naturalne.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -377,17 +403,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40fde4cd44744f35",
+  "active": "6b7c399b1c5ae36e",
   "lastOpenFiles": [
-    "02 MOC/MOC Ekonomia.md",
+    "03 Atomy/Ciąg.md",
+    "01 Input/!!Random/00. Lektury ❗.md",
     "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
+    "02 MOC/MOC Ekonomia.md",
     "07 Language lab/English grammar.md",
     "02 MOC/MOC Matematyka/MOC Liczby.md",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
-    "03 Atomy/Ciąg.md",
     "04 Źródła/Hare, Woods, Przetrwają najżyczliwsi.md",
     "06 Bazy danych/C Sharp baza.base",
-    "01 Input/!!Random/00. Lektury ❗.md",
     "02 MOC/00 MOC.md",
     "02 MOC/MOC Filozofia.md",
     "02 MOC/MOC Filozofia/MOC Filozofowie.md",
