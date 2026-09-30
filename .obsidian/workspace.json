@@ -199,8 +199,7 @@
               "title": "Liczby naturalne"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,8 +254,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Liczby naturalne.md",
+                "file": "01 Input/!!Random/00. Lektury ❗.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -403,8 +401,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b7c399b1c5ae36e",
+  "active": "15a273497455cba1",
   "lastOpenFiles": [
+    "03 Atomy/Liczby naturalne.md",
     "03 Atomy/Ciąg.md",
     "01 Input/!!Random/00. Lektury ❗.md",
     "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
@@ -431,7 +430,6 @@
     "01 Input/Matczak/Matczak, Manipulacje językowe 9.md",
     "01 Input/Matczak/Matczak, Manipulacje językowe 8.md",
     "01 Input/Matczak/Matczak, Manipulacje językowe 7.md",
-    "01 Input/Matczak/Matczak, Manipulacje językowe 6.md",
     "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
     "04 Źródła/załączniki/Ciąg niemalejący.webp",
     "04 Źródła/załączniki/Ciąg rosnący.webp",
