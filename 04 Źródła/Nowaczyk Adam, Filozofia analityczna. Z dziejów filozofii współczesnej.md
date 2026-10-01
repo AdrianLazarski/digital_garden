@@ -457,4 +457,392 @@ Był natomiast ostrym krytykiem koncepcji, które nie budziły w nim zachwytu, j
 
 
 
-#filozofia #filozofia/współczesna #filozofia/polska #filozofia/analityczna #filozofia/historia_filozofii 
+- Your Highlight on page 31-31 | Added on Thursday, 24 March 2022 18:20:18
+
+Moore fascynował się filozofią znacznie odeń młodszego Wittgensteina, aczkolwiek trudno byłoby wskazać coś, co od niego zapożyczył. Jego własna filozofia była przede wszystkim produktem refleksji nad poglądami innych filozofów (Berkeleya, Hume’a, Kanta i wspomnianych neoheglistów) i wynikała ze zdziwienia faktem, że pewni filozofowie głoszą poglądy pozostające w konflikcie ze zdrowym rozsądkiem. Dlatego filozofię Moore’a określa się mianem „filozofii zdrowego rozsądku” (common sense philosophy). Aby ów konflikt ujawnić, Moore
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 31-31 | Added on Thursday, 24 March 2022 18:20:29
+
+posługiwał się drobiazgową analizą pojęć i sądów zmierzającą do wykrycia autentycznego znaczenia wyrażeń
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 32-32 | Added on Thursday, 24 March 2022 18:21:02
+
+Nie udało mu się również rozprawić się z tzw.„paradoksem analizy” sformułowanym przez C.H.Langforda, który zauważył, iż rezultat poprawnej analizy powinien być oczywisty dla każdego na podobieństwo tautologii, a jeśli tej własności nie posiada, to analiza jest niepoprawna. Paradoks polega na tym, że analiza poprawna jest banalna, a jeśli nie jest banalna, to jest niepoprawnaPierwszą .
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 32-32 | Added on Thursday, 24 March 2022 18:21:38
+
+pojęcie dobra moralnego jest nieanalizowalne, a w szczególności nie daje się zdefiniować George Edward Moore przez odwołanie do „własności naturalnych”. Kto próbuje zdefiniować dobro jako „to, co jest przedmiotem pożądania”, „to, co sprawia przyjemność” lub „to, co przynosi najlepsze skutki” popełnia „błąd naturalistyczny
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 33-33 | Added on Thursday, 24 March 2022 18:24:47
+
+Późniejsi filozofowie analityczni inaczej niż Moore pojmowali zadanie analizy pojęć i tez filozoficznych. Rudolf Carnap zaproponował metodę eksplikacji polegającą na tworzeniu ścisłych odpowiedników mglistych pojęć tradycyjnych, natomiast Kazimierz Ajdukiewicz tzw. „metodę parafraz”. 33
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 38-38 | Added on Wednesday, 3 November 2021 14:39:17
+
+. Czym zatem jest filozofia? Z tego, co powiedziano, wynika, że filozofia nie może być teorią w sensie zbioru zdań sensownych, a tym bardziej prawdziwych. Nie będąc teorią, filozofia może być tylko działalnością. Celem tej działalności powinno być „logiczne rozjaśnianie myśli”. Dlatego „wynikiem filozofii nie są żadne «tezy filozoficzne», lecz jasność tez”. Te „rozjaśnione tezy” nie są oczywiście tezami filozofii, lecz należą do nauk przyrodniczych. Wynikałoby stąd, że filozofia jest działalnością służebną na użytek nauk przyrodniczych, jako że „ogranicza dziedzinę sporów przyrodoznawstwa”. Wydaje się jednakże, iż intencją Wittgensteina było przede wszystkim zniechęcenie filozofów do podejmowania tradycyjnych zagadnień filozoficznych
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 38-38 | Added on Wednesday, 3 November 2021 14:39:47
+
+jeśli jakieś pytanie da się w ogóle postawić, to można też na nie odpowiedzieć”. Stąd zalecenie następujące: Nie mówić nic poza tym, co da się powiedzieć, czyli poza zdaniami nauk przyrodniczych - a więc nic poza tym, co z filozofią nie ma nic wspólnego; a gdyby potem ktoś chciał powiedzieć coś metafizycznego, wykazać mu, że pewnym znakom nie nadał w swoich zdaniach żadnego znaczenia5.
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 38-38 | Added on Wednesday, 3 November 2021 14:40:06
+
+stanowisko radykalnie antymetafizyczne przejęli od Wittgensteina Moritz Schlick i inni członkowie Kola Wiedeńskiego, którzy w latach 1927-1928 uczestniczyli w dość regularnych z nim spotkaniach
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 39-39 | Added on Wednesday, 3 November 2021 14:41:06
+
+Odważne to oświadczenie stawia czytelnika Traktatu wobec kolejnego pytania: jak je pogodzić z zapowiedzią zawartą w przedmowie, iż „prawdziwość komunikowanych tu myśli zdaje mi się niepodważalna i definitywna”. Pytanie to postawił Wittgensteinowi Russell w roku 1930 podczas obrony rozprawy doktorskiej
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 40-40 | Added on Wednesday, 3 November 2021 14:43:16
+
+nie dostarcza żadnej definicji pojęcia gry językowej. Co więcej, powołuje się na to, że nie potrafimy nawet wskazać żadnej ogólnej charakterystyki gry jako takiej. Ogólne pojęcie gry obejmujące rzeczy tak różne jak szachy, gry w piłkę, pasjans itp. jest dlań przykładem tzw. „pojęć opartych na podobieństwie rodzinnym” (których desygnaty, jak ludzie w rodzinie, powią­ zane są siecią różnych podobieństw). Innym przykładem takiego pojęcia ma być ogólne pojęcie liczby obejmujące liczby naturalne, wymierne, niewymierne i zespolone, którym również trudno przypisać jakąś charakterystykę ogólną
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 40-40 | Added on Wednesday, 3 November 2021 14:45:28
+
+tylko niektóre gry językowe zmierzają do poznania rzeczywistości, zatem filozofia nie może ograniczać się do kwestii teoriopoznawczych. Zadaniem filozofii ma odtąd być dokonywanie przeglądu reguł gramatycznych obowiązujących w poszczególnych grach. Jednakże nie po to, aby je precyzować, czy winny sposób ulepszać; przeciwnie - „filozofia nie może w żaden sposób naruszać faktycznego użycia języka, a więc może je w końcu tylko opisywać
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 41-41 | Added on Wednesday, 3 November 2021 14:46:04
+
+intuicyjnie znane, a „skoro wszystko leży jak na dłoni, to nie ma czego wyjaśniać”. Zatem „praca filozofa polega na gromadzeniu przypomnień w określonym celu”. Nasuwa to pytanie: w jakim celu? Czy filozofia ma być po prostu działem językoznawstwa? Otóż nie. Filozofia nie musi dostarczyć systematycznego opisu wszelkich gier językowych. Nadrzędnym celem pracy filozofa ma - według Wittgensteina - być eliminacja tradycyjnych problemów filozoficznych. To też w Dociekaniach zajmuje się on „gramatyką” takich słów, które uczestniczą w sformułowaniu owych problemów, na przykład „rozumieć”, „wiedzieć”, „doznawać” itp. Niestety postulowane przez autora „przypomnienia” obowiązujących tu reguł nie są - w jego wykonaniu - ani klarowne, ani systematyczne
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 42-42 | Added on Wednesday, 3 November 2021 17:03:08
+
+Negatywny stosunek Wittgensteina do tradycyjnych zagadnień filozoficznych, który pojawił się już w Traktacie, w Dociekaniach został nawet w pewien sposób wzmocniony
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 42-42 | Added on Friday, 5 November 2021 03:05:17
+
+jeśli Homer to - według przyjętej deskrypcji - autor Iliady i Odysei, to, gdyby okazało się, że dzieła te nie mają jednego autora, należałoby stwierdzić, że Homer nie istniał. Wittgenstein posłużył się jako przykładem imieniem
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 42-42 | Added on Friday, 5 November 2021 03:05:30
+
+własnym „Mojżesz” i zapytał, kiedy mamy prawo stwierdzić „Mojżesz nie istniał”? Według Biblii z imieniem tym możemy związać wiele różnych deskrypcji. Powstaje pytanie: które i jak wiele z nich musiałoby okazać się fałszywe, abyśmy mogli skonstatować, że Mojżesz nie istniał. Wittgenstein doszedł do wniosku, że kwestia ta nie może być postawiona w sposób jednoznaczny, zatem z imieniem „Mojżesz” nie jest związane „jakieś stale i jednoznacznie określone użycie”. Przedstawiony tu wywód Wittgensteina przyczynił się do powstania koncepcji imion własnych jako równoważników pewnych „wiązek deskrypcji
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 48-48 | Added on Friday, 5 November 2021 03:13:10
+
+Twierdzenia metafizyki bywają też bezsensowne w skutek tego, że nie spełniają wymogów składni logicznej. Tu Carnap posłuży! się jako przykładem zdaniem Heideggera „Nic nicościuje” (Das Nichts nichtef) zwracając uwagę, iż „nic” jest odpowiednikiem kwantyfikatora i nie może pełnić roli podmiotu
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 48-48 | Added on Monday, 8 November 2021 14:35:51
+
+Carnap wyjaśnia ponadto, czym jest metafizyka. Otóż jest ona wyrazem „poczucia życiowego” (Lebensgefuhl). Lecz - jego zdaniem - adekwatnym wyrazem poczucia życiowego jest sztuka
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 49-49 | Added on Monday, 8 November 2021 14:41:33
+
+W końcu, po wyczerpaniu wielu pomysłowych i wyrafinowanych rozwiązań, problemem kryteriów empirycznej sensowności przestano się zajmować, w filozofii analitycznej zwyciężyło bowiem przekonanie, że nie można oceniać wartości poznawczej pojedynczych zdań, a tylko całe złożone z nich teorie
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 49-49 | Added on Monday, 8 November 2021 14:44:15
+
+Protokolsatze) zdającym sprawę z tego, co „bezpośrednio dane”, lecz natychmiast rozgorzał spór o to, jakie to są zdania: czy zdania o doznaniach zmysłowych (np. „Teraz tutaj czerwono”), czy o obserwowanych przedmiotach (np. „Na stole leży czerwona kostka”). Zakładano, że również zdania, które nie są zdaniami protokolarnymi, mogą mieć sens empiryczny, lecz pod warunkiem, że pozostają ze zdaniami protokolarnymi w odpowiednich związkach logicznych. Tak konstruowane kryterium sensowności empirycznej zdań okazało się nazbyt restryktywne; szybko zauważono, że nie spełniają go niemal wszystkie twierdzenia poważnych nauk empirycznych, na przykład fizyki. Postanowiono zatem wyjść od ustalenia kryterium sensowności terminów, aby następnie za zdanie empirycznie sensowne uznać dowolne zdanie zbudowane wyłącznie z terminów empirycznie sensownych (oraz - w miarę potrzeby - terminów logiki i matematyki, których tego typu restrykcje nie dotyczyły). Przy takim podejściu sens empiryczny postanowiono przyznać w pierwszej kolejności tzw. predykatom obserwacyjnym, za pomocą których przypisujemy
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 49-49 | Added on Monday, 8 November 2021 14:44:27
+
+obserwowalne własności obserwowanym przedmiotom. Inne predykaty nazwane teoretycznymi mogły uzyskiwać sens empiryczny, o ile pozostawały w odpowiednich związkach znaczeniowych z predykatami obserwacyjnymi. Próby opisania tych związków również napotkały poważne trudności, zatem i ta droga nie prowadziła do zadowalającego sformułowania kryterium odróżniającego zdania empirycznie sensowne od „pseudozdań” metafizycznych. Wszystkie proponowane rozwiązania okazywały się albo nazbyt restryktywne, albo nie „odsiewające” zdań ewidentnie nonsensownych
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 49-49 | Added on Monday, 8 November 2021 14:47:06
+
+w teoriach naukowych wiele mówi się o przedmiotach, które nie mogą być bezpośrednio obserwowane, zatem charakteryzujące je predykaty muszą być zaliczone do teoretycznych. Wiązał się z tym problem, w jaki sposób uzyskują one interpretację, czy i w jakiej mierze może ona być jednoznaczna i czy rzeczywiście odnoszą się one do jakichś przedmiotów
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 50-50 | Added on Monday, 8 November 2021 14:47:41
+
+Wymóg posiadania sensu empirycznego nie dotyczy! twierdzeń logiki i matematyki. Utrzymywano, że twierdzenia te są zdaniami analitycznymi obowiązującymi a priori na podstawie konwencjonalnych reguł, które ustanawiają związki wynikania między zdaniami. Zdania analityczne charakteryzowano jako takie, które wynikają z pustego zbioru przesłanek. Zdecydowanie odrzucano istnienie zdań syntetycznych a priori
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 50-50 | Added on Monday, 8 November 2021 14:50:21
+
+Członkowie Kola Wiedeńskiego wychodzili początkowo z założenia, że u podstaw wiedzy naukowej muszą leżeć jakieś zdania „nieodwoływalne”, a więc takie, które raz uznane, nie mogą być w przyszłości zakwestionowane. Za takie tradycyjnie uchodziły zdania mówiące o tym „co bezpośrednio dane”, zatem mogłyby to być zdania protokolarne, pod warunkiem, że rzeczywiście mówią o tym, co uchodziło za bezpośrednio dane, czyli o doznaniach zmysłowych. Jednakże okazało się, że trudno uchwycić związek logiczny tego rodzaju zdań z nawet najprostszymi twierdzeniami nauki, skoro te ostatnie mówią nie o doznaniach, lecz o przedmiotach fizycznych. Ostatecznie zatem zwyciężyło stanowisko Neuratha
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 50-50 | Added on Monday, 8 November 2021 14:50:40
+
+Jesteśmy jak żeglarze, którzy muszą przebudować swój statek na pełnym morzu, gdyż nigdy nie mogą zawinąć do suchego doku, aby tam go rozebrać i odbudować z najlepszych części5
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 50-50 | Added on Monday, 8 November 2021 14:51:37
+
+W ideologii Koła Wiedeńskiego poczesne miejsce zajmowało hasło jedności nauki. Warunkiem tej jedności miał być wspólny dla wszystkich nauk język. Powinien to być język, którego zdania są „intersubiektywnie weryfikowalne”, czyli rozstrzygane w sposób zgodny przez róż­ nych uczestników dociekań naukowych. Warunek taki spełnia - zdaniem Carnapa i Neuratha - język fizyki. Zakładano zatem, że zdania wszelkich nauk, takich jak chemia czy biologia są przekladalne na język fizyki, co pozwalało objąć języki tych nauk szerszym mianem języka fizykalnego. Ich zdaniem, również twierdzenia psychologii i socjologii winny dać się wyrazić w języku fizykalnym, ponieważ twierdzenia tych nauk mówią w istocie o procesach fizjologicznych
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 51-51 | Added on Monday, 8 November 2021 14:52:23
+
+czym - w myśl tego kierunku - jest filozofia. Czy jest to - jak to za Wittgensteinem powtórzył Schlick - jedynie dzia­ łalność polegająca na odkrywaniu i ustalaniu znaczenia twierdzeń nauki? W kwestii tej Carnap miał odmienne zdanie. Filozofia to nie tylko dzia­ łalność; istnieją również tezy filozoficzne, wśród nich te, które głoszą członkowie Koła Wiedeńskiego. Wbrew pozorom nie są to metafizyczne „pseudozdania”, ale pod warunkiem, że nada im się odpowiednie sformu­ łowanie. W takim poprawnym sformułowaniu są to twierdzenia składni logicznej. Stąd dla Rudolfa Carnapa
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 51-51 | Added on Monday, 8 November 2021 14:53:19
+
+składnia to według późniejszego (od roku 1936) amerykańskiego kolegi Carnapa - Charlesa Morrisa, tylko jeden z trzech działów nauki o języku (obok semantyki i pragmatyki). Aby zrozumieć pogląd Carnapa na filozofię, należy tu zauważyć, że mówiąc o składni miał on na myśli nie tylko reguły budowy zdań („reguły konstrukcji”), lecz również reguły wyprowadzania jednych zdań z drugich („reguły transformacji”), czyli reguły logiki. Oznaczało to, że składnia jakiegoś języka obejmuje zwią­ zany z nim system logiki. Carnap - w duchu szkoły Hilberta -zakładał, że zarówno reguły konstrukcji jak i reguły transformacji mają charakter formalny, czyli nie odwołują się do znaczenia wyrażeń, lecz wyłącznie do ich kształtu i uporządkowania. Byl natomiast przekonany, że za pomocą pojęć formalno-logicznych (np. wyprowadzalności jednych zdań drugich) można zdefiniować szereg odpowiedników tradycyjnych pojęć semantycznych takich jak „równoznaczność” „treść zdania”, „zdanie analityczne”, „zdanie syntetyczne
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 51-51 | Added on Monday, 8 November 2021 14:53:45
+
+Pojęcia semantyki referencjalnej takie jak „oznaczanie” i „prawdziwość” były w Kole Wiedeńskim na indeksie z dwóch powodów. Po pierwsze ze względu na związane z nimi antynomie (zwane semantycznymi); po drugie, z uwagi na przypisywany im charakter metafizyczny (jako metafizyczne traktowano w szczególności pojęcie prawdziwości jako „zgodności z rzeczywistością”). 51
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 52-52 | Added on Monday, 8 November 2021 14:54:24
+
+zdaniem Carnapa, część tradycyjnych tez filozoficznych, formułowanych - jego zdaniem - w sposób niepoprawny, zatrącający metafizyką ma swoje poprawne odpowiedniki na gruncie składni logicznej. Te pierwsze, to „zdania pseudoprzedmiotowe” sformułowane w „trybie materialnym”, ich odpowiedniki zaś to zdania syntaktyczne sformułowane w „trybie formalnym”. Owe zdania pseudoprzedmiotowe tylko z pozoru mówią o przedmiotach pozajęzykowych, odpowiednia bowiem ich parafraza ujawnia, że są to zdania o wyrażeniach pewnego języka
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 52-52 | Added on Monday, 8 November 2021 14:55:08
+
+spór między filozofami (formułowany w „trybie materialnym”) o to, czy liczby naturalne są indywiduami czy klasami klas. \N przekładzie na „tryb formalny” przybiera on postać: czy nazwy liczb są stałymi rzędu zerowego, czy rzędu drugiego? Przekład taki ujawnia, że spór ma charakter pozorny, odpowiedź zależy bowiem od wyboru języka, którym się posłużymy w matematyce
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 52-52 | Added on Tuesday, 16 November 2021 05:11:17
+
+zasada tolerancji” (Toleranzpnnzipy. Wlogice nie ma moralności. Każdemu wolno budować własną logikę, tj. własną formę języka tak, jak sobie życzy. Powinien tylko, jeśli chce z nami dyskutować, jasno wskazać, jak zamierza to robić
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 52-52 | Added on Tuesday, 16 November 2021 05:11:58
+
+Skoro przedmiotem dociekań filozoficznych są wyrażenia, te zaś są przedmiotami fizycznymi, zatem również tezy filozoficzne można formu­ łować w języku fizykalnym. Postulat jedności nauki mógłby zatem być spełniony również przez filozofię
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 52-52 | Added on Tuesday, 16 November 2021 05:13:07
+
+Wywody Carnapa w praktyce wielokrotnie wykraczają poza składnię w stronę semantyki referencjalnej
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 52-52 | Added on Tuesday, 16 November 2021 05:13:17
+
+Często mówi on o tym, co
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 53-53 | Added on Tuesday, 16 November 2021 05:13:22
+
+dane słowo oznacza, chociaż pojęcie oznaczania uznał za „metafizyczne
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 53-53 | Added on Tuesday, 16 November 2021 05:15:17
+
+Koherencyjnej teorii prawdy towarzyszą pewne niejasności, których nie udało się usunąć. Niejasne jest występujące tu pojęcie „zgodności”; niesprzeczność to zapewne za mało, a wynikanie logiczne - za dużo. Natomiast dla członków Kola Wiedeńskiego było oczywiste, że ów wyróżniony system zdań, z którym zdania prawdziwe mają być zgodne, to zbiór uznanych zdań protokolarnych
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 53-53 | Added on Tuesday, 16 November 2021 05:15:56
+
+Zdaniem Carnapa i innych chodzi tu o zdania uznane „przez naukowców naszego kręgu kulturowego”. One to mają być ex definitione prawdziwe i decydować o prawdziwości innych zdań. Jest to koncepcja relatywistyczna zarówno w wymiarze historycznym
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 53-53 | Added on Tuesday, 16 November 2021 05:16:06
+
+jak i kulturowym
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 53-53 | Added on Tuesday, 16 November 2021 05:16:23
+
+Koncepcji tej ostro sprzeciwił się Schlick utrzymując, że pewne zdania można porównywać z faktami i właśnie zgodność z obserwowanym faktem rozstrzyga o prawdziwości takich zdań
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 53-53 | Added on Tuesday, 16 November 2021 05:16:58
+
+Pod wpływem Tarskiego Carnap doszedł do wniosku, że nie tylko składnią, ale również semantyką referencjalną można zajmować się w sposób naukowy i dwie kolejne książki napisane już podczas pobytu w Stanach Zjednoczonych poświęcił problematyce semantycznej
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 53-53 | Added on Tuesday, 16 November 2021 05:17:20
+
+złagodzenie postawy antymetafizycznej Carnapa oraz innych członków i sympatyków Kola Wiedeńskiego
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 55-55 | Added on Sunday, 21 November 2021 11:22:39
+
+Zainteresowanie Tarskiego problemem prawdy jest pochodną jego wcześniejszych zainteresowań problematyką, którą pod nazwą „metamatematyki” zajmowano się w getyngeńskiej szkole Dawida Hilberta
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 57-57 | Added on Sunday, 5 December 2021 14:53:52
+
+Tarski musial posłużyć się pomocniczym pojęciem spełniania i za jego pośrednictwem zdefiniować pojęcie zdania prawdziwego. Pojęcie spełniania zaczerpnął z matematyki i zastosował je do dowolnych formuł zdaniowych zawierających zmienne
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 57-57 | Added on Sunday, 5 December 2021 14:54:26
+
+Intuicyjny sens pojęcia spełniania niech nam objaśni przykład: Brutus i Cezar speł­ niają formulę )rr zabił y-greka” wtedy i tylko wtedy, gdy Brutus zabił Cezara. Pojęcie spełniania, oznacza relację między wyrażeniem (tu: formulą zdaniową) a pewnym przedmiotem (lub ciągiem przedmiotów) i z tej racji (podobnie jak używane w logice pojęcia desygnowania i denotowania) zaliczane jest do pojęć semantycznych (referencjalnych). Fakt, że pojęcie zdania prawdziwego można zdefiniować za pomocą pojęcia spełniania, świadczy o tym, że również pojęcie prawdy jest pojęciem semantycznym
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 57-57 | Added on Sunday, 5 December 2021 14:55:22
+
+z zaproponowanej przezeń definicji rzeczywiście wynikają wszystkie wspomniane tu równoważności, a ponadto klasyczne zasady metalogiczne: niesprzeczności (z dwóch zdań sprzecznych jedno nie jest prawdziwe) i wyłączonego środka (z dwóch zdań sprzecznych jedno jest prawdziwe), przy założeniu zaś, że zdanie
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 57-57 | Added on Sunday, 5 December 2021 14:55:44
+
+uznaniem pewnych filozofów, w szczególności przez Carnapa
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 58-58 | Added on Sunday, 5 December 2021 14:55:59
+
+który po zapoznaniu się z nią doszedł do wniosku, że semantykę można uprawiać w sposób naukowy i odtąd sam zaczął posługiwać się pojęciami semantycznymi. Spotkała się również z komentarzami krytycznymi. Zarzut, który wydaje się najpoważniejszy, polegał na tym, iż Tarski definiując pojęcie prawdy odwoływał się do niejasnego pojęcia znaczenia, ale pojęcia tego nie zdefiniował
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 58-58 | Added on Sunday, 5 December 2021 14:57:40
+
+że skoro prawdziwość zdania zależy od wiązanego z nim znaczenia, to pojęcie prawdy powinno być zrelatywizowane do znaczenia. Wynika stąd, że nie można mówić, że jakieś zdanie jest po prostu prawdziwe, lecz że jest prawdziwe przy danym znaczeniu. Na zarzut ten Tarski odpowiadał, że zamiast do znaczenia, można pojęcie prawdy relatywizować do języka, ale tym samym zakładał, że ma to być język, w którym każde zdanie ma ściśle określone znaczenie
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 58-58 | Added on Sunday, 5 December 2021 14:59:08
+
+musimy przyznać, że pojęcia znaczenia i prawdy są ze sobą jakoś związane, a jeśli chcemy je objaśnić, musimy podjąć decyzję, które potraktować jako bardziej pierwotne. Wydaje się, że powinno to być pojęcie znaczenia, ale pojawił się również pomysł (Donalda Davidsona), aby pojęcie znaczenia definiować za pomocą pojęcia prawdy.
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 58-58 | Added on Sunday, 5 December 2021 15:00:35
+
+nie zawsze musi to być relatywizacja do znaczenia. W przypadku pewnych języków (zwanych ekstensjonalnymi) można posłużyć się mniej kłopotliwym pojęciem interpretacji rozumianej jako pewien układ przedmiotów nazywany „modelem języka”. Na ów model składają się przedmioty, które są bądź wartościami zmiennych, bądź denotacjami (ekstensjami) wyrażeń sta­ łych. Żeby zdaniom danego języka można było przypisywać prawdę (lub fałsz) w sposób bezwzględny, trzeba jakiś model z tym językiem związać, 58 co sprawia, że mamy wówczas do czynienia z językiem jednoznacznie
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 60-60 | Added on Sunday, 5 December 2021 15:04:24
+
+Quine, Różności. Slouinik prawiefilozoficzny
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 60-60 | Added on Thursday, 9 December 2021 10:33:26
+
+teoria „graniczna”. Nawiązuje się w niej do wypowiedzi amerykańskiego pragmatysty Charlesa S. Peirce’a, który utrzymywał, że
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 61-61 | Added on Thursday, 9 December 2021 10:33:34
+
+pogląd prawdziwy to taki, który „skazany jest na to, że zostanie w końcu przyjęty przez wszystkich badaczy
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 61-61 | Added on Thursday, 9 December 2021 10:36:34
+
+Zdanie uważa się za prawdziwe, gdy istnieją warunki, w których zdanie to powinno być „racjonalnie zaakceptowane”. Jest to stanowisko reprezentowane przez Michaela Dummetta. Hilary Putnam dodaje, że powinny to być warunki „epistemicznie idealne”. Wersja teorii prawdy, o której tu mowa, zakłada, że za prawdziwe można uznawać tylko te zdania, które mogą być w jakimś sensie „pozytywnie zweryfikowane”. Warunki „epistemicznie idealne” zapewne rzadko (a może nigdy, skoro są „idealne”) nie występują, co by wyjaśniało, dlaczego - przynajmniej w naukach empirycznych weryfikacja zazwyczaj nie jest ostateczna. Oznacza to, że zdania przez nas faktycznie „racjonalnie zaakceptowane” wcale nie muszą być prawdziwe, również w znaczeniu przyjętym w omawianej teorii. Ponadto, jeśli teoria ta odnosi pojęcie prawdy do poszczególnych zdań, to milcząco zakłada, że możliwa jest weryfikacja pojedynczego zdania, co jest rzeczą wątpliwą przynajmniej na gruncie nauk empirycznych
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 61-61 | Added on Thursday, 9 December 2021 10:38:01
+
+Zauważmy na koniec, że ponieważ istnieją (nawet w matematyce) zdania nierozstrzygalne (czyli takie, że ani dane zdanie, ani jego negacja nie mogą być pozytywnie zweryfikowane), omawiana teoria prawdy odrzuca metalogiczną zasadę wyłączonego środka
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 63-63 | Added on Thursday, 9 December 2021 10:39:57
+
+Gilberta Ryle’a, Johna L. Austina i Petera Strawsona łączy niewątpliwie z Wittgensteinem zainteresowanie użyciem wyrażeń języka potocznego, natomiast żaden z nich nie opowiada się za koncepcją języka jako kompleksu „gier językowych” i nie traktuje filozofii jako terapii mającej uwolnić ludzi od problemów filozoficznych. Wprost przeciwnie: analiza użycia wyrażeń ma — ich zdaniem — uwolnić nas jedynie od błędnych doktryn filozoficznych, umożliwić lepsze sformułowanie zagadnień, a nawet wskazywać właściwe ich rozwiązanie. Oksfordzka filozofia języka naturalnego (zwana również „oksfordzką filozofią lingwistyczną”) nie jest zatem kontynuacją antymetafizycznego trendu reprezentowanego przez Wittgensteina
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 65-65 | Added on Thursday, 9 December 2021 10:43:42
+
+dług Ryle’a człowiek nie jest ani maszyną ani duchem; jest pojedynczym obiektem jednostkowym (substancją), któremu przysługują dwojakiego rodzaju własności: „fizykalne”, jak waga, wzrost, umiejętność poruszania się itp., jak również „mentalne”, czyli takie, jak bycie inteligentnym, roztargnionym, dowcipnym, łatwowiernym itp. Zdaniem Ryle’a te drugie - to własności o charakterze dyspozycji do zachowań dostępnych obserwacji ze strony innych ludzi. Umysł to nic innego jak ogół takich dyspozycji, zatem nie jest on żadnym przedmiotem jednostkowym, jak to przedstawiał Kartezjusz, wikłając się w znane trudności z wyjaśnieniem wzajemnego oddziaływania między ciałem i umysłem
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 65-65 | Added on Thursday, 9 December 2021 10:44:08
+
+sugeruje, że Ryle jest behawiorystą, czemu on sam zaprzecza. Na pewno nie jest behawiorystą skrajnym, przyznaje bowiem, że na nasze zachowania może wywierać pewien wpływ niewidoczny dla innych monolog wewnętrzny, będący milczącą rozmową z samym sobą, której towarzyszą wyobrażenia wzrokowe
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 65-65 | Added on Thursday, 9 December 2021 10:45:29
+
+filozofowie przysparzają sobie kłopotów w skutek nieznajomości sposobu funkcjonowania wyrażeń w języku, którym się posługują, a jest nim - i powinien być - język potoczny. Jego zdaniem, właśnie język potoczny, aczkolwiek nieharmonijny i niezitegrowany, jest dobrze przystosowany do zadań, którym służy. Język ten „ucieleśnia dziedzictwo i mądrość wielu pokoleń ludzi”, zatem nie wymaga żadnych radykalnych reform. Zadaniem filozofii - dla której proponuje, jako najmniej mylącą, nazwę „fenomenologia lingwistyczna” - powinno być skrupulatne badanie zbiorów wyrażeń,
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 66-66 | Added on Thursday, 9 December 2021 10:45:40
+
+podobne do siebie funkcje w dyskursach związanych z tradycyjną problematyką filozoficzną
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 66-66 | Added on Monday, 1 November 2021 01:31:03
+
+Austina szczególnie interesował problem odpowiedzialności człowieka za swoje czyny, stąd w wykładzie zatytułowanym A Plea for Excuses („Prośba o wybaczenie”) zajął się rodziną słów, którymi usprawiedliwiamy swoje zachowania, na przykład: „nieumyślnie”, „w sposób niezamierzony”, „przez przypadek”, „przez nieuwagę”, „przez niezręczność” itp. Austin analizuje ich użycie w konkretnych sytuacjach (m. in. zaczerpniętych z protokołów sądowych) dowodząc, że każde z nich ma nieco inny wpływ na ocenę naszego postępowania. Autor wierzy, że tego typu analizy mogą przyczynić się do rozjaśnienia tradycyjnego problemu odpowiedzialności moralnej
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 68-68 | Added on Monday, 1 November 2021 01:38:41
+
+nie powinno się mówić o prawdziwości zdań (ponieważ tak się na ogól nie mówi!), a tylko o prawdziwości ich użycia, czyli o twierdzeniach wygłoszonych przez kogoś w pewnej konkretnej sytuacji
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 68-68 | Added on Monday, 1 November 2021 01:38:45
+
+Nasze zmysły są nieme - powiada Austin - nie mówią nam niczego, ani prawdy ani
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 68-68 | Added on Monday, 1 November 2021 01:39:18
+
+twierdzenie jest prawdziwe, gdy „odpowiada faktom” nie uważał za błędne, ale zauważał, że nie wnosi ono nic istotnego, ponieważ zwrotami „jest prawdą, że p” i „jest faktem, że p” posługujemy się zamiennie. To zaś prowadzi do błędnych teorii prawdy: „koherencyjnej”, zakładającej, że nie ma wypowiedzi z czym porównywać, poza innymi wypowiedziami, albo „korespondencyjnej”, która z kolei „zaludnia świat językowymi sobowtórami
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 69-69 | Added on Monday, 1 November 2021 01:40:24
+
+Zasłynął jako autor artykułu On Referring („O odnoszeniu się”) z roku 1950, w którym zaatakował jako niezgodną z praktyką językową Russellowską teorię deskrypcji jednostkowych. Według Strawsona zdaniu „Obecny król Francji jest łysy” towarzyszy presupozycja, iż ktoś jest obecnie królem Francji. Ponieważ nie jest ona spełniona, zdanie „Obecny król Francji jest łysy” jest wprawdzie sensowne, ale - podobnie jak jego negacja „Obecny król Francji nie jest łysy”- jest pozbawione wartości logicznej
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 69-69 | Added on Monday, 1 November 2021 01:40:30
+
+zakwestionował rolę logiki formalnej jako uniwersalnego narzędzia wyjaśniającego
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 69-69 | Added on Monday, 1 November 2021 01:40:52
+
+zakwestionował rolę logiki formalnej jako uniwersalnego narzędzia wyjaśniającego funkcjonowanie języka. Jego zdaniem logika formalna jest w zestawieniu z nadzwyczajnym bogactwem języka potocznego zbyt daleko posuniętą abstrakcją i idealizacją. Tezę tę podtrzymywał i rozwinął w kolejnej publikacji Introduction to Logical Theory („Wprowadzenie do teorii logiki”
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 69-69 | Added on Monday, 1 November 2021 01:41:23
+
+Pozycją najważniejszą w dorobku Strawsona jest niewątpliwie książka Individuals. An Essay in Descriptive Metaphysics opublikowana w roku 1959 (w polskim przekładzie: Indywidua. Próba metafizyki opisowej). Autor rzeczywiście podejmuje tu próbę stworzenia „metafizyki opisowej”, którą przeciwstawia praktykowanej przez wielu filozofów „metafizyce rewidującej
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 69-69 | Added on Monday, 1 November 2021 01:41:47
+
+ale „jak dotąd najlepszą i w istocie jedynie pewną drogą filozofii było poleganie na dokładnym badaniu rzeczywistego znaczenia słów”
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 76-76 | Added on Friday, 12 November 2021 21:31:21
+
+W czasie pierwszej wojny światowej służył w armii austriackiej, a w wojnie polsko-bolszewickiej 1920 roku w armii polskiej w randze kapitana, jako dowódca pociągu pancernego
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 76-76 | Added on Saturday, 13 November 2021 21:30:46
+
+właściwy kierunek” poszukiwaniom definicji pojęcia znaczenia wskazuje teoria konotacji Milla.Powiedzenie, że nazwa „kwadrat” konotuje (czyli wspóloznacza) własności prostokątność i równoboczność, proponował Kazimierz Ajdukiewicz zinterpretować następująco: nikt, kto mówi po polsku i uznaje zdanie „to jest kwadrat” nie może odrzucać zdań „to jest prostokątne” i „to jest równoboczne
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 76-76 | Added on Saturday, 13 November 2021 21:32:09
+
+Myśl języku tę Ajdukiewicz przysługujerozwinął . w kolejnej obszernej rozprawie Sprache und Sinn (1934) opublikowanej w „Erkenntnis” (w polskim przekładzie: Język i znaczenie), gdzie własną teorię znaczenia wyrażeń przedstawił szczegółowo. Jest to - podobnie jak póź­ niejsza o lat trzydzieści teoria Quine’a - teoria pragmatyczna, ponieważ znaczenie wyrażeń definiuje się w niej w kategoriach ich użycia, a ściślej uznawania i odrzucania zdań. Jednakże w odróżnieniu od Quine’a Ajdukiewicz nie zdań był odwoływał behawiorystą się do i mówiąc towarzyszących o okolicznościach temu motywacjiuznawania , a więc i odrzucania do przeżyć psychicznych
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 76-76 | Added on Saturday, 13 November 2021 21:32:26
+
+język , reguły można składni wyczerpująco i obowiązujące scharakteryzować w nim „reguły sensu”, zwane przezeń również „dyrektywami znaczeniowymi”.Dyrek- 76 tywy te mają charakter bądź aksjomatyczny
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 77-77 | Added on Saturday, 13 November 2021 21:32:50
+
+bądź dedukcyjny (kiedy zakazują odrzucania pewnego zdania, gdy się uznaje inne zdania), bądź empiryczny. Te ostatnie zakazują odrzucania pewnych zdań, gdy się doznaje pewnych wrażeń, czemu towarzyszy przeświadczenie o „normalności” sytuacji
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 77-77 | Added on Saturday, 13 November 2021 21:36:35
+
+zakładał, że jego definicja znaczenia ma zastosowanie tylko do języków spełniających pewne warunki. Miały to być języki w pewnym sensie „idealne”, którymi - jego zdaniem - są języki spójne i zamknięte. Językiem spójnym nazwał Ajdukiewicz język, w którym nie ma części izolowanej, czyli takiej, iż wyrażenia z owej części nie pozostają w żadnych związkach znaczeniowych z pozostałymi wyrażeniami. Język, który jest spójny, nazywał zamkniętym, kiedy dołączanie doń nowych wyrażeń, albo powoduje zmianę znaczenia pewnych wyrażeń dawnych, albo sprawia, że język staje się niespójny. Intuicyjnie rzecz biorąc, język, który nie jest spójny jest zlepkiem dwóch języków
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 78-78 | Added on Saturday, 13 November 2021 21:37:04
+
+Ajdukiewicz dowodził, że języki spójne i zamknięte są albo na siebie w całości ściśle przekładalne (wówczas różnią się tylko kształtem wyra­ żeń), albo całkowicie nieprzekładalne. Teza ta legła u podstaw doktryny epistemologicznej radykalnego konwencjonalizmu
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 78-78 | Added on Saturday, 13 November 2021 21:38:48
+
+jeśli istnieją dwa nieprzekładalne na siebie języki spójne i zamknięte, to obrazy świata przedstawione za ich pomocą muszą być nieporównywalne (dziś używa się wprowadzonego przez Thomasa Kuhna określenia „niewspółmierne”), nawet jeśli ugruntowane są na tych samych danych doświadczenia
+==========
+Filozofia analityczna. Z dziejów filozofii współczesnej by Adam Nowaczyk  
+- Your Highlight on page 78-78 | Added on Saturday, 13 November 2021 21:38:58
+
+] dane doświadczenia zmuszają nas do uznania pewnych sądów, gdy stąjemy na gruncie danej aparatury pojęciowej, jeśli jednak zmienimy tę aparaturę pojęciową, możemy mimo obecności
+==========
