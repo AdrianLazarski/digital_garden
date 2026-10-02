@@ -39,7 +39,7 @@ reported speech
 - [x] 48
 
 questions and auxillary verbs
-- [ ] 51
+- [x] 51
 - [ ] 52
 
 ing and to

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Language lab/02 Atomy angielski/Reported speech.md",
+                "file": "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reported speech"
+              "title": "Hegel Georg Wilhelm Friedrich, Fenomenologia ducha"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wittgenstein",
+                "query": "fenomenologia ducha",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Language lab/English grammar.md",
+                "file": "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -330,9 +330,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc286c7478e749f6",
+  "active": "40fde4cd44744f35",
   "lastOpenFiles": [
     "07 Language lab/02 Atomy angielski/Reported speech.md",
+    "07 Language lab/English grammar.md",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-7.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-6.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-5.webp",
@@ -341,7 +342,6 @@
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-2.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-1.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech.webp",
-    "07 Language lab/English grammar.md",
     "02 MOC/MOC Ekonomia.md",
     "02 MOC/MOC Matematyka/MOC Liczby.md",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
