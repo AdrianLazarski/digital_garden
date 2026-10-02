@@ -15,12 +15,19 @@ Rok wydania: "2010"
 - Autorem [[Georg Wilhelm Friedrich Hegel]]
 
   
+# Treść
+## Przedmowa
 
- 
+Akapit 2
+  - Przekonanie, że różnica między prawdą a fałszem jest czymś trwałym to mniemanie (_die Meinung_).
+  - To mniemanie jest obecne w mówieniu o dziełach filozoficznych, które rozpatruje się w kategoriach zgodności lub sprzeczności z jakimś systemem filozoficznym. Różnorodność systemów filozoficznych to postępujący rozwój prawdy. 
+  - Kwiat można uznać za negację pączką, a owoce za negację kwiatu, ale ich "płynna natura czyni je momentami organicznej jedności". Każdy etap jest konieczny w tym samym stopniu i ta konieczność "stanowi życie całości"
 
-  
-  
- 
+Akapit 3
+- *Rzecz nie "wyczerpuje się" w celu, a dopiero w swojej realizacji.* Rezultat nie jest rzeczywistą całością – jest nią ze swoim stawaniem się.
+	- Woda nie wyczerpuje się w byciu przeznaczoną do picia, a w wypicie. Ale głębokie xD
+- Różność to granica rzeczy; istnieje tam, gdzie rzecz przestaje istnieć, czyli jest tym, czym rzecz nie jest.
+- Ludzie zamiast zajmować się _rzeczą samą_, przebywać w rzeczy i zapomnieć w niej o sobie, wolą pozostawać _u siebie samych_. Dlatego zajmują się celami, czy rezult
 
   
   
