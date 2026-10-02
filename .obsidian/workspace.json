@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Jaspers Karl, Wprowadzenie do filozofii.md",
+                "file": "Aktualnie opracowywane.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jaspers Karl, Wprowadzenie do filozofii"
+              "title": "Aktualnie opracowywane"
             }
           },
           {
@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "72ac57db629fec92",
+            "id": "ed38d31efb2e67a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Matematyka/MOC Liczby.md",
+                "file": "07 Language lab/02 Atomy angielski/Reported speech.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,82 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Liczby"
-            }
-          },
-          {
-            "id": "224ff10684106530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory"
-            }
-          },
-          {
-            "id": "6e224e253f9677e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Ciąg.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ciąg"
-            }
-          },
-          {
-            "id": "b518c88b1868e2b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Liczby naturalne.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Liczby naturalne"
+              "title": "Reported speech"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -275,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Jaspers Karl, Wprowadzenie do filozofii.md",
+                "file": "07 Language lab/02 Atomy angielski/Reported speech.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -401,18 +330,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15a273497455cba1",
+  "active": "ed38d31efb2e67a5",
   "lastOpenFiles": [
+    "07 Language lab/English grammar.md",
+    "07 Language lab/02 Atomy angielski/Reported speech.md",
+    "02 MOC/MOC Ekonomia.md",
+    "02 MOC/MOC Matematyka/MOC Liczby.md",
+    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
+    "03 Atomy/Liczby naturalne.md",
+    "Aktualnie opracowywane.md",
+    "04 Źródła/Jaspers Karl, Wprowadzenie do filozofii.md",
     "01 Input/!!Random/00. Lektury ❗.md",
     "04 Źródła/MacIntyre Alasdair, Krótka historia etyki.md",
     "04 Źródła/Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej.md",
-    "03 Atomy/Liczby naturalne.md",
     "03 Atomy/Ciąg.md",
     "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
-    "02 MOC/MOC Ekonomia.md",
-    "07 Language lab/English grammar.md",
-    "02 MOC/MOC Matematyka/MOC Liczby.md",
-    "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "04 Źródła/Hare, Woods, Przetrwają najżyczliwsi.md",
     "06 Bazy danych/C Sharp baza.base",
     "02 MOC/00 MOC.md",
@@ -422,14 +354,11 @@
     "02 MOC/MOC Filozofia/MOC Dzieła filozoficzne.md",
     "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-    "Aktualnie opracowywane.md",
     "index.md",
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 11.md",
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 10.md",
     "01 Input/Matczak/Matczak, Manipulacje językowe 12.md",
     "01 Input/Matczak/Matczak, Manipulacje językowe 11.md",
-    "01 Input/Matczak/Matczak, Manipulacje językowe 10.md",
-    "01 Input/Matczak/Matczak, Manipulacje językowe 9.md",
     "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
     "04 Źródła/załączniki/Ciąg niemalejący.webp",
     "04 Źródła/załączniki/Ciąg rosnący.webp",

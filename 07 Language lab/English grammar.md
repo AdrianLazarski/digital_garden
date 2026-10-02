@@ -35,8 +35,8 @@ passive
 - [x] 46
 
 reported speech
-- [ ] 47
-- [ ] 48
+- [x] 47
+- [x] 48
 
 questions and auxillary verbs
 - [ ] 51
