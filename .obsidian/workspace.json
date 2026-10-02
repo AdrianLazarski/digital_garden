@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Language lab/02 Atomy angielski/Reported speech.md",
+                "file": "07 Language lab/English grammar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -330,15 +330,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed38d31efb2e67a5",
+  "active": "cc286c7478e749f6",
   "lastOpenFiles": [
+    "07 Language lab/02 Atomy angielski/Reported speech.md",
+    "07 Language lab/02 Atomy angielski/załączniki/Reported speech-7.webp",
+    "07 Language lab/02 Atomy angielski/załączniki/Reported speech-6.webp",
+    "07 Language lab/02 Atomy angielski/załączniki/Reported speech-5.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-4.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-3.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-2.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-1.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech.webp",
     "07 Language lab/English grammar.md",
-    "07 Language lab/02 Atomy angielski/Reported speech.md",
     "02 MOC/MOC Ekonomia.md",
     "02 MOC/MOC Matematyka/MOC Liczby.md",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
@@ -365,10 +368,6 @@
     "01 Input/Matczak/Matczak, Manipulacje językowe 12.md",
     "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
     "04 Źródła/załączniki/Ciąg niemalejący.webp",
-    "04 Źródła/załączniki/Ciąg rosnący.webp",
-    "04 Źródła/załączniki/Ciąg ograniczony.webp",
-    "04 Źródła/załączniki/Ciąg ograniczony z góry.webp",
-    "04 Źródła/załączniki/Ciąg ograniczony z dołu.webp",
     "04 Źródła/załączniki/~$onia recenzja.docx",
     "04 Źródła/załączniki/Agonia recenzja.docx",
     "02 MOC/MOC Logika",

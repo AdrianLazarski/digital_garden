@@ -19,4 +19,8 @@ modified date: 2026-10-02 10:49
 ![[Reported speech-3.webp|743x122]]
 
 ![[Reported speech-4.webp|765x312]]
+![[Reported speech-5.webp|766x212]]
 
+![[Reported speech-6.webp|533x259]]
+
+![[Reported speech-7.webp|502x230]]
