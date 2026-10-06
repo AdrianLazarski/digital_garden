@@ -127,8 +127,7 @@
               "title": "Hegel Georg Wilhelm Friedrich, Fenomenologia ducha"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
+                "file": "Aktualnie opracowywane.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -330,10 +329,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40fde4cd44744f35",
+  "active": "15a273497455cba1",
   "lastOpenFiles": [
-    "07 Language lab/02 Atomy angielski/Reported speech.md",
+    "04 Źródła/Dostojewski, Notatki z podziemia.md",
+    "Aktualnie opracowywane.md",
     "07 Language lab/English grammar.md",
+    "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
+    "07 Language lab/02 Atomy angielski/Reported speech.md",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-7.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-6.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-5.webp",
@@ -346,7 +348,6 @@
     "02 MOC/MOC Matematyka/MOC Liczby.md",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "03 Atomy/Liczby naturalne.md",
-    "Aktualnie opracowywane.md",
     "04 Źródła/Jaspers Karl, Wprowadzenie do filozofii.md",
     "01 Input/!!Random/00. Lektury ❗.md",
     "04 Źródła/MacIntyre Alasdair, Krótka historia etyki.md",
@@ -365,7 +366,6 @@
     "index.md",
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 11.md",
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 10.md",
-    "01 Input/Matczak/Matczak, Manipulacje językowe 12.md",
     "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
     "04 Źródła/załączniki/Ciąg niemalejący.webp",
     "04 Źródła/załączniki/~$onia recenzja.docx",
