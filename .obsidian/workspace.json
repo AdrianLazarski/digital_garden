@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "caef46bf15c07947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Odc. Arystoteles"
+            }
+          },
+          {
             "id": "9cdbf2b229fef705",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "Hegel Georg Wilhelm Friedrich, Fenomenologia ducha"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aktualnie opracowywane.md",
+                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -329,10 +354,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15a273497455cba1",
+  "active": "caef46bf15c07947",
   "lastOpenFiles": [
-    "04 Źródła/Dostojewski, Notatki z podziemia.md",
     "Aktualnie opracowywane.md",
+    "04 Źródła/Dostojewski, Notatki z podziemia.md",
     "07 Language lab/English grammar.md",
     "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
     "07 Language lab/02 Atomy angielski/Reported speech.md",
