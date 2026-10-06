@@ -42,7 +42,8 @@ A. 5
 - Koniecznym jest, by wiedza była nauką. 
 - str. 16 absolutny bełkot i tautologia: wykazanie, że realizacja celu jest dobra jest usprawiedliwieniem tej realizacji, gdyż usprawiedliwienie realizacji jest dowodem konieczności realizacji i samą realizacją. 
   
- 
+ A. 6
+ - Prawda ma "element egzystencji" jedynie w pojęciu.
 
   
   
