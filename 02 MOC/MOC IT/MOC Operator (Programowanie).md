@@ -1,11 +1,12 @@
 ---
 created: 2025-11-23 21:17
 tags:
-  - it/podstawy
-  - it/język
   - moc
   - definicja
-modified date: 2025-11-23 21:24
+  - it/programowanie
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-10-07 21:01
 ---
 > [!note] Definicja
 > Konstrukcja jedno- lub wieloargumentowa, zwracająca wartość.

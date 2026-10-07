@@ -1,12 +1,12 @@
 
 
-| Spisane i czytam                                     | Niespisane i czytam | Przeczytane, spisane, do obrbrk |
-| ---------------------------------------------------- | ------------------- | ------------------------------- |
-| [[McCloskey Deirdre, Mit przedsiębiorczego państwa]] |                     |                                 |
-|                                                      |                     |                                 |
-| [[McCloskey Deirdre, Mit przedsiębiorczego państwa]] |                     |                                 |
+| Spisane i czytam                                     | Niespisane i czytam | Przeczytane, spisane, do obróbki           |
+| ---------------------------------------------------- | ------------------- | ------------------------------------------ |
+| [[McCloskey Deirdre, Mit przedsiębiorczego państwa]] |                     | [[Bartyzel Jacek, W gąszczu liberalizmów]] |
+|                                                      |                     |                                            |
+| [[McCloskey Deirdre, Mit przedsiębiorczego państwa]] |                     |                                            |
 
-
+[[Bartyzel Jacek, W gąszczu liberalizmów]]
 
 
 
@@ -39,9 +39,21 @@
 [[Nieznański Edward, Elementy filozofii teoretycznej]]
 
 [[notatki z baz danych, nieobrobione]]
-[[MOC IT]]
+
 [[Język programowania]]
 [[MOC Typy danych]]
 [[C Sharp]]
-[[MOC Operator (Programowanie)]]
-[[Operator przypisania]]
+
+
+
+
+
+
+[[Illich Ivan, Odszkolnić społeczeństwo]]
+[[Metodologia i statystyka Tom 1 Przewodnik naukowego turysty]]
+[[Lenartowicz Piotr, Wprowadzenie do zagadnień filozoficznych]]
+[[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
+[[Nieznański Edward, Elementy filozofii teoretycznej]]
+[[Skousen Mark, Narodziny współczesnej ekonomii]]
+[[Łażewska Dorota, Filozofia dla pracujących]]
+[[Łażewska Dorota, Współczesne koncepcje filozofii i etyki]]

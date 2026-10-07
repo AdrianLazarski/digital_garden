@@ -6,7 +6,9 @@ tags:
   - it/język/csharp
   - it/język/python
   - implementacja
-modified date: 2025-11-25 21:19
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-10-07 20:59
 ---
 > [!note] Definicja
 > Operator nadający lewemu operandowi (w językach C tzw. l-wartości) określonej nowej wartości.

@@ -3,7 +3,9 @@ created: 2025-11-23 14:12
 tags:
   - it
   - moc
-modified date: 2025-11-23 14:26
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Aksjomatyczny 💎
+modified date: 2026-10-07 21:02
 ---
 
 

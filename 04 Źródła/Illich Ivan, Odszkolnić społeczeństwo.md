@@ -5,8 +5,8 @@ tags:
   - recenzja
   - "#filozofia/współczesna"
   - filozofia/polityki
-dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
+dojrzalosc: Krzak 🌿
+status_epistemiczny: Uzasadniony ✅
 modified date: 2026-08-27 16:53
 Rok oryginału: "1970"
 ---
@@ -14,10 +14,11 @@ Rok oryginału: "1970"
 Warszawa 2010
 
 
+# Notatki 
 ## Wstęp
 
 - Książka to owoc dyskusji z innym proponentem deschoolingu, Everettem Reimerem.
-- Ostatni rozdział to refleksje po rozmowie z Erichem Frommem o książce Matriarchat Bachofena.
+- Ostatni rozdział to refleksje po rozmowie z [[Erich Fromm|Erichem Frommem]] o książce Matriarchat Bachofena.
 
 ## 1 Dlaczego musimy znieść szkołę
 
@@ -119,7 +120,7 @@ Warszawa 2010
 - Typ wierzył, że Związek Sowiecki mierzył produktywność swojej gospodarki w pieniądzach i że był bardziej produktywny, niż kraje kapitalistyczne. 
 
 
-## Recenzja
+# Recenzja
 
 W kraju, gdzie ludzie nie mogą dojść do konsensusu czy zniesienie prac domowych było dobre dla uczniów, propozycja Ivana Illicha, by całkowicie „odszkolnić społeczeństwo”, może się wydać utopijna. Ale nie można odmówić jej uroku.
 
