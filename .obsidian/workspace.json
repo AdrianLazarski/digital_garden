@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Barnes Jonathan, Arystoteles.md",
+                "file": "Aktualnie opracowywane.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,55 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Barnes Jonathan, Arystoteles"
-            }
-          },
-          {
-            "id": "c9d98b7dc495a405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Osoby/Arystoteles.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arystoteles"
-            }
-          },
-          {
-            "id": "caef46bf15c07947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Odc. Arystoteles"
+              "title": "Aktualnie opracowywane"
             }
           },
           {
@@ -175,7 +127,8 @@
               "title": "Hegel Georg Wilhelm Friedrich, Fenomenologia ducha"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -251,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Barnes Jonathan, Arystoteles.md",
+                "file": "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -377,11 +330,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3e60a0b1954b720",
+  "active": "ed38d31efb2e67a5",
   "lastOpenFiles": [
-    "05 Osoby/Arystoteles.md",
-    "04 Źródła/Barnes Jonathan, Arystoteles.md",
+    "07 Language lab/English grammar.md",
+    "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
+    "02 MOC/MOC Ekonomia.md",
     "Aktualnie opracowywane.md",
+    "04 Źródła/Szyszkowska Maria, Zarys filozofii prawa.md",
+    "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
+    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
+    "05 Osoby/Arystoteles.md",
+    "04 Źródła/Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej.md",
+    "04 Źródła/Barnes Jonathan, Arystoteles.md",
     "04 Źródła/Sepczyńska Dorota, Libertarianizm.md",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "00. Lektury ❗.md",
@@ -393,18 +353,11 @@
     "03 Atomy/Język programowania.md",
     "O stronie.md",
     "index.md",
-    "02 MOC/MOC Ekonomia.md",
     "02 MOC/MOC IT.md",
     "01 Input/notatki z baz danych, nieobrobione.md",
     "02 MOC/MOC IT/MOC Operator (Programowanie).md",
     "03 Atomy/Operator przypisania.md",
     "04 Źródła/Illich Ivan, Odszkolnić społeczeństwo.md",
-    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
-    "03 Atomy/Medium transmisyjne.md",
-    "Sofiofilia/Słowniki filozofii/Bunnin, Yu, The Blackwell Dictionary of Western Philosophy.md",
-    "01 Input/!!Random/16-02-2024 piątek.md",
-    "01 Input/!!Random/bałagan w szkołach hellenistycznych.md",
-    "01 Input/!!Random/Redakcyjne zalecenia P.K..md",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-7.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-6.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-5.webp",

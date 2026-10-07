@@ -7,20 +7,10 @@
 [[Szereg funkcyjny]]
 [[Granica niewłaściwa -nieskończonego ciągu]]
 
-[[Arystoteles]]
-[[Odc. Arystoteles]]
-[[Barnes Jonathan, Arystoteles]]
-[[Reale Giovanni, Historia filozofii starożytnej II]]
-[[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]]
 
+# 1. Spisane notatki - czytam
 
-
-
-
-
-# Spisane notatki - czytam
-
-[[McCloskey Deirdre, Burżuazyjna godność]]
+[[McCloskey Deirdre, Burżuazyjna godność]] 📌
 [[Berkhof Louis, Podręcznik doktryny chrześcijańskiej]]
 
 [[Szyszkowska Maria, Zarys filozofii prawa]]
@@ -36,7 +26,16 @@
 [[Grzybowski ks. Jacek, Uciec z krainy zapomnienia]] dokończyć
 [[Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu]] dokończ
 
-# Niespisane notatki - czytam
+# 2. Research i scenariusze
+
+[[Arystoteles]]
+[[Odc. Arystoteles]]
+
+
+[[Reale Giovanni, Historia filozofii starożytnej II]]
+[[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]]
+
+# 3. Niespisane notatki - czytam
 
 [[Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii]]
 [[McCloskey Deirdre, Burżuazyjna godność]]
@@ -58,15 +57,15 @@
 
 
 
-# Przeczytane, spisane, do obróbki
-## Krótkie
+# 4. Do obróbki
+## 4.1 Krótkie
 
 [[Sepczyńska Dorota, Libertarianizm]], 2013 r. opracuj
 [[Łażewska Dorota, Filozofia dla pracujących]]
 [[Łażewska Dorota, Współczesne koncepcje filozofii i etyki]]
 [[Lenartowicz Piotr, Wprowadzenie do zagadnień filozoficznych]]
 
-## Pilniejsze
+## 4.2 Pilniejsze
 
 [[Stróżewski Władysław, Ontologia]] opracuj
 [[Bartyzel Jacek, W gąszczu liberalizmów]]
@@ -76,7 +75,7 @@
 [[Skousen Mark, Narodziny współczesnej ekonomii]]
 
 
-## Niepilne
+## 4.3 Niepilne
 
 [[McCloskey Deirdre, Mit przedsiębiorczego państwa]]
 [[Illich Ivan, Odszkolnić społeczeństwo]]
@@ -84,7 +83,7 @@
 [[C Sharp]]
 
 
-# Do przeczytania
+# 5. Do przeczytania
 
 [[Bunnin, Yu, The Blackwell Dictionary of Western Philosophy]]
 [[Podsiad Antoni, Słownik terminów i pojęć filozoficznych]]

@@ -51,6 +51,7 @@ A. 5
 
   
 # Wpływ:
+
 - Błędnie interpretowana przez Poppera w [Społeczeństwie otwartym i jego wrogach](https://www.evernote.com/shard/s336/nl/180339904/3b204577-92b9-4ae0-b7c2-f872f38493db). 
 - Uważa się go za prekursora narodowego socjalizmu, podczas gdy jedyne cytowanie go w literaturze narodowosocjalistycznej było po to, by go zganić. Jeden z głównych ideologów, [Alfred Rosenberg](https://www.evernote.com/shard/s336/nl/180339904/ab604f6f-115d-424c-bcf3-cc5517d176db), odrzuca jego teorię władzy i krytykuje za pogardliwy stosunek do narodu. 
 - Brytyjski politolog i socjolog Leonard T. Hobbhouse w książce The Metaphysical Theory of the State (1918) obarczył Hegla odpowiedzialnością za niemiecki militaryzm i okropności I wojny światowej oraz o nacjonalizm.
