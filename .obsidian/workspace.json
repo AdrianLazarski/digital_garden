@@ -151,8 +151,7 @@
               "title": "Hegel Georg Wilhelm Friedrich, Fenomenologia ducha"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
+                "file": "Aktualnie opracowywane.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,10 +353,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caef46bf15c07947",
+  "active": "15a273497455cba1",
   "lastOpenFiles": [
-    "02 MOC/MOC Ekonomia.md",
+    "04 Źródła/Hare, Woods, Przetrwają najżyczliwsi.md",
     "Aktualnie opracowywane.md",
+    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
+    "02 MOC/MOC Ekonomia.md",
     "04 Źródła/Dostojewski, Notatki z podziemia.md",
     "07 Language lab/English grammar.md",
     "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
@@ -379,7 +380,6 @@
     "04 Źródła/Nowaczyk Adam, Filozofia analityczna. Z dziejów filozofii współczesnej.md",
     "03 Atomy/Ciąg.md",
     "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
-    "04 Źródła/Hare, Woods, Przetrwają najżyczliwsi.md",
     "06 Bazy danych/C Sharp baza.base",
     "02 MOC/00 MOC.md",
     "02 MOC/MOC Filozofia.md",
@@ -390,7 +390,6 @@
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "index.md",
     "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 11.md",
-    "01 Input/Matczak/Matczak, Imperium tekstu kontratakuje 10.md",
     "04 Źródła/załączniki/Wskaźnik cen nieruchomości.webp",
     "04 Źródła/załączniki/Ciąg niemalejący.webp",
     "04 Źródła/załączniki/~$onia recenzja.docx",

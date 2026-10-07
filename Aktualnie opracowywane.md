@@ -16,7 +16,6 @@
 [[Reale Giovanni, Historia filozofii starożytnej II]]
 [[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]]
 
-
 [[McCloskey Deirdre, Burżuazyjna godność]] dokończ
 [[Stróżewski Władysław, Ontologia]] opracuj
 [[Hayek, Nadużycie rozumu]] końcowe rozdziały doczytać
