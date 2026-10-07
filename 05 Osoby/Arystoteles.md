@@ -26,7 +26,7 @@ modified date : 2026-08-12 13:04
 - περίπατος, czyli spacer. Perypat ma nazwę stąd, że Arystoteles niektóre wykłady prowadził podczas spacerów.
 - Po śmierci Aleksandra w 323 r. rozpoczął się ruch antymacedoński w Grecji. Wytknięto mu przyjaźń ze związanym z Macedonią Hermiaszem, więc, jak sam ponoć stwierdził, by Ateny drugi raz nie splamiły się zbrodnią popełnioną na filozofii, wyjechał do Chalkis na wyspie Eubea, gdzie niebawem zmarł na ciężką chorobę żołądka.
 - W testamencie wymienia Nikanora, syna jego wychowawcy Preksenosa, któremu oddaje rękę swojej córki z pierwszego małżeństwa; wymienia też żonę Pythias, Nikomacha, czyli syna z drugiego małżeństwa oraz Herpyllidę, swą nałożnicę. Szkole nic nie przepisał a na następcę w niej wyznaczył Teofrasta.
-- Wiedział wszystko, co było wtedy wiadome ludzkości w kwestii nauki.
+- Ponoć wiedział wszystko, co było wtedy wiadome ludzkości w kwestii nauki.
 - Przez 13 lat prowadzenia szkoły, zgromadził duże fundusze, za które stworzył bibliotekę, która stała się dla późniejszych bibliotek w Pergamonie i Aleksandrii.
 - Ponoć był dandysem z modną fryzurą i pierścieniami na palcach. 
 - Uchodził za świetnego nauczyciela, ale zarozumiałego człowieka.

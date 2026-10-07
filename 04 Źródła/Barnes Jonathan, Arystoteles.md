@@ -1,18 +1,17 @@
 ---
-dojrzalosc: Sadzonka 🌱
-status_epistemiczny: Spekulatywny ❓
 created: 2025-12-03 11:32
 tags:
   - filozofia/historia_filozofii
   - filozofia/starożytna
   - ref
   - recenzja
-
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
 Rok oryginału: "1982"
 Rok wydania: "2022"
 Miejsce wydania: Warszawa
 Moja ocena: "7"
-modified date : 2026-07-21 21:06
+modified date: 2026-07-21 21:06
 ---
 
 - Po śmierci Aleksandra w 323 r. rozpoczął się ruch antymacedoński w Grecji. Wytknięto mu przyjaźń ze związanym z Macedonią Hermiaszem, więc, jak sam ponoć stwierdził, by Ateny drugi raz nie splamiły się zbrodnią popełnioną na filozofii, wyjechał do Chalkis na wyspie Eubea, gdzie niebawem zmarł na ciężką chorobę żołądka.
@@ -23,4 +22,4 @@ modified date : 2026-07-21 21:06
 
 ## Recenzja 
 
-Całkiem przyzwoite wprowadzenie, nie wyłapałem żadnych błędów. Jakbym miał coś skrytykować to może zbyt małe docenienie arystotelewskiego myślenia w przyrodoznawstwie, które jest z nami do dzisiaj i zbytnie skupienie się na krytyce braku matematyzacji przyrody w badaniach Stagiryty. Ale tak na potrzeby większości ludzi jest to książeczka wystarczająca. 
+Całkiem przyzwoite wprowadzenie, nie wyłapałem żadnych błędów. Jakbym miał coś skrytykować to może zbyt małe docenienie arystotelesowkiego myślenia w przyrodoznawstwie, które jest z nami do dzisiaj i zbytnie skupienie się na krytyce braku matematyzacji przyrody w badaniach Stagiryty. Ale tak na potrzeby większości ludzi jest to książeczka wystarczająca. 
