@@ -1,8 +1,16 @@
-[[00. Lektury ❗]]
 
-[[McCloskey Deirdre, Mit przedsiębiorczego państwa]]
 
-[[Medium transmisyjne]]
+| Spisane i czytam                                     | Niespisane i czytam | Przeczytane, spisane, do obrbrk |
+| ---------------------------------------------------- | ------------------- | ------------------------------- |
+| [[McCloskey Deirdre, Mit przedsiębiorczego państwa]] |                     |                                 |
+|                                                      |                     |                                 |
+| [[McCloskey Deirdre, Mit przedsiębiorczego państwa]] |                     |                                 |
+
+
+
+
+
+
 
 [[Ciąg]]
 [[Szereg liczbowy]]

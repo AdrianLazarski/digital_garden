@@ -1,3 +1,11 @@
+---
+created: 2026-02-28 19:46
+tags:
+  - ref
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-10-07 20:48
+---
 N. Bunnin, J. Yu, The Blackwell Dictionary of Western Philosophy, Oxford 2004, s. 
 
 766 stron
@@ -15,4 +23,3 @@ N. Bunnin, J. Yu, The Blackwell Dictionary of Western Philosophy, Oxford 2004, s
 Empiricism - brak typologii empiryzmów, za to fajnie że są wymienione problemy, z którymi się wiąże to zagadnianie: percepcja, dane zmysłowe, wiedza, świat zewnętrzny. Piszą też jakie są problemy związane z empiryzmem. Część historyczna ogranicza się do jednego akapitu.
 
 
-#filozofia #filozofia/współczesna  
