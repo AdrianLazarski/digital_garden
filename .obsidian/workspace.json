@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "b7d5ae75e0d7f491",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Informacje o wersji 1.14.4"
+            }
+          },
+          {
             "id": "9cdbf2b229fef705",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +189,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Przeglądarka plików"
+              "title": "Pliki"
             }
           },
           {
@@ -354,7 +366,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caef46bf15c07947",
+  "active": "b7d5ae75e0d7f491",
   "lastOpenFiles": [
     "Aktualnie opracowywane.md",
     "04 Źródła/Dostojewski, Notatki z podziemia.md",
