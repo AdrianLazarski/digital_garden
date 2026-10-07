@@ -30,7 +30,7 @@
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
 [[Nieznański Edward, Elementy filozofii teoretycznej]]
 
-[[robocza]]
+[[notatki z baz danych, nieobrobione]]
 [[MOC IT]]
 [[Język programowania]]
 [[MOC Typy danych]]
