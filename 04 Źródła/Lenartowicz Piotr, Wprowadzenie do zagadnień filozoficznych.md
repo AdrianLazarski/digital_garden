@@ -3,6 +3,7 @@ created: 2026-02-28 19:46
 tags:
   - ref
   - filozofia/współczesna
+  - recenzja
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-22 20:49
@@ -26,7 +27,7 @@ year: "1998"
 - Pojęcie jest podobne do przedmiotu, ale nie jest z przed­miotem identyczne. Pojęcie można by określić jako formę orientacji we właściwościach przedmiotu. 
 - Z drugiej strony pojęcie nic przypomina przedmiotu o tyle, że nic posiada jego właściwości dynamicznych. I tak, pojęcie bezwładności, czy masy nic jest ani ciężkie, ani nie jest bezwładne. Pojęcie barwy nie jest barwne, pojęciem noża nie można się skaleczyć,
 - Redukcją pojęcia do przedmiotu jest fizjologiczna teoria pojęć. Traktuje ona świadomość i jej pojęcia jako złożone procesy biochemiczne, elektryczne, zachodzące w sieci komórek cen­tralnego układu nerwowego. Pojęcie byłoby więc ostatecznie zjawiskiem fizyczno-chemicznym, wywoływanym przez ma­terię w materialnych strukturach komórek, synaps, włókien nerwowych.
-- pojęcie nic jest odbiciem np. na siatkówce, czy w mózgu przedmiotu, tak jak odbiciem jest echo w górach, czy obraz lasu w tafli jeziora. Jezioro nie ma pojęcia lasu, mimo, że na jego powierzchni rzeczywiście widać obraz lasu.
+- pojęcie nie jest odbiciem np. na siatkówce, czy w mózgu przedmiotu, tak jak odbiciem jest echo w górach, czy obraz lasu w tafli jeziora. Jezioro nie ma pojęcia lasu, mimo, że na jego powierzchni rzeczywiście widać obraz lasu.
 - choć lornetka może być konieczna do zobaczenia ptaka na odległym drzewie, i choć światło odbite od lego ptaka musi przejść przez układ optyczny lornetki (lub kamery TV), to jednak ani lornetka, ani kamera TV nie "widzą" ptaka. Widzi go człowiek
 - poznanie, leżące u źródeł tworzenia pojęć, dotyczy nie skutków działania przedmiotu na nasze zmysły, lecz cech samego przedmiotu
 - "Istnieje teoria, która próbuje znakom przypisać właściwość odzwierciedlania przedmiotu, tak, by w procesie poznania wyeliminować pojęcia, pozostawiając jedynie przedmioty materialne z jednej, a znaki materialne z drugiej strony."

@@ -1,8 +1,8 @@
 ---
+created: 2025-11-23 17:55
 tags:
   - moc
   - it/programowanie
-created: 2025-11-23 17:55
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Prawdopodobny 🧪
 modified date: 2026-04-03 12:35

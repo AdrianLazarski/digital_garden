@@ -1,15 +1,18 @@
 
 
-| Spisane i czytam                                     | Niespisane i czytam | Przeczytane, spisane, do obróbki           |
-| ---------------------------------------------------- | ------------------- | ------------------------------------------ |
-| [[McCloskey Deirdre, Mit przedsiębiorczego państwa]] |                     | [[Bartyzel Jacek, W gąszczu liberalizmów]] |
-|                                                      |                     |                                            |
-| [[McCloskey Deirdre, Mit przedsiębiorczego państwa]] |                     |                                            |
+| Spisane i czytam                                     | Niespisane i czytam |     |
+| ---------------------------------------------------- | ------------------- | --- |
+| [[McCloskey Deirdre, Mit przedsiębiorczego państwa]] |                     |     |
+|                                                      |                     |     |
+| [[McCloskey Deirdre, Mit przedsiębiorczego państwa]] |                     |     |
+|                                                      |                     |     |
+|                                                      |                     |     |
+|                                                      |                     |     |
+|                                                      |                     |     |
+|                                                      |                     |     |
+|                                                      |                     |     |
 
 [[Bartyzel Jacek, W gąszczu liberalizmów]]
-
-
-
 
 
 [[Ciąg]]
@@ -32,28 +35,29 @@
 [[Bartyzel Jacek, Geneza i próba systematyki głównych nurtów libertarianizmu]] dokończ
 
 
-## Uporządkuj notatki
-
-[[Metodologia i statystyka Tom 1 Przewodnik naukowego turysty]]
-[[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
-[[Nieznański Edward, Elementy filozofii teoretycznej]]
-
-[[notatki z baz danych, nieobrobione]]
-
-[[Język programowania]]
-[[MOC Typy danych]]
-[[C Sharp]]
 
 
 
 
 
+# Przeczytane, spisane, do obróbki
+## Krótkie
 
-[[Illich Ivan, Odszkolnić społeczeństwo]]
-[[Metodologia i statystyka Tom 1 Przewodnik naukowego turysty]]
+[[Łażewska Dorota, Filozofia dla pracujących]]
+[[Łażewska Dorota, Współczesne koncepcje filozofii i etyki]]
 [[Lenartowicz Piotr, Wprowadzenie do zagadnień filozoficznych]]
+
+
+[[Bartyzel Jacek, W gąszczu liberalizmów]]
+
+[[Metodologia i statystyka Tom 1 Przewodnik naukowego turysty]]
+
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
 [[Nieznański Edward, Elementy filozofii teoretycznej]]
 [[Skousen Mark, Narodziny współczesnej ekonomii]]
-[[Łażewska Dorota, Filozofia dla pracujących]]
-[[Łażewska Dorota, Współczesne koncepcje filozofii i etyki]]
+
+## Niepilne
+
+[[Illich Ivan, Odszkolnić społeczeństwo]]
+[[notatki z baz danych, nieobrobione]]
+[[C Sharp]]
