@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "b7d5ae75e0d7f491",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Informacje o wersji 1.14.4"
-            }
-          },
-          {
             "id": "9cdbf2b229fef705",
             "type": "leaf",
             "state": {
@@ -164,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -366,8 +354,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7d5ae75e0d7f491",
+  "active": "caef46bf15c07947",
   "lastOpenFiles": [
+    "02 MOC/MOC Ekonomia.md",
     "Aktualnie opracowywane.md",
     "04 Źródła/Dostojewski, Notatki z podziemia.md",
     "07 Language lab/English grammar.md",
@@ -381,7 +370,6 @@
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-2.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-1.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech.webp",
-    "02 MOC/MOC Ekonomia.md",
     "02 MOC/MOC Matematyka/MOC Liczby.md",
     "04 Źródła/Gewert, Skoczylas, Analiza matematyczna 1 Definicje, twierdzenia, wzory.md",
     "03 Atomy/Liczby naturalne.md",
