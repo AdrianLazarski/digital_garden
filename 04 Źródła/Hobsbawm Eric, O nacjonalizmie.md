@@ -390,3 +390,60 @@ Rozdział kończy się konkluzją, że w świecie narastających napięć etnicz
 
 ## Rozdział 10
 
+1. Trudności analityczne i krytyka dotychczasowych teorii
+
+Eric Hobsbawm zauważa, że choć nacjonalizm jest jednym z najpotężniejszych zjawisk politycznych XX wieku, jego analiza naukowa okazuje się wyjątkowo trudna.
+
+- **Niewystarczalność dotychczasowych pism:** Teksty tworzone przez samych nacjonalistów mają charakter tautologiczny i bezkrytyczny. Z kolei badacze nienacjonalistyczni często traktowali nacjonalizm jako czynniki zakłócający, wymuszający dostosowanie modeli analitycznych.
+- **Kryzys kryteriów obiektywnych i subiektywnych:** Próby zdefiniowania narodu na podstawie obiektywnych cech (terytorium, język, etniczność, wspólna historia) załamują się z powodu licznych wyjątków. Z kolei definicje subiektywne (oparte na „świadomości narodowej”) są tautologiczne – sprowadzają się do stwierdzenia, że narodem jest to, co zachowuje się jak naród.
+- **Podejście historyczne i krytyka głównych nurtów:** Najbardziej owocne jest badanie nacjonalizmu jako zjawiska powstającego w konkretnym kontekście historycznym. Hobsbawm krytykuje dwa dominujące podejścia:
+    - **Marksizm:** Docenił potencjał rewolucyjny ruchów wyzwoleńczych w krajach kolonialnych i walki antyfaszystowskiej (szczególnie w ujęciu leninowskim), lecz niedoceniał trwałości nacjonalizmu, traktując go głównie jako przeżytek (drobno)mieszczański i mając trudności z wyjaśnieniem konfliktów narodowych wewnątrz obozu socjalistycznego.
+    - **Teorie modernizacji:** Cierpią na prymitywizm jednokierunkowego modelu historii i brak zdolności przewidywania; nie potrafią wyjaśnić, dlaczego współczesny nacjonalizm na Zachodzie ma charakter rozbijający i separatystyczny, a nie integrujący.
+
+---
+
+2. Nacjonalizm jako nowożytny konstrukt i jego założenia programowe
+
+Autor wskazuje, że bardziej owocne jest analizowanie narodu w sensie programowym (jako projektu politycznego) niż próba uchwycenia obiektywnej rzeczywistości. Naród w tym ujęciu jest **historycznie nowym konstruktem** z końca XVIII wieku, opartym na dwóch fundamentach:
+
+1. **Lojalność nadrzędna:** Więź z narodem znosi i podporządkowuje sobie wszelkie inne lojalności (lokalne, stanowe, religijne). Obywatel definiowany jest przede wszystkim przez swoją narodowość.
+2. **Suwerenne państwo narodowe:** Jednolicie pojmowany „lud” lub „naród” musi znaleźć swój wyraz w niepodległym, suwerennym państwie, najlepiej z jednorodną ludnością i jednym językiem.
+
+Nacjonalizm ma rodowód rewolucyjny i egalitarny, ponieważ zrównuje wszystkich obywateli i niszczy tradycyjne hierarchie społeczne. Mimo to retoryka nacjonalistyczna powszechnie stosuje **metaforę pokrewieństwa** (ojczyzna, bracia, więzy krwi), czerpiąc z wyidealizowanego modelu małej rodziny nuklearnej, a nie z rzeczywistych, dawnych struktur rodowych.
+
+---
+
+3. Rola państwa terytorialnego i powstawanie „religii obywatelskiej”
+
+Modernizacja i budowa nowoczesnego państwa terytorialnego w erze kapitalistycznej wymagała bezpośredniej relacji między władzą a indywidualnym obywatelem (np. na potrzeby masowego poboru do wojska czy powszechnej edukacji).
+
+- **Likwidacja struktur pośrednich:** Zgodnie z myśla Rousseau i praktyką rewolucji francuskiej, państwo wyeliminowało korporacje i stany pośredniczące, czyniąc relację państwo–obywatel jedyną nadrzędną więzią.
+- **„Religia obywatelska” (****civic religion****):** Aby zapewnić lojalność obywateli, państwo musiało wykreować nową obrzędowość i przenieść dawne emocjonalne więzi lokalne na poziom państwowy (np. rytuał codzienne czczenia flagi w szkołach w USA).
+- **Kryteria wykreowane** **a posteriori****:** Żadne obiektywne kryterium (język, kultura, historia) nie musi istnieć przed powstaniem państwa – państwo często tworzy je od podstaw. Skrajnym przykładem jest Izrael, gdzie nowożytny język hebrajski został celowo stworzony i przyjęty do codziennego użytku świeckiego. Państwo terytorialne ma silną zdolność narzucania ram nacjonalistycznych nawet uniwersalistycznym ideologiom (np. „amerykanizm”).
+
+---
+
+4. Geneza masowego nacjonalizmu i rola „narodów niehistorycznych” (model Miroslava Hrocha)
+
+Analizując ruchy narodowe ludów pozbawionych własnego państwa („narodów niehistorycznych”), Hobsbawm odwołuje się do pionierskich badań czeskiego historyka **Miroslava Hrocha** nad małymi narodami Europy (m.in. Czechami, Słowakami, Finami, Estończykami, Flamandami). Hroch wyróżnił trzy fazy rozwoju nacjonalizmu:
+
+- **Faza A:** Działalność kulturalno-literacka i folklorystyczna wąskiej grupy intelektualistów.
+- **Faza B:** Agitacja polityczna grupy „patriotów” dążących do rozpropagowania idei narodowej.
+- **Faza C:** Masowe przeniknięcie idei narodowej do szerokich warstw społecznych.
+
+Hroch wykazał, że agitacja narodowa (faza B) zakorzeniała się najszybciej w **regionach i warstwach o pośrednim stopniu zmiany społecznej** – nie na odizolowanej od świata wsi i nie w wielkich metropoliach, lecz tam, gdzie modernizacja zablokowała możliwości awansu społecznego wykształconym synom niższych klas.
+
+Hobsbawm dostrzega tu analogię do badań Erica Wolfa nad rewolucjami chłopskimi: nacjonalizm był w swojej istocie **obronną reakcją na zagrożenie tradycyjnego ładu** przez napierający rynek kapitalistyczny. Kapitalizm bezwzględnie niszczył dawne więzi lokalne, a „naród” stawał się nową wspólnotą zastępczą wypełniającą powstałą pustkę.
+
+Autor zauważa również ważną zmianę ewolucyjną: o ile XIX-wieczny nacjonalizm dążył do łączenia małych jednostek w większe, zdolne do rozwoju państwa (koncepcja „progu wielkości”), o tyle pod koniec XX wieku nacjonalizm stał się siłą **separatystyczną i rozbijającą**, dzielącą zintegrowane organizmy na małe, ekonomicznie nieefektywne jednostki.
+
+---
+
+5. Podwójna natura nacjonalizmu i jego historyczna tymczasowość
+
+Hobsbawm podsumowuje, że nacjonalizm jest zjawiskiem podwójnym, powstającym na styku dwóch procesów:
+
+1. Jest **„religią obywatelską”** zcentralizowanego państwa terytorialnego, potrzebną do mobilizacji obywateli w polityce masowej.
+2. Jest **mechanizmem obronnym** społeczeństwa przed destrukcyjnym wpływem gwałtownych przekształceń ekonomicznych i społecznych.
+
+Jako zjawisko historyczne, które ukształtowało się po 1789 roku, nacjonalizm **nie jest cechą trwałą ani wieczną**. Wraz z postępującą globalizacją gospodarki, technologii i komunikacji, państwo narodowe przestaje być optymalną ramą rozwoju ludzkości, co w długiej perspektywie doprowadzi do przekształcenia lub wygasania historycznych funkcji nacjonalizmu.
