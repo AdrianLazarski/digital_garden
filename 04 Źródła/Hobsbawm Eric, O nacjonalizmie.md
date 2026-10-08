@@ -783,3 +783,42 @@ Mimo pewnych ideologicznych uprzedzeń autora (szczególnie w odniesieniu do ZSR
 
 ## Rozdział 17
 
+1. Państwo terytorialne a wielowymiarowa tożsamość człowieka
+
+- **Rozróżnienie państwa i narodu:** Eric Hobsbawm przypomina, że nowożytne państwo terytorialne (ukształtowane pod koniec XVIII wieku) powstało jako terytorialna wspólnota polityczna oparta na wspólnym prawie i konstytucji (zgodnie z definicją Abbé Sieyèsa), a nie na jednolitości etnicznej czy kulturowej. Utożsamienie państwa z jednorodnym narodem jest późniejszym, niebezpiecznym wymysłem, który stwarza stałą pokusę „czystek etnicznych”.
+- **Wielowymiarowość tożsamości:** Tożsamość każdego człowieka ma charakter wielowymiarowy (np. obywatel Patel w Londynie jest jednocześnie Hindusem, Brytyjczykiem, użytkownikiem języka gujarati, członkiem określonej kasty czy grupy krewniaczej). Zmuszanie ludzi do wyboru jednej, wyłącznej tożsamości („albo-albo”) jest ideologicznym myciem mózgów, które historycznie prowadziło do konfliktów i czystek.
+
+---
+
+2. Historyczna normalność wielojęzyczności i narodziny języka państwowego
+
+- **Wielojęzyczność jako norma:** W społeczeństwach przedprzemysłowych współistnienie wielu języków było czymś całkowicie naturalnym. Większość ludzi żyła w uniwersum ustnym (patois, lokalne dialekty), a pisane języki oficjalne (łacina, perski klasyczny, biurokratyczny angielski w Indiach) służyły elicie i nie wchodziły w konflikt z mową domową.
+- **Rola powszechnej edukacji:** Dopiero powszechna edukacja elementarna (wprowadzona na masową skalę zaledwie wiek temu) oraz demokratyzacja i mobilizacja polityczna mas stworzyły potrzebę jednego ustandaryzowanego języka ogólnonarodowego.
+- **Demokratyczny cel języka państwowego:** Pierwotne wprowadzenie jednego języka państwowego (np. francuskiego po rewolucji 1794 r. wg Abbé Grégoire'a) miało cel **demokratyczny**: chodziło o to, aby obywatel rozumiał prawa swojego państwa i mógł uczestniczyć w życiu publicznym, a nie o tłumienie jego mowy domowej.
+
+---
+
+3. Język jako konstrukt polityczny i walka elit
+
+- **Walka o status i pozycje:** Żądania przyznania oficjalnego statusu językom regionalnym lub tworzenia uniwersytetów władających danym językiem (jak we Flandrii, Finlandii czy Walii) rzadko wynikały z czystych potrzeb edukacyjnych. Były one przede wszystkim **walką polityczną o władzę, status i dostęp do stanowisk** dla nowo wyłaniających się elit lokalnych.
+- **Sztuczność języka pisanego:** Przejście języka z formy ustnej do pisemnej i urzędowej wymaga jego kodyfikacji, standaryzacji gramatycznej i stworzenia nowego słownictwa (np. współczesny hebrajski, baskijski czy galicyjski). W efekcie ustandaryzowany język staje się **konstruktem społecznym** – nową mową, którą matki i babcie w domach nigdy nie posługiwały się w tej formie.
+
+---
+
+4. Trzy nowe czynniki we współczesnym świecie
+
+Hobsbawm zauważa, że XIX-wieczny model „jednego języka narodowego dla wszystkich celów” ulega obecnie załamaniu z trzech powodów:
+
+1. **Kultura mediów audiowizualnych (radio, TV, Internet):** Przejście od wyłącznej kultury druku do mediów elektronicznych pozwala małym językom i dialektom przetrwać i funkcjonować w przestrzeni publicznej bez konieczności opanowywania pełnego aparatu państwowego.
+2. **Funkcjonalna komplementarność języków (zamiast pełnej wymienności):** Języki we współczesnym świecie nie muszą być w pełni wymienne we wszystkich sferach życia. W naukach ścisłych (np. biologii molekularnej czy ekonomii) publikowanie w języku lokalnym (np. estońskim czy baskijskim) jest nieefektywne; wymiana wiedzy wymaga posługiwania się językami o zasięgu międzynarodowym.
+3. **Dominacja języka angielskiego jako uniwersalnego** **lingua franca****:** Angielski stał się globalnym narzędziem komunikacji (współczesną łaciną), podczas gdy języki lokalne pełnią funkcje wspólnotowe i tożsamościowe.
+
+---
+
+5. Zagrożenia wynikające z politycznej „bałkanizacji językowej”
+
+- **Języki czysto polityczne:** Sztuczne kreowanie języków wyłącznie dla celów separatyzmu politycznego (np. próby wskrzeszenia języka kornijskiego w Kornwalii czy wymuszanie sztucznych różnic językowych w Chorwacji po rozpadzie Serbo-Chorwacji) nie służy komunikacji ani kulturze, lecz generuje nowe konflikty i biurokrację.
+- **Konieczność oddzielenia języka od państwa:** Jeśli język nie zostanie oddzielony od państwa w taki sam sposób, w jaki oddzielono religię w demokratycznych konstytucjach, pozostanie on sztucznym i nieustannym źródłem sporów społecznych
+
+## Rozdział 18
+
