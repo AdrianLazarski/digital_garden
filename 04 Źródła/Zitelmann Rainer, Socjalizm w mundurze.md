@@ -223,13 +223,15 @@ d. Chłopi
 		- _Co się stało:_ Prywatni niemieccy baronowie stalowi z Ruhry (m.in. Krupp, Thyssen, Flick) odmówili inwestowania w wydobycie niskogatunkowych krajowych rud żelaza w Salzgitter, uznając to za całkowicie nieopłacalne ekonomicznie w porównaniu z importem szwedzkiej rudy.
 		- _Reakcja reżimu:_ Göring i Hitler zignorowali rachunek zysków prywatnego biznesu. Państwo powołało własny, państwowy gigant – _Reichswerke Hermann Göring_. Wywłaszczyło złoża i zbudowało największy koncern w Europie, zatrudniający ponad 600 tys. ludzi
 	- **Volkswagen / KdF-Wagen (1934–1938):**
-		- 
+		- _Co się stało:_ Hitler zażądał stworzenia taniego „auta dla ludu” za mniej niż 1000 marek. Prywatne koncerny motoryzacyjne (reprezentowane przez RDA) sabotowały ten projekt przez 3,5 roku, twierdząc, że za te pieniądze nie da się zbudować auta, a masowa produkcja zniszczy rynek ich droższych modeli.
+		- _Reakcja reżimu:_ Hitler odebrał projekt prywatnemu przemysłowi i przekazał go Niemieckiemu Frontowi Pracy (DAF) pod wodzą Roberta Leya. Ze środków związku i wpłat robotników zbudowano w Fallersleben (dzisiejszym Wolfsburgu) największą fabrykę samochodów na świecie
 
 ---
 
 ### 4.7 „Krytyka kapitalizmu” w pierwszych przemówieniach Hitlera
 
 - **Wpływ teorii Gottfrieda Federa (1920–1923):** W początkowym okresie działalności politycznej krytyka kapitalizmu w pismach Hitlera opierała się na koncepcji „złamania niewoli odsetek” (_Brechung der Zinsknechtschaft_).
+	- Hasło to oznaczało postulat nacjonalizacji banków, zniesienia odsetek od pożyczek państwowych oraz oparcia waluty nie na długu, lecz na państwowej gwarancji pracy.
 - **Rozróżnienie kapitału:** ==Hitler dzielił wówczas kapitał na:
     - „Twórczy” kapitał przemysłowy i zakładowy (_schaffendes Kapital_) – osadzony w narodzie i związany z pracą fizyczno-umysłową,
     - „Pasożytniczy/bezosobowy” kapitał giełdowy i pożyczkowy (_raffendes Kapital_) – międzynarodowy, oparty na odsetkach i utożsamiany przezeń z Żydami.==
