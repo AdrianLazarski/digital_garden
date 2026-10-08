@@ -149,24 +149,21 @@ c. Klasa średnia / Drobnomieszczaństwo
 d. Chłopi
 
 - Zitelmann kategorycznie obala tezę Henry’ego A. Turnera o rzekomej „utopii agrarnej” i dążeniu Hitlera do „reagraryzacji” Niemiec.
-- Rolnictwo i stan chłopski prawie nie pojawiały się w pismach i przemówieniach Hitlera (z wyjątkiem propagandowych frazesów lub dyskusji o autarkii żywnościowej). Hitler cenił chłopa za nawyk ciągłego podejmowania decyzji w walce z naturą, lecz zdecydowanie popierał nowoczesne, wysoko uprzemysłowione społeczeństwo.
+- Rolnictwo i stan chłopski prawie nie pojawiały się w pismach i przemówieniach Hitlera (z wyjątkiem propagandowych frazesów lub dyskusji o autarkii żywnościowej). ==Hitler cenił chłopa za nawyk ciągłego podejmowania decyzji w walce z naturą, lecz zdecydowanie popierał nowoczesne, wysoko uprzemysłowione społeczeństwo.==
 
 ---
 
-4. Pojęcie „wspólnota narodowa” (_Volksgemeinschaft_)
+### 3.4 Pojęcie „wspólnota narodowa” (_Volksgemeinschaft_)
 
-- **Eliminacja walki klas bez niszczenia interesów:** Stworzenie _Volksgemeinschaft_ nie oznaczało sztucznego zamrożenia konfliktów ani ignorowania interesów ekonomicznych robotników. Hitler uznawał istnienie sprzecznych interesów gospodarczych i uważał rolę związków zawodowych za uzasadnioną tak długo, jak długo pracodawcy przejawiali brak wrażliwości społecznej.
-- **Rola Niemieckiego Frontu Pracy (DAF):** Po rozbiciu wolnych związków zawodowych (z powodów politycznych), DAF pod kierownictwem Leya realnie wymuszał na przedsiębiorcach realizację sprawiedliwości społecznej i poprawę warunków pracy.
+- **Eliminacja walki klas bez niszczenia interesów:** Stworzenie _Volksgemeinschaft_ nie oznaczało sztucznego zamrożenia konfliktów ani ignorowania interesów ekonomicznych robotników. ==Hitler uznawał istnienie sprzecznych interesów gospodarczych i uważał rolę związków zawodowych za uzasadnioną tak długo, jak długo pracodawcy przejawiali brak wrażliwości społecznej.==
+- **Rola Niemieckiego Frontu Pracy (DAF):** ==Po rozbiciu wolnych związków zawodowych (z powodów politycznych), DAF pod kierownictwem Leya realnie wymuszał na przedsiębiorcach realizację sprawiedliwości społecznej i poprawę warunków pracy.==
 - **Egalitaryzacja życia codziennego:** Wspólnota narodowa wymuszała zacieranie barier klasowych w praktyce: jednakowy standard podróżowania na statkach _Kraft durch Freude_, masowe akcje Pomocy Zimowej (_Winterhilfswerk_), wspólne posiłki jednodaniowe (_Eintopfessen_) oraz równomierne rozkładanie ciężarów wojennych.
 - **Permanentna reedukacja:** Państwo miało prowadzić nieustanną reedukację społeczeństwa od najmłodszych lat, niszcząc tradycyjne przyzwyczajenia, pychę stanową i uprzedzenia klasowe, budując w to miejsce nową świadomość opartą na wspólnej krwi i przynależności.
 
----
-
-💡 **Podsumowanie rozdziału:** Zitelmann przekonująco dowodzi, że Hitler postrzegał samego siebie jako społecznego rewolucjonistę. Jego celem było wykreowanie bezklasowego w strukturze ducha państwa narodowego, w którym skostniałe mieszczaństwo ustępuje miejsca nowej elicie wyłonionej z mas robotniczych na drodze socjodarwinistycznej „równości szans”.
 
 ## 4 Zrewolucjonizowanie wzajemnego stosunku polityki i ekonomii oraz przebudowa porządku gospodarczego jako główne cele Hitlera
 
-1. Bagatelizowanie znaczenia zagadnień gospodarczych w myśli Hitlera
+### 4.1 Bagatelizowanie znaczenia zagadnień gospodarczych w myśli Hitlera
 
 - **Krytyka dotychczasowej historiografii:** Zitelmann zdecydowanie obala utrwalony przez wybitnych historyków (m.in. Alana Bullocka, Iana Kershawa czy Henry'ego A. Turnera) mit, jakoby Hitler nie rozumiał gospodarki, lekceważył ją lub wyznawał w tej dziedzinie całkowity, cyniczny oportunizm.
 - **Taktyczna powściągliwość przed 1933 rokiem:** Ogólny i nieprecyzyjny charakter publicznych wypowiedzi gospodarczych Hitlera w okresie weimarskim wynikał wyłącznie z taktyki politycznej. Za radą Hjalmara Schachta z 1932 roku Hitler świadomie unikał ogłaszania szczegółowych programów ekonomicznych, by nie spłoszyć milionów wyborców oraz wielkiego biznesu przed zdobyciem władzy na Wilhelmstrasse. W prywatnych rozmowach z Otto Wagenerem Wódz NSDAP wprost zastrzegał, że plany państwowego sterowania gospodarką muszą pozostać w najściślejszej tajemnicy.
@@ -174,7 +171,7 @@ d. Chłopi
 
 ---
 
-2. Stosunek Hitlera do ekonomii politycznej (nauk ekonomicznych)
+### 4.2 Stosunek Hitlera do ekonomii politycznej (nauk ekonomicznych)
 
 - **Krytyka akademickiego dogmatyzmu:** Hitler gardził tradycyjną, akademicką ekonomią polityczną, zarzucając jej operowanie pustymi, skostniałymi dogmatami, które całkowicie zawiodły podczas Wielkiego Kryzysu (1929–1932).
 - **Odrzucenie pęt parytetu złota:** Szczególnym obiektem drwin Hitlera była wiara ekonomistów w standard złota jako gwaranta wartości waluty. Twierdził, że prawdziwe pokrycie pieniądza stanowi wyłącznie potencjał produkcyjny narodowej siły roboczej i ilość wytworzonych dóbr, a sam pieniądz jest po prostu „potwierdzeniem wykonania pracy”.
@@ -182,7 +179,7 @@ d. Chłopi
 
 ---
 
-3. „Drugorzędna rola gospodarki” i prymat polityki (_Primat der Politik_)
+### 4. 3 „Drugorzędna rola gospodarki” i prymat polityki (_Primat der Politik_)
 
 - **Rzeczywiste znaczenie „drugorzędności” gospodarki:** Słynne twierdzenie Hitlera o „drugorzędnej roli gospodarki” nie oznaczało jej lekceważenia, lecz definitywne określenie jej funkcji służebnej wobec narodu i państwa.
 - **Nienaruszalny dogmat z 1929 roku:** _„Naród znajduje się na szczycie, gospodarka jest służebnicą narodu, a kapitał jest sługą gospodarki, nigdy na odwrót”_. W 1936 roku przy powoływaniu Planu Czteroletniego Hitler ogłosił wprost: _„Gra wolnych sił została zakończona”_.
@@ -191,14 +188,14 @@ d. Chłopi
 
 ---
 
-4. Ostrzeżenia dotyczące sieci powiązań między biznesem a polityką
+### 4.4 Ostrzeżenia dotyczące sieci powiązań między biznesem a polityką
 
 - **Walka z korporacyjnym lobbingiem:** Aby zagwarantować pełen prymat polityki, Hitler domagał się bezwzględnego oddzielenia aparatczyków państwowych i partyjnych od prywatnego kapitału. Wskazywał na Wielką Brytanię jako ucieleśnienie korupcji, gdzie politycy (jak Baldwin czy Chamberlain) wciągnęli kraj w wojnę z powodu własnych akcji w przemyśle zbrojeniowym.
 - **Kategoryczne dyrektywy z lat 1942–1943:** Pod wpływem monologów Führera w Kwaterze Głównej, Kancelaria Rzeszy (Lammers i Bormann) wydała surowe zakazy: żaden poseł do Reichstagu, Gauleiter, wyższy urzędnik cywilny czy oficerek Wehrmachtu nie mógł zasiadać w radach nadzorczych firm prywatnych ani posiadać pakietów akcji spółek. Osformowanie własnego majątku dozwolone było jedynie w postaci państwowych papierów wartościowych lub ziemi.
 
 ---
 
-5. Gospodarka rynkowa kontra gospodarka planowa
+### 4.5 Gospodarka rynkowa kontra gospodarka planowa
 
 - **Ewolucja poglądów:** Zitelmann wykazuje, że choć początkowo (przed 1933 r.) Hitler próbował łączyć socjodarwinistyczną zasadę konkurencji (jako siłę napędową postępu technicznego) z państwowym nadzorem, to z biegiem lat stawał się coraz bardziej dogmatycznym zwolennikiem gospodarki planowej.
 - **Radykalny interwencjonizm państwowy w Rzeszy:** Po 1933 roku państwo narodowosocjalistyczne przejęło całkowitą kontrolę nad handlem zagranicznym („Nowy Plan” z 1934 r.), przydziałem surowców, cenami (_Reichskommissar für die Preisbildung_), płacami oraz poziomem i kierunkiem prywatnych inwestycji.
@@ -207,7 +204,7 @@ d. Chłopi
 
 ---
 
-6. Własność prywatna i nacjonalizacja
+### 4.6 Własność prywatna i nacjonalizacja
 
 - **Wypatroszenie własności z jej treści:** Zitelmann cytuje ekonomistę Friedricha Pollocka: w Trzeciej Rzeszy zachowano prawną formę własności prywatnej na papierze, ale zniszczono wszystkie jej istotne cechy. Właściciel fabryki nie mógł sam decydować o cenach, wielkości produkcji, przydziale surowców ani zyskach – z przedsiębiorcy stał się wyłącznie państwowym zarządcą (_Betriebsführer_) zobowiązanym pod karą więzienia lub utraty majątku do realizowania celów Rzeszy.
 - **Etyczne uzasadnienie własności:** Hitler uważał, że własność prywatną można moralnie usprawiedliwić wyłącznie osobistym dokonaniem i pracą.
@@ -220,7 +217,7 @@ d. Chłopi
 
 ---
 
-7. „Krytyka kapitalizmu” w pierwszych przemówieniach Hitlera
+### 4.7 „Krytyka kapitalizmu” w pierwszych przemówieniach Hitlera
 
 - **Wpływ teorii Gottfrieda Federa (1920–1923):** W początkowym okresie działalności politycznej krytyka kapitalizmu w pismach Hitlera opierała się na koncepcji „złamania niewoli odsetek” (_Brechung der Zinsknechtschaft_).
 - **Rozróżnienie kapitału:** Hitler dzielił wówczas kapitał na:
