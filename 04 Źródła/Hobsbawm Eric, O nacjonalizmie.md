@@ -822,3 +822,59 @@ Hobsbawm zauważa, że XIX-wieczny model „jednego języka narodowego dla wszys
 
 ## Rozdział 18
 
+1. Geneza konfliktu i brytyjskie zaniedbania
+
+Eric Hobsbawm podkreśla, że wojna z 1982 roku miała w rzeczywistości bardzo mało wspólnego z samymi wyspami Falklandzkimi. Falklandy były odległym, zamieszkanym przez zaledwie około 1680 mieszkańców terytorium, o którym większość Brytyjczyków nic nie wiedziała i którym brytyjski rząd (Foreign Office) niespecjalnie się interesował.
+
+Z kolei dla Argentyny roszczenia do wysp (nazywanych Malwinami) stanowiły kluczowy symbol nacjonalizmu politycznego (szczególnie od czasów Juana Peróna), oparty na argumentacji geograficznej („geografii ze szkoły średniej”, czyli przynależności wysp do szelfu kontynentalnego) [375–376]. Rząd brytyjski całkowicie ignorował ten aspekt, traktując sprawę z pobłażliwością i skrajnym lekceważeniem [375–376]. Decyzja Londynu o wycofaniu z regionu jedynego uzbrojonego okrętu patrolującego (_HMS Endurance_) dała argentyńskiej juncie wojskiej błędny sygnał, że Wielka Brytania nie będzie bronić wysp, co bezpośrednio sprowokowało inwazję z 3 kwietnia 1982 roku [376–377].
+
+---
+
+2. Wybuch powszechnego oburzenia w Wielkiej Brytanii
+
+Po inwazji w brytyjskim społeczeństwie wybuchła natychmiastowa, powszechna fala oburzenia i poczucia upokorzenia, która objęła wszystkie klasy społeczne i całe spectrum polityczne (od skrajnej prawicy po lewicę i parlament). Hobsbawm wskazuje, że ta reakcja nie wynikała z miłości do samych wysp, lecz była **reakcją na skumulowany, powojenny upadek Imperium Brytyjskiego oraz kryzys gospodarczy**.
+
+Po latach deindustrializacji, rosnącego bezrobocia za rządów Margaret Thatcher i poczucia, że Wielka Brytania staje się państwem drugiej kategorii, wiadomość o zajęciu brytyjskiego terytorium przez argentyńskie wojsko stała się „kroplą, która przepełniła czarę”. Społeczeństwo poczuło, że nie może pozwolić na dalsze traktowanie kraju jak popychadła.
+
+---
+
+3. Przejęcie patriotyzmu przez Thatcherizm (Jingoizm)
+
+Nastroje te zostały w błyskotliwy politycznie sposób przejęte i wykorzystane przez Margaret Thatcher oraz jej zwolenników, którzy przekształcili powszechne oburzenie w agresywny, prawicowy jingoizm.
+
+- **Symboliczny cel wojny:** Dla Thatcher celem nie było jedynie odzyskanie wysp (co można było osiągnąć poprzez pokaz siły połączony z negocjacjami), lecz stoczenie i wygranie zwartej, spektakularnej wojny mocarstwowej, aby udowodnić, że Wielka Brytania nadal jest wielkim mocarstwem zdolnym do imperialnych czynów [379–380].
+- **Odrzucenie negocjacji:** Rząd brytyjski wykazał całkowitą bezkompromisowość na forum ONZ i w relacjach dyplomatycznych, celowo dążąc do militarnej konfrontacji.
+- **Sposób prowadzenia wojny:** Thatcher prowadziła wojnę w sposób populistyczny, odwołując się bezpośrednio do mas za pośrednictwem prasy brukowej (zwłaszcza tabloidu _The Sun_), z pominięciem tradycyjnych procedur parlamentarnych i gabinetowych (wojnę nadzorował mały, ścisły gabinet wojenny). Nadano jej oprawę rekonstrukcji imperialnego spektaklu z udziałem symbolicznych jednostek wojskowych (Gwardia, Paraskoczkowie, SAS, Gurkhowie) [381–382].
+
+---
+
+4. Pęknięcie opinii publicznej i zagraniczne postrzeganie
+
+Wojna doprowadziła do głębokiego pęknięcia brytyjskiej opinii publicznej:
+
+- **Masa społeczna (ok. 80%):** Uległa bezrefleksyjnemu, patriotycznemu zrywowi nakręcanemu przez nagłówki prasowe.
+- **Krytyczna mniejszość:** Wykształcona część społeczeństwa oraz opinia reprezentowana przez prasę ambitną (_Financial Times_, _The Guardian_, _The Observer_) rozumiała, że w kontekście globalnym i ekonomicznym wojna o skrawki lądu na Południowym Atlantyku była politycznym absurdem. Zagraniczni obserwatorzy (np. francuski _Le Monde_) określali konflikt mianem groteskowego sporu w stylu _Clochemerle_.
+
+---
+
+5. Skutki krótko- i długoterminowe
+
+Hobsbawm analizuje wielopoziomowe konsekwencje konfliktu:
+
+1. **Wzrost dominacji skrajnej prawicy:** Zwycięstwo umocniło pozycję Margaret Thatcher i skrajnego skrzydła Partii Konserwatywnej, dając im potężny kapitał polityczny [384–385].
+2. **Koszty finansowe:** Prowadzenie wojny i utrzymanie stałego „garnizonu Falklandy” wygenerowało ogromne, wielomiliardowe wydatki budżetowe.
+3. **Konflikty budżetowe w siłach zbrojnych:** Wojna wywołała spór między dowództwem Marynarki Wojennej a resztą armii o to, czy Wielką Brytanię stać jednocześnie na utrzymanie oceanicznej floty wojennej i zakup nowoczesnego systemu rakietowego Trident.
+4. **Ślepy zaułek polityki zagranicznej:** Wojna nie rozwiązała problemu wysp, lecz przywróciła stan niepewności przy znacznie wyższych kosztach.
+
+---
+
+6. Lekcje dla lewicy: Patriotyzm a walka klasowa
+
+Najważniejszym teoretycznym wnioskiem Hobsbawma jest krytyka podejścia marksistowskiej lewicy do patriotyzmu:
+
+- **Tradycja ludowego patriotyzmu:** Autor przypomina, że brytyjska klasa robotnicza od czasów czartystów i XIX wieku łączyła silną świadomość klasową z patriotyzmem ludowym [390–391]. Masowy zaciąg robotników do wojska w latach 1914–1915 czy zaangażowanie w ludową wojnę antyfaszystowską w latach 1939–1945 nie oznaczały braku świadomości klasowej – to właśnie powojenna mobilizacja z 1945 roku doprowadziła do odsunięcia od władzy Churchilla i zwycięstwa Partii Pracy [391–393].
+- **Zagrożenie oddania symboli prawicy:** Błędem lewicy jest traktowanie patriotyzmu jako pojęcia wyłącznie reakcyjnego i oddanie symboli narodowych (jak flaga Union Jack czy hymn _Rule, Britannia!_) w ręce skrajnej prawicy [393–395].
+- **Niebezpieczeństwo populizmu:** W warunkach kryzysu gospodarczego, deindustrializacji i depolityzacji społeczeństwa, jingoizm staje się dla wykorzenionych mas emocjonalną rekompensatą za poczucie upadku i braku perspektyw [395–396]. Oddanie tego pola prawicy stwarza niebezpieczeństwo powstania autorytarnego, populistycznego nacjonalizmu [396–398].
+
+## Rozdział 19
+

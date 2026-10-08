@@ -107,6 +107,7 @@ W zasadniczym rozdziale wprowadzającym Zitelmann formułuje cele i założenia 
 ### 3.1 Hitler o znaczeniu i genezie kwestii społecznej
 
 - **Społeczny priorytet:** Wbrew obiegowym opiniom, jakoby Hitler bagatelizował sprawy społeczne, Zitelmann dowodzi, że kwestia społeczna stanowiła dla niego problem decydujący. Jak deklarował w prywatnych rozmowach przy stole z listopada 1941 roku: _„Decydująca, powiedziałem sobie, jest kwestia społeczna. Mieliśmy państwo klasowe! Dopiero jego usunięcie uwolniło siły narodu!”_.
+	- ==Gdyby Hitler mówił o sprawach społecznych tylko na wiecach, można by to zbyć jako tanią demagogię dla mas. Ponieważ jednak w prywatnych rozmowach (gdzie nie musiał już uprawiać propagandy) powtarzał dokładnie te same argumenty o konieczności zniesienia barier klasowych i obronie robotników, Zitelmann dowodzi, że priorytet społeczny był autentycznym, organicznym elementem jego światopoglądu==
 - **Doświadczenia wiedeńskie i krytyka mieszczaństwa:** Myśl społeczna Hitlera ukształtowała się podczas jego pobytu w Wiedniu (1908–1913), gdzie bezpośrednio obserwował nędzę proletariatu i rażące kontrasty społeczne. Zarzucał niemieckiemu mieszczaństwu „historyczną winę” i ślepotę na los nowo powstałego stanu robotniczego podczas XIX-wiecznej industrializacji. Mieszczaństwo zignorowało robotników, traktując ich jak konieczne zło i odmawiając im praw społecznych, co wepchnęło masy w objęcia marksizmu.
 - **Ustawodawstwo społeczne jako wymóg biologiczny:** Hitler z odrazą odrzucał mieszczańskie podejście do reform społecznych jako „jałmużny” czy środka zapobiegającego rewolucji. Wzywał do przywrócenia sprawiedliwości społecznej w celu ochrony substancji biologicznej i zdrowia narodu (przeciwko wyzyskowi niszczącemu siły fizyczne).
 
@@ -133,6 +134,9 @@ Zitelmann zebrał i usystematyzował kilkaset wypowiedzi Hitlera, wykazując, ż
 - **Tchórzostwo jako konsekwencja posiadania majątku:** Centralnym zarzutem Hitlera wobec mieszczaństwa było **tchórzostwo, gnuśność i brak siły woli**. W świetle darwinizmu społecznego klasa posiadająca majątek panicznie boi się go utracić, przez co staje się niezdolna do walki politycznej i ponoszenia ofiar.
 - **Koniec misji dziejowej:** Ponieważ cechy wymagane w biznesie (nieheroiczne) są sprzeczne z cechami potrzebnymi w polityce (odwaga, męstwo), przekazanie władzy politycznej mieszczaństwu było tragicznym błędem. Historyczna misja mieszczaństwa dobiegła końca, a klasa ta została przeznaczona na upadek. Sojusze z politykami mieszczańskimi (jak Papen czy Hugenberg) miały charakter wyłącznie taktyczny – Hitler sprzymierzał się z nimi, gdyż widział ich całkowitą słabość.
 
+==W rozumieniu Hitlera to wyższa warstwa – bogaci przedsiębiorcy, przemysłowcy, właściciele ziemscy oraz uniwersytecka inteligencja z majątkiem.== To ich Hitler szczerze nienawidził, zarzucając im pychę stanową, chciwość i obojętność na los robotników.
+
+
 b. Klasa robotnicza
 
 W przeciwieństwie do mieszczaństwa, wypowiedzi Hitlera na temat robotników fizycznych – zarówno publiczne, jak i w najwęższym gronie – były wybitnie pozytywne:
@@ -144,7 +148,7 @@ W przeciwieństwie do mieszczaństwa, wypowiedzi Hitlera na temat robotników fi
 c. Klasa średnia / Drobnomieszczaństwo
 
 - Wbrew popularnym teoriom traktującym narodowy socjalizm jako ruch czysto drobnomieszczański, Zitelmann wykazuje, że **klasa średnia odgrywała w koncepcjach Hitlera rolę marginalną**.
-- Hitler oceniał drobnomieszczaństwo z dużą dozą sceptycyzmu, dostrzegając jego egzystencjalny lęk przed proletaryzacją. Klasie średniej przypisywał jedynie funkcję obiektywno-ekonomiczną jako „pomostu” i narzędzia awansu społecznego dla robotników.
+- Hitler oceniał drobnomieszczaństwo z dużą dozą sceptycyzmu, dostrzegając jego egzystencjalny lęk przed proletaryzacją i reakcyjnie oraz antyrobotnicze nastawienie. Klasie średniej przypisywał jedynie funkcję obiektywno-ekonomiczną jako „pomostu” i narzędzia awansu społecznego dla robotników.
 
 d. Chłopi
 
@@ -166,7 +170,8 @@ d. Chłopi
 ### 4.1 Bagatelizowanie znaczenia zagadnień gospodarczych w myśli Hitlera
 
 - **Krytyka dotychczasowej historiografii:** Zitelmann zdecydowanie obala utrwalony przez wybitnych historyków (m.in. Alana Bullocka, Iana Kershawa czy Henry'ego A. Turnera) mit, jakoby Hitler nie rozumiał gospodarki, lekceważył ją lub wyznawał w tej dziedzinie całkowity, cyniczny oportunizm.
-- **Taktyczna powściągliwość przed 1933 rokiem:** Ogólny i nieprecyzyjny charakter publicznych wypowiedzi gospodarczych Hitlera w okresie weimarskim wynikał wyłącznie z taktyki politycznej. Za radą Hjalmara Schachta z 1932 roku Hitler świadomie unikał ogłaszania szczegółowych programów ekonomicznych, by nie spłoszyć milionów wyborców oraz wielkiego biznesu przed zdobyciem władzy na Wilhelmstrasse. W prywatnych rozmowach z Otto Wagenerem Wódz NSDAP wprost zastrzegał, że plany państwowego sterowania gospodarką muszą pozostać w najściślejszej tajemnicy.
+- **Taktyczna powściągliwość przed 1933 rokiem:** Ogólny i nieprecyzyjny charakter publicznych wypowiedzi gospodarczych Hitlera w okresie weimarskim wynikał wyłącznie z taktyki politycznej. ==Za radą Hjalmara Schachta z 1932 roku Hitler świadomie unikał ogłaszania szczegółowych programów ekonomicznych, by nie spłoszyć milionów wyborców oraz wielkiego biznesu przed zdobyciem władzy na Wilhelmstrasse.== W prywatnych rozmowach z Otto Wagenerem Wódz NSDAP wprost zastrzegał, że plany państwowego sterowania gospodarką muszą pozostać w najściślejszej tajemnicy.
+	- W latach 20. (1920–1928) NSDAP była małą partią kanapowo-rewolucyjną, szafującą m.in. naiwnymi hasłami Gottfreida Federa. Kiedy jednak po kryzysie z 1929 roku stała się masową siłą polityczną o krok od przejęcia władzy, Schacht (znany bankier) dał Hitlerowi w 1932 r. bardzo konkretną radę taktyczną: _nie ogłaszajcie żadnego szczegółowego programu gospodarczego przed wyborami!_
 - **Niezwykła skuteczność polityki gospodarczej:** ==Nadzwyczajnie szybka likwidacja masowego bezrobocia w latach 1933–1936, spadek liczby bezrobotnych z 5,6 mln do 1,6 mln oraz dynamiczny wzrost dochodu narodowego (o ponad 40%)== udowodniły, że narodowosocjalistyczne eksperymenty gospodarcze cechowała przemyślana konsekwencja, a myślenie Hitlera było głęboko zdetermnowane analizami ekonomicznymi.
 
 ---
@@ -191,7 +196,7 @@ d. Chłopi
 ### 4.4 Ostrzeżenia dotyczące sieci powiązań między biznesem a polityką
 
 - **Walka z korporacyjnym lobbingiem:** ==Aby zagwarantować pełen prymat polityki, Hitler domagał się bezwzględnego oddzielenia aparatczyków państwowych i partyjnych od prywatnego kapitału. Wskazywał na Wielką Brytanię jako ucieleśnienie korupcji, gdzie politycy (jak Baldwin czy Chamberlain) wciągnęli kraj w wojnę z powodu własnych akcji w przemyśle zbrojeniowym.==
-- **Kategoryczne dyrektywy z lat 1942–1943:** Pod wpływem monologów Führera w Kwaterze Głównej, Kancelaria Rzeszy (Lammers i Bormann) wydała surowe zakazy: żaden poseł do Reichstagu, Gauleiter, wyższy urzędnik cywilny czy oficerek Wehrmachtu nie mógł zasiadać w radach nadzorczych firm prywatnych ani posiadać pakietów akcji spółek. Osformowanie własnego majątku dozwolone było jedynie w postaci państwowych papierów wartościowych lub ziemi.
+- **Kategoryczne dyrektywy z lat 1942–1943:** ==Pod wpływem monologów Führera w Kwaterze Głównej, Kancelaria Rzeszy (Lammers i Bormann) wydała surowe zakazy: żaden poseł do Reichstagu, Gauleiter, wyższy urzędnik cywilny czy oficerek Wehrmachtu nie mógł zasiadać w radach nadzorczych firm prywatnych ani posiadać pakietów akcji spółek. ==Formowanie własnego majątku dozwolone było jedynie w postaci państwowych papierów wartościowych lub ziemi.
 
 ---
 
@@ -214,6 +219,11 @@ d. Chłopi
     2. ==Cały sektor energetyczny (elektrownie, gazownictwo),==
     3. ==Przemysł wydobywczy i produkcja kluczowych surowców (węgiel, żelazo, ropa naftowa, hutnictwo).==
 - **Precedensy państwowych gigantów:** ==Przykłady powstania _Reichswerke Hermann Göring_ (gdy prywatni baronowie stalowi odmówili wydobycia niskogatunkowej rudy) oraz zakładów _Volkswagena_ (stworzonych przez DAF po tym, jak prywatny przemysł motoryzacyjny sabotował projekt taniego auta dla ludu) dowodzą, że Hitler bez wahania tworzył państwowe monopole w kontrze do kapitału prywatnego.==
+	- **Reichswerke Hermann Göring (1937):**
+		- _Co się stało:_ Prywatni niemieccy baronowie stalowi z Ruhry (m.in. Krupp, Thyssen, Flick) odmówili inwestowania w wydobycie niskogatunkowych krajowych rud żelaza w Salzgitter, uznając to za całkowicie nieopłacalne ekonomicznie w porównaniu z importem szwedzkiej rudy.
+		- _Reakcja reżimu:_ Göring i Hitler zignorowali rachunek zysków prywatnego biznesu. Państwo powołało własny, państwowy gigant – _Reichswerke Hermann Göring_. Wywłaszczyło złoża i zbudowało największy koncern w Europie, zatrudniający ponad 600 tys. ludzi
+	- **Volkswagen / KdF-Wagen (1934–1938):**
+		- 
 
 ---
 
