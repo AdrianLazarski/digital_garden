@@ -447,3 +447,130 @@ Hobsbawm podsumowuje, że nacjonalizm jest zjawiskiem podwójnym, powstającym n
 2. Jest **mechanizmem obronnym** społeczeństwa przed destrukcyjnym wpływem gwałtownych przekształceń ekonomicznych i społecznych.
 
 Jako zjawisko historyczne, które ukształtowało się po 1789 roku, nacjonalizm **nie jest cechą trwałą ani wieczną**. Wraz z postępującą globalizacją gospodarki, technologii i komunikacji, państwo narodowe przestaje być optymalną ramą rozwoju ludzkości, co w długiej perspektywie doprowadzi do przekształcenia lub wygasania historycznych funkcji nacjonalizmu.
+
+## Rozdział 11 
+
+1. Istota tożsamości i prymat państwa terytorialnego
+
+Eric Hobsbawm rozpoczyna od zauważenia, że przynależność człowieka do grupy ma charakter wielowymiarowy i kontekstowy. Każdy człowiek posiada jednocześnie wiele różnych tożsamości (zawodowych, lokalnych, kulturowych). W XX wieku tożsamością nadrzędną stała się jednak tożsamość **państwa terytorialnego**.
+
+- **Nowość historyczna państwa terytorialnego:** Państwo współczesne rości sobie prawo do wyłącznej lojalności obywatela, jego patriotyzmu, a w czasie wojny – nawet życia. Jest to konstrukcja stosunkowo nowa w historii (np. granica francusko-hiszpańska została precyzyjnie wyznaczona w terenie dopiero w 1869 roku).
+- **Utożsamienie państwa z narodem:** W języku potocznym i politycznym słowa „państwo” i „naród” zaczęły być stosowane zamiennie (czego przykładem jest nazwa _Organizacja Narodów Zjednoczonych_, będąca w rzeczywistości organizacją państw).
+
+---
+
+2. Pomieszanie pojęć: Państwo terytorialne a wspólnota socjologiczna
+
+Hobsbawm wskazuje na fundamentalny błąd pojęciowy, jakim jest utożsamienie państwa jako terytorialnej wspólnoty politycznej ze wspólnotą etniczną lub kulturową.
+
+- **Historyczne państwa wieloetniczne:** Klasyczne państwa terytorialne (jak rewolucyjna Francja czy USA) definiowały „naród” jako ogół mieszkańców danego terytorium podlegających jednemu prawu i konstytucji, niezależnie od pochodzenia czy języka. Żadne duże terytorium w historii nie było zamieszkane przez jednolitą populację.
+- **Przykłady historyczne:** Naród hiszpański składał się z Basków, Kastylijczyków, Katalończyków i Galicyjczyków. Podobnie naród niemiecki opierał się na przynależności do poszczególnych „szczepów” (_Stämme_: Szwabów, Saksończyków, Bawarczyków).
+- **Fałszywe założenie niepodległości etnicznej:** Założenie, że każda grupa etniczna musi posiadać własne państwo terytorialne, jest nowożytnym wymysłem. Przykładem są Kurdowie, którzy przed 1918 rokiem nie formułowali żądań własnego państwa, a jako lud w części koczowniczy woleli raczej brak opresyjnej władzy państwowej.
+
+---
+
+3. Pojęcie etniczności, arbitralność granic i zjawisko asymilacji
+
+- **Negatywny charakter etniczności:** Etniczność nie ma z natury charakteru politycznego. Służy jedynie do odgraniczania grupy „naszej” od „obcych” („bez _innych_ nie ma potrzeby definiowania siebie”). Hobsbawm przywołuje spis ludności na Polesiu z 1931 roku, gdzie mieszkańcy na pytanie o narodowość odpowiadali po prostu „tutejsi”.
+- **Sztuczne tworzenie grup:** Wiele kategorii etnicznych zostało stworzonych z zewnątrz przez władze (np. klasyfikowanie zróżnicowanych plemion przez administratorów kolonialnych czy stworzenie zbiorczej kategorii „rdzennych Amerykanów” w USA).
+- **Brak obiektywnych kryteriów i polaryzacja:** Wyznaczenie ścisłych granic etnicznych jest niemożliwe (czego dowodziły sprzeczności między rasistowskimi ustawami norymberskimi a izraelskim Prawem Powrotu). Aby skłonić ludzi do identyfikacji etnicznej w rejonach mieszanych (np. w Bośni czy Ulsterze), skrajne ruchy stosują strategię terroru i kontrterroru, wymuszając polaryzację.
+- **Asymilacja jako proces naturalny:** W XIX i XX wieku masowa asymilacja i migracja były głównym silnikiem awansu społecznego. Przyjęcie nowej kultury nie musiało oznaczać wyrzeczenia się korzeni. Gorliwcy nacjonalistyczni odrzucają asymilację, ponieważ sprzeciwia się ona ich kategorycznemu wyborowi „albo-albo”.
+
+---
+
+4. Religia jako znacznik grupowy i narodziny nowożytnego „fundamentalizmu”
+
+Religie uniwersalne nie służą z definicji do definiowania pojedynczych narodów, jednak w praktyce różnice wyznaniowe często pełnią funkcję znaczników grupowej odrębności (np. w Irlandii Północnej, Bośni czy na Sri Lance).
+
+- **Kryzys tradycyjnych kościołów:** Dawne, uniwersalne kościoły (parafie, diecezje) organizowały całe społeczeństwa. Ich osłabienie otworzyło drogę do nowej mobilizacji religijno-etnicznej.
+- **Nowy charakter „fundamentalizmu”:** Hobsbawm uważa pojęcie fundamentalizmu za mylące, gdyż nie oznacza ono powrotu do autentycznych tradycji, lecz jest nowożytną, zwężoną redefinicją wiary nastawioną na wykluczanie obcych.
+    - Koncepcja państwa islamskiego Chomeiniego z lat 70. była nowością polityczną.
+    - Współczesny radykalny chasydyzm narzuca niespotykany dotąd stopień rytualizmu.
+    - Polityczny buddyzm na Sri Lance czy tzw. „fundamentalizm hinduski” przekształciły tradycyjne wierzenia w agresywne, wykluczające religie państwowo-narodowe.
+
+---
+
+5. Skutki wdrażania państw etnicznych i rozwój „ruchów gettowych”
+
+- **Cztery skrajne polityki:** Próba stworzenia jednolicie etnicznego państwa terytorialnego na zróżnicowanym obszarze prowadzi nieuchronnie do czterech opcji: przymusowej asymilacji, czystek etnicznych (masowych wysiedleń), ludobójstwa lub systemu apartheidu.
+- **Powstanie „ruchów gettowych” (polityka tożsamości):** Od lat 60. XX wieku na Zachodzie (zwłaszcza w USA) pojawiła się nowa forma tożsamości zbiorowej.
+- **Odrzucenie asymilacji i multikulturalizm:** W przeciwieństwie do dawnych imigrantów, nowe grupy gettowe rezygnują z celu asymilacji pod hasłem **multikulturalizmu** (wielokulturowości). Nie dążą one do secesji terytorialnej, lecz wykorzystują swoją odrębność do rywalizacji z innymi grupami o zasoby i przywileje od państwa centralnego (np. poprzez „akcję afirmatywną”).
+
+---
+
+6. Dezorientacja społeczna jako źródło nowego nacjonalizmu
+
+Hobsbawm stawia tezę, że eksplozja nowego nacjonalizmu i separatyzmu pod koniec XX wieku nie jest przejawem „odwiecznych sił etnicznych”, lecz **wynikiem gwałtownej dezorientacji i rozpadu tradycyjnych struktur społecznych**.
+
+- **Studium przypadku na Sri Lance:** Badania Jonathana Spencera pokazały, jak w wiejskiej społeczności Sinhala wzniesienie szkoły, drogi i wniknięcie gospodarki pieniężnej rozbiły tradycyjne więzi rodzinne. Lęk przed utratą spójności doprowadził mieszkańców do ucieczki w agresywny populizm i nacjonalizm syngaleski.
+- **Załamanie tradycyjnych wzorców na Zachodzie:** Podobny mechanizm zaszły na Zachodzie – np. separatyzm w Quebecu wybuchł pod koniec dekady, w której nastąpił gwałtowny upadek tradycyjnego katolicyzmu i modelu rodziny.
+- **Nacjonalizm jako „krok rozpaczy”:** W świecie, w którym rozpadły się dawne autorytety i struktury zatrudnienia, etniczność i naród stają się dla wykorzenionych ludzi jedyną „pewnością”. Nowe skrajne ruchy (np. neo-naziści czy chuligani stadionowi) są w rzeczywistości **ślepym protestem i krzykiem bólu** ludzi pozbawionych perspektyw, a nie kontynuacją dawnego nacjonalizmu politycznego
+
+
+## Rozdział 12
+
+1. Problem badawczy i zestawienie z Irlandią
+
+Eric Hobsbawm stawia pytanie: dlaczego w Szkocji i Walii nie powstały silne, masowe ruchy dążące do niepodległości państwowej, mimo że u znacznej części ich mieszkańców istniało silne poczucie odrębności narodowej, podczas gdy Irlandia stała się klasycznym przykładem masowego nacjonalizmu niepodległościowego?
+
+- **Brak dążeń secesyjnych:** W przeciwieństwie do Irlandii, żaden znaczący nurt opinii w Szkocji ani Walii nie dążył na poważnie do całkowitego odłączenia się od Anglii.
+- **Ekspresja tożsamości poprzez kulturę i sport:** Poczucie odrębności wyrażało się w specyficzny sposób. Podczas gdy Irlandczycy stworzyli własne, narodowe dyscypliny sportowe (futbol gaelicki, hurling), Walijczycy przejęli rugby union (w Anglii zarezerwowane dla klas średnich), a Szkoci przyjęli futbol (piłkę nożną), nasycając go narodową pasją w ramach własnego systemu klubowego [326–327].
+
+---
+
+2. Szkocja jako „naród historyczny” a Walia jako „naród niehistoryczny”
+
+Hobsbawm wykorzystuje XIX-wieczne rozróżnienie na narody historyczne i niehistoryczne, aby ukazać odmienne struktury społeczne obu krajów:
+
+- **Szkocja („naród historyczny”):**
+    - Weszła w unię z Anglią w 1707 roku jako niepodległe królestwo z długą historią państwowości oraz odrębnym systemem instytucjonalnym (prawo, edukacja, kościół prezbiteriański, administracja).
+    - Posiadała pełną strukturę społeczną: własną arystokrację, odrębną strukturę rolną, uniwersytety oraz dynamiczną własną burżuazję, która brała aktywny udział w rewolucji przemysłowej (zwłaszcza wokół Glasgow).
+    - Odrębność instytucjonalna zapewniała Szkotom monopol na stanowiska profesjonalne w kraju, a Anglia oferowała szkockim elitom szerokie możliwości awansu zawodowego i politycznego.
+- **Walia („naród niehistoryczny”):**
+    - Nie posiadała historycznej jedności politycznej ani tradycyjnej stolicy [328–329].
+    - Walijska szlachta uległa anglicyzacji po unii z 1536 roku. Do połowy XIX wieku praktycznie nie istniała walijska rodzima burżuazja.
+    - Społeczeństwo walijskie składało się głównie z klas ludowych (chłopów, rzemieślników, robotników) oraz wąskiej warstwy lokalnych kadr (nauczycieli, kupców i pastorów protestanckich).
+    - **Filary „walijskości”:** Walijska tożsamość opierała się na języku walijskim oraz protestanckiej nonkonformistycznej wspólnocie religijnej, stanowiącej opozycję wobec anglikańskiego Kościoła Anglii i zanglicyzowanego ziemiaństwa [329–330].
+    - Walijski ruch narodowy miał charakter wybitnie radykalny, ludowy, demokratyczny i antyklerykalny.
+
+---
+
+3. Pojęcie „Home Rule” a dewolucja administracyjna
+
+W dyskursie politycznym XIX wieku hasło „Home Rule” miało zupełnie inne znaczenie dla Irlandczyków niż dla Szkotów i Walijczyków:
+
+- Dla Irlandczyków oznaczało wywalczenie pełnej niepodległości od Londynu.
+- Dla Szkotów i Walijczyków oznaczało jedynie **dewolucję administracyjną** oraz sprawiedliwy podział środków budżetowych.
+
+Szkockie postulaty zostały w zasadzie bezgłośnie spełnione przez Londyn poprzez utworzenie Urzędu do spraw Szkocji (_Scottish Office_, 1885), gwarantowaną formułę budżetową (_Goschen Formula_) oraz powołanie Szkockiego Komitetu Wielkiego w parlamencie (1894) [334–335]. W Walii postulaty językowe i religijne zrealizowano poprzez wprowadzenie nauczania dwujęzycznego (1888), utworzenie Uniwersytetu Walijskiego (1893) oraz rozdzielenie Kościoła Anglii od państwa w Walii (1914). Próba przekształcenia walijskiego liberalizmu w ruch jednoznacznie nacjonalistyczny (_Cymru Fydd / Young Wales_ pod przywództwem Davida Lloyda George'a w latach 1886–1896) załamała się, gdy uprzemysłowione południe Walii odrzuciło wiejsko-językową dominację północy [336–337].
+
+---
+
+4. Trzy główne przyczyny braku masowego separatyzmu
+
+Hobsbawm wymienia trzy kluczowe czynniki, które uniemożliwiły rozwój masowego nacjonalizmu secesyjnego w Szkocji i Walii:
+
+1. **Integracja gospodarcza z brytyjskim industrializmem:**
+    - Zarówno Szkocja, jak i Walia rozwinęły się po rewolucji przemysłowej jako zintegrowane, wyspecjalizowane centra ciężkiego przemysłu, górnictwa, hutnictwa i przemysłu stoczniowego ogólnobrytyjskiej gospodarki.
+    - W przeciwieństwie do rolniczej Irlandii czy uprzemysłowionych regionów w nieprzemysłowej Hiszpanii (Katalonia, Kraj Basków), secesja nie przynosiła żadnych korzyści ekonomicznych.
+    - Nawet podczas wielkiego kryzysu międzywojennego, gdy oba kraje stały się rejonami strukturalnego bezrobocia, robotnicy szukali ratunku w ruchu robotniczym, a nie w mikroskopijnych wówczas partiach nacjonalistycznych (Plaid Cymru powstała w 1925 r., SNP w 1928 r.).
+2. **Rola Partii Liberalnej i awans elit w strukturach brytyjskich:**
+    - Głównym wyrazicielem interesów Szkocji i Walii w XIX wieku stała się Partia Liberalna [341–342].
+    - Czołowi politycy szkoccy i walijscy (jak Henry Campbell-Bannerman czy David Lloyd George) obejmowali najwyższe stanowiska rządowe w Londynie (w tym urząd premiera Wielkiej Brytanii), co podważało sens dążeń secesyjnych.
+3. **Rozwój ruchu robotniczego i świadomości klasowej:**
+    - Przejście mas pracujących na pozycje socjalistyczne i klasowe (zwłaszcza od początku XX wieku) definitywnie odsunęło hasła nacjonalistyczne na dalszy plan [343–346].
+    - Przemysłowe południe Walii (np. dolina Rhondda) i szkockie pasmo nizinne (Zagłębie Glasgow) stały się bastionami radykalnego syndykalizmu, marksizmu i Partii Pracy.
+    - Liderzy robotniczy (Keir Hardie, Aneurin Bevan, A.J. Cook) definiowali swoją walkę w kategoriach klasowych w skali ogólnobrytyjskiej [346–347].
+    - W Szkocji znaczna część klasy robotniczej składała się z katolickich imigrantów z Irlandii, dla których tradycyjne szkockie symbole narodowe (np. Robert Bruce czy John Knox) były całkowicie obce.
+
+---
+
+5. Konkluzje: „Narody proletariackie”
+
+Hobsbawm podsumowuje, że Szkocja i Walia stanowiły w XIX i XX wieku rzadki przykład urzeczywistnienia klasycznej prognozy marksistowskiej: były to „narody proletariackie”, których klasy robotnicze oparły się pokusom nacjonalizmu i zorganizowały się pod sztandarem międzynarodowej ideologii klasowej.
+
+Nacjonalizm w tradycyjnej formie pozostał ograniczony do wiejskich rejonów, małych miasteczek, drobnomieszczaństwa oraz grupy intelektualistów [349–350]. Ponadto brak zewnętrznego państwa patronackiego oraz nierealność koncepcji unii ogólnoceltyckiej z Irlandią dodatkowo osłabiały potencjał secesyjny
+
+
+## Rozdział 13
+

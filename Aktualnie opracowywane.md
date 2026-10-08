@@ -12,6 +12,7 @@
 
 [[McCloskey Deirdre, Burżuazyjna godność]] 📌
 [[Berkhof Louis, Podręcznik doktryny chrześcijańskiej]]
+[[Zitelmann Rainer, Socjalizm w mundurze]]
 
 [[Hobsbawm Eric, O nacjonalizmie]]
 

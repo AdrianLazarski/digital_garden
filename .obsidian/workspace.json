@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "2c94db960518f71b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zitelmann Rainer, Socjalizm w mundurze"
+            }
+          },
+          {
+            "id": "ed38d31efb2e67a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hobsbawm Eric, O nacjonalizmie"
+            }
+          },
+          {
             "id": "9cdbf2b229fef705",
             "type": "leaf",
             "state": {
@@ -102,33 +150,9 @@
               "icon": "lucide-file",
               "title": "English grammar"
             }
-          },
-          {
-            "id": "ed38d31efb2e67a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hobsbawm Eric, O nacjonalizmie"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hobbsb",
+                "query": "zitelmann",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -183,8 +207,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -333,6 +356,7 @@
   },
   "active": "ed38d31efb2e67a5",
   "lastOpenFiles": [
+    "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
     "Aktualnie opracowywane.md",
     "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
@@ -358,7 +382,6 @@
     "02 MOC/MOC IT.md",
     "01 Input/notatki z baz danych, nieobrobione.md",
     "02 MOC/MOC IT/MOC Operator (Programowanie).md",
-    "03 Atomy/Operator przypisania.md",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-7.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-6.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-5.webp",
