@@ -13,6 +13,8 @@
 [[McCloskey Deirdre, Burżuazyjna godność]] 📌
 [[Berkhof Louis, Podręcznik doktryny chrześcijańskiej]]
 
+[[Hobsbawm Eric, O nacjonalizmie]]
+
 [[Szyszkowska Maria, Zarys filozofii prawa]]
 [[Jaspers Karl, Wprowadzenie do filozofii]]
 [[Popkin Richard, Stroll Avrum,  Filozofia]]
@@ -36,6 +38,8 @@
 [[Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej]]
 
 # 3. Niespisane notatki - czytam
+
+[[Hegel Georg Wilhelm Friedrich, Fenomenologia ducha]]
 
 [[Johnson, Lusch, Schmidtz, Społeczeństwo handlowe Wprowadzenie do etyki i ekonomii]]
 [[McCloskey Deirdre, Burżuazyjna godność]]

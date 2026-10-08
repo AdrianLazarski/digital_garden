@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
+                "file": "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hegel Georg Wilhelm Friedrich, Fenomenologia ducha"
+              "title": "Hobsbawm Eric, O nacjonalizmie"
             }
           }
         ],
@@ -162,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#filozofia/współczesna",
+                "query": "hobbsb",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -183,7 +183,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
+                "file": "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -332,12 +333,13 @@
   },
   "active": "ed38d31efb2e67a5",
   "lastOpenFiles": [
+    "Aktualnie opracowywane.md",
+    "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
+    "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
     "07 Language lab/English grammar.md",
     "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
     "02 MOC/MOC Ekonomia.md",
-    "Aktualnie opracowywane.md",
     "04 Źródła/Szyszkowska Maria, Zarys filozofii prawa.md",
-    "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "05 Osoby/Arystoteles.md",
     "04 Źródła/Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej.md",
@@ -357,7 +359,6 @@
     "01 Input/notatki z baz danych, nieobrobione.md",
     "02 MOC/MOC IT/MOC Operator (Programowanie).md",
     "03 Atomy/Operator przypisania.md",
-    "04 Źródła/Illich Ivan, Odszkolnić społeczeństwo.md",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-7.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-6.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-5.webp",
