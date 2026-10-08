@@ -14,7 +14,7 @@ Wydane pośmiertnie w 2021. Pisane do 1990.
 
 # Notatki
 
-## Rozdział 1
+## 1. Poza historią i wewnątrz historii (Outside and Inside History)
 
 - Twierdzi, że model bolszewicki do pewnego momentu działał lepiej w Europie Środkowo-Wschodniej niż inne rozwiązania na tych obszarach, podejmowane od 1918 r. Dla mieszkańców Słowacji, czy Bałkanów to prawdopodobnie najlepszy okres w ich życiach.
 	- Model ten załamał się przez sztywność i niemożność generowania i gospodarczego wykorzystania innowacji. Nie dało się też ukryć faktu, że kraje niesocjalistyczne prosperują lepiej.
@@ -27,7 +27,7 @@ Wydane pośmiertnie w 2021. Pisane do 1990.
 - Przez pierwsze kilkadziesiąt lat istnienia Izraela najważniejsze prace dotyczące Holocaustu (nieważne czy autorstwa Żyda czy nie) nie doczekały się hebrajskiego tłumaczenia.
 - Kończy jakimś egzaltowaną sygnalizacją lewicowej cnoty, że każde społeczeństwo, w którym warto żyć, to społeczeństwo stworzone dla ludzi byle jakich, niemądrych, nieciekawych, nie jakoś szczególnie zdolnych. Jego zdaniem mniejszość bogatych i mądrych zawsze sobie poradzi, ale dobre społeczeństwo powinno mieć miejsce i dla nich. "Jednak świat nie został stworzony dla naszej osobiste korzyści ani my nie jesteśmy w świecie dla naszej osobistej korzyści. Świat, w którym twierdzi się, że taki jest jego cel, nie jest dobry i nie powinien trwać".
 
-## Rozdział 2
+## 2. Nacjonalizm w wieku rewolucji (Nationalism in the Age of Revolution)
 
 - Nacjonalizm to wynalazek dla biedoty i ubogiej szlachty, które nie mogły konkurować z klasą średnią dominującego narodu (przykład dotyczy Węgier i konkurowania z Niemcami i Żydami, ale u nas można to też odnieść np. do Rosjan). Oni byli najbardziej antyabsolutystyczni i dążyli do wykształcenia własnego organizmu państwowego.
 - Narodowa klasa przedsiębiorców była najmniej nastawiona nacjonalistyczne.
@@ -66,7 +66,7 @@ Nacjonalizm, reprezentowany przez klasę średnią (intelektualiści, urzędnicy
 
 **Brak nacjonalizmu poza Europą:** Poza Europą, nacjonalizm w tym okresie nie istniał, ponieważ nie było dla niego warunków społecznych. Rozwijająca się lokalna burżuazja w krajach azjatyckich i islamskich działała pod osłoną obcych wyzyskiwaczy. Ich pierwszym zadaniem politycznym było **westernizacja** – wprowadzanie idei rewolucji francuskiej i modernizacji naukowej/technicznej przeciwko oporowi tradycyjnych władców i poddanych. W Azji, krajach islamskich i Afryce połączenie elit z nacjonalizmem i masami nastąpiło dopiero w XX wieku. Wyjątkiem byli Grecy, których kosmopolityczna klasa kupców i administracyjna, zhellenizowana przez Prawosławny Kościół, przyjęła idee Rewolucji Francuskiej, prowadząc do powstania Filiki Eterii i buntu w 1821 roku.
 
-## Rozdział 3
+## 3. Budowanie narodów w wieku kapitału (Building Nations in the Age of Capital
 
 Rozdział 3, zatytułowany **"Budowanie narodów w epoce kapitału"** (z książki Erica Hobsbawma _The Age of Capital: 1848–1875_), koncentruje się na roli nacjonalizmu i "zasady narodowości" w kształtowaniu polityki międzynarodowej i wewnętrznej w latach 1848-1875. Okres ten jest postrzegany przez tradycyjną historiografię zachodnią jako czas tworzenia Europy państw narodowych.
 
@@ -110,7 +110,7 @@ Rozdział 3, zatytułowany **"Budowanie narodów w epoce kapitału"** (z książ
 	    ◦ **Kompatybilność z liberalizmem**: W tym okresie nacjonalizm był postrzegany jako możliwy do zarządzania w ramach liberalizmu burżuazyjnego i z nim kompatybilny. Wierzono, że świat narodów będzie światem liberalnym, a świat liberalny będzie składał się z narodów.
 
 W sumie, okres "Budowania Narodów w epoce kapitału" był czasem intensywnego kształtowania się państw narodowych, charakteryzującego się zarówno dążeniem do jednolitości narodowej, jak i pojawieniem się oporu mniejszości oraz złożonych dylematów politycznych i kulturowych.
-## Rozdział 4
+## 4. Wymachiwanie flagami w wieku imperium (Waving Flags in the Age of Empire
 
 - Dmowski: to państwo tworzy naród, a nie naród państwo.
 - Ludzie od zawsze czuli powiązanie z danym kawałkiem ziemi, ale taką ojczyznę pojmowali jako siedzibę realnej społeczności, tworzonej przez ludzi pozostających w rzeczywistych stosunkach społecznych, a nie wyimaginowaną wspólnotę dziesiątek i setek milionów obcych ludzi.
@@ -165,8 +165,7 @@ Rozdział 4, zatytułowany **"Wymachiwanie flagami w epoce kapitału"**, omawia 
 
 Podsumowując, rozdział 4 podkreśla, że w Epoce Kapitału nacjonalizm przeszedł głęboką transformację, stając się potężną siłą polityczną, definiowaną coraz częściej etnicznie i językowo, aktywnie konstruowaną przez państwo, podatną na wpływy prawicy i ksenofobii, a także przenikającą do ruchów masowych, w tym robotniczych.
 
-
-## Rozdział 5
+## 5. Czy robotnicy mają ojczyznę? (Do Workers Have a Country?)
 
 **1. Wielowymiarowość tożsamości robotniczej** Eric Hobsbawm rozpoczyna od zakwestionowania dwóch skrajnych założeń: marksistowskiego twierdzenia, że „robotnicy nie mają ojczyzny”, oraz nacjonalistycznego poglądu, że mają tylko jedną. Autor argumentuje, że tożsamość narodowa robotników nie jest jednolita ani stała.
 
@@ -206,7 +205,7 @@ Podsumowując, rozdział 4 podkreśla, że w Epoce Kapitału nacjonalizm przesze
 
 **Podsumowanie** Rozdział kończy się konkluzją, że historia podzieliła Irlandię, tworząc de facto dwie klasy robotnicze. Przypadek Ulsteru, ze względu na ostrość podziałów religijno-politycznych, jest unikalny w Europie Zachodniej i przypomina raczej napięcia hindusko-muzułmańskie w Indiach. Unikalność rozwoju historycznego Irlandii odbyła się kosztem powstania jej klasy robotniczej i ruchu robotniczego.
 
-## Rozdział 6
+## 6. Wynajdywanie tradycji narodowych (Inventing National Traditions)
 
 Oto szczegółowe streszczenie rozdziału 6, zatytułowanego „Wynajdywanie tradycji narodowych” (ang. _Inventing National Traditions_):
 
@@ -237,7 +236,7 @@ Oto szczegółowe streszczenie rozdziału 6, zatytułowanego „Wynajdywanie tra
 - Rzucają światło na ludzki stosunek do przeszłości, która jest używana jako legitymizacja działań i spoiwo spójności grupowej.
 - Są niezbędne do zrozumienia **narodu i nacjonalizmu**, które są stosunkowo nowymi innowacjami historycznymi i opierają się na inżynierii społecznej. Nowoczesne narody, mimo roszczeń do starożytności, są w dużej mierze konstruktami, a ich badanie wymaga uwagi na proces „wynajdywania tradycji” [258–259].
 
-## Rozdział 7
+## 7. Produkcja tradycji „narodowych” (The Production of ‘National’ Traditions)
 
 Oto szczegółowe streszczenie rozdziału 7, zatytułowanego „Produkcja tradycji »narodowych«” (ang. _The Production of ‘National’ Traditions_), oparte na dostarczonych źródłach:
 
@@ -278,7 +277,7 @@ Oto szczegółowe streszczenie rozdziału 7, zatytułowanego „Produkcja tradyc
 - Autor podkreśla, że skuteczne „wynajdywanie tradycji” nie jest jedynie manipulacją z góry, lecz musi odpowiadać na autentyczne potrzeby społeczne i emocjonalne grup, do których jest kierowane [312–313].
 
 
-## Rozdział 8
+## 8. Etniczność, migracja i państwo narodowe (Ethnicity, Migration and the Nation-State)
 
 1. Nowy nieporządek świata i paradoks nacjonalizmu
 
@@ -336,8 +335,7 @@ Rozdział kończy się stwierdzeniem, że wyłączny nacjonalizm etniczny i sztu
 
 
 
-
-## Rozdział 9
+## 9. Internacjonalizm klasy robotniczej (Working-Class Internationalism)
 
 1. Kontekst i trzy wymiary problemu
 
@@ -388,7 +386,7 @@ Hobsbawm podkreśla, że dla zwykłych robotników alternatywa „internacjonali
 
 Rozdział kończy się konkluzją, że w świecie narastających napięć etnicznych i rasowych podtrzymywanie zasad internacjonalizmu i antyrasizmu (czego przykładem jest platforma Afrykańskiego Kongresu Narodowego w RPA) pozostaje jedyną nadzieją na przyszłość
 
-## Rozdział 10
+## 10. Określenie nacjonalizmu: problemy (Defining Nationalism: The Problems)
 
 1. Trudności analityczne i krytyka dotychczasowych teorii
 
@@ -448,7 +446,7 @@ Hobsbawm podsumowuje, że nacjonalizm jest zjawiskiem podwójnym, powstającym n
 
 Jako zjawisko historyczne, które ukształtowało się po 1789 roku, nacjonalizm **nie jest cechą trwałą ani wieczną**. Wraz z postępującą globalizacją gospodarki, technologii i komunikacji, państwo narodowe przestaje być optymalną ramą rozwoju ludzkości, co w długiej perspektywie doprowadzi do przekształcenia lub wygasania historycznych funkcji nacjonalizmu.
 
-## Rozdział 11 
+## 11. Państwo, etniczność i religia (The State, Ethnicity and Religion)
 
 1. Istota tożsamości i prymat państwa terytorialnego
 
@@ -507,7 +505,7 @@ Hobsbawm stawia tezę, że eksplozja nowego nacjonalizmu i separatyzmu pod konie
 - **Nacjonalizm jako „krok rozpaczy”:** W świecie, w którym rozpadły się dawne autorytety i struktury zatrudnienia, etniczność i naród stają się dla wykorzenionych ludzi jedyną „pewnością”. Nowe skrajne ruchy (np. neo-naziści czy chuligani stadionowi) są w rzeczywistości **ślepym protestem i krzykiem bólu** ludzi pozbawionych perspektyw, a nie kontynuacją dawnego nacjonalizmu politycznego
 
 
-## Rozdział 12
+## 12. Peryferie celtyckie (The Celtic Fringe)
 
 1. Problem badawczy i zestawienie z Irlandią
 
@@ -572,7 +570,7 @@ Hobsbawm podsumowuje, że Szkocja i Walia stanowiły w XIX i XX wieku rzadki prz
 Nacjonalizm w tradycyjnej formie pozostał ograniczony do wiejskich rejonów, małych miasteczek, drobnomieszczaństwa oraz grupy intelektualistów [349–350]. Ponadto brak zewnętrznego państwa patronackiego oraz nierealność koncepcji unii ogólnoceltyckiej z Irlandią dodatkowo osłabiały potencjał secesyjny
 
 
-## Rozdział 13
+## 13. Granice nacjonalizmu (The Limits of Nationalism)
 
 1. Nacjonalizm jako potężna siła i jego historyczna nowość
 
@@ -624,7 +622,7 @@ Hobsbawm podsumowuje, że obiektywne i krytyczne podejście do własnej historii
 - Oznaką dojrzałości narodowej jest sytuacja, w której historycy odrzucają mitologię wyzwoleńczą na rzecz rzetelnej nauki, co stało się w Irlandii pół wieku po odzyskaniu niepodległości czy w Izraelu 40 lat po jego powstaniu [568–570, 853].
 - Autor przypomina przykład Thomasa Masaryka (założyciela Czechosłowacji), który mimo braku popularności miał odwagę udowodnić, że rzekomo średniowieczne rękopisy będące fundamentem czeskiego mitu narodowego były fałszerstwami. Odwaga do demitologizacji własnej przeszłości jest najważniejszym obowiązkiem historyka wobec nacjonalizmu.
 
-## Rozdział 14
+## 14. Wieża Babel (Tower of Babel)
 
 1. Współczesna eksplozja i upolitycznienie języka
 
@@ -684,7 +682,7 @@ Hobsbawm formułuje trzy kluczowe wnioski, które powinny kierować racjonalną 
 Rozdział kończy się konkluzją, że polityka językowa zdominowana przez nacjonalistyczne emocje stała się „polityką irracjonalności” (_politics of unreason_), w której racjonalne argumenty rzadko trafiają do językowych gorliwców.
 
 
-## Rozdział 15
+## 15. Niewiarygodna „socjobiologia” nacjonalizmu (The Unconvincing ‘Sociobiology’ of Nationalism)
 
 1. Trudność w naukowym ujęciu nacjonalizmu i jego pojęciowa mglistość
 
@@ -1036,3 +1034,125 @@ Rozdział kończy się ponurą konkluzją: w świecie, w którym tradycyjne wię
 
 ## Rozdział 22
 
+1. Kryzys pojęcia „zbyt małego państwa” i iluzja niepodległości
+
+Eric Hobsbawm rozpoczyna rozdział od odniesienia do wydarzenia z września 1991 roku – przyjęcia Wysp Marshalla do ONZ. Zauważa, że w świecie, gdzie kilkadziesiąt państw członkowskich ONZ liczy poniżej 250 tysięcy mieszkańców, argument, iż jakieś terytorium jest „za małe, by tworzyć niepodległe państwo”, traci rację bytu.
+
+Autor wskazuje jednak na **fundamentalną iluzję tej niepodległości**:
+
+- **Brak realnej suwerenności:** Drobne państwa – a nawet znacznie większe organizmy – są całkowicie bezradne politycznie i militarnie bez zewnętrznej opieki (czego przykładem były Kuwejt czy Chorwacja).
+- **Zależność gospodarcza:** Ruchy separatystyczne rzadko dążą do pełnej autarkii. W rzeczywistości wymieniają one zależność od gospodarki jednego państwa na zależność od większych bloków (np. Unii Europejskiej), które w równym stopniu ograniczają ich suwerenność ekonomiczną.
+- Dziś łatwiej niż kiedykolwiek wznieść własną flagę przed siedzibą ONZ w Nowym Jorku, powołać narodowe linie lotnicze czy otworzyć ambasady, jednak nie przekłada się to na realne sprawowanie władzy.
+
+---
+
+2. Błąd historyczny i nierealność etnicznej jednorodności
+
+Głównym uzasadnieniem podawanym przez twórców nowych państw jest twierdzenie, że ich ludność tworzyła „naród” od zarania dziejów i jako odrębna grupa etniczno-językowa ma prawo do własnego państwa.
+
+Hobsbawm zdecydowanie odrzuca tę argumentację:
+
+- **Mitoznawcza natura nacjonalizmu:** Przywołując słowa Ernesta Renana, autor przypomina, że zapominanie historii i błędy historyczne są warunkiem koniecznym do stworzenia narodu.
+- **Niewykonalność programu Mazziniego:** XIX-wieczna zasada Giuseppe Mazziniego – „każdy naród państwem, tylko jedno państwo dla całego narodu” – była i pozostaje całkowicie nierealna w kategoriach etniczno-językowych.
+- **Nieunikniona wieloetniczność:** Poza nielicznymi mikropaństwami wyspowymi, na ponad 170 państw świata niemal żadne nie jest homogeniczne etnicznie i językowo. Historyczne rozmieszczenie ludności jest starsze niż koncepcja państw narodowych, a procesy współczesnej gospodarki światowej (masowe migracje) stale niszczą wszelką jednorodność.
+- **Cena wymuszonej homogeniczności:** Próby stworzenia jednolitego etnicznie państwa na zróżnicowanym obszarze prowadzą nieuchronnie do opresji: przymusowej asymilacji, masowych wysiedleń, czystek etnicznych i ludobójstwa. Jako skrajny przykład Hobsbawm podaje ówczesne władze Gruzji, które chciały odmówić praw obywatelskich każdemu mieszkańcowi, który nie potrafił udowodnić, że jego przodkowie mówili po gruzińsku i żyli na tym terytorium przed 1801 rokiem.
+
+---
+
+3. Cztery przyczyny eksplozji nowego nacjonalizmu i separatyzmu
+
+Hobsbawm szczegółowo analizuje cztery powody, dla których pod koniec XX wieku nastąpił masowy wzrost poparcia dla haseł narodowych i separatyzmu [445–449]:
+
+1. **Rozpad systemu komunistycznego (Geopolityka):**
+    - Upadek dyktatury komunistycznej, która narzucała stabilność w Europie Środkowo-Wschodniej, otworzył rany i nierozwiązane dylematy z czasów I wojny światowej oraz nierealistycznych traktatów pokojowych po 1918 roku.
+    - Konflikty etniczne na Kaukazie, w Krajach Bałtyckich, między Serfami i Chorwatami czy Czechami i Słowakami nie były „odwiecznymi nienawiściami”, lecz bezpośrednim skutkiem załamania zcentralizowanej władzy w ZSRR i Jugosławii [445–446]. Załamanie to zmusiło nawet te republiki, które nie marzyły o secesji (jak Kazachstan czy Macedonia), do ogłoszenia niepodległości w ramach samoobrony.
+    - _Uwaga:_ Rozpad bloku wschodniego nie wpłynął bezpośrednio na separatyzmy zachodnie (Szkocja, Quebec, Kraj Basków, Korsyka), które kierują się własną dynamiką.
+2. **Masowe migracje i rozwój ksenofobii:**
+    - Ogromne ruchy ludności z lat 1950–1990 uczyniły z ksenofobii kluczowe zjawisko polityczne.
+    - Ksenofobia napędza nacjonalizm etniczny, ponieważ podstawą obu jest wrogość wobec grupy „obcych” („nie-my”). W USA masowa imigracja ludności hiszpańskojęzycznej wywołała żądania ustanowienia angielskiego językiem oficjalnym, choć w warunkach amerykańskich wzajemne uprzedzenia etniczne nie prowadzą do separatyzmu terytorialnego.
+3. **Prostota ideologiczna i polityka tożsamości:**
+    - Po dekadach dyktatury społeczeństwa pozbawione były edukacji politycznej i doświadczenia demokratycznego.
+    - Odwołując się do czeskiego badacza Miroslava Hrocha, Hobsbawm wskazuje, że pojęcia etniczne i językowe są znacznie łatwiejsze do zrozumienia niż skomplikowane idee konstytucjonalizmu, praworządności czy swobód obywatelskich [446–447]. Nacjonalizm stał się prostym zastępnikiem dla złożonych programów politycznych.
+4. **Egzystencjalne poszukiwanie pewności w niestabilnym świecie (Najgłębsza przyczyna):**
+    - W obliczu rozpadu dawnego reżimu, państwowej gospodarki planowej i gwarancji socjalnych (na Wschodzie) lub gwałtownych transformacji społecznych, demograficznych i obyczajowych (na Zachodzie), przynależność do wspólnoty języka i kultury staje się dla ludzi **jedyną niepodważalną pewnością i wartością** [447–448].
+    - Autor ilustruje to przykładem Quebecu, gdzie secesjonizm wybuchł po dekadzie, w której tradycyjna, wiejsko-katolicka społeczność uległa błyskawicznej sekularyzacji, a wskaźnik urodzeń gwałtownie spadł. Gdy dawne autorytety i struktury zawodzą, naród wydaje się jedyną niewzruszoną gwarancją tożsamości [448–449].
+
+---
+
+4. Konkluzje i ostrzeżenia przed iluzjami
+
+Rozdział kończy się mocnym ostrzeżeniem przed budowaniem porządku światowego na matrycy nowego nacjonalizmu:
+
+- **Brak realnych rozwiązań:** Dodanie kolejnych kilkudziesięciu państw członkowskich do ONZ nie zapewni żadnemu z nich większej kontroli nad własnym losem ani nie rozwiąże problemów autonomii kulturowej mniejszości.
+- **Zagrożenie dla pokoju i demokracji:** Tworzenie państw narodowych wedle wzorca post-wilsonowskiego nie jest receptą na stabilność. Choć sporadycznie może wyłonić się państwo tolerancyjne i demokratyczne (na wzór Holandii czy Szwajcarii), obserwacja sytuacji w Serbii, Chorwacji, Słowacji, na Litwie czy w Gruzji nie daje powodów do optymizmu.
+- Europa złożona z takich odseparowanych, opartych na wykluczeniu państw etnicznych nie stanie się strefą pokoju ani dobrobytu
+
+## Rozdział 23
+
+1. Kontekst i ocena dzieła Rogersa Brubakera
+
+Eric Hobsbawm rozpoczyna rozdział od uznania Rogersa Brubakera za jednego z najciekawszych i najbardziej przekonujących badaczy młodszego pokolenia w obszernej dziedzinie studiów nad nacjonalizmem. Cechą wyróżniającą metodologię Brubakera jest mocne osadzenie teoretycznych wywodów w szczegółowych, porównawczych badaniach historycznych.
+
+Książka Brubakera składa się z sześciu esejów poświęconych konsekwencjom rozpadu wielkich, wieloetnicznych imperiów (habsburskiego, osmańskiego, rosyjskiego/ZSRR oraz imperialnych Niemiec) [437–438]:
+
+- Programowy esej teoretyczny: _„Rethinking Nationhood: Nation as an Institutionalized Form, Practical Category, Contingent Event”_.
+- Analiza dziedzictwa nacjonalistycznego, które państwa sukcesyjne przejęły po ZSRR.
+- Trzy eseje rozwijające węzłowy motyw **trójstronnej interakcji** (_triadic nexus_) między mniejszościami narodowymi, nowo nacjonalizującymi się państwami a ich zewnętrznymi „ojczyznami” (_homelands_).
+- Ostatni esej poświęcony procesom „odmieszania ludów” (_unmixing of peoples_) poprzez migracje, wysiedlenia i terror po upadku imperiów.
+
+---
+
+2. Teoretyczna rewolucja: „Nacjonalizm bez narodów”
+
+Głównym osiągnięciem teoretycznym Brubakera jest postulat, aby **badając nacjonalizm, zrezygnować z założenia o istnieniu „narodu” jako realnego, stałego podmiotu zbiorowego**.
+
+- **Naród jako kategoria praktyczna:** Odwołując się do socjologii Pierre'a Bourdieu, Brubaker twierdzi, że „naród” nie jest obiektywnie istniejącą rzeczą, lecz produktem wytwarzanym i indukowanym przez specyficzne pola polityczne.
+- Naród funkcjonuje jako wysoce skuteczna **kategoria postrzegania i podziału społecznego** (_category of social vision and division_), za pomocą której politycy i ruchy społeczne organizują rzeczywistość.
+- Zamiast pytać, czym jest naród, historyk i socjolog powinni badać, jak i kiedy kategoria narodowości staje się aktywna politycznie.
+
+---
+
+3. „Narodowość jako wydarzenie” (_Nationness as an Event_)
+
+Brubaker zwraca uwagę na zjawisko nagłej krystalizacji tożsamości – **narodowości jako contingentnego wydarzenia** (_nationness as an event_).
+
+- Początkowo uśpione lub marginalne poczucie odrębności narodowej może w warunkach kryzysu politycznego lub załamania struktury państwowej błyskawicznie się skrystalizować i zdominować masową wyobraźnię.
+- Tragicznego potwierdzenia tej tezy dostarczył gwałtowny rozpad Jugosławii oraz ZSRR, gdzie podziały narodowe wybuchły z niespotykaną siłą w reakcji na załamanie się władzy centralnej.
+
+---
+
+4. Trójkąt etno-polityczny i dynamika konfliktów
+
+Kluczowym schematem analitycznym Brubakera, wysoko cenionym przez Hobsbawma, jest model trójstronnej relacji napędzającej konflikty w Europie Środkowo-Wschodniej:
+
+1. **Nowo nacjonalizujące się państwo (****nationalizing state****):** Państwo sukcesyjne (np. niepodległa Łotwa, Estonia czy Chorwacja), które traktuje siebie jako państwo określonego narodu i dąży do umocnienia jego dominacji językowej, kulturowej i politycznej.
+2. **Mniejszość narodowa (****national minority****):** Grupa zamieszkująca to państwo, która sprzeciwia się dominacji narodowej większości i żąda autonomii lub ochrony praw.
+3. **Zewnętrzna ojczyzna (****external homeland****):** Sąsiednie państwo (np. Rosja dla mniejszości rosyjskiej w państwach bałtyckich, czy Serbia dla Serbów w Bośni i Chorwacji), które uważa się za protektora swoich rodaków za granicą i ingeruje w sprawy wewnętrzne sąsiada.
+
+Splot napięć między tymi trzema biegunami staje się głównym źródłem niestabilności politycznej w regionie postkomunistycznym.
+
+---
+
+5. Asymetria „narodów państwowych” (_State Peoples_)
+
+Hobsbawm zauważa, że Brubaker trafnie opisuje specyfikę nacjonalizmu tzw. narodów państwowych (jak Rosjanie, Anglicy czy Hiszpanie):
+
+- Dla Rosjan czy Anglików przynależność narodowa przez wieki nie oznaczała odróżniania się od Szkotów czy Finów, lecz stanowiła **nadrzędną, superetniczną tożsamość państwową**.
+- Język rosyjski posiada nawet dwa osobne słowa na określenie tej różnicy: _rossijskij_ (odnoszący się do państwa i terytorium) oraz _russkij_ (odnoszący się do etniczności i języka).
+- Dopiero rozpad imperium zmusza dawne narody państwowe do redefinicji własnej tożsamości i myślenia o sobie w takich samych wąskich, etnicznych kategoriach jak Polacy, Szkoci czy Katalończycy.
+
+---
+
+6. Krytyka Hobsbawma: Eurocentryzm i granice modelu
+
+Mimo bardzo wysokiej oceny pracy Brubakera, Hobsbawm wskazuje na pewne ograniczenia jego ujęcia:
+
+- **Eurocentryczna perspektywa:** Model Brubakera doskonale tłumaczy Europę Środkowo-Wschodnią i obszar postradziecki, ale gorzej sprawdza się w skali globalnej [438, 440–441].
+- **Brak uniwersalności pojęcia „ojczyzny” (****homeland****):** W USA czy krajach Ameryki Północnej i Południowej struktura społeczna oparta na imigracji uniemożliwia powstanie mniejszości narodowych w stylu europejskim [440–441].
+- **Religia a nacjonalizm:** Ruchy takie jak indyjska partia BJP, palestyński Hamas czy afgańscy Talibowie nie dają się sprowadzić wyłącznie do kategorii europejskiego nacjonalizmu etnicznego, gdyż ich kluczowym spoiwem jest uniwersalizm religijny.
+
+---
+
+7. Wojna jako akcelerator „odmieszania ludów”
+
+W podsumowaniu Hobsbawm zwraca uwagę na ponurą prawidłowość historyczną przypomnianą przez Brubakera: masowe „odmieszanie ludów” (_unmixing of peoples_) poprzez czystki etniczne, wysiedlenia i ucieczki ulega największemu nasileniu podczas wojen lub bezpośrednio po nich. Próby rozwiązywania nierówności etnicznych za pomocą konfrontacji zbrojnej nieuchronnie prowadzą do ludobójstwa i cierpienia cywilów
