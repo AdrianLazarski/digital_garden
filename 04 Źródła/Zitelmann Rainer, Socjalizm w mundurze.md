@@ -223,8 +223,5 @@ d. Chłopi
 - **Rozróżnienie kapitału:** ==Hitler dzielił wówczas kapitał na:
     - „Twórczy” kapitał przemysłowy i zakładowy (_schaffendes Kapital_) – osadzony w narodzie i związany z pracą fizyczno-umysłową,
     - „Pasożytniczy/bezosobowy” kapitał giełdowy i pożyczkowy (_raffendes Kapital_) – międzynarodowy, oparty na odsetkach i utożsamiany przezeń z Żydami.==
-- **Ewolucja do dojrzałego etatyzmu:** Zitelmann wykazuje, że ta wczesna teoria opierała się na powierzchownym rozumieniu procesów ekonomicznych, z którego Hitler z biegiem lat wyrósł, przechodząc od federowskiego „walki z odsetkami” do pełnowymiarowego, państwowego socjalizmu opartego na centralnym planowaniu i dominacji Rzeszy nad rynkiem.
+- **Ewolucja do dojrzałego etatyzmu:** ==Zitelmann wykazuje, że ta wczesna teoria opierała się na powierzchownym rozumieniu procesów ekonomicznych, z którego Hitler z biegiem lat wyrósł, przechodząc od federowskiego „walki z odsetkami” do pełnowymiarowego, państwowego socjalizmu opartego na centralnym planowaniu i dominacji Rzeszy nad rynkiem.==
 
----
-
-💡 **Podsumowanie IV Rozdziału:** Zitelmann w sposób niezbity dowodzi, że docelowym modelem porządku gospodarczego wg Hitlera była państwowa gospodarka planowa z silnymi elementami nacjonalizacji kluczowych gałęzi przemysłu, stanowiąca antyliberalną alternatywę zarówno dla wolnoosobowego kapitalizmu, jak i tradycyjnego marksizmu
