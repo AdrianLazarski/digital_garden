@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
+                "file": "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,10 +354,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c94db960518f71b",
+  "active": "ed38d31efb2e67a5",
   "lastOpenFiles": [
-    "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
+    "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "Aktualnie opracowywane.md",
     "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
     "07 Language lab/English grammar.md",

@@ -939,3 +939,100 @@ Rozdział kończy się podsumowaniem wielkiego paradoksu epoki po 1945 roku:
 
 ## Rozdział 20
 
+1. Kontekst historyczny: Od Maimonidesa do Oświecenia
+
+- **Margines w historii myśli przed XVIII wiekiem:** Eric Hobsbawm zauważa, że do końca XVIII wieku wkład Żydów w ogólnoludzką historię nauki i kultury był ograniczony, z wyjątkiem ich roli jako pośredników handlowych i kulturowych (np. w średniowieczu) oraz w dziedzinie medycyny. Tradycyjna działalność intelektualna Żydów skupiała się na sprawach religijnych i analizie Talmudu, a nauki świeckie były zniechęcane przez autorytety rabiniczne.
+- **Eksplozja talentów po emancypacji:** XVIII-wieczne Oświecenie oraz edykty tolerancyjne cesarza Józefa II (1781–1782) uwolniły ogromny, kumulowany przez wieki potencjał intelektualny. Niemal natychmiast po emancypacji wyłoniły się wybitne postacie, które wywarły przemożny wpływ na historię powszechną (np. David Ricardo czy Karol Marks).
+
+---
+
+2. Ocena historiografii: Prace Petera Pulzera i Ruth Gay
+
+Rozdział stanowi recenzję dwóch prac historycznych: _Jews and the German State_ Petera Pulzera oraz _The Jews of Germany_ Ruth Gay.
+
+- **Analiza Pulzera:** Pulzer przedstawia polityczne losy żydowskiej mniejszości w Niemczech w latach 1848–1933. Hobsbawm chwali autora za zachowanie zrównoważonej perspektywy niemiecko-żydowskiego liberalizmu (reprezentowanego m.in. przez Instytut Leo Baecka) oraz za pokazanie, dlaczego emancypowani Żydzi czuli się tak głęboko związani z niemiecką wspólnotą kulturową (_Kulturnation_).
+- **Perspektywa Ruth Gay:** Autorka pokazuje, że Żydzi w Niemczech byli populacją w większości rodzimą, która wraz z rozwojem powszechnej edukacji szkolnej szybko porzuciła jidysz na rzecz języka niemieckiego.
+
+---
+
+3. Niemiecka _Kulturnation_ i język niemiecki jako „wrota do nowoczesności”
+
+- **Zasięg kultury niemieckiej:** Niemiecki obszar kulturowy sięgał znacznie dalej niż granice Rzeszy z 1871 roku – rozciągał się na całą Europę Środkową i Wschodnią, od Rosji po granicę francuską. Język niemiecki był tam uniwersalnym językiem nauki, kultury i postępu.
+- **Niemiecki jako symbol wolności:** Dla młodych Żydów ze wschodnich sztetli (np. w Galicji czy Polsce) nauka języka niemieckiego i czytanie klasyków (jak Schiller) były synonimem wyzwolenia z pęt przesądów i prowincjonalizmu. Czołowi myśliciele niemieckiej socjaldemokracji z obszaru monarchii habsburskiej czy Rosji (np. Kautsky, Hilferding, Róża Luksemburg) płynnie przenieśli swoją działalność do Niemiec właśnie dzięki wspólnej wspólnocie językowej.
+
+---
+
+4. Charakter asymilacji i tożsamość polityczna
+
+- **Asymilacja z klasą średnią:** Niemieccy Żydzi dążyli do asymilacji nie tyle z całym narodem w sensie biologicznym, ile z niemiecką wykształconą klasą średnią (_bürgerliche Gesellschaft_).
+- **Wspólnota losu (****Schicksalsgemeinschaft****):** Asymilacja nie oznaczała wyrzeczenia się żydowskiej tożsamości. Żydzi postrzegali siebie nie jako wspólnotę krwi, lecz – używając określenia Otto Bauera – jako „wspólnotę losu”. Przed 1933 rokiem antysemityzm w Niemczech był traktowany jako stosunkowo łagodny i „znośny handicap” w porównaniu z brutalnymi pogromami w Rosji czy sprawą Dreyfusa we Francji.
+- **Postawa polityczna:** Niemieccy Żydzi reprezentowali umiarkowany liberalizm, a po jego załamaniu poparli socjaldemokrację (SPD). Przed 1933 rokiem syjonizm pozostawał wśród nich ruchem marginalnym, ponieważ traktowali Niemcy jako swoją prawdziwą ojczyznę („ziemię Goethego, Kanta i Fichtego”).
+
+---
+
+5. Podwójna tragedia i niepowetowana strata
+
+- **Brak złudzeń i tragiczny opór przed emigracją:** Tragedia niemieckich Żydów polegała na tym, że nie spodziewali się swojego losu i do końca nie potrafili wyobrazić sobie nadejścia ludobójstwa. Choć około dwie trzecie z nich wyemigrowało w latach 1933–1939, robili to z ogromnym poczuciem wyrwanych korzeni (niektórzy woleli popełnić samobójstwo po _Kristallnacht_ niż opuścić ojczyznę).
+- **Strata dla Niemiec i świata:** Wygnanie i zagłada Żydów bezpowrotnie zniszczyły unikalną kulturę niemiecko-żydowską. Język niemiecki stracił status globalnego języka nauki i nowoczesności. Hobsbawm ilustruje tę straty wymowną statystyką: w latach 1900–1933 niemal 40% wszystkich Nagród Nobla w dziedzinie fizyki i chemii trafiało do Niemców, natomiast po 1933 roku odsetek ten spadł do zaledwie około 10%.
+
+## Rozdział 21
+
+1. Rola historyka i mitotwórczość nacjonalizmu
+
+Eric Hobsbawm rozpoczyna rozdział od słynnego porównania: historycy są dla nacjonalizmu tym, czym hodowcy maku dla narkomanów uzależnionych od heroiny – dostarczają kluczowego surowca, jakim jest wypreparowana przeszłość.
+
+- **Legitymizacja przez przeszłość:** Naród bez przeszłości jest pojęciem sprzecznym samym w sobie; to właśnie historyczny fundament usprawiedliwia roszczenia jednego narodu wobec innych.
+- **Historia a mitologia:** Nacjonaliści nie potrzebują jednak rzetelnej, akademickiej dociekliwości, lecz retrospektywnej mitologii. Autor przypomina słowa Ernesta Renana, że mylenie się w historii (_l'erreur historique_) lub jej zapominanie jest fundamentem tworzenia narodu, a postęp badań historycznych bywa dla świadomości narodowej bezpośrednim zagrożeniem.
+- Jako przykład abstrakcyjnych sporów historycznych służących celom politycznym Hobsbawm podaje konflikt między Ormianami a Azerami o Górski Karabach, w którym obie strony odwołują się do średniowiecznego ludu Kaukaskich Albańczyków.
+
+---
+
+2. Analityczne rozróżnienie: Nacjonalizm a etniczność
+
+Mimo że współcześnie nacjonalizm i etniczność są ze sobą utożsamiane, Hobsbawm podkreśla, że są to dwa zupełnie odmienne pojęcia:
+
+- **Nacjonalizm jako program polityczny:**
+    - Jest to historycznie młody program polityczny (wywodzący się z rewolucji francuskiej), zgodnie z którym grupy określane jako „narody” mają prawo do utworzenia własnego, suwerennego państwa terytorialnego.
+    - Dąży do przejęcia wyłącznej kontroli nad ciągłym terytorium o jasnych granicach, zamieszkanym przez jednorodną populację posługującą się oficjalnym językiem państwowym (zgodnie z zasadą Mazziniego: „Każdy naród państwem, tylko jedno państwo dla całego narodu”).
+    - Wczesne warianty nacjonalizmu (XIX-wieczny liberalizm i ruchy rewolucyjno-demokratyczne, jak w USA czy podczas zjednoczenia Włoch) nie definiowały narodu w kategoriach etnicznych ani językowych, lecz dążyły do zjednoczenia i powiększania skali jednostek politycznych [404–405].
+- **Etniczność jako kategoria socjologiczna:**
+    - Etniczność nie jest programem politycznym i nie ma z natury powiązań z konkretną formą państwowości (należy do domeny socjologii i antropologii).
+    - Służy wyłącznie do odgraniczania grupy „naszej” od „obcych” („my” kontra „oni”) na podstawie poczucia wspólnoty.
+    - Nacjonalizm „poszukuje” etniczności i języka, ponieważ potrzebuje ich do stworzenia sztucznej genealogii historycznej i wypełnienia treścią ideologicznej ramy państwa narodowego (czego przykładem jest stworzenie nazwy _Euskadi_ dla Kraju Basków przez Sabino Aranę).
+
+---
+
+3. Dwie postaci nowej mutacji: Separatyzm i ksenofobia
+
+Sprowadzenie polityki do kryteriów etnicznych przybiera we współczesnej Europie dwie formy:
+
+1. **Separatyzm narodowy:** Dążenie do utworzenia własnego, odrębnego państwa poprzez odcięcie się od „obcych”.
+2. **Ksenofobia narodowa:** Dążenie do wykluczenia „obcych” z granic już istniejącego państwa.
+
+Hobsbawm wskazuje, że wybuch współczesnego separatyzmu w Europie Środkowo-Wschodniej i na Bałkanach jest bezpośrednim skutkiem rozpadu struktur powojennych ustanowionych po I wojnie światowej (tzw. planu Wilsona). Podział Europy na sztuczne, rzekomo jednorodne państwa etniczno-językowe w miejscu dawnych wieloetnicznych imperiów (Habsburgów, Osmańskiego, Rosyjskiego) przyniósł w XX wieku czystki etniczne, przymusowe wysiedlenia i ludobójstwo.
+
+Rozpad ZSRR i Jugosławii uruchomił dokładnie te same linie podziału, które zostały wytyczone w 1918 roku lub odgórnie ustanowione w wewnętrznych granicach administracyjnych państw komunistycznych.
+
+---
+
+4. Dezorientacja społeczna i etniczność jako „ostateczna pewność”
+
+Odwołując się do ustaleń czeskiego badacza Miroslava Hrocha, Hobsbawm wyjaśnia, dlaczego w obliczu kryzysu ludzie uciekają w tożsamość etniczną i językową:
+
+- **Gwałtowność zmian społecznych:** Ostatnie dekady XX wieku przyniosły załamanie tradycyjnych autorytetów, wartości i gwarancji socjalnych.
+- **Pragnienie pewności:** W sytuacji całkowitej niepewności i rozpadu struktur państwowych lub gospodarczych, wspólnota języka i pochodzenia staje się dla wykorzenionych ludzi jedyną **niepodważalną i pewną wartością** [413–414].
+- **Brak wymagań:** Do etniczności nie trzeba się kwalifikować ani niczego osiągać – człowiek po prostu się w niej rodzi, nie można go z niej wyrzucić i nie da się zmienić pochodzenia [424–425].
+
+---
+
+5. Ksenofobia jako masowa ideologia końca XX wieku
+
+Autor zauważa, że współczesna ksenofobia (reprezentowana np. przez ruchy skrajnej prawicy czy subkultury młodzieżowe, takich jak skinheadzi) nie wynika z chęci obrony dawnego, tradycyjnego stylu życia.
+
+- **Lęk przed nieznanym:** Ksenofobia jest w rzeczywistości wyrazem lęku przed chaosem i brakiem przynależności [423–424].
+- **Definiowanie przez negację:** Ludzie znajdują poczucie bezpieczeństwa we wspólnotach wyobrażonych, definiując siebie poprzez wskazywanie tych, którzy do grupy nie należą i nigdy należeć nie mogą [424–425].
+
+Rozdział kończy się ponurą konkluzją: w świecie, w którym tradycyjne więzi międzyludzkie ulegają erozji, ksenofobia staje się masową ideologią, a to, co zaczyna łączyć ludzi, opiera się na zaprzeczaniu powszechnemu człowieczeństwu.
+
+## Rozdział 22
+
