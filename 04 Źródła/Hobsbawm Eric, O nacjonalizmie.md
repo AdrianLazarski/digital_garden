@@ -734,7 +734,7 @@ Konkluzja
 
 Hobsbawm podsumowuje, że od badaczy zajmujących się tak złożonym i trudnym problemem należy wymagać pojęciowej precyzji oraz odrobienia podstawowej lekcji z historii i polityki. Z powodu braku tych elementów próba zastosowania socjobiologii do wyjaśnienia nacjonalizmu kończy się całkowitym fiaskiem.
 
-## Rozdział 16
+## 16. Stan narodów (State of the Nations)
 
 1. Kontekst i wyzwanie nacjonalizmu
 
@@ -779,7 +779,7 @@ Szukając sposobów na rozbrajanie konfliktów narodowych, Seton-Watson odwołuj
 Mimo pewnych ideologicznych uprzedzeń autora (szczególnie w odniesieniu do ZSRR) oraz powierzchownego potraktowania niektórych ruchów (np. wietnamskiego), książka _Nations and States_ pozostaje niezwykle cennym i bogatym kompendium wiedzy porównawczej. Jej 13 rozdziałów szczegółowo omawia m.in. stary i nowy nacjonalizm europejski, państwa wielonarodowe, narody diasporyczne oraz relacje między klasą społeczną a ideologią narodową.
 
 
-## Rozdział 17
+## 17. Czy wszystkie języki są równe? (Are All Tongues Equal?)
 
 1. Państwo terytorialne a wielowymiarowa tożsamość człowieka
 
@@ -818,7 +818,7 @@ Hobsbawm zauważa, że XIX-wieczny model „jednego języka narodowego dla wszys
 - **Języki czysto polityczne:** Sztuczne kreowanie języków wyłącznie dla celów separatyzmu politycznego (np. próby wskrzeszenia języka kornijskiego w Kornwalii czy wymuszanie sztucznych różnic językowych w Chorwacji po rozpadzie Serbo-Chorwacji) nie służy komunikacji ani kulturze, lecz generuje nowe konflikty i biurokrację.
 - **Konieczność oddzielenia języka od państwa:** Jeśli język nie zostanie oddzielony od państwa w taki sam sposób, w jaki oddzielono religię w demokratycznych konstytucjach, pozostanie on sztucznym i nieustannym źródłem sporów społecznych
 
-## Rozdział 18
+## 18. Skutki wojny o Falklandy (Falklands Fallout)
 
 1. Geneza konfliktu i brytyjskie zaniedbania
 
@@ -874,7 +874,7 @@ Najważniejszym teoretycznym wnioskiem Hobsbawma jest krytyka podejścia marksis
 - **Zagrożenie oddania symboli prawicy:** Błędem lewicy jest traktowanie patriotyzmu jako pojęcia wyłącznie reakcyjnego i oddanie symboli narodowych (jak flaga Union Jack czy hymn _Rule, Britannia!_) w ręce skrajnej prawicy [393–395].
 - **Niebezpieczeństwo populizmu:** W warunkach kryzysu gospodarczego, deindustrializacji i depolityzacji społeczeństwa, jingoizm staje się dla wykorzenionych mas emocjonalną rekompensatą za poczucie upadku i braku perspektyw [395–396]. Oddanie tego pola prawicy stwarza niebezpieczeństwo powstania autorytarnego, populistycznego nacjonalizmu [396–398].
 
-## Rozdział 19
+## 19. Korzyści z żydowskiej diaspory (Benefits of Diaspora Jews)
 
 1. Kontekst i zmiana perspektywy badawczej
 
@@ -935,7 +935,7 @@ Rozdział kończy się podsumowaniem wielkiego paradoksu epoki po 1945 roku:
 - Tragedia Holocaustu z jednej strony doprowadziła do skupienia części populacji w państwie narodowym (Izraelu), ale z drugiej strony w diasporze zapoczątkowała okres bezprecedensowej akceptacji, braku dyskryminacji i sukcesu Oświecenia (_Aufklärung_).
 - Hobsbawm ostrzega, że próby wycofania się z dziedzictwa Oświecenia ku nowym formom gettoizacji – czy to w postaci ultraortodoksji religijnej, czy też zamkniętego, etniczno-genetycznego nacjonalizmu państwowego – będą szkodliwe zarówno dla samych Żydów, jak i dla całej ludzkiej cywilizacji
 
-## Rozdział 20
+## 20. Żydzi i Niemcy (The Jews and Germany)
 
 1. Kontekst historyczny: Od Maimonidesa do Oświecenia
 
@@ -973,7 +973,7 @@ Rozdział stanowi recenzję dwóch prac historycznych: _Jews and the German Stat
 - **Brak złudzeń i tragiczny opór przed emigracją:** Tragedia niemieckich Żydów polegała na tym, że nie spodziewali się swojego losu i do końca nie potrafili wyobrazić sobie nadejścia ludobójstwa. Choć około dwie trzecie z nich wyemigrowało w latach 1933–1939, robili to z ogromnym poczuciem wyrwanych korzeni (niektórzy woleli popełnić samobójstwo po _Kristallnacht_ niż opuścić ojczyznę).
 - **Strata dla Niemiec i świata:** Wygnanie i zagłada Żydów bezpowrotnie zniszczyły unikalną kulturę niemiecko-żydowską. Język niemiecki stracił status globalnego języka nauki i nowoczesności. Hobsbawm ilustruje tę straty wymowną statystyką: w latach 1900–1933 niemal 40% wszystkich Nagród Nobla w dziedzinie fizyki i chemii trafiało do Niemców, natomiast po 1933 roku odsetek ten spadł do zaledwie około 10%.
 
-## Rozdział 21
+## 21. Etniczność i nacjonalizm (Ethnicity and Nationalism)
 
 1. Rola historyka i mitotwórczość nacjonalizmu
 
@@ -1032,7 +1032,7 @@ Autor zauważa, że współczesna ksenofobia (reprezentowana np. przez ruchy skr
 
 Rozdział kończy się ponurą konkluzją: w świecie, w którym tradycyjne więzi międzyludzkie ulegają erozji, ksenofobia staje się masową ideologią, a to, co zaczyna łączyć ludzi, opiera się na zaprzeczaniu powszechnemu człowieczeństwu.
 
-## Rozdział 22
+## 22. Zagrożenia ze strony nowego nacjonalizmu (The Perils of the New Nationalism)
 
 1. Kryzys pojęcia „zbyt małego państwa” i iluzja niepodległości
 
@@ -1087,7 +1087,7 @@ Rozdział kończy się mocnym ostrzeżeniem przed budowaniem porządku światowe
 - **Zagrożenie dla pokoju i demokracji:** Tworzenie państw narodowych wedle wzorca post-wilsonowskiego nie jest receptą na stabilność. Choć sporadycznie może wyłonić się państwo tolerancyjne i demokratyczne (na wzór Holandii czy Szwajcarii), obserwacja sytuacji w Serbii, Chorwacji, Słowacji, na Litwie czy w Gruzji nie daje powodów do optymizmu.
 - Europa złożona z takich odseparowanych, opartych na wykluczeniu państw etnicznych nie stanie się strefą pokoju ani dobrobytu
 
-## Rozdział 23
+## 23. Przeformułowanie nacjonalizmu (Reframing Nationalism)
 
 1. Kontekst i ocena dzieła Rogersa Brubakera
 
