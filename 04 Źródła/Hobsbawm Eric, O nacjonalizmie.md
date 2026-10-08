@@ -686,3 +686,100 @@ Rozdział kończy się konkluzją, że polityka językowa zdominowana przez nacj
 
 ## Rozdział 15
 
+1. Trudność w naukowym ujęciu nacjonalizmu i jego pojęciowa mglistość
+
+Eric Hobsbawm rozpoczyna od stwierdzenia, że nacjonalizm jest niezwykle wpływowym zjawiskiem politycznym, ale jednocześnie wyjątkowo trudnym do racjonalnego przeanalizowania. Argumenty nacjonalistyczne nie posiadają uniwersalnej siły przekonywania – dlatego wielu nacjonalistów twierdzi wręcz, że ktoś spoza ich wspólnoty nie jest w stanie ich „naprawdę” zrozumieć.
+
+- **Mowna konwencja a rzeczywistość:** W dyskursie publicznym istnieje cicha konwencja akceptująca prawo dowolnej grupy do nazywania się „narodem” i zgłaszania roszczeń. Konwencja ta załamuje się jednak natychmiast, gdy roszczenia dwóch lub więcej nacjonalizmów wchodzą ze sobą w bezpośredni konflikt.
+- **Aparatura pojęciowa:** Wszystkie pojęcia związane z nacjonalizmem są z natury skrajnie nieostre i mgliste.
+
+---
+
+2. Krytyka teorii Richarda Lynna
+
+Rozdział stanowi bezpośrednią polemikę z artykułem profesora psychologii Richarda Lynna pt. _The sociobiology of nationalism_ (opublikowanym w czasopiśmie „New Society” w 1976 r.). Lynn podjął próbę wyjaśnienia siły nacjonalizmu za pomocą ewolucyjnej socjobiologii.
+
+Hobsbawm rekonstruuje i poddaje krytyce tezy Lynna:
+
+- **Argumentacja Lynna:** Lynn twierdził, że nacjonalizm to po prostu kolejna forma uniwersalnej ludzkiej tendencji do dzielenia się na zamknięte grupy własne (_in-groups_) oraz obcych. Według Lynna, skoro dążenia separatystyczne często przeczą racjonalnemu myśleniu, muszą mieć charakter instynktowny i posiadać określoną wartość przetrwania (np. w postaci lojalności grupowej podczas podboju innych społeczności lub korzyści genetycznych z wstrzemięźliwości krzyżowej). W konsekwencji nacjonalizm miałby stanowić stały element „ludzkiej natury”.
+
+---
+
+3. Główny błąd metodologiczny: Anachronizm historyczny
+
+Hobsbawm wskazuje, że socjobiologia nie ma żadnego zastosowania do badania nacjonalizmu.
+
+- **Historyczna nowość nacjonalizmu:** Nacjonalizm jest w kategoriach historycznych zjawiskiem nowym – ukształtował się w ciągu ostatnich dwóch stuleci i początkowo ograniczał się głównie do Europy.
+- **Błąd utożsamienia:** Nie można utożsamiać ogólnej, ewolucyjnej tendencji ludzi do tworzenia grup z nowoczesnym nacjonalizmem. Nacjonalizm wykorzystuje wprawdzie dawne postawy społeczne czy tradycje, jednak rzutowanie dwustuletniego zjawiska na całą ewolucję biologiczną gatunku jest absurdem – przypomina nazywanie wykopalisk w dolinie Indusu „Pięcioma tysiącami lat Pakistanu”.
+
+---
+
+4. Rzutowanie współczesnego modelu nacjonalizmu na historię
+
+Według Hobsbawma Richard Lynn popełnia dwa podstawowe błędy: przyjmuje bezkrytycznie współczesną samodefinicję nacjonalizmu oraz bezpodstawnie rzutuje ją wstecz i wszerz na całą historię oraz geografię.
+
+- **Współczesny model:** Obecny model nacjonalizmu zakłada niepodległe, suwerenne państwo terytorialne z ciągłym obszarem, zamieszkane przez jednolity lud posługujący się jednym językiem.
+- **Brak uniwersalności w historii:** Taki model nigdy nie był normą w dziejach ludzkości. Nie pasuje on ani do wielkich imperiów historycznych (chińskiego, rzymskiego, osmańskiego), ani do starożytnych Greków czy Niemców i Włochów sprzed rewolucji francuskiej. Przez większość historii podstawowa jednostka polityczna nie przypominała nowoczesnego państwa terytorialnego.
+
+---
+
+5. Nietrafność analogii i zagrożenia wynikające z pseudonauki
+
+Gdy uzna się nacjonalistyczny program za nowoczesny konstrukt historyczny, socjobiologia staje się całkowicie bezużyteczna.
+
+- **Nietrafione uogólnienia:** Socjobiologia nie wyjaśnia, dlaczego Szkoci chcą niepodległości od Anglii, tak samo jak nie wyjaśnia, dlaczego Amerykanie wolą baseball od piłki nożnej. Ogólne twierdzenia o uniwersalności ksenofobii czy gier zespołowych niczego nie tłumaczą w odniesieniu do konkretnych procesów historycznych.
+- **Niebezpieczeństwo utrwalania mitów:** Połączenie braku wiedzy historycznej z zamieszaniem pojęciowym prowadzi do niebezpiecznego uzasadniania ksenofobicznych mitów i agresji (np. do pseudonaukowego usprawiedliwiania ataków na imigrantów czy roszczeń terytorialnych).
+
+---
+
+Konkluzja
+
+Hobsbawm podsumowuje, że od badaczy zajmujących się tak złożonym i trudnym problemem należy wymagać pojęciowej precyzji oraz odrobienia podstawowej lekcji z historii i polityki. Z powodu braku tych elementów próba zastosowania socjobiologii do wyjaśnienia nacjonalizmu kończy się całkowitym fiaskiem.
+
+## Rozdział 16
+
+1. Kontekst i wyzwanie nacjonalizmu
+
+Eric Hobsbawm zauważa, że w XX wieku cała polityka musi w jakiś sposób ułożyć sobie relacje z nacjonalizmem, choć żaden polityk ani myśliciel (poza samymi nacjonalistami) nie jest z tego powodu szczęśliwy.
+
+- **Egoizm nacjonalizmów:** Sam nacjonalizm ma charakter głęboko wybiórczy – nacjonaliści zachwycają się wyłącznie własnym ruchem, będąc całkowicie ślepymi na racje sąsiadów. Jako przykład Hobsbawm i Seton-Watson podają polskich Narodowych Demokratów, którzy zwalczali niemiecką i rosyjską dominację nad Polakami, jednocześnie bezwzględnie odmawiając praw Ukraińcom, Białorusinom, Litwinom, Rumunom czy Żydom żyjącym na tych samych ziemiach.
+- Rozdział ten analizuje monumentalną pracę Hugh Seton-Watsona _Nations and States: An Inquiry into the Origins of Nations and the Politics of Nationalism_, która doskonale ilustruje powszechną bezradność i brak entuzjazmu badaczy wobec siły nacjonalizmu.
+
+---
+
+2. Brak teoretycznej definicji a wyczucie historii
+
+Hobsbawm wskazuje na główną słabość metodologiczną Seton-Watsona: brak próby zbudowania spójnego modelu teoretycznego narodu oraz definiowanie go jedynie _ex post facto_ (po fakcie).
+
+- Mimo braku ścisłej definicji analitycznej, Seton-Watson wykazuje się wybitnym wyczuciem historycznym. Potrafi precyzyjnie uchwycić moment, w którym dana społeczność staje się narodem, i odróżnić go od sytuacji, gdy na takie miano jest jeszcze za wcześnie (np. dostrzega, że pojęcie narodu w XIX/XX w. pasowało do Brazylii znacznie bardziej niż do Meksyku, a do obszaru Afryki w owym czasie – prawie wcale).
+
+---
+
+3. Mroczna strona nacjonalizmu i jego nieodwracalność
+
+Seton-Watson postrzega nacjonalizm przede wszystkim przez pryzmat jego tragicznych i destrukcyjnych konsekwencji:
+
+- **Prymitywna religia zastępcza:** Nacjonalizm zastąpił wygasłe wiary fanatyczną nienawiścią, a jego liderami bywali często sfrustrowani pół-intelektualiści.
+- **Zagrożenie dla ludzkości:** W skrajnych przejawach prowadzi do masowych rzezi, czystek etnicznych, a w erze broni jądrowej – grozi zagładą całemu gatunkowi ludzkiemu.
+- **Wejście mas do historii:** Jednocześnie autor przyznaje, że wyłonienie się narodów jest nieodłącznym elementem procesu demokratyzacji i wejścia zwykłych ludzi na scenę historii. Narody nie istniały od zawsze (np. Anglia i Francja ukształtowały się stosunkowo wcześnie, inne dopiero w XIX i XX wieku), lecz gdy raz powstaną, stają się niemal niezniszczalne i musimy nauczyć się z nimi żyć.
+
+---
+
+4. Dylemat „autonomii kulturowej” i rola terytorium
+
+Szukając sposobów na rozbrajanie konfliktów narodowych, Seton-Watson odwołuje się do koncepcji **„autonomii kulturowej”**, rozwijanej przed I wojną światową przez austromarksistów (m.in. Otto Bauera) oraz żydowski Bund w Rosji.
+
+- **Zalety autonomii kulturowej (w teorii):**
+    1. Oddziela narodowość od suwerenności państwowej i jej niebezpiecznych narzędzi opresji.
+    2. Oddziela narodowość od konkretnego terytorium. Rozwiązuje to problem obszarów mieszanych (jak Belfast czy Jerozolima), gdzie wspólnot nie da się rozdzielić terytorialnie inaczej niż przez czystki, czystki etniczne lub masakry.
+- **Krytyka Hobsbawma:** Koncepcja ta w praktyce ponosi porażkę. Naród i państwo terytorialne zostały ze sobą historycznie i nieodwracalnie splecione. Państwa nieustannie tworzą „narody”, aby wypełnić swoje struktury, a narody czują się niekompletne bez własnego, suwerennego terytorium. W tym punkcie – zdaniem Hobsbawma – to leniniści mieli rację, włączając terytorium do definicji narodu, co tłumaczy, dlaczego spory terytorialno-narodowe (np. między Izraelczykami a Palestyńczykami) są tak trudne do rozwiązania bez użycia siły.
+
+---
+
+5. Podsumowanie i ocena dzieła Seton-Watsona
+
+Mimo pewnych ideologicznych uprzedzeń autora (szczególnie w odniesieniu do ZSRR) oraz powierzchownego potraktowania niektórych ruchów (np. wietnamskiego), książka _Nations and States_ pozostaje niezwykle cennym i bogatym kompendium wiedzy porównawczej. Jej 13 rozdziałów szczegółowo omawia m.in. stary i nowy nacjonalizm europejski, państwa wielonarodowe, narody diasporyczne oraz relacje między klasą społeczną a ideologią narodową.
+
+
+## Rozdział 17
+
