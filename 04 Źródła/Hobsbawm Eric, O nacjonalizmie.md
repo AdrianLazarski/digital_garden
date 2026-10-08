@@ -276,3 +276,117 @@ Oto szczegółowe streszczenie rozdziału 7, zatytułowanego „Produkcja tradyc
 
 - Trwałym dziedzictwem okazał się zwrot ku ceremoniom teatralnym i masowym zgromadzeniom w specjalnie zaprojektowanych przestrzeniach (stadiony, place defilad), gdzie z zacierała się granica między aktorami a publicznością. Tendencję tę w pełni rozwinęły później ruchy faszystowskie [308–309].
 - Autor podkreśla, że skuteczne „wynajdywanie tradycji” nie jest jedynie manipulacją z góry, lecz musi odpowiadać na autentyczne potrzeby społeczne i emocjonalne grup, do których jest kierowane [312–313].
+
+
+## Rozdział 8
+
+1. Nowy nieporządek świata i paradoks nacjonalizmu
+
+Eric Hobsbawm odnosi się do koncepcji „nowego ładu światowego” (_New World Order_) ogłoszonej przez prezydenta George'a H.W. Busha, określając ją w rzeczywistości mianem **„nowego nieporządku światowego”**. W tym kontekście obserwuje się dwa przeciwstawne procesy:
+
+- **Transnacjonalizm (supranacjonalizm):** Rozwój zintegrowanej gospodarki globalnej, której kluczowych problemów nie da się rozwiązać w ramach tradycyjnych granic państw narodowych.
+- **Wzrost separatymu etnicznego:** Dążenie wielu grup do odtwarzania drobnych państw etniczno-językowych na coraz mniejszą skalę.
+
+Autor wskazuje na **paradoks tej sytuacji**: tworzenie niewielkich państw etnicznych w świecie transnarodowym pozbawione jest racjonalnego sensu i niesie ze sobą duże niebezpieczeństwo. Hobsbawm przestrzega przed utożsamianiem etniczności z nacjonalizmem – dążenie do zachowania tożsamości etnicznej nie musi oznaczać chęci budowy własnego państwa terytorialnego (czego przykładem jest ludność afroamerykańska w USA).
+
+---
+
+2. Trzy płaszczyzny nowej niestabilności
+
+Autor wyróżnia trzy główne obszary generujące współczesne napięcia na świecie:
+
+1. **Płaszczyzna geopolityczna:** Obszar niestabilności rozciągający się od granic Niemiec, Austrii i Włoch na zachodzie aż po Japonię, Bliski Wschód i Azję Środkową na wschodzie.
+2. **Zjawisko gettoizacji:** Wewnętrzne podziały i separacja grup w obrębie istniejących państw.
+3. **Globalna masowa migracja:** Przepływy ludności o skali potencjalnie znacznie większej niż europejskie migracje z lat 1880–1920.
+
+---
+
+3. Konsekwencje „powtórki z roku 1918” i planu Wilsona
+
+Hobsbawm twierdzi, że odrodzenie konfliktów etnicznych pod koniec XX wieku nie wynika z „nieodpartej siły tożsamości etnicznej”, lecz jest bezpośrednią konsekwencją rozpadu wieloetnicznych imperiów (Habsburgów, Osmańskiego oraz carskiej Rosji/ZSRR) i **powtórzeniem sytuacji z lat 1917–1920**.
+
+- **Fiasko planu Wilsona:** Wilsonowska wizja Europy złożonej ze sterylnie jednorodnych państw etniczno-językowych okazała się nierealna. Tworzenie jednorodnych państw na zróżnicowanych terytoriach udawało się historycznie osiągać jedynie za cenę barbarzyństwa: przymusowej asymilacji (np. Kurdów w Turcji), masowych przesiedleń (np. wymiana ludności grecko-tureckiej, czystki po II wojnie) oraz ludobójstwa (Ormian, Żydów).
+- **Zagrożenie dla demokracji i mniejszości:** Odtwarzanie małych państw narodowych jest groźne dla wolności i kultury, ponieważ małe narody, dążąc do wewnętrznej jednolitości, bezwzględnie dominują nad swoimi mniejszościami. Jako przykład autor podaje Quebec, gdzie presja asymilacyjna uderza we Włochów, Greków, Inuitów i rdzennych Amerykanów; podobne zjawiska występują na Słowacji, w Chorwacji czy Serbii.
+- **Nowe źródła konfliktów:** Napięcia w rejonie Macedonii czy Ukrainy nie były eksplozywne przed 1914 rokiem, lecz stały się wybuchowe w wyniku rozpadu państw zbiorowych (Jugosławii i ZSRR), zmuszając te regiony do niezależności w ramach samoobrony.
+
+---
+
+4. Zjawisko gettoizacji i zmiana modelu imigracyjnego
+
+- **Gettoizacja jako narzędzie polityczne:** Współczesne migracje tworzą miejskie getta. W systemie demokratycznym skupiska te stają się skutecznymi narzędziami do wywalczania zasobów państwowych (np. tworzenie okręgów wyborczych w Nowym Jorku dla mniejszości etnicznych czy seksualnych).
+- **Zanik „amerykanizacji”:** Choć gettoizacja zapobiega bezpośrednim walkom na masową skalę, prowadzi do niszczenia wspólnego mianownika narodowego (_common national ground_). W USA całkowicie porzucono dawny program integracyjny z lat 1880–1922 na rzecz podziału na samowystarczalne podgrupy. Jedynym krajem masowej imigracji dbającym o spójność i tworzenie jedności narodowej pozostała Australia.
+
+---
+
+5. Globalne migracje i trzy scenariusze na przyszłość
+
+Hobsbawm zauważa, że bogaty świat (kraje OECD) stanowi kurczącą się część populacji globu (spadek z ok. 33% w 1900 r. do 15–20% obecnie). Przy wyższym stopniu zamożności i problemach z zastępowalnością pokoleń, bogate kraje nieuchronnie przyciągają ludność z ubogich rejonów Południa. Autor analizuje trzy możliwe reakcje państw rozwiniętych:
+
+1. **Barykadowanie się (odmowa wpuszczania „obcych”):** Opcja nierealna do utrzymania w dłuższej perspektywie.
+2. **Rozwiązanie typu apartheid:** Przyjmowanie imigrantów, ale sprowadzenie ich do roli trwałej, pozbawionej praw podklasy (model nie do utrzymania, co wykazał upadek apartheidu w RPA).
+3. **Akceptacja i fundamentalna transformacja:** Dopuszczenie wieloetniczności i zmiana struktury społecznej (jak w wielkich miastach USA). Hobsbawm porównuje tę strategię do Cesarstwa Rzymskiego, które wcielało różne ludy, zachowując jednak trwały rdzeń kulturowy.
+
+Nowym zjawiskiem staje się także **symultaniczne, wielonarodowe istnienie** – dzięki nowoczesnej komunikacji i transportowi ludzie (od akademików po pracowników fizycznych, jak przywołany taksówkarz z Ekwadoru) mogą funkcjonować jednocześnie w dwóch państwach i kulturach, nie tracąc swoich korzeni.
+
+---
+
+Konkluzja
+
+Rozdział kończy się stwierdzeniem, że wyłączny nacjonalizm etniczny i sztuczne dzielenie świata na zamknięte państwa narodowe nie dają odpowiedzi na wyzwania współczesności, a pytania o przyszłość tożsamości i migracji stają się kluczowymi problemami, przed którymi stoją zarówno lewica, jak i prawica.
+
+
+
+
+## Rozdział 9
+
+1. Kontekst i trzy wymiary problemu
+
+Rozdział stanowi tekst referatu wygłoszonego z okazji 50-lecia Międzynarodowego Instytutu Historii Społecznej w Amsterdamie. Eric Hobsbawm zwraca uwagę, że pojęcie „internacjonalizmu klasy robotniczej” jest pojęciem wieloznacznym, i porządkuje analizę wokół trzech głównych problemów:
+
+1. **Relacja między internacjonalizmem robotniczym a internacjonalizmem mieszczańsko-liberalnym XIX wieku**.
+2. **Różne poziomy i odmiany internacjonalizmu wewnątrz samego ruchu robotniczego**.
+3. **Stosunek internacjonalizmu robotniczego do państwa narodowego**, zwłaszcza w sytuacjach konfliktów zbrojnych i wojen.
+
+---
+
+2. Internacjonalizm liberalno-mieszczański a koncepcja marksistowska
+
+Hobsbawm zauważa, że internacjonalizm był osadzony w oświeceniowej wizji ewolucji społecznej, według której ludzkość rozwija się od wspólnot lokalnych, przez naród-państwo, aż po zglobalizowane społeczeństwo światowe z uniwersalną kulturą.
+
+- **Nurt liberalno-mieszczański:** Rzecznicy wolnego handlu (np. Richard Cobden) wierzyli, że międzynarodowy kapitalizm i swoboda wymiany handlowej automatycznie zniosą konflikty polityczne i uczynią wojny niemożliwymi, omijając rządy państwowe. Z kolei badacze rozwijających się gospodarek (np. Friedrich List) widzieli w skonsolidowanym państwie narodowym niezbędny krok w stronę przyszłego społeczeństwa globalnego.
+- **Podejście marksistowskie:** Marksizm dzielił ten ewolucyjny schemat – kapitalizm niszczy lokalną izolację i tworzy uniwersalną zależność oraz „literaturę światową”. Jednak w przeciwieństwie do kosmopolityzmu czy a-nacjonalizmu, marksowski internacjonalizm wyrastał ze świata państw narodowych. Słynny apel _„Proletariusze wszystkich krajów, łączcie się!”_ zakładał, że walka klasowa ma na początku formę narodową, ponieważ proletariaty poszczególnych państw muszą najpierw rozprawić się z własną burżuazją. Internacjonalizm oznaczał więc **przezwyciężenie granic narodu, a nie ignorowanie jego istnienia**.
+
+---
+
+3. Trzy specyficzne cechy proletariackiego internacjonalizmu
+
+Hobsbawm wyróżnia trzy elementy odróżniające internacjonalizm robotniczy od wariantów mieszczańskich:
+
+1. **Wspólny interes w walce klasowej:** Jak pisał młody Engels, proletariusze we wszystkich krajach mają ten sam interes, tego samego wroga i tę samą walkę. W praktyce związkowej wszelkie podziały narodowe, rasowe czy religijne osłabiają siłę przetargową robotników wobec pracodawcy. Operacyjny internacjonalizm sprawdzał się wielokrotnie na poziomie fabryk i kopalń, łącząc wielojęzyczne i wieloetniczne grupy (np. w Wiedniu, Południowej Walii czy Belgii). Doświadczenie masowych migracji XIX wieku sprawiało, że ruch robotniczy w naturalny sposób opierał się na mobilnych kadrach migrujących między krajami.
+2. **Międzynarodowa struktura organizacyjna:** Podczas gdy dla burżuazji centrum rewolucji stanowił konkretny naród (np. Francja dla jakobinów), ruch proletariacki od początku tworzył **międzynarodową armię**, której sekcje narodowe były podporządkowane ogólnej strukturze (I, II i III Międzynarodówka).
+3. **Brak nakierowania na „budowanie narodu” (****nation-building****):** Ruchy robotnicze – w przeciwieństwie do klas mieszczańskich czy drobnomieszczańskich – nie stawiały sobie za główny cel konstrukcji samodzielnego państwa narodowego. Skupiały się na bieżących rokowaniach zbiorowych oraz na wywalczeniu pełnych praw obywatelskich. Wywalczenie tych praw sprawiło jednak, że w 1914 roku robotnicy poczuli się pełnoprawnymi obywatelami i spontanicznie ruszyli do obrony swoich państw, co doprowadziło do traumatycznego załamania II Międzynarodówki.
+
+---
+
+4. Zróżnicowanie internacjonalizmu wewnątrz ruchu robotniczego
+
+Autor wskazuje na trzy odmienne postawy i poziomy internacjonalizmu wśród działaczy i organizacji:
+
+- **Prawdziwie transnarodowe kadry:** Nieliczna grupa rewolucjonistów, dla których państwo pochodzenia było bez znaczenia, a jedyną ojczyzną była przyszła rewolucja (np. Róża Luksemburg czy Christian Rakowski). W okresie Kominternu postawa ta przybrała formę zinstytucjonalizowanej lojalności wobec linii międzynarodówki i ZSRR.
+- **Partie narodowe pod sztandarem socjalistycznym:** Ugrupowania, które w rzeczywistości stały się głównymi reprezentantami dążeń niepodległościowych swojego narodu, używając haseł socjalistycznych jako narzędzia mobilizacji (np. Polska Partia Socjalistyczna Piłsudskiego, Syjonizm Pracy, socjaldemokracja w Finlandii czy mienszewicy w Gruzji).
+- **Nurt centrum:** Działacze i partie próbujące godzić walkę klasową z uwarunkowaniami państwa narodowego (np. austromarksizm Victora Adlera i Otto Bauera) lub opierający swój internacjonalizm na pacyfizmie i tradycji radykalno-liberalnej (jak Independent Labour Party w Wielkiej Brytanii).
+
+---
+
+5. Wielowymiarowość tożsamości i funkcja cywilizacyjna partii
+
+Hobsbawm podkreśla, że dla zwykłych robotników alternatywa „internacjonalizm albo nacjonalizm” jest sztucznym dylematem.
+
+- **Wielowymiarowość:** Człowiek w społeczeństwie posiada nakładające się tożsamości (może być jednocześnie Irlandczykiem, katolikiem, mieszkańcem Kerry, członkiem rodu i robotnikiem w Birmingham) i aktywuje je w zależności od sytuacji. Paradoksalnie to właśnie ogólnokrajowe partie socjalistyczne często budowały pierwszą świadomość narodową wśród uprzednio odizolowanych mas proletariatu.
+- **Rola cywilizacyjna i przeciwdziałanie rasizmowi:** Partie socjalistyczne działały jako „szkoła cywilizacyjna”, nauczając równości narodów i ras oraz hamując atawistyczne uprzedzenia ksenofobiczne (odrzucając m.in. antysemityzm, nazwany przez Augusta Bebela „socjalizmem głupców”).
+- **Erozja więzi klasowych:** Osłabienie spójności między klasą robotniczą a jej tradycyjnymi partiami pod koniec XX wieku doprowadziło do uzewnętrznienia się utajonego rasizmu i ksenofobii wśród części robotników (np. poparcie londyńskich dokerów dla skrajnie prawicowego polityka Enocha Powella w latach 60.).
+
+Rozdział kończy się konkluzją, że w świecie narastających napięć etnicznych i rasowych podtrzymywanie zasad internacjonalizmu i antyrasizmu (czego przykładem jest platforma Afrykańskiego Kongresu Narodowego w RPA) pozostaje jedyną nadzieją na przyszłość
+
+## Rozdział 10
+
