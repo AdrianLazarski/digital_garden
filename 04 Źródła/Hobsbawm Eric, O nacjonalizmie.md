@@ -574,3 +574,115 @@ Nacjonalizm w tradycyjnej formie pozostał ograniczony do wiejskich rejonów, ma
 
 ## Rozdział 13
 
+1. Nacjonalizm jako potężna siła i jego historyczna nowość
+
+Eric Hobsbawm określa nacjonalizm jako prawdopodobnie najsilniejszą siłę polityczną XX wieku. Jednocześnie wskazuje, że jego teorie są niezwykle trudne do pogodzenia z racjonalnym rozumieniem spraw ludzkich, przywołując obserwację Ernesta Renana, że zapomnienie i wypaczenie historii są kluczowym czynnikiem w tworzeniu narodu.
+
+- **Mit wieczności narodu:** Nacjonaliści traktują naród jako naturalną i wieczną część ludzkiego krajobrazu, podczas gdy przekonania nacjonalistyczne są całkowitą innowacją historyczną ostatnich dwóch stuleci [844–845].
+- **Bezprecedensowe pojęcia:** Współczesny nacjonalizm wprowadził pojęcia nieznane przed rewolucją francuską: przekonanie, że „naród” jest głównym (a nawet jedynym) punktem lojalności i obowiązków politycznych obywatela oraz że narody dążą do utworzenia niepodległych, jednolitych państw terytorialnych.
+- **Anachronizm w badaniu przeszłości:** Rzutowanie nowoczesnego narodu na przeszłość jest czystą fantazją.
+    - Relacja między współczesnym narodem włoskim a dawnymi mieszkańcami Półwyspu Apenińskiego przypomina stosunek nowoczesnego biurowca do stojącego wcześniej w tym miejscu domu Charlesa Dickensa.
+    - Nacjonalizm izraelski i syjonizm przeskakują 1800 lat diaspory, aby powiązać się bezpośrednio z ostatnimi walczącymi mieszkańcami Palestyny.
+    - Powstają publikacje w stylu _Five Thousand Years of Pakistan_ („Pięć tysięcy lat Pakistanu”), które przypisują starożytną cywilizację doliny Indusu państwu wymyślonemu w latach 30. XX wieku na bazie islamu.
+
+---
+
+2. Emocjonalny charakter nacjonalizmu i „myślenie krwią”
+
+Nacjonalizm nie jest racjonalnym programem, lecz emocjonalną pasją wywołującą konsekwencje polityczne.
+
+- Intelektualni zwolennicy nacjonalizmu starają się dorabiać do niego racjonalne uzasadnienia dostosowane do panujących mód (liberalne w XIX wieku, socjalistyczne w XX wieku).
+- Nacjonalizm jest niewrażliwy na argumenty rozumowe. Jego wyznawcy w ostatecznym rachunku odwołują się do „myślenia krwią” (_thinking with their blood_) – twierdząc, że ktoś z zewnątrz, kto nie dzieli ich krwi, z definicji nie potrafi ich zrozumieć i nie ma prawa ich oceniać.
+
+---
+
+3. Zamknięty kręg i rola wewnętrznych krytyków
+
+Nacjonalizm ma tendencję do funkcjonowania w samowystarczalnym, zamkniętym kręgu intelektualnym. Z tego względu **ciężar krytyki jego irracjonalności i absurdów musi spoczywać na krytykach wewnętrznych** – członkach danej wspólnoty [849–850].
+
+- Hobsbawm przywołuje Włodzimierza Lenina, który rozumiał, że rosyjscy bolszewicy musieli uznać prawo nie-Rosjan do secesji, a walkę z secesjonizmem i szowinizmem wewnątrz poszczególnych narodowości mogli skutecznie prowadzić tylko rewolucyjni przedstawiciele tych narodów.
+- To zadaniem Irlandczyków jest krytykowanie absurdów nacjonalizmu irlandzkiego, Walijczyków – walijskiego, a Anglików – angielskiego. Naród, któremu brakuje wewnętrznych krytyków, jest zgubiony (czego przykładem były Niemcy w czasach Hitlera).
+
+---
+
+4. Presja na dysydentów i sakralizacja symboli
+
+Wstrzymanie się od bezkrytycznego patriotyzmu w momentach mobilizacji narodowej lub wojny wymaga od krytyków ogromnej odwagi [850–851].
+
+- Współcześnie Żydom niezwykle trudno jest krytykować politykę Izraela czy być anty-syjonistami, gdyż odmienność poglądów bywa stygmatyzowana jako zdrada.
+- Gdy symbole narodowe stają się celem żarliwej adoracji społecznej (jak flaga Union Jack malowana na murach slumsów w Belfaście), sakralizacji ulega cała sfera kultury i nauki [851–852]:
+    - Odkrycia archeologiczne stają się fundamentem narodowych rytuałów (np. Masada).
+    - Posiadanie dawnych manuskryptów (zwoje z Nad Morza Martwego) staje się kwestią wyposażania „narodowej świątyni”.
+    - Spory naukowe o status językowy mieszkańców Macedonii doprowadzają do emocjonalnych walk między uczonymi z Grecji, Bułgarii i Jugosławii.
+
+---
+
+5. Dojrzałość narodowa a demitologizacja historii
+
+Hobsbawm podsumowuje, że obiektywne i krytyczne podejście do własnej historii jest warunkiem zdrowia każdego społeczeństwa.
+
+- Oznaką dojrzałości narodowej jest sytuacja, w której historycy odrzucają mitologię wyzwoleńczą na rzecz rzetelnej nauki, co stało się w Irlandii pół wieku po odzyskaniu niepodległości czy w Izraelu 40 lat po jego powstaniu [568–570, 853].
+- Autor przypomina przykład Thomasa Masaryka (założyciela Czechosłowacji), który mimo braku popularności miał odwagę udowodnić, że rzekomo średniowieczne rękopisy będące fundamentem czeskiego mitu narodowego były fałszerstwami. Odwaga do demitologizacji własnej przeszłości jest najważniejszym obowiązkiem historyka wobec nacjonalizmu.
+
+## Rozdział 14
+
+1. Współczesna eksplozja i upolitycznienie języka
+
+Eric Hobsbawm rozpoczyna od przywołania licznych współczesnych konfliktów na tle językowym: walki o dwujęzyczne tablice drogowe w Walii, sporu o miasto Ćandigarh między stanami Hindi i Pendżab w Indiach, paraliżu politycznego w Belgii między Flamandami i Walonami czy zabiegów dyplomatycznych Francji na rzecz utrzymania francuskiego jako oficjalnego języka międzynarodowego we Wspólnocie Europejskiej.
+
+Przez wieki biblijny mit o Wieży Babel nie powodował w praktyce większych trudności organizacyjnych w relacjach międzyludzkich, jednak w ciągu ostatniego stulecia język przeszedł głęboką transformację polityczną. Przestał być po prostu środkiem codziennej komunikacji („mową ojczystą”), a stał się atrybutem „narodu”. W konsekwencji znajomość języka splotła się z kwestiami prestiżu, praw politycznych oraz przywilejów gospodarczych.
+
+---
+
+2. Paradoks współczesnego świata a historyczna norma wielojęzyczności
+
+Autor wskazuje na fundamentalny paradoks współczesności: w momencie, gdy techniczna integracja i unifikacja globu czynią wielojęzyczność bardziej niezbędną niż kiedykolwiek wcześniej, użytkownicy poszczególnych języków z rosnącą goryczą odnoszą się do konieczności nauki jakiegokolwiek innego języka poza własnym (z wyjątkiem nielicznych międzynarodowych _lingua franca_).
+
+W społeczeństwach przedprzemysłowych wielojęzyczność była czymś całkowicie naturalnym i niedramatycznym:
+
+- **Brak konkurencji między językami:** Różne języki pełniły odmienne, niekonkurujące ze sobą funkcje (np. łacina w dokumentach, a lokalne dialekty w życiu codziennym).
+- **Neutralność społeczna:** Stosowano martwe języki klasyczne lub oparte na uproszczeniach żargony handlowe i wojskowe, które miały charakter czysto użytkowy (jak dzisiejsze języki komputerowe) i nie wywoływały zazdrości politycznej.
+- **Przykłady historyczne:** Przykładem takiej funkcjonalnej i bezkonfliktowej dwujęzyczności było używanie dialektu _Schweizerdeutsch_ w mowie i standardowego niemieckiego w pismach w Szwajcarii czy masowa dwujęzyczność w Alzacji.
+
+---
+
+3. Czynniki zmian: alfabetyzacja, demokracja i nacjonalizm
+
+Załamanie tradycyjnej neutralności języka wynikało z kilku procesów:
+
+- **Rozwój powszechnej alfabetyzacji:** Wymusił on precyzyjne określenie języka wykładowego w szkołach, formularzy biurokratycznych i procedur prawnych.
+- **Demokratyzacja i egalitaryzm:** Sprawiły, że ludzie przestali godzić się na niski status społeczny powiązany z byciem jednojęzycznym użytkownikiem lokalnego dialektu chłopskiego.
+- **Rola nacjonalizmu:** Głównym „materiałem wybuchowym” w kwestiach językowych stał się jednak nacjonalizm. O ile unifikacja gospodarcza i modernizacja terytorium racjonalnie wymagały uzupełnienia lokalnych dialektów przez jeden ustandaryzowany język ogólny, o tyle nacjonalizm przekształcił ten język w fałszywe, irracjonalne kryterium narodowości i państwowości.
+
+---
+
+4. Język jako iluzoryczne i sztuczne kryterium narodowe
+
+Ustandaryzowany „język narodowy” rzadko bywa historycznym fundamentem narodu; znacznie częściej jest jego konsekwencją lub sztucznym konstrunktem (_artefaktem_).
+
+- Jako skrajne przykłady Hobsbawm podaje nowożytny język hebrajski, wymyślony do codziennego użytku świeckiego w 1881 roku przez Eliezer Ben Jehudę (który sam stworzył nowożytne hebrajskie słowo oznaczające „nacjonalizm”), oraz język hindi w Indiach.
+- Nacjonalizm promuje nierealistyczne założenie, że każde państwo musi posiadać jeden język narodowy, co w społeczeństwach wielojęzycznych prowadzi do niebezpiecznych dążeń do usuwania lub przymusowej asymilacji mniejszości.
+
+---
+
+5. Nierówność języków a wymagania współczesnej nauki
+
+Hobsbawm zderza nacjonalistyczną iluzję pełnej równości wszystkich języków z twardą rzeczywistością użytkową: w praktyce niektóre języki są „bardziej równe niż inne” pod względem międzynarodowej przydatności.
+
+- Wydawanie np. specjalistycznego czasopisma naukowego z biochemii w języku baskijskim byłoby jedynie symbolicznym luksusem i marnowaniem zasobów, ponieważ międzynarodowa wymiana naukowa i zaawansowana wiedza wymagają posługiwania się językami o zasięgu globalnym (głównie angielskim).
+
+---
+
+6. Podsumowanie: Trzy zasady zdrowego rozsądku
+
+Hobsbawm formułuje trzy kluczowe wnioski, które powinny kierować racjonalną analizą języka w polityce:
+
+1. **Utożsamienie narodu z językiem nie jest faktem naturalnym, lecz ideologicznym wymysłem**.
+2. **Współistnienie różnych języków w jednym państwie i u tej samej osoby jest historycznie rzeczą całkowicie normalną**.
+3. **Nowożytny świat wymaga pewnego stopnia wielojęzyczności w każdym narodzie**.
+
+Rozdział kończy się konkluzją, że polityka językowa zdominowana przez nacjonalistyczne emocje stała się „polityką irracjonalności” (_politics of unreason_), w której racjonalne argumenty rzadko trafiają do językowych gorliwców.
+
+
+## Rozdział 15
+
