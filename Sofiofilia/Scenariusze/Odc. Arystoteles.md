@@ -179,7 +179,9 @@ Wreszcie ostatnia przyczyna to przyczyna celowa, czyli po co dany byt powstał, 
 
 A co jak rzeźbiarz rzeźbi figurkę by ją sprzedać? Co wtedy jest przyczyną celową? Dalej zaspokajanie potrzeb estetycznych. Przyczyna celowa jest wewnętrzną charakterystyką bytu. Cel działającego nie musi być tożsamy z celem dzieła. Rzeźbiarz może chcieć sprzedać figurkę, nabywca może chcieć ją kupić na prezent dla żony, żona może chcieć ją wstawić jako dekorację do pokoju gościnnego, do którego prawie nigdy nie wchodzi, ale sama figurka służy do tego samego.
 
-Wyjaśnianie za pomocą czterech przyczyn, zwłaszcza natury 
+Oczywiście współcześnie się tak nie uprawia nauki. Byty matematycznie nie muszą mieć żadnej przyczyny materialnej, a przyczyna celowa kojarzy się ludziom z Bożym planem, co sami rozumiecie, jest dla wielu osób kontrowersyjne. Niemniej o ile większość przyrodoznawstwa udało się sprowadzić do mówienia głównie o przyczynie sprawczej, tak w biologii można spotkać jakieś pozostałości celowości i są współcześnie filozofowie, którzy chcieliby jej powszechnej rehabilitacji, ale to nie temat na dziś.
+
+
 
 
 
