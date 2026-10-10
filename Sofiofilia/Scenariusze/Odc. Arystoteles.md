@@ -153,7 +153,7 @@ Tłumaczy to teoria formy i materii.
 
 Forma (morfe)  to wew. natura rzeczy; ich wew. istota. Jest ona powodem stałości w rzeczach. 
 
-Z kolei materia (hyle) odpowiada za możność zmiany. Nie istnieje sama przez się, istnieje zawsze "pod" jakąś formą. Materia jest czymś wyłącznie potencjalnie rzeczywistym. Są jej dwie rodzaje, ale o tym później, by was nie przeciążać.
+Z kolei materia (hyle) odpowiada za możność zmiany. Nie istnieje sama przez się, istnieje zawsze "pod" jakąś formą. Materia jest czymś wyłącznie potencjalnie rzeczywistym. 
 
 Każda substancja składa się z formy i materii. Materia jest takim swojego rodzaju podłożem o nieskończonym potencjale, jeśli chodzi o kształty, które przyjmie. Zawsze jednak przyjmuje postać nadaną przez formę. To ona określa jak dana substancja wygląda i w jakim zakresie może się zmienić. 
 
@@ -161,13 +161,32 @@ Wyobraźcie sobie człowieka na początku jego ontogenezy. Po połączeniu żeń
 
 Oczywiście ludzie mają różne choroby i przydarzają im się różne wypadki, w wyniku których tracą te kończyccy, czy włosy, albo nigdy ich nie wykształcają, ale to są cechy przypadłościowe, albo jeśli chcielibyście jeszcze mądrzej to powiedzieć – akcydentalne. Nie stanowią one o naturze tego bytu, nie są częścią substancji drugiej. Wszelkie braki na tym polu, należy rozumieć jako bytowość innych kategorii: doznawania, posiadania itd. 
 
+Ważne by nie mylić możności z możliwością. Możliwość to coś więcej. To możność wdrukowana w nasz byt i zewnętrzne okoliczności, umożliwiające zrobienie czegoś. Np. każdy człowiek z natury ma możność wejść na Mont Everest. Ale nie każdy ma teraz możliwość zrobienia tego: bilety lotnicze i sprzęt do wspinaczki kosztują, trzeba mieć czas, zdrowie, nie można siedzieć w więzieniu, mieć innych zobowiązań itd. Nie mniej, przeciętny słuchasz tego podcastu, jakby się uparł, to mógłby tak pokierować okolicznościami, że uzyskałby tę możliwość. 
+
+Możliwość dalej nie oznacza, że coś zrobimy, bo za realizację jej oraz możności za razem odpowiada akt. W sensie nie goła na płótnie, tylko działanie. Akt to przejście bytu z możności do AKTualizacji. 
+
+Dlatego powiemy, że cały czas ma możność. Za to nie mamy możności skoczenia na odległość 5000 km, bo nasza ludzka biomechanika nie przewiduje takiego zdarzenia. 
 
 
 
+
+
+To przy poruszycielu
 
 - Materia pierwsza to podłoże pozbawione jakichkolwiek cech. Jako podmiot wszelkich zmian jest numerycznie jedna. Rodzaj niebytu, niebyt przypadłościowy (w odróżnieniu od niebytu istotowego).
 - Materia druga to konkretna materia już określona i ukształtowana przez formę substancjalną, która tworzy indywidualny byt. Taką materią jest np. marmur dla rzeźby.
-- 
+
+
+
+1. Formalna - jak? Istota rzeczy.
+2. Materialna - co? z czego? To, z czego rzecz jest zrobiona.
+3. Sprawcza - dlaczego? z jakiego powodu? To, od czego pochodzi zmiana i ruch.
+4. Celowa - po co? W jakim celu?
+
+
+
+
+
 - Umiarkowany realizm. To, co ogólne istnieje w rzeczach, ale nie przed rzeczami ani po rzeczach. O ile to, co szczegółowe może być poznane tylko w bycie ogólnym, tak to, co ogólne występuje tylko w bycie szczegółowym.
 
 
