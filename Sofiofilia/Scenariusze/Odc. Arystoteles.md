@@ -136,9 +136,32 @@ Doznawanie — np. odczuwa ból, czuje ciepło. W ogóle doznanie to po grecku p
 
 Pewnie rzuciło się niektórym od razu w oczy, jak arbitralne są te kategorie. Nawet jak jest jakiś luźny związek z koncepcją czasu, to jednak życie w starożytności, a skończenie 70 roku życia we współczesnej Polsce to nie są żadne zbliżone "sposoby bycia".
 
-Nie mniej, sama teoria substancji i przypadłości jest wielkim osiągnięciem Arystotelesa i byna
+Nie mniej, sama teoria substancji i przypadłości jest wielkim osiągnięciem Arystotelesa i bynajmniej nie jedynym.
+
+Przyjrzyjmy się teraz jego analizie zjawiska ruchu. Generalnie dokonuje się on w następujących kategoriach:
+	1. Substancji - powstawanie i ginięcie
+	2. Ilości - przyrost i ubytek
+	3. Jakości
+	4. Miejsca
+	5. Czasu 
+
+Nie ma ruchu poza rzeczami. Nie ma idei latających po platońskim niebie.
+
+Ale jak w ogóle ruch jest możliwy? - spytają fani Zenona z Elei.
+
+Tłumaczy to teoria formy i materii. 
+
+Forma (morfe)  to wew. natura rzeczy; ich wew. istota. Jest ona powodem stałości w rzeczach. 
+
+Z kolei materia (hyle) odpowiada za możność zmiany. Nie istnieje sama przez się, istnieje zawsze "pod" jakąś formą. Materia jest czymś wyłącznie potencjalnie rzeczywistym.
+
+Każda substancja składa się z formy i materii. Materia jest takim swojego rodzaju podłożem o nieskończonym potencjale, jeśli chodzi o kształty, które przyjmie, ale zawsze przyjmuje postać nadaną przez formę. To ona określa jak dana subtancja wygląda i w jakim zakresie może się zmienić. 
 
 
+
+![[Pasted image 20240705204258.png]]
+- Motor - przyczyna sprawcza (przyczyna ruchu). Nie przyczynował istnienia, bo materia jest wieczna.
+- Strzałka po prawej - przyczyna celowa.
 
 
 
@@ -156,21 +179,8 @@ Nie mniej, sama teoria substancji i przypadłości jest wielkim osiągnięciem A
 	<Sfera księżycowa granicą pomiędzy 2, a 3.>
 3. Substancje zmysłowe (byty materialne nieożywione i te ożywione z aktu i możności, które powstają i giną). Zniszczalne, bo poruszają się ruchem prostoliniowym i wpadają na siebie.  
 
-### Ruch
 
-- Analiza ruchu początkiem fizyki i metafizyki
-- Dokonuje się w kategoriach:
-	1. Substancji - powstawanie i ginięcie
-	2. Ilości - przyrost i ubytek
-	3. Jakości
-	4. Miejsca
-	5. Czasu 
-- Nie ma ruchu poza rzeczami.
-- Forma (morfe) - wew. natura rzeczy, ich wew. istota. Powód stałości.
-- Materia (hyle)- możność. Nie istnieje sama przez się, istnieje "pod" jakąś formą. Materia jest czymś potencjalnie rzeczywistym. Powód zmienności.
-![[Pasted image 20240705204258.png]]
-- Motor - przyczyna sprawcza (przyczyna ruchu). Nie przyczynował istnienia, bo materia jest wieczna.
-- Strzałka po prawej - przyczyna celowa.
+
 - Nauka o ruchu wiąże się ściśle z doktryną miejsca naturalnego. Arystote­les poza czterema tradycyjnymi elementami przyjmuje jeszcze istnienie piąte­go elementu, jakim jest eter. Obszar ciał ete­rycznych rozciąga się od sfery gwiazd stałych aż do sfery Księżyca włącznie. Eterowi przysługuje ruch po kole, a innym elementom w górę lub w dół ku miejscu naturalnemu. Łącząc elementy z parami przeciwieństw, otrzymuje Arystoteles następującą tabelę elementów: ogień - ciepły i suchy, powietrze - ciepłe i wilgotne, woda - wilgotna i zimna, ziemia - zimna i sucha. Lekkość i ciężkość stanowią trzecią parę przeciwieństw, która powoduje ruch ku miejscu naturalnemu.
   Wszechświat złożony jest z szeregu koncentrycznych sfer z kulistą Zie­mią w środku. Bóg porusza bezpośrednio tylko najbardziej zewnętrzną sferę gwiazd stałych. Między tą sferą a Ziemią znajdują się sfery planet, Słońca i Księżyca. Ciała niebieskie, zbudowane z eteru, są niezniszczalne. Wynika to z tego, iż tkwi w nich tylko jeden rodzaj możności, a zatem podlegają tylko jed­nemu rodzajowi zmiany, jakim jest możność poruszania się po kulistych orbi­tach. Świat i występujący w nim ruch jest wieczny. Wieczność ta zarówno roz­ciąga się wstecz (bez początku), jak i wprzód (bez końca).
 
