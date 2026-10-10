@@ -182,7 +182,7 @@ A co jak rzeźbiarz rzeźbi figurkę by ją sprzedać? Co wtedy jest przyczyną 
 Oczywiście współcześnie się tak nie uprawia nauki. Byty matematycznie nie muszą mieć żadnej przyczyny materialnej, a przyczyna celowa kojarzy się ludziom z Bożym planem, co sami rozumiecie, jest dla wielu osób kontrowersyjne. Niemniej o ile większość przyrodoznawstwa udało się sprowadzić do mówienia głównie o przyczynie sprawczej, tak w biologii można spotkać jakieś pozostałości celowości i są współcześnie filozofowie, którzy chcieliby jej powszechnej rehabilitacji, ale to nie temat na dziś.
 
 
-Za to dziś p[]
+Za to dziś zastanowimy się jeszcze skąd formy w bytach naturalnych. Figurkę wymyślił rzeźbiarz, jasne. Ale kto wymyślił dąb Bartek albo górę Olimp? 
 
 
 
