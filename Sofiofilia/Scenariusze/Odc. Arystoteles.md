@@ -153,9 +153,19 @@ Tłumaczy to teoria formy i materii.
 
 Forma (morfe)  to wew. natura rzeczy; ich wew. istota. Jest ona powodem stałości w rzeczach. 
 
-Z kolei materia (hyle) odpowiada za możność zmiany. Nie istnieje sama przez się, istnieje zawsze "pod" jakąś formą. Materia jest czymś wyłącznie potencjalnie rzeczywistym.
+Z kolei materia (hyle) odpowiada za możność zmiany. Nie istnieje sama przez się, istnieje zawsze "pod" jakąś formą. Materia jest czymś wyłącznie potencjalnie rzeczywistym. Są jej dwie rodzaje, ale o tym później, by was nie przeciążąć.
 
-Każda substancja składa się z formy i materii. Materia jest takim swojego rodzaju podłożem o nieskończonym potencjale, jeśli chodzi o kształty, które przyjmie, ale zawsze przyjmuje postać nadaną przez formę. To ona określa jak dana subtancja wygląda i w jakim zakresie może się zmienić. 
+Każda substancja składa się z formy i materii. Materia jest takim swojego rodzaju podłożem o nieskończonym potencjale, jeśli chodzi o kształty, które przyjmie. Zawsze jednak przyjmuje postać nadaną przez formę. To ona określa jak dana substancja wygląda i w jakim zakresie może się zmienić. 
+
+Wyobraźcie sobie człowieka na początku jego ontogenezy. Po połączeniu żeńskiej i męskiej komórki rozrodczej powstała zygota, która jest już osobnym organizmem. Ta substancja nie ma już w tym momencie możności zmienienia się w psa albo w jabłko. Jej forma tak wpływa na materię, że ten byt może się wyłącznie stać człowiekiem. Ma możność stania się zarodkiem, płodem, noworodkiem, niemowlakiem, 
+
+
+- Materia pierwsza to podłoże pozbawione jakichkolwiek cech. Jako podmiot wszelkich zmian jest numerycznie jedna. Rodzaj niebytu, niebyt przypadłościowy (w odróżnieniu od niebytu istotowego).
+- Materia druga to konkretna materia już określona i ukształtowana przez formę substancjalną, która tworzy indywidualny byt. Taką materią jest np. marmur dla rzeźby.
+- 
+- Umiarkowany realizm. To, co ogólne istnieje w rzeczach, ale nie przed rzeczami ani po rzeczach. O ile to, co szczegółowe może być poznane tylko w bycie ogólnym, tak to, co ogólne występuje tylko w bycie szczegółowym.
+
+
 
 
 
@@ -168,8 +178,7 @@ Każda substancja składa się z formy i materii. Materia jest takim swojego rod
 
 - Pierwszy Poruszyciel jest czystym aktem i przyczyną celową. Jego myślenie jest myśleniem myślenia (noesis noeseos noesis)
 	- Nie jest przyczyną istnienia wszystkich bytów, nie jest stwórcą świata.
-- Materia pierwsza to podłoże pozbawione jakichkolwiek cech. Jako podmiot wszelkich zmian jest numerycznie jedna. Rodzaj niebytu, niebyt przypadłościowy (w odróżnieniu od niebytu istotowego).
-- Umiarkowany realizm. To, co ogólne istnieje w rzeczach, ale nie przed rzeczami ani po rzeczach. O ile to, co szczegółowe może być poznane tylko w bycie ogólnym, tak to, co ogólne występuje tylko w bycie szczegółowym.
+
 - 
 
 ### Rodzaje substancji
