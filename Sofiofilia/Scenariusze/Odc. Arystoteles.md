@@ -82,7 +82,7 @@ I zbiory tekstów, które raczej zestawiono razem później:
 
 Ze względu na ten rozstrzał tematyczny, niektórzy sofiści złośliwe go nazywali sroką, ale biorąc pod uwagę, że to zbieractwo faktów uczyniło go pionierem logiki formalnej, zoologii systematycznej, literaturoznawstwa, czy metodologii nauk, to chyba było warto znosić te złośliwości.
 
-Mała uwaga zanim przejdę do faktycznej filozofii. Arystotelesa czyta się na dwa podstawowe sposoby. Pierwsze, tradycyjne podejście to metoda systematyczno-monolityczna, czyli po prostu wszystko co napisał, traktujemy jako twór dojrzałej intelektualnie osoby. Drugie podejście jest historyczno-genetyczne i zakłada, że myśl Arystotelesa rozwijała się w czasie. Nie mam pojęcia jak jest, nie będę się nad tym więcej pochylać, co chyba siłą rzeczy wpycha mnie w ramy podejścia pierwszego. Jak interesuje was to drugie, to zajrzyjcie sobie do Coplestona.
+Mała uwaga zanim przejdę do faktycznej filozofii. Arystotelesa czyta się na dwa podstawowe sposoby. Pierwsze, tradycyjne podejście to metoda systematyczno-monolityczna, czyli po prostu wszystko co napisał, traktujemy jako twór dojrzałej intelektualnie osoby. Drugie podejście jest historyczno-genetyczne i zakłada, że myśl Arystotelesa rozwijała się w czasie. Nie mam pojęcia czy tak było, nie będę się nad tym więcej pochylać, co chyba siłą rzeczy wpycha mnie w ramy podejścia pierwszego. Jak interesuje was to drugie, to zajrzyjcie sobie do Coplestona.
 
 ## Metafizyka
 
@@ -136,6 +136,9 @@ Doznawanie — np. odczuwa ból, czuje ciepło. W ogóle doznanie to po grecku p
 
 Pewnie rzuciło się niektórym od razu w oczy, jak arbitralne są te kategorie. Nawet jak jest jakiś luźny związek z koncepcją czasu, to jednak życie w starożytności, a skończenie 70 roku życia we współczesnej Polsce to nie są żadne zbliżone "sposoby bycia".
 
+Nie mniej, sama teoria substancji i przypadłości jest wielkim osiągnięciem Arystotelesa i byna
+
+
 
 
 
@@ -178,4 +181,3 @@ Pewnie rzuciło się niektórym od razu w oczy, jak arbitralne są te kategorie.
 3. Sprawcza - dlaczego? z jakiego powodu? To, od czego pochodzi zmiana i ruch.
 4. Celowa - po co? W jakim celu?
 
-### Kategorie bytu (1 substancja i 9 przypadłości):
