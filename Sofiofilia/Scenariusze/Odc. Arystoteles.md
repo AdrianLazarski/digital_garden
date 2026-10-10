@@ -167,7 +167,7 @@ Możliwość oczywiście dalej nie oznacza, że coś zrobimy, bo za realizację 
 
 No to jesteście gotowi na koncepcję 4 przyczyn.
 
-
+Zdaniem Arystotelesa wyjaśnić coś
 
 1. Formalna - jak? Istota rzeczy.
 2. Materialna - co? z czego? To, z czego rzecz jest zrobiona.
