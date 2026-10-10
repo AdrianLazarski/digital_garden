@@ -167,11 +167,18 @@ Możliwość oczywiście dalej nie oznacza, że coś zrobimy, bo za realizację 
 
 No to jesteście gotowi na koncepcję 4 przyczyn.
 
-Zdaniem Arystotelesa poznać coś naukowo, to wskazać tego cztery przyczyny. 
+Zdaniem Arystotelesa poznać coś naukowo, to wskazać tego cztery przyczyny. Ale nie chodzi tu po prostu o jakieś okoliczności, tylko takie przyczyny, które w pewnym sensie wyjaśniają byt "od środka.
+
+Pierwsza przyczyna to przyczyna formalna. Czyli forma. Odpowiada na pytanie "jak?", więc informuje nas o istocie rzeczy. Jak ta rzecz jest? 
+
+Druga to przyczyna materialna, czyli z czego dana rzecz jest zrobiona. Chodzi tu już o bardzo konkretną materię np. przyczyną materialną figurki wyrzeźbionej z drewna jest drewno. 
+
+Następnie jest przyczyna sprawcza, informująca nas dlaczego rzecz jest. Chodzi Ci tu o to skąd pochodzi ruch i zmiana, które sprawiły, że wcześniej było coś innego, a teraz jest dany badany byt. No to przyczyną sprawczą drewnianej rzeźby jesrt 
+
 
 1. Formalna - jak? Istota rzeczy.
 2. Materialna - co? z czego? To, z czego rzecz jest zrobiona.
-3. Sprawcza - dlaczego? z jakiego powodu? To, od czego pochodzi zmiana i ruch.
+3. Sprawcza -  To, od czego pochodzi zmiana i ruch.
 4. Celowa - po co? W jakim celu?
 
 
