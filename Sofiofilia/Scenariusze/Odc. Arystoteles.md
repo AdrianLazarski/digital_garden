@@ -177,12 +177,9 @@ Następnie jest przyczyna sprawcza, informująca nas dlaczego rzecz jest. Chodzi
 
 Wreszcie ostatnia przyczyna to przyczyna celowa, czyli po co dany byt powstał, w jakim celu. Przyczyną celową rzeźby jest zaspokajanie potrzeb estetycznych osób ją oglądających.
 
+A co jak rzeźbiarz rzeźbi figurkę by ją sprzedać? Co wtedy jest przyczyną celową? Dalej zaspokajanie potrzeb estetycznych. Przyczyna celowa jest wewnętrzną charakterystyką bytu. Cel działającego nie musi być tożsamy z celem dzieła. Rzeźbiarz może chcieć sprzedać figurkę, nabywca może chcieć ją kupić na prezent dla żony, żona może chcieć ją wstawić jako dekorację do pokoju gościnnego, do którego prawie nigdy nie wchodzi, ale sama figurka służy do tego samego.
 
-1. Formalna - jak? Istota rzeczy.
-2. Materialna - co? z czego? To, z czego rzecz jest zrobiona.
-3. Sprawcza -  To, od czego pochodzi zmiana i ruch.
-4. Celowa - po co? W jakim celu?
-
+Wyjaśnianie za pomocą czterech przyczyn, zwłaszcza natury 
 
 
 
