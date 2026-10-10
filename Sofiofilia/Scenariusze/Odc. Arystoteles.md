@@ -173,7 +173,9 @@ Pierwsza przyczyna to przyczyna formalna. Czyli forma. Odpowiada na pytanie "jak
 
 Druga to przyczyna materialna, czyli z czego dana rzecz jest zrobiona. Chodzi tu już o bardzo konkretną materię np. przyczyną materialną figurki wyrzeźbionej z drewna jest drewno. 
 
-Następnie jest przyczyna sprawcza, informująca nas dlaczego rzecz jest. Chodzi Ci tu o to skąd pochodzi ruch i zmiana, które sprawiły, że wcześniej było coś innego, a teraz jest dany badany byt. No to przyczyną sprawczą drewnianej rzeźby jesrt 
+Następnie jest przyczyna sprawcza, informująca nas dlaczego rzecz jest. Chodzi Ci tu o to skąd pochodzi ruch i zmiana, które sprawiły, że wcześniej było coś innego, a teraz jest dany badany byt. No to przyczyną sprawczą drewnianej rzeźby jest rzeźbiarz, który ją wyrzeźbił. Jej formą, bo nie powiedzieliśmy, jest jakiś projekt/plan, czy też wizja rzeźbiarza, według której zmieniono kawałek drewna w rzeźbę o danym kształcie.
+
+Wreszcie ostatnia przyczyna to przyczyna celowa, czyli po co dany byt powstał, w jakim celu. Przyczyną celową rzeźby jest zaspokajanie potrzeb estetycznych osób ją oglądających.
 
 
 1. Formalna - jak? Istota rzeczy.
