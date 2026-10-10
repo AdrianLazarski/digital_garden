@@ -134,6 +134,10 @@ Posiadanie — np. ma brodę, nosi ubranie; jest uzbrojony, obuty
 Działanie — np. biegnie, myśli, subskrybuje kanał Sofiofilia i klika w dzwoneczek, jeśli jeszcze tego nie robi
 Doznawanie — np. odczuwa ból, czuje ciepło. W ogóle doznanie to po grecku pathos. Ciekawą karierę zrobiło to słowo.
 
+Pewnie rzuciło się niektórym od razu w oczy, jak arbitralne są te kategorie. Nawet jak jest jakiś luźny związek z koncepcją czasu, to jednak życie w starożytności, a skończenie 70 roku życia we współczesnej Polsce to nie są żadne zbliżone "sposoby bycia".
+
+
+
 
 
 - Pierwszy Poruszyciel jest czystym aktem i przyczyną celową. Jego myślenie jest myśleniem myślenia (noesis noeseos noesis)
