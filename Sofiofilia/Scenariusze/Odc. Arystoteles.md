@@ -153,11 +153,16 @@ Tłumaczy to teoria formy i materii.
 
 Forma (morfe)  to wew. natura rzeczy; ich wew. istota. Jest ona powodem stałości w rzeczach. 
 
-Z kolei materia (hyle) odpowiada za możność zmiany. Nie istnieje sama przez się, istnieje zawsze "pod" jakąś formą. Materia jest czymś wyłącznie potencjalnie rzeczywistym. Są jej dwie rodzaje, ale o tym później, by was nie przeciążąć.
+Z kolei materia (hyle) odpowiada za możność zmiany. Nie istnieje sama przez się, istnieje zawsze "pod" jakąś formą. Materia jest czymś wyłącznie potencjalnie rzeczywistym. Są jej dwie rodzaje, ale o tym później, by was nie przeciążać.
 
 Każda substancja składa się z formy i materii. Materia jest takim swojego rodzaju podłożem o nieskończonym potencjale, jeśli chodzi o kształty, które przyjmie. Zawsze jednak przyjmuje postać nadaną przez formę. To ona określa jak dana substancja wygląda i w jakim zakresie może się zmienić. 
 
-Wyobraźcie sobie człowieka na początku jego ontogenezy. Po połączeniu żeńskiej i męskiej komórki rozrodczej powstała zygota, która jest już osobnym organizmem. Ta substancja nie ma już w tym momencie możności zmienienia się w psa albo w jabłko. Jej forma tak wpływa na materię, że ten byt może się wyłącznie stać człowiekiem. Ma możność stania się zarodkiem, płodem, noworodkiem, niemowlakiem, 
+Wyobraźcie sobie człowieka na początku jego ontogenezy. Po połączeniu żeńskiej i męskiej komórki rozrodczej powstała zygota, która jest już osobnym organizmem. Ta substancja nie ma już w tym momencie możności zmienienia się w psa albo w jabłko. Jej forma tak wpływa na materię, że ten byt może się wyłącznie stać człowiekiem. Ma możność wykształcenia mózgu, rąk, skóry, włosów itd. Wszystko to wynika z formy człowieka.
+
+Oczywiście ludzie mają różne choroby i przydarzają im się różne wypadki, w wyniku których tracą te kończyccy, czy włosy, albo nigdy ich nie wykształcają, ale to są cechy przypadłościowe, albo jeśli chcielibyście jeszcze mądrzej to powiedzieć – akcydentalne. Nie stanowią one o naturze tego bytu, nie są częścią substancji drugiej. Wszelkie braki na tym polu, należy rozumieć jako bytowość innych kategorii: doznawania, posiadania itd. 
+
+
+
 
 
 - Materia pierwsza to podłoże pozbawione jakichkolwiek cech. Jako podmiot wszelkich zmian jest numerycznie jedna. Rodzaj niebytu, niebyt przypadłościowy (w odróżnieniu od niebytu istotowego).
