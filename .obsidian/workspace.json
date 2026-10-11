@@ -223,7 +223,8 @@
               "title": "English grammar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -299,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aktualnie opracowywane.md",
+                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -425,15 +426,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3e60a0b1954b720",
+  "active": "ac75b7a2f13c499a",
   "lastOpenFiles": [
+    "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
+    "04 Źródła/Niepotwierdzony 6501.crdownload",
+    "Aktualnie opracowywane.md",
     "04 Źródła/Putnam, The Collapse of the Fact Value Dichotomy.md",
     "04 Źródła/Palmer Tom, Rozwój i godność człowieka.md",
     "04 Źródła/Ortega y Gasset Jose, Bunt mas.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "07 Language lab/English grammar.md",
-    "Aktualnie opracowywane.md",
     "04 Źródła/Niepotwierdzony 149049.crdownload",
     "05 Osoby/Arystoteles.md",
     "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
@@ -453,7 +456,6 @@
     "03 Atomy/C Sharp.md",
     "02 MOC/MOC IT/MOC Typy danych.md",
     "03 Atomy/Język programowania.md",
-    "O stronie.md",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-7.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-6.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-5.webp",
