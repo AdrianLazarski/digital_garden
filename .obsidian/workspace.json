@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "ac75b7a2f13c499a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
-            }
-          },
-          {
             "id": "f0c0f3ee170e4396",
             "type": "leaf",
             "state": {
@@ -224,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -300,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "file": "04 Źródła/Putnam, The Collapse of the Fact Value Dichotomy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -426,19 +402,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac75b7a2f13c499a",
+  "active": "6f7ad92f7901bb70",
   "lastOpenFiles": [
+    "Aktualnie opracowywane.md",
+    "05 Osoby/Arystoteles.md",
+    "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
-    "Aktualnie opracowywane.md",
     "04 Źródła/Putnam, The Collapse of the Fact Value Dichotomy.md",
     "04 Źródła/Palmer Tom, Rozwój i godność człowieka.md",
     "04 Źródła/Ortega y Gasset Jose, Bunt mas.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
-    "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "07 Language lab/English grammar.md",
     "04 Źródła/Niepotwierdzony 149049.crdownload",
-    "05 Osoby/Arystoteles.md",
     "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
     "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
     "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
