@@ -80,6 +80,8 @@
 [[Skousen Mark, Narodziny współczesnej ekonomii]]
 
 
+[[Putnam, The Collapse of the Fact Value Dichotomy]]
+
 ## 4.3 Niepilne
 
 [[McCloskey Deirdre, Mit przedsiębiorczego państwa]]
