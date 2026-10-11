@@ -199,8 +199,7 @@
               "title": "English grammar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
+                "file": "Aktualnie opracowywane.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -402,7 +401,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f7ad92f7901bb70",
+  "active": "a3e60a0b1954b720",
   "lastOpenFiles": [
     "05 Osoby/Arystoteles.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
