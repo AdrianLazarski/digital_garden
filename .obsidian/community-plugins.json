@@ -7,10 +7,10 @@
   "obsidian-emoji-toolbar",
   "obsidian-latex-suite",
   "templater-obsidian",
-  "obsidian-linter",
   "image-converter",
   "obsidian-better-command-palette",
   "obsidian-git",
   "obsidian-style-settings",
-  "novel-word-count"
+  "novel-word-count",
+  "auto-meta"
 ]
