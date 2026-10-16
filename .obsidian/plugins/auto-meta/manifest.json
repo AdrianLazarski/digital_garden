@@ -1,0 +1,9 @@
+{
+  "id": "auto-meta",
+  "name": "Auto Meta",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Dodaje metadane do notatki",
+  "author": "ja",
+  "isDesktopOnly": false
+}
