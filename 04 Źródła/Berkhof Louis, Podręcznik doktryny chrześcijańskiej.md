@@ -535,7 +535,13 @@ Str. 98 Człowiek w przymierzu uczynków. Nie rozumiem zupełnie. Zaczyna się o
 
 ### 3.2.1 Pochodzenie i istota grzechu
 
-
+- Pierwszy grzech to zjedzenie z drzewa poznania dobra i zła wbrew woli Boga. 
+- Kusicielem był szatan, działający przez węża, tak jak potem działał w ludziach i świniach: Jan. 8:44, Rzym. 16:20, II Kor. 11:3, Obj. 12:9
+- Skutkiem utrata obrazu Bożego w najściślejszym sensie oraz całkowite zepsucie tj. niebycie zdolnym do czynienia jakiegokolwiek duchowego dobra.
+- Wraz ze zmianą kondycji ludzkiej pojawiła się zmiana w świadomości człowieka. Pojawiło się poczucie skażenia w postaci poczucia wstydu, winy i strachu przed Bogiem.
+- Człowiek został poddany śmierci (I Mojż. 3:19, Rzym. 5:12, Rzym. 6:23), choć wykonanie kary zostało zawieszone. No i został wygnany z raju. 
+- Grzech ma charakter absolutny. Człowiek jest po właściwej stronie albo niewłaściwej: Mat. 10:32-33, Mat. 12:30, Łuk. 11:23, Jak. 2:10
+- Pismo zawsze rozważa grzech w relacji do Boga i Jego prawa – spisanego "na tablicach ludzkiego serca" albo danego Mojżeszowi: Rzym. 1:32, 
 
 ## 3.3 Człowiek w przymierzy łaski
 
