@@ -150,33 +150,9 @@
               "icon": "lucide-file",
               "title": "McCloskey Deirdre, Burżuazyjna godność"
             }
-          },
-          {
-            "id": "cc286c7478e749f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 Language lab/English grammar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "English grammar"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -252,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Language lab/English grammar.md",
+                "file": "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,8 +354,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc286c7478e749f6",
+  "active": "d591f4b410f952ca",
   "lastOpenFiles": [
+    "Gotowanie/Pranie ciemne.md",
+    "07 Language lab/English grammar.md",
     "index.md",
     "05 Osoby/Arystoteles.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
@@ -390,7 +368,6 @@
     "Szyszkowska Maria, Zarys filozofii prawa.md",
     "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "O stronie.md",
-    "07 Language lab/English grammar.md",
     "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
     "Skróty klawiszowe.md",
     "ssss.md",
@@ -409,7 +386,6 @@
     "04 Źródła/Sepczyńska Dorota, Libertarianizm.md",
     "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
     "00. Lektury ❗.md",
-    "04 Źródła/Podsiad Antoni, Słownik terminów i pojęć filozoficznych.md",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-7.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-6.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-5.webp",
