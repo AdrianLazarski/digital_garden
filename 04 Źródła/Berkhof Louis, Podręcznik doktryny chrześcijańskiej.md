@@ -522,7 +522,9 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 	- Wymienność terminów: I Mojż. 1:26-27, I Mojż. 5:1, I Mojż. 9:6, I Kor. 11:7, Kol. 3:10, Jak. 3:9
 - Obraz Boży w człowieku jest jego największym wyróżnikiem, bo tej godności nie dzielą z nami nawet anioły.
 - Obraz jest w ścisłym i ogólnym sensie. Ścisły jest taki, jak luterański. Ef. 4:24, Kol. 3:10
-- Ogólniejszy oznacza, że człowiek jest bytem duchowym, rozumnym, moralnym i nieśmiertelnym, zamieszkującym ciało będące
+- Ogólniejszy oznacza, że człowiek jest bytem duchowym, rozumnym, moralnym i nieśmiertelnym, zamieszkującym ciało będące nie materialną substancją, ale organem duszy oraz że sprawuje władzę nad pośledniejszym stworzeniem. Tylko w ten sposób człowiek tracący obraz Boży w sensie ścisłym, może być dalej nosicielem obrazu w sensie szerszym: I Mojż. 9:6, I Kor. 11:7, I Kor. 15:49, Jak. 3:9
+
+Str. 98 Człowiek w przymierzu uczynków. Nie rozumiem zupełnie. Zaczyna się od stwierdzenia, że przyrodzone stosunki między Bogiem a człowiekiem zostały zastąpione przez stosunek przymierza, a potem się pisze, że Adam zawarł takie przymierze i złamał jego warunki. Myślałem, że przymierze nastąpiło później.
 
 ## 3.2 Człowiek w stanie grzechu
 
