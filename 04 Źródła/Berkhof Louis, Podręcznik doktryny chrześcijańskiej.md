@@ -525,9 +525,16 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 - Ogólniejszy oznacza, że człowiek jest bytem duchowym, rozumnym, moralnym i nieśmiertelnym, zamieszkującym ciało będące nie materialną substancją, ale organem duszy oraz że sprawuje władzę nad pośledniejszym stworzeniem. Tylko w ten sposób człowiek tracący obraz Boży w sensie ścisłym, może być dalej nosicielem obrazu w sensie szerszym: I Mojż. 9:6, I Kor. 11:7, I Kor. 15:49, Jak. 3:9
 
 Str. 98 Człowiek w przymierzu uczynków. Nie rozumiem zupełnie. Zaczyna się od stwierdzenia, że przyrodzone stosunki między Bogiem a człowiekiem zostały zastąpione przez stosunek przymierza, a potem się pisze, że Adam zawarł takie przymierze i złamał jego warunki. Myślałem, że przymierze nastąpiło później.
+
 - Adam został stworzony w stanie świętości, więc nie podlegał prawu śmierci. Nie posiadał jednak jeszcze największych przywilejów przewidzianych dla człowieka: wyniesienia ponad możliwość zbłądzenia, zgrzeszenia i śmierci. 
+- Ogółem autor nazywa przymierzem uczynków przymierze Adama z Bogiem. Adam miał się wykazać posłuszeństwem, czego nie zrobił i został skazany na śmierć w najszerszym sensie – cielesną, duchową, wieczną. Istotą śmierci nie jest unicestwienie bytu, ale odcięcie od źródła życia, niedola i żałość. Dusza oddzielona i od ciała i od Boga.
+- XVII-wieczni arminianie głosili, że przymierze uczynków zostało całkowicie uchylone przez upadek Adama. 
+- Reformowani: żądanie doskonałego posłuszeństwa nadal obowiązuje ; klątwa i kara wymierzone występnego nadal stosują się do wszystkich, którzy trwają w grzechu. Warunkowa obietnica też dalej obowiązuje, Bóg mógł ją wycofać, ale nie zrobił tego III Mojż. 18:5, Gal. 1:12. Z drugiej strony szczególny wymogi tego przymierza ustały wobec tych, którzy naprawdę żyją w przymierzu łaski, bo wypełnił jego Pośrednik w zastępstwie całego swego ludu.
 
 ## 3.2 Człowiek w stanie grzechu
+
+### 3.2.1 Pochodzenie i istota grzechu
+
 
 
 ## 3.3 Człowiek w przymierzy łaski
