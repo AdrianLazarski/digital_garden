@@ -525,6 +525,7 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 - Ogólniejszy oznacza, że człowiek jest bytem duchowym, rozumnym, moralnym i nieśmiertelnym, zamieszkującym ciało będące nie materialną substancją, ale organem duszy oraz że sprawuje władzę nad pośledniejszym stworzeniem. Tylko w ten sposób człowiek tracący obraz Boży w sensie ścisłym, może być dalej nosicielem obrazu w sensie szerszym: I Mojż. 9:6, I Kor. 11:7, I Kor. 15:49, Jak. 3:9
 
 Str. 98 Człowiek w przymierzu uczynków. Nie rozumiem zupełnie. Zaczyna się od stwierdzenia, że przyrodzone stosunki między Bogiem a człowiekiem zostały zastąpione przez stosunek przymierza, a potem się pisze, że Adam zawarł takie przymierze i złamał jego warunki. Myślałem, że przymierze nastąpiło później.
+- Adam został stworzony w stanie świętości, więc nie podlegał prawu śmierci. Nie posiadał jednak jeszcze największych przywilejów przewidzianych dla człowieka: wyniesienia ponad możliwość zbłądzenia, zgrzeszenia i śmierci. 
 
 ## 3.2 Człowiek w stanie grzechu
 
