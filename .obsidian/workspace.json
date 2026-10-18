@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "dcb25d61e8a81fe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
-            }
-          },
-          {
             "id": "f0c0f3ee170e4396",
             "type": "leaf",
             "state": {
@@ -198,33 +174,9 @@
               "icon": "lucide-file",
               "title": "English grammar"
             }
-          },
-          {
-            "id": "e53a2dcd5eca6012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -300,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "file": "07 Language lab/English grammar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -426,16 +378,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcb25d61e8a81fe1",
+  "active": "cc286c7478e749f6",
   "lastOpenFiles": [
+    "index.md",
+    "05 Osoby/Arystoteles.md",
+    "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "Aktualnie opracowywane.md",
     "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
     "04 Źródła/Szyszkowska Maria, Zarys filozofii prawa.md",
-    "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-    "05 Osoby/Arystoteles.md",
     "Szyszkowska Maria, Zarys filozofii prawa.md",
-    "index.md",
     "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "O stronie.md",
     "07 Language lab/English grammar.md",
