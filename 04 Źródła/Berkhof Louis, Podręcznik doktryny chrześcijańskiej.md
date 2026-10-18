@@ -548,7 +548,11 @@ Str. 98 Człowiek w przymierzu uczynków. Nie rozumiem zupełnie. Zaczyna się o
 - Grzech zawiera się nie tylko w czynnościach "zewnętrznych", ale także w nawykach i kondycji serca. Grzeszny stan jest podstawą grzesznych nawyków, te zaś prowadzą do grzesznych uczynków. Mat. 5:22-28. Rzym. 7:7, Gal. 5:17-24
 - Pelagianie nie wierzą w grzech pierworodny. Nie ma grzesznej natury, grzech to dobrowolny wybór.
 - Papiści uważają grzech pierworodny za brak pierwotnej prawości; to stan niechęci do Boga. Grzech osobisty zawiera się tylko w czynach ludzi, które są skutkiem świadomego wyboru. Bezbożna skłonność, żądze i emocje stojące za tymi czynami mogą mieć grzeszną naturę, ale same nie są grzechem w ścisłym znaczeniu tego słowa.
-- 
+- Są różne ewolucjonistyczne poglądy na grzech np. w pracach Tennanta: człowiek odziedziczył od zwierząt wiele własności i impulsów. Same w sobie nie są grzechem, ale staną się nim, jeśli człowiek nie będzie słuchał swojego sumienia. Jest też w człowieku stopniowo przebudzające się poczucie moralne, potępiające te impulsy. Grzech polega więc na tym, że człowiek jako istota moralna daje się kontrolować instynktom cielesnej natury. 
+
+### 3.2.2 Grzech w życiu rasy ludzkiej
+
+
 
 ## 3.3 Człowiek w przymierzy łaski
 

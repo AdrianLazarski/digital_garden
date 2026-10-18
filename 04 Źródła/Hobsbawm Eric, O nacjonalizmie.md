@@ -7,8 +7,9 @@ tags:
   - ref
 dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
-modified date: 2026-10-16T13:55
+modified date: 2026-10-18T15:57
 year: "2021"
+publish: true
 ---
 Wydane pośmiertnie w 2021. Pisane do 1990.
 
