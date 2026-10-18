@@ -541,7 +541,14 @@ Str. 98 Człowiek w przymierzu uczynków. Nie rozumiem zupełnie. Zaczyna się o
 - Wraz ze zmianą kondycji ludzkiej pojawiła się zmiana w świadomości człowieka. Pojawiło się poczucie skażenia w postaci poczucia wstydu, winy i strachu przed Bogiem.
 - Człowiek został poddany śmierci (I Mojż. 3:19, Rzym. 5:12, Rzym. 6:23), choć wykonanie kary zostało zawieszone. No i został wygnany z raju. 
 - Grzech ma charakter absolutny. Człowiek jest po właściwej stronie albo niewłaściwej: Mat. 10:32-33, Mat. 12:30, Łuk. 11:23, Jak. 2:10
-- Pismo zawsze rozważa grzech w relacji do Boga i Jego prawa – spisanego "na tablicach ludzkiego serca" albo danego Mojżeszowi: Rzym. 1:32, 
+- Pismo zawsze rozważa grzech w relacji do Boga i Jego prawa – spisanego "na tablicach ludzkiego serca" albo danego Mojżeszowi: Rzym. 1:32, Rzym. 2:12-14, Rzym. 4:15, Rzym. 5:13, Jak. 2:9-10, I Jana 3:4
+- Grzech jest winą, podlegającą karze: Mat. 6:12, Rzym. 3:19, Rzym. 5:18, Ef. 2:3
+- Grzech jest również skażeniem: Job 14:4, Jer. 17:9, Mat. 7:15-20, Rzym. 8:5-8, Ef. 4:17-19
+- Grzech jest w sercu, co w psychologii Pisma oznacza główny organ duszy, z którego wywodzą się wszystkie rzeczy związane z życiem Przyp. 4:23. Z tego centrum rozciąga się wpływ na intelekt, wolę, emocje i ciało: Jer. 17:9, Mat. 15:19-20, Łuk. 6:45, Hebr. 3:12
+- Grzech zawiera się nie tylko w czynnościach "zewnętrznych", ale także w nawykach i kondycji serca. Grzeszny stan jest podstawą grzesznych nawyków, te zaś prowadzą do grzesznych uczynków. Mat. 5:22-28. Rzym. 7:7, Gal. 5:17-24
+- Pelagianie nie wierzą w grzech pierworodny. Nie ma grzesznej natury, grzech to dobrowolny wybór.
+- Papiści uważają grzech pierworodny za brak pierwotnej prawości; to stan niechęci do Boga. Grzech osobisty zawiera się tylko w czynach ludzi, które są skutkiem świadomego wyboru. Bezbożna skłonność, żądze i emocje stojące za tymi czynami mogą mieć grzeszną naturę, ale same nie są grzechem w ścisłym znaczeniu tego słowa.
+- 
 
 ## 3.3 Człowiek w przymierzy łaski
 
