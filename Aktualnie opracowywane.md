@@ -11,7 +11,7 @@
 # 1. Spisane notatki - czytam
 
 [[McCloskey Deirdre, Burżuazyjna godność]] 📌
-[[Berkhof Louis, Podręcznik doktryny chrześcijańskiej]]
+[[Berkhof Louis, Podręcznik doktryny chrześcijańskiej]] ✝️
 [[Zitelmann Rainer, Socjalizm w mundurze]]
 
 [[Hobsbawm Eric, O nacjonalizmie]]

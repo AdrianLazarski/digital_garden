@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "ec51748e2d92325c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
+            }
+          },
+          {
             "id": "f0c0f3ee170e4396",
             "type": "leaf",
             "state": {
@@ -176,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Language lab/English grammar.md",
+                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,23 +402,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc286c7478e749f6",
+  "active": "ec51748e2d92325c",
   "lastOpenFiles": [
+    "Aktualnie opracowywane.md",
     "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
+    "07 Language lab/English grammar.md",
     "Skróty klawiszowe.md",
     "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "ssss.md",
     "04 Źródła/Putnam, The Collapse of the Fact Value Dichotomy.md",
     "05 Osoby/Arystoteles.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
-    "Aktualnie opracowywane.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
     "04 Źródła/Palmer Tom, Rozwój i godność człowieka.md",
     "04 Źródła/Ortega y Gasset Jose, Bunt mas.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
-    "07 Language lab/English grammar.md",
     "04 Źródła/Niepotwierdzony 149049.crdownload",
     "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
     "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",

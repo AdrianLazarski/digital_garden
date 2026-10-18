@@ -513,7 +513,13 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 
 ### 3.1.2 Człowiek jako obraz Boży
 
-- 
+- Szczególna chwała człowieka polega na tym, że został stworzony jako obraz Boży na jego podobieństwo (I Mojż. 1:26-27).
+- Niektórzy próbowali ostro rozróżniać obraz i podobieństwo, jakoby pierwszy odnosił się do ciała, a drugie do duszy.
+- Augustyn twierdził, że odnosiły się do właściwości intelektualnych i moralnych duszy.
+- Dla papistów obraz to przyrodzone dary, które otrzymał człowiek, a podobieństwo to nadprzyrodzone dary (konkretnie jego pierwotna prawość).
+- Berkhof uważa, że to po prostu synonimy, kładące nacisk na różne aspekty. 
+	- Wymienność terminów: I Mojż. 1:26-27, I Mojż. 5:1, I Mojż. 9:6, I Kor. 11:7, Kol. 3:10, Jak. 3:9
+- Obraz Boży w człowieku jest jego największym wyróżnikiem, bo tej godności nie dzielą z nami nawet anioły.
 
 ## 3.2 Człowiek w stanie grzechu
 
