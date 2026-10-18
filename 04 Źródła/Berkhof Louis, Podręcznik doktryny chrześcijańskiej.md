@@ -516,10 +516,13 @@ Prowadzi Kościół, przewodząc mu w pełni prawdy
 - Szczególna chwała człowieka polega na tym, że został stworzony jako obraz Boży na jego podobieństwo (I Mojż. 1:26-27).
 - Niektórzy próbowali ostro rozróżniać obraz i podobieństwo, jakoby pierwszy odnosił się do ciała, a drugie do duszy.
 - Augustyn twierdził, że odnosiły się do właściwości intelektualnych i moralnych duszy.
-- Dla papistów obraz to przyrodzone dary, które otrzymał człowiek, a podobieństwo to nadprzyrodzone dary (konkretnie jego pierwotna prawość).
+- Dla papistów obraz to przyrodzone dary, które otrzymał człowiek (duchowa istota duszy, wolność woli i nieśmiertelność ciała), a podobieństwo to nadprzyrodzone dary (pierwotna prawość, bo w stanie naturalnym wciąż przejawiał skłonności wynikające z niższych popędów).
+- Luteranie nie mają jednego zdania. Przeważająca większość uważa, że obraz Boży to właściwości duchowe, którymi człowiek został obdarzony przy stworzeniu: prawdziwa wiedza, prawość, świętość. Ten pogląd nie wystarczająco odróżnia człowieka od zwierząt i aniołów i nie wyjaśnia, jak można było utracić ten obraz, zdaniem Berkhofa.
 - Berkhof uważa, że to po prostu synonimy, kładące nacisk na różne aspekty. 
 	- Wymienność terminów: I Mojż. 1:26-27, I Mojż. 5:1, I Mojż. 9:6, I Kor. 11:7, Kol. 3:10, Jak. 3:9
 - Obraz Boży w człowieku jest jego największym wyróżnikiem, bo tej godności nie dzielą z nami nawet anioły.
+- Obraz jest w ścisłym i ogólnym sensie. Ścisły jest taki, jak luterański. Ef. 4:24, Kol. 3:10
+- Ogólniejszy oznacza, że człowiek jest bytem duchowym, rozumnym, moralnym i nieśmiertelnym, zamieszkującym ciało będące
 
 ## 3.2 Człowiek w stanie grzechu
 
