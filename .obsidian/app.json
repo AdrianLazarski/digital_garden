@@ -2,10 +2,5 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "attachmentFolderPath": "./załączniki",
-  "newFileLocation": "current",
-  "userIgnoreFilters": [
-    ".git"
-  ],
-  "showInlineTitle": true,
-  "readableLineLength": true
+  "newFileLocation": "current"
 }

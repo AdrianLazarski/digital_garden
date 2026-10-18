@@ -1,16 +1,4 @@
 {
-  "cssTheme": "",
-  "theme": "moonstone",
-  "showViewHeader": true,
-  "showRibbon": true,
-  "enabledCssSnippets": [
-    "colorful folders",
-    "big-math",
-    "kolorowe headingi"
-  ],
-  "baseFontSize": 17,
-  "textFontFamily": "Segoe UI",
-  "monospaceFontFamily": "",
-  "interfaceFontFamily": "",
-  "accentColor": "#9570eb"
+  "cssTheme": "Minimal",
+  "theme": "moonstone"
 }
