@@ -150,33 +150,9 @@
               "icon": "lucide-file",
               "title": "MOC Ekonomia"
             }
-          },
-          {
-            "id": "d591f4b410f952ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "McCloskey Deirdre, Burżuazyjna godność"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -252,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
+                "file": "02 MOC/MOC Ekonomia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,15 +354,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d591f4b410f952ca",
+  "active": "9cdbf2b229fef705",
   "lastOpenFiles": [
+    "07 Language lab/English grammar.md",
+    "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "Aktualnie opracowywane.md",
     "05 Osoby/Arystoteles.md",
     "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
-    "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
     "Gotowanie/Pranie ciemne.md",
-    "07 Language lab/English grammar.md",
     "index.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",

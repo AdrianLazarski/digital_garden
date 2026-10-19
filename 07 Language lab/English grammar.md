@@ -43,7 +43,7 @@ questions and auxillary verbs
 - [x] 52
 
 ing and to
-- [ ] 36
+- [x] 36
 - [ ] 53
 - [ ] 54
 - [ ] 59
