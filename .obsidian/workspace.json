@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "2e313a103979e7d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Odc. Arystoteles"
+            }
+          },
+          {
             "id": "f0c0f3ee170e4396",
             "type": "leaf",
             "state": {
@@ -152,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
+                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,21 +378,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d591f4b410f952ca",
+  "active": "2e313a103979e7d3",
   "lastOpenFiles": [
+    "Aktualnie opracowywane.md",
+    "05 Osoby/Arystoteles.md",
+    "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
+    "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
     "Gotowanie/Pranie ciemne.md",
     "07 Language lab/English grammar.md",
     "index.md",
-    "05 Osoby/Arystoteles.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-    "Aktualnie opracowywane.md",
-    "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
     "04 Źródła/Szyszkowska Maria, Zarys filozofii prawa.md",
     "Szyszkowska Maria, Zarys filozofii prawa.md",
     "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "O stronie.md",
-    "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
     "Skróty klawiszowe.md",
     "ssss.md",
     "04 Źródła/Putnam, The Collapse of the Fact Value Dichotomy.md",
