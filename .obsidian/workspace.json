@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
+                "file": "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,8 +378,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e313a103979e7d3",
+  "active": "d591f4b410f952ca",
   "lastOpenFiles": [
+    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "Aktualnie opracowywane.md",
     "05 Osoby/Arystoteles.md",
     "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
@@ -401,7 +402,6 @@
     "04 Źródła/Niepotwierdzony 6501.crdownload",
     "04 Źródła/Palmer Tom, Rozwój i godność człowieka.md",
     "04 Źródła/Ortega y Gasset Jose, Bunt mas.md",
-    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "04 Źródła/Niepotwierdzony 149049.crdownload",
     "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
     "02 MOC/MOC Ekonomia.md",
