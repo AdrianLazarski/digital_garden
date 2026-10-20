@@ -126,33 +126,8 @@
               "icon": "lucide-file",
               "title": "Hobsbawm Eric, O nacjonalizmie"
             }
-          },
-          {
-            "id": "9cdbf2b229fef705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Ekonomia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC Ekonomia"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Ekonomia.md",
+                "file": "Aktualnie opracowywane.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,21 +329,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cdbf2b229fef705",
+  "active": "a3e60a0b1954b720",
   "lastOpenFiles": [
+    "04 Źródła/Hospers John, Wprowadzenie do analizy filozoficznej.md",
+    "Aktualnie opracowywane.md",
+    "04 Źródła/Jaspers Karl, Wprowadzenie do filozofii.md",
+    "04 Źródła/Popkin Richard, Stroll Avrum,  Filozofia.md",
+    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
+    "04 Źródła/Opara Stanisław, Podstawy filozofii.md",
+    "04 Źródła/Bocheński Józef Maria, Współczesne metody myślenia.md",
+    "04 Źródła/Szyszkowska Maria, Zarys filozofii prawa.md",
+    "Sofiofilia/Scenariusze/Literatura propedeutyczna.md",
+    "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
+    "02 MOC/MOC Ekonomia.md",
     "07 Language lab/English grammar.md",
     "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
-    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
-    "Aktualnie opracowywane.md",
     "05 Osoby/Arystoteles.md",
     "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
     "Gotowanie/Pranie ciemne.md",
     "index.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-    "04 Źródła/Szyszkowska Maria, Zarys filozofii prawa.md",
     "Szyszkowska Maria, Zarys filozofii prawa.md",
-    "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "O stronie.md",
     "Skróty klawiszowe.md",
     "ssss.md",
@@ -379,13 +361,6 @@
     "04 Źródła/Palmer Tom, Rozwój i godność człowieka.md",
     "04 Źródła/Ortega y Gasset Jose, Bunt mas.md",
     "04 Źródła/Niepotwierdzony 149049.crdownload",
-    "04 Źródła/Hegel Georg Wilhelm Friedrich, Fenomenologia ducha.md",
-    "02 MOC/MOC Ekonomia.md",
-    "04 Źródła/Swieżawski Stefan, Dzieje europejskiej filozofii klasycznej.md",
-    "04 Źródła/Barnes Jonathan, Arystoteles.md",
-    "04 Źródła/Sepczyńska Dorota, Libertarianizm.md",
-    "04 Źródła/McCloskey Deirdre, Mit przedsiębiorczego państwa.md",
-    "00. Lektury ❗.md",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-7.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-6.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-5.webp",
