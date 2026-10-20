@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Hobsbawm Eric, O nacjonalizmie"
             }
+          },
+          {
+            "id": "b94a475e0570fd8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sofiofilia/Platon, Państwo Republika Politeia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Platon, Państwo Republika Politeia"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -204,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
+                "file": "Sofiofilia/Platon, Państwo Republika Politeia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -330,37 +354,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e313a103979e7d3",
+  "active": "b94a475e0570fd8d",
   "lastOpenFiles": [
+    "Sofiofilia/Status epistemiczny.md",
+    "Sofiofilia/Platon, Państwo Republika Politeia.md",
+    "Sofiofilia/Myśl polityczna.md",
+    "Sofiofilia/Lektury kolejność.md",
+    "Sofiofilia/Kurs logiki.md",
+    "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
+    "Sofiofilia/Ćwiczenia z badania argumentów.md",
+    "Sofiofilia/cytaty na grafiki.md",
+    "Sofiofilia/Scenariusze/Odcinek Implikacja.md",
+    "Sofiofilia/1.md",
+    "Sofiofilia/Scenariusze/Odc. Platon.md",
+    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
+    "Sofiofilia/Scenariusze/Odc klasyfikacja nauk.md",
+    "Sofiofilia/Scenariusze/Literatura propedeutyczna.md",
     "Aktualnie opracowywane.md",
     "04 Źródła/Hospers John, Wprowadzenie do analizy filozoficznej.md",
     "04 Źródła/Jaspers Karl, Wprowadzenie do filozofii.md",
     "04 Źródła/Popkin Richard, Stroll Avrum,  Filozofia.md",
-    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "04 Źródła/Opara Stanisław, Podstawy filozofii.md",
     "04 Źródła/Bocheński Józef Maria, Współczesne metody myślenia.md",
     "04 Źródła/Szyszkowska Maria, Zarys filozofii prawa.md",
-    "Sofiofilia/Scenariusze/Literatura propedeutyczna.md",
     "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "02 MOC/MOC Ekonomia.md",
     "07 Language lab/English grammar.md",
     "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
     "05 Osoby/Arystoteles.md",
-    "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
-    "Gotowanie/Pranie ciemne.md",
-    "index.md",
-    "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-    "Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-    "Szyszkowska Maria, Zarys filozofii prawa.md",
-    "O stronie.md",
-    "Skróty klawiszowe.md",
-    "ssss.md",
-    "04 Źródła/Putnam, The Collapse of the Fact Value Dichotomy.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
-    "04 Źródła/Palmer Tom, Rozwój i godność człowieka.md",
-    "04 Źródła/Ortega y Gasset Jose, Bunt mas.md",
     "04 Źródła/Niepotwierdzony 149049.crdownload",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-7.webp",
     "07 Language lab/02 Atomy angielski/załączniki/Reported speech-6.webp",
