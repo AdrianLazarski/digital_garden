@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sofiofilia/Teorie prawdy.md",
+                "file": "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Teorie prawdy"
+              "title": "Dlaczego nie robię filmów zbyt często Vlog"
+            }
+          },
+          {
+            "id": "9e57c874627286a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
+          },
+          {
+            "id": "7c7c9e63730dc8af",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -228,7 +248,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sofiofilia/Teorie prawdy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,14 +373,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b94a475e0570fd8d",
+  "active": "7c7c9e63730dc8af",
   "lastOpenFiles": [
-    "Sofiofilia/Status epistemiczny.md",
-    "Sofiofilia/Platon, Państwo Republika Politeia.md",
+    "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
     "Sofiofilia/Myśl polityczna.md",
     "Sofiofilia/Lektury kolejność.md",
+    "01 Input/!!Random/Intuicjonizm.md",
+    "01 Input/!!Random/bałagan w szkołach hellenistycznych.md",
+    "01 Input/!!Random/16-02-2024 piątek.md",
+    "01 Input/!!Random/rolki.md",
+    "01 Input/!!Random/Redakcyjne zalecenia P.K..md",
+    "01 Input/!!Random/shitpost.md",
+    "01 Input/!!Random/obiektywizm vs akap.md",
+    "01 Input/!!Random/Nurt a stanowisko.md",
+    "Sofiofilia/Teorie prawdy.md",
+    "Sofiofilia/Status epistemiczny.md",
+    "Sofiofilia/Platon, Państwo Republika Politeia.md",
     "Sofiofilia/Kurs logiki.md",
-    "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
     "Sofiofilia/Ćwiczenia z badania argumentów.md",
     "Sofiofilia/cytaty na grafiki.md",
     "Sofiofilia/Scenariusze/Odcinek Implikacja.md",
@@ -373,15 +401,6 @@
     "Aktualnie opracowywane.md",
     "04 Źródła/Hospers John, Wprowadzenie do analizy filozoficznej.md",
     "04 Źródła/Jaspers Karl, Wprowadzenie do filozofii.md",
-    "04 Źródła/Popkin Richard, Stroll Avrum,  Filozofia.md",
-    "04 Źródła/Opara Stanisław, Podstawy filozofii.md",
-    "04 Źródła/Bocheński Józef Maria, Współczesne metody myślenia.md",
-    "04 Źródła/Szyszkowska Maria, Zarys filozofii prawa.md",
-    "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
-    "02 MOC/MOC Ekonomia.md",
-    "07 Language lab/English grammar.md",
-    "04 Źródła/McCloskey Deirdre, Burżuazyjna godność.md",
-    "05 Osoby/Arystoteles.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
