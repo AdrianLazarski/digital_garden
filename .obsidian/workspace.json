@@ -127,7 +127,8 @@
               "title": "Hobsbawm Eric, O nacjonalizmie"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aktualnie opracowywane.md",
+                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -329,10 +330,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3e60a0b1954b720",
+  "active": "2e313a103979e7d3",
   "lastOpenFiles": [
-    "04 Źródła/Hospers John, Wprowadzenie do analizy filozoficznej.md",
     "Aktualnie opracowywane.md",
+    "04 Źródła/Hospers John, Wprowadzenie do analizy filozoficznej.md",
     "04 Źródła/Jaspers Karl, Wprowadzenie do filozofii.md",
     "04 Źródła/Popkin Richard, Stroll Avrum,  Filozofia.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
