@@ -45,6 +45,11 @@ T. M. Crisp, M. J. Loux, Kęty 2022, tłum. A. Grzeliński, R. Michalski, K. Waw
 - Można oczywiście twierdzić, że metafizyka przedkantowska i kantowska prowadzą do tych samych rezultatów, ale w sumie mało który zwolennik mówienia o schematach pojęciowych w to wierzy.
 - Główną argumentacją schematysty przeciwko tradycyjnej metafizyce jest twierdzenie, że zastosowanie struktur pojęciowych w reprezentacji rzeczy uniemożliwia prawdziwy dostęp do owych rzeczy. Ale przecież musimy się odwołać do pojęć podczas opisu "ramy konceptualnej", więc niemożliwy jest opis istoty i struktury schematu pojęciowego wedle logiki samego schematysty.
 - Teologia naturalna zajmuje się kwestiami epistemologicznymi dotyczącymi racjonalności poszczególnych wierzeń, kwestią związku religii i nauki oraz religii i moralności.
+- str. 45 bzdury o kategoriach Arystotelesa, ale nie chce mi się tego notować.
+
+## I Realizm metafizyczny
+
+
 
 
 
