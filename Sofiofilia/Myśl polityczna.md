@@ -1,4 +1,4 @@
-Doktryna polityczna, prawna, myśl, filozofia, program
+[[Doktryna]] polityczna/prawna, myśl, filozofia, program
 Metoda?
 Inna literatura?
 

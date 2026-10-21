@@ -126,53 +126,9 @@
               "icon": "lucide-file",
               "title": "Hobsbawm Eric, O nacjonalizmie"
             }
-          },
-          {
-            "id": "b94a475e0570fd8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dlaczego nie robię filmów zbyt często Vlog"
-            }
-          },
-          {
-            "id": "9e57c874627286a0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nowa karta"
-            }
-          },
-          {
-            "id": "7c7c9e63730dc8af",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nowa karta"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zitelmann",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -227,7 +183,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,6 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -373,10 +331,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c7c9e63730dc8af",
+  "active": "ed38d31efb2e67a5",
   "lastOpenFiles": [
     "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
     "Sofiofilia/Myśl polityczna.md",
+    "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
+    "03 Atomy/Doktryna.md",
     "Sofiofilia/Lektury kolejność.md",
     "01 Input/!!Random/Intuicjonizm.md",
     "01 Input/!!Random/bałagan w szkołach hellenistycznych.md",
@@ -399,8 +359,6 @@
     "Sofiofilia/Scenariusze/Odc klasyfikacja nauk.md",
     "Sofiofilia/Scenariusze/Literatura propedeutyczna.md",
     "Aktualnie opracowywane.md",
-    "04 Źródła/Hospers John, Wprowadzenie do analizy filozoficznej.md",
-    "04 Źródła/Jaspers Karl, Wprowadzenie do filozofii.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
