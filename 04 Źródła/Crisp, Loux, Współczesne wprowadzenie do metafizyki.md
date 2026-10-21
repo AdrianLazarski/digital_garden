@@ -52,7 +52,10 @@ T. M. Crisp, M. J. Loux, Kęty 2022, tłum. A. Grzeliński, R. Michalski, K. Waw
 - Realiści zazwyczaj uważają, że istnieje więcej, niż jeden rodzaj uniwersaliów. 
 - Poliadyczne/wieloargumentowe powszechniki - relacje
 - Monadyczne – inne.
-- Wielu realistów grupuje monadyczne razem pod nazwą "własność", ale arystotelicy 
+- Wielu realistów grupuje monadyczne razem pod nazwą "własność", ale arystotelicy rozróżniają bardziej: są rodzaje i gatunki. 
+- Przedmioty egzemplifikują własności poprzez posiadanie ich, a rzeczy egzemplifikują rodzaje poprzez przynależność do nich.
+	- Rodzaje są uniwersaliami indywidualizującymi. 
+	- Rodzaje konstytuują partykularia 
 
 
 
