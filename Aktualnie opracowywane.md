@@ -15,6 +15,7 @@
 [[Zitelmann Rainer, Socjalizm w mundurze]]
 
 [[Hobsbawm Eric, O nacjonalizmie]]
+[[Crisp, Loux, Współczesne wprowadzenie do metafizyki]]
 
 [[Szyszkowska Maria, Zarys filozofii prawa]]
 [[Jaspers Karl, Wprowadzenie do filozofii]]
