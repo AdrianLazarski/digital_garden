@@ -57,6 +57,10 @@ T. M. Crisp, M. J. Loux, Kęty 2022, tłum. A. Grzeliński, R. Michalski, K. Waw
 	- Rodzaje są uniwersaliami indywidualizującymi. 
 	- Rodzaje konstytuują partykularia, a partykularia egzemplifikują rodzaje "jako to, czym one są".
 	- Własności jedynie modyfikują lub charakteryzują partykularia wcześniej wyróżnione przez rodzaje.
+- Zgodność partykulariów pod względem atrybutu podlega stopniowaniu. Pies i kot są zgodne względem rodzaju "ssak", ale nie "pies".
+- Hierarchie kończą się powszechnikami w pełni określonymi. 
+- Same powszechniki też mają własności (czerwień ma odcień i jest kolorem) i wchodzą w relacje (bycie jaśniejszym niż).
 
 
+- 
 
