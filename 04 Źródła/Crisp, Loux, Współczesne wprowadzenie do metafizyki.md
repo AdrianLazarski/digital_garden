@@ -55,7 +55,8 @@ T. M. Crisp, M. J. Loux, Kęty 2022, tłum. A. Grzeliński, R. Michalski, K. Waw
 - Wielu realistów grupuje monadyczne razem pod nazwą "własność", ale arystotelicy rozróżniają bardziej: są rodzaje i gatunki. 
 - Przedmioty egzemplifikują własności poprzez posiadanie ich, a rzeczy egzemplifikują rodzaje poprzez przynależność do nich.
 	- Rodzaje są uniwersaliami indywidualizującymi. 
-	- Rodzaje konstytuują partykularia 
+	- Rodzaje konstytuują partykularia, a partykularia egzemplifikują rodzaje "jako to, czym one są".
+	- Własności jedynie modyfikują lub charakteryzują partykularia wcześniej wyróżnione przez rodzaje.
 
 
 
