@@ -49,7 +49,10 @@ T. M. Crisp, M. J. Loux, Kęty 2022, tłum. A. Grzeliński, R. Michalski, K. Waw
 
 ## I Realizm metafizyczny
 
-
+- Realiści zazwyczaj uważają, że istnieje więcej, niż jeden rodzaj uniwersaliów. 
+- Poliadyczne/wieloargumentowe powszechniki - relacje
+- Monadyczne – inne.
+- Wielu realistów grupuje monadyczne razem pod nazwą "własność", ale arystotelicy 
 
 
 
