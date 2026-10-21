@@ -43,6 +43,8 @@ T. M. Crisp, M. J. Loux, Kęty 2022, tłum. A. Grzeliński, R. Michalski, K. Waw
 			- <font color="#ff0000">Nie wiem czy autorzy książki oraz autorzy tych poglądów rozumieją o czym mówią.</font>
 	- Dla nich zadanie metafizyki ma charakter porównawczy tj. ma pokazać jak różne formy funkcjonują w różnych schematach naszego sposobu odwzorowania świata
 - Można oczywiście twierdzić, że metafizyka przedkantowska i kantowska prowadzą do tych samych rezultatów, ale w sumie mało który zwolennik mówienia o schematach pojęciowych w to wierzy.
+- Główną argumentacją schematysty przeciwko tradycyjnej metafizyce jest twierdzenie, że zastosowanie struktur pojęciowych w reprezentacji rzeczy uniemożliwia prawdziwy dostęp do owych rzeczy. Ale przecież musimy się odwołać do pojęć podczas opisu "ramy konceptualnej", więc niemożliwy jest opis istoty i struktury schematu pojęciowego wedle logiki samego schematysty.
+- Teologia naturalna zajmuje się kwestiami epistemologicznymi dotyczącymi racjonalności poszczególnych wierzeń, kwestią związku religii i nauki oraz religii i moralności.
 
 
 
