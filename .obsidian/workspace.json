@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aktualnie opracowywane.md",
+                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aktualnie opracowywane"
+              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
             }
           },
           {
@@ -127,8 +127,7 @@
               "title": "Zitelmann Rainer, Socjalizm w mundurze"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "berkhof",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -183,8 +182,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
+                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -331,9 +329,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04f1cce0f71b43cf",
+  "active": "40fde4cd44744f35",
   "lastOpenFiles": [
     "Aktualnie opracowywane.md",
+    "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
     "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
     "Sofiofilia/Myśl polityczna.md",
@@ -358,7 +357,6 @@
     "Sofiofilia/1.md",
     "Sofiofilia/Scenariusze/Odc. Platon.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
-    "Sofiofilia/Scenariusze/Odc klasyfikacja nauk.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
