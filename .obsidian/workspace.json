@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "file": "Aktualnie opracowywane.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
+              "title": "Aktualnie opracowywane"
             }
           },
           {
@@ -102,32 +102,9 @@
               "icon": "lucide-file",
               "title": "Arystoteles"
             }
-          },
-          {
-            "id": "2c94db960518f71b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Zitelmann Rainer, Socjalizm w mundurze"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "file": "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -329,10 +306,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40fde4cd44744f35",
+  "active": "04f1cce0f71b43cf",
   "lastOpenFiles": [
     "Aktualnie opracowywane.md",
     "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
+    "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
+    "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
     "Sofiofilia/Myśl polityczna.md",
@@ -355,8 +334,6 @@
     "Sofiofilia/cytaty na grafiki.md",
     "Sofiofilia/Scenariusze/Odcinek Implikacja.md",
     "Sofiofilia/1.md",
-    "Sofiofilia/Scenariusze/Odc. Platon.md",
-    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
