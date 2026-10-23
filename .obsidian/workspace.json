@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "83d6c6f008b7b439",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Informacje o wersji 1.14.5"
+            }
+          },
+          {
             "id": "2e313a103979e7d3",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -306,7 +318,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04f1cce0f71b43cf",
+  "active": "83d6c6f008b7b439",
   "lastOpenFiles": [
     "Aktualnie opracowywane.md",
     "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
