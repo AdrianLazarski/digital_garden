@@ -62,5 +62,9 @@ T. M. Crisp, M. J. Loux, Kęty 2022, tłum. A. Grzeliński, R. Michalski, K. Waw
 - Same powszechniki też mają własności (czerwień ma odcień i jest kolorem) i wchodzą w relacje (bycie jaśniejszym niż).
 
 
-- 
+## II Nominalizm
+str. 90
+
+
+
 
