@@ -61,7 +61,16 @@ T. M. Crisp, M. J. Loux, Kęty 2022, tłum. A. Grzeliński, R. Michalski, K. Waw
 - Hierarchie kończą się powszechnikami w pełni określonymi. 
 - Same powszechniki też mają własności (czerwień ma odcień i jest kolorem) i wchodzą w relacje (bycie jaśniejszym niż).
 
+### Ograniczenia realizmu
 
+s. 70-71
+- Nieograniczony realizm, według którego każdemu orzecznikowi odpowiada powszechnik, prowadzi do "własnościowej" wersji paradoksu Russella o zbiorze wszystkich zbiorów. Orzecznik „nie egzemplifikuje samego siebie” musiałby wyrażać własność, która egzemplifikuje siebie wtedy i tylko wtedy, gdy siebie nie egzemplifikuje. Jakieś ograniczenie jest więc konieczne.
+	- Wersja zbiorowa (klasyczna) Russell odkrył ją w 1901 roku. Uderzyła w tzw. naiwną teorię mnogości, czyli między innymi w system Fregego, który przyjmował zasadę: dla każdego warunku istnieje zbiór wszystkich rzeczy, które ten warunek spełniają. Zasada wydaje się oczywista. Warunek „być czerwonym” wyznacza zbiór rzeczy czerwonych, a warunek „być liczbą parzystą” zbiór liczb parzystych.
+	- Niektóre zbiory należą do samych siebie, a inne nie. Zbiór wszystkich krzeseł nie jest krzesłem, więc do siebie nie należy. Zbiór wszystkich rzeczy, które nie są krzesłami, sam nie jest krzesłem, więc do siebie należy. Russell wziął warunek „nie należeć do samego siebie” i utworzył zgodnie z zasadą zbiór R, czyli zbiór wszystkich zbiorów, które nie są swoimi elementami. Następnie zapytał, czy R należy do R.
+		- Jeśli R należy do R, to spełnia warunek przynależności do R, czyli nie należy do siebie.
+		- Jeśli R nie należy do R, to spełnia ten warunek, więc należy do R.
+	- Zatem R należy do siebie wtedy i tylko wtedy, gdy do siebie nie należy, co jest sprzecznością. Wniosek: nie każdy warunek wyznacza zbiór. Naiwną zasadę trzeba ograniczyć, co później zrobiły aksjomatyczne teorie mnogości, np. Zermela–Fraenkla.
+- 
 ## II Nominalizm
 str. 90
 
