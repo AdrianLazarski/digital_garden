@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Rand Ayn, Introduction to the objectivist epistemology"
             }
+          },
+          {
+            "id": "9a9072b8da5bb97b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Language lab/English grammar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "English grammar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -204,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
+                "file": "07 Language lab/English grammar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -330,14 +354,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40fde4cd44744f35",
+  "active": "9a9072b8da5bb97b",
   "lastOpenFiles": [
+    "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
     "05 Osoby/Arystoteles.md",
     "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
     "05 Osoby/Ayn Rand.md",
     "Aktualnie opracowywane.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
-    "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
     "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
