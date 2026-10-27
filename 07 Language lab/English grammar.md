@@ -45,7 +45,7 @@ questions and auxillary verbs
 ing and to
 - [x] 36
 - [x] 53
-- [ ] 54
+- [x] 54
 - [ ] 59
 - [ ] 60
 - [ ] 62
