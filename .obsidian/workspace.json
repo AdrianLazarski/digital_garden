@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Language lab/English grammar.md",
+                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,13 +354,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a9072b8da5bb97b",
+  "active": "2e313a103979e7d3",
   "lastOpenFiles": [
-    "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
-    "05 Osoby/Arystoteles.md",
-    "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
-    "05 Osoby/Ayn Rand.md",
     "Aktualnie opracowywane.md",
+    "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
+    "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
+    "07 Language lab/English grammar.md",
+    "05 Osoby/Arystoteles.md",
+    "05 Osoby/Ayn Rand.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
@@ -381,7 +382,6 @@
     "Sofiofilia/Teorie prawdy.md",
     "Sofiofilia/Status epistemiczny.md",
     "Sofiofilia/Platon, Państwo Republika Politeia.md",
-    "Sofiofilia/Kurs logiki.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
