@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Osoby/Arystoteles.md",
+                "file": "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -354,12 +354,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0c0f3ee170e4396",
+  "active": "04f1cce0f71b43cf",
   "lastOpenFiles": [
+    "05 Osoby/Arystoteles.md",
     "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
     "07 Language lab/English grammar.md",
     "04 Źródła/Arystoteles, Metafizyka.md",
-    "05 Osoby/Arystoteles.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "Aktualnie opracowywane.md",
     "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
