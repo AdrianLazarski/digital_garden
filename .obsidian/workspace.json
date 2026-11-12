@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "d92aef92a089ee52",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "Informacje o wersji 1.15.0"
-            }
-          },
-          {
             "id": "2e313a103979e7d3",
             "type": "leaf",
             "state": {
@@ -240,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
+                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -366,7 +354,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d92aef92a089ee52",
+  "active": "2e313a103979e7d3",
   "lastOpenFiles": [
     "05 Osoby/Arystoteles.md",
     "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
