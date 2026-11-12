@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "d92aef92a089ee52",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Informacje o wersji 1.15.0"
+            }
+          },
+          {
             "id": "2e313a103979e7d3",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -354,7 +366,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04f1cce0f71b43cf",
+  "active": "d92aef92a089ee52",
   "lastOpenFiles": [
     "05 Osoby/Arystoteles.md",
     "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
