@@ -11,92 +11,103 @@ modified date: 2026-07-06 20:06
 [[Ontologia]]
 
 # 1. Nurty metafizyki
-
 ## Starożytność
-Filozofia jońska
-Pitagoreizm
-Heraklitejczycy
-Eleatyzm
-Pluraliści
-Atomizm starożytny
-Sofistyka*
-Platonizm
-Arystotelizm
-Stoicyzm
-Epikureizm
-Sceptycyzm*
-Średni platonizm
-Neoplatonizm
+[[Filozofia jońska]]
+[[Pitagoreizm]]
+[[Heraklitejczycy]]
+[[Eleatyzm]]
+[[Pluraliści]]
+[[Atomizm starożytny]]
+[[Sofistyka]]*
+[[Megarejczycy]]
+[[Platonizm]]
+[[Arystotelizm]]
+[[Stoicyzm]]
+[[Epikureizm]]
+[[Sceptycyzm]]*
+[[Średni platonizm]]
+[[Neoplatonizm]]
 
 ## Średniowiecze
-Augustynizm
-Neoplatonizm chrześcijański
-Falsafa
-Arystotelizm żydowski
-Awerroizm łaciński
-Tomizm
-Szkotyzm
-Ockhamizm
-Mistyka nadreńska
+[[Augustynizm]]
+[[Neoplatonizm chrześcijański]]
+[[Falsafa]]
+[[Szkoła z Chartres]]
+[[Arystotelizm żydowski]]
+[[Iluminacjonizm]]
+[[Awerroizm łaciński]]
+[[Tomizm]]
+[[Szkotyzm]]
+[[Mistyka nadreńska]]
+[[Ockhamizm]]
 
 ## Renesans i nowożytność
-Neoplatonizm renesansowy
-Renesansowa filozofia przyrody
-Druga scholastyka
-Kartezjanizm
-Okazjonalizm
-Spinozizm
-Szkoła Leibniza-Wolffa
-Platonicy z Cambridge
-Empiryzm brytyjski
-Immaterializm
-Materializm oświeceniowy
-Krytycyzm*
+[[Neoplatonizm renesansowy]]
+[[Renesansowa filozofia przyrody]]
+[[Druga scholastyka]]
+[[Szkoła z Isfahanu]]
+[[Kartezjanizm]]
+[[Okazjonalizm]]
+[[Spinozizm]]
+[[Szkoła Leibniza-Wolffa]]
+[[Platonicy z Cambridge]]
+[[Empiryzm brytyjski]]
+[[Immaterializm]]
+[[Materializm oświeceniowy]]
+[[Szkocka filozofia zdrowego rozsądku]]
+[[Krytycyzm]]*
 
 ## XIX wiek
-Idealizm niemiecki
-Woluntaryzm
-Materializm dialektyczny
-Pozytywizm*
-Neokantyzm
-Herbartyzm
-Spirytualizm francuski
-Neotomizm
-Idealizm brytyjski
-Pragmatyzm
+[[Idealizm niemiecki]]
+[[Woluntaryzm]]
+[[Pozytywizm]]*
+[[Polski mesjanizm filozoficzny]]
+[[Materializm dialektyczny]]
+[[Neokantyzm]]
+[[Herbartyzm]]
+[[Spirytualizm francuski]]
+[[Neotomizm]]
+[[Filozofia wszechjedności]]
+[[Empiriokrytycyzm]]
+[[Idealizm brytyjski]]
+[[Personalizm amerykański]]
+[[Pragmatyzm]]
 
 ## XX wiek
-Bergsonizm
-Filozofia procesu
-Atomizm logiczny
-Fenomenologia
-Fenomenologia realistyczna
-Nowa ontologia
-Ontologia fundamentalna
-Egzystencjalizm
-Szkoła lwowsko-warszawska
-Reizm
-Neopozytywizm*
-Tomizm egzystencjalny
-Szkoła lubelska
-Tomizm transcendentalny
-Filozofia języka potocznego*
-Metafizyka deskryptywna
-Naturalizm quine'owski
-Dekonstrukcja*
+[[Bergsonizm]]
+[[Filozofia procesu]]
+[[Atomizm logiczny]]
+[[Fenomenologia]]
+[[Fenomenologia realistyczna]]
+[[Szkoła z Kioto]]
+[[Nowa ontologia]]
+[[Ontologia fundamentalna]]
+[[Egzystencjalizm]]
+[[Szkoła lwowsko-warszawska]]
+[[Reizm]]
+[[Neopozytywizm]]*
+[[Tomizm egzystencjalny]]
+[[Szkoła lubelska]]
+[[Tomizm transcendentalny]]
+[[Filozofia języka potocznego]]*
+[[Metafizyka deskryptywna]]
+[[Naturalizm quine'owski]]
+[[Obiektywizm]]
+[[Poststrukturalizm]]
+[[Dekonstrukcja]]*
+[[Ontologia społeczna]]
 
 ## Czasy najnowsze
-Metafizyka analityczna
-Humeanizm
-Neoarystotelizm
-Metafizyka ugruntowania
-Deflacjonizm metafizyczny
-Metafizyka naturalizowana
-Realizm strukturalny
-Realizm spekulatywny
-Ontologia zorientowana na przedmiot
-Nowy realizm
-
+[[Metafizyka analityczna]]
+[[Humeanizm]]
+[[Neoarystotelizm]]
+[[Metafizyka ugruntowania]]
+[[Deflacjonizm metafizyczny]]
+[[Metafizyka naturalizowana]]
+[[Realizm strukturalny]]
+[[Realizm spekulatywny]]
+[[Ontologia zorientowana na przedmiot]]
+[[Nowy realizm]]
 # 2. Kategorie metafizyczne
 
 [[Akt]]
@@ -392,3 +403,282 @@ Maurizio Ferraris
 Markus Gabriel
 
 # 6. Dzieła metafizyczne
+
+## Starożytność
+[[Parmenides, O naturze]]
+[[Empedokles, O naturze]]
+[[Platon, Kratylos]]
+[[Platon, Fedon]]
+[[Platon, Państwo]]
+[[Platon, Parmenides]]
+[[Platon, Teajtet]]
+[[Platon, Sofista]]
+[[Platon, Timajos]]
+[[Platon, Fileb]]
+[[Arystoteles, Kategorie]]
+[[Arystoteles, Fizyka]]
+[[Arystoteles, O powstawaniu i ginięciu]]
+[[Arystoteles, O duszy]]
+[[Arystoteles, Metafizyka]]
+[[Epikur, List do Herodota]]
+[[Lukrecjusz, O naturze rzeczy]]
+[[Filon z Aleksandrii, O stworzeniu świata]]
+[[Alkinoos, Didaskalikos]]
+[[Sekstus Empiryk, Zarysy pirrońskie]]
+[[Plotyn, Enneady]]
+[[Porfiriusz, Isagoge]]
+[[Proklos, Elementy teologii]]
+
+## Średniowiecze
+[[Augustyn z Hippony, Wyznania]]
+[[Augustyn z Hippony, O Trójcy Świętej]]
+[[Augustyn z Hippony, O państwie Bożym]]
+[[Boecjusz, Traktaty teologiczne]]
+[[Boecjusz, O pocieszeniu, jakie daje filozofia]]
+[[Pseudo-Dionizy Areopagita, Imiona Boskie]]
+[[Eriugena Jan Szkot, Periphyseon]]
+[[Al-Kindi, Fi al-falsafa al-ula]]
+[[Al-Farabi, Mabadi ara ahl al-madina al-fadila]]
+[[Awicenna, Kitab al-Shifa]]
+[[Awicenna, Księga wiedzy]]
+[[Ibn Gabirol Salomon, Fons vitae]]
+[[Al-Ghazali, Tahafut al-falasifa]]
+[[Anzelm z Canterbury, Monologion]]
+[[Anzelm z Canterbury, Proslogion]]
+[[Gilbert z Poitiers, Commentaria in Boethii opuscula sacra]]
+[[Awerroes, Tahafut al-tahafut]]
+[[Majmonides Mojżesz, Przewodnik błądzących]]
+[[Grosseteste Robert, O świetle]]
+[[Albert Wielki, Metaphysica]]
+[[Bonawentura, Droga duszy do Boga]]
+[[Tomasz z Akwinu, O zasadach natury]]
+[[Tomasz z Akwinu, O bycie i istocie]]
+[[Tomasz z Akwinu, Kwestie dyskutowane o prawdzie]]
+[[Tomasz z Akwinu, Suma filozoficzna]]
+[[Tomasz z Akwinu, Suma teologiczna]]
+[[Tomasz z Akwinu, Komentarz do Metafizyki Arystotelesa]]
+[[Tomasz z Akwinu, O wieczności świata]]
+[[Siger z Brabancji, Quaestiones in Metaphysicam]]
+[[Henryk z Gandawy, Quodlibeta]]
+[[Henryk z Gandawy, Summa quaestionum ordinariarum]]
+[[Idzi Rzymianin, Theoremata de esse et essentia]]
+[[Godfryd z Fontaines, Quodlibeta]]
+[[Duns Szkot Jan, Traktat o pierwszej zasadzie]]
+[[Duns Szkot Jan, Ordinatio]]
+[[Duns Szkot Jan, Quaestiones super libros Metaphysicorum Aristotelis]]
+[[Mistrz Eckhart, Kazania]]
+[[Mistrz Eckhart, Traktaty]]
+[[Ockham Wilhelm, Summa logicae]]
+[[Ockham Wilhelm, Quodlibeta septem]]
+[[Buridan Jan, Quaestiones super libros Metaphysicae]]
+[[Mikołaj z Autrecourt, Exigit ordo]]
+[[Wiklif Jan, Tractatus de universalibus]]
+
+## Renesans i nowożytność
+[[Mikołaj z Kuzy, O oświeconej niewiedzy]]
+[[Ficino Marsilio, Theologia Platonica]]
+[[Pico della Mirandola Giovanni, O bycie i jedności]]
+[[Pomponazzi Pietro, Traktat o nieśmiertelności duszy]]
+[[Kajetan Tomasz de Vio, O analogii nazw]]
+[[Telesio Bernardino, De rerum natura iuxta propria principia]]
+[[Patrizi Francesco, Nova de universis philosophia]]
+[[Bruno Giordano, O przyczynie, początku i jednem]]
+[[Bruno Giordano, O nieskończoności, wszechświecie i światach]]
+[[Fonseca Piotr da, Commentaria in libros Metaphysicorum Aristotelis]]
+[[Suárez Francisco, Disputationes metaphysicae]]
+[[Campanella Tommaso, Metaphysica]]
+[[Jan od św. Tomasza, Cursus philosophicus thomisticus]]
+[[Descartes René, Rozprawa o metodzie]]
+[[Descartes René, Medytacje o pierwszej filozofii]]
+[[Descartes René, Zasady filozofii]]
+[[Gassendi Pierre, Syntagma philosophicum]]
+[[Hobbes Thomas, Elementy filozofii]]
+[[More Henry, Enchiridion metaphysicum]]
+[[Cudworth Ralph, The True Intellectual System of the Universe]]
+[[Geulincx Arnold, Metaphysica vera]]
+[[Spinoza Baruch, Traktat o poprawie umysłu]]
+[[Spinoza Baruch, Etyka w porządku geometrycznym dowiedziona]]
+[[Malebranche Nicolas, O poszukiwaniu prawdy]]
+[[Malebranche Nicolas, Entretiens sur la métaphysique et sur la religion]]
+[[Arnauld Antoine, Des vraies et des fausses idées]]
+[[Conway Anne, The Principles of the Most Ancient and Modern Philosophy]]
+[[Locke John, Rozważania dotyczące rozumu ludzkiego]]
+[[Leibniz Gottfried Wilhelm, Rozprawa metafizyczna]]
+[[Leibniz Gottfried Wilhelm, Nowe rozważania dotyczące rozumu ludzkiego]]
+[[Leibniz Gottfried Wilhelm, Teodycea]]
+[[Leibniz Gottfried Wilhelm, Monadologia]]
+[[Leibniz Gottfried Wilhelm, Zasady natury i łaski oparte na rozumie]]
+[[Berkeley George, Traktat o zasadach poznania ludzkiego]]
+[[Berkeley George, Trzy dialogi między Hylasem i Filonousem]]
+[[Wolff Christian, Philosophia prima sive ontologia]]
+[[Hume David, Traktat o naturze ludzkiej]]
+[[Hume David, Badania dotyczące rozumu ludzkiego]]
+[[Hume David, Dialogi o religii naturalnej]]
+[[La Mettrie Julien Offray de, Człowiek-maszyna]]
+[[Baumgarten Alexander Gottlieb, Metaphysica]]
+[[Holbach Paul Henri Thiry d', System natury]]
+[[Kant Immanuel, Krytyka czystego rozumu]]
+[[Kant Immanuel, Prolegomena do wszelkiej przyszłej metafizyki]]
+[[Kant Immanuel, Metafizyczne podstawy przyrodoznawstwa]]
+
+## XIX wiek
+[[Fichte Johann Gottlieb, Teoria Wiedzy]]
+[[Schelling Friedrich Wilhelm Joseph, System idealizmu transcendentalnego]]
+[[Schelling Friedrich Wilhelm Joseph, Filozoficzne badania nad istotą ludzkiej wolności]]
+[[Hegel Georg Wilhelm Friedrich, Fenomenologia ducha]]
+[[Hegel Georg Wilhelm Friedrich, Nauka logiki]]
+[[Hegel Georg Wilhelm Friedrich, Encyklopedia nauk filozoficznych]]
+[[Schopenhauer Arthur, O poczwórnym korzeniu zasady racji dostatecznej]]
+[[Schopenhauer Arthur, Świat jako wola i przedstawienie]]
+[[Maine de Biran Pierre, Essai sur les fondements de la psychologie]]
+[[Herbart Johann Friedrich, Allgemeine Metaphysik]]
+[[Rosmini Antonio, Nuovo saggio sull'origine delle idee]]
+[[Rosmini Antonio, Teosofia]]
+[[Cieszkowski August, Prolegomena do historiozofii]]
+[[Comte Auguste, Rozprawa o duchu filozofii pozytywnej]]
+[[Trentowski Bronisław, Myślini]]
+[[Marx Karl, Tezy o Feuerbachu]]
+[[Hoene-Wroński Józef Maria, Messianisme ou réforme absolue du savoir humain]]
+[[Bolzano Bernard, Paradoksy nieskończoności]]
+[[Fechner Gustav Theodor, Zend-Avesta]]
+[[Kleutgen Joseph, Die Philosophie der Vorzeit]]
+[[Brentano Franz, Von der mannigfachen Bedeutung des Seienden nach Aristoteles]]
+[[Brentano Franz, Psychologia z empirycznego punktu widzenia]]
+[[Engels Friedrich, Anty-Dühring]]
+[[Engels Friedrich, Dialektyka przyrody]]
+[[Lotze Hermann, Metaphysik]]
+[[Nietzsche Friedrich, Zmierzch bożyszcz]]
+[[Peirce Charles Sanders, The Architecture of Theories]]
+[[Bradley Francis Herbert, Appearance and Reality]]
+[[Natorp Paul, Platos Ideenlehre]]
+[[Royce Josiah, The World and the Individual]]
+[[Cohen Hermann, Logik der reinen Erkenntnis]]
+[[Mercier Désiré, Métaphysique générale ou ontologie]]
+[[Meinong Alexius, Über Gegenstandstheorie]]
+[[James William, Pragmatyzm]]
+[[James William, A Pluralistic Universe]]
+[[Bosanquet Bernard, The Principle of Individuality and Value]]
+
+## XX wiek
+[[Twardowski Kazimierz, O treści i przedmiocie przedstawień]]
+[[Bergson Henri, Materia i pamięć]]
+[[Bergson Henri, Wstęp do metafizyki]]
+[[Bergson Henri, Ewolucja twórcza]]
+[[Husserl Edmund, Badania logiczne]]
+[[Husserl Edmund, Idee czystej fenomenologii i fenomenologicznej filozofii]]
+[[Husserl Edmund, Medytacje kartezjańskie]]
+[[Moore George Edward, The Refutation of Idealism]]
+[[Moore George Edward, A Defence of Common Sense]]
+[[Russell Bertrand, O denotowaniu]]
+[[Russell Bertrand, Problemy filozofii]]
+[[Russell Bertrand, The Philosophy of Logical Atomism]]
+[[McTaggart John McTaggart Ellis, The Unreality of Time]]
+[[McTaggart John McTaggart Ellis, The Nature of Existence]]
+[[Łukasiewicz Jan, O zasadzie sprzeczności u Arystotelesa]]
+[[Łukasiewicz Jan, O determinizmie]]
+[[Leśniewski Stanisław, O podstawach matematyki]]
+[[Alexander Samuel, Space, Time and Deity]]
+[[Wittgenstein Ludwig, Traktat logiczno-filozoficzny]]
+[[Conrad-Martius Hedwig, Realontologie]]
+[[Whitehead Alfred North, The Concept of Nature]]
+[[Whitehead Alfred North, Nauka i świat nowożytny]]
+[[Whitehead Alfred North, Process and Reality]]
+[[Heidegger Martin, Bycie i czas]]
+[[Heidegger Martin, Czym jest metafizyka?]]
+[[Heidegger Martin, Wprowadzenie do metafizyki]]
+[[Scheler Max, Stanowisko człowieka w kosmosie]]
+[[Carnap Rudolf, Der logische Aufbau der Welt]]
+[[Carnap Rudolf, Przezwyciężenie metafizyki przez logiczną analizę języka]]
+[[Carnap Rudolf, Empiryzm, semantyka i ontologia]]
+[[Kotarbiński Tadeusz, Elementy teorii poznania, logiki formalnej i metodologii nauk]]
+[[Maréchal Joseph, Le point de départ de la métaphysique]]
+[[Jaspers Karl, Philosophie]]
+[[Marcel Gabriel, Być i mieć]]
+[[Hartmann Nicolai, Zur Grundlegung der Ontologie]]
+[[Hartmann Nicolai, Der Aufbau der realen Welt]]
+[[Maritain Jacques, Sept leçons sur l'être]]
+[[Rahner Karl, Geist in Welt]]
+[[Fabro Cornelio, La nozione metafisica di partecipazione]]
+[[Sartre Jean-Paul, Byt i nicość]]
+[[Merleau-Ponty Maurice, Fenomenologia percepcji]]
+[[Merleau-Ponty Maurice, Widzialne i niewidzialne]]
+[[Ingarden Roman, Spór o istnienie świata]]
+[[Ingarden Roman, O pytaniach esencjalnych]]
+[[Quine Willard Van Orman, O tym, co istnieje]]
+[[Quine Willard Van Orman, Dwa dogmaty empiryzmu]]
+[[Quine Willard Van Orman, Słowo i przedmiot]]
+[[Gilson Étienne, Byt i istota]]
+[[Ryle Gilbert, Czym jest umysł?]]
+[[Goodman Nelson, The Structure of Appearance]]
+[[Goodman Nelson, Jak tworzymy świat]]
+[[Williams Donald Cary, On the Elements of Being]]
+[[Sellars Wilfrid, Empiryzm i filozofia umysłu]]
+[[Sellars Wilfrid, Philosophy and the Scientific Image of Man]]
+[[Lonergan Bernard, Insight]]
+[[Strawson Peter Frederick, Indywidua]]
+[[Bergmann Gustav, Realism: A Critique of Brentano and Meinong]]
+[[Krąpiec Mieczysław Albert, Teoria analogii bytu]]
+[[Krąpiec Mieczysław Albert, Realizm ludzkiego poznania]]
+[[Krąpiec Mieczysław Albert, Metafizyka]]
+[[Krąpiec Mieczysław Albert, Struktura bytu]]
+[[Derrida Jacques, O gramatologii]]
+[[Derrida Jacques, Marginesy filozofii]]
+[[Chisholm Roderick, Person and Object]]
+[[Hartshorne Charles, Creative Synthesis and Philosophic Method]]
+[[Lewis David, Counterfactuals]]
+[[Plantinga Alvin, The Nature of Necessity]]
+[[Levinas Emmanuel, Całość i nieskończoność]]
+[[Levinas Emmanuel, Inaczej niż być lub ponad istotą]]
+[[Armstrong David Malet, Universals and Scientific Realism]]
+[[Armstrong David Malet, What Is a Law of Nature?]]
+[[Armstrong David Malet, Universals: An Opinionated Introduction]]
+[[Armstrong David Malet, A World of States of Affairs]]
+[[Kripke Saul, Nazywanie a konieczność]]
+[[Putnam Hilary, Rozum, prawda i historia]]
+[[Putnam Hilary, Wiele twarzy realizmu]]
+[[Wolniewicz Bogusław, Ontologia sytuacji]]
+[[Gogacz Mieczysław, Elementarz metafizyki]]
+[[Lewis David, New Work for a Theory of Universals]]
+[[Lewis David, On the Plurality of Worlds]]
+[[Lewis David, Parts of Classes]]
+[[Lewis David, Humean Supervenience Debugged]]
+[[Dummett Michael, The Logical Basis of Metaphysics]]
+
+## Czasy najnowsze
+[[Simons Peter, Parts: A Study in Ontology]]
+[[Van Inwagen Peter, Material Beings]]
+[[Van Inwagen Peter, Metaphysics]]
+[[Fine Kit, Essence and Modality]]
+[[Fine Kit, Ontological Dependence]]
+[[Fine Kit, The Question of Realism]]
+[[Fine Kit, Guide to Ground]]
+[[Lowe Edward Jonathan, The Possibility of Metaphysics]]
+[[Lowe Edward Jonathan, The Four-Category Ontology]]
+[[Mumford Stephen, Dispositions]]
+[[Sider Theodore, Four-Dimensionalism]]
+[[Sider Theodore, Writing the Book of the World]]
+[[Merricks Trenton, Objects and Persons]]
+[[Heil John, From an Ontological Point of View]]
+[[Heil John, The Universe as We Find It]]
+[[Harman Graham, Tool-Being]]
+[[Harman Graham, The Quadruple Object]]
+[[Bird Alexander, Nature's Metaphysics]]
+[[Ladyman James, Every Thing Must Go]]
+[[Koslicki Kathrin, The Structure of Objects]]
+[[Koslicki Kathrin, Form, Matter, Substance]]
+[[Meillassoux Quentin, Po skończoności]]
+[[Brassier Ray, Nihil Unbound]]
+[[Schaffer Jonathan, On What Grounds What]]
+[[Schaffer Jonathan, Monism: The Priority of the Whole]]
+[[Rosen Gideon, Metaphysical Dependence: Grounding and Reduction]]
+[[Hirsch Eli, Quantifier Variance and Realism]]
+[[Ferraris Maurizio, Manifesto del nuovo realismo]]
+[[Williamson Timothy, Modal Logic as Metaphysics]]
+[[Gabriel Markus, Dlaczego świat nie istnieje]]
+[[Wilson Jessica, No Work for a Theory of Grounding]]
+[[Thomasson Amie, Ontology Made Easy]]
+[[Bennett Karen, Making Things Up]]
+[[Tahko Tuomas, An Introduction to Metametaphysics]]
+[[McDaniel Kris, The Fragmentation of Being]]
+[[Cameron Ross, The Moving Spotlight]]
+[[Koons Robert, Realism Regained]]
