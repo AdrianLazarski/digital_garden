@@ -33,3 +33,4 @@ Jest ich 7: 
 6. [[Dobro|Dobro ontyczne]] - *bonum*
 7. [[Piękno ontyczne|Piękno]]- *pulchrum*
 
+[[Pojęcie]]
