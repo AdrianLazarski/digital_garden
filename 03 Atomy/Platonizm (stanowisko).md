@@ -1,4 +1,5 @@
-> [!note] Definicja Stanowisko, według którego istnieją [[Abstrakt|obiekty abstrakcyjne]]: byty nieprzestrzenne, nieczasowe, przyczynowo bezczynne i niezależne od umysłu oraz języka.
+> [!note] Definicja 
+> Stanowisko, według którego istnieją [[Abstrakt|obiekty abstrakcyjne]]: byty nieprzestrzenne, nieczasowe, przyczynowo bezczynne i niezależne od umysłu oraz języka.
 
 - Odpowiedź na [[Problem obiektów abstrakcyjnych]], a w odniesieniu do własności – na [[Problem uniwersaliów]] (tam pod nazwą [[Realizm skrajny|realizmu skrajnego]]).
 - Nie mylić z [[Platonizm|platonizmem jako nurtem]]. Nazwa jest umowna i w pewnym sensie anachroniczna: idee Platona nie są „abstraktami” w dzisiejszym znaczeniu. Są przyczynami i wzorami rzeczy, bytami w wyższym stopniu niż rzeczy zmysłowe i przedmiotami dążenia duszy, czego współczesny platonista zwykle nie przyjmuje.
@@ -21,7 +22,7 @@ Ze względu na zakres:
 
 - [[Bernard Bolzano]] – zdania i prawdy w sobie.
 - [[Gottlob Frege]] – „trzecia dziedzina” obiektywnych myśli, liczby jako przedmioty ([[Frege Gottlob, Podstawy arytmetyki|Podstawy arytmetyki]], [[Frege Gottlob, Myśl|Myśl]]).
-- Kurt Gödel – zbiory poznawane quasi-percepcyjnie, przez intuicję matematyczną.
+- [[Kurt Gödel]] – zbiory poznawane quasi-percepcyjnie, przez intuicję matematyczną.
 - [[Willard Van Orman Quine]] i [[Hilary Putnam]] – platonizm „z niechęcią”, wymuszony przez argument z niezbędności.
 - Neofregeanie: Crispin Wright, Bob Hale.
 
