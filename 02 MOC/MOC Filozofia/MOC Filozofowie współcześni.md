@@ -86,7 +86,7 @@ modified date: 2026-07-03 17:36
 [[Jean Hyppolite]] 1907-1968
 [[Maurice Merleau-Ponty]] 1908-1961
 [[Simone de Beauvoir]] 1908-1986
-[[W.V.O. Quine]] 1908-2000
+[[Willard Van Orman Quine]] 1908-2000
 [[Gerhard Gentzen]] 1909-1945
 [[Isaiah Berlin]] 1909-1997
 [[Alfred Jules Ayer]] 1910-1989

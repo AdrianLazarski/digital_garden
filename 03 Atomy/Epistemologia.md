@@ -91,7 +91,7 @@ Bezzałożeniowość teorii poznania: nie przyjmuje rozwiązań spoza tej nauki,
 			- [[Alvin Plantinga]]
 			- [[John L. Pollock]]
 	4. Psychofizjologiczna/scjentystyczna koncepcja poznania. Przedmiotem są psychiczne, fizjologiczne i socjologiczne procesy ludzkie; trzeba odwoływać się do badań naukowych.
-		- epistemologia znaturalizowana; [[W.V.O. Quine]]
+		- epistemologia znaturalizowana; [[Willard Van Orman Quine]]
 		- genetyczna epistemologia; [[Jean Piaget]]
 		- epistemologia ewolucyjna; [[Konrad Lorenz]], [[Karl Popper]]
 2. Koncepcje neoscholastyczne

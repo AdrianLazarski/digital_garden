@@ -25,7 +25,7 @@ modified date: 2026-07-06 14:18
 [[Clarence Irving Lewis]] 1883-1964 r.
 [[Cooper Harold Langford]] 1895-1964 r.
 [[Ayn Rand]] 1905-1982 r.
-[[W.V.O. Quine]] 1908-2000 r.
+[[Willard Van Orman Quine]] 1908-2000 r.
 [[Robert Nisbet]] 1913-1996 r.
 [[Roderick Chisholm]] 1916-1999 r.
 [[Donald Davidson]] 1917-2003 r.

@@ -58,7 +58,7 @@ modified date: 2026-07-31 22:50
 	2. [[Peter Strawson]], 
 	3. [[Gilbert Ryle]]
 4. Nurt amerykański: [[Neopragmatyzm]]
-	1. [[W.V.O. Quine]], 
+	1. [[Willard Van Orman Quine]], 
 	2. [[Hilary Putnam]]
 5. [[Szkoła lwowsko-warszawska]]: formalizacja i wpływ brentanizmu
 	1. [[Kazimierz Twardowski]]

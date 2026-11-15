@@ -9,7 +9,7 @@ status_epistemiczny: Uzasadniony ✅
 modified date: 2026-07-26 14:15
 year: "1951"
 ---
-[[W.V.O. Quine]]
+[[Willard Van Orman Quine]]
 
 
 - Współczesny empiryzm jest oparty na dwóch dogmatach:

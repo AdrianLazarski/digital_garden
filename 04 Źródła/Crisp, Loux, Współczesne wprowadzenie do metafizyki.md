@@ -17,7 +17,7 @@ T. M. Crisp, M. J. Loux, Kęty 2022, tłum. A. Grzeliński, R. Michalski, K. Waw
 
 - Dopełnieniem książki antologia zebrana przez Louxa pt. Metaphysics. Contemporary Readings.
 - Od początku lat 60 przesądy towarzyszące metafizyce zaczęły słabnąć za sprawą takich osób, jak:
-	[[W.V.O. Quine]]
+	[[Willard Van Orman Quine]]
 	[[Peter Strawson]]
 	Arthur Prior
 	Roderick Chisholm
