@@ -212,9 +212,6 @@ modified date: 2026-07-06 20:06
 
 # 3. Problemy metafizyczne
 
-Problem zmienności
-
-
 
 [[Problem analogii bytu]]
 [[Problem arché]]
@@ -266,6 +263,7 @@ Problem zmienności
 [[Problem zła]]
 [[Problem zmiany]]
 
+„Problem kompozycji” to pytanie, kiedy kilka przedmiotów składa się na jeden (van Inwagen). „Problem konstytucji” dotyczy relacji między np. posągiem a gliną, z której jest zrobiony. „Problem wielu” to zagadka Ungera o chmurze, której granice da się wyznaczyć na niezliczone sposoby. „Problem sporów ontologicznych” to pytanie metametafizyczne, czy spory o istnienie są merytoryczne, czy tylko werbalne (Carnap, Hirsch, Sider). „Problem fundamentalności” dotyczy tego, czy istnieje najbardziej podstawowy poziom rzeczywistości. Paradoks statku Tezeusza nie ma osobnej notatki, bo to przypadek problemu tożsamości w czasie.
 
 # 4. Teorie metafizyczne
 
