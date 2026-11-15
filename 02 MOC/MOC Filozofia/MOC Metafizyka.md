@@ -17,49 +17,33 @@ modified date: 2026-07-06 20:06
 # 2. Kategorie metafizyczne
 
 [[Akt]]
-[[Forma]]
-[[Materia]]
-[[Możność]]
-[[Istnienie]]
-[[Istota]]
-
-[[Apeiron]]
-[[Arché]]
-[[Atomizm]]
 [[Byt]]
+[[Forma]]
+[[Gatunek]]
 [[Cel]]
 [[Dobro ontyczne]]
-[[Dynamizm]]
-
-[[Gatunek]]
-[[Hylemorfizm]]
-[[Hylozoizm]]
+[[Materia]]
+[[Możność]]
 [[Idea]]
-[[Idealizm]]
-
+[[Istnienie]]
+[[Istota]]
 [[Jedność]]
-
-[[Meromorfizm]]
-[[Monizm]]
-
-
+[[Natura]]
 [[Niebyt]]
-[[Nominalizm]]
 [[Odrębność]]
 [[Piękno ontyczne]]
 [[Prawda ontyczna]]
-[[Procesualizm]]
 [[Przedmiot]]
 [[Przyczyna]]
 [[Przypadłość]]
 [[Ruch]]
 [[Rzecz]]
-[[Separacja]]
 [[Substancja]]
 [[Transcendencja]]
-[[Wariabilizm]]
-[[Zasada przyczynowości celowej]]
-[[Zasada przyczynowości sprawczej]]
+
+
+[[Arché]]
+
 
 
 # 3. Problemy metafizyczne
@@ -72,9 +56,22 @@ modified date: 2026-07-06 20:06
 	[[Teoria formy i materii]]
 	[[Teoria istoty i istnienia]]
 	[[Teoria substancji i przypadłości]]
+	[[Teoria transcendentaliów]]
 
-
-
+[[Apeiron]]
+[[Atomizm]]
+[[Dynamizm]]
+[[Hylemorfizm]]
+[[Hylozoizm]]
+[[Idealizm]]
+[[Meromorfizm]]
+[[Monizm]]
+[[Nominalizm]]
+[[Procesualizm]]
+[[Separacja]]
+[[Wariabilizm]]
+[[Zasada przyczynowości celowej]]
+[[Zasada przyczynowości sprawczej]]
 
 # 5. Metafizycy
 

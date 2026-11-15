@@ -150,7 +150,14 @@
       "key": "P"
     }
   ],
-  "editor:save-file": [],
+  "editor:save-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
   "obsidian-linter:lint-file": [
     {
       "modifiers": [
