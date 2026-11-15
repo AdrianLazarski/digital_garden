@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Osoby/Arystoteles.md",
+                "file": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,11 +378,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0c0f3ee170e4396",
+  "active": "359098ea38028652",
   "lastOpenFiles": [
-    "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
-    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/Teoria transcendentaliów.md",
+    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+    "05 Osoby/Arystoteles.md",
+    "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
     "03 Atomy/Pojęcie.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia/MOC Etyka.md",
@@ -392,7 +393,6 @@
     "03 Atomy/Pojęcie 1.md",
     "02 MOC/MOC Filozofia.md",
     "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
-    "05 Osoby/Arystoteles.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "Aktualnie opracowywane.md",
     "07 Language lab/English grammar.md",

@@ -62,8 +62,14 @@
       "sort-order": "Ascending Alphabetical"
     },
     "yaml-key-sort": {
-      "enabled": false,
-      "yaml-key-priority-sort-order": null,
+      "enabled": true,
+      "yaml-key-priority-sort-order": [
+        "created",
+        "tags",
+        "dojrzalosc",
+        "status_epistemiczny",
+        "modified date"
+      ],
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "None"
     },

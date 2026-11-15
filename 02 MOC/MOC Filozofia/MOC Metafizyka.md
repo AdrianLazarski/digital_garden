@@ -17,11 +17,11 @@ modified date: 2026-07-06 20:06
 # 2. Kategorie metafizyczne
 
 [[Akt]]
+[[Arché]]
 [[Byt]]
 [[Forma]]
 [[Gatunek]]
 [[Cel]]
-[[Dobro ontyczne]]
 [[Materia]]
 [[Możność]]
 [[Idea]]
@@ -31,8 +31,6 @@ modified date: 2026-07-06 20:06
 [[Natura]]
 [[Niebyt]]
 [[Odrębność]]
-[[Piękno ontyczne]]
-[[Prawda ontyczna]]
 [[Przedmiot]]
 [[Przyczyna]]
 [[Przypadłość]]
@@ -42,12 +40,17 @@ modified date: 2026-07-06 20:06
 [[Transcendencja]]
 
 
-[[Arché]]
+
 
 
 
 # 3. Problemy metafizyczne
 
+Problem zmienności
+Spór o uniwersalia
+Problem pierwszej zasady
+Problem przyczynowości
+Punkt wyjścia dla metafizyki
 
 # 4. Teorie metafizyczne
 
