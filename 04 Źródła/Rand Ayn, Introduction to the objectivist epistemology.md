@@ -208,4 +208,3 @@ Introduction to objectivist epistemology (Ayn Rand; Leonard Peikoff; Harry Binsw
 any argument against the validity of sensory data commits what we call the fallacy of the “stolen concept” by relying on the validity of the senses in the attempt to deny them.
 
 
-#filozofia #filozofia/współczesna #filozofia/amerykańska #filozofia/epistemologia  #libertarianizm #obiektywizm #filozofia/metafizyka 
