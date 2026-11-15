@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/Teoria transcendentaliów.md",
+                "file": "05 Osoby/Arystoteles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,8 +378,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c212e18349cc18f5",
+  "active": "f0c0f3ee170e4396",
   "lastOpenFiles": [
+    "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/Teoria transcendentaliów.md",
     "03 Atomy/Pojęcie.md",
@@ -390,7 +391,6 @@
     "03 Atomy/Zasada przyczynowości celowej.md",
     "03 Atomy/Pojęcie 1.md",
     "02 MOC/MOC Filozofia.md",
-    "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
     "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
     "05 Osoby/Arystoteles.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
