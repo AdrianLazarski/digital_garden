@@ -20,8 +20,24 @@ modified date: 2026-07-27 21:46
 	- Zatem świat pojęć, świat myśli jest bogatszy niż świat rozpoznanych rzeczy realnych.
 
 
-Pojęcia t 
-- Pojęcie to znaczenie jakiejś nazwy. Tomizm. 
+## Tomistyczna teoria pojęć
+- Pojęcie to znaczenie jakiejś nazwy.
+- Pojęcia dzielą się na
+	1. Pojęcia uniwersalne - mają określony zakres (stół, pies, róża).
+	2. Pojęcia transcendentalne – ich treści "przekraczają" wszelkie kategorie bytu (dotyczą wszystkich kategorii bytu) tj. treść odnosi się do wszystkiego, co istnieje. Mają treść, ale nie mają zakresu.
+
+Inaczej transcendentalia. Liczba pojedyncza: transcendentale. 
+
+Jest ich 7: 
+
+1. [[Byt]] - *ens*
+2. [[Rzecz]] - *res*
+3. [[Jedność]] - *unum*
+4. [[Odrębność]] - *aliquid*
+5. [[Prawda ontyczna|Prawda]] - *veritas*
+6. [[Dobro|Dobro ontyczne]] - *bonum*
+7. [[Piękno ontyczne|Piękno]]- *pulchrum*
+
 
 ## Jakieś losowe zdania
 - Związek pomiędzy słowem i światem jest zapośredniczony przez myśl (pojęcie, która słowom nadaje znaczenia).

@@ -7,6 +7,19 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Aksjomatyczny 💎
 modified date: 2026-07-06 20:06
 ---
+[[Metafizyka]]
+[[Ontologia]]
+
+# 1. Teorie metafizyczne
+
+[[Metafizyka klasyczna]]
+	[[Teoria aktu i możności]]
+	[[Teoria formy i materii]]
+	[[Teoria istoty i istnienia]]
+	[[Teoria substancji i przypadłości]]
+
+
+# 2. Kategorie metafizyczne
 
 [[Akt]]
 [[Apeiron]]
@@ -27,17 +40,13 @@ modified date: 2026-07-06 20:06
 [[Jedność]]
 [[Materia]]
 [[Meromorfizm]]
-[[Metafizyka]]
-[[Metafizyka klasyczna]]
 [[Monizm]]
 [[Możność]]
 [[Natura]]
 [[Niebyt]]
 [[Nominalizm]]
 [[Odrębność]]
-[[Ontologia]]
 [[Piękno ontyczne]]
-[[Pojęcie 1|Pojęcie 1]] ???
 [[Prawda ontyczna]]
 [[Procesualizm]]
 [[Przedmiot]]
@@ -47,12 +56,13 @@ modified date: 2026-07-06 20:06
 [[Rzecz]]
 [[Separacja]]
 [[Substancja]]
-[[Teoria aktu i możności]]
-[[Teoria formy i materii]]
-[[Teoria istoty i istnienia]]
-[[Teoria substancji i przypadłości]]
 [[Transcendencja]]
 [[Wariabilizm]]
 [[Zasada przyczynowości celowej]]
 [[Zasada przyczynowości sprawczej]]
 
+
+# 3. Metafizycy
+
+
+# 4. Dzieła metafizyczne
