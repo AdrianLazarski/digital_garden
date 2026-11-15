@@ -152,6 +152,30 @@
             }
           },
           {
+            "id": "c35143b6b551f219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Dzieła metafizyczne"
+            }
+          },
+          {
             "id": "c212e18349cc18f5",
             "type": "leaf",
             "state": {
@@ -380,13 +404,16 @@
   },
   "active": "359098ea38028652",
   "lastOpenFiles": [
-    "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
+    "02 MOC/MOC Filozofia/MOC Etyka.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
+    "02 MOC/MOC Filozofia/MOC Estetyka.md",
+    "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
     "02 MOC/MOC Filozofia/Teoria transcendentaliów.md",
     "05 Osoby/Arystoteles.md",
     "03 Atomy/Pojęcie.md",
-    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Etyka.md",
     "02 MOC/MOC Filozofia/MOC Filozofia religii.md",
     "03 Atomy/Zasada przyczynowości sprawczej.md",
     "03 Atomy/Zasada przyczynowości celowej.md",
@@ -403,9 +430,6 @@
     "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
     "Sofiofilia/Myśl polityczna.md",
-    "02 MOC/MOC Filozofia/MOC Filozofia polityki.md",
-    "03 Atomy/Doktryna.md",
-    "Sofiofilia/Lektury kolejność.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
