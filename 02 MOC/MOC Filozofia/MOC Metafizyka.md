@@ -172,7 +172,5 @@ Punkt wyjścia dla metafizyki
 
 
 [[MOC Metafizycy]]
-
-
 [[MOC Dzieła metafizyczne]]
 

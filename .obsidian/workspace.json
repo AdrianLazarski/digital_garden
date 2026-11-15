@@ -152,6 +152,30 @@
             }
           },
           {
+            "id": "dd6ed23609bc9b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 MOC/MOC Filozofia/MOC Metafizycy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC Metafizycy"
+            }
+          },
+          {
             "id": "c35143b6b551f219",
             "type": "leaf",
             "state": {
@@ -200,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -276,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+                "file": "02 MOC/MOC Filozofia/MOC Metafizycy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -402,9 +426,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "359098ea38028652",
+  "active": "dd6ed23609bc9b48",
   "lastOpenFiles": [
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+    "02 MOC/MOC Filozofia/MOC Metafizycy.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia/MOC Etyka.md",
@@ -429,7 +454,6 @@
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "Sofiofilia/Dlaczego nie robię filmów zbyt często Vlog.md",
-    "Sofiofilia/Myśl polityczna.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
