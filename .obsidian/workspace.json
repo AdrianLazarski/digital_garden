@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -300,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Metafizycy.md",
+                "file": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -426,10 +426,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd6ed23609bc9b48",
+  "active": "359098ea38028652",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Metafizycy.md",
+    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia/MOC Etyka.md",
