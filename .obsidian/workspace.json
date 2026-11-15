@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
+                "file": "03 Atomy/Idealizm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Nurty metafizyki"
+              "title": "Idealizm"
             }
           },
           {
@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -301,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
+                "file": "03 Atomy/Idealizm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -427,18 +427,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04f1cce0f71b43cf",
+  "active": "da0c3c1c63d587a2",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
+    "03 Atomy/Idealizm.md",
+    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+    "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
+    "03 Atomy/Platonizm (tradycja).md",
+    "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
     "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
     "03 Atomy/Platonizm (stanowisko).md",
-    "03 Atomy/Platonizm (tradycja).md",
-    "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
     "05 Osoby/Heraklit z Efezu.md",
     "03 Atomy/Eklektycy (Jonia i Elea).md",
     "03 Atomy/Atomizm starożytny.md",
     "03 Atomy/Atomizm.md",
-    "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
-    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "05 Osoby/Willard Van Orman Quine.md",
     "02 MOC/MOC Filozofia/MOC Metafizycy.md",
     "04 Źródła/Ziemińska Renata, Współczesne koncepcje prawdy.md",
@@ -453,8 +455,6 @@
     "03 Atomy/Metafizyka klasyczna.md",
     "03 Atomy/Problem przedmiotu metafizyki.md",
     "03 Atomy/Problem analogii bytu.md",
-    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
-    "02 MOC/MOC Filozofia/MOC Etyka.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
