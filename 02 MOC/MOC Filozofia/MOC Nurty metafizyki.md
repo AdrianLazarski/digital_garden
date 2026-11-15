@@ -85,6 +85,8 @@ modified date: 2026-11-15T14:42
 [[Tomizm egzystencjalny]]
 [[Szkoła lubelska]]
 [[Tomizm transcendentalny]]
+[[Tomizm konsekwentny]]
+[[Metafizyka klasyczna]]
 [[Filozofia języka potocznego]]*
 [[Metafizyka deskryptywna]]
 [[Naturalizm quine'owski]]

@@ -152,12 +152,12 @@
             }
           },
           {
-            "id": "017d5ef94dfa035e",
+            "id": "16d0e3102721f5e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Metafizyka.md",
+                "file": "02 MOC/MOC Filozofia/Teoria analogii bytu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,31 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Metafizyka"
-            }
-          },
-          {
-            "id": "786cf5bc55f9d745",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Metafizyka klasyczna.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Metafizyka klasyczna"
+              "title": "Teoria analogii bytu"
             }
           },
           {
@@ -269,30 +245,6 @@
               },
               "icon": "lucide-file",
               "title": "MOC Dzieła metafizyczne"
-            }
-          },
-          {
-            "id": "c212e18349cc18f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/Teoria transcendentaliów.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Teoria transcendentaliów"
             }
           }
         ],
@@ -372,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Metafizyka.md",
+                "file": "02 MOC/MOC Filozofia/Teoria analogii bytu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -498,20 +450,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "017d5ef94dfa035e",
+  "active": "16d0e3102721f5e2",
   "lastOpenFiles": [
-    "03 Atomy/Metafizyka klasyczna.md",
-    "03 Atomy/Metafizyka.md",
-    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
-    "02 MOC/MOC Filozofia/MOC Metafizycy.md",
+    "03 Atomy/Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
+    "03 Atomy/Teoria transcendentaliów.md",
+    "02 MOC/MOC Filozofia/MOC Metafizycy.md",
+    "03 Atomy/Tomizm transcendentalny.md",
+    "03 Atomy/Metafizyka klasyczna.md",
+    "03 Atomy/Problem przedmiotu metafizyki.md",
+    "03 Atomy/Problem analogii bytu.md",
+    "02 MOC/MOC Filozofia/Teoria analogii bytu.md",
+    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia/MOC Etyka.md",
     "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
     "02 MOC/MOC Filozofia/MOC Estetyka.md",
     "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
-    "02 MOC/MOC Filozofia/Teoria transcendentaliów.md",
     "05 Osoby/Arystoteles.md",
     "03 Atomy/Pojęcie.md",
     "02 MOC/MOC Filozofia/MOC Filozofia religii.md",
@@ -522,10 +478,6 @@
     "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "Aktualnie opracowywane.md",
-    "07 Language lab/English grammar.md",
-    "04 Źródła/Arystoteles, Metafizyka.md",
-    "05 Osoby/Ayn Rand.md",
-    "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",

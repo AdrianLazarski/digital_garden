@@ -21,7 +21,7 @@ W metafizyce tomistycznej chodzi o poznanie:
 
 Język metafizyki klasycznej nie jest jednoznaczny i nie jest wieloznaczny. Jest analogiczny wobec rzeczywistości.
 
-Prawa poznania i prawa językowe wywodzą się z praw bytowania.
+
 
   
 ## Dwa rodzaje metafizyki klasycznej:
@@ -34,11 +34,14 @@ Prawa poznania i prawa językowe wywodzą się z praw bytowania.
 	- Być bytem - być treścią o proporcjonalnym znaczeniu
 
   
-## Metafizyka w wersji egzystencjalnej jako nauka:
-
-1. Przedmiot formalny/Aspekt: istnienie
-2. Cel: poznanie ostatecznych racji i przyczyn istnienia każdego bytu
-3. Przedmiot materialny: Byt (każda poszczególna treść istniejąca)
-4. Metoda: Separacja
 
 
+
+Szkoła lubelska zalicza tu:
+[[Eleatyzm]]
+[[Arystotelizm]]
+[[Tomizm]]
+[[Tomizm transcendentalny]]
+[[Szkoła lubelska]]
+[[Tomizm egzystencjalny]]
+[[Tomizm konsekwentny]]

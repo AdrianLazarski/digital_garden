@@ -9,6 +9,8 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-31 20:51
 ---
 
+- Nazwa ta pochodzi od Andronikosa z Rodos, dziesiątego lub jedenastego scholarchy Likejonu. Sam [[Arystoteles]] mówił o filozofii pierwszej lub o teologii. Nazwa ta powstała raczej po prostu ze względów redakcyjnych.
+
 
 
 ## Metafizyka czy ontologia?
