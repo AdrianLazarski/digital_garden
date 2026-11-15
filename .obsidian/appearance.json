@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "colorful folders",
     "kolorowe headingi"
-  ]
+  ],
+  "showRibbon": true
 }

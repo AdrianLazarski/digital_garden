@@ -126,9 +126,21 @@
               "icon": "lucide-file",
               "title": "Rand Ayn, Introduction to the objectivist epistemology"
             }
+          },
+          {
+            "id": "c3abeb5dac9fb278",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Informacje o wersji 1.15.1"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -330,7 +342,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a488d4aee12b0687",
+  "active": "c3abeb5dac9fb278",
   "lastOpenFiles": [
     "05 Osoby/Arystoteles.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
