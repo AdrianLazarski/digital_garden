@@ -8,13 +8,14 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-11-15T14:42
 ---
 ## Starożytność
-[[Filozofia jońska]]
+
+[[Szkoła jońska]]
 [[Pitagoreizm]]
 [[Heraklitejczycy]]
-[[Eleatyzm]]
+[[Szkoła eleacka]]
 [[Pluraliści]]
 [[Atomizm starożytny]]
-[[Sofistyka]]*
+[[Sofiści]]
 [[Megarejczycy]]
 [[Platonizm]]
 [[Arystotelizm]]
@@ -25,19 +26,21 @@ modified date: 2026-11-15T14:42
 [[Neoplatonizm]]
 
 ## Średniowiecze
+
 [[Augustynizm]]
 [[Neoplatonizm chrześcijański]]
 [[Falsafa]]
 [[Szkoła z Chartres]]
 [[Arystotelizm żydowski]]
 [[Iluminacjonizm]]
-[[Awerroizm łaciński]]
+[[Awerroizm]]
 [[Tomizm]]
 [[Szkotyzm]]
 [[Mistyka nadreńska]]
 [[Ockhamizm]]
 
 ## Renesans i nowożytność
+
 [[Neoplatonizm renesansowy]]
 [[Renesansowa filozofia przyrody]]
 [[Druga scholastyka]]
@@ -54,6 +57,7 @@ modified date: 2026-11-15T14:42
 [[Krytycyzm]]*
 
 ## XIX wiek
+
 [[Idealizm niemiecki]]
 [[Woluntaryzm]]
 [[Pozytywizm]]*
@@ -70,6 +74,7 @@ modified date: 2026-11-15T14:42
 [[Pragmatyzm]]
 
 ## XX wiek
+
 [[Bergsonizm]]
 [[Filozofia procesu]]
 [[Atomizm logiczny]]
@@ -96,6 +101,7 @@ modified date: 2026-11-15T14:42
 [[Ontologia społeczna]]
 
 ## Czasy najnowsze
+
 [[Metafizyka analityczna]]
 [[Humeanizm]]
 [[Neoarystotelizm]]

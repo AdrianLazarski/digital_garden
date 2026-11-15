@@ -152,30 +152,6 @@
             }
           },
           {
-            "id": "16d0e3102721f5e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 MOC/MOC Filozofia/Teoria analogii bytu.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Teoria analogii bytu"
-            }
-          },
-          {
             "id": "da0c3c1c63d587a2",
             "type": "leaf",
             "state": {
@@ -248,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -324,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/Teoria analogii bytu.md",
+                "file": "02 MOC/MOC Filozofia/MOC Metafizycy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -450,19 +426,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16d0e3102721f5e2",
+  "active": "dd6ed23609bc9b48",
   "lastOpenFiles": [
+    "05 Osoby/Jan Roscelin.md",
+    "02 MOC/MOC Filozofia/MOC Metafizycy.md",
     "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
+    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+    "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
+    "02 MOC/MOC Filozofia/MOC Problemy metafizyczne.md",
+    "02 MOC/MOC Filozofia/MOC Kategorie metafizyczne.md",
+    "03 Atomy/Teoria analogii bytu.md",
     "03 Atomy/Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "03 Atomy/Teoria transcendentaliów.md",
-    "02 MOC/MOC Filozofia/MOC Metafizycy.md",
     "03 Atomy/Tomizm transcendentalny.md",
     "03 Atomy/Metafizyka klasyczna.md",
     "03 Atomy/Problem przedmiotu metafizyki.md",
     "03 Atomy/Problem analogii bytu.md",
-    "02 MOC/MOC Filozofia/Teoria analogii bytu.md",
-    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia/MOC Etyka.md",
     "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
@@ -474,10 +454,6 @@
     "03 Atomy/Zasada przyczynowości sprawczej.md",
     "03 Atomy/Zasada przyczynowości celowej.md",
     "03 Atomy/Pojęcie 1.md",
-    "02 MOC/MOC Filozofia.md",
-    "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
-    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
-    "Aktualnie opracowywane.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
