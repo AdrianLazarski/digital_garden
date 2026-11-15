@@ -9,6 +9,8 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-31 20:51
 ---
 
+
+
 ## Metafizyka czy ontologia?
 
 - [[Christian Wolff]] wprowadził termin ontologia i dla niego dotyczyła ona wszystkiego co możliwe, albo inaczej: wszystkiego co niesprzeczne. Podobnie potem rozumieli tę naukę Claus, brentaniści, Meinong, Husserl.
@@ -112,6 +114,9 @@ Hegel i materialiści dialektyczni przeciwstawiają metafizyce dialektykę. Ta p
 M. A. Krąpiec, Metafizyka, Lublin 1984, s. 27-28.
 A. B. Stępień, Wstęp do filozofii, Lublin 2001 , s. 73-78.
 W. Stróżewski, Ontologia, Kraków 2003, s. 22-
+
+
+
 
 
 

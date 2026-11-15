@@ -152,6 +152,54 @@
             }
           },
           {
+            "id": "017d5ef94dfa035e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Metafizyka.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Metafizyka"
+            }
+          },
+          {
+            "id": "786cf5bc55f9d745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Metafizyka klasyczna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Metafizyka klasyczna"
+            }
+          },
+          {
             "id": "da0c3c1c63d587a2",
             "type": "leaf",
             "state": {
@@ -248,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -324,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+                "file": "03 Atomy/Metafizyka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -450,10 +498,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "359098ea38028652",
+  "active": "017d5ef94dfa035e",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
+    "03 Atomy/Metafizyka klasyczna.md",
+    "03 Atomy/Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+    "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
     "02 MOC/MOC Filozofia/MOC Metafizycy.md",
     "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
@@ -476,8 +526,6 @@
     "04 Źródła/Arystoteles, Metafizyka.md",
     "05 Osoby/Ayn Rand.md",
     "04 Źródła/Zitelmann Rainer, Socjalizm w mundurze.md",
-    "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-    "04 Źródła/Hobsbawm Eric, O nacjonalizmie.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
