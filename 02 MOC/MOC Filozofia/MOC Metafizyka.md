@@ -10,18 +10,19 @@ modified date: 2026-07-06 20:06
 [[Metafizyka]]
 [[Ontologia]]
 
-# 1. Teorie metafizyczne
+# 1. Nurty metafizyki
 
-[[Metafizyka klasyczna]]
-	[[Teoria aktu i możności]]
-	[[Teoria formy i materii]]
-	[[Teoria istoty i istnienia]]
-	[[Teoria substancji i przypadłości]]
 
 
 # 2. Kategorie metafizyczne
 
 [[Akt]]
+[[Forma]]
+[[Materia]]
+[[Możność]]
+[[Istnienie]]
+[[Istota]]
+
 [[Apeiron]]
 [[Arché]]
 [[Atomizm]]
@@ -29,20 +30,19 @@ modified date: 2026-07-06 20:06
 [[Cel]]
 [[Dobro ontyczne]]
 [[Dynamizm]]
-[[Forma]]
+
 [[Gatunek]]
 [[Hylemorfizm]]
 [[Hylozoizm]]
 [[Idea]]
 [[Idealizm]]
-[[Istnienie]]
-[[Istota]]
+
 [[Jedność]]
-[[Materia]]
+
 [[Meromorfizm]]
 [[Monizm]]
-[[Możność]]
-[[Natura]]
+
+
 [[Niebyt]]
 [[Nominalizm]]
 [[Odrębność]]
@@ -62,7 +62,21 @@ modified date: 2026-07-06 20:06
 [[Zasada przyczynowości sprawczej]]
 
 
-# 3. Metafizycy
+# 3. Problemy metafizyczne
 
 
-# 4. Dzieła metafizyczne
+# 4. Teorie metafizyczne
+
+[[Metafizyka klasyczna]]
+	[[Teoria aktu i możności]]
+	[[Teoria formy i materii]]
+	[[Teoria istoty i istnienia]]
+	[[Teoria substancji i przypadłości]]
+
+
+
+
+# 5. Metafizycy
+
+
+# 6. Dzieła metafizyczne
