@@ -152,36 +152,12 @@
             }
           },
           {
-            "id": "64face74d092cd67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Atomizm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Atomizm"
-            }
-          },
-          {
             "id": "da0c3c1c63d587a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Atomizm starożytny.md",
+                "file": "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,11 +172,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atomizm starożytny"
+              "title": "MOC Nurty metafizyki"
+            }
+          },
+          {
+            "id": "148e7606cecbae9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Platonizm (tradycja).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Platonizm (tradycja)"
+            }
+          },
+          {
+            "id": "1ae28325d6f74f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Platonizm (stanowisko).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Platonizm (stanowisko)"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -277,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Eklektycy (Jonia i Elea).md",
+                "file": "03 Atomy/Platonizm (stanowisko).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -403,12 +427,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "359098ea38028652",
+  "active": "1ae28325d6f74f32",
   "lastOpenFiles": [
-    "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
+    "03 Atomy/Platonizm (tradycja).md",
+    "03 Atomy/Platonizm (stanowisko).md",
+    "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
+    "05 Osoby/Heraklit z Efezu.md",
+    "03 Atomy/Eklektycy (Jonia i Elea).md",
     "03 Atomy/Atomizm starożytny.md",
     "03 Atomy/Atomizm.md",
-    "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
+    "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
     "05 Osoby/Willard Van Orman Quine.md",
@@ -427,10 +455,6 @@
     "03 Atomy/Problem analogii bytu.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia/MOC Etyka.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła etyczne.md",
-    "02 MOC/MOC Filozofia/MOC Estetyka.md",
-    "05 Osoby/Arystoteles.md",
-    "03 Atomy/Pojęcie.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",

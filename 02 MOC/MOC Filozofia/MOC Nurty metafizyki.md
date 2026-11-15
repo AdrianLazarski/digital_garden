@@ -11,13 +11,12 @@ modified date: 2026-11-15T14:42
 
 [[Szkoła jońska]]
 [[Pitagoreizm]]
-[[Heraklitejczycy]]
 [[Szkoła eleacka]]
-[[Pluraliści]]
+Pluraliści: [[Empedokles]], [[Anaksagoras]] (nie do końca prawdziwa szkoła, ale jest podobieństwo)
 [[Atomizm starożytny]]
 [[Sofiści]]
-[[Megarejczycy]]
-[[Platonizm]]
+[[Szkoła megarejska]]
+[[Platonizm (tradycja)]]
 [[Arystotelizm]]
 [[Stoicyzm]]
 [[Epikureizm]]
