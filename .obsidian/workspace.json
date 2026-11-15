@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
+                "file": "03 Atomy/Eklektycy (Jonia i Elea).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Teorie metafizyczne"
+              "title": "Eklektycy (Jonia i Elea)"
             }
           },
           {
@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -234,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quine",
+                "query": "eklek",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Atomizm.md",
+                "file": "03 Atomy/Eklektycy (Jonia i Elea).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -403,12 +403,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64face74d092cd67",
+  "active": "359098ea38028652",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
     "03 Atomy/Atomizm starożytny.md",
     "03 Atomy/Atomizm.md",
     "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
-    "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
     "05 Osoby/Willard Van Orman Quine.md",
