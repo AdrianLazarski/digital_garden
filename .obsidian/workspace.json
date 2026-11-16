@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Language lab/English grammar.md",
+                "file": "07 Language lab/02 Atomy angielski/Verb Complementation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "English grammar"
+              "title": "Verb Complementation"
             }
           },
           {
@@ -300,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Language lab/English grammar.md",
+                "file": "07 Language lab/02 Atomy angielski/Verb Complementation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -428,6 +428,8 @@
   },
   "active": "da0c3c1c63d587a2",
   "lastOpenFiles": [
+    "07 Language lab/English grammar.md",
+    "07 Language lab/02 Atomy angielski/Verb Complementation.md",
     "03 Atomy/Idealizm.md",
     "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
@@ -452,8 +454,6 @@
     "03 Atomy/Teoria transcendentaliów.md",
     "03 Atomy/Tomizm transcendentalny.md",
     "03 Atomy/Metafizyka klasyczna.md",
-    "03 Atomy/Problem przedmiotu metafizyki.md",
-    "03 Atomy/Problem analogii bytu.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
