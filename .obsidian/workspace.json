@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -300,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Idealizm.md",
+                "file": "03 Atomy/Platonizm (tradycja).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -426,18 +426,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da0c3c1c63d587a2",
+  "active": "148e7606cecbae9d",
   "lastOpenFiles": [
+    "03 Atomy/Platonizm (stanowisko).md",
+    "03 Atomy/Idealizm.md",
     "07 Language lab/English grammar.md",
     "07 Language lab/02 Atomy angielski/Verb Complementation.md",
-    "03 Atomy/Idealizm.md",
     "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
     "03 Atomy/Platonizm (tradycja).md",
     "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
     "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
-    "03 Atomy/Platonizm (stanowisko).md",
     "05 Osoby/Heraklit z Efezu.md",
     "03 Atomy/Eklektycy (Jonia i Elea).md",
     "03 Atomy/Atomizm starożytny.md",
