@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+                "file": "02 MOC/MOC Filozofia/MOC Metafizycy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Metafizyka"
+              "title": "MOC Metafizycy"
             }
           },
           {
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+                "file": "02 MOC/MOC Filozofia/MOC Metafizycy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -404,9 +404,9 @@
   },
   "active": "359098ea38028652",
   "lastOpenFiles": [
+    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
     "03 Atomy/Realizm.md",
-    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "03 Atomy/Neoarystotelizm.md",
     "03 Atomy/Arystotelizm.md",
     "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
