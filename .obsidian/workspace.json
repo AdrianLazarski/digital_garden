@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -300,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
+                "file": "03 Atomy/Realizm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -426,10 +426,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b8623372364fb38",
+  "active": "359098ea38028652",
   "lastOpenFiles": [
-    "03 Atomy/Arystotelizm.md",
     "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
+    "03 Atomy/Arystotelizm.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
