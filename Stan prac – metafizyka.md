@@ -12,11 +12,10 @@ Każda partia to osobna rozmowa w projekcie „Zettelkasten”. Po zakończeniu 
 	- podział notatki „Metafizyka klasyczna” i uporządkowanie notatki [[Metafizyka]].
 1a. Notatki z lektury (przed dalszymi partiami): z każdej notatki z lektury biorę część metafizyczną, robię plan ekstrakcji (pojęcia i stanowiska → istniejąca notatka, nowa notatka albo sekcja do dopisania), a po akceptacji tworzę notatki atomowe z sekcją „Źródła”. Części dotyczące innych działów oznaczam na później. Jedna lub dwie książki na rozmowę. Kolejność:
 	- [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]] (część „Metafizyka”);
-	- [[Crisp, Loux, Współczesne wprowadzenie do metafizyki]] (metafizyka współczesna);
 	- [[Krąpiec Mieczysław Albert OP, Metafizyka]], [[Stróżewski Władysław, Ontologia]], [[Rosiak Marek, Filozofia pierwsza, metafizyka, ontologia]];
-	- [[Ingarden Roman, Spór o istnienie świata]], [[Wolniewicz Bogusław, Rzeczy i fakty]], [[Heller, Czy materia istnieje]], [[Nieznański Edward, Elementy filozofii teoretycznej]];
+	- [[Nieznański Edward, Elementy filozofii teoretycznej]];
 	- pozostałe według uznania.
-2. Nurty starożytne – od filozofii jońskiej do neoplatonizmu. Gotowe: [[Atomizm starożytny]], [[Platonizm]]. Decyzja do podjęcia: [[Pluraliści]].
+2. Nurty starożytne – od filozofii jońskiej do neoplatonizmu. Gotowe: [[Atomizm starożytny]], [[Platonizm (tradycja)]]. 
 3. Nurty średniowieczne – od augustynizmu do ockhamizmu, z [[Aszaryzm|aszaryzmem]] i falsafą.
 4. Nurty renesansowe i nowożytne – od neoplatonizmu renesansowego do krytycyzmu, z [[Korpuskularyzm|korpuskularyzmem]].
 5. Nurty XIX w. – od idealizmu niemieckiego do pragmatyzmu.
@@ -42,12 +41,9 @@ Uwaga: [[Etyka cnót]] i [[Eudajmonizm]] należą do działu etyki; tu są tylko
 ## Stan
 
 
-- Gotowe notatki: [[Atomizm]], [[Atomizm starożytny]], [[Platonizm]], [[Platonizm (stanowisko)]], [[Idealizm]], [[Realizm]], [[Arystotelizm]], [[Neoarystotelizm]], [[Etyka cnót]], [[Eudajmonizm]].
+- Gotowe notatki: [[Atomizm]], [[Atomizm starożytny]], [[Platonizm (tradycja)]], [[Platonizm (stanowisko)]], [[Idealizm]], [[Realizm]], [[Arystotelizm]], [[Neoarystotelizm]], [[Etyka cnót]], [[Eudajmonizm]].
 - Zmiany w listach do naniesienia:
-	- Nurty – dodać: [[Aszaryzm]] (średniowiecze, między falsafą a szkołą z Chartres), [[Korpuskularyzm]] (po kartezjanizmie), [[Prawica heglowska]] (po idealizmie niemieckim), [[Neoheglizm niemiecki]], [[Idealizm włoski]], [[Neoheglizm francuski]] (XX w.), [[Tomizm analityczny]] (czasy najnowsze).
-	- Nurty – usunąć: [[Humeanizm]]. Do rozważenia: [[Pluraliści]] (etykieta podręcznikowa; alternatywa – link do [[Pluralizm ontologiczny]]).
 	- Teorie – dodać: [[Abstrakcja (metoda metafizyki)]]. Do rozważenia: „Superweniencja humeańska” → „Superweniencja humowska”.
-	- Problemy – „Arché” przenieść do kategorii, w problemach zostawić [[Problem arché]].
 - Notatka „Metafizyka klasyczna” – proponowany podział: definicja dyscypliny i historia nazwy → [[Metafizyka]]; trzy znaczenia u Tomasza → [[Problem przedmiotu metafizyki]]; uwaga o Parmenidesie → [[Szkoła eleacka]]; wersja egzystencjalna → [[Tomizm egzystencjalny]]; analogiczność języka → [[Teoria analogii bytu]]; abstrakcja i separacja → notatki o metodach.
 - Sprawy otwarte:
 	- do weryfikacji: atomizm u Hugona ze św. Wiktora; inspiracja atomizmem w teorii ciepła Grosseteste'a;
