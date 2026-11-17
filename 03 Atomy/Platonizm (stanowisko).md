@@ -1,3 +1,12 @@
+---
+created: 2026-11-15T15:53
+tags:
+  - atom
+  - filozofia/metafizyka
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-11-17T16:42
+---
 > [!note] Definicja 
 > Stanowisko, według którego istnieją [[Abstrakt|obiekty abstrakcyjne]]: byty nieprzestrzenne, nieczasowe, przyczynowo bezczynne i niezależne od umysłu oraz języka.
 
@@ -40,9 +49,25 @@ Ze względu na zakres:
 - Brzytwa Ockhama: platonizm mnoży byty bez potrzeby.
 - Program Fielda (_Science without Numbers_, 1980): fizykę da się sformułować bez odwołań do liczb, co podważa argument z niezbędności.
 
+
+
 ## Stanowiska konkurencyjne
 
-- [[Nominalizm]] – istnieją tylko konkrety.
-- [[Fikcjonalizm]] – zdania matematyczne są fałszywe lub „prawdziwe w opowieści”, jak zdania o postaciach literackich.
-- [[Konceptualizm]] – obiekty abstrakcyjne istnieją tylko jako twory umysłu.
-- Strukturalizm matematyczny – matematyka opisuje struktury, a nie samodzielne przedmioty. W wersji _ante rem_ (Shapiro) sam jest odmianą platonizmu.
+Przeciwnicy platonizmu też dzielą się według dziedzin, ale nie każda kombinacja ma utrwaloną nazwę ani zwolenników.
+
+- Powszechniki:
+    - [[Realizm umiarkowany]] – powszechniki istnieją, ale tylko w rzeczach (Arystoteles, Tomasz);
+    - [[Konceptualizm]] – przedmioty ogólne istnieją tylko jako twory umysłu;
+    - [[Nominalizm]] – istnieją wyłącznie konkrety (w tym [[Teoria tropów|teoria tropów]]).
+- Matematyka:
+    - realizm arystotelesowski – liczby i struktury jako własności rzeczy, a nie byty oddzielne (James Franklin);
+    - intuicjonizm – matematyka jako konstrukcja umysłu, odpowiednik konceptualizmu (Brouwer);
+    - nominalizm matematyczny – nauka bez liczb (Field);
+    - [[Fikcjonalizm]] – zdania matematyczne są prawdziwe najwyżej „w opowieści”, jak zdania o postaciach literackich;
+    - formalizm – matematyka jako gra na symbolach.
+    - Strukturalizm matematyczny – matematyka opisuje struktury, a nie samodzielne przedmioty. W wersji _ante rem_ (Shapiro) sam jest odmianą platonizmu.
+- Sądy:
+    - nośnikami prawdy są tylko zdania lub akty myślowe, bez sądów jako odrębnych przedmiotów.
+- Modalność:
+    - [[Realizm modalny]] Lewisa – światy możliwe istnieją, ale są konkretne, więc to nie platonizm;
+    - fikcjonalizm modalny – mówienie o światach możliwych jako użyteczna fikcja (Gideon Rosen).

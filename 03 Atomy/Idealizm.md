@@ -21,7 +21,10 @@ Najogólniej idealizm uważa, że przedmiotem filozofii są idee. – dr Płotka
 - Stąd „idealizm” oznacza dwie niemal przeciwne rzeczy:
     - w sensie starszym: realność idei niezależnych od umysłu (por. [[Platonizm (stanowisko)]], [[Teoria idei]]);
     - w sensie nowożytnym: zależność rzeczywistości od umysłu.
-- W sensie nowożytnym platonista jest więc realistą, bo jego idee istnieją niezależnie od tego, czy ktoś je myśli.
+- Status platonizmu zależy od tego, z czym zestawia się idealizm:
+	- w sporze o niezależność od umysłu platonista jest realistą, bo jego idee istnieją niezależnie od tego, czy ktoś je myśli;
+	- w sporze o powszechniki platonizm to wprost [[Realizm skrajny|realizm skrajny]];
+	- w tradycji tomistycznej (np. Krąpiec) Platon uchodzi za idealistę, bo poznanie wychodzi u niego od idei, a nie od istniejących rzeczy; „realizmem” nazywa się tam stanowisko arystotelesowsko-tomistyczne.
 - Przeciwieństwa:
     - w sensie ontologicznym: idealizm – [[Materializm|materializm]] (czy rzeczywistość jest duchowa, czy materialna);
     - w sensie epistemologicznym: idealizm – realizm (czy świat istnieje niezależnie od poznania);
