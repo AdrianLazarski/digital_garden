@@ -198,9 +198,33 @@
               "icon": "lucide-file",
               "title": "Neoarystotelizm"
             }
+          },
+          {
+            "id": "9f9fb7451204c7ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Humeanizm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Humeanizm"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -276,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Neoarystotelizm.md",
+                "file": "03 Atomy/Humeanizm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -402,8 +426,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56e5f6c189600e96",
+  "active": "9f9fb7451204c7ef",
   "lastOpenFiles": [
+    "03 Atomy/Humeanizm.md",
+    "03 Atomy/Neoarystotelizm.md",
     "03 Atomy/Arystotelizm.md",
     "05 Osoby/Jan Filopon.md",
     "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
@@ -428,8 +454,6 @@
     "05 Osoby/Willard Van Orman Quine.md",
     "02 MOC/MOC Filozofia/MOC Metafizycy.md",
     "04 Źródła/Ziemińska Renata, Współczesne koncepcje prawdy.md",
-    "02 MOC/MOC Filozofia/MOC Dzieła metafizyczne.md",
-    "05 Osoby/Jan Roscelin.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
