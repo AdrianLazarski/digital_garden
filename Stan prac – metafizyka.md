@@ -10,6 +10,12 @@ Każda partia to osobna rozmowa w projekcie „Zettelkasten”. Po zakończeniu 
 	- naniesienie zmian w listach (sekcja „Zmiany w listach do naniesienia” niżej);
 	- poprawki w MOC Metafizycy: link [[Boecjusz]] zamiast pełnego imienia, brakujący nawias w `[[Empedokles]`;
 	- podział notatki „Metafizyka klasyczna” i uporządkowanie notatki [[Metafizyka]].
+1a. Notatki z lektury (przed dalszymi partiami): z każdej notatki z lektury biorę część metafizyczną, robię plan ekstrakcji (pojęcia i stanowiska → istniejąca notatka, nowa notatka albo sekcja do dopisania), a po akceptacji tworzę notatki atomowe z sekcją „Źródła”. Części dotyczące innych działów oznaczam na później. Jedna lub dwie książki na rozmowę. Kolejność:
+	- [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]] (część „Metafizyka”);
+	- [[Crisp, Loux, Współczesne wprowadzenie do metafizyki]] (metafizyka współczesna);
+	- [[Krąpiec Mieczysław Albert OP, Metafizyka]], [[Stróżewski Władysław, Ontologia]], [[Rosiak Marek, Filozofia pierwsza, metafizyka, ontologia]];
+	- [[Ingarden Roman, Spór o istnienie świata]], [[Wolniewicz Bogusław, Rzeczy i fakty]], [[Heller, Czy materia istnieje]], [[Nieznański Edward, Elementy filozofii teoretycznej]];
+	- pozostałe według uznania.
 2. Nurty starożytne – od filozofii jońskiej do neoplatonizmu. Gotowe: [[Atomizm starożytny]], [[Platonizm]]. Decyzja do podjęcia: [[Pluraliści]].
 3. Nurty średniowieczne – od augustynizmu do ockhamizmu, z [[Aszaryzm|aszaryzmem]] i falsafą.
 4. Nurty renesansowe i nowożytne – od neoplatonizmu renesansowego do krytycyzmu, z [[Korpuskularyzm|korpuskularyzmem]].
