@@ -35,13 +35,14 @@ Słowo „realizm” występuje w kilku sporach, a w każdym ma innego przeciwni
 
 - Platonista jest realistą w sensie 1 i 2, ale idealistą w sensie 3. Szczegółowo: zob. [[Idealizm#Dwuznaczność terminu]].
 - Arystotelik i tomista są realistami we wszystkich trzech pierwszych sensach.
-- Kant łączy idealizm transcendentalny z „realizmem empirycznym”: rzeczy jako zjawiska są realne, ale nie poznajemy rzeczy samych w sobie.
+- Kant w sensie 1 jest zarazem idealistą transcendentalnym (przedmioty poznania to zjawiska ukształtowane przez formy podmiotu) i realistą empirycznym (zjawiska są realne, a rzeczy same w sobie istnieją, choć ich nie poznajemy). W sensie 3 jest idealistą.
 
 ## Odmiany realizmu w sporze o istnienie świata
 
 - Realizm naiwny (bezpośredni) – postrzegamy rzeczy takimi, jakie są.
 - Realizm krytyczny (pośredni) – postrzegamy rzeczy za pośrednictwem wrażeń lub idei, które je reprezentują (Locke).
-- Realizm bezpośredni wobec teorii idei – postrzegamy same rzeczy, a nie idee (Reid).
+- Realizm zdroworozsądkowy (bezpośredni) – postrzegamy same rzeczy, a nie ich reprezentacje w umyśle, czyli „idee” w sensie Locke'a i Hume'a (Reid).
+	- Od realizmu naiwnego różni się tym, że jest uzasadnioną teorią, a nie przedrefleksyjnym przekonaniem. Reid przyznaje, że wrażenia nie są podobne do rzeczy, ale traktuje je jako znaki, które bezpośrednio kierują umysł ku przedmiotowi, bez pośredniczących idei. Broni tego przeciw sceptycyzmowi Hume'a, odwołując się do zasad zdrowego rozsądku.
 
 ## Realizm w poszczególnych dziedzinach
 
