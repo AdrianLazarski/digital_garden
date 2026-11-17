@@ -152,54 +152,6 @@
             }
           },
           {
-            "id": "c7aa5e51b8bb8fe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Arystotelizm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arystotelizm"
-            }
-          },
-          {
-            "id": "56e5f6c189600e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Neoarystotelizm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Neoarystotelizm"
-            }
-          },
-          {
             "id": "4b8623372364fb38",
             "type": "leaf",
             "state": {
@@ -222,9 +174,67 @@
               "icon": "lucide-file",
               "title": "MOC Nurty metafizyki"
             }
+          },
+          {
+            "id": "1abff1c46003cfae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii"
+            }
+          },
+          {
+            "id": "1f49772e376dabf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Stróżewski Władysław, Ontologia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stróżewski Władysław, Ontologia"
+            }
+          },
+          {
+            "id": "7f843156100de9ab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nowa karta"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -300,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Realizm.md",
+                "file": "04 Źródła/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -426,16 +436,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "359098ea38028652",
+  "active": "1abff1c46003cfae",
   "lastOpenFiles": [
-    "Stan prac – metafizyka.md",
+    "Aktualnie opracowywane.md",
+    "04 Źródła/Stróżewski Władysław, Ontologia.md",
     "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
+    "03 Atomy/Realizm.md",
+    "Stan prac – metafizyka.md",
     "03 Atomy/Arystotelizm.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia.md",
-    "03 Atomy/Realizm.md",
     "05 Osoby/Arystoteles.md",
     "03 Atomy/Neoarystotelizm.md",
     "02 MOC/MOC Filozofia/MOC Metafizycy.md",
@@ -453,8 +465,6 @@
     "07 Language lab/02 Atomy angielski/Verb Complementation.md",
     "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
     "05 Osoby/Heraklit z Efezu.md",
-    "03 Atomy/Atomizm starożytny.md",
-    "03 Atomy/Atomizm.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
