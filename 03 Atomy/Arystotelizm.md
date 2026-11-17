@@ -10,6 +10,14 @@ modified date: 2026-11-17T17:01
 > [!note] Definicja 
 > Tradycja filozoficzna wywodząca się od [[Arystoteles|Arystotelesa]], trwająca od założenia Likejonu (ok. 335 r. p.n.e.) po współczesny neoarystotelizm, oparta na przekonaniu, że rzeczywistość tworzą jednostkowe substancje, a ich formy i natury istnieją w samych rzeczach, nie w odrębnym świecie idei.
 
+> [!note] Definicja 
+> Tradycja filozoficzna wywodząca się od [[Arystoteles|Arystotelesa]], trwająca od założenia Likejonu (ok. 335 r. p.n.e.) do dziś i obejmująca logikę, filozofię przyrody, metafizykę, psychologię, etykę i politykę. Jej rdzeniem metafizycznym jest przekonanie, że rzeczywistość tworzą jednostkowe substancje, a ich formy i natury istnieją w samych rzeczach, nie w odrębnym świecie idei.
+
+- Ta notatka opisuje przede wszystkim arystotelizm w metafizyce. W etyce tradycję kontynuuje [[Etyka cnót|etyka cnót]] (Anscombe, Foot, MacIntyre, Hursthouse), a jej centralną teorią jest [[Eudajmonizm|eudajmonizm]].
+- Uwaga na „neoarystotelizm”: ta sama nazwa oznacza dwa niezależne ruchy – metafizyczny (Lowe, Fine, Koons) i etyczny (od artykułu Anscombe „Modern Moral Philosophy”, 1958). Łączy je odwołanie do pojęcia natury, np. u Michaela Thompsona.
+
+
+
 ## Wspólne tezy
 
 Poszczególne etapy różnią się bardzo, ale większość arystotelików przyjmuje:
