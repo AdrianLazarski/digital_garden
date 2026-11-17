@@ -86,6 +86,7 @@ modified date: 2026-11-15T15:08
 [[Posybilizm]]
 [[Prezentyzm]]
 [[Procesualizm]]
+[[Realizm]]
 [[Realizm immanentny]]
 [[Realizm metafizyczny]]
 [[Realizm modalny]]

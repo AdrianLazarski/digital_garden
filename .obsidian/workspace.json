@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
+                "file": "03 Atomy/Realizm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Nurty metafizyki"
+              "title": "Realizm"
             }
           },
           {
@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Neoarystotelizm.md",
+                "file": "03 Atomy/Realizm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -402,17 +402,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56e5f6c189600e96",
+  "active": "359098ea38028652",
   "lastOpenFiles": [
-    "03 Atomy/Metafizyka w duchu Hume'a.md",
+    "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
+    "03 Atomy/Realizm.md",
+    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "03 Atomy/Neoarystotelizm.md",
     "03 Atomy/Arystotelizm.md",
-    "05 Osoby/Jan Filopon.md",
     "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
+    "03 Atomy/Metafizyka w duchu Hume'a.md",
+    "05 Osoby/Jan Filopon.md",
     "03 Atomy/Platonizm (stanowisko).md",
     "03 Atomy/Platonizm (tradycja).md",
     "03 Atomy/Idealizm.md",
-    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "02 MOC/MOC Filozofia/MOC Kategorie metafizyczne.md",
     "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
     "02 MOC/MOC Filozofia.md",
@@ -422,14 +424,12 @@
     "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
     "07 Language lab/English grammar.md",
     "07 Language lab/02 Atomy angielski/Verb Complementation.md",
-    "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
     "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
     "05 Osoby/Heraklit z Efezu.md",
     "03 Atomy/Atomizm starożytny.md",
     "03 Atomy/Atomizm.md",
     "05 Osoby/Willard Van Orman Quine.md",
     "02 MOC/MOC Filozofia/MOC Metafizycy.md",
-    "04 Źródła/Ziemińska Renata, Współczesne koncepcje prawdy.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",
