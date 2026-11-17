@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Realizm.md",
+                "file": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Realizm"
+              "title": "MOC Metafizyka"
             }
           },
           {
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Realizm.md",
+                "file": "02 MOC/MOC Filozofia/MOC Metafizyka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
