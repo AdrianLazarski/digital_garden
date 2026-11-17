@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Eudajmonizm.md",
+                "file": "03 Atomy/Epifenomenalizm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Eudajmonizm"
+              "title": "Epifenomenalizm"
             }
           }
         ],
@@ -282,7 +282,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "realizm",
+                "query": "epifenom",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -303,7 +303,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -324,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Eudajmonizm.md",
+                "file": "03 Atomy/Epifenomenalizm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -452,13 +453,13 @@
   },
   "active": "2ab2e1ad70f90c00",
   "lastOpenFiles": [
-    "03 Atomy/Etyka cnót.md",
     "03 Atomy/Eudajmonizm.md",
+    "04 Źródła/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
+    "03 Atomy/Etyka cnót.md",
     "Stan prac – metafizyka.md",
     "04 Źródła/Stróżewski Władysław, Ontologia.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
-    "04 Źródła/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
     "Stan prac – metafizyka (1).md",
     "Aktualnie opracowywane.md",
     "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
