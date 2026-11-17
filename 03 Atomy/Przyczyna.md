@@ -36,4 +36,13 @@ Przyczyna to rzecz, która coś sprawia.
 
 - Te różne aspekty przyczynowości są transcendentalne i konstytuują każdy istniejący byt.
 
+## Ujęcie Ajdukiewicza
 
+- Rozumiemy, co znaczy, że my sami naszym działaniem coś wywołujemy, że jesteśmy sprawcami czegoś. Ale to pojęcie działania i sprawstwa, które stosujemy do siebie, zawiera według Ajdukiewicza niewątpliwie pewne elementy psychologiczne.
+- Próby wyjaśnienia pojęcia przyczyny przez pojęcie działania lub przez pojęcie siły uznaje Ajdukiewicz za niezadowalające.
+- Ajdukiewicz omawia pojęcie przyczyny wśród zagadnień metafizycznych wyrastających z rozważań nad przyrodą, obok zagadnienia [[Determinizm|determinizmu]].
+- Zob. też [[Problem przyczynowości]], [[Teoria regularnościowa przyczynowości]], [[Zasada przyczynowości sprawczej]].
+
+## Źródła
+
+[[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]

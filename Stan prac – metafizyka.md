@@ -4,14 +4,14 @@
 
 Każda partia to osobna rozmowa w projekcie „Zettelkasten”. Po zakończeniu partii aktualizujemy tę notatkę: co zrobione, jakie decyzje zapadły, co zostało otwarte.
 
-**Następna partia: 1a – Ajdukiewicz, część „Metafizyka”, punkt 4 (przyroda); potem podział notatki „Metafizyka klasyczna” (reszta partii 1).**
+**Następna partia: podział notatki „Metafizyka klasyczna” (reszta partii 1); potem 1a – Krąpiec, Stróżewski, Rosiak.**
 
 1. Porządki w strukturze
 	- ~~naniesienie zmian w listach~~ – zrobione 17.11.2026;
 	- ~~poprawki w MOC Metafizycy~~ – zrobione 17.11.2026 (nawias przy Empedoklesie, linki listy alfabetycznej zgodne z chronologiczną, 14 osób przepiętych na istniejące notatki);
 	- podział notatki „Metafizyka klasyczna” i uporządkowanie notatki [[Metafizyka]] – do zrobienia.
 1a. Notatki z lektury (przed dalszymi partiami): z każdej notatki z lektury biorę część metafizyczną, robię plan ekstrakcji (pojęcia i stanowiska → istniejąca notatka, nowa notatka albo sekcja do dopisania), a po akceptacji tworzę notatki atomowe z sekcją „Źródła”. Części dotyczące innych działów oznaczam na później. Jedna lub dwie książki na rozmowę. Kolejność:
-	- [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]] (część „Metafizyka”) – punkty 1–3 zrobione 17.11.2026; zostaje punkt 4 (przyroda) według planu ekstrakcji: Problem psychofizyczny, Dualizm substancjalny (z sekcją w Hylemorfizm), Materializm, Interakcjonizm, Paralelizm psychofizyczny, Teoria dwóch aspektów, Spirytualizm, Monizm (sekcja), Monizm neutralny, Przyczyna (sekcja), Determinizm, Indeterminizm, Problem determinizmu i wolnej woli, Mechanicyzm, Finalizm, Problem celowości, Witalizm, Holizm ontologiczny; na później: Teoria monad, Teoria wiązek, Problem zła (optymizm i pesymizm), Problem ruchu, Materializm dialektyczny, Immaterializm, zasada sprzeczności (logika), etyka metafizyczna i niezależna (etyka); osoby do MOC Metafizycy: Cabanis, Vogt, Büchner;
+	- [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]] (część „Metafizyka”) – punkty 1–4 zrobione 17.11.2026; na później: Teoria monad, Teoria wiązek, Problem zła (optymizm i pesymizm), Problem ruchu, Materializm dialektyczny, Immaterializm, zasada sprzeczności (logika), etyka metafizyczna i niezależna (etyka);
 	- [[Krąpiec Mieczysław Albert OP, Metafizyka]], [[Stróżewski Władysław, Ontologia]], [[Rosiak Marek, Filozofia pierwsza, metafizyka, ontologia]];
 	- [[Nieznański Edward, Elementy filozofii teoretycznej]];
 	- pozostałe według uznania.
@@ -43,6 +43,7 @@ Uwaga: [[Etyka cnót]] i [[Eudajmonizm]] należą do działu etyki; tu są tylko
 
 - Gotowe notatki: [[Atomizm]], [[Atomizm starożytny]], [[Platonizm (tradycja)]], [[Platonizm (stanowisko)]], [[Idealizm]], [[Realizm]], [[Arystotelizm]], [[Neoarystotelizm]], [[Etyka cnót]], [[Eudajmonizm]].
 - Z Ajdukiewicza (17.11.2026), nowe: [[Problem uniwersaliów]], [[Realizm skrajny]], [[Konceptualizm]], [[Idealizm subiektywny]], [[Idealizm transcendentalny]], [[Idealizm obiektywny]], [[Jakości pierwotne i wtórne]], [[Problem istnienia świata zewnętrznego]], [[Fenomenalizm]] (dział epistemologii; treść przeniesiona z Epifenomenalizmu); przepisany [[Epifenomenalizm]]; sekcje „Ujęcie Ajdukiewicza” w: [[Metafizyka]], [[Ontologia]], [[Nominalizm]], [[Światopogląd]], [[Idealizm]], [[Realizm]].
+- Z Ajdukiewicza, punkt 4 (17.11.2026), nowe: [[Problem psychofizyczny]], [[Dualizm substancjalny]], [[Materializm]], [[Interakcjonizm]], [[Paralelizm psychofizyczny]], [[Teoria dwóch aspektów]], [[Spirytualizm]], [[Monizm neutralny]], [[Determinizm]], [[Indeterminizm]], [[Problem determinizmu i wolnej woli]], [[Mechanicyzm]], [[Finalizm]], [[Problem celowości]], [[Witalizm]], [[Holizm ontologiczny]]; dopisane sekcje w: [[Hylemorfizm]] (problem psychofizyczny, Ajdukiewicz), [[Monizm]] (cała treść pod frontmatterem – notatka była pusta), [[Przyczyna]] (Ajdukiewicz). MOC Teorie metafizyczne: dodane Finalizm, Holizm ontologiczny, Interakcjonizm, Spirytualizm, Teoria dwóch aspektów. MOC Metafizycy: dodani [[Pierre Cabanis]] (koniec nowożytności), [[Carl Vogt]], [[Ludwig Büchner]] (XIX w.) – bez notatek osób.
 - Decyzje (17.11.2026):
 	- [[Problem uniwersaliów]] to notatka problemowa, [[Spór o uniwersalia]] – historyczna;
 	- w MOC Teorie link [[Separacja]] (istniejąca notatka) zamiast „Separacja (Krąpiec)”; dodane [[Abstrakcja (metoda metafizyki)]] (odrębna od ogólnej [[Abstrakcja]]); „Superweniencja humeańska” → [[Superweniencja humowska]];
@@ -53,7 +54,10 @@ Uwaga: [[Etyka cnót]] i [[Eudajmonizm]] należą do działu etyki; tu są tylko
 - Notatka „Metafizyka klasyczna” – proponowany podział: definicja dyscypliny i historia nazwy → [[Metafizyka]]; trzy znaczenia u Tomasza → [[Problem przedmiotu metafizyki]]; uwaga o Parmenidesie → [[Szkoła eleacka]]; wersja egzystencjalna → [[Tomizm egzystencjalny]]; analogiczność języka → [[Teoria analogii bytu]]; abstrakcja i separacja → notatki o metodach.
 - Sprawy otwarte:
 	- [[Okazjonalizm]], [[Reizm]], [[Atomizm logiczny]] są i w MOC Nurty, i w MOC Teorie – rozstrzygnąć w partiach 4 i 6 (dwie notatki?);
-	- do weryfikacji: czy Ajdukiewicz opisuje idealizm transcendentalny w wersji Rickerta; entelechia w witalizmie – Driesch;
+	- do weryfikacji: czy Ajdukiewicz opisuje idealizm transcendentalny w wersji Rickerta; czy „eksperymentujący przyrodnik” w części o witalizmie to u Ajdukiewicza Driesch (że Driesch używał terminu „entelechia” – potwierdzone); miejsce u Wolffa, gdzie pada „monistae”;
+	- [[Fizykalizm]] – obecna treść notatki opisuje formalizm w filozofii matematyki (Hilbert), a nie fizykalizm ontologiczny, do którego linkują nowe notatki (decyzja użytkownika);
+	- [[Wolność]] ma tag filozofia/polityki i treść polityczną; [[Problem determinizmu i wolnej woli]] linkuje do niej tylko w „Zob. też”;
+	- [[Entelechia]], [[Emergentyzm]], [[Kompatybilizm]], [[Okazjonalizm]], [[Harmonia przedustanowiona]] i in. – linki z nowych notatek bez notatek docelowych (do partii 8);
 	- w [[Metafizyka]] zdanie „Ajdukiewicz i Quine nazywają ontologią…” występuje dwa razy;
 	- tag `filozofia/epistemologia` w [[Epifenomenalizm]] nie pasuje do nowej treści (decyzja użytkownika);
 	- do weryfikacji: atomizm u Hugona ze św. Wiktora; inspiracja atomizmem w teorii ciepła Grosseteste'a;

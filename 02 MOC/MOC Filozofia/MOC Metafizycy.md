@@ -176,6 +176,7 @@ modified date: 2026-11-15T14:03
 [[Immanuel Kant]]
 [[Moses Mendelssohn]]
 [[Friedrich Heinrich Jacobi]]
+[[Pierre Cabanis]]
 
 ## XIX wiek
 
@@ -202,8 +203,10 @@ modified date: 2026-11-15T14:03
 [[Félix Ravaisson]]
 [[August Cieszkowski]]
 [[Hermann Lotze]]
+[[Carl Vogt]]
 [[Karol Marks]]
 [[Fryderyk Engels]]
+[[Ludwig Büchner]]
 [[Gustav Teichmüller]]
 [[Tommaso Zigliara]]
 [[Thomas Hill Green]]
@@ -413,8 +416,10 @@ modified date: 2026-11-15T14:03
 [[Franz Brentano|Brentano Franz]]
 [[Charlie Dunbar Broad|Broad Charlie Dunbar]]
 [[Giordano Bruno|Bruno Giordano]]
+[[Ludwig Büchner|Büchner Ludwig]]
 [[Jan Buridan|Buridan Jan]]
 [[Walter Burley|Burley Walter]]
+[[Pierre Cabanis|Cabanis Pierre]]
 [[Ross Cameron|Cameron Ross]]
 [[Tommaso Campanella|Campanella Tommaso]]
 [[Keith Campbell|Campbell Keith]]
@@ -680,6 +685,7 @@ modified date: 2026-11-15T14:03
 [[Peter van Inwagen|Van Inwagen Peter]]
 [[Achille Varzi|Varzi Achille]]
 [[Gabriel Vázquez|Vázquez Gabriel]]
+[[Carl Vogt|Vogt Carl]]
 [[Alfred North Whitehead|Whitehead Alfred North]]
 [[David Wiggins|Wiggins David]]
 [[Jan Wiklif|Wiklif Jan]]

@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stan prac – metafizyka.md",
+                "file": "03 Atomy/Realizm skrajny.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,35 +220,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stan prac – metafizyka"
-            }
-          },
-          {
-            "id": "2ab2e1ad70f90c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Wola.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Wola"
+              "title": "Realizm skrajny"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -303,8 +279,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -325,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Wola.md",
+                "file": "03 Atomy/Realizm skrajny.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -451,10 +426,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ab2e1ad70f90c00",
+  "active": "7f843156100de9ab",
   "lastOpenFiles": [
-    "05 Osoby/Johann Gottlieb Fichte.md",
+    "03 Atomy/Holizm ontologiczny.md",
+    "03 Atomy/Witalizm.md",
+    "03 Atomy/Problem celowości.md",
+    "03 Atomy/Finalizm.md",
+    "03 Atomy/Mechanicyzm.md",
+    "03 Atomy/Problem determinizmu i wolnej woli.md",
+    "03 Atomy/Indeterminizm.md",
+    "03 Atomy/Determinizm.md",
+    "03 Atomy/Monizm neutralny.md",
+    "03 Atomy/Spirytualizm.md",
+    "03 Atomy/Teoria dwóch aspektów.md",
+    "03 Atomy/Paralelizm psychofizyczny.md",
+    "03 Atomy/Interakcjonizm.md",
+    "03 Atomy/Materializm.md",
+    "03 Atomy/Dualizm substancjalny.md",
+    "03 Atomy/Problem psychofizyczny.md",
+    "Stan prac – metafizyka.md",
     "03 Atomy/Wola.md",
+    "05 Osoby/Johann Gottlieb Fichte.md",
     "05 Osoby/Moritz Schlick.md",
     "03 Atomy/Epifenomenalizm.md",
     "03 Atomy/Fenomenalizm.md",
@@ -462,23 +454,6 @@
     "03 Atomy/Jakości pierwotne i wtórne.md",
     "03 Atomy/Idealizm obiektywny.md",
     "03 Atomy/Idealizm transcendentalny.md",
-    "03 Atomy/Idealizm subiektywny.md",
-    "03 Atomy/Konceptualizm.md",
-    "03 Atomy/Realizm skrajny.md",
-    "03 Atomy/Problem uniwersaliów.md",
-    "03 Atomy/Eudajmonizm.md",
-    "04 Źródła/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
-    "03 Atomy/Etyka cnót.md",
-    "Stan prac – metafizyka.md",
-    "04 Źródła/Stróżewski Władysław, Ontologia.md",
-    "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
-    "04 Źródła/Crisp, Loux, Współczesne wprowadzenie do metafizyki.md",
-    "Stan prac – metafizyka (1).md",
-    "Aktualnie opracowywane.md",
-    "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
-    "03 Atomy/Realizm.md",
-    "03 Atomy/Arystotelizm.md",
-    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
     "nazwy_notatek.txt",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
