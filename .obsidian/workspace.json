@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "Arystotelizm"
             }
+          },
+          {
+            "id": "56e5f6c189600e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Atomy/Neoarystotelizm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Neoarystotelizm"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -252,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Arystotelizm.md",
+                "file": "03 Atomy/Neoarystotelizm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,10 +402,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7aa5e51b8bb8fe0",
+  "active": "56e5f6c189600e96",
   "lastOpenFiles": [
-    "05 Osoby/Jan Filopon.md",
     "03 Atomy/Arystotelizm.md",
+    "05 Osoby/Jan Filopon.md",
     "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
     "03 Atomy/Platonizm (stanowisko).md",
     "03 Atomy/Platonizm (tradycja).md",

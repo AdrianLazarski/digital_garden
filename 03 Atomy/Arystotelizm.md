@@ -43,6 +43,10 @@ Poszczególne etapy różnią się bardzo, ale większość arystotelików przyj
 - Arystotelizm renesansowy – szkoła padewska ([[Pietro Pomponazzi]], Jacopo Zabarella) oraz [[Druga scholastyka]] ([[Piotr da Fonseca]], [[Francisco Suárez]]).
 - [[Neotomizm]] (od 1879 r.) – odnowienie arystotelizmu w wersji tomistycznej.
 - [[Neoarystotelizm]] (od końca XX w.) – [[Edward Jonathan Lowe]], [[Kit Fine]], [[David Oderberg]], [[Robert Koons]], [[Edward Feser]], [[Kathrin Koslicki]], [[Michael Thompson]]: esencjalizm, dyspozycje, współczesne wersje hylemorfizmu.
+- [[Neoarystotelizm]] (od drugiej połowy XX w.):
+    - w etyce od 1958 r. – [[Elizabeth Anscombe]], Peter Geach, Philippa Foot, Alasdair MacIntyre (zob. [[Etyka cnót]]);
+    - w metafizyce od lat 70. – Anscombe, [[Edward Jonathan Lowe]], [[Kit Fine]], [[David Oderberg]], [[Robert Koons]], [[Edward Feser]], [[Kathrin Koslicki]], [[Michael Thompson]]: esencjalizm, dyspozycje, współczesne wersje hylemorfizmu.
+- [[Obiektywizm]] – [[Ayn Rand]]: deklaratywnie arystotelesowski (prawo tożsamości, prymat istnienia nad świadomością), ale z istotną różnicą: istota jest dla Rand kategorią epistemologiczną, a nie metafizyczną.
 
 ## Spory i krytyka
 
