@@ -64,7 +64,7 @@ modified date: 2026-08-11 22:23
 [[Grzegorz z Nazjanzu]] 330-390 r.
 [[Grzegorz z Nyssy]] 335-395 r.
 [[Proklos]] 412-485 r.
-[[Jan Filipon]] 490-580 r.
+[[Jan Filopon]] 490-580 r.
 
 [[Pseudo-Dionizy Areopagita]] V/VI w. r.
 

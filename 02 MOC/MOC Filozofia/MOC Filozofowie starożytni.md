@@ -120,7 +120,7 @@ $\leftarrow$ [[MOC Filozofia starożytna]]
 **V/VI w.**
 [[Boecjusz]] 480-525
 [[Kasjodor]] 485-580
-[[Jan Filipon]] 490-580
+[[Jan Filopon]] 490-580
 [[Pseudo-Dionizy Areopagita]]
 
 # Alfabetycznie
@@ -158,7 +158,7 @@ $\leftarrow$ [[MOC Filozofia starożytna]]
 [[Hippodamus z Miletu]] 498-408
 [[Hippon z Samos]]
 [[Jamblich]] 264-339
-[[Jan Filipon]] 490-580
+[[Jan Filopon]] 490-580
 [[Karneades]] 214-129
 [[Kallikles]]
 [[Kasjodor]] 485-580

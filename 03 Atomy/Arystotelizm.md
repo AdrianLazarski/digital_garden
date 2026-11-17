@@ -7,15 +7,6 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-11-17T17:01
 ---
-> [!note] Definicja 
-> Tradycja filozoficzna wywodząca się od [[Arystoteles|Arystotelesa]], trwająca od założenia Likejonu (ok. 335 r. p.n.e.) po współczesny neoarystotelizm, oparta na przekonaniu, że rzeczywistość tworzą jednostkowe substancje, a ich formy i natury istnieją w samych rzeczach, nie w odrębnym świecie idei.
-
-> [!note] Definicja 
-> Tradycja filozoficzna wywodząca się od [[Arystoteles|Arystotelesa]], trwająca od założenia Likejonu (ok. 335 r. p.n.e.) do dziś i obejmująca logikę, filozofię przyrody, metafizykę, psychologię, etykę i politykę. Jej rdzeniem metafizycznym jest przekonanie, że rzeczywistość tworzą jednostkowe substancje, a ich formy i natury istnieją w samych rzeczach, nie w odrębnym świecie idei.
-
-- Ta notatka opisuje przede wszystkim arystotelizm w metafizyce. W etyce tradycję kontynuuje [[Etyka cnót|etyka cnót]] (Anscombe, Foot, MacIntyre, Hursthouse), a jej centralną teorią jest [[Eudajmonizm|eudajmonizm]].
-- Uwaga na „neoarystotelizm”: ta sama nazwa oznacza dwa niezależne ruchy – metafizyczny (Lowe, Fine, Koons) i etyczny (od artykułu Anscombe „Modern Moral Philosophy”, 1958). Łączy je odwołanie do pojęcia natury, np. u Michaela Thompsona.
-
 
 > [!note] Definicja 
 > Tradycja filozoficzna wywodząca się od [[Arystoteles|Arystotelesa]], trwająca od założenia Likejonu (ok. 335 r. p.n.e.) do dziś – w ciągłej linii szkolnej przez scholastykę i neotomizm, niezależnie od nich przez XIX-wieczne odnowienie studiów nad Arystotelesem, a od drugiej połowy XX w. także jako [[Neoarystotelizm|neoarystotelizm]] – i obejmująca logikę, filozofię przyrody, metafizykę, psychologię, etykę i politykę. Jej rdzeniem metafizycznym jest przekonanie, że rzeczywistość tworzą jednostkowe substancje, a ich formy i natury istnieją w samych rzeczach, nie w odrębnym świecie idei.
@@ -26,7 +17,7 @@ modified date: 2026-11-17T17:01
 
 Poszczególne etapy różnią się bardzo, ale większość arystotelików przyjmuje:
 
-- Pierwszeństwo jednostkowej [[Substancja|substancji]]: istnieje przede wszystkim ten oto człowiek, ten oto koń ([[Arystoteles, Kategorie|Kategorie]] 5), a wszystko inne istnieje w substancji albo jest o niej orzekane.
+- Pierwszeństwo jednostkowej [[Substancja|substancji]]: istnieje przede wszystkim ten oto człowiek, ten oto koń ([[Arystoteles, Kategorie|Kategorie]], rozdz. 5, 2a11–2b6), a wszystko inne istnieje w substancji albo jest o niej orzekane.
 - [[Hylemorfizm]]: substancje cielesne są złożone z [[Materia|materii]] i [[Forma|formy]].
 - [[Teoria aktu i możności]]: zmiana to przejście od [[Możność|możności]] do [[Akt|aktu]]. To odpowiedź na [[Problem zmiany]], która omija dylemat eleatów: coś nie powstaje ani z bytu, ani z niebytu, tylko z bytu w możności.
 - [[Teoria czterech przyczyn]]: materialna, formalna, sprawcza i celowa.
@@ -42,7 +33,7 @@ Poszczególne etapy różnią się bardzo, ale większość arystotelików przyj
 - Szkoła perypatetycka – [[Teofrast z Eresos]], [[Straton z Lampsakos]]: rozwój badań przyrodniczych, u Stratona odejście od teleologii w stronę naturalizmu.
 - Edycja pism – Andronikos z Rodos (I w. p.n.e.) porządkuje pisma szkolne Arystotelesa; od niej pochodzi nazwa „metafizyka”.
 - Komentatorzy starożytni – [[Aleksander z Afrodyzji]], [[Temistiusz]], neoplatońscy komentatorzy ([[Porfiriusz]], [[Ammoniusz Hermeiou]], [[Symplicjusz]]), którzy uważali naukę Arystotelesa za wstęp do Platona. [[Jan Filopon]] krytykuje tezę o wieczności świata.
-- Przekazanie na łaciński Zachód we wczesnym średniowieczu – [[Anicjusz Manliusz Sewerynus Boecjusz|Boecjusz]]: przekłady i komentarze do pism logicznych.
+- Przekazanie na łaciński Zachód we wczesnym średniowieczu – [[Boecjusz]]: przekłady i komentarze do pism logicznych.
 - [[Falsafa]] – [[Al-Kindi]], [[Al-Farabi]] („drugi nauczyciel”), [[Awicenna]], [[Awerroes]] („Komentator”).
 - [[Arystotelizm żydowski]] – [[Mojżesz Majmonides]].
 - Recepcja łacińska XII–XIII w. – przekłady z arabskiego i greckiego (m.in. Wilhelm z Moerbeke). Zakazy nauczania filozofii przyrody Arystotelesa w Paryżu (1210, 1215), a w 1255 r. jego pisma stają się podstawą programu wydziału sztuk.
