@@ -92,7 +92,6 @@ Pluraliści: [[Empedokles]], [[Anaksagoras]] (nie do końca prawdziwa szkoła, a
 [[Szkoła lubelska]]
 [[Tomizm transcendentalny]]
 [[Tomizm konsekwentny]]
-[[Metafizyka klasyczna]]
 [[Filozofia języka potocznego]]*
 [[Metafizyka deskryptywna]]
 [[Naturalizm quine'owski]]

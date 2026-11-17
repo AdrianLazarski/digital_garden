@@ -8,8 +8,11 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-31 20:51
 ---
+> [!note] Definicja
+> Dział filozofii badający byt jako byt – jego najogólniejsze własności, strukturę, sposoby istnienia i ostateczne racje. Zakres i przedmiot metafizyki są sporne – zob. [[Problem przedmiotu metafizyki]].
 
 - Nazwa ta pochodzi od Andronikosa z Rodos, dziesiątego lub jedenastego scholarchy Likejonu. Sam [[Arystoteles]] mówił o filozofii pierwszej lub o teologii. Nazwa ta powstała raczej po prostu ze względów redakcyjnych.
+	- Tak głosi tradycja; część badaczy (H. Reiner) uważa nazwę za starszą od wydania Andronikosa (do weryfikacji).
 
 
 
@@ -98,16 +101,11 @@ Hegel i materialiści dialektyczni przeciwstawiają metafizyce dialektykę. Ta p
 ## Historia metafizyki
 
 - U [[Arystoteles|Arystotelesa]] i scholastyków metafizyka to nauka o tym, co jest i o ostatecznych zasadach istnienia konkretnych bytów.
-- [[Christian Wolff]] wprowadził termin ontologia i dla niego dotyczyła ona wszystkiego co możliwe, albo inaczej: wszystkiego co niesprzeczne. Podobnie potem rozumieli tę naukę Claus, brentaniści, Meinong, Husserl.
 - Dla Kanta metafizyka to nauka o tym, co poza zjawiskami, czyli o tym co wykracza poza zasięg doświadczenia i jest nieuzasadnione.
-- Ingarden będzie używał zarówno pojęcia metafizyka, jak i ontologia. Pierwsza będzie dotyczyła rzeczy rzeczywiście istniejących, a ontologia, po wolffiańsku, rzeczy możliwych.
-- Nicolai Hartman też będzie przeciwstawiał metafizykę i ontologię, ale pierwsza to dla niego zbiór problemów dotyczących całokształtu bytu, a druga to nauka o racjonalnych elementach lub stronach bytu.
-- Neoscholastycy zaczną używać tych pojęć wymiennie i tak zostanie do dziś.
+- Spór o nazwy „metafizyka” i „ontologia” (Wolff, Ingarden, Hartmann, neoscholastycy, Ajdukiewicz i Quine) – zob. wyżej „Metafizyka czy ontologia?”; przeciwstawienie metafizyki i dialektyki (Hegel, materialiści dialektyczni) – zob. „A może dialektyka?”.
 - Mając za swojego praszczura Leibniza, pojawiają się też filozofowie, traktujący metafizykę jako naukę formalną i na możliwość odnoszenia teorii logicznych i matematycznych do rzeczywistości. W mniej lub bardziej luźnym związku z tym sposobem myślenia będą Frege, Russell, Wittgenstein, Carnap, Church, czy Quine, nawet jak niektórzy będą się krzywić na słowo "metafizyka".
 - Również teoriami formalnymi, a zarazem interpretowanymi przedmiotowo, a więc odnoszonymi do tego, co jest, będą teoria identyczności Scholza, ontologia i mereologia Leśniewskiego, geometria jakościowa Bornsteina, teoria indywiduów Goodmana, czy teoria przedmiotu Stanisława Kaczorowskiego.
-- Ajdukiewicz i Quine nazywają ontologią dział metafizyki, ustalający podstawową aparaturę pojęciową.
 - Curt John Ducasse: stanowisko ontologiczne to nie twierdzenie, któremu przysługuje prawda lub fałsz, a zainteresowanie dominujące w danej sytuacji.
-- Hegel i materialiści dialektyczni przeciwstawiają metafizyce dialektykę. Ta pierwsza ujmuje rzeczywistość jako zbiór odrębnych od siebie i niezmiennych bytów, a ta druga zwraca uwagę na wzajemne relacje między bytami.
 
 ## Ujęcie Ajdukiewicza
 

@@ -37,3 +37,6 @@ Potem ich zwolennicy nie tworzyli już oddzielnej grupy, ale wchodzili w skład 
 	- Stilpon - łącznik ze sceptykami i stoikami.
 ???????
 
+## Znaczenie
+
+- Zdaniem części tomistów (szkoła lubelska) [[Parmenides z Elei]] zapoczątkował metafizykę jako naukę o bycie – zob. [[Metafizyka klasyczna]], [[Problem przedmiotu metafizyki]].

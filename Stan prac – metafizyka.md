@@ -4,12 +4,12 @@
 
 Każda partia to osobna rozmowa w projekcie „Zettelkasten”. Po zakończeniu partii aktualizujemy tę notatkę: co zrobione, jakie decyzje zapadły, co zostało otwarte.
 
-**Następna partia: podział notatki „Metafizyka klasyczna” (reszta partii 1); potem 1a – Krąpiec, Stróżewski, Rosiak.**
+**Następna partia: 1a – Krąpiec, Stróżewski, Rosiak.**
 
 1. Porządki w strukturze
 	- ~~naniesienie zmian w listach~~ – zrobione 17.11.2026;
 	- ~~poprawki w MOC Metafizycy~~ – zrobione 17.11.2026 (nawias przy Empedoklesie, linki listy alfabetycznej zgodne z chronologiczną, 14 osób przepiętych na istniejące notatki);
-	- podział notatki „Metafizyka klasyczna” i uporządkowanie notatki [[Metafizyka]] – do zrobienia.
+	- ~~podział notatki „Metafizyka klasyczna” i uporządkowanie notatki [[Metafizyka]]~~ – zrobione 17.11.2026.
 1a. Notatki z lektury (przed dalszymi partiami): z każdej notatki z lektury biorę część metafizyczną, robię plan ekstrakcji (pojęcia i stanowiska → istniejąca notatka, nowa notatka albo sekcja do dopisania), a po akceptacji tworzę notatki atomowe z sekcją „Źródła”. Części dotyczące innych działów oznaczam na później. Jedna lub dwie książki na rozmowę. Kolejność:
 	- [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]] (część „Metafizyka”) – punkty 1–4 zrobione 17.11.2026; na później: Teoria monad, Teoria wiązek, Problem zła (optymizm i pesymizm), Problem ruchu, Materializm dialektyczny, Immaterializm, zasada sprzeczności (logika), etyka metafizyczna i niezależna (etyka);
 	- [[Krąpiec Mieczysław Albert OP, Metafizyka]], [[Stróżewski Władysław, Ontologia]], [[Rosiak Marek, Filozofia pierwsza, metafizyka, ontologia]];
@@ -51,14 +51,17 @@ Uwaga: [[Etyka cnót]] i [[Eudajmonizm]] należą do działu etyki; tu są tylko
 	- holizmy to osobne notatki z określnikiem: [[Holizm ontologiczny]] (metafizyka, teraz), holizm epistemologiczny/metodologiczny i semantyczny – przy właściwych działach;
 	- „realizm metafizyczny” u Ajdukiewicza (ciała istnieją dosłownie) ≠ [[Realizm metafizyczny]] Putnama; „teoria identyczności” Spinozy u Ajdukiewicza ≠ [[Teoria identyczności psychofizycznej]];
 	- nazwy notatek Fichtego i Schlicka poprawione przez użytkownika ([[Johann Gottlieb Fichte]], [[Moritz Schlick]]).
-- Notatka „Metafizyka klasyczna” – proponowany podział: definicja dyscypliny i historia nazwy → [[Metafizyka]]; trzy znaczenia u Tomasza → [[Problem przedmiotu metafizyki]]; uwaga o Parmenidesie → [[Szkoła eleacka]]; wersja egzystencjalna → [[Tomizm egzystencjalny]]; analogiczność języka → [[Teoria analogii bytu]]; abstrakcja i separacja → notatki o metodach.
+- Podział „Metafizyki klasycznej” (17.11.2026): notatka przebudowana na klasyfikację szkoły lubelskiej (definicja, cechy poznania, odmiany, język, nurty) i usunięta z MOC Nurty metafizyki; nowe: [[Tomizm egzystencjalny]] (przeniesiony blok z Tomizmu transcendentalnego), [[Abstrakcja (metoda metafizyki)]]; przepisany [[Tomizm transcendentalny]]; dopisane sekcje w: [[Teoria analogii bytu]], [[Problem przedmiotu metafizyki]], [[Szkoła eleacka]]; [[Metafizyka]] – definicja, usunięte powtórzenia, uwaga o Reinerze.
 - Sprawy otwarte:
 	- [[Okazjonalizm]], [[Reizm]], [[Atomizm logiczny]] są i w MOC Nurty, i w MOC Teorie – rozstrzygnąć w partiach 4 i 6 (dwie notatki?);
 	- do weryfikacji: czy Ajdukiewicz opisuje idealizm transcendentalny w wersji Rickerta; czy „eksperymentujący przyrodnik” w części o witalizmie to u Ajdukiewicza Driesch (że Driesch używał terminu „entelechia” – potwierdzone); miejsce u Wolffa, gdzie pada „monistae”;
 	- [[Fizykalizm]] – obecna treść notatki opisuje formalizm w filozofii matematyki (Hilbert), a nie fizykalizm ontologiczny, do którego linkują nowe notatki (decyzja użytkownika);
 	- [[Wolność]] ma tag filozofia/polityki i treść polityczną; [[Problem determinizmu i wolnej woli]] linkuje do niej tylko w „Zob. też”;
 	- [[Entelechia]], [[Emergentyzm]], [[Kompatybilizm]], [[Okazjonalizm]], [[Harmonia przedustanowiona]] i in. – linki z nowych notatek bez notatek docelowych (do partii 8);
-	- w [[Metafizyka]] zdanie „Ajdukiewicz i Quine nazywają ontologią…” występuje dwa razy;
+	- przy tworzeniu [[Szkoła lubelska]] (partia 3/6) dodać link do [[Metafizyka klasyczna]]; brak notatek: [[Tomizm]], [[Szkoła lubelska]], [[Tomizm konsekwentny]];
+	- „Metafizyka klasyczna”: brak źródła (może [[Krąpiec, Nagrania]]); „o proporcjonalnym znaczeniu” vs „o proporcjonalnym istnieniu” w [[Separacja]] – do ujednolicenia; czy szkoła lubelska zalicza tu tomizm transcendentalny (do weryfikacji);
+	- [[Problem analogii bytu]] jest pusta;
+	- do weryfikacji: datowanie nazwy „metafizyka” (Reiner).
 	- tag `filozofia/epistemologia` w [[Epifenomenalizm]] nie pasuje do nowej treści (decyzja użytkownika);
 	- do weryfikacji: atomizm u Hugona ze św. Wiktora; inspiracja atomizmem w teorii ciepła Grosseteste'a;
 	- brak ustalonych dzieł: Maryniarczyk, Kremer, Libelt, Baader, Liberatore, Zigliara, Jan z Głogowa;
