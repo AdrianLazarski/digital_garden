@@ -198,33 +198,9 @@
               "icon": "lucide-file",
               "title": "Neoarystotelizm"
             }
-          },
-          {
-            "id": "9f9fb7451204c7ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Atomy/Humeanizm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Humeanizm"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -300,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Humeanizm.md",
+                "file": "03 Atomy/Neoarystotelizm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -426,9 +402,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f9fb7451204c7ef",
+  "active": "56e5f6c189600e96",
   "lastOpenFiles": [
-    "03 Atomy/Humeanizm.md",
+    "03 Atomy/Metafizyka w duchu Hume'a.md",
     "03 Atomy/Neoarystotelizm.md",
     "03 Atomy/Arystotelizm.md",
     "05 Osoby/Jan Filopon.md",

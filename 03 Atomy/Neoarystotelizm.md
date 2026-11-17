@@ -74,7 +74,7 @@ modified date: 2026-07-31 23:08
 
 ## Przeciwnicy
 
-- [[Humeanizm]] ([[David Lewis|Lewis]]): nie ma koniecznych powiązań w przyrodzie, a prawa przyrody to tylko najlepsze podsumowanie regularności (por. [[Teoria najlepszego systemu]], [[Superweniencja humowska]]).
+- [[Metafizyka w duchu Hume'a]] ([[David Lewis|Lewis]]): nie ma koniecznych powiązań w przyrodzie, a prawa przyrody to tylko najlepsze podsumowanie regularności (por. [[Teoria najlepszego systemu]], [[Superweniencja humowska]]).
 - Quine'owska metaontologia: zadaniem ontologii jest tylko ustalić, co istnieje, a nie badać istoty.
 - [[Deflacjonizm metafizyczny]]: spory o istoty i ugruntowanie są w dużej mierze werbalne.
 

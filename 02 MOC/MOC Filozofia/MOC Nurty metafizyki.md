@@ -104,7 +104,7 @@ Pluraliści: [[Empedokles]], [[Anaksagoras]] (nie do końca prawdziwa szkoła, a
 ## Czasy najnowsze
 
 [[Metafizyka analityczna]]
-[[Humeanizm]]
+[[Metafizyka w duchu Hume'a]]
 [[Neoarystotelizm]]
 [[Metafizyka ugruntowania]]
 [[Deflacjonizm metafizyczny]]
