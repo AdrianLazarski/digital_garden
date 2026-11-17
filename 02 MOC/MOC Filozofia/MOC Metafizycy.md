@@ -66,7 +66,7 @@ modified date: 2026-11-15T14:03
 
 [[Kalcydiusz]]
 [[Augustyn z Hippony]]
-[[Anicjusz Manliusz Sewerynus Boecjusz]]
+[[Boecjusz]]
 [[Pseudo-Dionizy Areopagita]]
 [[Fredegizjusz z Tours]]
 [[Jan Szkot Eriugena]]
