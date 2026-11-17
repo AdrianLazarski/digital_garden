@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Metafizycy.md",
+                "file": "03 Atomy/Realizm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC Metafizycy"
+              "title": "Realizm"
             }
           },
           {
@@ -234,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eklek",
+                "query": "realizm",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -255,7 +255,8 @@
               "title": "Ulubione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -276,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 MOC/MOC Filozofia/MOC Metafizycy.md",
+                "file": "03 Atomy/Realizm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -404,12 +405,13 @@
   },
   "active": "359098ea38028652",
   "lastOpenFiles": [
-    "nazwy_notatek.txt",
-    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
-    "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
-    "03 Atomy/Realizm.md",
     "03 Atomy/Neoarystotelizm.md",
     "03 Atomy/Arystotelizm.md",
+    "03 Atomy/Realizm.md",
+    "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
+    "02 MOC/MOC Filozofia/MOC Metafizyka.md",
+    "02 MOC/MOC Filozofia/MOC Metafizycy.md",
+    "nazwy_notatek.txt",
     "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
     "03 Atomy/Metafizyka w duchu Hume'a.md",
     "05 Osoby/Jan Filopon.md",
