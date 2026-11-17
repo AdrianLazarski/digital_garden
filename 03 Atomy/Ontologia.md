@@ -30,5 +30,15 @@ Ontologie dzielą się ze względu na pojęcia pierwotne na:
 
 W. Strożewski, Ontologia, Kraków 2003, s. 19-21
 
+## Ujęcie Ajdukiewicza
+
+- Ajdukiewicz relacjonuje fenomenologiczne rozumienie ontologii: ontologią nazywa się wszelkie dociekania istoty rzeczy (rzeczy w ogóle, ciała, cechy, stosunku), poznawanej we „wglądzie w istotę” (Wesensschau). Zob. [[Fenomenologia]].
+- Wynikiem są definicje typu „ciało jest to to a to”. Nie są to definicje projektujące: zakładają, że terminy mają już w naszej mowie ustalone znaczenie, i to znaczenie analizują.
+- Według Ajdukiewicza ontologia zmierza do wyjaśnienia aparatu pojęciowego, którym operuje się w filozofii i w życiu codziennym. Jest dyscypliną pożyteczną, ale raczej pomocniczą.
+- W jego podziale ontologia to pierwsza z czterech grup zagadnień metafizyki (zob. [[Metafizyka#Ujęcie Ajdukiewicza]]).
+
+## Źródła
+
+[[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
 
 #filozofia/metafizyka #ontologia 

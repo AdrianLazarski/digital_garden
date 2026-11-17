@@ -39,7 +39,7 @@ Hegel i materialiści dialektyczni przeciwstawiają metafizyce dialektykę. Ta p
 		- [[Kartezjusz]]
 		- [[Baruch Spinoza]]
 		- [[Gottfried Leibniz]]
-		- [[Johan Gottlieb Fichte]]
+		- [[Johann Gottlieb Fichte]]
 		- [[Friedrich Schelling]]
 		- [[Georg Wilhelm Friedrich Hegel]]
 2. Teoria świata realnego, fizycznego i przestrzenno-czasowego (Ontologia, metafizyka)
@@ -87,7 +87,7 @@ Hegel i materialiści dialektyczni przeciwstawiają metafizyce dialektykę. Ta p
 		- [[George Berkeley]]
 		- [[David Hume]]
 		- [[Immanuel Kant]]
-		- [[Johan Gottlieb Fichte]]
+		- [[Johann Gottlieb Fichte]]
 		- [[Empiriokrytycyzm]]
 		- fenomenalizm danych zmysłowych [[Alfred Jules Ayer|Ayera]]
 		- [[Edmund Husserl]]
@@ -109,7 +109,20 @@ Hegel i materialiści dialektyczni przeciwstawiają metafizyce dialektykę. Ta p
 - Curt John Ducasse: stanowisko ontologiczne to nie twierdzenie, któremu przysługuje prawda lub fałsz, a zainteresowanie dominujące w danej sytuacji.
 - Hegel i materialiści dialektyczni przeciwstawiają metafizyce dialektykę. Ta pierwsza ujmuje rzeczywistość jako zbiór odrębnych od siebie i niezmiennych bytów, a ta druga zwraca uwagę na wzajemne relacje między bytami.
 
+## Ujęcie Ajdukiewicza
 
+- Ajdukiewicz dzieli problematykę metafizyczną na cztery grupy:
+	1. [[Ontologia]] – analiza podstawowego aparatu pojęciowego;
+	2. zagadnienia wyrastające z dociekań nad poznaniem – spór [[Realizm|realizmu]] z [[Idealizm|idealizmem]], [[Problem uniwersaliów]], [[Problem istnienia świata zewnętrznego]];
+	3. zagadnienia wyrastające z rozważań nad przyrodą – [[Problem psychofizyczny]], przyczynowość, determinizm, celowość;
+	4. zagadnienia wyrastające z religii i rozważań etycznych.
+- Według Ajdukiewicza „najpospoliciej” określa się metafizykę jako dyscyplinę dążącą do uzyskania poglądu na świat (zob. [[Światopogląd]]); sam termin „pogląd na świat” uważa za rozpowszechniony, ale mętny.
+- Zdaniem Ajdukiewicza metafizyka powstała, by znaleźć oparty na rozumowych rozważaniach fundament ocen moralnych i eudajmonicznych; oceny te w konkretnych wypadkach zależą od rozległości naszego horyzontu.
+	- Uwaga krytyczna: teza wątpliwa. U Arystotelesa filozofia pierwsza wyrasta z naturalnego pragnienia wiedzy i ze zdziwienia, a jej przedmiotem są pierwsze przyczyny i zasady (Metafizyka I 1, 980a21; I 2, 982b12–28), nie uzasadnianie ocen.
+
+## Źródła
+
+[[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
 
 ## Bibliografia
 

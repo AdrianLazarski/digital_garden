@@ -26,7 +26,7 @@ modified date: 2026-07-03 17:36
 [[Martin Buber]] 1878-1965
 [[Hans Kelsen]] 1881-1973
 [[Leonard Nelson]] 1882-1927
-[[Moritz Schlik]] 1882-1936
+[[Moritz Schlick]] 1882-1936
 [[Otto Neurath]] 1882-1945
 [[Nicolai Hartmann]] 1882-1950
 [[Jacques Maritain]] 1882-1973

@@ -71,7 +71,7 @@ modified date: 2026-07-06 14:22
 [[Joseph de Maistre]] 1753-1821
 [[Antoine Destutt de Tracy]] 1754-1836
 [[Henri de Saint-Simone]] 1760-1825
-[[Johan Gottlieb Fichte]] 1762-1814
+[[Johann Gottlieb Fichte]] 1762-1814
 [[Maine de Biran]] 1766-1824
 [[Friedrich Schleiermacher]] 1768-1834
 [[Georg Wilhelm Friedrich Hegel]] 1770-1831
@@ -202,7 +202,7 @@ modified date: 2026-07-06 14:22
 [[Jean d’Alembert]] 1717-1783
 [[Johann Friedrich Herbart]] 1776-1841
 [[Johann Gottfried Herder]] 1744-1803
-[[Johan Gottlieb Fichte]] 1762-1814
+[[Johann Gottlieb Fichte]] 1762-1814
 [[Johann Heinrich Lambert]] 1728-1777
 [[John Austin]] 1790-1859
 [[John Bramhall]] 1594-1663

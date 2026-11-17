@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Epifenomenalizm.md",
+                "file": "03 Atomy/Wola.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Epifenomenalizm"
+              "title": "Wola"
             }
           }
         ],
@@ -282,7 +282,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "epifenom",
+                "query": "fichte",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -325,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Epifenomenalizm.md",
+                "file": "03 Atomy/Wola.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -453,6 +453,19 @@
   },
   "active": "2ab2e1ad70f90c00",
   "lastOpenFiles": [
+    "05 Osoby/Johann Gottlieb Fichte.md",
+    "03 Atomy/Wola.md",
+    "05 Osoby/Moritz Schlick.md",
+    "03 Atomy/Epifenomenalizm.md",
+    "03 Atomy/Fenomenalizm.md",
+    "03 Atomy/Problem istnienia świata zewnętrznego.md",
+    "03 Atomy/Jakości pierwotne i wtórne.md",
+    "03 Atomy/Idealizm obiektywny.md",
+    "03 Atomy/Idealizm transcendentalny.md",
+    "03 Atomy/Idealizm subiektywny.md",
+    "03 Atomy/Konceptualizm.md",
+    "03 Atomy/Realizm skrajny.md",
+    "03 Atomy/Problem uniwersaliów.md",
     "03 Atomy/Eudajmonizm.md",
     "04 Źródła/Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii.md",
     "03 Atomy/Etyka cnót.md",
@@ -466,20 +479,7 @@
     "03 Atomy/Realizm.md",
     "03 Atomy/Arystotelizm.md",
     "02 MOC/MOC Filozofia/MOC Metafizyka.md",
-    "02 MOC/MOC Filozofia/MOC Teorie metafizyczne.md",
-    "02 MOC/MOC Filozofia/MOC Działy filozofii.md",
-    "02 MOC/MOC Filozofia.md",
-    "05 Osoby/Arystoteles.md",
-    "03 Atomy/Neoarystotelizm.md",
-    "02 MOC/MOC Filozofia/MOC Metafizycy.md",
     "nazwy_notatek.txt",
-    "03 Atomy/Metafizyka w duchu Hume'a.md",
-    "05 Osoby/Jan Filopon.md",
-    "03 Atomy/Platonizm (stanowisko).md",
-    "03 Atomy/Platonizm (tradycja).md",
-    "03 Atomy/Idealizm.md",
-    "02 MOC/MOC Filozofia/MOC Kategorie metafizyczne.md",
-    "02 MOC/MOC Fizyka.md",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
     "04 Źródła/Niepotwierdzony 6501.crdownload",

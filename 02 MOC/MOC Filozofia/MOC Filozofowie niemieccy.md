@@ -27,7 +27,7 @@ modified date: 2026-07-06 14:20
 [[Johann Heinrich Lambert]] 1728-1777 r.
 [[Georg Christoph Lichtenberg]] 1742-1799 r.
 [[Johann Gottfried Herder]] 1744-1803 r.
-[[Johan Gottlieb Fichte]] 1762-1814 r.
+[[Johann Gottlieb Fichte]] 1762-1814 r.
 [[Friedrich Schleiermacher]] 1768-1834 r.
 [[Georg Wilhelm Friedrich Hegel]] 1770-1831 r.
 [[Jakob Friedrich Fries]] 1773-1843 r.
@@ -55,7 +55,7 @@ modified date: 2026-07-06 14:20
 [[Ernst Cassirer]] 1874-1945 r.
 [[Martin Buber]] 1878-1965 r.
 [[Leonard Nelson]] 1882-1927 r.
-[[Moritz Schlik]] 1882-1936 r.
+[[Moritz Schlick]] 1882-1936 r.
 [[Nicolai Hartmann]] 1882-1950 r.
 [[Karl Jaspers]] 1883-1969 r.
 [[Alfred Baeumler]] 1887-1968 r.

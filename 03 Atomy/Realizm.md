@@ -63,3 +63,18 @@ Słowo „realizm” występuje w kilku sporach, a w każdym ma innego przeciwni
 - [[Szkoła lwowsko-warszawska]] – realizm Twardowskiego i [[Reizm|reizm]] Kotarbińskiego.
 - Najnowsze: [[Realizm spekulatywny]] i [[Nowy realizm]] (Ferraris, Gabriel).
     - Uwaga: „nowy realizm” to też nazwa nurtu amerykańskiego z 1912 r. – dwa niezwiązane ze sobą nurty.
+
+## Ujęcie Ajdukiewicza
+
+- Ajdukiewicz nazywa „realizmem metafizycznym” tezę, że ciała istnieją w dosłownym sensie, czyli jako substancje, a nie jako układy wrażeń czy konstrukcje umysłu. To realizm w sensie 1 z sekcji „Wieloznaczność terminu”.
+	- Uwaga terminologiczna: to co innego niż [[Realizm metafizyczny]] Putnama (sens 4).
+- Odmiany według Ajdukiewicza:
+	- realizm naiwny – przyrodzony, nietknięty żadnymi rozważaniami nad poznaniem;
+	- realizm krytyczny – po refleksji epistemologicznej i rozważeniu argumentów idealistów odpiera je i podtrzymuje tezę o dosłownym istnieniu tworów przyrody. Uznaje je za byty transsubiektywne, nietożsame z układami wrażeń.
+		- Realiści krytyczni uważają barwy, dźwięki, wonie itd. za subiektywną reakcję naszej organizacji psychofizycznej na bodźce z zewnątrz, czyli za jakości wtórne, w odróżnieniu od jakości pierwotnych, które rzeczywiście przysługują ciałom (zob. [[Jakości pierwotne i wtórne]]).
+		- Według realistów krytycznych prawdziwy jest nie obraz świata narzucający się zmysłom, lecz ten, który wyłania się z badań fizyki.
+- Realizm godzi się zarówno z [[Materializm|materializmem]], jak i z [[Dualizm substancjalny|dualizmem]]: pełnię bytu można przyznać także substancjom psychicznym. Według Ajdukiewicza oba te stanowiska „stoją na gruncie realizmu”.
+
+## Źródła
+
+[[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]

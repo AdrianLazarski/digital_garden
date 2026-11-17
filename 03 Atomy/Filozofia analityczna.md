@@ -48,7 +48,7 @@ modified date: 2026-07-31 22:50
 ### Tradycje w obrębie filozofii analitycznej:
 
 1. [[Koło wiedeńskie]]; najwcześniejszy nurt; [[Neopozytywizm]]
-	1. [[Moritz Schlik]]
+	1. [[Moritz Schlick]]
 2. Nurt z Cambridge: nurt formalny
 	1. [[Ludwig Wittgenstein]], 
 	2. [[George Edward Moore]], 

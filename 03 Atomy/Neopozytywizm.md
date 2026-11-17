@@ -22,7 +22,7 @@ modified date: 2026-07-31 23:09
 
 ## Przedstawiciele:
 
-[[Moritz Schlik]] 1882 -1936
+[[Moritz Schlick]] 1882 -1936
 [[Otto Neurath]] 1882 -1945
 [[Rudolf Carnap]] 1891 -1970 
 [[Herbert Feigl]] 1902 -1988

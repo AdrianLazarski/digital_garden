@@ -70,7 +70,7 @@ Manifest koła:
 ## Przedstawiciele koła
 
 [[Hans Hahn]] 1879-1934
-[[Moritz Schlik]] 1882-1936
+[[Moritz Schlick]] 1882-1936
 [[Otto Neurath]] 1882-1945
 [[Rudolf Carnap]] 1891-1970
 [[Herbert Feigl]] 1902-1988

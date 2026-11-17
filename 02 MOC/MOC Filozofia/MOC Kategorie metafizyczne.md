@@ -40,6 +40,7 @@ modified date: 2026-11-15T15:06
 [[Indywiduum]]
 [[Istnienie]]
 [[Istota]]
+[[Jakości pierwotne i wtórne]]
 [[Jakość]]
 [[Jedno]]
 [[Jedność]]

@@ -69,3 +69,18 @@ Najogólniej idealizm uważa, że przedmiotem filozofii są idee. – dr Płotka
   
  
   
+
+## Ujęcie Ajdukiewicza
+
+- Ajdukiewicz traktuje idealizm metafizyczny jako wniosek z idealizmu epistemologicznego. Rozróżnia dwie postaci tego ostatniego:
+	1. idealizm immanentny – umysł może poznawać tylko własne przeżycia (zob. [[Idealizm subiektywny]]);
+	2. idealizm transcendentalny – umysł może poznawać tylko własne konstrukcje (zob. [[Idealizm transcendentalny]]).
+- Teza metafizyczna idealizmu w jego ujęciu: ciała nie istnieją w sensie dosłownym, w jakim istnienie przypisuje się substancjom. Zdanie „stół istnieje” ma u idealisty tylko sens przenośny.
+- Drugi podział: idealizm subiektywny uznaje świat dany w doświadczeniu za korelat indywidualnej świadomości (duszy), a [[Idealizm obiektywny]] – za korelat „ducha obiektywnego”.
+	- Uwaga: podziały Ajdukiewicza nie pokrywają się z podziałem z sekcji „Rodzaje idealizmu”. U niego „idealizm obiektywny” to odmiana idealizmu transcendentalnego, a nie stanowisko Platona czy Schellinga.
+- Idealizm subiektywny, zwłaszcza immanentny, łączy się według Ajdukiewicza ze spirytualizmem: samoistnie istnieją tylko podmioty świadome (spirytualizm idealistyczny).
+- Przeciwnikiem idealizmu jest tu „realizm metafizyczny” w sensie Ajdukiewicza – zob. [[Realizm#Ujęcie Ajdukiewicza]] i [[Problem istnienia świata zewnętrznego]].
+
+## Źródła
+
+[[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]

@@ -38,4 +38,10 @@ Ogółem o obrazach świata:
 G. Bugajak, A. Latawiec, Nauka, filozofia i religia a obraz świata, [w:] G. Bugajak, A. Latawiec, K. Kloskowski, Filozoficzne i naukowo-przyrodnicze elementy obrazu świata 2, Warszawa 2000, s. 192-196, 202.
 A. B. Stępień, Wprowadzenie do filozofii, Lublin 2001 , s. 39-44.
 
+## Ujęcie Ajdukiewicza
 
+- Według Ajdukiewicza metafizykę określa się najpospoliciej jako dyscyplinę dążącą do uzyskania poglądu na świat. Termin „pogląd na świat” jest bardzo rozpowszechniony, ale jego znaczenie „raczej się tylko mętnie wyczuwa”. Zob. [[Metafizyka#Ujęcie Ajdukiewicza]].
+
+## Źródła
+
+[[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]

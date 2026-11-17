@@ -86,7 +86,7 @@ Człowiek winien iść za sumieniem pewnym zawsze, nawet wtedy, kiedy znajduje s
 	- sumienie jest wewnątrz świadomości
 	- świadomość stawia człowieka przed obowiązkiem i wyborem
 	- sumienie to władza sądzenia i praktyczny rozum.
-- [[Johan Gottlieb Fichte]]
+- [[Johann Gottlieb Fichte]]
 	- Sumienie to emocjonalna świadomość obowiązku oraz miara słuszności konkretnych czynów.
 - [[Georg Wilhelm Friedrich Hegel]]
 	- sumienie związane jest z chceniem; bez racji rozumowych

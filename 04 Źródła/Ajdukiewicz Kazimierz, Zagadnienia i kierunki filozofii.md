@@ -282,6 +282,22 @@ Niestety tu Ajdukiewicz pisze niejasno, jakby podawał dwa rozumienia przedmiotu
 - zarówno nasze oceny eudaimoniczne, jak i moralne zależą w konkretnych wypadkach od rozległości naszego horyzontu.
 - <span style="background:#ff4d4f">Pisze, że metafizyka powstała dla znalezienia "fundamentu ocen moralnych i eudajmonicznych; opartego na rozumowych rozważaniach". Bzdura.</span>
 
+## Notatki atomowe – część „Metafizyka”
 
+[[Metafizyka]]
+[[Światopogląd]]
+[[Ontologia]]
+[[Problem uniwersaliów]]
+[[Realizm skrajny]]
+[[Konceptualizm]]
+[[Nominalizm]]
+[[Idealizm]]
+[[Idealizm subiektywny]]
+[[Idealizm transcendentalny]]
+[[Idealizm obiektywny]]
+[[Realizm]]
+[[Jakości pierwotne i wtórne]]
+[[Problem istnienia świata zewnętrznego]]
+[[Epifenomenalizm]]
 
 #filozofia #filozofia/współczesna #filozofia/polska 

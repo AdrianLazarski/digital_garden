@@ -38,7 +38,7 @@ Zmiana paradygmatu w XV wieku:
 [[Immanuel Kant]]
 	- Wola to podmiot transcendentalny, umiejscowiony w sferze noumenalnej.
 	- Wolność to konieczny warunek poznania. Umożliwia ona realizację prawa moralnego tj. umożliwia realizację idei, które na gruncie teorii byłyby antynomiczne.
-[[Johan Gottlieb Fichte]]
+[[Johann Gottlieb Fichte]]
 	- Za Kantem utożsamia wolę z podmiotowością.
 	- Wolność to samokreślenie.
 [[Friedrich Schelling]]

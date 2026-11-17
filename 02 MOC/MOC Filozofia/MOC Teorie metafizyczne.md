@@ -9,6 +9,7 @@ modified date: 2026-11-15T15:08
 ---
 
 [[A-teoria czasu]]
+[[Abstrakcja (metoda metafizyki)]]
 [[Aktualizm]]
 [[Animalizm]]
 [[Antyesencjalizm]]
@@ -97,10 +98,10 @@ modified date: 2026-11-15T15:08
 [[Reizm]]
 [[Relacjonizm (czasoprzestrzeń)]]
 [[Relatywizm ontologiczny]]
-[[Separacja (Krąpiec)]]
+[[Separacja]]
 [[Substancjalizm]]
 [[Substantywalizm (czasoprzestrzeń)]]
-[[Superweniencja humeańska]]
+[[Superweniencja humowska]]
 [[Teoria aktu i możności]]
 [[Teoria analogii bytu]]
 [[Teoria ciągłości psychologicznej]]

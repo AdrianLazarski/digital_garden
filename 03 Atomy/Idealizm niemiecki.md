@@ -22,7 +22,7 @@ modified date: 2026-07-31 23:04
 ## Przedstawiciele:
 
 - [[Immanuel Kant]]
-- [[Johan Gottlieb Fichte]] 1762-1814
+- [[Johann Gottlieb Fichte]] 1762-1814
 - [[Georg Wilhelm Friedrich Hegel]] 1770-1831
 - [[Friedrich Schelling]] 1775 - 1854
 
