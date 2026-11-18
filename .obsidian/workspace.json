@@ -222,9 +222,33 @@
               "icon": "lucide-file",
               "title": "Realizm skrajny"
             }
+          },
+          {
+            "id": "f770e437c4f42acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gotowanie/Pranie ciemne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pranie ciemne"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -300,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Realizm skrajny.md",
+                "file": "Gotowanie/Pranie ciemne.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -426,8 +450,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f843156100de9ab",
+  "active": "f770e437c4f42acb",
   "lastOpenFiles": [
+    "03 Atomy/Realizm skrajny.md",
     "03 Atomy/Abstrakcja (metoda metafizyki).md",
     "03 Atomy/Tomizm egzystencjalny.md",
     "03 Atomy/Holizm ontologiczny.md",
@@ -453,7 +478,6 @@
     "03 Atomy/Epifenomenalizm.md",
     "03 Atomy/Fenomenalizm.md",
     "03 Atomy/Problem istnienia świata zewnętrznego.md",
-    "03 Atomy/Jakości pierwotne i wtórne.md",
     "nazwy_notatek.txt",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
