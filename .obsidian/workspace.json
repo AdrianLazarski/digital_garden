@@ -222,9 +222,33 @@
               "icon": "lucide-file",
               "title": "Realizm skrajny"
             }
+          },
+          {
+            "id": "72c85e3a53277837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Language lab/English grammar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "English grammar"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -300,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Realizm skrajny.md",
+                "file": "07 Language lab/English grammar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -426,10 +450,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f843156100de9ab",
+  "active": "72c85e3a53277837",
   "lastOpenFiles": [
-    "Gotowanie/Pranie ciemne.md",
     "03 Atomy/Realizm skrajny.md",
+    "Gotowanie/Pranie ciemne.md",
     "03 Atomy/Abstrakcja (metoda metafizyki).md",
     "03 Atomy/Tomizm egzystencjalny.md",
     "03 Atomy/Holizm ontologiczny.md",
