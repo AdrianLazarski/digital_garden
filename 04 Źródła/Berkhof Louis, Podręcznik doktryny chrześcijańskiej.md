@@ -552,7 +552,18 @@ Str. 98 Człowiek w przymierzu uczynków. Nie rozumiem zupełnie. Zaczyna się o
 
 ### 3.2.2 Grzech w życiu rasy ludzkiej
 
-
+- Pelaganie - nie ma związku między grzechem Adama a jego potomków.
+- Wcześni arminianie - człowiek odziedziczył po Adamie zepsucie, ale nie grzech
+- Późniejsi arminianie wesleyowscy - zepsucie obejmuje też winę. 
+- Trzy główne sposoby wyjaśniania związku między grzechem Adama a jego potomków.
+	1. Teoria realistyczna
+		- Bóg stworzył pierwotnie jedną, ogólną naturę ludzką, którą potem podzielił na tyle części, ile jest ludzi. 
+		- Adam posiadał pełnię tej natury, więc w wyniku jej skażenia wszystkie części dzielą winę i skażenie.
+		- Nie tłumaczy to czemu jesteśmy odpowiedzialni tylko za pierwszy grzech Adama, a nie za pozostałe też oraz czemu Chrystus nie był odpowiedzialny za grzech Adama, mimo dzielenia z nim natury.
+	2. Teoria bezpośredniego przypisania
+		- Adam był głową przymierza i przedstawicielem wszystkich swoich potomków. Dlatego wszyscy odpowiadają za jego grzech w charakterze tej głowy. Nie odpowiadają za to za kolejne grzechy, gdy przestał nią być.
+		- Chrystus ma rzekomo nie dzielić winy za grzech Adama, bo nie jest osobą wyłącznie ludzką.
+	3. Teoria pośredniego przypisania
 
 ## 3.3 Człowiek w przymierzy łaski
 
