@@ -576,8 +576,15 @@ Str. 98 Człowiek w przymierzu uczynków. Nie rozumiem zupełnie. Zaczyna się o
 			- Jan. 5:42, Rzym. 7:18-23, Rzym. 8:7, II Kor. 7:1, Ef. 4:18, II Tym. 3:2-4, tyt. 1:15, Hebr. 3:12
 			- Zaprzeczają mu pelagianie, socyanie i wcześni arminianie.
 		2. Całkowita niezdolność
-			- 
+			- Człowiek wciąż jest zdolny dokonywać dobra naturalnego, dobra publicznego oraz zewnętrznego dobra religijnego. Nadal może czynić rzeczy zasługujące na pochwałę bliźnich, a nawet do pewnego stopnia aprobatę Boga.
+			- Jednak w relacji do Boga te dobre czyny są skrajnie ułomne, bo nie motywuje ich miłość do Boga ani wzgląd na Bożą wolę, która mogłaby się ich domagać. 
+			- Ponadto człowiek nie może zamienić swojej naturalnej ciągoty do grzechu na miłość do Boga.
+			- Jan. 1:13, Jan. 3:5, Jan. 6:44, Jan. 8:34, Jan. 15:4-5, Rzym. 7:18-24, Rzym. 8:7-8, I Kor. 2:14, II Kor. 3:5, Ef. 2:1, Ef. 2:8-10, Hebr. 11:6
 
+- Grzech osobisty obejmuje czynności zewnętrzne oraz myśli i poruszenia, wynikające z grzechu pierworodnego. 
+- Grzechy niewybaczalne, po których przemiana serca nie jest możliwa i za które "modlić się nie trzeba" (Mat. 12:31-32, Mar. 3:28-30, Łuk. 12:10, Hebr. 4:4-6. Hebr. 10:26-27, I Jana 5:16).
+	- Znane powszechnie jako grzech/bluźnierstwo przeciw Duchowi Świętemu.
+	- Polega na świadomym i dobrowolnym odrzuceniu i obrażeniu prawdy, przeciw wszelkim dowodom oraz wewnętrznemu oświeceniu przez Ducha Świętego, 
 ## 3.3 Człowiek w przymierzy łaski
 
 
