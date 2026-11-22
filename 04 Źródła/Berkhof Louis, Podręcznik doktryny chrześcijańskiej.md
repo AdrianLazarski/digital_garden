@@ -568,8 +568,15 @@ Str. 98 Człowiek w przymierzu uczynków. Nie rozumiem zupełnie. Zaczyna się o
 		- Ludzie wywodzą od Adama wrodzone zepsucie i na tej podstawie uważani są za winnych. 
 
 - Grzech pierworodny składa się z dwóch części:
-	1. Wina pierworodna
-	2. Skażenie pierworodne
+	1. Wina pierworodna – stan, w którym się rodzimy, jest stanem dobrowolnego złamania prawa i jesteśmy z natury podlegli karze. Rzym. 5:12-19, Ef. 2:3
+	2. Skażenie pierworodne – dziedziczymy nie tylko winę, ale także skażenie. Brak nam pierwotnej prawości i mamy czynną skłonność do grzechu. Dwa punkty widzenia na to skażenie:
+		1. Całkowite zepsucie
+			- Nie oznacza to, że każdy człowiek jest maksymalnie zły, że nie może zrobić nic dobrego i że nie w nim żadnego poczucia podziwu dla prawdy, dobra i piękna.
+			- Po prostu nie ma w człowieku żadnego duchowego dobra tj. dobra w relacji do Boga.
+			- Jan. 5:42, Rzym. 7:18-23, Rzym. 8:7, II Kor. 7:1, Ef. 4:18, II Tym. 3:2-4, tyt. 1:15, Hebr. 3:12
+			- Zaprzeczają mu pelagianie, socyanie i wcześni arminianie.
+		2. Całkowita niezdolność
+			- 
 
 ## 3.3 Człowiek w przymierzy łaski
 
