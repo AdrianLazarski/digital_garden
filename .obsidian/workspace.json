@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "2e313a103979e7d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Odc. Arystoteles"
-            }
-          },
-          {
-            "id": "f0c0f3ee170e4396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Osoby/Arystoteles.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arystoteles"
-            }
-          },
-          {
             "id": "359098ea38028652",
             "type": "leaf",
             "state": {
@@ -199,8 +151,7 @@
               "title": "Realizm skrajny"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Osoby/Arystoteles.md",
+                "file": "Aktualnie opracowywane.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -402,14 +353,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0c0f3ee170e4396",
+  "active": "a3e60a0b1954b720",
   "lastOpenFiles": [
+    "03 Atomy/Realizm skrajny.md",
+    "04 Źródła/Stróżewski Władysław, Ontologia.md",
+    "Aktualnie opracowywane.md",
+    "03 Atomy/Realizm.md",
+    "05 Osoby/Arystoteles.md",
+    "Sofiofilia/Scenariusze/Odc. Platon.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
     "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-    "Aktualnie opracowywane.md",
-    "03 Atomy/Realizm skrajny.md",
     "Bez nazwy.canvas",
-    "03 Atomy/Realizm.md",
     "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
     "07 Language lab/English grammar.md",
     "Gotowanie/Pranie ciemne.md",
@@ -428,9 +382,6 @@
     "03 Atomy/Teoria dwóch aspektów.md",
     "03 Atomy/Paralelizm psychofizyczny.md",
     "03 Atomy/Interakcjonizm.md",
-    "03 Atomy/Materializm.md",
-    "03 Atomy/Dualizm substancjalny.md",
-    "03 Atomy/Problem psychofizyczny.md",
     "nazwy_notatek.txt",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
