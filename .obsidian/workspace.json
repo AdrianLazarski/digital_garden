@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "f175924c002305d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
-            }
-          },
-          {
             "id": "2e313a103979e7d3",
             "type": "leaf",
             "state": {
@@ -300,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "file": "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -426,8 +402,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f175924c002305d3",
+  "active": "2e313a103979e7d3",
   "lastOpenFiles": [
+    "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
     "Aktualnie opracowywane.md",
     "03 Atomy/Realizm skrajny.md",
     "Bez nazwy.canvas",
@@ -454,7 +431,6 @@
     "03 Atomy/Dualizm substancjalny.md",
     "03 Atomy/Problem psychofizyczny.md",
     "Stan prac – metafizyka.md",
-    "03 Atomy/Wola.md",
     "nazwy_notatek.txt",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
