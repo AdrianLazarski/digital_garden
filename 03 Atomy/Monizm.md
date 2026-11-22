@@ -31,6 +31,21 @@ modified date: 2026-07-31 20:52
 	1. „monizm właściwy”, zwany też teorią identyczności duszy i ciała, którego twórcą był [[Baruch Spinoza]] – zob. [[Teoria dwóch aspektów]] (nie mylić z [[Teoria identyczności psychofizycznej|teorią identyczności psychofizycznej]]);
 	2. „monizm immanentny”, którego twórcą ma być [[David Hume]]: ani dusze, ani ciała nie są substancjami, lecz układami elementów, które są lub mogłyby być treściami świadomości. Ma on odcień spirytualistyczny albo neutralny – zob. [[Monizm neutralny#Ujęcie Ajdukiewicza]], [[Spirytualizm]].
 
+## Ujęcie Nieznańskiego
+
+- Monizm ontologiczny: istnieje tylko jedna natura bytu, jeden rodzaj substancji w całej rzeczywistości. Podział Nieznańskiego:
+	- materialistyczny ([[Materializm#Ujęcie Nieznańskiego]]):
+		- pansomatyzm – materializm atomistyczny, mechanistyczny, dialektyczny, reizm;
+		- energetyzm;
+	- spirytualistyczny ([[Spirytualizm#Ujęcie Nieznańskiego]]):
+		- monadyzm;
+		- [[Panteizm]] – emanacyjny, ewolucjonistyczny, naturalistyczny, obiektywny;
+		- [[Panenteizm]];
+	- neutralny ([[Monizm neutralny#Ujęcie Nieznańskiego]]):
+		- idealizm ontologiczny, monizm immanentny, panpsychosomatyzm, [[Hylemorfizm|hylemorfizm]].
+- Obok monizmu: [[Dualizm substancjalny|dualizm ontologiczny]] i [[Pluralizm ontologiczny]].
+
 ## Źródła
 
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
+[[Nieznański Edward, Elementy filozofii teoretycznej]]

@@ -32,6 +32,16 @@
 - Odmiana realistyczna: istnieją tylko substancje duchowe, ale ciała rzeczywiście istnieją jako ich odmiana – np. Leibniz w „Monadologii” ([[Leibniz Gottfried Wilhelm, Monadologia]]).
 - Dualizm i materializm stoją na gruncie realizmu, spirytualizm zwykle łączy się z idealizmem.
 
+## Ujęcie Nieznańskiego
+
+- Monizm spirytualistyczny: istnieją tylko substancje duchowe; przedstawiciele według Nieznańskiego: [[Maine de Biran|de Biran]], [[Félix Ravaisson|Ravaisson]], Charles Renouvier.
+- Odmiany:
+	- monadyzm – istnieją proste, duchowe, niepodzielne substancje; niektóre prowadzą świadome życie psychiczne (dusze), pozostałe monady lub ich kompleksy to ciała o nieświadomym życiu psychicznym; [[Giordano Bruno|Bruno]], [[Gottfried Leibniz|Leibniz]] (zob. [[Teoria monad]]);
+	- [[Panteizm]] – świat to Bóg pozbawiony osobowości;
+	- [[Panenteizm]] – Bóg jest jedyną substancją, ale wykracza poza świat i zachowuje osobowość.
+- Zaliczenie panteizmu i panenteizmu do spirytualizmu to klasyfikacja Nieznańskiego; np. panteizm Spinozy zwykle uchodzi za stanowisko, w którym myślenie i rozciągłość są równorzędnymi atrybutami (zob. [[Teoria dwóch aspektów]]).
+
 ## Źródła
 
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
+[[Nieznański Edward, Elementy filozofii teoretycznej]]

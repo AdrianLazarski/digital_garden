@@ -28,8 +28,10 @@ Def. pozytywne:
 
 [[Tomasz z Akwinu]]:  "Materia - jest możnością istoty [bytu]. " S.Th III, 32, 4c. Materia jest możnością rozciągłą, dzięki czemu staje się podmiotem przypadłości fizycznych
 
+## Ujęcie Nieznańskiego
 
+- Definicja mereologiczna: x jest materią wtedy i tylko wtedy, gdy każda część x-a jest x-em. Każda część drewna jest drewnem, każda część wody jest wodą, każda część materii jest materią. Pies, choć materialny, nie jest materią, bo żadna część psa nie jest psem.
 
+## Źródła
 
-
-
+[[Nieznański Edward, Elementy filozofii teoretycznej]]

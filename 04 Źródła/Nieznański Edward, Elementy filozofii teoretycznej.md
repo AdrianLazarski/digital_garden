@@ -199,4 +199,24 @@ Bardzo fajna, krótka lecz treściwa, książka propedeutyczna, której wyróżn
 Niestety autor czasem rzuca hasłem typu "Transcendentalia to własności przestępne bytu" i nie wyjaśnia go. O ile ja rozumiem, że chodzi mu o to, że każdy byt je przejawia, tak początkujący filozof, jeśli nie zetknął się z tą tematyką wcześniej, nie będzie miał prawa, na gruncie samej tej książki, zrozumieć tej myśli. Podobnie Nieznański nie tłumaczy różnicy między panteizmem naturalistycznym a obiektywnym, czy panspychosomatyzmem i innymi monizmami neutralnymi. Mimo tych lekkich niedociągnięć i tak polecam, bo ta książka rzuciła mi trochę światła na kwestie, które i tak już znałem i rozumiałem.
 
 
+## Notatki atomowe – część „Metafizyka”
+
+[[Ontologia]]
+[[Monizm]]
+[[Materializm]]
+[[Spirytualizm]]
+[[Monizm neutralny]]
+[[Dualizm substancjalny]]
+[[Pluralizm ontologiczny]]
+[[Panteizm]]
+[[Panenteizm]]
+[[Hylemorfizm]]
+[[Idealizm]]
+[[Problem uniwersaliów]]
+[[Nominalizm]]
+[[Konceptualizm]]
+[[Forma]]
+[[Materia]]
+[[Teoria transcendentaliów]]
+
 #filozofia #filozofia/współczesna #filozofia/polska #recenzja 

@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "0cc262bd23b53801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Nieznański Edward, Elementy filozofii teoretycznej.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nieznański Edward, Elementy filozofii teoretycznej"
-            }
-          },
-          {
             "id": "359098ea38028652",
             "type": "leaf",
             "state": {
@@ -198,9 +174,33 @@
               "icon": "lucide-file",
               "title": "Sąd egzystencjalny"
             }
+          },
+          {
+            "id": "d7de062e9d88c76c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stan prac – metafizyka.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stan prac – metafizyka"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -255,8 +255,7 @@
               "title": "Ulubione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Źródła/Nieznański Edward, Elementy filozofii teoretycznej.md",
+                "file": "Stan prac – metafizyka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -403,9 +402,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cc262bd23b53801",
+  "active": "d7de062e9d88c76c",
   "lastOpenFiles": [
     "Aktualnie opracowywane.md",
+    "03 Atomy/Realizm.md",
+    "04 Źródła/Nieznański Edward, Elementy filozofii teoretycznej.md",
+    "03 Atomy/Pluralizm ontologiczny.md",
+    "03 Atomy/Panenteizm.md",
+    "03 Atomy/Panteizm.md",
     "03 Atomy/Sąd egzystencjalny.md",
     "Sofiofilia/Teorie prawdy.md",
     "03 Atomy/Realizm skrajny.md",
@@ -417,7 +421,6 @@
     "03 Atomy/Zasada racji dostatecznej.md",
     "03 Atomy/Problem pierwszych zasad.md",
     "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
-    "03 Atomy/Realizm.md",
     "05 Osoby/Arystoteles.md",
     "Sofiofilia/Scenariusze/Odc. Platon.md",
     "Sofiofilia/Scenariusze/Odc. Arystoteles.md",
@@ -428,10 +431,6 @@
     "Gotowanie/Pranie ciemne.md",
     "03 Atomy/Abstrakcja (metoda metafizyki).md",
     "03 Atomy/Tomizm egzystencjalny.md",
-    "03 Atomy/Holizm ontologiczny.md",
-    "03 Atomy/Witalizm.md",
-    "03 Atomy/Problem celowości.md",
-    "03 Atomy/Finalizm.md",
     "nazwy_notatek.txt",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",

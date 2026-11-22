@@ -31,6 +31,12 @@
 - Konceptualizm odmawia ideom (uniwersaliom) istnienia rzeczywistego, ale przyznaje im byt tylko pomyślany: nie ma uniwersaliów, istnieją tylko ich pojęcia.
 - W układzie Ajdukiewicza jest stanowiskiem pośrednim między realizmem pojęciowym a nominalizmem.
 
+## Ujęcie Nieznańskiego
+
+- Obok wyrazów ogólnych istnieją w procesie poznawczym pojęcia ogólne, ale nie oddają one adekwatnie rzeczywistości albo w ogóle jej nie odzwierciedlają.
+- Przedstawiciel według Nieznańskiego: [[Wilhelm Ockham|Ockham]]. Zob. tabelę w [[Problem uniwersaliów#Ujęcie Nieznańskiego]].
+
 ## Źródła
 
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
+[[Nieznański Edward, Elementy filozofii teoretycznej]]

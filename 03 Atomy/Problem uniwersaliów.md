@@ -32,7 +32,22 @@
 
 - Średniowieczna dyskusja: [[Spór o uniwersalia]].
 
+## Ujęcie Nieznańskiego
+
+- Nieznański omawia problem w filozofii poznania i zestawia stanowiska w tabeli (+ istnieje, − nie istnieje):
+
+| stanowisko | nazwa ogólna | ogólne pojęcie | aktualnie ogólna rzecz | potencjalnie ogólna rzecz |
+| --- | --- | --- | --- | --- |
+| [[Nominalizm]] | + | − | − | − |
+| [[Konceptualizm]] | + | + | − | − |
+| realizm pojęciowy przesadny | + | + | + | − |
+| realizm pojęciowy umiarkowany | + | + | − | + |
+
+- Realizm pojęciowy radykalny (przesadny) – istnieją, nawet poza myślą, pojęcia ogólne wiernie odtwarzające rzeczy co do ich cech istotnych i sposobu bytowania; [[Platon]], [[Edmund Husserl|Husserl]]. Zob. [[Realizm skrajny]].
+- Realizm pojęciowy umiarkowany – wyrazom ogólnym odpowiadają pojęcia ogólne, które odtwarzają cechy istotne, ale nie sposób bytowania rzeczy; ogólność istnieje w porządku myślowym, a w rzeczach – tylko potencjalnie. Zob. [[Realizm umiarkowany]].
+
 ## Źródła
 
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
 [[Krąpiec Mieczysław Albert OP, Metafizyka]]
+[[Nieznański Edward, Elementy filozofii teoretycznej]]

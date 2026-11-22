@@ -38,6 +38,11 @@ modified date: 2026-07-31 20:48
 - Arystoteles i Tomasz z Akwinu reprezentują umiarkowaną odmianę [[Dualizm substancjalny|dualizmu]], w odróżnieniu od radykalnej (Augustyn, Kartezjusz).
 - Między dualizmem umiarkowanym a materializmem umiarkowanym (np. dialektycznym) przeciwieństwo jest według Ajdukiewicza mniej jaskrawe niż między materializmem a dualizmem radykalnym.
 
+## Ujęcie Nieznańskiego
+
+- Nieznański zalicza hylemorfizm do [[Monizm neutralny|monizmu neutralnego]] – to jego nietypowa klasyfikacja; zob. [[Monizm neutralny#Ujęcie Nieznańskiego]].
+
 ## Źródła
 
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
+[[Nieznański Edward, Elementy filozofii teoretycznej]]

@@ -23,6 +23,12 @@ modified date: 2026-07-31 20:53
 	- Argument ten odpowiada krytyce idei abstrakcyjnych u [[George Berkeley|Berkeleya]] (Traktat o zasadach poznania ludzkiego, Wstęp).
 - To ujęcie opisuje nominalizm w wersji skrajnej, odnoszącej się do pojęć. Współczesne nominalizmy (np. [[Nominalizm predykatowy]], [[Nominalizm klasowy]], [[Nominalizm podobieństwa]]) zwykle nie przeczą istnieniu pojęć, tylko istnieniu powszechników poza umysłem.
 
+## Ujęcie Nieznańskiego
+
+- Powszechniki to tylko wyrazy ogólne; nie ma przedmiotów ogólnych, a wyrazy te nie mają odpowiedników w rzeczywistości. Rzeczywistość jest jednostkowa i uprawnione są tylko jednostkowe pojęcia i nazwy.
+- Przedstawiciele według Nieznańskiego: stoicy, średniowieczni nominaliści, [[George Berkeley|Berkeley]], Condillac, [[John Stuart Mill|Mill]], [[Franz Brentano|Brentano]], neopozytywiści, Leon Chwistek. Zob. tabelę w [[Problem uniwersaliów#Ujęcie Nieznańskiego]].
+
 ## Źródła
 
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
+[[Nieznański Edward, Elementy filozofii teoretycznej]]

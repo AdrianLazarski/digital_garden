@@ -44,9 +44,30 @@ W. Strożewski, Ontologia, Kraków 2003, s. 19-21
 - Marksizm odrzucił metafizykę, ale zachował ontologię jako najogólniejszą teorię rzeczywistości materialnej, ściśle związaną z naukami szczegółowymi, których wyniki uogólnia i syntetyzuje. Zob. [[Problem możliwości metafizyki]].
 - Tytuł Clauberga: w notatce z lektury „quo rectius”, w literaturze spotyka się „quae rectius” (do weryfikacji).
 
+## Ujęcie Nieznańskiego
+
+- Nieznański buduje ontologię atrybutywną (zob. wyżej podział na ontologie atrybutywne i mnogościowe):
+	- podmiot – wszystko, co podlega kwantyfikacji;
+	- atrybut – wszystko, co przysługuje podmiotowi;
+	- powszechny schemat poznawczy A(P) – atrybut od podmiotu;
+	- podmiot niesprzeczny jest przedmiotem.
+- Kategorie fundamentalne:
+	- „dziś” najchętniej przyjmowany według niego układ Wilhelma Wundta: rzeczy, cechy, stany, stosunki;
+	- inny podział: rzeczy (r), cechy (c), sytuacje (s), mnogości – zbiory dystrybutywne (m). Przy pomocy schematu A(P) tworzy się z nich kategorie złożone, np. c(r) – cecha rzeczy, m(c(r)) – zbiór cech rzeczy, c(s) – cecha sytuacji („szybko”), r(r) – rzecz rzeczy („głowa człowieka”), s(r,r,r) – „ktoś coś komuś wręcza”.
+- Zasada bytu – maksymalnie ogólny, obiektywny aspekt bytu.
+- Metoda par zasad: dwie zasady (I, II) przyjmowane (+) lub odrzucane (−) dają cztery stanowiska (+ +, + −, − +, − −). Przykłady metafizyczne:
+	- natura bytu (I duch, II materia): [[Dualizm substancjalny|dualizm]], [[Spirytualizm|spirytualizm]], [[Materializm|materializm]], [[Monizm neutralny|monizm neutralny]];
+	- komplementarność bytu (I Bóg, II świat): dualizm, [[Panteizm|panteizm]], ateizm, nihilizm;
+	- podmiot bytu (I podmiot in se, II podmiot ab alio): [[Agregat|agregat]], [[Substancja|substancja]], [[Przypadłość|przypadłość]], [[Niebyt|niebyt]];
+	- racje istnienia (I racja in se, II racja ab alio): byt przygodny, byt konieczny, przygodny niebyt, konieczny niebyt;
+	- byt idei (I zmysłowe byty empiryczne, II przedmioty idealne): [[Realizm umiarkowany|realizm umiarkowany]], [[Nominalizm|nominalizm]], [[Platonizm (stanowisko)|platonizm]], nonesencjalizm.
+	- Te same zestawienia Nieznański stosuje w teorii poznania i etyce, także dla czterech zasad (16 stanowisk).
+- Transcendentalia to według niego „własności przestępne bytu” (zob. [[Teoria transcendentaliów]]).
+
 ## Źródła
 
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
 [[Stróżewski Władysław, Ontologia]]
+[[Nieznański Edward, Elementy filozofii teoretycznej]]
 
 #filozofia/metafizyka #ontologia 

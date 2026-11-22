@@ -25,6 +25,11 @@ modified date: 2026-11-15T13:25
 
 [[Problem uniwersaliów]], [[Byt]], [[Metafizyka klasyczna]]
 
+## Ujęcie Nieznańskiego
+
+- Transcendentalia to „własności przestępne bytu” – Nieznański nie rozwija tej definicji; chodzi o własności przysługujące każdemu bytowi.
+
 ## Źródła
 
 [[Krąpiec Mieczysław Albert OP, Metafizyka]]
+[[Nieznański Edward, Elementy filozofii teoretycznej]]

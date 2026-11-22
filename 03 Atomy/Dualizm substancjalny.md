@@ -37,6 +37,12 @@
 - Właściwym przeciwnikiem materializmu jest dualizm radykalny; między dualizmem umiarkowanym a materializmem umiarkowanym (np. dialektycznym) przeciwieństwo jest mniej jaskrawe.
 - Dualizm, podobnie jak materializm, stoi na gruncie [[Realizm|realizmu]].
 
+## Ujęcie Nieznańskiego
+
+- Dualizm ontologiczny – substancje cielesne i duchowe są do siebie niesprowadzalne; [[Augustyn z Hippony|Augustyn]], [[Kartezjusz]].
+- W metodzie par zasad (I duch, II materia) dualizm to stanowisko przyjmujące obie zasady; analogicznie w parze Bóg–świat (zob. [[Ontologia#Ujęcie Nieznańskiego]]).
+
 ## Źródła
 
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
+[[Nieznański Edward, Elementy filozofii teoretycznej]]

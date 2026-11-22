@@ -40,6 +40,19 @@
 - Materializm nie przekreśla tego, co w nas „szlachetne i wzniosłe”: nie czyni z nas ciał martwych i nie przeczy istnieniu życia psychicznego (mechanistyczny inaczej tylko pojmuje jego istotę). Pozbawia natomiast wiary w życie pozagrobowe.
 - Materializm stoi na gruncie [[Realizm|realizmu]]; jego właściwym przeciwnikiem jest dualizm radykalny (Augustyn, Kartezjusz), a nie umiarkowany.
 
+## Ujęcie Nieznańskiego
+
+- Monizm materialistyczny: wszystko, co istnieje, jest albo substancją materialną (ciałem), albo atrybutem ciała. Odmiany:
+	- pansomatyzm – cała rzeczywistość to agregat agregatów cząstek (materia korpuskularna):
+		- materializm atomistyczny;
+		- materializm mechanistyczny – zjawiska psychiczne to procesy fizyczne; [[Pierre Simon de Laplace]], [[Epikur]], [[Tomasz Hobbes|Hobbes]], [[Julien Offray de La Mettrie|La Mettrie]], [[Paul d’Holbach]], [[Helwecjusz]], [[Ludwig Büchner|Büchner]], [[Carl Vogt|Vogt]], Moleschott;
+		- [[Materializm dialektyczny]] – prawo przechodzenia zmian ilościowych w jakościowe; czasowe i genetyczne pierwszeństwo materii nad duchem;
+		- [[Reizm]] – istnieją tylko rzeczy, czyli przedmioty konkretne (ciała i osoby); nie istnieją cechy, stosunki, zdarzenia, stany rzeczy ani przedmioty abstrakcyjne; [[Franz Brentano|Brentano]], Oskar Kraus, [[Tadeusz Kotarbiński|Kotarbiński]];
+	- energetyzm – podstawowym substratem przyrody jest energia, która pozwala wyjaśnić wszystkie zjawiska fizyczne i psychiczne; rzeczywistość to agregaty energii, a pojęcie materii staje się zbędne.
+- Zaliczenie reizmu do materializmu to klasyfikacja Nieznańskiego; reizm Kotarbińskiego w wersji „somatyzmu” uznaje osoby za ciała, ale u Brentana rzeczami są też dusze.
+- Monizm a materializm dialektyczny: diamat uznaje istnienie ducha (świadomości), ale nie jako drugiej substancji, tylko jako własność lub wytwór wysoko zorganizowanej materii. Dlatego mimo „pierwszeństwa materii nad duchem” pozostaje monizmem substancjalnym.
+
 ## Źródła
 
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
+[[Nieznański Edward, Elementy filozofii teoretycznej]]

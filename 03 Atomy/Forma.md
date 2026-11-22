@@ -24,4 +24,10 @@ Forma substancjalna – akt, który determinuje materię pierwszą i wyznacza je
 
 [[Tomasz z Akwinu]]: "Forma - [zarówno] substancjalna jak i przypadłościowa są aktami i czynią coś [czymś] aktualnym."  Quodl. 11, 5c. Forma jest aktem decydującym o tym, czym byt jest.
 
+## Ujęcie Nieznańskiego
 
+- Forma x-a to agregat wszystkich atrybutów x-a (w ontologii atrybutywnej; zob. [[Ontologia#Ujęcie Nieznańskiego]]).
+
+## Źródła
+
+[[Nieznański Edward, Elementy filozofii teoretycznej]]

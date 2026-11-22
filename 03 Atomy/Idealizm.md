@@ -81,6 +81,12 @@ Najogólniej idealizm uważa, że przedmiotem filozofii są idee. – dr Płotka
 - Idealizm subiektywny, zwłaszcza immanentny, łączy się według Ajdukiewicza ze spirytualizmem: samoistnie istnieją tylko podmioty świadome (spirytualizm idealistyczny).
 - Przeciwnikiem idealizmu jest tu „realizm metafizyczny” w sensie Ajdukiewicza – zob. [[Realizm#Ujęcie Ajdukiewicza]] i [[Problem istnienia świata zewnętrznego]].
 
+## Ujęcie Nieznańskiego
+
+- Idealizm ontologiczny (prawdziwie bytują tylko idee; Platon, Hegel, Schelling, Cohen, Natorp, Windelband, Rickert) Nieznański zalicza do [[Monizm neutralny|monizmu neutralnego]] – zob. [[Monizm neutralny#Ujęcie Nieznańskiego]].
+- Idealizm poznawczy (fenomenizm, fenomenalizm) omawia osobno, w filozofii poznania.
+
 ## Źródła
 
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
+[[Nieznański Edward, Elementy filozofii teoretycznej]]
