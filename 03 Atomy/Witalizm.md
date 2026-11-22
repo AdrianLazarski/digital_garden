@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko, według którego prawa fizyki i chemii nie wystarczają do wyjaśnienia zjawisk życiowych, a w organizmach działa swoisty czynnik niesprowadzalny do procesów fizykochemicznych (siła życiowa, entelechia, pęd życiowy).
+> [!note] Definicja 
+>Stanowisko, według którego prawa fizyki i chemii nie wystarczają do wyjaśnienia zjawisk życiowych, a w organizmach działa swoisty czynnik niesprowadzalny do procesów fizykochemicznych (siła życiowa, entelechia, pęd życiowy).
 
 ## Odmiany
 

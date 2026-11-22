@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Teoria, według której każdemu bytowi jako bytowi przysługują własności ponadkategorialne, zamienne z bytem (byt, rzecz, jedno, odrębność, prawda, dobro, w niektórych ujęciach piękno). Rozwinięta w scholastyce (Tomasz z Akwinu, De veritate q. 1 a. 1).
+> [!note] Definicja 
+>Teoria, według której każdemu bytowi jako bytowi przysługują własności ponadkategorialne, zamienne z bytem (byt, rzecz, jedno, odrębność, prawda, dobro, w niektórych ujęciach piękno). Rozwinięta w scholastyce (Tomasz z Akwinu, De veritate q. 1 a. 1).
 
 ---
 created: 2026-11-15T12:59

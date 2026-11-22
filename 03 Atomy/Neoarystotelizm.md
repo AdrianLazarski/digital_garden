@@ -16,7 +16,7 @@ modified date: 2026-07-31 23:08
 
 
 > [!note] Definicja 
-> Nurt współczesnej filozofii analitycznej, który od drugiej połowy XX w. odnawia pojęcia arystotelesowskie – istotę, naturę, formę, moc, cel – narzędziami filozofii analitycznej, bez ciągłości instytucjonalnej ze scholastyką.
+>Nurt współczesnej filozofii analitycznej, który od drugiej połowy XX w. odnawia pojęcia arystotelesowskie – istotę, naturę, formę, moc, cel – narzędziami filozofii analitycznej, bez ciągłości instytucjonalnej ze scholastyką.
 
 - Odnowiona postać [[Arystotelizm|arystotelizmu]]. Przedrostek „neo” oznacza powrót po przerwie, a nie kontynuację szkoły.
 - Ma dwie gałęzie, które rozwijały się niezależnie: etyczną i metafizyczną.

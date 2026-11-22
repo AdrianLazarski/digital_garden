@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko ogólne, według którego istnieje tylko materia: jedynymi substancjami są ciała, a wszystko, co istnieje – także życie i zjawiska psychiczne – jest materią, jej własnością lub przejawem.
+> [!note] Definicja 
+>Stanowisko ogólne, według którego istnieje tylko materia: jedynymi substancjami są ciała, a wszystko, co istnieje – także życie i zjawiska psychiczne – jest materią, jej własnością lub przejawem.
 
 ## Odmiany
 

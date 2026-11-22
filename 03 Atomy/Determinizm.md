@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko, według którego każde zdarzenie jest jednoznacznie wyznaczone przez zdarzenia wcześniejsze i prawa przyrody: przy danej przeszłości i danych prawach możliwa jest tylko jedna przyszłość.
+> [!note] Definicja 
+>Stanowisko, według którego każde zdarzenie jest jednoznacznie wyznaczone przez zdarzenia wcześniejsze i prawa przyrody: przy danej przeszłości i danych prawach możliwa jest tylko jedna przyszłość.
 
 ## Odmiany
 

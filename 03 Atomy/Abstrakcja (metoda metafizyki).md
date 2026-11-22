@@ -1,5 +1,5 @@
-> [!note] Definicja
-> W metafizyce esencjalnej (zob. [[Metafizyka klasyczna]]) – metoda dochodzenia do pojęcia bytu przez pomijanie cech coraz mniej ogólnych, aż do ujęcia najogólniejszej treści „byt”.
+> [!note] Definicja 
+>W metafizyce esencjalnej (zob. [[Metafizyka klasyczna]]) – metoda dochodzenia do pojęcia bytu przez pomijanie cech coraz mniej ogólnych, aż do ujęcia najogólniejszej treści „byt”.
 
 - Odrębna od ogólnego pojęcia [[Abstrakcja]].
 

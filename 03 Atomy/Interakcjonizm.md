@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko w [[Problem psychofizyczny|problemie psychofizycznym]], według którego zjawiska psychiczne i fizjologiczne oddziałują na siebie przyczynowo w obie strony: bodziec cielesny wywołuje wrażenie, a decyzja wywołuje ruch ciała.
+> [!note] Definicja 
+>Stanowisko w [[Problem psychofizyczny|problemie psychofizycznym]], według którego zjawiska psychiczne i fizjologiczne oddziałują na siebie przyczynowo w obie strony: bodziec cielesny wywołuje wrażenie, a decyzja wywołuje ruch ciała.
 
 ## Odmiany
 

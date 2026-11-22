@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko, według którego nie doświadczamy samej rzeczywistości, lecz zbiory danych (wrażeń); przedmioty fizyczne są konstrukcjami z rzeczywistych i możliwych wrażeń, a zdania o nich dają się przełożyć na zdania o wrażeniach.
+> [!note] Definicja 
+>Stanowisko, według którego nie doświadczamy samej rzeczywistości, lecz zbiory danych (wrażeń); przedmioty fizyczne są konstrukcjami z rzeczywistych i możliwych wrażeń, a zdania o nich dają się przełożyć na zdania o wrażeniach.
 
 ## Odmiany
 

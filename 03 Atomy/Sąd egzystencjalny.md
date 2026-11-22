@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Sąd stwierdzający istnienie czegoś („A istnieje”), w odróżnieniu od sądu podmiotowo-orzecznikowego („S jest P”), który orzeka o treści. W tomizmie egzystencjalnym – akt, w którym ujmujemy istnienie bytu.
+> [!note] Definicja 
+>Sąd stwierdzający istnienie czegoś („A istnieje”), w odróżnieniu od sądu podmiotowo-orzecznikowego („S jest P”), który orzeka o treści. W tomizmie egzystencjalnym – akt, w którym ujmujemy istnienie bytu.
 
 - Istnienie nie jest ujmowane w pojęciu (pojęcie oddaje treść), lecz w sądzie. Zob. [[Teoria istoty i istnienia]].
 

@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Problem: czy istnieją pierwsze, niedowodliwe zasady bytu i myślenia (tożsamości, niesprzeczności, racji dostatecznej, przyczynowości), jaki mają status i jak można uzasadnić ich ważność, skoro nie ma od nich przesłanek pierwotniejszych.
+> [!note] Definicja 
+>Problem: czy istnieją pierwsze, niedowodliwe zasady bytu i myślenia (tożsamości, niesprzeczności, racji dostatecznej, przyczynowości), jaki mają status i jak można uzasadnić ich ważność, skoro nie ma od nich przesłanek pierwotniejszych.
 
 - Pierwsze zasady nie mogą być dowiedzione z czegoś wcześniejszego – każdy dowód już je zakłada.
 - Spór dotyczy zarówno listy zasad, jak i ich statusu: czy są prawami bytu, prawami myślenia, czy jednych i drugich.

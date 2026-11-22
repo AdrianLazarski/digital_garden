@@ -9,7 +9,7 @@ modified date: 2026-11-17T17:01
 ---
 
 > [!note] Definicja 
-> Tradycja filozoficzna wywodząca się od [[Arystoteles|Arystotelesa]], trwająca od założenia Likejonu (ok. 335 r. p.n.e.) do dziś – w ciągłej linii szkolnej przez scholastykę i neotomizm, niezależnie od nich przez XIX-wieczne odnowienie studiów nad Arystotelesem, a od drugiej połowy XX w. także jako [[Neoarystotelizm|neoarystotelizm]] – i obejmująca logikę, filozofię przyrody, metafizykę, psychologię, etykę i politykę. Jej rdzeniem metafizycznym jest przekonanie, że rzeczywistość tworzą jednostkowe substancje, a ich formy i natury istnieją w samych rzeczach, nie w odrębnym świecie idei.
+>Tradycja filozoficzna wywodząca się od [[Arystoteles|Arystotelesa]], trwająca od założenia Likejonu (ok. 335 r. p.n.e.) do dziś – w ciągłej linii szkolnej przez scholastykę i neotomizm, niezależnie od nich przez XIX-wieczne odnowienie studiów nad Arystotelesem, a od drugiej połowy XX w. także jako [[Neoarystotelizm|neoarystotelizm]] – i obejmująca logikę, filozofię przyrody, metafizykę, psychologię, etykę i politykę. Jej rdzeniem metafizycznym jest przekonanie, że rzeczywistość tworzą jednostkowe substancje, a ich formy i natury istnieją w samych rzeczach, nie w odrębnym świecie idei.
 
 - Ta notatka opisuje przede wszystkim arystotelizm w metafizyce. W etyce tradycję kontynuuje [[Etyka cnót|etyka cnót]] (Anscombe, Foot, MacIntyre, Hursthouse), a jej centralną teorią jest [[Eudajmonizm|eudajmonizm]].
 - Uwaga na „neoarystotelizm”: ta sama nazwa oznacza dwa niezależne ruchy – metafizyczny (Lowe, Fine, Koons) i etyczny (od artykułu Anscombe „Modern Moral Philosophy”, 1958). Łączy je odwołanie do pojęcia natury, np. u Michaela Thompsona.

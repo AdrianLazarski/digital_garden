@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Odmiana [[Idealizm|idealizmu]], według której świat dany w doświadczeniu istnieje tylko jako treść lub korelat indywidualnej świadomości; formuła Berkeleya: istnieć to być postrzeganym albo postrzegać (esse est percipi aut percipere).
+> [!note] Definicja 
+>Odmiana [[Idealizm|idealizmu]], według której świat dany w doświadczeniu istnieje tylko jako treść lub korelat indywidualnej świadomości; formuła Berkeleya: istnieć to być postrzeganym albo postrzegać (esse est percipi aut percipere).
 
 ## Odmiany
 

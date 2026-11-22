@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko, według którego nie wszystkie zdarzenia są jednoznacznie wyznaczone przez zdarzenia wcześniejsze i prawa przyrody: przy tej samej przeszłości możliwa jest więcej niż jedna przyszłość.
+> [!note] Definicja 
+>Stanowisko, według którego nie wszystkie zdarzenia są jednoznacznie wyznaczone przez zdarzenia wcześniejsze i prawa przyrody: przy tej samej przeszłości możliwa jest więcej niż jedna przyszłość.
 
 ## Odmiany
 

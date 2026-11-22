@@ -8,8 +8,8 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-31 20:51
 ---
-> [!note] Definicja
-> Według szkoły lubelskiej – metafizyka uprawiana w tradycji od Parmenidesa przez Arystotelesa do Tomasza z Akwinu: realistyczne poznanie bytu jako bytu, szukające jego ostatecznych racji. U tomistów to synonim ich metafizyki.
+> [!note] Definicja 
+>Według szkoły lubelskiej – metafizyka uprawiana w tradycji od Parmenidesa przez Arystotelesa do Tomasza z Akwinu: realistyczne poznanie bytu jako bytu, szukające jego ostatecznych racji. U tomistów to synonim ich metafizyki.
 
 - Nazwa to klasyfikacja nadana przez tomistów (zwłaszcza szkołę lubelską), a nie szkoła z ciągłością uczniowską.
 

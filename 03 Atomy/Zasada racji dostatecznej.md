@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Zasada, według której nic nie istnieje i nic się nie dzieje bez racji wystarczającej, by wyjaśnić, dlaczego jest tak, a nie inaczej. Sformułowana explicite przez Leibniza.
+> [!note] Definicja 
+>Zasada, według której nic nie istnieje i nic się nie dzieje bez racji wystarczającej, by wyjaśnić, dlaczego jest tak, a nie inaczej. Sformułowana explicite przez Leibniza.
 
 ## Ujęcie Leibniza
 

@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Pytanie, czy istnieje świat niezależny od świadomości podmiotu, a jeśli tak – w jakim sensie istnieje i czy oraz jak możemy to wiedzieć.
+> [!note] Definicja 
+>Pytanie, czy istnieje świat niezależny od świadomości podmiotu, a jeśli tak – w jakim sensie istnieje i czy oraz jak możemy to wiedzieć.
 
 ## Sformułowania
 

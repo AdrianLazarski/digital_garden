@@ -9,8 +9,8 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-27 21:19
 ---
 
-> [!note] Definicja
-> Stanowisko w [[Problem psychofizyczny|problemie psychofizycznym]], według którego zjawiska psychiczne są skutkami procesów fizjologicznych, ale same nie wywołują żadnych skutków fizycznych – są „produktem ubocznym” pracy mózgu.
+> [!note] Definicja 
+>Stanowisko w [[Problem psychofizyczny|problemie psychofizycznym]], według którego zjawiska psychiczne są skutkami procesów fizjologicznych, ale same nie wywołują żadnych skutków fizycznych – są „produktem ubocznym” pracy mózgu.
 
 ## Przedstawiciele
 

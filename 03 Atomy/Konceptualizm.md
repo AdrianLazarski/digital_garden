@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko w [[Problem uniwersaliów|problemie uniwersaliów]], według którego powszechniki nie istnieją realnie poza umysłem; ogólne są tylko pojęcia, przez które ujmujemy wiele rzeczy jednostkowych.
+> [!note] Definicja 
+>Stanowisko w [[Problem uniwersaliów|problemie uniwersaliów]], według którego powszechniki nie istnieją realnie poza umysłem; ogólne są tylko pojęcia, przez które ujmujemy wiele rzeczy jednostkowych.
 
 ## Odmiany
 

@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Nauka najogólniejsza, rozważająca byt jako byt i badająca jego ostateczne przyczyny i zasady; nazwa Arystotelesa dla dyscypliny nazwanej później [[Metafizyka|metafizyką]]. W historii nazwa bywa używana w różnym zakresie (u Wolffa – ontologia, u Husserla – fenomenologia).
+> [!note] Definicja 
+>Nauka najogólniejsza, rozważająca byt jako byt i badająca jego ostateczne przyczyny i zasady; nazwa Arystotelesa dla dyscypliny nazwanej później [[Metafizyka|metafizyką]]. W historii nazwa bywa używana w różnym zakresie (u Wolffa – ontologia, u Husserla – fenomenologia).
 
 - Arystoteles: „Jest taka wiedza, która rozważa byt jako byt oraz to, co przysługuje mu w sposób istotny. I nie utożsamia się ona z żadną z tak zwanych nauk szczegółowych” (Metafizyka IV 1, 1003a21–24).
 - „Jeśli nie ma żadnej innej substancji oprócz substancji zaistniałych dzięki naturze, to pierwszą nauką byłaby fizyka; jeśli jednak jest jakaś substancja nieruchoma, to ona jest wcześniejsza, a wcześniejsza jest także pierwsza filozofia, i to tak, że jest pierwsza w ogóle, i jej to zadaniem byłoby badać byt jako byt i czym on jest jako byt oraz czym są jego atrybuty” (Metafizyka VI 1, 1026a27–32).

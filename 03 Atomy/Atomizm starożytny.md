@@ -10,7 +10,7 @@ modified date: 2026-11-15T15:27
 ---
 
 > [!note] Definicja 
-> Szkoła filozoficzna V–IV w. p.n.e., zapoczątkowana przez Leucypa i Demokryta, oparta na teorii [[Atomizm|atomizmu]].
+>Szkoła filozoficzna V–IV w. p.n.e., zapoczątkowana przez Leucypa i Demokryta, oparta na teorii [[Atomizm|atomizmu]].
 
 ## Przedstawiciele
 

@@ -8,7 +8,7 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-11-15T15:51
 ---
 > [!note] Definicja 
-> Tradycja filozoficzna wywodząca się od [[Platon|Platona]], trwająca od założenia Akademii (ok. 387 r. p.n.e.) po czasy nowożytne, oparta na przekonaniu, że prawdziwa rzeczywistość jest niezmienna, niematerialna i poznawalna rozumem, a świat zmysłowy jest od niej zależny i wtórny.
+>Tradycja filozoficzna wywodząca się od [[Platon|Platona]], trwająca od założenia Akademii (ok. 387 r. p.n.e.) po czasy nowożytne, oparta na przekonaniu, że prawdziwa rzeczywistość jest niezmienna, niematerialna i poznawalna rozumem, a świat zmysłowy jest od niej zależny i wtórny.
 
 - Nie mylić z [[Platonizm (stanowisko)|platonizmem jako stanowiskiem]], czyli tezą o istnieniu obiektów abstrakcyjnych. Wielu współczesnych „platonistów” w tym sensie (np. w filozofii matematyki) nie ma nic wspólnego z tradycją platońską.
 

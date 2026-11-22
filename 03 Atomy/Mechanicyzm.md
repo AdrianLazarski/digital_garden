@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko, według którego zjawiska przyrody da się wyjaśnić wyłącznie przyczynami sprawczymi – ruchem, zderzeniami i oddziaływaniami części materii według praw fizyki – bez odwoływania się do celów, form czy sił życiowych. Synonim: mechanizm (Ajdukiewicz).
+> [!note] Definicja 
+>Stanowisko, według którego zjawiska przyrody da się wyjaśnić wyłącznie przyczynami sprawczymi – ruchem, zderzeniami i oddziaływaniami części materii według praw fizyki – bez odwoływania się do celów, form czy sił życiowych. Synonim: mechanizm (Ajdukiewicz).
 
 ## Odmiany
 

@@ -8,7 +8,7 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-11-17T21:01
 ---
 > [!note] Definicja 
-> Teoria, według której najwyższym dobrem i ostatecznym celem ludzkiego życia jest eudajmonia: szczęście rozumiane jako pomyślność, udane i spełnione życie całe, a nie chwilowy stan zadowolenia.
+>Teoria, według której najwyższym dobrem i ostatecznym celem ludzkiego życia jest eudajmonia: szczęście rozumiane jako pomyślność, udane i spełnione życie całe, a nie chwilowy stan zadowolenia.
 
 - Teoria dobra, na której opiera się większość odmian [[Etyka cnót|etyki cnót]].
 - Nie mylić z hedonizmem: eudajmonia to nie przyjemność, lecz dobre życie jako całość. Wyjątkiem jest eudajmonizm epikurejski (zob. odmiany).

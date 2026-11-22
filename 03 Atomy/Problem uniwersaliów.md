@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Pytanie, czy istnieją przedmioty ogólne (uniwersalia, powszechniki), a jeśli tak – w jaki sposób istnieją i jak mają się do rzeczy jednostkowych oraz do pojęć i nazw ogólnych.
+> [!note] Definicja 
+>Pytanie, czy istnieją przedmioty ogólne (uniwersalia, powszechniki), a jeśli tak – w jaki sposób istnieją i jak mają się do rzeczy jednostkowych oraz do pojęć i nazw ogólnych.
 
 ## Sformułowanie
 

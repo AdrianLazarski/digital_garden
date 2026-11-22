@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Odmiana [[Idealizm|idealizmu]], według której rzeczywistość jest duchowa lub idealna, ale jej podstawą nie jest indywidualna świadomość, lecz coś ponadjednostkowego: świat idei, duch absolutny albo ogół sensów (sądów) w sensie logicznym.
+> [!note] Definicja 
+>Odmiana [[Idealizm|idealizmu]], według której rzeczywistość jest duchowa lub idealna, ale jej podstawą nie jest indywidualna świadomość, lecz coś ponadjednostkowego: świat idei, duch absolutny albo ogół sensów (sądów) w sensie logicznym.
 
 ## Znaczenia terminu
 

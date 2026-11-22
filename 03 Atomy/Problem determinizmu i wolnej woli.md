@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Pytanie, czy człowiek ma wolną wolę – może działać inaczej, niż działa, i ponosi za swe czyny odpowiedzialność – oraz czy da się to pogodzić z [[Determinizm|determinizmem]] przyczynowym, logicznym lub teologicznym.
+> [!note] Definicja 
+>Pytanie, czy człowiek ma wolną wolę – może działać inaczej, niż działa, i ponosi za swe czyny odpowiedzialność – oraz czy da się to pogodzić z [[Determinizm|determinizmem]] przyczynowym, logicznym lub teologicznym.
 
 ## Sformułowania
 

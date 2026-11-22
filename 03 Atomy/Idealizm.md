@@ -11,7 +11,7 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-31 23:04
 ---
 > [!note] Definicja 
-> W metafizyce: stanowisko, według którego rzeczywistość jest w swej istocie duchowa albo zależna od umysłu lub świadomości.
+>W metafizyce: stanowisko, według którego rzeczywistość jest w swej istocie duchowa albo zależna od umysłu lub świadomości.
 
 Najogólniej idealizm uważa, że przedmiotem filozofii są idee. – dr Płotka
 

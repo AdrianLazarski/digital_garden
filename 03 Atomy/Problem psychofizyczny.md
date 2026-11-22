@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Pytanie o stosunek tego, co psychiczne (myśli, uczucia, świadomość, dusza), do tego, co fizyczne (ciało, mózg, procesy fizjologiczne): czy są to dwa rodzaje bytów, czy jeden, i jak są ze sobą powiązane. Synonimy: problem umysł–ciało, problem duszy i ciała (mind–body problem).
+> [!note] Definicja 
+>Pytanie o stosunek tego, co psychiczne (myśli, uczucia, świadomość, dusza), do tego, co fizyczne (ciało, mózg, procesy fizjologiczne): czy są to dwa rodzaje bytów, czy jeden, i jak są ze sobą powiązane. Synonimy: problem umysł–ciało, problem duszy i ciała (mind–body problem).
 
 ## Sformułowania
 

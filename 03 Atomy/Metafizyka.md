@@ -8,8 +8,8 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-31 20:51
 ---
-> [!note] Definicja
-> Dział filozofii badający byt jako byt – jego najogólniejsze własności, strukturę, sposoby istnienia i ostateczne racje. Zakres i przedmiot metafizyki są sporne – zob. [[Problem przedmiotu metafizyki]].
+> [!note] Definicja 
+>Dział filozofii badający byt jako byt – jego najogólniejsze własności, strukturę, sposoby istnienia i ostateczne racje. Zakres i przedmiot metafizyki są sporne – zob. [[Problem przedmiotu metafizyki]].
 
 - Nazwa ta pochodzi od Andronikosa z Rodos, dziesiątego lub jedenastego scholarchy Likejonu. Sam [[Arystoteles]] mówił o filozofii pierwszej lub o teologii. Nazwa ta powstała raczej po prostu ze względów redakcyjnych.
 	- Tak głosi tradycja; część badaczy (H. Reiner) uważa nazwę za starszą od wydania Andronikosa (do weryfikacji).

@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko, według którego niektóre całości (organizmy, psychika, społeczności, a w wersji skrajnej cały świat) podlegają swoistym prawom, nieprzywiedlnym do praw rządzących ich elementami, a znajomość całości jest niezbędna do wyjaśnienia zachowania elementów. Formuła: całość jest czymś więcej niż sumą części.
+> [!note] Definicja 
+>Stanowisko, według którego niektóre całości (organizmy, psychika, społeczności, a w wersji skrajnej cały świat) podlegają swoistym prawom, nieprzywiedlnym do praw rządzących ich elementami, a znajomość całości jest niezbędna do wyjaśnienia zachowania elementów. Formuła: całość jest czymś więcej niż sumą części.
 
 ## Odmiany
 

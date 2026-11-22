@@ -8,7 +8,7 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-11-17T16:42
 ---
 > [!note] Definicja 
-> Stanowisko, według którego istnieją [[Abstrakt|obiekty abstrakcyjne]]: byty nieprzestrzenne, nieczasowe, przyczynowo bezczynne i niezależne od umysłu oraz języka.
+>Stanowisko, według którego istnieją [[Abstrakt|obiekty abstrakcyjne]]: byty nieprzestrzenne, nieczasowe, przyczynowo bezczynne i niezależne od umysłu oraz języka.
 
 - Odpowiedź na [[Problem obiektów abstrakcyjnych]], a w odniesieniu do własności – na [[Problem uniwersaliów]] (tam pod nazwą [[Realizm skrajny|realizmu skrajnego]]).
 - Nie mylić z [[Platonizm|platonizmem jako nurtem]]. Nazwa jest umowna i w pewnym sensie anachroniczna: idee Platona nie są „abstraktami” w dzisiejszym znaczeniu. Są przyczynami i wzorami rzeczy, bytami w wyższym stopniu niż rzeczy zmysłowe i przedmiotami dążenia duszy, czego współczesny platonista zwykle nie przyjmuje.

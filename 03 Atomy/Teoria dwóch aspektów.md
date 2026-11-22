@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko w [[Problem psychofizyczny|problemie psychofizycznym]], według którego zjawisko fizjologiczne i odpowiadające mu zjawisko psychiczne nie są dwoma różnymi zjawiskami, lecz dwoma aspektami (stronami) jednego i tego samego zjawiska lub jednej rzeczywistości. Synonimy: teoria dwóch stron (Ajdukiewicz), monizm dwuaspektowy (dual-aspect monism).
+> [!note] Definicja 
+>Stanowisko w [[Problem psychofizyczny|problemie psychofizycznym]], według którego zjawisko fizjologiczne i odpowiadające mu zjawisko psychiczne nie są dwoma różnymi zjawiskami, lecz dwoma aspektami (stronami) jednego i tego samego zjawiska lub jednej rzeczywistości. Synonimy: teoria dwóch stron (Ajdukiewicz), monizm dwuaspektowy (dual-aspect monism).
 
 ## Odmiany
 

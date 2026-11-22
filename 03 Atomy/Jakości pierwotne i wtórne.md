@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Rozróżnienie własności ciał na pierwotne – przysługujące ciałom niezależnie od tego, czy ktoś je postrzega (rozciągłość, kształt, ruch, liczba, nieprzenikliwość) – i wtórne – barwy, dźwięki, smaki, zapachy, ciepło, które w samych ciałach są jedynie zdolnościami wywoływania w nas wrażeń.
+> [!note] Definicja 
+>Rozróżnienie własności ciał na pierwotne – przysługujące ciałom niezależnie od tego, czy ktoś je postrzega (rozciągłość, kształt, ruch, liczba, nieprzenikliwość) – i wtórne – barwy, dźwięki, smaki, zapachy, ciepło, które w samych ciałach są jedynie zdolnościami wywoływania w nas wrażeń.
 
 ## Historia
 

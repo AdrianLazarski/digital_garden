@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko, według którego ostatecznymi składnikami rzeczywistości nie są ani substancje psychiczne, ani materialne, lecz neutralne elementy (np. „elementy”, „czyste doświadczenie”, zdarzenia), z których w różnych układach powstaje zarówno to, co psychiczne, jak i to, co fizyczne.
+> [!note] Definicja 
+>Stanowisko, według którego ostatecznymi składnikami rzeczywistości nie są ani substancje psychiczne, ani materialne, lecz neutralne elementy (np. „elementy”, „czyste doświadczenie”, zdarzenia), z których w różnych układach powstaje zarówno to, co psychiczne, jak i to, co fizyczne.
 
 ## Odmiany
 

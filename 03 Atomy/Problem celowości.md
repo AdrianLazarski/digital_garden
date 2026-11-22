@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Pytanie, czy w przyrodzie istnieje celowość – czy zjawiska, zwłaszcza organizmy i ich części, zachodzą „po coś” – a jeśli tak, w jakim sensie i skąd się bierze.
+> [!note] Definicja 
+>Pytanie, czy w przyrodzie istnieje celowość – czy zjawiska, zwłaszcza organizmy i ich części, zachodzą „po coś” – a jeśli tak, w jakim sensie i skąd się bierze.
 
 ## Sformułowania
 

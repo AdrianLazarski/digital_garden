@@ -8,7 +8,7 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-11-17T19:00
 ---
 > [!note] Definicja 
-> Najogólniej: stanowisko, według którego jakieś przedmioty istnieją i są takie, jakie są, niezależnie od umysłu, języka i poznania.
+>Najogólniej: stanowisko, według którego jakieś przedmioty istnieją i są takie, jakie są, niezależnie od umysłu, języka i poznania.
 > 
 > Realizm jest zawsze realizmem _co do czegoś_: świata zewnętrznego, powszechników, liczb, światów możliwych, wartości. Można być realistą w jednej dziedzinie i antyrealistą w innej.
 

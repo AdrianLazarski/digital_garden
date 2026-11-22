@@ -8,7 +8,7 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-11-17T20:59
 ---
 > [!note] Definicja 
-> Nurt w etyce normatywnej, który w centrum stawia charakter i cnoty działającego, a nie obowiązki (jak deontologia) ani skutki czynów (jak konsekwencjalizm). Podstawowe pytanie nie brzmi „co powinienem zrobić?”, lecz „jakim człowiekiem powinienem być?”.
+>Nurt w etyce normatywnej, który w centrum stawia charakter i cnoty działającego, a nie obowiązki (jak deontologia) ani skutki czynów (jak konsekwencjalizm). Podstawowe pytanie nie brzmi „co powinienem zrobić?”, lecz „jakim człowiekiem powinienem być?”.
 
 - Kontynuacja [[Arystotelizm|arystotelizmu]] w etyce, choć nie wyłącznie (zob. odmiany).
 - Najczęściej opiera się na [[Eudajmonizm|eudajmonizmie]], ale te pojęcia nie są tożsame: eudajmonizm to teoria dobra, a etyka cnót – sposób uprawiania etyki.

@@ -9,8 +9,8 @@ status_epistemiczny: Spekulatywny ❓
 modified date: 2026-07-31 20:52
 ---
 
-> [!note] Definicja
-> Stanowisko ogólne, według którego rzeczywistość jest w podstawie jednorodna: istnieje tylko jeden rodzaj substancji (monizm atrybutywny, jakościowy) albo tylko jedna substancja lub jeden byt (monizm substancjalny, ilościowy). Przeciwieństwo: [[Dualizm substancjalny|dualizm]] i [[Pluralizm ontologiczny|pluralizm]].
+> [!note] Definicja 
+>Stanowisko ogólne, według którego rzeczywistość jest w podstawie jednorodna: istnieje tylko jeden rodzaj substancji (monizm atrybutywny, jakościowy) albo tylko jedna substancja lub jeden byt (monizm substancjalny, ilościowy). Przeciwieństwo: [[Dualizm substancjalny|dualizm]] i [[Pluralizm ontologiczny|pluralizm]].
 
 ## Odmiany
 

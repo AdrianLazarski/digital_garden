@@ -60,7 +60,7 @@ modified date: 2026-07-31 22:01
 
 
 > [!note] Definicja 
-> Teoria, według której [[Materia|materia]] ma budowę ziarnistą, nieciągłą: składa się z najmniejszych, fizycznie niepodzielnych cząstek ([[Atom|atomów]]), a wszelka zmiana w przyrodzie sprowadza się do ich ruchu, łączenia i rozdzielania.
+>Teoria, według której [[Materia|materia]] ma budowę ziarnistą, nieciągłą: składa się z najmniejszych, fizycznie niepodzielnych cząstek ([[Atom|atomów]]), a wszelka zmiana w przyrodzie sprowadza się do ich ruchu, łączenia i rozdzielania.
 
 - Odpowiedź na [[Problem zmiany]] i [[Problem kontinuum]].
 - Nurty oparte na atomizmie: [[Atomizm starożytny]], [[Epikureizm]], [[Aszaryzm]], [[Korpuskularyzm]].

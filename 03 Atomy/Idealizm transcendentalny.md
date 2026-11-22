@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Odmiana [[Idealizm|idealizmu]], według której przedmioty poznania zależą od struktur podmiotu poznającego – nie jednostkowej, empirycznej świadomości, lecz jej koniecznych form (np. form naoczności i kategorii u Kanta albo świadomości transcendentalnej u Husserla).
+> [!note] Definicja 
+>Odmiana [[Idealizm|idealizmu]], według której przedmioty poznania zależą od struktur podmiotu poznającego – nie jednostkowej, empirycznej świadomości, lecz jej koniecznych form (np. form naoczności i kategorii u Kanta albo świadomości transcendentalnej u Husserla).
 
 ## Odmiany
 

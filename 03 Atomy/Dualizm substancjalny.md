@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko w [[Problem psychofizyczny|problemie psychofizycznym]], według którego człowiek składa się z dwóch odrębnych substancji: duchowej (duszy, umysłu) i materialnej (ciała), z których żadna nie daje się sprowadzić do drugiej.
+> [!note] Definicja 
+>Stanowisko w [[Problem psychofizyczny|problemie psychofizycznym]], według którego człowiek składa się z dwóch odrębnych substancji: duchowej (duszy, umysłu) i materialnej (ciała), z których żadna nie daje się sprowadzić do drugiej.
 
 ## Odmiany
 

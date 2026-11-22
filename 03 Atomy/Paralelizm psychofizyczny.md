@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko w [[Problem psychofizyczny|problemie psychofizycznym]], według którego zjawiska fizjologiczne i psychiczne nie oddziałują na siebie, lecz przebiegają w dwóch równoległych szeregach: każdemu zjawisku w jednym szeregu odpowiada określone zjawisko w drugim.
+> [!note] Definicja 
+>Stanowisko w [[Problem psychofizyczny|problemie psychofizycznym]], według którego zjawiska fizjologiczne i psychiczne nie oddziałują na siebie, lecz przebiegają w dwóch równoległych szeregach: każdemu zjawisku w jednym szeregu odpowiada określone zjawisko w drugim.
 
 ## Odmiany
 

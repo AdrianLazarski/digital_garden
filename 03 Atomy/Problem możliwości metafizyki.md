@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Problem: czy metafizyka jako wiedza o bycie, jego ostatecznych racjach i tym, co przekracza doświadczenie, jest w ogóle możliwa i sensowna.
+> [!note] Definicja 
+>Problem: czy metafizyka jako wiedza o bycie, jego ostatecznych racjach i tym, co przekracza doświadczenie, jest w ogóle możliwa i sensowna.
 
 ## Stanowiska krytyczne (według Stróżewskiego)
 

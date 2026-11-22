@@ -7,8 +7,8 @@ dojrzalosc: Sadzonka 🌱
 status_epistemiczny: Spekulatywny ❓
 modified date: 2026-11-15T14:58
 ---
-> [!note] Definicja
-> Nurt neotomizmu XX w. łączący tomizm z filozofią transcendentalną Kanta (później także z Heideggerem): punktem wyjścia metafizyki jest analiza dynamizmu aktu poznania.
+> [!note] Definicja 
+>Nurt neotomizmu XX w. łączący tomizm z filozofią transcendentalną Kanta (później także z Heideggerem): punktem wyjścia metafizyki jest analiza dynamizmu aktu poznania.
 
 ## Przedstawiciele
 

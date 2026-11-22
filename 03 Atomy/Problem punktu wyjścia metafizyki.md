@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Problem: od czego zaczyna się poznanie metafizyczne – od bezpośredniego doświadczenia istniejącego świata, od świadomości i jej danych, czy od języka – i co zapewnia pewność jego rezultatów.
+> [!note] Definicja 
+>Problem: od czego zaczyna się poznanie metafizyczne – od bezpośredniego doświadczenia istniejącego świata, od świadomości i jej danych, czy od języka – i co zapewnia pewność jego rezultatów.
 
 - Odróżnić od [[Problem przedmiotu metafizyki|problemu przedmiotu metafizyki]]: tam chodzi o to, co metafizyka bada, tu – skąd wychodzi i na czym opiera pewność.
 

@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko ogólne, według którego w świecie rzeczywistym istnieją tylko substancje duchowe (dusze, duchy, podmioty świadome), a to, co cielesne, albo nie istnieje w sensie dosłownym, albo jest odmianą lub przejawem tego, co duchowe.
+> [!note] Definicja 
+>Stanowisko ogólne, według którego w świecie rzeczywistym istnieją tylko substancje duchowe (dusze, duchy, podmioty świadome), a to, co cielesne, albo nie istnieje w sensie dosłownym, albo jest odmianą lub przejawem tego, co duchowe.
 
 ## Odmiany
 

@@ -4,7 +4,7 @@
 
 Każda partia to osobna rozmowa w projekcie „Zettelkasten”. Po zakończeniu partii aktualizujemy tę notatkę: co zrobione, jakie decyzje zapadły, co zostało otwarte.
 
-**Następna partia: 1a – Krąpiec, Stróżewski, Rosiak.**
+**Następna partia: 1a – Nieznański.**
 
 1. Porządki w strukturze
 	- ~~naniesienie zmian w listach~~ – zrobione 17.11.2026;
@@ -12,7 +12,7 @@ Każda partia to osobna rozmowa w projekcie „Zettelkasten”. Po zakończeniu 
 	- ~~podział notatki „Metafizyka klasyczna” i uporządkowanie notatki [[Metafizyka]]~~ – zrobione 17.11.2026.
 1a. Notatki z lektury (przed dalszymi partiami): z każdej notatki z lektury biorę część metafizyczną, robię plan ekstrakcji (pojęcia i stanowiska → istniejąca notatka, nowa notatka albo sekcja do dopisania), a po akceptacji tworzę notatki atomowe z sekcją „Źródła”. Części dotyczące innych działów oznaczam na później. Jedna lub dwie książki na rozmowę. Kolejność:
 	- [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]] (część „Metafizyka”) – punkty 1–4 zrobione 17.11.2026; na później: Teoria monad, Teoria wiązek, Problem zła (optymizm i pesymizm), Problem ruchu, Materializm dialektyczny, Immaterializm, zasada sprzeczności (logika), etyka metafizyczna i niezależna (etyka);
-	- [[Krąpiec Mieczysław Albert OP, Metafizyka]], [[Stróżewski Władysław, Ontologia]], [[Rosiak Marek, Filozofia pierwsza, metafizyka, ontologia]];
+	- [[Krąpiec Mieczysław Albert OP, Metafizyka]], [[Stróżewski Władysław, Ontologia]] – zrobione 22.11.2026; [[Krąpiec, Nagrania]] – pominięte (decyzja użytkownika); [[Rosiak Marek, Filozofia pierwsza, metafizyka, ontologia]] – notatka zawiera tylko dane bibliograficzne, brak treści do ekstrakcji; na później: poznanie przednaukowe i trójczłonowy model poznania u Krąpca (epistemologia), „różnice między jednostkami jednostkowo-istotne” (partia 9, [[Problem jednostkowienia]]), Hegel – czysty byt i Nic, materializm dialektyczny (partia 5), Heidegger – Bycie a byt (partia 6);
 	- [[Nieznański Edward, Elementy filozofii teoretycznej]];
 	- pozostałe według uznania.
 2. Nurty starożytne – od filozofii jońskiej do neoplatonizmu. Gotowe: [[Atomizm starożytny]], [[Platonizm (tradycja)]]. 
@@ -44,6 +44,12 @@ Uwaga: [[Etyka cnót]] i [[Eudajmonizm]] należą do działu etyki; tu są tylko
 - Gotowe notatki: [[Atomizm]], [[Atomizm starożytny]], [[Platonizm (tradycja)]], [[Platonizm (stanowisko)]], [[Idealizm]], [[Realizm]], [[Arystotelizm]], [[Neoarystotelizm]], [[Etyka cnót]], [[Eudajmonizm]].
 - Z Ajdukiewicza (17.11.2026), nowe: [[Problem uniwersaliów]], [[Realizm skrajny]], [[Konceptualizm]], [[Idealizm subiektywny]], [[Idealizm transcendentalny]], [[Idealizm obiektywny]], [[Jakości pierwotne i wtórne]], [[Problem istnienia świata zewnętrznego]], [[Fenomenalizm]] (dział epistemologii; treść przeniesiona z Epifenomenalizmu); przepisany [[Epifenomenalizm]]; sekcje „Ujęcie Ajdukiewicza” w: [[Metafizyka]], [[Ontologia]], [[Nominalizm]], [[Światopogląd]], [[Idealizm]], [[Realizm]].
 - Z Ajdukiewicza, punkt 4 (17.11.2026), nowe: [[Problem psychofizyczny]], [[Dualizm substancjalny]], [[Materializm]], [[Interakcjonizm]], [[Paralelizm psychofizyczny]], [[Teoria dwóch aspektów]], [[Spirytualizm]], [[Monizm neutralny]], [[Determinizm]], [[Indeterminizm]], [[Problem determinizmu i wolnej woli]], [[Mechanicyzm]], [[Finalizm]], [[Problem celowości]], [[Witalizm]], [[Holizm ontologiczny]]; dopisane sekcje w: [[Hylemorfizm]] (problem psychofizyczny, Ajdukiewicz), [[Monizm]] (cała treść pod frontmatterem – notatka była pusta), [[Przyczyna]] (Ajdukiewicz). MOC Teorie metafizyczne: dodane Finalizm, Holizm ontologiczny, Interakcjonizm, Spirytualizm, Teoria dwóch aspektów. MOC Metafizycy: dodani [[Pierre Cabanis]] (koniec nowożytności), [[Carl Vogt]], [[Ludwig Büchner]] (XIX w.) – bez notatek osób.
+- Z Krąpca i Stróżewskiego (22.11.2026), nowe: [[Problem pierwszych zasad]], [[Zasada racji dostatecznej]], [[Problem punktu wyjścia metafizyki]], [[Problem możliwości metafizyki]], [[Sąd egzystencjalny]], [[Filozofia pierwsza]]; dopisane sekcje w: [[Metafizyka]] (Ujęcie Krąpca, Ujęcie Stróżewskiego; poprawka: Wolff termin „ontologia” upowszechnił, nie wprowadził), [[Ontologia]] (Ujęcie Stróżewskiego; poprawki łaciny), [[Problem przedmiotu metafizyki]], [[Teoria transcendentaliów]] (definicja, Ujęcie Krąpca), [[Istnienie]], [[Problem uniwersaliów]], [[Intuicja]] (Bergson według Stróżewskiego), [[Mądrość]]; w obu notatkach z lektury sekcja „Notatki atomowe”.
+- Decyzje (22.11.2026):
+	- „Nagrania” Krąpca pomijamy;
+	- [[Filozofia pierwsza]] to osobna notatka (u Wolffa i Husserla zakres inny niż „metafizyka”);
+	- [[Problem punktu wyjścia metafizyki]] (skąd wychodzi poznanie) odrębny od [[Problem przedmiotu metafizyki]] (co bada);
+	- format calloutu definicji: `> [!note] Definicja ` (spacja na końcu) w pierwszej linii, treść od `>` bez spacji w drugiej.
 - Decyzje (17.11.2026):
 	- [[Problem uniwersaliów]] to notatka problemowa, [[Spór o uniwersalia]] – historyczna;
 	- w MOC Teorie link [[Separacja]] (istniejąca notatka) zamiast „Separacja (Krąpiec)”; dodane [[Abstrakcja (metoda metafizyki)]] (odrębna od ogólnej [[Abstrakcja]]); „Superweniencja humeańska” → [[Superweniencja humowska]];
@@ -66,3 +72,7 @@ Uwaga: [[Etyka cnót]] i [[Eudajmonizm]] należą do działu etyki; tu są tylko
 	- do weryfikacji: atomizm u Hugona ze św. Wiktora; inspiracja atomizmem w teorii ciepła Grosseteste'a;
 	- brak ustalonych dzieł: Maryniarczyk, Kremer, Libelt, Baader, Liberatore, Zigliara, Jan z Głogowa;
 	- niepewne polskie przekłady: Proklos, Boecjusz („Traktaty teologiczne”), Pico, Kajetan, Grosseteste, Fichte, Malebranche; możliwe przekłady przy Maritainie, Rahnerze, Whiteheadzie („Process and Reality”), Russellu („The Philosophy of Logical Atomism”).
+	- do weryfikacji: czy Stróżewski przypisuje Albertowi Wielkiemu argument „metafizyka to wiedza per se” (obraz w notatce zaczyna się w pół zdania); tytuł Clauberga („quo” czy „quae rectius”);
+	- linki bez notatek docelowych: [[Problem racji dostatecznej]], [[Problem istnienia czegoś raczej niż niczego]], [[Materializm dialektyczny]], [[Ontologia fundamentalna]], [[Realizm umiarkowany]];
+	- [[Sąd egzystencjalny]] i [[Filozofia pierwsza]] – brak w MOC-ach (decyzja użytkownika);
+	- notatki z 17.11.2026 mają callout definicji w starym formacie – do poprawienia.

@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Odmiana neotomizmu XX w., która za centrum metafizyki Tomasza uznaje akt istnienia (esse) i odczytuje Tomasza z jego tekstów, a nie z podręczników.
+> [!note] Definicja 
+>Odmiana neotomizmu XX w., która za centrum metafizyki Tomasza uznaje akt istnienia (esse) i odczytuje Tomasza z jego tekstów, a nie z podręczników.
 
 ## Wspólne tezy
 

@@ -1,5 +1,5 @@
-> [!note] Definicja
-> Stanowisko, według którego świat lub jego części są urządzone celowo, a pełne wyjaśnienie zjawisk przyrody wymaga odwołania się do celów (przyczyn celowych). Synonim: teleologia (gr. telos – cel).
+> [!note] Definicja 
+>Stanowisko, według którego świat lub jego części są urządzone celowo, a pełne wyjaśnienie zjawisk przyrody wymaga odwołania się do celów (przyczyn celowych). Synonim: teleologia (gr. telos – cel).
 
 ## Odmiany
 
