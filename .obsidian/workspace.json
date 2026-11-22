@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f175924c002305d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Berkhof Louis, Podręcznik doktryny chrześcijańskiej"
+            }
+          },
+          {
             "id": "2e313a103979e7d3",
             "type": "leaf",
             "state": {
@@ -77,30 +101,6 @@
               },
               "icon": "lucide-file",
               "title": "Arystoteles"
-            }
-          },
-          {
-            "id": "a488d4aee12b0687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rand Ayn, Introduction to the objectivist epistemology"
             }
           },
           {
@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -300,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Atomy/Realizm skrajny.md",
+                "file": "04 Źródła/Berkhof Louis, Podręcznik doktryny chrześcijańskiej.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -426,10 +426,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f843156100de9ab",
+  "active": "f175924c002305d3",
   "lastOpenFiles": [
-    "07 Language lab/English grammar.md",
+    "Aktualnie opracowywane.md",
     "03 Atomy/Realizm skrajny.md",
+    "Bez nazwy.canvas",
+    "03 Atomy/Realizm.md",
+    "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
+    "07 Language lab/English grammar.md",
     "Gotowanie/Pranie ciemne.md",
     "03 Atomy/Abstrakcja (metoda metafizyki).md",
     "03 Atomy/Tomizm egzystencjalny.md",
@@ -451,9 +455,6 @@
     "03 Atomy/Problem psychofizyczny.md",
     "Stan prac – metafizyka.md",
     "03 Atomy/Wola.md",
-    "05 Osoby/Johann Gottlieb Fichte.md",
-    "05 Osoby/Moritz Schlick.md",
-    "03 Atomy/Epifenomenalizm.md",
     "nazwy_notatek.txt",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
