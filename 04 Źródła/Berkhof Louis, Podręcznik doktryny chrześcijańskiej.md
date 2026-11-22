@@ -620,7 +620,18 @@ Syn w przymierzu
 - Chrystus używał sakramentów Starego i Nowego przymierza. Nie były one dla niego narzędziami wzmocnienia zbawczej wiary, ani symbolami/pieczęciami zbawczej łaski. Najprawdopodobniej były dla niego symbolami przymierza odkupienia i korzystał z nich jako przedstawiciel swego ludu. Mogły też służyć wzmocnieniu Jego wiary, która nie miała zbawczego charakteru, a którą musiał okazywać po stronie swojej ludzkiej natury. 
 
 Wymogi:
-By przyjął ludzką naturę z jej słabościami poprzez urodzenie się z kobiety
+- By przyjął ludzką naturę z jej słabościami, choć bez grzechu, poprzez urodzenie się z kobiety: Gal. 4:4-5, Hebr. 2:10-15, Hebr. 4:15
+- By podporządkował się prawu w celu zapłaty kary za grzech i wysłużenia wiecznego żywota dla wybranych: Ps. 40:8, Mat. 5:17-18, Jan. 8:29, Jan. 9:4-5
+- By zastosował swe zasługi do swego ludu przez odrodzenie go, poprowadzenie do nawrócenia, obdarowanie wiarą i uświęcenie go poprzez moc działania Ducha Świętego, zabezpieczając w ten sposób poświecenie ich żyć Bogu Jan. 16:13-15. Jan. 17:19-22
+
+Obietnice:
+- Ojciec przygotuje dla Syna ciało niezbrukane grzechem (Hebr. 10:5) i namaści Go, obdarowując Duchem ponad miarę, przygotowując go w ten sposób do mesjańskiego urzędu Iz. 42:1-2, Iz. 61:1, Jan. 3:34
+- Wesprze Syna, umożliwiając mu zniszczenie szatana i ustanowienie królestwa Bożego: Iz. 42:6-7, Łuk. 22:43
+- Ocali Syna od władzy śmierci i wywyższy Go u prawicy swojej w niebiosach, powierzając Mu całą władzę w niebie i na ziemi: Ps. 16:8-11, DZ. 2:25-28, Fil. 2:9-11
+- Umożliwi Synowi. w nagrodę za dokonanie odkupienia, posłanie Ducha Świętego dla ustanowienia Jego duchowego ciała poprzez odrodzenie i uświęcenie oraz dla pouczenia przewodnictwa i ochrony Kościoła: Jan. 14:26, Jan. 15:26, Jan. 16:13-14
+- Poprzez działanie Ducha Świętego wszyscy dani Synowi przyjdą do Niego i żaden nie zostanie utracony: Jan. 6:37-45
+- Udział w odkupieniu uzyska niezliczona, niepoliczalna zbiorowość i królestwo Mesjasza obejmie wszystkie narody ziemi: Ps. 22:27, Ps. 72:12
+- Chwała Bożych doskonałości stanie się jawna dla ludzi i aniołów, Bóg zaś odbierze c
 
 ### 3.3.2 Przymierze łaski
 
