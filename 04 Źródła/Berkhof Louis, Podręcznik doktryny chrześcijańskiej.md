@@ -611,6 +611,17 @@ Str. 98 Człowiek w przymierzu uczynków. Nie rozumiem zupełnie. Zaczyna się o
 	- Idea przymierza jest bezpośrednio połączona z mesjaszem: Ps. 89:3, Iz. 42:6
 		- Mesjasz mówi o Bogu jako o swym Bogu, co jest językiem Przymierza Ps. 22:1, Ps. 40:8
 
+Syn w przymierzu
+- Chrystus jest poręczycielem (Hebr. 7:22) i głową przymierza odkupienia. Jako poręczyciel wszedł w miejsce grzesznika i podjął się odpokutowania za grzech, ponosząc właściwą karę za cały swój lud.
+- Dla Chrystusa jest to przymierze uczynków, nie łaski. Do niego stosuje się prawo pierwotnego przymierza tj. że żywot wieczny może być zdobyty tylko poprzez wypełnianie wymogów prawa. 
+- Dzieło Chrystusa w przymierzu jest ograniczone przez elekcję.
+	- Dekret elekcji określa liczbę tych, którzy przeznaczeni są stać się dziedzicami wiecznej chwały w Chrystusie. Przymierze odkupienia przedstawia sposób, w jaki przygotowane są dla grzesznika łaska i chwała. 
+	- Elekcja poprzedza postanowienie odkupienia. Chrystus podejmuje się zbawić tylko tych, których dał Mu Ojciec.
+- Chrystus używał sakramentów Starego i Nowego przymierza. Nie były one dla niego narzędziami wzmocnienia zbawczej wiary, ani symbolami/pieczęciami zbawczej łaski. Najprawdopodobniej były dla niego symbolami przymierza odkupienia i korzystał z nich jako przedstawiciel swego ludu. Mogły też służyć wzmocnieniu Jego wiary, która nie miała zbawczego charakteru, a którą musiał okazywać po stronie swojej ludzkiej natury. 
+
+Wymogi:
+By przyjął ludzką naturę z jej słabościami poprzez urodzenie się z kobiety
+
 ### 3.3.2 Przymierze łaski
 
 
