@@ -631,7 +631,7 @@ Obietnice:
 - Umożliwi Synowi. w nagrodę za dokonanie odkupienia, posłanie Ducha Świętego dla ustanowienia Jego duchowego ciała poprzez odrodzenie i uświęcenie oraz dla pouczenia przewodnictwa i ochrony Kościoła: Jan. 14:26, Jan. 15:26, Jan. 16:13-14
 - Poprzez działanie Ducha Świętego wszyscy dani Synowi przyjdą do Niego i żaden nie zostanie utracony: Jan. 6:37-45
 - Udział w odkupieniu uzyska niezliczona, niepoliczalna zbiorowość i królestwo Mesjasza obejmie wszystkie narody ziemi: Ps. 22:27, Ps. 72:12
-- Chwała Bożych doskonałości stanie się jawna dla ludzi i aniołów, Bóg zaś odbierze c
+- Chwała Bożych doskonałości stanie się jawna dla ludzi i aniołów, Bóg zaś odbierze całą chwałę: Ef. 1:6-14
 
 ### 3.3.2 Przymierze łaski
 
