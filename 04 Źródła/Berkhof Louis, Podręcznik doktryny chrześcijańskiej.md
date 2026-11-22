@@ -584,8 +584,22 @@ Str. 98 Człowiek w przymierzu uczynków. Nie rozumiem zupełnie. Zaczyna się o
 - Grzech osobisty obejmuje czynności zewnętrzne oraz myśli i poruszenia, wynikające z grzechu pierworodnego. 
 - Grzechy niewybaczalne, po których przemiana serca nie jest możliwa i za które "modlić się nie trzeba" (Mat. 12:31-32, Mar. 3:28-30, Łuk. 12:10, Hebr. 4:4-6. Hebr. 10:26-27, I Jana 5:16).
 	- Znane powszechnie jako grzech/bluźnierstwo przeciw Duchowi Świętemu.
-	- Polega na świadomym i dobrowolnym odrzuceniu i obrażeniu prawdy, przeciw wszelkim dowodom oraz wewnętrznemu oświeceniu przez Ducha Świętego, 
-## 3.3 Człowiek w przymierzy łaski
+	- Polega na świadomym i dobrowolnym odrzuceniu i obrażeniu prawdy, przeciw wszelkim dowodom oraz wewnętrznemu oświeceniu przez Ducha Świętego.
+	- Jest niewybaczalny nie dlatego, że łaska Chrystusa jest niewystarczająca, ale dlatego, że to grzech wykluczający jakiekolwiek opamiętanie.
+	- U osób się go dopuszczających objawia się nienawiścią do Boga, zuchwałym stosunkiem do niego oraz w radości z wyśmiewaniu i obrażaniu wszystkiego co święte oraz w braku troski o dobrostan duszy i przyszłe życie.
+- Powszechność grzechu: I Król. 8:46, Ps. 143:2, Przyp. 20:9, Kazn. 7:20, Rzym. 3:1-12, Rzym. 3:19-23, Gal. 3:22, Jak. 3:2, I Jana 1:8-20
+- Grzech jest obecny od narodzin, nie powstaje na skutek naśladownictwa: Ps. 51:5, Job. 14:4, Jan. 3:6
+- Śmierć jako kara za grzech jest wykonywana nawet na tych, którzy nigdy nie dokonali osobistego i świadomego wyboru: Rzym. 5:12-14
+	- Skoro dzieci umierają jako rezultat grzechu pierworodnego, to jest w nich także obecna przyczyna.
+- Wszyscy są skazani na potępienie i potrzebują odkupienia w Chrystusie: Jan. 3:3-5, EF. 2:3, I Jana 5:12
+## 3.3 Człowiek w przymierzu łaski
+
+### 3.3.1 Przymierze odkupienia
+
+- Jest to porozumienie między
+
+### 3.3.2 Przymierze łaski
+
 
 
 # 4. Doktryna osoby i dzieła Chrystusa
