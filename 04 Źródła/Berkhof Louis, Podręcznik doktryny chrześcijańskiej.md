@@ -596,7 +596,20 @@ Str. 98 Człowiek w przymierzu uczynków. Nie rozumiem zupełnie. Zaczyna się o
 
 ### 3.3.1 Przymierze odkupienia
 
-- Jest to porozumienie między
+- Jest to porozumienie między Ojcem jako przedstawicielem Trójcy i Synem, jako przedstawicielem jego ludu. Syn podejmuje się wypełnienia wszystkich zobowiązań postawionych przez Ojca, Ojciec obiecuje zapewnić Synowi wszystkie środki do jego odkupieńczego dzieła.
+- Przymierze odkupienia czyni przymierze łaski możliwym.
+- Przymierze to bywa nazywane pojednaniem (Zach. 6:13)
+	- Plan odkupienia włączony w odwieczny dekret Bożego zamysłu: Ef. 1:4, Ef. 3:11, II Tes. 2:13, II Tym. 1:9, Jak. 2:5, I Piotra 1:2 i inne.
+	- Boży plan zbawienia grzeszników miał postać przymierza.
+		- Chrystus mówi o obietnicach złożonych Mu przed Jego przyjściem, wielokrotnie wspominając o swoim posłannictwie od Ojca: Jan. 5:30, Jan. 5:43, Jan. 6:38-40, Jan. 17:4-12
+		- W Rzym. 5::12-21 i I Kor. 15:22 jest jasno przedstawiony jako głowa przymierza.
+	- Jasno wskazane są strony przymierza, obietnica i warunek:
+		- Strony: Ps. 2-7-9
+		- Obietnica: Dz. 13:33, Hebr. 1:5, Hebr. 5:5, 
+		- Warunek: Ps. 40:7-9, Hebr. 10:5-7, Jan. 6:38-39. Jan. 10:18, Jan. 17:4
+		- Nagroda: Jan. 17:5-6, Jan. 17:9, Jan. 17:24, Fil. 2:9-11
+	- Idea przymierza jest bezpośrednio połączona z mesjaszem: Ps. 89:3, Iz. 42:6
+		- Mesjasz mówi o Bogu jako o swym Bogu, co jest językiem Przymierza Ps. 22:1, Ps. 40:8
 
 ### 3.3.2 Przymierze łaski
 
