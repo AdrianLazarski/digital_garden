@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Atomy/Sąd egzystencjalny.md",
+                "file": "Epistemologia – propozycja list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sąd egzystencjalny"
+              "title": "Epistemologia – propozycja list"
             }
           },
           {
@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stan prac – metafizyka.md",
+                "file": "Epistemologia – propozycja list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -402,15 +402,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7de062e9d88c76c",
+  "active": "f7f27180c2d2902e",
   "lastOpenFiles": [
+    "03 Atomy/Sąd egzystencjalny.md",
+    "Epistemologia – propozycja list.md",
+    "Stan prac – epistemologia.md",
+    "Stan prac – metafizyka.md",
     "Aktualnie opracowywane.md",
     "03 Atomy/Realizm.md",
     "04 Źródła/Nieznański Edward, Elementy filozofii teoretycznej.md",
     "03 Atomy/Pluralizm ontologiczny.md",
     "03 Atomy/Panenteizm.md",
     "03 Atomy/Panteizm.md",
-    "03 Atomy/Sąd egzystencjalny.md",
     "Sofiofilia/Teorie prawdy.md",
     "03 Atomy/Realizm skrajny.md",
     "04 Źródła/Stróżewski Władysław, Ontologia.md",
@@ -428,9 +431,6 @@
     "Bez nazwy.canvas",
     "04 Źródła/Rand Ayn, Introduction to the objectivist epistemology.md",
     "07 Language lab/English grammar.md",
-    "Gotowanie/Pranie ciemne.md",
-    "03 Atomy/Abstrakcja (metoda metafizyki).md",
-    "03 Atomy/Tomizm egzystencjalny.md",
     "nazwy_notatek.txt",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",
