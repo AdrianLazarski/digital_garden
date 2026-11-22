@@ -20,4 +20,12 @@ modified date: 2026-07-27 21:38
 - [[Alkuin z Yorku]]: czczenie Boga według jego przykazań. Wraz z prawdziwą wiedzą daje szczęście.
 - [[Tomasz z Akwinu]]:  "Mądrość - wydaje sądy o wszystkim oraz porządkuje, ponieważ rozważa najwyższe przyczyny."  Super Ethicorum in principio.
 
+## Filozofia pierwsza jako mądrość (według Stróżewskiego)
 
+- [[Filozofia pierwsza]] zasługuje na miano mądrości, bo docieka przyczyn ostatecznych.
+- [[Albert Wielki]] (według Stróżewskiego; atrybucja do weryfikacji): metafizyka jest mądrością, bo jest wiedzą per se, niejako przyczyną samej siebie, której szukamy dla niej samej.
+- [[Tomasz z Akwinu]]: „Wszystkie nauki i sztuki podporządkowane są jednemu, mianowicie doskonałości człowieka, którą jest jego szczęśliwość. Przeto jest rzeczą konieczną, by jedna z nich była kierowniczką innych: tę słusznie nazywamy mądrością. Albowiem mądrość polega na kierowaniu innymi” (In Metaphysicorum, prooemium).
+
+## Źródła
+
+[[Stróżewski Władysław, Ontologia]]

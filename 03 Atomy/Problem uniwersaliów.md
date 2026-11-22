@@ -21,6 +21,13 @@
 - Ajdukiewicz zalicza ten problem do zagadnień metafizycznych wyrastających z refleksji nad poznaniem.
 - Szereg stanowisk układa według rosnącej opozycji wobec „realizmu pojęciowego”: konceptualizm (uniwersalia mają tylko byt pomyślany), nominalizm (nie ma nawet pojęć ogólnych, są tylko nazwy ogólne). Zob. [[Nominalizm#Ujęcie Ajdukiewicza]].
 
+## Ujęcie Krąpca
+
+- Zmysły poznają treści jednostkowe, a rozum abstrahuje z nich cechy konieczne i ogólne.
+- Treści wyabstrahowane, w tym pojęcia uniwersalne, są realne w takiej mierze, w jakiej są przyporządkowane do istnienia.
+- [[Teoria transcendentaliów|Transcendentalia]] nie są uniwersaliami: nie są jednoznacznymi treściami oderwanymi przez intelekt, lecz ujęciami nieoderwanymi od istniejącej rzeczy.
+- Stanowisko bliskie [[Realizm umiarkowany|realizmowi umiarkowanemu]].
+
 ## Historia
 
 - Średniowieczna dyskusja: [[Spór o uniwersalia]].
@@ -28,3 +35,4 @@
 ## Źródła
 
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
+[[Krąpiec Mieczysław Albert OP, Metafizyka]]

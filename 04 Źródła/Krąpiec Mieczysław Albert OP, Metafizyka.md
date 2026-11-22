@@ -41,5 +41,12 @@ Str 106-
 - "Istnienie świata jest pierwsze w naszych poznawczych przeżyciach, i to zarówno w aspekcie genetycznym, jak i strukturalnym."
 - Najpierw poznajemy faktyczność rzeczy, czyli, że coś jest, a dopiero potem to, czym rzecz jest.
 
+## Notatki atomowe – część „Metafizyka”
 
-
+[[Metafizyka]]
+[[Problem możliwości metafizyki]]
+[[Problem punktu wyjścia metafizyki]]
+[[Sąd egzystencjalny]]
+[[Istnienie]]
+[[Teoria transcendentaliów]]
+[[Problem uniwersaliów]]

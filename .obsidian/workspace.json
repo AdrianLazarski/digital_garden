@@ -151,7 +151,8 @@
               "title": "Realizm skrajny"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aktualnie opracowywane.md",
+                "file": "03 Atomy/Realizm skrajny.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -353,10 +354,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3e60a0b1954b720",
+  "active": "7f843156100de9ab",
   "lastOpenFiles": [
-    "03 Atomy/Realizm skrajny.md",
+    "03 Atomy/Filozofia pierwsza.md",
+    "03 Atomy/Sąd egzystencjalny.md",
+    "03 Atomy/Problem możliwości metafizyki.md",
+    "03 Atomy/Problem punktu wyjścia metafizyki.md",
+    "03 Atomy/Zasada racji dostatecznej.md",
+    "03 Atomy/Problem pierwszych zasad.md",
+    "02 MOC/MOC Filozofia/MOC Nurty metafizyki.md",
     "04 Źródła/Stróżewski Władysław, Ontologia.md",
+    "03 Atomy/Realizm skrajny.md",
     "Aktualnie opracowywane.md",
     "03 Atomy/Realizm.md",
     "05 Osoby/Arystoteles.md",
@@ -375,13 +383,6 @@
     "03 Atomy/Finalizm.md",
     "03 Atomy/Mechanicyzm.md",
     "03 Atomy/Problem determinizmu i wolnej woli.md",
-    "03 Atomy/Indeterminizm.md",
-    "03 Atomy/Determinizm.md",
-    "03 Atomy/Monizm neutralny.md",
-    "03 Atomy/Spirytualizm.md",
-    "03 Atomy/Teoria dwóch aspektów.md",
-    "03 Atomy/Paralelizm psychofizyczny.md",
-    "03 Atomy/Interakcjonizm.md",
     "nazwy_notatek.txt",
     "04 Źródła/Niepotwierdzony 938123.crdownload",
     "04 Źródła/The Disorder of Things Metaphysical Foundations of the Disunity of Science (John Dupré).pdf",

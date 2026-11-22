@@ -90,4 +90,17 @@ s. 39-
 	- Zadaniem metafizy­ki jest więc poszukiwanie ostatecznych uzasadnień rzeczywistości, cze­go nie są w stanie spełnić nauki szczegółowe. Poznanie metafizyczne dotyczy bytu, a więc tego, co rzeczywiście istnieje. Poznanie to dokonuje się w aspekcie zasad koniecznych i powszechnych, które są równocześnie ostatecznymi uzasadnieniami bytu jako bytu. Dzięki temu całość rze­czywistości staje się nie tylko zrozumiała, ale i ujęta w sposób zapewniający prawdziwość jej poznania. Punktem wyjścia tego poznania jest potoczne, zdroworozsądkowe doświadczenie świata, które jednak w metafizyce zostaje doprecyzowane i „sproblematyzowane" w taki sposób, że dostrze­żone tu problemy są rzeczywiście najbardziej podstawowe, a rozwiązy­wane być mogą tylko w świetle tzw. pierwszych zasad bytu i myśli: tożsamości, niesprzeczności i przyczynowości.
 
 
+## Notatki atomowe
+
+[[Ontologia]]
+[[Metafizyka]]
+[[Filozofia pierwsza]]
+[[Problem przedmiotu metafizyki]]
+[[Problem pierwszych zasad]]
+[[Zasada racji dostatecznej]]
+[[Problem punktu wyjścia metafizyki]]
+[[Problem możliwości metafizyki]]
+[[Intuicja]]
+[[Mądrość]]
+
 #filozofia #filozofia/współczesna #filozofia/polska #filozofia/metafizyka 

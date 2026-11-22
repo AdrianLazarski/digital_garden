@@ -34,5 +34,11 @@ Akt bytu i racja jego aktualności.
 - [[John Stuart Mill]], [[George Edward Moore]], [[Hans Reichenbach]], [[Leon Gumański]], [[Tadeusz Czeżowski]], [[David Hume]], [[Immanuel Kant]], [[William James]] – istnienie to cecha.
 - [[Gottlob Frege]] - istnienie to cecha, ale nie przedmiotu, a pojęcia.
 
+## Ujęcie Krąpca
 
+- „Istnienie świata jest pierwsze w naszych poznawczych przeżyciach, i to zarówno w aspekcie genetycznym, jak i strukturalnym.” Najpierw poznajemy, że rzecz jest, a dopiero potem, czym jest.
+- Istnienie ujmujemy w sądzie egzystencjalnym („A istnieje”), a nie w pojęciu. Zob. [[Sąd egzystencjalny]], [[Problem punktu wyjścia metafizyki]].
 
+## Źródła
+
+[[Krąpiec Mieczysław Albert OP, Metafizyka]]

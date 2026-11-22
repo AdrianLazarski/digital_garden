@@ -1,3 +1,12 @@
+---
+created: 2026-11-17T21:25
+tags:
+  - filozofia/metafizyka
+  - atom
+dojrzalosc: Sadzonka 🌱
+status_epistemiczny: Spekulatywny ❓
+modified date: 2026-11-22T15:05
+---
 > [!note] Definicja
 > Stanowisko w [[Problem uniwersaliów|problemie uniwersaliów]], według którego powszechniki istnieją realnie, niezależnie od rzeczy jednostkowych i od umysłu (łac. universalia ante rem).
 

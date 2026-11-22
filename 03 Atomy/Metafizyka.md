@@ -18,7 +18,7 @@ modified date: 2026-07-31 20:51
 
 ## Metafizyka czy ontologia?
 
-- [[Christian Wolff]] wprowadził termin ontologia i dla niego dotyczyła ona wszystkiego co możliwe, albo inaczej: wszystkiego co niesprzeczne. Podobnie potem rozumieli tę naukę Claus, brentaniści, Meinong, Husserl.
+- [[Christian Wolff]] upowszechnił termin ontologia (pojawił się wcześniej u Gocleniusa, 1613, i Clauberga, 1656 – zob. [[Ontologia]]) i dla niego dotyczyła ona wszystkiego co możliwe, albo inaczej: wszystkiego co niesprzeczne. Podobnie potem rozumieli tę naukę Claus, brentaniści, Meinong, Husserl.
 - Ingarden będzie używał zarówno pojęcia metafizyka, jak i ontologia. Pierwsza będzie dotyczyła rzeczy rzeczywiście istniejących, a ontologia, po wolffiańsku, rzeczy możliwych.
 - [[Nicolai Hartmann]] też będzie przeciwstawiał metafizykę i ontologię, ale pierwsza to dla niego zbiór problemów dotyczących całokształtu bytu, a druga to nauka o racjonalnych elementach lub stronach bytu.
 - Neoscholastycy zaczną używać tych pojęć wymiennie i tak zostanie do dziś.
@@ -27,6 +27,7 @@ modified date: 2026-07-31 20:51
 ### A może dialektyka?
 
 Hegel i materialiści dialektyczni przeciwstawiają metafizyce dialektykę. Ta pierwsza ujmuje rzeczywistość jako zbiór odrębnych od siebie i niezmiennych bytów, a ta druga zwraca uwagę na wzajemne relacje między bytami.
+- Cztery punkty przeciwstawienia według Stróżewskiego – zob. [[Problem możliwości metafizyki]].
 
 
 ## Ogólne koncepcje metafizyki/ontologii
@@ -118,9 +119,30 @@ Hegel i materialiści dialektyczni przeciwstawiają metafizyce dialektykę. Ta p
 - Zdaniem Ajdukiewicza metafizyka powstała, by znaleźć oparty na rozumowych rozważaniach fundament ocen moralnych i eudajmonicznych; oceny te w konkretnych wypadkach zależą od rozległości naszego horyzontu.
 	- Uwaga krytyczna: teza wątpliwa. U Arystotelesa filozofia pierwsza wyrasta z naturalnego pragnienia wiedzy i ze zdziwienia, a jej przedmiotem są pierwsze przyczyny i zasady (Metafizyka I 1, 980a21; I 2, 982b12–28), nie uzasadnianie ocen.
 
+## Ujęcie Krąpca
+
+- Według Krąpca metafizyka jest „[...] poznaniem uzyskanym przez naturalnie transcendentny rozum (czyli rozum posługujący się powszechnymi zasadami bytu i myślenia) szukający pierwszych i jedynych uniesprzeczniających czynników tego, co istnieje, a co zaczątkowo jest nam dane w empirycznej intuicji świata materialnego” (cyt. za Stróżewskim, s. 39).
+	- Zadaniem metafizyki jest poszukiwanie ostatecznych uzasadnień rzeczywistości, czego nie mogą dać nauki szczegółowe. Poznanie dotyczy bytu, czyli tego, co rzeczywiście istnieje, w aspekcie zasad koniecznych i powszechnych.
+	- Punktem wyjścia jest potoczne doświadczenie świata, które metafizyka doprecyzowuje i „problematyzuje”; problemy rozwiązuje w świetle pierwszych zasad bytu i myśli: tożsamości, niesprzeczności i przyczynowości. Zob. [[Problem pierwszych zasad]], [[Problem punktu wyjścia metafizyki]].
+- Nazwy zastępcze („ontologia”, „teodycea”, „logika”, „dialektyka”) są według Krąpca wyrazem apriorycznego nastawienia poznawczego, a próby wyrugowania nazwy „metafizyka” potwierdzają doniosłość jej zagadnień (Metafizyka, s. 27). Zob. [[Problem możliwości metafizyki]].
+- Metafizyka wyrasta z poznania przednaukowego i posługuje się językiem naturalnym. Zob. [[Sąd egzystencjalny]].
+
+## Ujęcie Stróżewskiego
+
+- Przedrostek „meta” interpretowano w dwóch kierunkach: jako to, co uniwersalne, i jako to, co niematerialne.
+- Stróżewski stawia hipotezę, że nie jest przypadkiem, iż „ontologia” zaczęła wypierać „metafizykę”, gdy umierała teoria nieruchomych poruszycieli, a nauka znalazła jedno prawo tłumaczące zarówno spadanie jabłka, jak i ruchy planet.
+- Koncepcje metafizyki:
+	- [[Immanuel Kant]] – poznanie a priori, z czystego rozumu; to, co z empirii, należy do fizyki, a co z doświadczenia wewnętrznego – do psychologii;
+	- [[Gottfried Leibniz]] – poszukiwanie racji dostatecznej (zob. [[Zasada racji dostatecznej]]);
+	- [[Henri Bergson]] – „Metafizyka jest więc nauką, która twierdzi, że obchodzi się bez symboli”; ujmuje rzeczywistość absolutną w intuicji, a nie przez analizę (zob. [[Intuicja#Bergson według Stróżewskiego]]).
+- Historyczna nazwa dyscypliny: [[Filozofia pierwsza]].
+- Krytyka metafizyki (Hume, Kant, Carnap, marksizm, Heidegger): zob. [[Problem możliwości metafizyki]].
+
 ## Źródła
 
 [[Ajdukiewicz Kazimierz, Zagadnienia i kierunki filozofii]]
+[[Krąpiec Mieczysław Albert OP, Metafizyka]]
+[[Stróżewski Władysław, Ontologia]]
 
 ## Bibliografia
 

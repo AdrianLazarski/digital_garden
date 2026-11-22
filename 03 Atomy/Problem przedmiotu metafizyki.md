@@ -20,3 +20,15 @@ modified date: 2026-11-15T14:54
 ## Odpowiedzi
 
 - [[Metafizyka klasyczna]] – ujęcie tomistów (szkoła lubelska): byt jako byt; w wersji egzystencjalnej ujmowany przez [[Separacja|separację]].
+- Według typologii Stróżewskiego (racje nazwy [[Filozofia pierwsza|filozofii pierwszej]]) przedmiotem bywa:
+	- arché lub ousia;
+	- byt jako byt (Arystoteles, Metafizyka IV 1, 1003a21–32; VI 1, 1026a27–32);
+	- świadomość – byt poznawany najpewniej, w którego świetle poznaje się resztę ([[Kartezjusz]], który mówił jednak o myśleniu, umyśle, rzeczy myślącej i duszy, nie o „świadomości”; [[Edmund Husserl]]);
+	- język – medium, bez którego poznanie rzeczywistości jest niemożliwe;
+	- u [[Georg Wilhelm Friedrich Hegel|Hegla]] – czysty byt i Nic: początek zawiera oba momenty, bo bez „nie jest” nic nie mogłoby się zacząć.
+- Inne koncepcje (według Stróżewskiego): [[Immanuel Kant|Kant]] – poznanie a priori z czystego rozumu; [[Gottfried Leibniz|Leibniz]] – racja dostateczna ([[Zasada racji dostatecznej]]); [[Henri Bergson|Bergson]] – trwanie ujmowane w intuicji, bez symboli.
+- Spór o to, czy metafizyka w ogóle jest możliwa: [[Problem możliwości metafizyki]]. Skąd wychodzi poznanie metafizyczne: [[Problem punktu wyjścia metafizyki]].
+
+## Źródła
+
+[[Stróżewski Władysław, Ontologia]]
