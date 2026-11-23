@@ -90,7 +90,7 @@ Część metafizyczna jest już zrobiona (sekcje „Ujęcie Nieznańskiego” w 
 
 ## Sprawy otwarte
 
-- [[Intuicjonizm]] opisuje intuicjonizm matematyczny – dla Bergsona nowa notatka z określnikiem.
+- Dwie notatki „Intuicjonizm” (03 Atomy: matematyczny; 01 Input/!!Random: epistemologiczny) – dla epistemologii nowa notatka z określnikiem albo przejęcie treści z 01 Input (decyzja Twoja).
 - [[Konwencjonalizm]] – jedyny przedstawiciel: sofiści (do Twojej decyzji).
 - [[Koherencyjna teoria prawdy]] miesza trzy koncepcje nieklasyczne – po utworzeniu nowych notatek decyzja, czy przenosisz tekst.
 - [[Epistemologia]] – brak źródła (Judycki?) i Harman na liście przedstawicieli koncepcji semantycznej.

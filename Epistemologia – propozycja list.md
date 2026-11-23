@@ -214,7 +214,6 @@ Proponowana treść „MOC Epistemologia” (pod frontmatterem). Obecna płaska 
 [[Zdrowy rozsądek]]
 [[Zjawisko]]
 ```
-
 ## 3. MOC Problemy epistemologiczne
 
 40 pozycji, z tego 2 ma już notatki.
@@ -261,7 +260,6 @@ Proponowana treść „MOC Epistemologia” (pod frontmatterem). Obecna płaska 
 [[Problem zamknięcia epistemicznego]]
 [[Problem źródeł poznania]]
 ```
-
 ## 4. MOC Teorie epistemologiczne
 
 76 pozycji, z tego 21 ma już notatki.
@@ -349,7 +347,6 @@ Proponowana treść „MOC Epistemologia” (pod frontmatterem). Obecna płaska 
 [[Teorie prawdy]]
 [[Weryfikacjonizm]]
 ```
-
 ## 5. MOC Epistemolodzy
 
 260 pozycji, z tego 145 ma już notatki. Nowe osoby dopisuję do listy, notatek osób nie tworzę. Obecnych pięć pozycji z MOC Epistemolodzy jest w środku.
@@ -638,7 +635,6 @@ Proponowana treść „MOC Epistemologia” (pod frontmatterem). Obecna płaska 
 ```
 # 2. Alfabetycznie
 
-[[Willard Van Orman Quine|Quine Willard Van Orman]]
 [[Piotr Abelard|Abelard Piotr]]
 [[Agryppa Sceptyk]]
 [[Piotr d'Ailly|Ailly Piotr d']]
@@ -843,6 +839,7 @@ Proponowana treść „MOC Epistemologia” (pod frontmatterem). Obecna płaska 
 [[Protagoras]]
 [[Hilary Putnam|Putnam Hilary]]
 [[Pyrron z Elidy]]
+[[Willard Van Orman Quine|Quine Willard Van Orman]]
 [[Hans Reichenbach|Reichenbach Hans]]
 [[Thomas Reid|Reid Thomas]]
 [[Karl Leonhard Reinhold|Reinhold Karl Leonhard]]
@@ -899,7 +896,6 @@ Proponowana treść „MOC Epistemologia” (pod frontmatterem). Obecna płaska 
 [[Zenon z Kition]]
 [[Renata Ziemińska|Ziemińska Renata]]
 ```
-
 ## 6. MOC Dzieła epistemologiczne
 
 169 pozycji, z tego 9 ma już notatki. Twoje sekcje „# Książki”, „# Artykuły” i „# Wykłady” zostają na górze bez zmian (jak w MOC Dzieła metafizyczne); poniższe sekcje epok dopisuję pod nimi. Tytuły dzieł wspólnych z metafizyką mają te same nazwy co w MOC Dzieła metafizyczne.
@@ -1109,7 +1105,7 @@ Proponowana treść „MOC Epistemologia” (pod frontmatterem). Obecna płaska 
 
 ### Rozbieżności i rzeczy do sprawdzenia
 
-- [[Intuicjonizm]] opisuje intuicjonizm matematyczny (Brouwer). Bergsonowski intuicjonizm Nieznańskiego dostaje [[Intuicjonizm (epistemologia)]].
+- W sejfie są **dwie notatki „Intuicjonizm”**: w „03 Atomy” (intuicjonizm matematyczny, Brouwer) i w „01 Input/!!Random” (intuicjonizm jako prąd epistemologiczny, pięć znaczeń, m.in. Bergson). Link [[Intuicjonizm]] jest przez to niejednoznaczny. Proponowana [[Intuicjonizm (epistemologia)]] mogłaby przejąć treść notatki z 01 Input – nazw plików nie zmieniam, decyzja Twoja.
 - [[Konwencjonalizm]] ma jako jedynego przedstawiciela [[Sofiści|sofistów]]; Ajdukiewicz omawia konwencjonalizm Poincarégo – dopiszę sekcję, sofistów nie ruszam.
 - [[Koherencyjna teoria prawdy]] zawiera też „powszechną zgodę” i „oczywistość”, które u Ajdukiewicza są osobnymi koncepcjami nieklasycznymi. Proponuję nowe [[Konsensualna teoria prawdy]] i [[Ewidencyjna teoria prawdy]] (nazwa do weryfikacji) z odsyłaczem; tekstu w Koherencyjnej nie usuwam.
 - [[Fenomenalizm]] (Twoja definicja: Mill, Ayer) ≠ „fenomenalizm” Nieznańskiego (Kant, Bradley: rzeczy istnieją, ale są niepoznawalne). Dopiszę jako „Ujęcie Nieznańskiego”, z wyraźnym zaznaczeniem różnicy.

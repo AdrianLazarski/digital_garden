@@ -152,30 +152,6 @@
             }
           },
           {
-            "id": "f7f27180c2d2902e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epistemologia – propozycja list.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Epistemologia – propozycja list"
-            }
-          },
-          {
             "id": "d7de062e9d88c76c",
             "type": "leaf",
             "state": {
@@ -276,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Epistemologia – propozycja list.md",
+                "file": "Stan prac – metafizyka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -402,10 +378,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7f27180c2d2902e",
+  "active": "d7de062e9d88c76c",
   "lastOpenFiles": [
-    "03 Atomy/Sąd egzystencjalny.md",
     "Epistemologia – propozycja list.md",
+    "03 Atomy/Sąd egzystencjalny.md",
     "Stan prac – epistemologia.md",
     "Stan prac – metafizyka.md",
     "Aktualnie opracowywane.md",
