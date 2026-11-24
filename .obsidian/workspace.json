@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "Stan prac – metafizyka"
             }
+          },
+          {
+            "id": "1aee34b3d52662db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Language lab/English grammar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "English grammar"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -252,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stan prac – metafizyka.md",
+                "file": "07 Language lab/English grammar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,10 +402,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7de062e9d88c76c",
+  "active": "1aee34b3d52662db",
   "lastOpenFiles": [
-    "07 Language lab/English grammar.md",
     "Stan prac – metafizyka.md",
+    "07 Language lab/English grammar.md",
     "Epistemologia – propozycja list.md",
     "03 Atomy/Sąd egzystencjalny.md",
     "Stan prac – epistemologia.md",
